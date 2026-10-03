@@ -1,0 +1,61 @@
+{
+ "ranAt": "2026-10-03T19:27:42.792Z",
+ "openaiKeySet": true,
+ "ncbiKeySet": false,
+ "hosts": [
+  {
+   "host": "www.ebi.ac.uk",
+   "url": "https://www.ebi.ac.uk/gene2phenotype/api/panels/",
+   "status": 200,
+   "reachable": true
+  },
+  {
+   "host": "ftp.ebi.ac.uk",
+   "url": "https://ftp.ebi.ac.uk/pub/databases/gene2phenotype/README",
+   "status": 200,
+   "reachable": true
+  },
+  {
+   "host": "purl.obolibrary.org",
+   "url": "https://purl.obolibrary.org/obo/hp/hpoa/phenotype.hpoa",
+   "status": 302,
+   "reachable": true
+  },
+  {
+   "host": "github.com",
+   "url": "https://github.com/obophenotype/human-phenotype-ontology/releases/latest",
+   "status": 302,
+   "reachable": true
+  },
+  {
+   "host": "raw.githubusercontent.com",
+   "url": "https://raw.githubusercontent.com/obophenotype/human-phenotype-ontology/master/README.md",
+   "status": 200,
+   "reachable": true
+  },
+  {
+   "host": "clinicaltrials.gov",
+   "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=Dravet%20syndrome&pageSize=1",
+   "status": 200,
+   "reachable": true
+  },
+  {
+   "host": "api.reporter.nih.gov",
+   "url": "https://api.reporter.nih.gov/v2/projects/search",
+   "status": 200,
+   "reachable": true
+  },
+  {
+   "host": "eutils.ncbi.nlm.nih.gov",
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=SCN1A&retmax=1&retmode=json&tool=slipstream",
+   "status": 200,
+   "reachable": true
+  },
+  {
+   "host": "api.openai.com",
+   "url": "https://api.openai.com/v1/models",
+   "status": 200,
+   "reachable": true
+  }
+ ]
+}

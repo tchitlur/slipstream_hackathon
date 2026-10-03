@@ -10,8 +10,8 @@ The human fills these in before starting. Every field has a default, so a blank 
 
 | Field | Value | If blank |
 |---|---|---|
-| Submission deadline (date, time, timezone) | | Assume 16 hours from session start and work in the priority order in section 14 |
-| Team members and one-line backgrounds | | Leave `[TEAM]` placeholders in the video scripts |
+| Submission deadline (date, time, timezone) | Due at 6am EST october 4th | Assume 16 hours from session start and work in the priority order in section 14 |
+| Team members and one-line backgrounds | Tanay Chitlur Computer Science & Biomedicine |
 | Contact email for NCBI requests | | Omit the `email` parameter |
 | NCBI API key (optional, free) | set as `NCBI_API_KEY` in the environment | Stay under 3 requests per second |
 | Preferred demo disease or gene | | Choose from the data (section 9.6) |

@@ -1,0 +1,51 @@
+{
+  "name": "slipstream",
+  "version": "0.1.0",
+  "private": true,
+  "engines": { "node": ">=20 <23" },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "test": "vitest run",
+    "check": "npm run typecheck && npm run lint && npm run test && npm run data:validate",
+    "data:probe": "tsx pipeline/00_probe.ts",
+    "data:mechanism": "tsx pipeline/01_mechanism.ts",
+    "data:phenotypes": "tsx pipeline/02_phenotypes.ts",
+    "data:similarity": "tsx pipeline/03_similarity.ts",
+    "data:literature": "tsx pipeline/04_literature.ts",
+    "data:studies": "tsx pipeline/05_studies.ts",
+    "data:reconcile": "tsx pipeline/06_reconcile.ts",
+    "data:orgs": "tsx pipeline/07_orgs.ts",
+    "data:funding": "tsx pipeline/08_funding.ts",
+    "data:analytics": "tsx pipeline/09_analytics.ts",
+    "data:briefs": "tsx pipeline/10_briefs.ts",
+    "data:validate": "tsx pipeline/99_validate.ts",
+    "data:build": "tsx pipeline/build.ts"
+  },
+  "dependencies": {
+    "graphology": "^0.26.0",
+    "graphology-communities-louvain": "^2.0.2",
+    "graphology-layout-forceatlas2": "^0.10.1",
+    "minisearch": "^7.1.0",
+    "next": "16.3.8",
+    "openai": "^6.0.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.8",
+    "tailwindcss": "^4",
+    "tsx": "^4.19.0",
+    "typescript": "^5",
+    "vitest": "^3.2.0"
+  }
+}
