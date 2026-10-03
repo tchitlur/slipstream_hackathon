@@ -58,11 +58,11 @@ export function MapCanvas({ nodes, edges, clusters }: { nodes: MapNode[]; edges:
     }
     for (const n of nodes) {
       const { px, py } = proj(n.x, n.y);
-      const r = n.depth === "deep" ? 5 : 3;
+      const r = n.depth === "deep" ? 5 : 2.2;
       ctx.beginPath();
       ctx.arc(px, py, r, 0, Math.PI * 2);
       ctx.fillStyle = n.color;
-      ctx.globalAlpha = n.depth === "deep" ? 0.95 : 0.35;
+      ctx.globalAlpha = n.depth === "deep" ? 0.95 : 0.28;
       ctx.fill();
       ctx.globalAlpha = 1;
       if (hover?.id === n.id || nodes[focusIdx]?.id === n.id) {
