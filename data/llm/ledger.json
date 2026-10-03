@@ -1,5 +1,5 @@
 {
- "totalUsd": 3.330942,
+ "totalUsd": 3.3322875,
  "byStage": {
   "S5": {
    "calls": 599,
@@ -11,30 +11,30 @@
   },
   "S4": {
    "calls": 909,
-   "cachedCalls": 3435,
+   "cachedCalls": 4322,
    "inputTokens": 674479,
    "outputTokens": 162807,
    "usd": 1.9203992500000007,
    "model": "gpt-5.4"
   },
   "S6": {
-   "calls": 159,
-   "cachedCalls": 157,
-   "inputTokens": 56761,
-   "outputTokens": 12474,
-   "usd": 0.09870374999999998,
+   "calls": 160,
+   "cachedCalls": 316,
+   "inputTokens": 57949,
+   "outputTokens": 12575,
+   "usd": 0.10004924999999998,
    "model": "gpt-5.4-mini"
   },
   "S10": {
    "calls": 6,
-   "cachedCalls": 0,
+   "cachedCalls": 3,
    "inputTokens": 22418,
    "outputTokens": 13792,
    "usd": 0.262925,
    "model": "gpt-5.4"
   }
  },
- "updatedAt": "2026-10-03T20:39:16.945Z",
+ "updatedAt": "2026-10-03T20:42:50.493Z",
  "models": {
   "T2": "gpt-5.4-mini",
   "T1": "gpt-5.4",

@@ -1,5 +1,5 @@
 {
- "builtAt": "2026-10-03T20:39:17.012Z",
+ "builtAt": "2026-10-03T20:42:50.503Z",
  "sources": {
   "g2p": {
    "url": "https://ftp.ebi.ac.uk/pub/databases/gene2phenotype/G2P_data_downloads/2026_09_28/DDG2P_2026-09-28.csv.gz",
@@ -26,7 +26,7 @@
   },
   "pubmed": {
    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils",
-   "retrievedAt": "2026-10-03T20:20:38.744Z"
+   "retrievedAt": "2026-10-03T20:42:35.150Z"
   },
   "reporter": {
    "url": "https://api.reporter.nih.gov/v2/projects/search",
@@ -64,7 +64,7 @@
   "clusters": 351,
   "layoutEdges": 13556,
   "demoCandidates": 3,
-  "contestedMechanisms": 18,
+  "contestedMechanisms": 36,
   "bridges": 66,
   "milestone1_found_deep": 79,
   "milestone2_found_deep": 61,
@@ -87,11 +87,11 @@
   "patientOrgsVerified": 0,
   "patientOrgsWithRegistry": 31,
   "conditionsWithOrg": 71,
-  "reconciliationDecisions": 707,
+  "reconciliationDecisions": 708,
   "reconcile_gene": 51,
   "reconcile_exact": 361,
   "reconcile_normalized": 9,
-  "reconcile_none": 213,
+  "reconcile_none": 214,
   "reconcile_llm": 73,
   "studiesRefinedByReconciliation": 0,
   "conditionsWithSingleDissent": 11,
@@ -114,7 +114,7 @@
   "contestedMinPapers": 2
  },
  "llm": {
-  "spendUsd": 3.330942,
+  "spendUsd": 3.3322875,
   "byStage": {
    "S5": {
     "calls": 599,
@@ -129,10 +129,10 @@
     "usd": 1.9203992500000007
    },
    "S6": {
-    "calls": 159,
-    "inputTokens": 56761,
-    "outputTokens": 12474,
-    "usd": 0.09870374999999998
+    "calls": 160,
+    "inputTokens": 57949,
+    "outputTokens": 12575,
+    "usd": 0.10004924999999998
    },
    "S10": {
     "calls": 6,
@@ -143,7 +143,7 @@
   },
   "models": {
    "T2": "gpt-5.4-mini",
-   "T1": "gpt-5.4",
+   "T1": "gpt-5.4-mini",
    "T3": "gpt-5.4-mini",
    "T4": "gpt-5.4"
   }
@@ -217,5 +217,5 @@
  ],
  "genesDropped": [],
  "notes": [],
- "gitCommit": "79a9559"
+ "gitCommit": "d5e2b53"
 }

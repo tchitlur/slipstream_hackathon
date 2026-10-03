@@ -133,7 +133,7 @@ async function main() {
     m.counts.studiesRefinedByReconciliation = refined;
     m.llm.spendUsd = l.totalUsd;
     m.llm.byStage = Object.fromEntries(Object.entries(l.byStage).map(([k, v]) => [k, { calls: v.calls, inputTokens: v.inputTokens, outputTokens: v.outputTokens, usd: v.usd }]));
-    m.llm.models = { ...m.llm.models, ...l.models };
+    m.llm.models = { ...l.models, ...m.llm.models };
   });
   log("S6", `decisions by method ${JSON.stringify(methods)}; ${refined} studies narrowed to specific conditions; spend $${l.totalUsd.toFixed(3)}`);
 }
