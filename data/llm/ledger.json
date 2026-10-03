@@ -1,0 +1,17 @@
+{
+ "totalUsd": 0.8386399999999999,
+ "byStage": {
+  "S5": {
+   "calls": 133,
+   "cachedCalls": 39,
+   "inputTokens": 173918,
+   "outputTokens": 26923,
+   "usd": 0.8386399999999999,
+   "model": "gpt-5.4-mini"
+  }
+ },
+ "updatedAt": "2026-10-03T19:39:20.332Z",
+ "models": {
+  "T2": "gpt-5.4-mini"
+ }
+}

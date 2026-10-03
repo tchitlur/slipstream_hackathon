@@ -1,69 +1,53 @@
-import Image from "next/image";
+import Link from "next/link";
+import { SearchBox } from "@/components/SearchBox";
+import { getStore, getDemoCandidates, getCondition, conditionHref } from "@/lib/data";
+import { RoadDot } from "@/components/Badges";
+import { roadById } from "@/lib/roads";
 
 export default function Home() {
+  const store = getStore();
+  const m = store.manifest;
+  const demo = getDemoCandidates().slice(0, 3);
+  const fallback = store.atlas.conditions.filter((c) => c.depth === "deep").slice(0, 3);
+  const examples = demo.length
+    ? demo.map((d) => ({ c: getCondition(d.conditionId)!, nb: getCondition(d.neighborId), reason: d.reason }))
+    : fallback.map((c) => ({ c, nb: undefined, reason: "" }));
+  const deep = store.atlas.conditions.filter((c) => c.depth === "deep").length;
+  const shallow = store.atlas.conditions.length - deep;
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
+    <div className="max-w-3xl mx-auto pt-10 sm:pt-20 space-y-10">
+      <div className="space-y-4 text-center">
+        <h1 className="text-4xl sm:text-5xl leading-tight">Which community is further along your road?</h1>
+        <p className="text-ink-2 text-lg max-w-2xl mx-auto">
+          Type a gene or a diagnosis. Slipstream shows which rare-disease communities break the same way, which ones only look alike, what you can borrow from them, and what you must not.
+        </p>
+      </div>
+      <SearchBox autoFocus />
+      <div>
+        <div className="text-xs uppercase tracking-wide text-muted mb-2">Examples</div>
+        <ul className="grid gap-2 sm:grid-cols-3">
+          {examples.map(({ c, nb }) => (
+            <li key={c.id}>
+              <Link href={conditionHref(c.id)} className="block border border-line rounded-md p-3 bg-white/50 hover:bg-white h-full">
+                <div className="flex items-center gap-2 font-medium">
+                  <RoadDot roadId={c.roadId} /> {c.geneSymbol}
+                </div>
+                <div className="text-sm text-ink-2 leading-snug">{c.name}</div>
+                <div className="text-xs text-muted mt-1">{roadById(c.roadId)?.label}</div>
+                {nb && <div className="text-xs text-accent mt-1">neighbor ahead: {nb.geneSymbol}</div>}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </div>
+      <p className="text-sm text-muted text-center">
+        Covers {deep} conditions across {store.atlas.genes.filter((g) => g.depth === "deep").length} genes in developmental and epileptic encephalopathies and related disorders in depth
+        {shallow > 0 ? `, plus ${shallow} conditions from the Gene2Phenotype developmental disorders panel at mechanism-and-symptoms depth` : ""}. Built {m?.builtAt?.slice(0, 10) ?? "—"} from Gene2Phenotype, the Human Phenotype Ontology, ClinicalTrials.gov, NIH RePORTER and PubMed.{" "}
+        <Link href="/method" className="underline">
+          How it works
+        </Link>
+      </p>
     </div>
   );
 }

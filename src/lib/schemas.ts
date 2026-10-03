@@ -87,6 +87,8 @@ export const ConditionSchema = z.object({
   roadId: z.string(),
   depth: Depth,
   publications: z.array(z.string()),
+  /** HPO terms curated on the G2P record itself (may be empty). */
+  curatedPhenotypeIds: z.array(z.string()).default([]),
   evidenceIds: z.array(z.string()).min(1),
   phenotypeMatch: z.object({
     method: PhenotypeMatchMethod,
@@ -111,6 +113,8 @@ export const GeneSchema = z.object({
   aliases: z.array(z.string()),
   conditionIds: z.array(z.string()),
   depth: Depth,
+  /** Disease names annotated to this gene in HPO (used for visible synonym resolution). */
+  hpoDiseaseNames: z.array(z.object({ id: z.string(), name: z.string() })).default([]),
 });
 export type Gene = z.infer<typeof GeneSchema>;
 
@@ -176,6 +180,9 @@ export const NeighborSchema = z.object({
   relation: MechanismRelation.optional(),
   aheadOn: z.array(z.number().int()).optional(),
   sharedInvestigatorIds: z.array(z.string()).optional(),
+  sameGene: z.boolean().optional(),
+  /** Number of terms in the intersection of the ancestor-closed sets. */
+  sharedCount: z.number().int().optional(),
   evidenceIds: z.array(z.string()).min(1),
 });
 export type Neighbor = z.infer<typeof NeighborSchema>;
@@ -232,6 +239,8 @@ export const StudySchema = z.object({
   officials: z.array(z.object({ name: z.string(), affiliation: z.string().optional(), role: z.string().optional() })),
   startDate: z.string().optional(),
   enrollment: z.number().optional(),
+  /** First part of the eligibility text, shown for R7 so families can ask the study team. */
+  eligibilityExcerpt: z.string().optional(),
   /** Which condition IDs this study was retrieved for and how. */
   hits: z.array(z.object({ conditionId: z.string(), via: z.enum(["cond", "term"]), query: z.string() })),
   conditionIds: z.array(z.string()),
@@ -240,7 +249,7 @@ export const StudySchema = z.object({
   retrievedAt: z.string(),
 });
 export type Study = z.infer<typeof StudySchema>;
-export const StudiesFileSchema = z.object({ studies: z.record(z.string(), StudySchema) });
+export const StudiesFileSchema = z.object({ genesSearched: z.array(z.string()).default([]), studies: z.record(z.string(), StudySchema) });
 
 export const PaperSchema = z.object({
   pmid: z.string(),
@@ -291,7 +300,7 @@ export const GrantSchema = z.object({
   url: z.string(),
 });
 export type Grant = z.infer<typeof GrantSchema>;
-export const FundingFileSchema = z.object({ grants: z.record(z.string(), GrantSchema) });
+export const FundingFileSchema = z.object({ genesSearched: z.array(z.string()).default([]), grants: z.record(z.string(), GrantSchema) });
 
 export const InvestigatorSchema = z.object({
   id: z.string().regex(/^inv:/),
