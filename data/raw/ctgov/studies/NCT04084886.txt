@@ -1,0 +1,19 @@
+Title: TCF7L2 Gene Polymorphism and AGEs in Diabetic Nephropathy
+Official title: Transcription Factor 7 Like 2 Gene Polymorphism and Advanced Glycation End Products as Risk Factors for Diabetic Nephropathy
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Diabetic Nephropathies
+Interventions: none
+Summary: 1. To study genotypic distribution of the TCF7L2 gene polymorphism in Diabetic nephropathy.
+2. To assess level of AGEs and Insulin in patients with Diabetic nephropathy.
+3. To study correlation between polymorphism of the TCF7L2 gene, AGEs, Insulin and clinical characteristics in patients with diabetic nephropathy
+Eligibility: Inclusion Criteria:
+
+* diabetic nephropathy
+* clinical diagnosis of prediabetes
+* Type 2 diabetic patients
+
+Exclusion Criteria:
+
+* cardiovascular disease
+* diabetic neuropathy
+* diabetic retinopathy

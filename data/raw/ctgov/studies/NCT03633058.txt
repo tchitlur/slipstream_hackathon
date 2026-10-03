@@ -1,0 +1,18 @@
+Title: A Study to Evaluate Ketamine for the Treatment of Rett Syndrome
+Official title: A Randomized, Double-blind, Placebo-controlled, Cross-over Study to Assess the Safety, Tolerability and Efficacy of Oral Ketamine for Patients With Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Rett Syndrome
+Interventions: Ketamine (DRUG)
+Summary: This 2 cohort, sequential, ascending dose study will assess the safety, tolerability and efficacy of oral ketamine dosed in a single 5-day BID regimen in addition to placebo, in a 4-week cross-over design in patients with Rett Syndrome. Approximately 12 patients per cohort are anticipated to participate for approximately 8-10 weeks at approximately 7 US study centers.
+Eligibility: Inclusion Criteria:
+
+* Female Rett Syndrome patients diagnosed with Rett Syndrome with a confirmed MECP2 mutation
+* between the ages of 6 and 12, inclusive, who have not achieved menarche
+* ability to take oral medications
+* are generally healthy.
+
+Exclusion Criteria:
+
+* Patients not on stable medication regimens/other types of behavioral, educational, or dietary interventions for at least 4 weeks,
+* are taking medications that may interact with ketamine,
+* have a condition where increased blood pressure, spinal fluid pressure, or ocular pressure may put the patient at increased risk.

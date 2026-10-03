@@ -1,0 +1,22 @@
+Title: Ketogenic Diet for Prevention of Epileptic Spasms in Infantile Onset Genetic Epilepsies
+Official title: Phase 1 Study of Ketogenic Diet for Prevention of Epileptic Spasms in Infantile Onset Genetic Epilepsies
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Developmental and Epileptic Encephalopathies; Epileptic Spasms; Genetic Epilepsy; Neonatal and Infant Epilepsy
+Interventions: Ketogenic diet (DRUG)
+Summary: Epileptic spasms (ES) are a predominantly infantile seizure type observed frequently in certain genetic disorders. Ketogenic diet (high ratio of fat to carbohydrate/protein) is an established non-medication treatment for difficult to control seizures, including ES. Because ES are associated with worse developmental and cognitive outcomes if not detected or treated quickly and effectively, this trial aims to test the ketogenic diet to prevent ES in this high-risk population. This trial is a single-center pilot study of 10 infants with suspected or confirmed genetic seizure disorders to establish if the protocol of early ketogenic diet administration and ES evaluation is safe and feasible.
+Eligibility: Inclusion Criteria:
+
+* Plan for initiation of ketogenic diet by clinical team for treatment of epilepsy
+* The clinical team initiating the ketogenic diet agrees that the use of the KetoVie formula is appropriate for the subject, as all study subjects need to receive the same formula
+* Male or female, age 0 to less than 9 months (including neonates per investigator's judgment)
+* Epilepsy onset at less than 6 months of age
+* Abnormal development (any sub score of the Bayley-4 less than 1 standard deviation below the mean) and/or neurologic exam (microcephaly, macrocephaly, strabismus, abnormal vision/CVI, hypotonia, spasticity, dystonia, movement disorder), per investigators judgment
+* Suspected or confirmed genetic diagnosis as a cause for epilepsy
+* Weight adequate to complete required study laboratory testing without exceeding maximum allowable blood draws per draw or in a 30 day period per BCH policy
+
+Exclusion Criteria:
+
+* Epileptic spams prior to enrollment
+* Tuberous sclerosis complex, trisomy 21 (based on differential response to ES treatment)
+* Metabolic diagnosis with targeted treatment (including specific indication for ketogenic diet such as glucose transporter disorder, vitamin dependent epilepsies, and others) or exclusion for the ketogenic diet
+* Ongoing treatment with vigabatrin, ACTH, corticosteroids, topiramate or zonisamide. Other anti-seizure medications are permitted.

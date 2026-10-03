@@ -1,0 +1,18 @@
+Title: Community-led Strategy to Reduce Cardiovascular Disease Risk Among Conflict-affected Populations
+Official title: Impact of a Community Health Worker Care Model to Reduce Cardiovascular Disease Risk Among Conflict-affected Populations in Eastern Myanmar: a Cluster Randomized Controlled Trial (cRCT)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Cardiovascular Diseases; Hypertension; Diabetes
+Interventions: Village Health Worker (VHW) Care Model (BEHAVIORAL)
+Summary: The goal of this study is to test a village health worker (VHW) based care model to reduce cardiovascular risk among adults in areas of eastern Myanmar affected by armed conflict. All individuals aged 40 years and above will be invited to participate in this study. Participants will be checked whether they have a history of cardiovascular disease, diabetes (high blood sugar), high blood pressure or risk of developing cardiovascular disease by asking for medical history, measuring blood pressure, weight and height, and blood glucose if necessary. The main question the study aims to answer is:
+
+Does villagers residing in the VHW supported villages have their blood pressure controlled, adherent to therapy and subsequently reduce the risk of developing cardiovascular disease after 5 months of monthly VHW home visits?
+Eligibility: Inclusion criteria
+
+* Aged 40 years or older
+* Current resident of study villages
+* No previous history of screening during the feasibility study a year ago
+* At least one CVD risk factor
+
+Exclusion criteria
+
+\- Currently pregnant or within three months postpartum

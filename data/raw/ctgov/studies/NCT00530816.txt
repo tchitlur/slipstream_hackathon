@@ -1,0 +1,39 @@
+Title: Phase 2 Study of Carfilzomib in Relapsed Multiple Myeloma
+Official title: An Open-label, Single-arm, Phase 2 Study of Carfilzomib in Patients With Relapsed or Refractory Multiple Myeloma
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Multiple Myeloma
+Interventions: carfilzomib (DRUG)
+Summary: To evaluate the best overall response rate, safety and tolerability of carfilzomib in patients with relapsed or refractory multiple myeloma.
+Eligibility: Inclusion Criteria:
+
+Disease Related
+
+* Multiple myeloma
+* Subjects must have measurable disease, defined as one or more of the following:
+
+  * Serum M-protein ≥ 1 g/dL
+  * Urine M-protein ≥ 200 mg/24 hours
+* Subjects must have been responsive (i.e., achieve a minimal response \[MR\] or better) to standard, first line therapy
+* Relapsed and/or refractory or progressive disease after at least one, but no more than three, prior therapeutic treatments or regimens for multiple myeloma. Refractory disease is defined as ≤ 25% response or progression during therapy or within 60 days after completion of therapy. Induction therapy and stem cell transplant will be considered as one regimen
+
+Demographic
+
+* Males and females ≥18 years of age
+* Life expectancy of more than three months
+* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0-2
+
+Laboratory
+
+* Adequate hepatic function, with bilirubin \< 2.0 times the upper limit of normal, and aspartate aminotransferase (AST) and alanine aminotransferase (ALT) of \< 3.0 times the upper limit of normal
+* Uric acid, if elevated, must be corrected to within laboratory normal range prior to dosing
+* Total white blood cell (WBC) count ≥ 2,000/mm³, absolute neutrophil count \> 1,000/mm³, hemoglobin ≥ 8.0 g/dL, and platelet count \> 50,000/mm³
+* Subjects should be platelet transfusion independent
+* Screening absolute neutrophil count (ANC) should be independent of granulocyte colony stimulating factor (G-CSF) or granulocyte macrophage colony stimulating factor (GM-CSF) support for ≥ 1 week and of pegylated G-CSF for ≥ 2 weeks
+* Subjects may receive red blood cell (RBC) transfusion or receive supportive care such as erythropoietin and darbepoetin in accordance with institutional guidelines
+* Calculated or measured creatinine clearance of ≥ 30 mL/minute, calculated using the formula of Cockcroft and Gault \[(140 - Age) X Mass (kg) / (72 X Creatinine mg/dL)\]. Multiply result by 0.85 if female.
+* Serum creatinine ≤ 2 mg/dL
+
+Ethical / Other
+
+* Written informed consent in accordance with federal, local, and institutional guidelines
+* Female subjects of child-bearing potential must have a negative serum pregnancy test within se

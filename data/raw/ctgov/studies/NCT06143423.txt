@@ -1,0 +1,27 @@
+Title: A Clinical Trial of AP026 (TQA2226) for Injection in Adult Subjects.
+Official title: A Randomized, Double-blind, Placebo-controlled Phase I Clinical Trial to Evaluate AP026 (TQA2226) for Injection in Adult Subjects After Single/Multiple Administration.
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Diabetes Mellitus, Type 2
+Interventions: AP026 (TQA2226) for injection (DRUG); AP026 (TQA2226) for injection matching placebo (DRUG)
+Summary: This study was a randomized, double-blind, placebo-controlled phase I clinical trial of AP026 (TQA2226) for injection in adult healthy subjects, which planned to recruit 74 healthy subjects. The main purpose was to evaluate the safety and tolerance of AP026 (TQA2226) for injection after single and multiple doses in healthy subjects.
+Eligibility: Inclusion Criteria:
+
+* Sign an informed consent form before the study and have a thorough understanding of the content, process, and potential adverse reactions of the study;
+* Able to complete the study according to the requirements of the protocol;
+* Subjects (including their partners) are willing to voluntarily take effective contraceptive measures within 6 months after the last study drug administration;
+* Male and female subjects aged 18-55 (inclusive);
+* Male subjects weighing no less than 50 kilograms and female subjects weighing no less than 45 kilograms, With a body mass index within the range of 18\~28kg/m2 (inclusive);
+* Physical examination and vital signs are normal or abnormal but with no clinical significance (judged by the investigators).
+
+Exclusion Criteria:
+
+* Pregnant and lactating women;
+* There are abnormal and clinically significant clinical laboratory examination results, or clinically significant diseases within 12 months before screening, which is not recommended to participate in the trial after evaluation by the investigators. Subjects with a previous medical history but are recovered with clinical evidence can be included in this study;
+* During the screening period, any one of the vital signs, physical examination, laboratory examination, 12 lead electrocardiogram, and other auxiliary examination results is abnormal and judged by the investigator to have clinical significance;
+* Subjects who test positive for any of the hepatitis B virus surface antigen (HBsAg), hepatitis C virus antibody (Anti HCV), human immunodeficiency virus antibody (Anti HIV), and Treponema pallidum antibody (Anti TP);
+* Those who have undergone surgery within 4 weeks before screening or plan to undergo surgery during the study period;
+* Received investigational drugs or participated in clinical trials within 3 months prior to screening;
+* Received immunoglobulin or blood products within 30 days before randomization;
+* Donated blood (\> 300 mL) or experienced significant blood loss (\> 400 mL) within 3 months prior to screening;
+* Subjects with a history of needle sickness, blood sickness, or potential difficult in collecting blood;
+* History of allergic reacti

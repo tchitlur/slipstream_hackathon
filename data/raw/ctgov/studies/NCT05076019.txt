@@ -1,0 +1,34 @@
+Title: Statin Therapy With Atorvastatin in Surgical Aortic Valve Replacement
+Official title: Statin Therapy With Atorvastatin in Surgical Aortic Valve Replacement - a Randomized Controlled Trial
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Postoperative Atrial Fibrillation
+Interventions: Atorvastatin 80mg (DRUG); Placebo (DRUG)
+Summary: Statins have rapid and significant actions that have potentially important (but not yet proven) implications for postoperative atrial fibrillation and cardiac protection in patients undergoing cardiac surgery.
+
+The focus of this study is, therefore, on patients having surgical aortic valve replacement (with aortotomy) and the development of postoperative atrial fibrillation (POAF). Our aims are: to examine the ability of a clinically durable Atorvastatin prophylactic regime to prevent the development of POAF and other postoperative complications in these patients.
+
+Patients will be randomized to Atorvastatin 80mg or placebo 7 to 14 days preoperative until 30 days postoperative - a total of 37 to 44 days of treatment.
+
+The medication will be double blinded.
+
+The randomized studie will address the following hypotheses in patients undergoing open heart operation with solitary aortic valve replacement with a bioprosthetic valve that
+
+1\) 7 to 14 days preoperative and until 30 days postoperative treatment with Atorvastatin 80 mg daily reduces the incidence of POAF in statin-naïve patients.
+Eligibility: Inclusion Criteria:
+
+1. Patients undergoing elective solitary SAVR with bioprosthesis
+2. Patients who are in sinus rhythm and not taking any anti-arrhythmic medication, other than beta-adrenergic blocking agents, at the time of surgery
+3. No prior use of HMG-CoA reductase inhibitors the last 3 months and at least 7 days prior to the time of surgery
+4. Age \>60 years
+5. Willingness and provision of informed consent to be randomized
+
+Exclusion Criteria:
+
+1. Prior history of atrial fibrillation
+2. Prior history of cardiac surgery
+3. Known adverse reaction to HMG-CoA reductase inhibitors
+4. Hepatic dysfunction (Alanin-aminotransferase more than twice the upper limit)
+5. Creatinine \>200 µmol/L
+6. Known intolerance to statins or history of muscle toxicity with statins
+7. Known intolerance to any of the excipients in Lipistad
+8. Treatment with anti-viral medicine (glecaprevir/pibrentasvir) for hepatitis

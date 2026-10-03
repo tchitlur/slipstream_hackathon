@@ -1,0 +1,9 @@
+Title: The Genetic Effects of rs7903146 and Dietary Intake on Type 2 Diabetes Mellitus Risk in a Healthy Population
+Official title: The Association Between TCF7L2 rs7903146, Diet and Type 2 Diabetes Mellitus Risk
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Health Behavior; Blood Glucose, High; Diet Habit; Genetic Predisposition
+Interventions: none
+Summary: This study investigates the association of genetic effects of rs7903146 and dietary intake on type 2 Diabetes Mellitus (T2DM) risk in a healthy population. T2DM risk was assessed through glycated haemoglobin (HbA1c) concentration in 73 subjects. Dietary intake was assessed using a validated food frequency questionnaire (FFQ).
+Eligibility: Inclusion criteria: Eligibility criteria required healthy adults free from metabolic condition and free from medication affecting glycated haemoglobin levels.
+
+Exclusion criteria: Individuals with HbA1c levels ≥48 mmol/mol or ≥6.5% were excluded due to a classification as T2DM (WHO, 2011).

@@ -1,0 +1,26 @@
+Title: A Study to Assess Whether Etrolizumab is a Safe and Efficacious Treatment for Participants With Moderately to Severely Active Crohn's Disease
+Official title: A Phase III, Randomized, Double-Blind, Placebo-Controlled, Multicenter Study to Evaluate the Efficacy and Safety of Etrolizumab as an Induction And Maintenance Treatment For Patients With Moderately to Severely Active Crohn's Disease
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Crohn Disease
+Interventions: Etrolizumab (DRUG); Placebo (DRUG)
+Summary: This is a multicenter, Phase 3, double-blind, placebo-controlled study evaluating the efficacy, safety, and tolerability of etrolizumab compared with placebo during induction and maintenance treatment of moderately to severely active Crohn's Disease (CD). The target population includes participants with CD who are refractory or intolerant to corticosteroids (CS) and/or immunosuppressant (IS) therapy and who have either not received prior anti-tumor necrosis factor (anti-TNF) therapy (TNF-naive) or who have had prior exposure to anti-TNF therapies and demonstrated inadequate responses or intolerance to anti-TNFs.
+
+The study period will consist of a Screening Phase (up to 35 days) plus (+) a 14-week Induction Phase + a 52-week Maintenance Phase + a 12-week Safety Follow-up Phase. At Week 14 (end of Induction Phase), participants achieving a decrease from baseline of at least 70 points in the Crohn's Disease Activity Index (CDAI) score (CDAI-70 response) without the use of rescue therapy will continue to the Maintenance Phase.
+Eligibility: Inclusion Criteria:
+
+* Moderately to severely active Crohn's Disease (CD) as determined by the CDAI, patient reported outcomes and endoscopically defined disease activity in the ileum and/or colon
+* Intolerance, refractory disease, or no response to corticosteroids (CS), immunosuppressants (IS), or anti-TNF therapy within 5 years from screening. Participants who have not previously demonstrated inadequate response or intolerance to one or more anti-TNF therapies are eligible to participate in the study provided they are intolerant or refractory to CS or IS therapy
+* Use of effective contraception as defined by the protocol
+
+Exclusion Criteria:
+
+* A history of, or current conditions affecting the digestive tract, such as ulcerative colitis, indeterminate colitis, fistulizing disease, abdominal or perianal abscess, adenomatous colonic polyps not excised, colonic mucosal dysplasia, and short bowel syndrome
+* Planned surgery for CD
+* Ileostomy or colostomy
+* Has received non-permitted inflammatory bowel disease (IBD) therapies (including natalizumab, vedolizumab, and efalizumab, as stated in the protocol)
+* Any prior treatment with ustekinumab within 14 weeks prior to randomization
+* Chronic hepatitis B or C infection, human immunodeficiency virus (HIV), active or latent tuberculosis (participants with prior history of Bacillus Calmette-Guérin \[BCG\] vaccination must pass protocol-defined screening criteria)
+* Sinus tract with evidence for infection (e.g., purulent discharge) in the clinical judgment of the investigator. Fistulas related to CD are not exclusionary
+* Any prior treatment with anti-adhesion molecules (e.g., anti-mucosal addressin cell adhesion molecule \[anti-MAdCAM-1\])
+* Any major episode of infection requiring treatment with intravenous antibiotics ≤8 weeks prior to screening or oral antibiotics ≤4 weeks prior to screening. Treatment with antibiotics as adjunctive therapy for CD in the absence of documented infection is not exclusionary
+* Hospitalization (other than for elective reasons) within 4 weeks prior to randomization

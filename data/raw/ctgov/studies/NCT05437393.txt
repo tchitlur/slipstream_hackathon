@@ -1,0 +1,37 @@
+Title: Children's Adaptive Deep Brain Stimulation for Epilepsy Trial (CADET): Pilot
+Official title: Children's Adaptive Deep Brain Stimulation for Epilepsy Trial (CADET): Pilot
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Epilepsy; Lennox-Gastaut Syndrome, Intractable
+Interventions: Deep brain stimulation (DEVICE)
+Summary: The CADET Pilot will investigate the safety and feasibility of deep brain stimulation (DBS) to treat children with Lennox-Gastaut syndrome using a novel DBS device (Picostim DyNeuMo-1).
+
+Following a 30-day preoperative/baseline assessment phase, all children will have a neurosurgical procedure to implant the device. Implantation will be followed by a 30-day phase of no stimulation (the device is off / inactive) and then a six-month phase of active stimulation (the device is on / active).
+Eligibility: INCLUSION CRITERIA:
+
+Children enrolled in this study must:
+
+1. Be 5-14 years of age at consent.
+2. Have a diagnosis of Lennox-Gastaut Syndrome, as determined by:
+
+   * Slow (\<3.0Hz) spike-and-wave pattern and/or fast wave pattern (tonic seizures) on EEG for at least six-months months prior to the enrolment into the baseline period
+   * History of drop seizures (tonic, atonic, or tonic-clonic) for at least six-months prior to the enrolment into the baseline period
+3. Experience at least 10 seizures per month.
+4. Have tried and not responded to two or more antiseizure medications prior to enrolment.
+5. Be taking one or more anti-seizure medication(s) at a stable dose for at least the four weeks prior and have a parent/guardian(s) who is willing for their child's maintenance anti-seizure drugs to be unaltered for the trial duration.
+6. If on a ketogenic diet, have been established on a stable ketogenic diet for at least 12 weeks prior to screening and the parent/guardian(s) to be willing for child to stay on a stable ketogenic for the duration of the trial.
+7. Have a parent/guardian(s) who is willing and able to comply with all the requirements of the study, including the completion of the seizure diary and periodic device charging.
+
+   \-------------------------------
+
+EXCLUSION CRITERIA:
+
+Children enrolled in this study must not:
+
+1. Have had prior deep brain stimulation insertion.
+2. Have an active ('on') vagus nerve stimulator (or active within the six months prior to the baseline period).
+3. Have abnormal thalamic anatomy detected on imaging that would render DBS either unsafe or unfeasible.
+4. Have a bleeding disorder.
+5. Have medical conditions/factors that would increase their anaesthetic risk to an unacceptable level.
+6. Have a nickel allergy
+7. Be pregnant
+8. Participate in contact sports

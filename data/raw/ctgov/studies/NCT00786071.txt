@@ -1,0 +1,17 @@
+Title: Metabolic Evaluation of Nutrition in Rett Syndrome
+Official title: A Systematic Metabolic Approach to the Evaluation of Nutrition in Rett Syndrome According to the Cardiorespiratory Phenotype in Dutch Rett Girls
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome
+Interventions: none
+Summary: Rett syndrome (RTT) is an X-linked severe neurodevelopmental disorder. Despite their good appetite, many females with RTT meet the criteria for moderate to severe malnutrition. The pathological mechanism is barely understood. Although feeding difficulties may play a part in this, other constitutional factors as altered metabolic processes are suspected. Irregular breathing is a common clinical feature, reflecting the immaturity of the brainstem in RTT. The primary pathophysiology is a defective control mechanism of carbon dioxide exhalation that leads to chronic respiratory alkalosis or acidosis. We assume that chronic respiratory acidosis or alkalosis causes derangement of the metabolic equilibrium in RTT females with important nutritional consequences.
+
+The aims of this pilot study are to describe the nutritional status of the RTT girls and to examine the consequences of a chronic respiratory acidosis or alkalosis on metabolic processes as a possible cause of impaired nutritional status.
+Eligibility: Inclusion Criteria:
+
+* Clinical diagnosis of RTT (meeting consensus diagnostic criteria (Hagberg et al, 2002));
+* MECP2-mutation;
+* Complete neurophysiological work-up.
+
+Exclusion Criteria:
+
+* Male gender.

@@ -1,0 +1,26 @@
+Title: Chemopreventive Action of Mesalazine on Colorectal Cancer: a Pilot Study for an "in Vivo" Evaluation of the Molecular Effects on β-catenin Signaling Pathway.
+Official title: Azione Chemiopreventiva Della Mesalazina Sul Cancro Del Colon-retto: Studio Pilota Per la Valutazione Degli Effetti Molecolari "in Vivo" Sulla Via di Segnalazione Proliferativa Della β-catenina (Official Title in Italian Language)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Colorectal Cancer
+Interventions: Mesalazine (DRUG)
+Summary: The purpose of this study is to obtain an "in vivo" confirmation that mesalazine induces the gene expression of μ-protocadherin and other related genes in the colon mucosa, as demonstrated in some "in vitro" experiments. .
+Eligibility: Inclusion Criteria:
+
+* Patients with precancerous colorectal lesions (polypoid or nonpolypoid adenomas) that needs of an endoscopic exam of control after 3 months from the removal of the lesions (determined on the basis of the morphological and histological characteristics of the lesions and of the removal technique)
+* Ability and willingness to adhere to study regimen
+* Written informed consent
+
+The following inclusion criteria was deleted according to Amendment n. 01 approved by the Ethical Committee on 19/dec/2014:
+
+\- diverticular disease/diverticular colitis;
+
+The rationale of this change is that the presence of diverticular disease/diverticular colitis does not contribute to the definition of the trial primary end-points and represents a critical point during the patient selection with an impact on duration and conduction of the study.
+
+Exclusion Criteria:
+
+* Patients under therapy with Aspirin (\>100 mg/die) or other FANS
+* Inflammatory bowel disease (IBD)
+* Hypersensitivity to Mesalazine.
+* Pregnant or nursing (lactating) women
+* Patients who belonging to the category n. 4 of the ASA physical status classification system
+* contraindications to mesalazine therapy

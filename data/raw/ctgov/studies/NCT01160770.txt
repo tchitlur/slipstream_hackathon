@@ -1,0 +1,26 @@
+Title: Safety and Effectiveness of Open-Label Clobazam in Subjects With Lennox-Gastaut Syndrome
+Official title: Safety and Effectiveness of Open-Label Clobazam in Subjects With Lennox-Gastaut Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Lennox-Gastaut Syndrome
+Interventions: Clobazam (DRUG)
+Summary: The objective of this study is to evaluate the long-term safety and effectiveness of open-label clobazam in the treatment of drop seizures in subjects with LGS.
+Eligibility: Inclusion Criteria:
+
+* The subject or subject's legally authorized representative (LAR) must sign and date the institutional review board (IRB)/independent ethics committee (IEC) approved Informed Consent Form/Health Insurance Portability and Accountability Act (HIPAA) Authorization (if required) prior to study participation.
+* Previous participation in Lundbeck-sponsored LGS study.
+* Subject must weigh ≥12.5 kilograms.
+* Male or female subjects must have been between 2 and 60 years of age at the time of the enrollment in the Phase 3 double-blind study (13110A/OV1012/NCT00518713) or between 2 and 30 years of age at the time of the enrollment in the Phase 2 double-blind study (13108A/OV1002/NCT00162981) study.
+* If female:
+
+  * Subject is either not of childbearing potential, defined as premenarchal, postmenopausal for at least 1 year or surgically sterile (bilateral tubal ligation, bilateral oophorectomy or hysterectomy), or if of childbearing potential, must comply with a method of birth control acceptable to the investigator during the study, for at least 4 weeks prior to study entry and for 4 weeks following completion of the study.
+  * Subject is not breastfeeding.
+  * Subjects of childbearing potential must have a negative serum pregnancy test at Study Day 1.
+* In the investigator's opinion, parent or caregiver must be able to keep an accurate seizure diary.
+
+Exclusion Criteria:
+
+* Greater than 14 days have elapsed since the subject received his/her last dose of study medication in the previous Lundbeck-sponsored LGS study.
+* Subject had a serious or severe adverse event in the previous Lundbeck-sponsored LGS study that in the opinion of the investigator was probably or definitely related to clobazam use and precludes safe use of clobazam.
+* Subject has had an anoxic episode requiring resuscitation within 6 months of study entry.
+* Subject has a history of an allergic reaction or significant sensitivity to benzodiazepines or to any of the other ingredients in clobazam tablets.
+* Subject is taking more than 3 concurrent anti-epileptic drugs (AEDs). NOTE: Vagal Nerve Stimulator (VNS) or ketogenic diet is allowed and will not be counted in the three allowed AE

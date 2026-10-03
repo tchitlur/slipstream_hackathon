@@ -1,0 +1,18 @@
+# Limitations
+
+Honest limits of this build. The Method page renders the bulleted items below.
+
+- Mechanism is recorded per gene and disease by Gene2Phenotype, not per variant. A family's own variant can act differently (loss, gain or dominant negative), and the app repeats that caution on every condition page and every mechanism-dependent verdict.
+- Most curated mechanisms are "inferred" from variant types rather than from functional evidence; the support type is shown and is a counter-reason (C4) wherever a verdict depends on mechanism.
+- The readiness ladder is a proxy built from what the sources return. A milestone marked "not found" means nothing matched in the sources searched, not that nothing exists. Registries run outside ClinicalTrials.gov, trials outside the US registry, and funding outside NIH are invisible to it.
+- Study classification and mechanism-claim extraction are done by a language model with structured outputs. Quotes are verified verbatim and unverifiable claims are discarded, but a correct quote can still be attached to a wrong classification; the classifier's role and modality labels have not been expert-reviewed.
+- Patient organization listings were drafted from the organizations' own public sites in one pass and are marked unverified until a human checks each one. Organizations without a confirmable site are missing; absence from the seed list is not evidence that no group exists.
+- Phenotype similarity depends on annotation depth. Conditions with few annotated terms (flagged "thin annotation", C6) can look spuriously similar or dissimilar, and a large share of the overlap between epilepsy conditions comes from common, low-information terms (C1).
+- The similarity cutoffs ("high", "medium") are percentiles of the pairwise distribution in this build; they shift when the condition set changes and are logged in the build manifest rather than being clinically validated.
+- Investigator name matching is deliberately conservative (same surname, first initial and organization or shared record), so one person can appear as several nodes, and bridges are undercounted rather than overcounted. Only public records are linked and no contact details are collected.
+- Gene-level records (RePORTER grants, gene-symbol trial hits) are attached to every curated condition of that gene unless a disease name resolves them to one; a grant on KCNQ2 therefore appears under both the loss-of-function and gain-of-function KCNQ2 conditions.
+- The atlas-wide layer (the full Gene2Phenotype developmental disorders panel) carries mechanism and phenotype layers only; its ladders show "not searched" for milestones 3 to 8.
+- A "contested" flag means a verified published sentence states a mechanism direction different from the curated one for the same gene. It does not adjudicate who is right, and some contests reflect genuine biology (genes with both loss- and gain-of-function variants) rather than curation error.
+- The brief is a draft for a parent to edit. Sentences without a valid evidence footnote are removed before display, which can leave sections short; the deterministic template is the fallback and is labelled as such.
+- No baseline timeline has been supplied for the 10x case, so no multiplier is shown.
+- Nothing here is clinical advice. Slipstream is a research navigation aid; confirm anything in it with a clinician or genetic counselor.

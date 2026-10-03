@@ -1,0 +1,24 @@
+Title: Study of Tumour Response to Tirapazamine During Treatment of Cervical Cancer
+Official title: Prospective Study of Tirapazamine Targeting in Cervical Cancer
+Status: TERMINATED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Cervix Cancer
+Interventions: Cervical tissue biopsy analysis: Comet assay (PROCEDURE); Biopsy: Measurement of histone gamma H2AX phosphorylation (PROCEDURE); Biopsy: Immunohistochemistry: Ca9, Glut1, HIF-1 alpha (PROCEDURE); Measurement of vascular perfusion: contrast enhanced MRI (PROCEDURE)
+Summary: The purpose of this study is as follows:
+
+* to determine whether tirapazamine damages cervical tumour DNA immediately after its administration
+* to determine the blood flow and oxygen level of cervical tumour before and after treatment with tirapazamine
+Eligibility: Inclusion Criteria:
+
+* Histologically confirmed clinically visible invasive carcinoma of the cervix, either squamous cell, adenocarcinoma or a variant of these
+* Patients must be enrolled in NCIC CXC.1 (phase 3 study assessing the addition of tirapazamine) and randomized to the tirapazamine arm
+* No known bleeding disorder
+* Willing to undergo a clinical exam to obtain tissue biopsy for hypoxia marker analysis and DNA damage assessments
+
+Exclusion Criteria:
+
+* Inability to give informed consent
+* Criteria below for contrast MRI only :
+
+  1. Chronic renal disease currently on dialysis
+  2. Renal insufficiency defined as a Glomerular Filtration Rate (GFR) ≤15cc/min , serum Cr \>130, or a BUN\>7 measured
+  3. Current pacemaker, tens neuro-stimulator, implanted drug infusion devices, any metal implants, foreign metals objects in eyes, aneurysm clips

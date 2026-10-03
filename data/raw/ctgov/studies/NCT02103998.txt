@@ -1,0 +1,21 @@
+Title: Study of Thyroid Hormones in Prematures
+Official title: Phase III Study of Thyroid Hormones in Prematures
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Transient Hypothyroxinemia of Prematurity (THOP)
+Interventions: thryoid hormone T4 + oral potassium iodide (KI) for 42 days (DRUG); D5W - 5% dextrose water (DRUG)
+Summary: The investigators hypothesize that continuous infusion of 4 µg/Kg/day T4 with 30 µg/Kg/day oral potassium iodide (KI) for 42 days from birth will reduce by 30% or more (from an estimated 30% to 21%) the proportion of extremely low gestational age subjects with a composite endpoint of "cerebral palsy (CP) or a Bayley III Composite Cognitive Score \< 85" at 36 months corrected postnatal age (CA).
+Eligibility: Inclusion Criteria:
+
+1. Neonates 24 0/7 to 27 6/7 weeks gestational age
+2. inborn or transferred; \< 24 hours old
+
+Exclusion Criteria:
+
+1. Maternal or congenital thyroid disease or
+2. Maternal substance abuse by history at the time of birth (heroin or cocaine)
+3. Major congenital or surgical malformations of neonate
+4. Known chromosomal anomalies detected by antepartum testing or direct physical examination
+5. Absence of parental consent or treating physician assent
+6. A concurrent clinical trial with another randomized drug
+7. Death expected \< 48h vi) Another concern by the treating physician that either mandates or prohibits study treatment such as known adverse drug interaction
+8. mother \< 18 years old at delivery

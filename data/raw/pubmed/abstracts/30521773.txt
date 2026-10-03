@@ -1,0 +1,2 @@
+CHD2: One Gene, Many Roles.
+Mutations in the chromodomain helicase DNA-binding 2 (CHD2) gene have been found in patients with a range of neurodevelopmental disorders. In this issue of Neuron, Kim et&#xa0;al. (2018) showed that Chd2 haploinsufficiency compromises cortical development, synaptic function, and memory in mice.

@@ -1,0 +1,21 @@
+Title: Efficacy and Safety of Circadin® in the Treatment of Sleep Disturbances in Children With Neurodevelopment Disabilities
+Official title: A Randomized, Placebo-controlled Study to Investigate the Efficacy and Safety of Circadin® to Alleviate Sleep Disturbances in Children With Neurodevelopmental Disabilities
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Sleep Disorders
+Interventions: Circadin 2/5/10 mg (DRUG); Placebo (DRUG)
+Summary: The purpose of this study is to establish the efficacy and safety of Circadin in children with neurodevelopmental disorders and to determine the dose, this randomized, placebo-controlled study is planned to evaluate the efficacy of a double-blind, 13 week treatment period with Circadin 2/5mg in improving maintenance of sleep, sleep latency and additional parameters in children with neurodevelopmental disabilities. The efficacy and safety of Circadin 2/5 mg will continue to be assessed during an open-label extension period of 13 weeks.
+Eligibility: Inclusion Criteria:
+
+To be eligible for study entry, all patients must satisfy all of the following criteria at screening:
+
+1. Must be children 2 to 17.5 years of age at Visit 2 who comply with taking the study drug
+2. Must have written informed consent provided by a legal guardian and assent (if needed)
+3. Must have a documented history of ASD according to or consistent with the ICD-10 (International Classification of Diseases) or DSM-5/4 (Diagnostic and Statistical Manual of Mental Disorders) criteria, or neurodevelopmental disabilities caused by neurogenetic diseases (i.e., Smith-Magenis syndrome, Angelman syndrome, Bourneville's disease \[tuberous sclerosis\]) as confirmed by case note review showing that diagnosis was reached through assessment by a community pediatrician or pediatric neurologist or other health care professionals experienced in the diagnosis who took into account early developmental history and school records.
+4. Must have current sleep problems including: a minimum of 3 months of impaired sleep defined as ≤6 hours of continuous sleep AND/OR ≥0.5 hour sleep latency from light off in 3 out of 5 nights based on parent reports and patient medical history. (The maintenance and latency problems do not necessarily have to be in the same 3 nights of the week.)
+5. May be on a stable dose of non-excluded medication for 3 months, including anti- epileptics, anti-depressants (selective serotonin reuptake inhibitors \[SSRIs\]), stimulants, all mood changing drugs and β-blockers. (Only morning administration of β-blockers is allowed since β-blockers at night have the potential to reduce endogenous melatonin levels and might cause disturbed sleep)
+6. The sleep disturbance is not due to the direct physiological effects of any concomitant medications such as SSRIs, stimulants, etc.
+
+After completing 4 weeks of sleep hygiene training (for those who need it) and 2 weeks of placebo run-in, patients will be eligible to continue the study if they comply with the following:
+
+* Continue to fulfill sleep problem criteria (see Inclusion Criterion 4) based on the completed Sleep and Nap Diary entered into the electronic case report form
+* Parents demonstrate compli

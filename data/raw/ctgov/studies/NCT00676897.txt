@@ -1,0 +1,21 @@
+Title: Statin Therapy in the Treatment of Sepsis
+Official title: Study of Statin Therapy in the Treatment of Sepsis
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: Septic Shock
+Interventions: Simvastatin (DRUG); Placebo (DRUG)
+Summary: Simvastatin will attenutat IL-6 levels and lead to a more rapid shock reversal than placebo
+Eligibility: Inclusion Criteria:
+
+* Greater than 18 years old
+* Hypotensive requiring vasopressors
+* Suspected Infection
+
+Exclusion Criteria:
+
+* Pregnant
+* Liver Failure (ALT or AST \> 120)
+* Rhabomyolysis (CPK \> 3x normal)
+* Comfort care measures status
+* Chronic Liver Disease (Cirrhosis)
+* Use of Cyclosporin, Digoxin, Statins
+* Patients who are unable to take medications by mouth or NGT

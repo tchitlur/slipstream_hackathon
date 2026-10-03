@@ -1,0 +1,17 @@
+Title: Growth Hormone in Children With Juvenile Rheumatoid Arthritis (JRA) and With Crohn's Disease
+Official title: Growth and the Effect of Genotropin in Chronically Ill Children With Juvenile Rheumatoid Arthritis and With Crohn's Disease
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: Arthritis, Juvenile Rheumatoid; Crohn Disease
+Interventions: somatropin [rDNA origin] for injection (DRUG)
+Summary: The investigators hypothesize that the anabolic effects of Genotropin (somatropin) will improve the height and weight of children with inflammatory based chronic illness who have failed to grow despite receiving adequate nutrition. The investigators will test the hypothesis by treating 32 chronically ill children (16 JRA and 16 Crohn's) with growth hormone (GH) for 12 months and comparing them to baseline.
+Eligibility: Inclusion Criteria:
+
+1. Referral for continued poor growth (growth velocity less than the 25th percentile)
+2. Height less than the 10th percentile
+3. Weight less than the 10th percentile compared to age and gender- matched normal values.
+
+Exclusion Criteria:
+
+1. Previous diagnosis with diabetes, chronic fevers (temp \> 101.5) or chronic bacterial infection
+2. Previous treatment with GH
+3. Bone age \> 17

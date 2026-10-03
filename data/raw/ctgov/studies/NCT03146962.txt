@@ -1,0 +1,24 @@
+Title: High Dose Vitamin C Intravenous Infusion in Patients With Resectable or Metastatic Solid Tumor Malignancies
+Official title: A Phase II Study of High Dose Vitamin C Intravenous Infusion in Patients With Resectable or Metastatic Solid Tumor Malignancies
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Colorectal Cancer; Pancreatic Cancer; Lung Cancer
+Interventions: Vitamin C (DRUG)
+Summary: This is a multicenter, single arm, 3-cohort, open-label trial of high dose Vitamin C intravenous infusion in subjects with solid tumor malignancies who are eligible for resection (cohort A) or with extended RAS (e.g.KRAS or NRAS) or BRAF mutation metastatic cancer who have received prior systemic treatment (cohort B). Cohort C will involve patients with colorectal cancer having an extended RAS or BRAF mutation who are amenable for localregional therapy of hepatic metastases with Yttrium-90 radioembolization.
+Eligibility: Inclusion Criteria
+
+* Male or female ≥ 18 years of age.
+* Patients with histologically proven early stage or locally advanced colorectal adenocarcinoma, lung cancer or pancreatic cancer, who are eligible for resection (cohort A).
+* Patients with inoperable, metastatic extended RAS (e.g. KRAS or NRAS) or BRAF mutant colorectal adenocarcinoma, lung cancer and pancreatic cancer, or other solid tumor, who have received at least 1 line of treatment for metastatic disease (cohort B).
+* Patients with metastatic cancer with an extended RAS (e.g. KRAS or NRAS) or BRAF mutation with liver metastases amenable to Y90 radioembolization (cohort C).
+* ECOG performance status 0-1.
+* Life expectancy of at least 6 months.
+* All women of child-bearing potential and all sexually active male patients must agree to use effective contraception.
+
+Exclusion Criteria:
+
+* Patients with uncontrolled intercurrent illness including, but not limited to uncontrolled infection, symptomatic congestive heart failure (NYHA class III and IV), uncontrolled cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements (Appendix B: New York Heart Association (NYHA) Classifications).
+* Patients with active heart disease including myocardial infarction within previous 3 months, symptomatic coronary artery disease, arrhythmias not controlled by medication, unstable angina pectoris, or uncontrolled congestive heart failure (NYHA class III and IV) (Appendix B: New York Heart Association (NYHA) Classifications).
+* Patients who have received an investigational drug within 21 days of the first dose of study drug.
+* Patients who are pregnant or lactating.
+* Patients who are known to be positive for the human immunodeficiency virus (HIV). The effect of Vitamin C on HIV medications is unknown. Note: HIV testing is not required for eligibility, but if performed previously and was positive, the patient is ineligible for the study.
+* Patient who are receiving drugs which are known to interact with Vitamin C, potential risk and eligibility will be evaluated individually by the investigator. a. Most of the known interactions with vitamin C are from oral use and acidi

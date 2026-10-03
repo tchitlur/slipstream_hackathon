@@ -1,0 +1,21 @@
+Title: Oxygen as an Acute Treatment in Alternating Hemiplegia of Childhood
+Official title: Oxygen Therapy as an Acute Treatment for Dystonic and/or Plegic Attacks in Alternating Hemiplegia of Childhood
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Alternating Hemiplegia of Childhood
+Interventions: Oxygen (DRUG); Placebo (DRUG)
+Summary: Alternating hemiplegia of childhood (AHC) is a rare early-onset neurodevelopmental encephalopathy frequently caused by mutations in the ATP1A3 gene. It is typically characterized by a variable degree of intellectual disability, motor dysfunction and various paroxysmal events (dystonic and plegic attacks). Dystonic and plegic attacks are very disabling and current treatments are disappointing with limited efficacy and poor tolerability. The investigators recently reported the efficacy of high-flow oxygen administration (100% O2 at a flow rate of 12 L/min) as an acute treatment for the dystonic attacks in a 25-year-old patient suffering from AHC. The aim of the study is to assess the effect of high-flow oxygen administration (against placebo) as an acute treatment of dystonic and plegic attacks. The primary outcome will be the proportion of motor attacks stopped 30 minutes after the beginning of motor symptoms over 5 weeks.
+Eligibility: Inclusion Criteria:
+
+1. Age \> 1 year old
+2. Patients able to administrate high-flow oxygen through a non rebreathing facial mask, either alone or with assistance
+3. Patients with a diagnosis of AHC caused by ATP1A3 mutations presenting at least one dystonic or plegic attack per week lasting more than 30 minutes
+4. Absence of long-term treatment or long-term treatment stable over the last month and during the duration of the trial
+5. Patients able to give written informed consent
+6. Affiliation to social insurance
+
+Exclusion Criteria:
+
+1. Inability for the patients and/or caregivers to follow the protocol (inability to read or understand the instructions, no access to smartphone or computer to fill the informatics patient's form)
+2. Patients with severe or uncontrolled obstructive or restrictive chronic respiratory disease (asthma, COPD, obesity, neuromuscular disease), acute systemic aggression (acute coronary syndrome, stroke, sepsis, head trauma) or congenital cardiopathy with a risk of hypercapnia following oxygen administration
+3. Women that are pregnant (a negative pregnancy test is required for inclusion) or breath feeding
+4. Patients involved in an other clinical trial

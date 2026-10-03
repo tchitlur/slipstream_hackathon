@@ -1,0 +1,34 @@
+Title: Extension Study to Evaluate How Safe and Tolerable NBI-921352 is as an Adjunctive Therapy for Participants With SCN8A-DEE
+Official title: A Prospective, Long-Term, Interventional, Active Extension Study to Evaluate the Safety and Tolerability of NBI-921352 as Adjunctive Therapy in Subjects With SCN8A Developmental and Epileptic Encephalopathy Syndrome (SCN8A-DEE)
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: SCN8A Developmental and Epileptic Encephalopathy Syndrome
+Interventions: NBI-921352 (DRUG)
+Summary: Extension study to evaluate how safe and tolerable the drug NBI-921352 is when used as adjunctive therapy in participants with SCN8A developmental and epileptic encephalopathy syndrome (SCN8A-DEE).
+Eligibility: Key Inclusion Criteria:
+
+For Participants Who Participated in NBI-921352-DEE2012:
+
+* Written or oral pediatric assent from the participant and written informed consent from the participant's parent(s) or legal guardian(s) for pediatric participants and adult participants who are not capable of providing consent. Adult participant who are ≥18 years of age and capable of providing consent should sign an Informed Consent Form (ICF).
+* Completed 16 weeks of treatment in Study NBI-921352-DEE2012.
+* Continue to use a nocturnal alerting system or practice consistent with standards of care for the duration of the study.
+* Have an adequate rescue medication regimen per the investigator's judgment in place for the duration of the study.
+
+For Participants Who did not Participate in NBI-921352-DEE2012:
+
+* Written or oral pediatric assent from the participant if deemed capable of providing assent and written informed consent from the participant's parent(s) or legal guardian(s) for pediatric participants and for adult participants who are not capable of providing consent. Adult participants who are capable of providing consent should sign an ICF.
+* Be a male or female 2 to 21 years of age, inclusive.
+* Have a diagnosis of SCN8A-DEE supported by both clinical and genetic findings.
+* Have on average at least 1 countable motor seizure per week and not be seizure-free for more than 20 consecutive days.
+* Being treated with at least 1 other antiseizure medication (ASM), but no more than 4 ASMs.
+* Have failed to achieve seizure freedom with at least 2 ASMs.
+* Have a body weight of at least 10 kilograms.
+
+Key Exclusion Criteria
+
+For Participants Who Participated in NBI-921352-DEE2012:
+
+\- Have developed any other disorder for which the treatment takes priority over treatment of SCN8A-DEE or is likely to interfere with study treatment or impair treatment compliance.
+
+For Participants Who did not Participate in NBI-921352-DEE2012:
+
+* Have symptoms that would be more consistent with another epilepsy disorder such as Dravet syndrome (for example, fever-induced episodes of status epilepticus, frequent myoclonic seizures, worsening on sodium channel blockers, absence seizures with genera

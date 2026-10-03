@@ -1,0 +1,39 @@
+Title: Prospective Pilot Trial to Address Feasibility and Safety of Oral Zinc in GNAO1 Associated Disorders
+Official title: Prospective Pilot Trial to Address the Feasibility and Safety of Treatment With Oral Zinc in GNAO1 Associated Disorders
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: GNAO1; Dystonia; Epilepsy; Development Delay; Developmental and Epileptic Encephalopathy 17; Neurodevelopmental Disorder With Involuntary Movements; Choreoathetosis
+Interventions: Zinc Acetate Dihydrate (DRUG)
+Summary: The goal of this clinical trial is to investigate feasibility and safety of an oral therapy with zinc in patients affected by Guanine nucleotide-binding protein G(o) subunit alpha (GNAO1) associated disorders.
+
+The main questions it aims to answer are:
+
+* Is a daily oral therapy with zinc in GNAO1 associated disorders a safe and feasible therapy?
+* Are there potential changes in general motor skills, general behaviour and well being, day/night rhythm, level of dyskinesia and dystonia, frequency of seizures, quality of life and changes in the microbiome of the patients.
+
+Participants with GNAO1 associated disorders will be given an oral zinc therapy for 6 month and will be assessed in 3 visits and 2 phone calls within this trial.
+Eligibility: Inclusion Criteria:
+
+* GNAO1 associated neurological disorder, documented by either
+
+  * Proven pathogenic or likely pathogenic mutation in GNAO1 or
+  * a variant of unknown significance in GNAO1 and clinical symptoms likely to be consistent with GNAO1 as determined by the investigators and
+  * at least one of the common symptoms of GNAO1: Movement disorder (Dystonia, Chorea, Ataxia, clonic), central muscular hypotonia, epilepsy, global developmental delay
+* Age: 6 month - 30 years
+* GMFM ≤ 75
+* written informed consent prior to any trial-related procedure (according to age and status of psycho-intellectual development)
+
+  * of parents or legal guardian
+  * of parents or legal guardian and patient
+  * of the patient
+* stable on following concomitant treatments for at least 3 months prior to trial inclusion: anti-seizure drugs (ASD); baclofen, Deep brain stimulation settings
+
+Exclusion Criteria:
+
+* Treatment of Zinc in the last 4 months before inclusion
+* known other genetic variants that are known to cause symptoms like observed in GNAO1-related disorders, additional to the proven GNAO1 mutation
+* implantation of Deep brain stimulation planned during the duration of the trial, i.e. in the six months after inclusion
+* start of intrathecal baclofen therapy planned during the duration of the trial, i.e. in the six months after inclusion
+* Known allergy/hypersensitivity to the scheduled trial drug
+* Concomitant participation in other clinical drugs with investigational drugs or with competing interventions
+* sexually active patients who are not willing to use/ not using a highly effective contraception method with a pearl-index \< 1. Sexually active patients, unless surgically sterile, must be using a highly effective contraception method (including oral, transdermal, injectable or implanted contraceptives, intrauterine device (IUD), using a condom of the sexual partner or sterile sexual partner) and must agree to continue using such precautions during the whole study period.
+* Pregnant women and nursing mothers

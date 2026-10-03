@@ -1,0 +1,38 @@
+Title: High-Intensity Interval Training and Regulatory T Cells
+Official title: Impact of High-Intensity Interval Training on Regulatory T Cells
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: End Stage Renal Disease
+Interventions: High Intensity Interval Training (OTHER)
+Summary: Regulatory T cells (Tregs) are a small population of T cells compromising of 1% to 5% of the total T cells in the body but they are playing a fundamental role in the maintenance of the immune homeostasis. These cells modulate the immune system by suppressing the effector activity and thus preventing autoimmune diseases and chronic inflammatory processes. Treg cell numbers have shown to increase with physical activity, and this increment has been directly correlated with exercise intensity. These results suggest that the increased Treg frequency may contribute to the beneficial effects of exercise on disorders associated with autoimmune disease or chronic low-grade inflammation such as atherosclerosis, diabetes mellitus, chronic kidney disease or cancer.
+
+The overall purpose of this study is to determine the influence High-intensity interval training (HIIT) on the frequency and quality of peripheral Treg cells.
+Eligibility: Inclusion Criteria:
+
+* Age between 18 and 65 years old.
+* BMI between 18.5 and 25 or above 30. Rationale: we want to include "obesity" as categorical covariate in the influence of HIIT and discriminate the participants between "lean" (BMI range 18.5-25) and "obese" (BMI \> 30)
+* Sedentary lifestyle (fewer than 5,000 steps per day)
+* Fluent in English, able to understand and provide informed consent.
+* Subjects willing to participate in the study and comply with study requirements as evidenced by signed Institutional Review Board (IRB)-approved informed consent.
+
+Exclusion Criteria:
+
+* Age under 18 or over 65
+* BMI under 18.5 or between 25 and 30.
+* Active lifestyle (more than 5,000 steps per day).
+* Previous chronic use of systemic glucocorticoids, immune-suppressors or immuno-modulators in the preceding 3 months.
+* Patients with significant or active infection: HIV negative by ELISA or reverse transcription polymerase chain reaction (RT-PCR) \[if ELISA is positive and RT-PCR is negative, the ELISA is considered false positive\]; negative serology for Hepatitis B and C.
+* Active malignancy or history of malignancy within 1 year.
+* Be pregnant or breastfeeding.
+* Hemoglobin less than 9.0 g/dl at the time of blood drawing.
+* Platelet count less than 100,000/\* at the time of blood drawing.
+* White blood count less than 4 and/or Absolute Neutrophil Count less than 1500/\* at the time of blood drawing.
+* Participation in any other study that involved investigational drug or regimens in the preceding 12 months.
+* History of delayed or abnormal wound healing.
+* Any immuno-related condition, chronic illness or prior treatment which, in the opinion of the investigator, precludes study participation.
+* Inability or unwillingness of participant to comply with study protocol or procedures.
+* Impaired consent capacity.
+* Any chronic use of anticoagulation.
+* Recipient of blood transfusion in 3 months prior to blood drawing.
+* Any orthopedic condition or chronic pain that prevents them from cycling.
+* Any symptomatic coronary artery disease prior enrollment within 3 months or any intervention for it in the past 6 months.
+* Any symptomatic current heart failure (New York Hear

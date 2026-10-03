@@ -1,0 +1,39 @@
+Title: Bioavailability of Stiripentol After Single Oral Dose of Capsule vs Suspension in Healthy Subjects (STILIQ)
+Official title: Bioavailability Study of Stiripentol After Single Oral Administration of Two Different Formulations (Capsule and Oral Suspension) in 24 Healthy Subjects
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Dravet Syndrome; Epilepsy; Childhood; Epileptic Encephalopathy; Pediatric Epilepsy
+Interventions: Stiripentol capsule (Diacomit®) (DRUG); Stiripentol oral suspension (Diacomit®) (DRUG)
+Summary: This is a Phase I, open-label, randomized, single-center, two-way cross-over study evaluating the relative bioavailability, pharmacokinetics, safety, and palatability of two formulations of stiripentol (Diacomit®), indicated in Dravet syndrome. The investigational products are 500 mg capsules (reference) and a 50 mg/mL oral suspension (test).
+
+The primary objective is to compare the relative bioavailability of the two formulations after a single 1,000 mg oral dose under fed conditions, based on Cmax, AUC0-t, and AUC0-∞. Secondary objectives include other PK parameters (tmax, tlag, ke, t1/2) and characterization of metabolites MIa and MIb. Palatability of the suspension will be assessed by questionnaire.
+
+Safety evaluation will include adverse events, laboratory tests, ECGs, urinalysis, drug and alcohol screening, serology, and vital signs.
+
+Twenty-four healthy volunteers (18-50 years) will be enrolled. Eligibility: BMI 18-30 kg/m², weight ≥50 kg, normal ECG and labs, and informed consent. Women of childbearing potential must use effective contraception and test negative for pregnancy. Exclusions: significant disease, recent surgery or blood donation, hypersensitivity, difficulty sw
+Eligibility: Inclusion Criteria
+
+* Aged between 18 and 50 years (inclusive).
+* Considered healthy after a comprehensive clinical assessment (medical history + complete physical exam).
+* Body Mass Index (BMI) between 18 and 30 kg/m² (inclusive) and body weight ≥ 50 kg at screening.
+* Normal blood pressure (BP) and heart rate (HR) after 10 minutes supine at screening : Systolic BP: 90-145 mmHg, Diastolic BP: 45-90 mmHg, HR: 40-90 bpm, Or values outside these ranges but judged not clinically significant (NCS) by the Investigator.
+* Normal ECG at screening (10-min resting 12-lead ECG): PR interval: 110-210 ms, QRS interval : \< 120 ms, QTcF interval: ≤ 450 ms, No evidence of sinus node dysfunction, Or values outside these ranges but judged NCS by the Investigator.
+* Laboratory parameters within normal ranges (hematology, biochemistry, urinalysis); slight deviations allowed if not clinically relevant per Investigator.
+* Women of non-childbearing potential, or women of childbearing potential using at least one acceptable contraceptive method throughout the study and 1 month after last treatment.
+* Female subjects of childbearing potential: negative pregnancy test (serum or urine) at screening and Day 0.
+* Covered by Health Insurance System and/or compliant with National Law requirements for biomedical research.
+* Able and willing to comply with study requirements.
+* Written informed consent obtained.
+
+Exclusion Criteria
+
+* Unsuitable veins for repeated venipuncture.
+* Relevant history/presence of cardiovascular, pulmonary, gastrointestinal, hepatic, renal, metabolic, hematological, neurological, psychiatric, systemic, or infectious disease.
+* Evidence of any clinically significant acute or chronic disease.
+* History of suicidal ideation or suicide attempt.
+* Surgery (including clinical trial procedures) within 2 months before dosing.
+* Blood donation within 2 months before dosing.
+* History/presence of drug hypersensitivity, asthma, or allergy.
+* Known hypersensitivity to study materials or related compounds.
+* Inability/difficulty swallowing capsules.
+* No possibility of emergency contact.
+* Any drug intake (except paracetamol) within 4 weeks prior to dosing or \< 5 half-lives (w

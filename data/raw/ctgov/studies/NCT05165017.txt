@@ -1,0 +1,25 @@
+Title: Safety & Efficacy of AlloRx SC® in PTHS Patients
+Official title: Randomized Double Blind Placebo Controlled Study of the Safety & Efficacy of Therapeutic Treatment With AlloRx Stem Cells® in Patients With Pitt Hopkins Syndrome (Phase 1/2 Study)
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Pitt Hopkins Syndrome
+Interventions: AlloRx Stem Cells® (BIOLOGICAL); Placebo control (OTHER)
+Summary: This study will evaluate the safety of AlloRx Stem Cells® in subjects with Pitt Hopkins syndrome ages 2-45 with a molecularly confirmed pathogenic mutation in TCF4 or 18q deletion including TCF4. Participants will receive mesenchymal stem cells infusions every 3 months for a year with completion of outcome measures to assess the efficacy of the product.
+Eligibility: Inclusion Criteria:
+
+* Signed informed consent from parent(s) or legal guardian(s)/authorized representative(s) (LAR)
+* Documented genetic confirmation of mutation in TCF4, with clinical diagnosis of Pitt Hopkins Syndrome (PTHS)
+* Stable seizure control (defined as clinically stable with no changes in antiepileptic medications or use of rescue medication over the prior 1 month before the screening visit, other than weight associated dose adjustments)
+* Normal renal function with serum creatinine and spot urine protein within normal limits
+* Willing and able to comply with scheduled visits, drug administration plan, laboratory tests, study restrictions, and all study procedures, including intravenous infusion
+
+Exclusion Criteria:
+
+* Any change in medications or diet/supplements intended to treat symptoms of PTHS (e.g., sleeping aids, supplements, cannabidiol products) over the prior 3 months before screening
+* Inability to ambulate independently or with an assistive device or caregiver handhold
+* Any bleeding or platelet disorder
+* Any clinically significant (CS) cardiovascular, endocrine, hepatic, renal, pulmonary, gastrointestinal, neurologic, malignant, metabolic, psychiatric, or other condition that, in the judgment of the Investigator, will pose a safety risk, make the patient unsuitable for participation in, and/or unable to complete the study procedures
+* Any laboratory abnormality, that, in the Investigator's opinion, could adversely affect the safety of the patient, make it unlikely that the course of treatment or follow up would be completed, or impair the assessment of study result
+* Known positive for hepatitis B virus, hepatitis C virus, or human immunodeficiency virus (HIV). Patient is pregnant or lactating
+* Usage of drugs that increase the risk of bleeding (e.g., heparin, low molecular weight heparin, platelet inhibitors).
+* Use of any investigational oligonucleotide and any investigational drugs in the past 6 months
+* Any prior use of gene therapy

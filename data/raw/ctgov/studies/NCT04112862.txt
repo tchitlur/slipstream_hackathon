@@ -1,0 +1,20 @@
+Title: Sodium Lactate Infusion in GLUT1DS Patients
+Official title: Effects of Sodium Lactate Infusion in Patients With Glucose Transporter 1 Deficiency Syndrome (GLUT1DS)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: EARLY_PHASE1.
+Conditions: GLUT1 Deficiency Syndrome; GLUT1DS1; GLUT1DS2; Epilepsy; Lactic Acid Blood Increased; Ketogenic Dieting
+Interventions: sodiumlactate (OTHER)
+Summary: This study investigates the effect of lactate infusion on epileptic discharges on EEG and seizure frequency in glucose transporter 1 deficiency syndrome (GLUT1DS) patients.
+Eligibility: Inclusion Criteria:
+
+* Diagnosed with GLUT1DS and known in our center.
+* Baseline characteristics include a high frequency of clinical seizures and epileptic discharges on EEG.
+* History of trying ketogenic diet with good compliance without beneficial effects.
+* Age \> 6 years.
+* Informed consent.
+
+Exclusion Criteria:
+
+* Additional medical condition or illness that impairs the patient's ability to participate in the study (for example actual treatment of a malignancy, active infection, poorly controlled diabetes mellitus, hypertension, organ failure, clinically significant haematological or biochemical abnormalities).
+* Elevated serum sodium (\> 145 mmol/L).
+* Participation in another interventional study at start of the study or during the study.
+* Presence of known panic disorders or a history of panic attacks.

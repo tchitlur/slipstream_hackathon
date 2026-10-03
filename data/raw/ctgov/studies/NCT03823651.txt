@@ -1,0 +1,34 @@
+Title: A Research Program Targeting Pre- and Peri-transplant Optimization Program (R-PPOP)
+Official title: A Research Program Targeting Pre- and Peri-transplant Optimization Program (R-PPOP)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Hematologic Malignancy
+Interventions: Interval training (BEHAVIORAL); Psychiatric consult (BEHAVIORAL); Nutrition/diet evaluation (BEHAVIORAL); Referral to Social Worker (BEHAVIORAL)
+Summary: The purpose of this study is to evaluate the feasibility and outcomes of a research pre- and peri-transplant optimization program (R-PPOP) to improve multiple domains of health including physical function, cognitive function, mental health, and diet and nutrition for patients planning to undergo or undergoing hematopoietic stem cell transplantation (HCT).
+Eligibility: Patient Inclusion Criteria:
+
+* Plan to undergo an allogeneic hematopoietic stem cell transplant for any cancer or non-cancer illness within the next 6 months
+* Age 18-80 years
+
+Patient Exclusion Criteria:
+
+* Both patient and caregiver are unable to read and follow directions in English (ok if only patient cannot read and follow directions in English as caregiver will be able to help).
+* Any absolute contraindications to exercise:
+* recent (\< 6 months) acute cardiac event;
+* unstable angina;
+* uncontrolled dysrhythmias causing symptoms or hemodynamic compromise;
+* symptomatic aortic stenosis;
+* uncontrolled symptomatic heart failure;
+* acute pulmonary embolus;
+* acute myocarditis or pericarditis;
+* suspected or known dissecting aneurism; or
+* coronary artery disease.
+* Functional impairment resulting in inability to exercise
+
+Caregiver inclusion criteria
+
+* Identified by patient as their primary caregiver
+* Age 18-80 years
+
+Caregiver exclusion criteria
+
+* None

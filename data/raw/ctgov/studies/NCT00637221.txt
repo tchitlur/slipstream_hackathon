@@ -1,0 +1,32 @@
+Title: Open Label Study Investigating Safety and Efficacy of NPL2009 50 mg - 150 mg on Prepulse Inhibition Tests and Continuous Performance Tasks, Adults With Fragile X Syndrome
+Official title: An Open Label Exploratory Study to Investigate the Safety and Effects of NPL-2009 ( 50 mg - 150 mg Single Dose) on Prepulse Inhibition Tests and Continuous Performance Tasks, in Adults With Fragile X Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Fragile X Syndrome
+Interventions: NPL-2009 (DRUG)
+Summary: This is an open label exploratory study to investigate the safety and effects of a single dose of NPL-2009(50 mg - 150 mg) on Prepulse Inhibition (PPI) Tests and Continuous Performance Tasks (CPT) in adults with Fragile X Syndrome
+Eligibility: Inclusion Criteria:
+
+* Male or female patients, 18 to 45 years of age.
+* Diagnosis of Fragile X Syndrome.
+* Females must demonstrate a negative pregnancy test at screening.
+* Females of child-bearing potential must be using a medically accepted means of contraception or must remain abstinent for the duration of the study.
+* Each Legally Authorised Representative (LAR, usually parent or caregiver) must have a level of understanding sufficient to provide written informed consent to all required study tests and procedures.
+* Each patient must consent/assent (depending on center-specific procedures) to all required study tests and procedures.
+* Permitted concomitant medications must be stable for at least 6 weeks prior to enrollment. The following concomitant medications are permitted: psychostimulants, SSRIs, atypical antipsychotics, anticonvulsants which do not have liver inducing effects, clonidine.
+* Each patient must be able to swallow the capsules (2, 3 or 4) to be provided in the study.
+
+Exclusion Criteria:
+
+* Current treatment with anticonvulsants known to induce liver enzymes e.g. depakote
+* Current treatment with N-methyl-D-aspartate (NMDA) antagonists
+* Current treatment with tricyclic antidepressants
+* Current treatment with typical antipsychotics
+* Current treatment with lithium
+* Patients planning to commence cognitive behaviour therapy during the period of the study or those who have begun cognitive behavioural therapy within 6 weeks prior to enrolment.
+* History of, or current cardiovascular, renal, hepatic, respiratory and particularly gastrointestinal disease which may interfere with the absorption, distribution, metabolism or excretion of the study medication.
+* History of, or current cerebrovascular disease or brain trauma.
+* History of, or current significant endocrine disorder, e.g. hypo or hyperthyroidism.
+* History of, or current malignancy.
+* Presence of psychotic symptoms or lifetime history of schizophrenia, bipolar disorder, or other psychotic disorder, as assessed by the Investigator.
+* Current major depressive disorder (patients must be free of the disorder for 3 months prior to enrolment).
+* Judged clinically to be at risk of suicide (

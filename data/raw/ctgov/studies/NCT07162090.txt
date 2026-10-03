@@ -1,0 +1,32 @@
+Title: Hypoxia-inducible Factor Prolyl Hydroxylase Inhibitors on Sarcopenia in Hemodialysis Patients
+Official title: Observation of the Impact of Hypoxia - Inducible Factor Prolyl Hydroxylase Inhibitors on Sarcopenia in Hemodialysis Patients
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Sarcopenia; Anemia Associated With Chronic Kidney Disease (CKD); Dialysis Patients
+Interventions: Roxadustat (DRUG); Recombinant human erythropoietin (EPO) (DRUG)
+Summary: Sarcopenia, abbreviated as muscle loss, is a prevalent complication among patients with chronic kidney disease (CKD), particularly those with end - stage renal disease (ESRD). It significantly impacts patients' quality of life. The prevalence of sarcopenia in patients receiving maintenance hemodialysis (MHD) ranges from 32.7% to 73.5%, which is substantially higher than that in the general population (5% - 13%). Sarcopenia significantly elevates the mortality risk in MHD patients. Specifically, sarcopenia patients experience an increased all - cause mortality rate, a heightened risk of cardiovascular events, a decline in quality of life, and an augmented risk of falls and fractures. A close pathophysiological relationship exists between the hypoxia - inducible factor - 1 (HIF - 1) pathway and sarcopenia. HIF - 1α serves as a key transcription factor for cells to respond to hypoxic conditions. Under normoxic conditions, HIF - 1α is hydroxylated by prolyl hydroxylase (PHD) and subsequently undergoes ubiquitination - mediated degradation. Conversely, under hypoxic circumstances, HIF - 1α is stably expressed, translocates into the nucleus, and activates downstream target genes. HIF - 1
+Eligibility: Inclusion Criteria:
+
+* Age: 18 to 80 years old (inclusive), gender unrestricted.
+* End-stage renal disease and maintenance hemodialysis for at least 16 weeks.
+* The average Hb level is 7.0\~10.0 g/dL (the last two evaluations).
+* And have not received or have discontinued ESA/roxadustat treatment.
+* Vascular access: internal fistula or long-term hemodialysis catheter.
+* Weight between 45-100 kg.
+* Sarcopenia Diagnosis (Reference: AWGS 2019 Consensus):
+* Decreased muscle strength: Male grip strength \< 28 kg, female grip strength \< 18 kg.
+* Muscle mass decline: Assessed by bioelectrical impedance analysis (BIA) or dual-energy X-ray absorptiometry (DXA), it is characterized by appendicular skeletal muscle mass index (ASMI): \< 7.0 kg/m² for men and \< 5.7 kg/m² for women (BIA standard, the device and formula used should be specified).
+* Sarcopenia can be diagnosed when both "decreased muscle strength" and "reduced muscle mass" are present. If resources permit, "decreased physical function" (such as a 6-meter walking speed \< 1.0 m/s) can be added as an indicator for severity grading.
+* Voluntary participation in this study.
+* Must be able to swallow tablets。
+
+Exclusion Criteria:
+
+* Non-renal anemia: Anemia caused by other main reasons (such as thalassemia, megaloblastic anemia due to vitamin B12 or folic acid deficiency, active bleeding, hemolytic anemia, hematological malignancies, etc.).
+* Contraindications and related risks of Roxadustat:
+* People who are allergic to roxadustat or any of its excipients.
+* Uncontrolled hypertension (sitting systolic blood pressure remains \> 160 mmHg or diastolic blood pressure \> 100 mmHg after active antihypertensive treatment).
+* There have been thrombotic events such as acute myocardial infarction, unstable angina pectoris, stroke, deep vein thrombosis or pulmonary embolism within the past six months.
+* Those with known active malignant tumors or undergoing anti-tumor treatment (except for basal cell carcinoma, etc.) are excluded.
+* Diseases affecting muscle metabolism and assessment:
+* Severe thyroid dysfunction (uncontrolled).
+* Diagnosed with chronic liver cirrhosis, acute exacerbation of chronic obstructive pulmonary di

@@ -1,0 +1,23 @@
+Title: Intraoperative Imaging of Thoracic Malignancies With Indocyanine Green
+Official title: A Phase 1, Open-Label, Single Center Study of the Imaging Potential of Indocyanine Green in Subjects Undergoing Thoracic Surgery Presenting With Lung Nodules
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Lung Neoplasms
+Interventions: Indocyanine Green (DRUG)
+Summary: Our specific aim is to determine if Indocyanine Green (ICG) administered intraoperatively and imaged using our camera will aid in the identification of a suspected lung nodule.
+Eligibility: Inclusion Criteria:
+
+1. Adult patients over 18 years of age
+2. Patients presenting with a lung nodule or mass presumed to be resectable stage I, II, or IIIa non-small call lung cancer on pre-operative assessment
+3. Good operative candidate as determined by a thoracic oncology multidisciplinary team
+4. Subject capable of giving informed consent and participating in the process of consent
+
+Exclusion Criteria:
+
+1. Pregnant women as determined by urinary or serum beta hCG within 72 hours of surgery
+2. Subjects with a history of iodide allergies
+3. At-risk patient populations
+
+   * Homeless patients
+   * Patients with drug or alcohol dependence
+   * Children and neonates
+   * Patients unable to participate in the consent process

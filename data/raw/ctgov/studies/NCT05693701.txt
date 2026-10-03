@@ -1,0 +1,18 @@
+Title: Multicomponent Intervention Study- Blood Donors With High Cholesterol
+Official title: Implementing a Multicomponent Intervention to Treat Blood Donors With Familial Hypercholesterolemia
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Lipid Metabolism Disorder
+Interventions: Implementation Strategy Bundle (BEHAVIORAL); Usual care notification (OTHER)
+Summary: The purpose and objective of this study is to improve cholesterol treatment among blood donors with FH (Familial Hypercholesterolemia).
+Eligibility: Inclusion Criteria:
+
+* Blood donors from Carter BloodCare with high cholesterol meeting MEDPED FH criteria
+* Age 18 to 75 years
+
+Exclusion Criteria:
+
+* Currently taking medication to lower cholesterol
+* Taking any medication that can interact with statins
+* Pregnancy
+* Identified secondary cause of elevated lipids
+* Chronic liver disease or significantly elevated liver function tests (\> 3 times upper limit)

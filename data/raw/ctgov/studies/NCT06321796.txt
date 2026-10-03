@@ -1,0 +1,28 @@
+Title: Microbiota Transfer Therapy for Children and Adults With Both Pitt Hopkins Syndrome and Gastrointestinal Disorders
+Official title: Microbiota Transfer Therapy for Children and Adults With Both Pitt Hopkins Syndrome and Gastrointestinal Disorders: MTP-101 P
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Pitt Hopkins Syndrome
+Interventions: MTP-101P (COMBINATION_PRODUCT); Vancomycin (COMBINATION_PRODUCT); Magnesium Citrate (COMBINATION_PRODUCT); Antacid (COMBINATION_PRODUCT); Placebo MTP-101P (COMBINATION_PRODUCT); Placebo Vancomycin (COMBINATION_PRODUCT)
+Summary: The investigators propose to investigate Microbiota Transfer Therapy (MTT) for treating patients with Pitt-Hopkins Syndrome (PTHS) and gastrointestinal problems (constipation, bloating, abdominal pain). MTT involves a combination of 10 days of oral vancomycin (an antibiotic to kill pathogenic bacteria), followed by 1 day of bowel cleanse using magnesium citrate, followed by 4 days of high dose MTP-101P with an antacid, followed by 12 weeks of a lower maintenance dose of MTP-101P with an antacid.
+Eligibility: Inclusion Criteria:
+
+1. Children ages 5 to \<18 years and adults ages 18 to \< 55 years with Pitt Hopkins Syndrome (verified by genetic testing)
+2. GI disorder as defined below that has lasted for at least 2 years.
+3. No changes in medications, supplements, diet, or therapies in the 2 months prior to start of treatment, and no intention to change treatments during Part 1 (all participants) and Part 2 (group B) of the clinical trial. The only exception is GI medications, which may be reduced if symptoms reduce, and any changes during the study will be documented.
+4. Review of last year of medical records by the study physician.
+5. At least two previous trials of "standard of care" GI treatments that did not alleviate GI symptoms (constipation, diarrhea, bloating, gas, reflux, and/or abdominal pain). Standard of care treatments include laxatives, stool softeners, enemas, suppositories, or similar medications.
+
+Exclusion Criteria:
+
+1. Antibiotics in 2 months prior to start of treatment (topical antibiotics are allowed)
+2. Probiotics in 2 months prior to start of treatment, or fecal transplant in last 12 months. Foods naturally containing probiotics such as yogurt are allowed.
+3. Tube feeding may be an exclusion criterion if the participant requires an unusual diet such as a liquid diet with low fiber.
+4. Current severe gastrointestinal problems that require immediate hospital treatment (life-threatening)
+5. Ulcerative Colitis, Crohn's Disease, diagnosed Celiac Disease, Eosinophilic Gastroenteritis, or similar conditions
+6. Unstable, poor health (based on study physician's opinion), or active malignancy or infection.
+7. Recent or scheduled abdominal surgeries
+8. Current participation in other clinical trials
+9. Females who are pregnant or who are at risk of pregnancy and sexually active with a male partner without effective birth control. We will conduct a pregnancy test on all female participants 12 years and older as part of the screening and at each clinical visit.
+
+   Males who are sexually active with a female partner without highly effective birth control (IUD or birth control hormones).
+10. Allergy or intolerance to the study medications: vancomycin, magnesiu

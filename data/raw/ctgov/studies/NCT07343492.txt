@@ -1,0 +1,19 @@
+Title: fMRI Reveal Functional Preservation in Glioma Peritumoral Edema
+Official title: Individualized fMRI and Molecular Profiling Reveal Functional Preservation in Glioma Peritumoral Edema
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Glioma
+Interventions: none
+Summary: he goal of this observational study is to investigate the functional and biological characteristics of the brain tissue surrounding diffuse gliomas, known as peritumoral edema (PTE). The study aims to determine if a non-invasive brain imaging technique, resting-state functional MRI (rs-fMRI), can identify which parts of this edematous tissue are functionally preserved. The main questions it aims to answer are:
+
+Can individualized rs-fMRI mapping accurately distinguish functionally active subregions from non-functional subregions within the peritumoral edema?
+
+Do these functionally preserved regions, identified by imaging, correspond to areas with lower tumor cell infiltration and higher neuronal integrity when examined microscopically?
+
+Participants prospectively enrolled for glioma resection surgery as part of their standard clinical care will undergo preoperative rs-fMRI. This imaging data will be used to create individualized functional network maps of the PTE. During the planned surgery, biopsies will be taken from PTE areas identified by the rs-fMRI analysis as "functionally preserved" and "non-preserved." These tissue samples will then undergo molecular analysis to assess mar
+Eligibility: Inclusion Criteria:
+
+Right-handedness Pathologically confirmed diffuse glioma (WHO grade 2-4, based on 2021 WHO classification) Clinical indication for preoperative MRI Clearly delineated FLAIR hyperintensity surrounding the tumor Age 18 years or older Willing and able to provide written informed consent
+
+Exclusion Criteria:
+
+Prior brain biopsy or treatment for glioma Contraindications to MRI (e.g., pacemaker, ferromagnetic implants, severe claustrophobia) Comorbid psychiatric or neurological conditions that may affect functional imaging Head motion exceeding 1.0 mm translation or 1.0° rotation during rs-fMRI acquisition Framewise displacement (FD) greater than 0.2 mm during rs-fMRI

@@ -1,0 +1,64 @@
+Title: MDA and Targeted Control Against Plasmodium Carriage in the Sahel
+Official title: Mass Drug Administration and Targeted Control Against Carriage to Reduce Plasmodium Transmission in the Sahel - Administration de Masse d'Antipaludiques et Lutte ciblée Contre le Portage Pour REduire la Transmission de Plasmodium au Sahel
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Malaria, Falciparum; Malaria, Asymptomatic Parasitaemia
+Interventions: MDA with DHAp and SLD Primaquine (DRUG); Targeted control (10-24 years) during the malaria high tranmission season: behaviour (BEHAVIORAL); Targeted control (15-24 years) during the malaria high tranmission season: test and treat (DIAGNOSTIC_TEST)
+Summary: Strategies implemented since 2010 by the Senegalese National Malaria Control Program (NMCP) enabled a reduction of malaria transmission. However, malaria incidence increased again in recent years, especially in the "red zone" of Kedougou, Kolda and Tambacounda regions. Neighbouring Sahelian countries also documented an increase in malaria incidence in the same period. Current interventions include : long-lasting insecticidal nets, free diagnostic and treatment of clinical malaria, home-based case management (PECADOM), intermittent preventive treatment of pregnant women and seasonal malaria chemoprevention for children up to 10 years. These strategies, while efficient to reduce the burden of clinical malaria, do not account for individuals chronically infected with Plasmodium parasites. These carriers often remain asymptomatic and act as a reservoir for persistence during the dry season, and onwards transmission during the wet season. An observational study conducted in Kedougou in 2021 and 2022 by IRD Dakar shed light on the most affected age groups and on risk-factors associated with asymptomatic carriage.
+
+Interventions against asymptomatic carriage could complement existing stra
+Eligibility: Randomisation unit : cluster, defined as village or group of eligible villages \<3km from each other
+
+VILLAGE-LEVEL CRITERIA Inclusion
+
+* in Kedougou health district
+* population \<1500 inhabitants
+* \>5km from international border
+* \>3km from a town with 1500 inhabitants or higher
+* \>3km from another village/cluster
+
+Exclusion
+
+* village inaccessible during rainy season
+* village without community health worker and impossible to set up one
+
+INDIVIDUAL-LEVEL: MDA with DHA-piperaquine and single low dose primaquine Inclusion
+
+* consent (+ assent for youth aged 12-17)
+* age \>=3 months
+* in the village for \>=4 days at time of MDA initiation
+* not pregnant (women 15-49 years with negative pregnancy test or under contraception)
+
+Exclusion (excluded from DHA-piperaquine and primaquine)
+
+* allergy to artemisinin combination therapy
+* pregnant women (referred for administration of IPTp) or women without pregnancy test result
+* presenting with acute disease symptoms: in case of fever or history of fever, individuals will be tested with RDT and, if positive, refered to CHW or healthpost for symptomatic malaria treatment according to national guidelines.
+
+Exclusion (excluded from primaquine only, eligible for DHA-p)
+
+* children aged 3-6 months
+* lactating women
+
+INDIVIDUAL-LEVEL: youth-targeted testing and treatment activity Inclusion
+
+* age 15-24 (+ assent for youth aged 15-17)
+* consent Exclusion
+* none. in case of RDT-positivity, participants will be referred for treatment according to national guidelines (recommendation of treatment in case of a positive test, irrespective of symptoms).
+
+COHORT STUDY 8 villages/clusters selected for an in-depth cohort study
+
+Household inclusion
+
+* consent of head of household
+* not planning to move out of study village
+* 50% of more members aged \>=15 years agree to participate
+
+Individual participant inclusion
+
+* household member or visitor staying longer than 1 night
+* consent (+ assent for youth aged 12-17)
+* age \>=6 months
+
+Individual participant exclusion
+
+* in another study on malaria or health

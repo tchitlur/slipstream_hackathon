@@ -1,0 +1,26 @@
+Title: Investigation of Cognitive Outcomes With Cannabidiol Oral Solution
+Official title: An Open-Label Exploratory Investigation of Cognitive Outcomes With Cannabidiol Oral Solution (EPIDIOLEX®; GWP42003-P)
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Lennox-Gastaut Syndrome
+Interventions: GWP42003-P (DRUG)
+Summary: This study is being conducted to evaluate the effects of GWP42003-P on cognition in pediatric participants, aged 3 to 10 years, with Lennox-Gastaut Syndrome (LGS).
+Eligibility: Key Inclusion Criteria:
+
+* Participant is male or female aged 3-10 years.
+* Participants' parent(s)/legal representative is willing and able to give informed consent for participation in the trial; where the participant possesses adequate understanding, informed assent should also be taken.
+* Participant and their caregiver are willing and able (in the investigator's opinion) to comply with all trial requirements.
+* Participant must have a clinical diagnosis of Lennox-Gastaut Syndrome (LGS), with onset within the last 5 years. This includes certification from the investigator of prior electroencephalogram (EEG) documenting slow spike wave (\< 3 Hertz \[Hz\]) during the participant's history and evidence of more than 1 type of generalized seizure, including drop seizures (atonic, tonic, or tonic-clonic), for at least 6 months.
+* Investigator can confirm that the addition of GWP42003-P to the participant's existing antiepileptic drug (AED) regimen is warranted.
+* Participant must have at least 1 drop seizure each week during the first 28 days of the baseline period.
+* A minimum level of general intellectual functioning as assessed at screening with the Peabody Picture Vocabulary Test
+* Participant's parent(s)/legal representative is willing to allow the responsible authorities to be notified of participation in the trial, if mandated by local law.
+* Participant's parent(s)/legal representative is willing to allow his or her primary care practitioner (if they have one) and consultant (if they have one) to be notified of participation in the trial, if the primary care practitioner/consultant is different to the investigator.
+
+Key Exclusion Criteria:
+
+* Participant has clinically significant unstable medical conditions other than epilepsy.
+* Participant experiences \> 300 total seizures within the first 28 days of the baseline period.
+* Participant has any prior exposure to GWP42003-P.
+* Participant has initiated felbamate within the last 12 months.
+* Participant has initiated mammalian target of rapamycin (mTOR) inhibitors for epilepsy within the last 4 weeks.
+* Participant is currently using or has in the past used recreational or medicinal cannabis or synthetic ca

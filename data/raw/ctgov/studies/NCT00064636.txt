@@ -1,0 +1,26 @@
+Title: Phase I Dose Escalation Study of VELCADE Plus Docetaxel in Patients With Advanced Non-Small Cell Lung Cancer or Other Solid Tumors
+Official title: A Phase I, Open Label, Dose Escalation Study of PS-341 Plus Docetaxel in Treatment-Naive or Previously Treated Patients With Advanced Non-Small Cell Lung Cancer or Other Solid Tumors
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Advanced Non-Small Cell Lung Cancer; Other Solid Tumors
+Interventions: VELCADE TM (bortezomib) for Injection, or PS-341 (DRUG)
+Summary: The purpose of this study is to evaluate how safe VELCADE (PS-341) is when given with Taxotere (Docetaxel) to patients with non-small cell lung cancer or other solid tumors, and also to see what effects (good and bad) it has on you and your cancer.
+Eligibility: Adults with advanced and/or metastatic NSCLC or other solid tumors who are treatment-naïve or previously received up to two anti-neoplastic treatment regimens and for whom there is no known curative therapy may be enrolled in this study. The actual number of patients enrolled depends on the dosing cohort in which dose-limiting toxicity is seen.
+
+Inclusion criteria
+
+Each patient must meet all of the following inclusion criteria to be enrolled in the study:
+
+* Patient has histologically-confirmed advanced and/or metastatic NSCLC or other solid tumors, for which the patient is treatment-naïve or previously received up to two anti-neoplastic treatment regimens and for whom there is no known curative therapy. Patients enrolled at the Low- and High- Dose Expanded Cohorts must have a diagnosis of NSCLC in order to be eligible.
+* Previous treatment with carboplatin or paclitaxel does not preclude enrollment in the study.
+* Patient has measurable or evaluable disease. Patients enrolled at the expanded cohorts must have measurable disease according to the Response Evaluation Criteria in Solid Tumors (RECIST) guidelines \[1\] presented in Table 3 and Table 4.
+* Patient is 18 years of age or older.
+* Patient has a Karnofsky performance status of 60% or higher.
+* Patient has a life expectancy of three months or longer.
+* Patient has all of the following pretreatment laboratory data within 21 days of the first study drug dose:
+* Absolute neutrophil count (ANC) greater than or equal to 1,500/mm3.
+* Platelet count greater than or equal to 100,000/mm3.
+* Hemoglobin greater than or equal to 8.0 g/dL.
+* Serum creatinine less than or equal to 1.5 x the ULN:
+* Patient has given voluntary written informed consent before performance of any study-related procedure not part of normal medical care.
+* Female patient is post-menopausal, surgically sterilized, or willing to use acceptable methods of birth control (i.e., a hormonal contraceptive, intra-uterine device, diaphragm with spermicide, condom with spermicide, or abstinence) from the Screening visit through 90 days after the last study drug dose.
+* Male patient agrees to use an acceptable barrier method for contraception from the Scr

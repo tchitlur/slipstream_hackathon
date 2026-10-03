@@ -1,0 +1,23 @@
+Title: Pharmaceutical Care and Quality of Life in Conditions Related to Psychotropic Drug Use
+Official title: Assessment of the Impact of Pharmaceutical Care on the Quality of Life in Conditions Related to Psychotropic Drug Use and Evaluation of the Intervention
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Mental Health Services
+Interventions: Pharmaceutical care in solving drug-related problems in subjects using psychotropic medicines based on standardized protocol.. (OTHER); Common pharmacists' practice in Croatia. (OTHER)
+Summary: This study aims to assess and describe the impact of pharmaceutical care on identified drug-related problems (DRPs) in subjects using psycholeptics and psychoanaleptics in primary care, improving subjects' self-assessed quality of life (QoL)
+
+The hypothesis of the study are:
+
+1. Side-effects are the most common DRPs in subjects using psychotropic medicines in primary care,
+2. Treatment effectiveness and safety affect the subjects´ QoL
+Eligibility: Inclusion Criteria:
+
+* Adult participants (years 18+)
+* Usage of psycholeptic or psychoanaleptic medicines
+* Residence in Istrian County (Croatia)
+
+Exclusion Criteria:
+
+* Minor participants
+* Hospitalization during study participation
+* Unable to live by themselves
+* Unable to participate in study for 3 months

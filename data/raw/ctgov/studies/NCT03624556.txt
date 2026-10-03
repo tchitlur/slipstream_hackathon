@@ -1,0 +1,23 @@
+Title: Pediatric Exploratory Research Study of EGCG Use and Safety (PERSEUS)
+Official title: Pediatric Exploratory Research Study of EGCG Use and Safety (PERSEUS)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Down Syndrome; Fragile X Syndrome
+Interventions: EGCG FontUp (DIETARY_SUPPLEMENT); Placebo FontUp (OTHER)
+Summary: To evaluate safety and tolerability of epigallocatechin gallate (EGCG) in children from 6 to 12 years old with Intellectual Developmental Disorders (IDD) (Down syndrome or Fragile X syndrome).
+Eligibility: Inclusion Criteria:
+
+* Males and females aged 6 to 12 years on day 1 of treatment.
+* Clinical diagnosis of DS (full trisomy 21 or translocated) confirmed by chromosomal analysis (karyotyping) (Cohort I) or molecular diagnosis for FXS (mutations or premutations on the fragile mental retardation 1 gene-Fmr1 of the X chromosome) (Cohort II). A karyotype will be performed if not available in DS population. FXS molecular diagnosis will be performed if not available in FXS population.
+* A body-weight under 50 kg.
+* Parent or legal guardian/representative and caregiver willing to give written informed consent.
+* Mental age ≥ 3 years (Brunet-Lézine scale C version, picture naming and receptive vocabulary of the WPPSI-IV)
+* Study participants must have sufficient vision and hearing to participate in study evaluations. Mild hearing loss will be allowed.
+* Availability of parent/caregiver to accompany the subject to clinical visits, provide information about the subject's behavior and symptoms and ensure compliance with the medication schedule.
+* Subjects must be able to understand basic instructions. Naming and comprehension tasks of the WPPSI-IV will be used as an evaluation
+
+Exclusion Criteria:
+
+* Study participants with a current Diagnostic and Statistical Manual of Mental Disorders (DSM-5) diagnosis of any primary psychiatric diagnosis (including autism spectrum disorder). For secondary diagnoses, such as attention deficit hyperactivity disorder, depression and conduct disorder, individuals under a fixed regime of medication (a regime that does not change in the 6 weeks prior to enrollment) are allowed as long as they are considered stable and their medication does not interfere with the progression of the study.
+* Personal history of infantile spasms, of epilepsy, of severe head trauma or Central Nervous System (CNS) infections (e.g. meningitis), with the exception of a single isolated febrile seizure.
+* Subjects with past history of seizures from primary causes (such as West syndrome and Lennox-Gastaut syndrome) or secondary causes.
+* Clinical history of moderate or severe Obstructive Sleep Apnea (OSA) as defined by Apnea-Hypopnea Index (AHI) (\>15 events per hour n

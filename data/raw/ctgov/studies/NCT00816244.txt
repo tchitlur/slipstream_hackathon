@@ -1,0 +1,30 @@
+Title: Study of Statin as Neo-Adjuvant Therapy in Postmenopausal Breast Cancer
+Official title: A Phase II Study of Neo-Adjuvant Statin Therapy in Postmenopausal Primary Breast Cancer: A Window-of-Opportunity Study
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Breast Cancer; Postmenopausal
+Interventions: Atorvastatin (DRUG)
+Summary: The purpose of this study is to monitor:
+
+* Tumor biological alterations following two weeks of neo-adjuvant statin therapy.
+* Effects of statins on tumor proliferation.
+* Functional studies on the mevalonate pathway.
+Eligibility: Inclusion Criteria:
+
+* Women with primary breast cancer who are candidates for radical surgery.
+* Breast tumours clinically ≥ 15 mm, Nx, M0.
+* Breast tumours identified on mammography and verified on fine needle aspiration.
+* Age \> 18 years.
+* Performance status of ECOG ≤ 1.
+* Laboratory requirements at the day of diagnosis (t1-):Prior to inclusion a normal renal (serum creatinine) and hepatic (transaminases) function (within normal limits) estimated in blood samples is required.
+* Prior to patient registration, written informed consent must be given according to ICH/GCP, and national/local regulations.
+* Negative pregnancy test for pre menopausal women before inclusion in the trial
+
+Exclusion Criteria:
+
+* Ongoing cholesterol lowering therapy (statins, fibrates, ezetimibe).
+* Prior breast cancer treatment.
+* Current HRT.
+* Known liver disease.
+* History of hemorrhagic stroke.
+* Psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule; these conditions will be discussed with the patient before registration in the trial.
+* History of allergic reactions attributed to compounds of similar chemical or biological composition to atorvastatin.

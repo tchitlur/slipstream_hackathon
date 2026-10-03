@@ -1,0 +1,19 @@
+Title: Exploring the Physiological Mechanisms of Austism Through Organoids
+Official title: Exploring the Physiologicla Mechainisms of Austism Through Organoids Derived Differentiated Cells of Individuals With Autism
+Status: NOT_YET_RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Autism Spectrum Disorder (ASD
+Interventions: none
+Summary: Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder affecting approximately 1% of the population, characterized by difficulties with social interaction and communication. Studies have identified more than 200 genes linked to ASD, particularly those involved in chromatin remodeling and synaptic neuronal connectivity (CHD8, SCN2A, NLGN3-4X, SHANK1-3). The goal of the project is to decipher the biological mechanisms underlying ASD in order to develop therapeutic strategies, using innovative preclinical models such as organoids.
+Eligibility: Inclusion Criteria:
+
+* A child diagnosed with an autism spectrum disorder in accordance with clinical practice guidelines
+
+  * A sibling without an autism spectrum disorder (SRS \< 65)
+  * Biological parents
+  * Children and parents must be enrolled in a social security program, Universal Health Coverage (CMU), or an equivalent program.
+
+Exclusion Criteria:
+
+* Refusal to undergo a blood test
+* Uncontrolled (unstabilized) medical condition (including psychiatric conditions) that precludes participation in the study
+* Sibling with an SRS score \> 65 at screening or under 2 years old

@@ -1,0 +1,26 @@
+Title: Effects of Pitavastatin on Insulin Sensitivity and Liver Fat
+Official title: Effects of Pitavastatin on Insulin Sensitivity and Liver Fat
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Obesity; Fatty Liver, Nonalcoholic
+Interventions: pitavastatin (DRUG); PLACEBO (OTHER)
+Summary: HMG co-A reductase inhibitors, commonly called statins, are an effective treatment for dyslipidemia and atherosclerotic heart disease with proven mortality benefit. While the lipid-lowering effects of statins are well-known, other metabolic effects, including effects on glucose tolerance and ectopic fat distribution, are less completely understood. Recent studies have shown that some statins may increase the risk of diabetes. Further, research has suggested that statins may have some benefit in nonalcoholic fatty liver disease (NAFLD), a condition associated with obesity that includes increased fat in the liver (steatosis) and, in some cases, inflammation and hepatocellular damage (steatohepatitis). Pitavastatin, approved by the United States Food and Drug Administration (FDA) in 2009, is the most recent statin to enter the market. Unlike most statins, pitavastatin is not primarily metabolized through cytochrome P450 (CYP450), and thus has reduced potential for interactions with other medications that are metabolized by CYP450. Previous studies have suggested that pitavastatin may be neutral to glucose homeostasis and may improve hepatic lipid. Neither of these effects has been pro
+Eligibility: Inclusion Criteria:
+
+1. Men age 40-65yo
+2. BMI ≥ 27kg/m2 and waist circumference ≥102cm, high probability risk factors for NAFLD
+3. At least one of the following indicating insulin resistance: Fasting glucose ≥100mg/dL and \<126mg/dL, HOMA-IR \>2.0, and/or 2 hour glucose ≥140mg/dL and \<200mg/dL following standard glucose tolerance test.
+4. 10-year cardiovascular disease risk ≥5% by American Heart Association(AHA)/American College of Cardiology (ACC) Pooled Cohort Equations CV Risk Calculator or LDL ≥ 100mg/dL
+5. No use of any statin within 1 year of study entry and not being actively considered for statin therapy by a treating provider.
+
+Exclusion Criteria:
+
+1. Diagnosis of diabetes or use of anti-diabetic medications.
+2. Use of erythromycin, rifampin, cyclosporin, colchicine, or gemfibrozil.
+3. Use of statin therapy within 1 year prior to study entry as above. Use of any other lipid-modifying therapy (including fish oil, fibrates, niacin, gemfibrozil) within 6 months of study entry.
+4. Contraindication to statin therapy.
+5. Creatinine \> upper limit of normal or known renal disease
+6. AST or ALT \> 3 times the upper limit of normal
+7. hemoglobin \< 10g/dL
+8. Contraindication to undergoing a magnetic resonance scan.
+9. Atherosclerotic cardiovascular disease or low-density lipoprotein cholesterol (LDL-C) ≥ 190mg/dL.
+10. Triglyceride ≥500mg/dL

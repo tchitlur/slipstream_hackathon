@@ -1,0 +1,27 @@
+Title: Efficacy of Zoledronic Acid in Osteoporosis of Children With Multiple Disabilities
+Official title: Study of Efficacy of Zoledronic Acid in the Management of Osteoporosis in Children With Multiple Disabilities
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Multiple Disability; Osteoporosis
+Interventions: Zoledronic Acid (DRUG)
+Summary: The main purpose of this study is the evaluation of the efficacy of zoledronic acid on bone density in children with osteoporosis caused by multiple disabilities.
+
+Secondary purposes are:
+
+1. Description of child population with osteoporosis in the context of motor impairment in Lorraine region
+2. Description of osteoporosis stage (level of bone mineralization and clinical consequences) in children with multiple disabilities
+3. Description of current osteoporosis preventive care
+4. Description of risk factors associated to bone status (drugs)
+5. Evaluation of zoledronic acid treatment on fracture numbers
+6. Evaluation of zoledronic acid on phosphocalcic profile
+7. Description of side effects of zoledronic acid in this indication
+8. Description of treatment effects in the sub-population of children with Rett syndrome.
+Eligibility: Inclusion Criteria:
+
+* Non refusal of parents of participation of their child to the study
+* Patients followed for multiple disabilities
+* Osteoporosis: lumbar osteodensitometry z-score \<-2.5 SD associated or not to pathologic fracture
+
+Exclusion Criteria:
+
+* Bone pathology due to other genetic reasons (rickets, osteogenesis imperfecta)
+* Absence of multiple disabilities

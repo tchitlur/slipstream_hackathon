@@ -1,0 +1,24 @@
+Title: Investigating the Therapeutic Efficacy of All-trans Retinoic Acid in Autism Spectrum Disorder Patients With 15q11-13 Duplication Syndrome
+Official title: Investigating the Therapeutic Efficacy of All-trans Retinoic Acid in Autism Spectrum Disorder Patients With 15q11-13 Duplication Syndrome
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Dup15q Syndrome; Autism Spectrum Disorder; Therapy; All-trans Retinoic Acid
+Interventions: ATRA (DRUG)
+Summary: Autism spectrum disorder (ASD) , hereafter referred to as autism, is a group of neurodevelopmental disorders caused by genetic and environmental factors. Its core symptoms are social impairment, repetitive stereotyped behaviors, and restricted interests.
+
+The 15q11-13 region of the human chromosome is a locus prone to structural abnormalities leading to neurological disorders. Maternal duplications within this region lead to Dup15q syndrome , which accounts for approximately 1% of ASD cases .
+
+This region harbors multiple alleles, and current research indicates that the pathophysiological alterations in this syndrome primarily involve UBE3A . Among all genes in the 15q11-13 region, only UBE3A exhibits cell-type-specific maternal monoallelic expression . Consequently, duplication of the UBE3A gene is considered the primary pathogenic factor in the pathology of Dup15q syndrome.
+
+Studies show that the metabolic conversion of retinol to retinoic acid is impaired in ASD patients with UBE3A overexpression and corresponding animal models . Notably, dietary supplementation with all-trans retinoic acid (ATRA) has been shown to significantly ameliorate autism-like behaviors caused by UBE3A o
+Eligibility: Inclusion Criteria:
+
+1. Clinical Diagnosis Conducted by two experienced physicians based on Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition （DSM-V）
+2. Diagnostic Scale Assessment Performed by professionally certified examiners using ADOS-2
+3. Genetic Testing Diagnostic criteria via genomic analysis : detection of 15q11-13 duplication containing UBE3A
+
+Exclusion Criteria:
+
+1. History of acute or chronic infection within the past 3 months
+2. Active epileptic seizures within the past 6 months
+3. Intake of nutritional supplements (e.g., vitamin A and/or minerals) within the past 1 month
+4. History of chronic diseases, including abnormal liver function, abnormal renal function, or thyroid dysfunction

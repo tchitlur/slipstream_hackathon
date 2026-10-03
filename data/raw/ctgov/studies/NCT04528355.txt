@@ -1,0 +1,61 @@
+Title: Data Collection Study of Patients With Non-Malignant Disorders Undergoing UCBT, BMT or PBSCT With RIC
+Official title: A Prospective Outcomes Study of Pediatric and Adult Patients With Non-Malignant Disorders Undergoing Umbilical Cord Blood, Bone Marrow, or Peripheral Blood Stem Cell Transplantation With a Reduced-Intensity Conditioning Regimen (PRO-RIC)
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Primary Immunodeficiency (PID); Congenital Bone Marrow Failure Syndromes; Inherited Metabolic Disorders (IMD); Hereditary Anemias; Inflammatory Conditions
+Interventions: data collection (DRUG)
+Summary: This is a data collection study that will examine the general diagnostic and treatment data associated with the reduced-intensity chemotherapy-based regimen paired with simple alemtuzumab dosing strata designed to prevented graft failure and to aid in immune reconstitution following hematopoietic stem cell transplantation.
+Eligibility: Inclusion Criteria:
+
+1. Patient, parent, or legal guardian must have given written informed consent.
+2. Patient must be 2 months to 60 years (inclusive) of age at time of consent for all diagnoses.
+3. Patients should have a non-malignant disorder amenable to treatment by stem cell transplantation, including but not limited to the following:
+
+   A. Primary Immunodeficiency Syndromes
+   * Severe Combined Immune Deficiency (SCID) with NK cell activity
+   * Omenn Syndrome
+   * Bare Lymphocyte Syndrome (BLS)
+   * Combined Immune Deficiency (CID) syndromes
+   * Combined Variable Immune Deficiency (CVID) syndrome
+   * Wiskott-Aldrich Syndrome
+   * Leukocyte adhesion deficiency
+   * Chronic granulomatous disease (CGD)
+   * Hyper IgM (XHIM) syndrome
+   * IPEX syndrome
+   * Chediak-Higashi Syndrome
+   * Autoimmune Lymphoproliferative Syndrome (ALPS)
+   * Hemophagocytic Lymphohistiocytosis (HLH) syndromes
+   * Lymphocyte Signaling defects
+
+   B. Congenital Bone Marrow Failure Syndromes
+   * Congenital Amegakaryocytic Thrombocytopenia (CAMT)
+   * Osteopetrosis
+
+   C. Inherited Metabolic Disorders (IMD)
+   * Mucopolysaccharidoses
+
+     * Hurler syndrome (MPS I)
+     * Hunter syndrome (MPS II)
+   * Leukodystrophies
+
+     * Krabbe Disease, also known as globoid cell leukodystrophy
+     * Metachromatic leukodystrophy (MLD)
+     * X-linked adrenoleukodystrophy (ALD)
+   * Other inherited metabolic disorders
+
+     * Alpha Mannosidosis
+     * Gaucher Disease
+     * Other inheritable metabolic diseases where HSCT may be beneficial
+
+   D. Hereditary Anemias
+   * Thalassemia major
+   * Sickle cell disease (SCD)
+   * Diamond Blackfan Anemia (DBA)
+
+   E. Inflammatory Conditions
+   * Crohn's Disease or Inflammatory Bowel Disease
+   * IPEX or IPEX-like Syndromes
+   * Rheumatoid Arthritis
+   * Other inflammatory conditions where HSCT may be beneficial
+4. Subjects receive either umbilical cord blood, bone marrow, or peripheral blood stem cell transplant with an alemtuzumab, melphalan, thiotepa, fludarabine and hydroxyurea-based, reduced-intensity conditioning regimen, according to clinical practice at UPMC Children's Hospital of Pittsburgh.
+
+There are no exclusion criteria.

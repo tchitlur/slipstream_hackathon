@@ -1,0 +1,19 @@
+Title: Effect of Glass-Ionomer Sealing Technique on Hypersensitive Teeth With Molar Incisor Hypomineralisation
+Official title: Evaluation of Efficiency, Acceptance and the Durability of Glass-Ionomer Sealing Technique on Hypersensitive MIH (Molar Incisor Hypomineralisation) Teeth With and Without Enamel Breakdown - a Cohort Study
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Hypersensitive; Molar Incisor Hypomineralization; Pit and Fissure Sealants
+Interventions: GIC on MIH (COMBINATION_PRODUCT)
+Summary: This single armed cohort study is aimed to assess the acceptance, durability and efficiency of glass-Ionomer sealing technique on hypersensitive MIH molars (TNI-3 \& 4a/b/c) clinically shortly (15 minutes) after the application and after a time period of 3 months.
+Eligibility: Inclusion Criteria:
+
+* Self-reported hypersensitive MIH molar (MIH-TNI 3 \& 4a/b/c).
+* Children \& adolescents without systematic health diseases.
+* No sealing therapy or application of desensitizing agent on the MIH-teeth within 1 month before participation in the study.
+* Agreement to voluntary participation in the study.
+
+Exclusion Criteria:
+
+* Patients with acute pain/ patients with signs or symptoms to be treated.
+* Patients with systemic disease that require special attention during their dental treatment.
+* Parents / children who refused to participate in the study. - MIH teeth with signs of irreversible pulpitis.
+* Allergy against any ingredients of the material.

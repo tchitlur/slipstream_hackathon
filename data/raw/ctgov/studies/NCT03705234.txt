@@ -1,0 +1,31 @@
+Title: A Randomized Trial Assessing the Effects of Inclisiran on Clinical Outcomes Among People With Cardiovascular Disease
+Official title: HPS-4/TIMI 65/ORION-4: A Double-blind Randomized Placebo-controlled Trial Assessing the Effects of Inclisiran on Clinical Outcomes Among People With Atherosclerotic Cardiovascular Disease
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Atherosclerotic Cardiovascular Disease
+Interventions: Inclisiran (DRUG); Placebo (DRUG)
+Summary: ORION-4 is a research study coordinated by the University of Oxford and co-sponsored by The University of Oxford and Novartis (Protocol: CTSU\_MDCO-PCS-17-01 (CKJX839B12301)). The study aims to find out if a new cholesterol-lowering injection (inclisiran) safely lowers the risk of heart attacks and strokes in people who have already had one of these conditions, or who have had an operation or procedure to treat blocked arteries.
+Eligibility: Inclusion Criteria
+
+History or evidence of at least one of the following:
+
+* Prior MI; or
+* Prior ischemic stroke; or
+* Peripheral artery disease as evident by prior lower extremity artery revascularization or aortic aneurysm repair.
+
+Minimum age is 40 years for men and 55 years for women
+
+Exclusion Criteria
+
+None of the following must be satisfied (based on self-reported medical history):
+
+* Acute coronary syndrome or stroke less than 4 weeks before the Screening visit or during the Run-in period;
+* Coronary revascularization procedure planned within the next 6 months;
+* Known chronic liver disease;
+* Current or planned renal dialysis or transplantation;
+* Previous exposure to inclisiran or participation in a randomized trial of inclisiran;
+* Previous (within about 3 months), current or planned treatment with a monoclonal antibody targeting PCSK9, or with a drug known to be contra-indicated with inclisiran (none currently known);
+* Known to be poorly compliant with clinic visits or prescribed medication;
+* Medical history that might limit the individual's ability to take trial treatments for the duration of the study (e.g. severe respiratory disease; cancer or evidence of spread within approximately the last 5 years, other than non-melanoma skin cancer; or history of alcohol or substance misuse) or may put the individual at significant risk in the opinion of the investigator (or their authorised deputy) if he/she were to participate in the trial;
+* Women of child-bearing potential, current pregnancy, or lactation;
+* Current participation in a clinical trial with an unlicensed drug or device; or
+* Staff personnel directly involved with the study and any family member of the investigational study staff.

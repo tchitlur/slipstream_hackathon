@@ -1,0 +1,26 @@
+Title: An Efficacy and Safety Study of Clemizole HCl in Patients With Lennox-Gastaut Syndrome
+Official title: Multicenter, Randomized, Double-blind, Placebo-controlled Trial of Clemizole HCl as Adjunctive Therapy in Patients With Lennox-Gastaut Syndrome
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Lennox Gastaut Syndrome
+Interventions: Clemizole HCl (DRUG); Placebo (DRUG)
+Summary: This is a multicenter, Phase 3, randomized, double-blind, placebo-controlled study designed to evaluate the efficacy and safety of clemizole HCL (EPX-100) as adjunctive therapy in children and adult participants with Lennox-Gastaut syndrome (LGS).
+Eligibility: Key Inclusion Criteria:
+
+1. Males or females, ages ≥2 to ≤55 years, at the time of Screening.
+2. Participant/parent/legal authorized representative (LAR) willing and able to give written informed consent/assent.
+3. Diagnosis of LGS, including:
+
+   * Evidence of at least one type of countable major motor seizure.
+   * History of electroencephalogram (EEG) consistent with LGS (abnormal background activity, and one of the following: 1) slow spike-wave discharges \[\<2.5 Hz\], or 2) paroxysmal fast activity during sleep).
+   * Abnormal cognitive development.
+   * Onset of seizures at 11 years of age or younger.
+
+Key Exclusion Criteria:
+
+1. Known sensitivity, allergy, or previous exposure to clemizole HCl.
+2. Known history of long QT syndrome or any significant history of a serious abnormality of the electrocardiogram (ECG) (e.g., recent myocardial infarction, clinically significant arrhythmia).
+3. Family history of sudden cardiac death, unexplained death, or death from a primary dysrhythmia potentially associated with QT prolongation in any family member.
+4. Seizures secondary to illicit drug or alcohol use, infection, neoplasm, demyelinating disease, degenerative neurological disease, or progressive central nervous system disease, metabolic illness, recent anoxic episode within the last 6 months requiring resuscitation, or progressive degenerative disease or any other condition, which in the opinion of the investigator, could affect seizure control.
+5. Epilepsy surgery planned during the study or epilepsy surgery within 6 months prior to Screening.
+6. Concomitant use of fenfluramine.
+7. Prior or concomitant use of lorcaserin.

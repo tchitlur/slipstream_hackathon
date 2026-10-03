@@ -1,0 +1,23 @@
+Title: Oral Pyridoxal 5'-Phosphate for the Treatment of Patients With PNPO Deficiency
+Official title: Study of Pyridoxal 5'-Phosphate for the Treatment of Patients With PNPO Deficiency
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Pyridox(am)Ine 5'-Phosphate Oxidase Deficiency
+Interventions: Pyridoxal Phosphate (DRUG)
+Summary: The proposed clinical study is intended to evaluate oral P5P for the treatment of patients confirmed to have Pyridox(am)ine 5'-Phosphate Oxidase (PNPO) deficiency via genetic analysis. There is an unmet clinical need for pharmaceutical grade P5P, as to date none has been made commercially available. Patients will receive pharmaceutical grade P5P according to their normal oral P5P dosing regimen, as previously established by their physicians.
+Eligibility: Inclusion Criteria:
+
+1. Patients with confirmed PNPO deficiency via genetic analysis, whose seizures are typically controlled on P5P (oral) therapy.
+
+   a. Typically controlled is defined as receiving multiple doses of P5P daily to control seizures. Receiving P5P for a minimum of 30 days.
+2. Male and/or female patients.
+3. Aged ≥2 years
+
+(3) Patients with previous failed treatment on pyridoxine are eligible for the study (patient should be off pyridoxine for at least 24 hours).
+
+(4) Written informed consent (by parent or guardian if under the age of 18).
+
+Exclusion Criteria:
+
+1. The patient has any condition or abnormality which may, in the opinion of the Investigator, compromise the safety of the patient, or influence their ability to comply with study procedures.
+2. Known or suspected allergy to the trial drug or the relevant drugs given in the trial.
+3. Involvement in a clinical research study within 4 weeks prior to screening and/or prior enrollment in the study. Participation in observational registry studies is permitted.

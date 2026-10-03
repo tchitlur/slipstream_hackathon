@@ -1,0 +1,17 @@
+Title: Efficacy of Seven-day Combined Rabeprazole Plus Levofloxacin Plus Augmentin for Eradication of Helicobacter Pylori
+Official title: Efficacy of Seven-day Combined Rabeprazole Plus Levofloxacin Plus Augmentin for Eradication of Helicobacter Pylori.
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Helicobacter Pylori Infection
+Interventions: Levofloxacin-Amox/clav. (DRUG); Clarithromycin-Amoxicillin (DRUG)
+Summary: This prospective controlled randomized open-label clinical trial is designed to determine the eradication rate of 7-day levofloxacin, amoxicillin/clavulanate and rabeprazole regimen compared with 7-day standard triple therapy for adults infected with Helicobacter pylori in Eastern Taiwan.
+Eligibility: Inclusion Criteria:
+
+* Patient proved with infection of H. pylori in gastric mucosa
+* Patient with signed informed consent.
+
+Exclusion Criteria:
+
+* woman in breast feeding or pregnancy.
+* allergy or severe adverse effects to drugs used in study.
+* severe complications of peptic ulcer disease (like perforation or obstruction).
+* patients with history of cancer or failure of major organs.

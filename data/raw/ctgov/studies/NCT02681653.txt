@@ -1,0 +1,20 @@
+Title: Study the Impact of Statins in Septic Shock
+Official title: Prospective Randomized Study to Assess Impact of Statins in Septic Shock
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Septic Shock
+Interventions: Atorvastatin (DRUG); Placebo (DRUG)
+Summary: Sepsis is a common, expensive, frequently fatal and highly complex inflammatory syndrome wherein multiple cellular and humoral pathways are involved. Since it's a multifactorial syndrome merely blocking one of the various inflammatory pathways may not suffice to provide effective treatment and this may partly explain why most of the adjunctive therapies developed for severe sepsis have yielded disappointing results in rigorous clinical trials. Statins have varied pleiotropic effects on the inflammatory mediators and there addition to the current adjuvant therapies in septic shock may help in reduction of mortality. The present trial aims to study survival benefit and changes in bio-marker levels in septic shock.
+
+Adult patients (\>=18 years) in septic shock and admitted to ICU will be included in the study. Patients will be randomized as per computer generated random number into the Drug (Atorvastatin, 40 mg) or matched placebo group. Drug or placebo will be given to selected patient via nasogastric tube for 7 days. Bio markers (Il-6, TNF-alpha) estimated during the trial week (Days 1, 4, and 7). All clinical and study personnel and patients remained blinded to the study group assi
+Eligibility: Inclusion Criteria:
+
+* Clinical disease of septic shock
+* Aged eighteen years and above
+* Admitted to ICU
+
+Exclusion Criteria:
+
+* Previous statin induced myopathy or hypersensitivity reaction
+* Greater than two and half times elevated liver transaminases
+* Chronic liver disease
+* Pregnant or lactating mothers

@@ -1,0 +1,25 @@
+Title: Sapanisertib in Treating Patients With Locally Advanced or Metastatic Bladder Cancer With TSC1 and/or TSC2 Mutations
+Official title: An Open Label, Multicenter, Single Arm Phase II Study to Evaluate the Activity and Tolerability of the Novel mTOR Inhibitor, MLN0128 (TAK-228), in Patients With Locally Advanced or Metastatic Transitional Cell Carcinoma of the Urothelial Tract Whose Tumors Harbor a TSC1 and/or a TSC2 Mutation
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Locally Advanced Bladder Urothelial Carcinoma; Metastatic Transitional Cell Carcinoma; Metastatic Urothelial Carcinoma; Recurrent Bladder Carcinoma; Stage III Bladder Urothelial Carcinoma AJCC v6 and v7; Stage IV Bladder Urothelial Carcinoma AJCC v7
+Interventions: Sapanisertib (DRUG)
+Summary: This pilot phase II trial studies how well sapanisertib works in treating patients with bladder cancer that has spread from where it started to nearby tissue or lymph nodes (locally advanced) or other places in the body (metastatic) with tuberous sclerosis (TSC)1 and/or TSC2 mutations (changes in deoxyribonucleic acid \[DNA\]). Sapanisertib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+Eligibility: Inclusion Criteria:
+
+* Patients must have measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1
+* Must have a histologically confirmed transitional cell carcinoma (TCC, also known as urothelial carcinoma), locally advanced or metastatic
+* Patient must have TCCs tumors harboring a TSC1 or TSC2 mutation identified by a Clinical Laboratory Improvement Amendments (CLIA) certified laboratory
+* Unless the pre-screening was performed at Yale Clinical Molecular Pathology Lab (YCMPL), patients must have TCC tumor tissue available for submission in a form of at least 10 unstained slides or formalin-fixed paraffin-embedded (FFPE) block (FFPE block highly recommended and preferred) along with a buccal swab; if the number of slides is less than 10, a biopsy should be considered; if a biopsy is deemed unsafe, the case may be discussed with the study principal investigator (PI) and approval must be given for eligibility
+* Patient must have developed disease progression during or following treatment with at least one platinum-containing regimen (e.g., gemcitabine/cisplatin \[GC\], methotrexate-vinblastine-doxorubicin-cisplatin \[MVAC\], carboplatin, gemcitabine \[CarboGem\]) for inoperable locally advanced or metastatic urothelial carcinoma or disease recurrence, or must be unfit or ineligible for cisplatin-based chemotherapy; there is no restriction on the number of prior lines of chemotherapeutics agents received
+
+  * Patients who progressed within 12 months of treatment with a platinum-containing neoadjuvant or adjuvant regimen are considered second-line patients; therefore, these patients may be also eligible
+  * Patients who are unfit or ineligible for cisplatin-based chemotherapy as defined by any one of the following criteria are eligible for this trial:
+
+    * Eastern Cooperative Oncology Group (ECOG) performance score of 2
+    * Creatinine clearance \< 60 mL/min
+    * A hearing loss (measured by audiometry) of 25 dB at two contiguous frequencies
+    * Grade \>= 2 peripheral neuropathy
+* ECOG performance status =\< 2 (Karnofsky \>= 60 %)
+* Life expectancy of greater than 12 weeks
+* Hemoglobin \>= 9 g/dL
+* Fasting serum glucos

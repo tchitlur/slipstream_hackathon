@@ -1,0 +1,29 @@
+Title: Systemic and Peritoneal Inflammatory Response In Robotic-assisted And Laparoscopic Surgery for Colon Cancer
+Official title: Systemic and Peritoneal Inflammatory Response In Robotic-assisted And Laparoscopic Surgery for Colon Cancer (SIRIRALS-trial): a Randomized Controlled Trial
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Colonic Neoplasms; Colon Cancer; Systemic Inflammatory Response Syndrome; Inflammation; Robotic Surgical Procedures; Laparoscopy; Peritoneal Inflammation
+Interventions: Robotic-assisted colectomy (PROCEDURE); Conventional laparoscopic colectomy (PROCEDURE)
+Summary: The current hypothesis is that robotic-assisted surgery results in a reduced systemic and peritoneal inflammatory response (SIRS) compared to laparoscopic surgery in the treatment of colon cancer. The purpose is to evaluate differences in the peritoneal and systemic inflammatory response in robot-assisted and laparoscopic surgery of patients undergoing resection for colon cancer in a randomized, blinded controlled trial.
+Eligibility: Inclusion criteria
+
+* Elective robotic-assisted or laparoscopic surgery for right-sided, left-sided and sigmoid colon cancer
+* Aged ≥ 18
+* ASA-score ≤ 3
+* Tumor-stage (Tx-T4a)
+* Endoscopic suspected colon cancer
+* Histological verified adenocarcinoma, signet ring cell carcinoma, undifferentiated cancer, medullary carcinoma, or another malignant tumor type originating from colon
+* Patients must give informed written consent
+* Patients must be able to understand Danish language
+
+Exclusion criteria
+
+* Carcinoma of the transverse colon or synchronous colorectal cancer
+* Previous history of colon cancer
+* Previous open major abdominal surgery with exception of open appendectomy and cholecystectomy.
+* Metastatic disease
+* Pregnancy
+* History of psychiatric or addictive disorder that would prevent the patient from participating in the trial
+* Emergency colon surgery
+* Co-existing inflammatory bowel disease
+* Co-existing immunological disease that requiring ingestion of systemic immunomodulatory drugs (DMARD - disease modifying anti-rheumatic drugs), corticosteroids and biologic disease-modifying anti-rheumatic drugs.
+* Daily consumption of NSAID drugs

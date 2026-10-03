@@ -1,0 +1,40 @@
+Title: An Efficacy and Safety Study of Alirocumab in Children and Adolescents With Heterozygous Familial Hypercholesterolemia
+Official title: A Randomized, Double-Blind, Placebo-Controlled Study Followed by an Open Label Treatment Period to Evaluate the Efficacy and Safety of Alirocumab in Children and Adolescents With Heterozygous Familial Hypercholesterolemia
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Hypercholesterolaemia
+Interventions: Alirocumab SAR236553 (REGN727) (DRUG); Rosuvastatin (DRUG); Atorvastatin (DRUG); Simvastatin (DRUG); Pravastatin (DRUG); Lovastatin (DRUG); Fluvastatin (DRUG); Ezetimibe (DRUG); Cholestyramine (DRUG); Nicotinic acid (DRUG); Fenofibrate (DRUG); Omega-3 fatty acids (DRUG); Placebo (DRUG)
+Summary: Primary Objective:
+
+To evaluate the efficacy of alirocumab administered every 2 weeks (Q2W) and every 4 weeks (Q4W) versus placebo after 24 weeks of double-blind (DB) treatment on low-density lipoprotein cholesterol (LDL-C) levels in participants with heterozygous familial hypercholesterolemia (heFH) 8 to 17 years of age on optimal stable daily dose of statin therapy ± other lipid modifying therapies (LMTs) or a stable dose of non-statin LMTs in case of intolerance to statins.
+
+Secondary Objectives:
+
+* To evaluate the efficacy of alirocumab versus placebo on LDL-C levels.
+* To evaluate the effects of alirocumab versus placebo on other lipid parameters.
+* To evaluate the safety and tolerability of alirocumab in comparison with placebo.
+* To evaluate the efficacy, safety, and tolerability of alirocumab after open label treatment.
+* To evaluate the development of anti-alirocumab antibodies.
+Eligibility: Inclusion criteria:
+
+* Children and adolescent male and female participants 8 to 17 years of age at the time of signed informed consent.
+* Participants with diagnosis of heFH through genotyping or clinical criteria.
+* Participants treated with optimal dose of statin +/- other LMT(s) or non-statin LMT(s) if statin intolerant at stable dose for at least 4 weeks prior to screening lipid sampling.
+* Participants with calculated LDL-C greater than or equal to 130 mg/dL (\>=3.37 mmol/L) at the screening visit except for participants who have previously participated in the DFI14223 (NCT02890992) study.
+* A signed informed consent indicating parental permission with or without participant assent.
+
+Exclusion criteria:
+
+* Participant with body weight \< 25 kg.
+* Participants aged of 8 to 9 years not at Tanner stage 1 and participants aged of 10 to 17 years not at least at Tanner stage 2 in their development.
+* Participants with secondary hyperlipidemia.
+* Diagnosis of homozygous familial hypercholesterolemia.
+* Participant who had received lipid apheresis treatment within 2 months prior to the screening period, or has plans to receive it during the study.
+* Participants with uncontrolled type 1 or type 2 diabetes mellitus.
+* Participants with known uncontrolled thyroid disease.
+* Participants with uncontrolled hypertension.
+* Fasting triglycerides greater than (\>) 350 mg/dL (3.95 mmol/L).
+* Severe renal impairment (ie, estimated glomerular filtration rate \<30 mL/min/1.73 m\^2).
+* Alanine aminotransferase or aspartate aminotransferase \>2\*upper limit of normal (ULN).
+* Creatinine phosphokinase (CPK) \>3\*ULN.
+
+The above information was not intended to contain all considerations relevant to a participant's potential participation in a clinical trial.

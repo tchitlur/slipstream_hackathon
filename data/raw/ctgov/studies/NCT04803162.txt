@@ -1,0 +1,18 @@
+Title: The Role of HRM and Specific Biomarkers of Inflammation in the Diagnosis of Patients With Dysphagia and Suspected EoE
+Official title: The Role of High-resolution Esophageal Manometry and Specific Biomarkers of Inflammation in the Diagnosis of Patients With Dysphagia and Suspected Eosinophilic Esophagitis
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Eosinophilic Esophagitis
+Interventions: High-resolution manometry (DIAGNOSTIC_TEST); Serum biomarkers (DIAGNOSTIC_TEST); Gastrointestinal Quality of Life index (DIAGNOSTIC_TEST); Omeprazole 20 MG Oral Tablet (DRUG)
+Summary: The aim of the project is to assess the correlation between the results of high-resolution oesophageal manometry and specific biomarkers of inflammation (eotaxin 3, major basic protein, IL-5, IL-13, TGF-beta1) with symptoms of dysphagia, endoscopic and histological features and the assessment of quality of life in patients with eosinophilic esophagitis.
+
+Research hypothesis: The results of high resolution esophageal manometry (HRM) and specific inflammatory biomarkers correlate with symptoms of dysphagia, endoscopic and histological features, and assessment of quality of life in patients with eosinophilic oesophagitis. HRM, along with the determination of specific inflammatory biomarkers present in the peripheral blood, may serve as a less invasive method of assessing the effectiveness of the treatment of eosinophilic oesophagitis in relation to the currently used endoscopic examinations.
+Eligibility: Inclusion Criteria:
+
+* patients over 18 years of age,
+* patients referred for endoscopic diagnostics due to dysphagia.
+
+Exclusion Criteria:
+
+* already diagnosed chronic diseases with possible eosinophilic infiltration of the gastrointestinal tract (eosinophilic esophagitis, eosinophilic gastroenteritis, Crohn's disease, celiac disease),
+* rheumatological, dermatological and genetic disorders with possible peripheral eosinophilia,
+* dysphagia caused by a diagnosed neoplastic infiltration of the esophagus.

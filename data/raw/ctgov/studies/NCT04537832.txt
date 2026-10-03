@@ -1,0 +1,24 @@
+Title: Natural History Study of Infants and Children With Developmental and Epileptic Encephalopathies
+Official title: ENVISION: Natural History Study of Infants and Children With Developmental and Epileptic Encephalopathies
+Status: TERMINATED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Dravet Syndrome
+Interventions: No Intervention (OTHER)
+Summary: This is a multicenter, prospective, 2-year observational study in infants and children with developmental and epileptic encephalopathies (DEEs). The DEE currently being investigated is SCN1A-positive Dravet Syndrome.
+Eligibility: Inclusion Criteria:
+
+* Aged between 6 months and 60 months.
+* Confirmed SCN1A mutation.
+* Normal development prior to onset of first seizure as defined by the Centers for Disease -Control and Prevention (CDC 2019).
+* Onset of seizures between age 3 and 15 months, inclusive.
+
+Exclusion Criteria:
+
+* Copy number variant of SCN1A, including SCN1A microdeletion, if affecting other genes.
+* SCN1A mutation present on both alleles.
+* Known pathogenic or clinically suspected mutation in a seizure-associated gene besides SCN1A.
+* Confirmed mutation in a gene besides SCN1A that is known to increase the severity of the seizure phenotype.
+* Known gain-of-function genetic mutation, as defined by functional studies, including p.Thr226Met.
+* History of notable developmental deficit that was evident prior to seizure onset.
+* Known central nervous system structural abnormality as found on magnetic resonance imaging or computed tomography scan of brain.
+* Currently taking or has taken for 6 or more consecutive weeks anti-seizure medications (ASMs) at a therapeutic dose that are contraindicated in SCN1A-positive Dravet Syndrome, including sodium channel blockers.
+* Known concomitant genetic mutation or clinical comorbidity that potentially confounds typical Dravet phenotype.

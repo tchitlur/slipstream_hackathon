@@ -1,0 +1,20 @@
+Title: FECD-TRACE: Fuchs' Endothelial Corneal Dystrophy TRAjectory and Correlation With Genotype in the United Kingdom
+Official title: Investigating Genetic Causes and Molecular Mechanisms Responsible for Inherited Corneal Disease
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Fuchs Dystrophy; Fuchs' Endothelial Dystrophy; Fuchs' Endothelial Corneal Dystrophy of Bilateral Eyes; Corneal Dystrophy Fuchs; Corneal Dystrophy
+Interventions: Clinical phenotyping (DIAGNOSTIC_TEST); CTG18.1 Expansion Status Genotyping (GENETIC)
+Summary: FECD-TRACE is an integral component of a large research program dedicated to Fuchs Endothelial Corneal Dystrophy (FECD) in the United Kingdom. This longitudinal, observational study aims to comprehensively characterize a cohort of younger research participants who have a genetic predisposition to developing FECD. By utilizing advanced anterior segment imaging techniques, the study will monitor these individuals over a span of several years, capturing phenotypic changes that reflect the progression of the disease. Concurrently, genetic biomarkers will be examined to establish correlations with the observed phenotypic changes. The primary objective of FECD-TRACE is to enhance our understanding of the intricate genetic mechanisms underlying FECD and establish connections between these genetic findings and clinical outcomes. Ultimately, this research strives to facilitate the development of personalized care approaches for individuals affected by FECD.
+Eligibility: Inclusion Criteria:
+
+* Willing and able to provide informed consent for participation in the study
+* Willing to attend scheduled study visits and undergo a clinical examination
+* Willing to donate blood/saliva samples
+* Fulfil the abovementioned cohort criteria
+
+Exclusion Criteria:
+
+* Presence of a secondary cause for corneal endothelial dysfunction or oedema
+* Presence of clinically evident corneal oedema
+* History of concurrent corneal diseases
+* History of corneal surgeries, including corneal transplantation
+* Cognitive impairment or inability to provide informed consent for participation in the study

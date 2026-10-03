@@ -1,0 +1,23 @@
+Title: Assessment of the Effect of Atorvastatin on Prevention of CIN in Patients Undergoing Coronary Angiography
+Official title: Atorvastatin and Prevention of Contrast Induced Nephropathy Following Coronary Angiography
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Contrast Induced Nephropathy
+Interventions: Atorvastatin (DRUG)
+Summary: As the effect of statin use before the angiography to prevent contrast induced nephropathy (CIN) is not well-known, the aim of the current study is to assess the effect of atorvastatin on prevention of CIN in patients undergoing coronary angiography.
+Eligibility: Inclusion Criteria:
+
+* having chronic stable angina who were referred for coronary angiography
+* non-pregnant female subjects
+* no history of diabetes mellitus
+* no history of renal failure
+* no history of single kidney
+* no history of cardiogenic shock
+* no history of unstable angina
+* no history of myocardial infarction
+* no history of hypersensitivity to statins
+* no history of previous intravascular contrast injection during one month before admission
+
+Exclusion Criteria:
+
+* glomerular filtration rate (GFR) \<60
+* cardiogenic shock

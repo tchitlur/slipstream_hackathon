@@ -1,0 +1,14 @@
+Title: Study of the Effect of Diabetes on the Incidence and the Extent of Coronary Artery Disease
+Official title: The Role of Newer and Traditional Risk Factors in the Development, Extent and Manifestation of Coronary Artery Disease
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Patients Undergoing Coronary Angiography
+Interventions: none
+Summary: In the present study the investigators will measure the extent of coronary artery disease via coronary angiography and the correlating risk factors.
+Eligibility: Inclusion Criteria:
+
+* Any subject eligible for coronary angiography with or without known CV disease for clinical reasons.
+
+Exclusion Criteria:
+
+* Patients revascularized in the past, with either coronary artery bypass grafting or percutaneous coronary intervention, will be excluded from the study since it is not possible to describe the extent of CAD in these patients.
+* Moderate or severe aortic stenosis.

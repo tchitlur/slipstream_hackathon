@@ -1,0 +1,26 @@
+Title: Diet Treatment Glucose Transporter Type 1 Deficiency (G1D)
+Official title: Dietary Treatment of Glucose Transporter Type 1 Deficiency (G1D)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: GLUT1DS1; Epilepsy; Glut1 Deficiency Syndrome 1, Autosomal Recessive; Glucose Metabolism Disorders; Glucose Transport Defect; Glucose Transporter Type 1 Deficiency Syndrome; Glucose Transporter Protein Type 1 Deficiency Syndrome
+Interventions: Triheptanoin (DRUG)
+Summary: Forty-five subjects receiving no dietary therapy with a proven G1D diagnosis will be enrolled. To evaluate the effect of C7 supplementation of a regular diet on a EEG activity in addition to IQ, language, working memory, processing speed, emotional and behavioral functioning, ataxia, and other neuropsychological and neurological performance indices in children and adults genetically diagnosed with G1D receiving a regular diet at enrollment.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of glucose transporter type I deficiency (G1D), confirmed by clinical genotyping at a CLIA-certified laboratory or by PET scan.
+* Stable diet on either a modified atkins diet or on no dietary therapy (i.e., no dietary therapy for 1 month).
+* Males and females 24 months to 35 years old, inclusive.
+
+Exclusion Criteria:
+
+* Subjects with evidence of independent, unrelated metabolic and/or genetic disease.
+* Subjects with a chronic gastrointestinal disorder, such as irritable bowel syndrome, Crohn's disease, or colitis that could increase the subject's risk of developing diarrhea or stomach pain.
+* Subjects with a BMI (body mass index) greater than or equal to 30.
+* Subjects currently on dietary therapy (i.e., ketogenic diet, medium chain triglyceride supplemented diets, Atkins diet, low glycemic index diet).
+* Subjects with no evidence of abnormal EEG (spike wave discharges) in the last 12 months.
+* Women who are pregnant or breast-feeding may not participate. Women who plan to become pregnant during the course of the study, or who are unwilling to use birth control to prevent pregnancy (including abstinence) may not participate. Females age 10 and over will be asked to provide a urine sample for a pregnancy test via dipstick. Subjects will be asked to agree to abstinence or another form of birth control for the duration of the study.
+* Allergy/sensitivity to C7.
+* Previous use of triheptanoin in the past 1 month. Subjects who participate in Protocol 1 of this study are thus eligible.
+* Subjects exhibiting signs of dementia, or diagnosed with any degenerative brain disorder (such as Alzheimer's disease) that would confound assessment of cognitive changes, in the opinion of the investigator.
+* Active drug or alcohol use or dependence that, in the opinion of the investigator, would interfere with adherence to study requirements.
+* Inability or unwillingness of subject or legal guardian/representative to give written informed consent, or assent for children age 10-17.
+* Addition of a new antiseizure drug in the previous 3 months.

@@ -1,0 +1,19 @@
+Title: Tolerability of the Immersive Virtual Reality System Grail in Subjects Affected by Rett Syndrome
+Official title: Tolerability of the Immersive Virtual Reality System Grail in Subjects Affected by Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rett Syndrome
+Interventions: GRAIL (DEVICE)
+Summary: The main goal of this study is to investigate the tolerability to the use of the GRAIL system in subjects affected by Rett syndrome, particularly referred to:
+
+1. Grail environment (training in dark conditions, interaction with wide and surrounding screen, positioning over the treadmill);
+2. time to prepare a set of body marker in order to execute a gait analysis;
+3. walking activity over treadmill, with immersive virtual reality;
+4. proprioceptive stimulatione provided by the GRAIL platform;
+5. cognitive-attentive span time to the activity proposed. The secondary goal is to understand if a training that avail of treadmill and virtual reality would be useful in the future in improving gait characteristics in subjects affected by Rett syndrome
+Eligibility: Inclusion Criteria:
+
+* subjects affected by Rett Syndrome that are able to walk with hands support (corresponding to a score ranging from 1 to 3 in item 8 of Rett Syndrome Gross Motor Scale)
+
+Exclusion Criteria:
+
+* subjects unable to walk and with a complete incapacity to undestand verbal directions

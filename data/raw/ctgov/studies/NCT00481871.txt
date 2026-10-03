@@ -1,0 +1,29 @@
+Title: Study of Pralatrexate & Gemcitabine With B12 & Folic Acid to Treat Relapsed/Refractory Lymphoproliferative Malignancies
+Official title: A Phase 1/2a Open-label Study of Pralatrexate and Gemcitabine With Vitamin B12 and Folic Acid Supplementation in Patients With Relapsed or Refractory Lymphoproliferative Malignancies
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Relapsed or Refractory Lymphoproliferative Malignancies; Hodgkin's Lymphoma; Peripheral T-cell Lymphoma; B-cell Lymphoma; Waldenstrom's Macroglobulinemia
+Interventions: Pralatrexate Injection (DRUG); Gemcitabine Hydrochloride (DRUG); Vitamin B12 (DIETARY_SUPPLEMENT); Folic Acid (DIETARY_SUPPLEMENT)
+Summary: This study is for patients with lymphoproliferative malignancies that have progressed after receiving a previous treatment (relapsed) or are no longer responding to treatment (refractory). To be in this study, patients must have certain types of Hodgkin's lymphoma (HL), peripheral T-cell lymphoma (PTCL), or B-cell lymphoma, including Waldenstrom's macroglobulinemia.
+
+This study is being done to find doses of the combination of pralatrexate and gemcitabine with vitamin B12 and folic acid that can be safely given to patients with these types of lymphoma and explore the effectiveness of the treatment.
+Eligibility: Inclusion Criteria:
+
+* Phase 1: Histologically/cytologically confirmed lymphoproliferative malignancy. Patients with Hodgkin lymphoma (HL) or non-HL are eligible, with exceptions per exclusion criteria.
+* Phase 2a: Histologically/cytologically confirmed HL, peripheral T-cell lymphoma (PTCL), or B-cell lymphoma including Waldenström's macroglobulinemia, with exceptions per exclusion criteria.
+* Progression of disease (PD) after at least 1 prior treatment (any number of prior therapies allowed). PD after last prior treatment and recovered from toxic effects of prior therapy. Patients treated with an FDA-approved monoclonal antibody therapy may be enrolled at any time after the therapy if they have PD.
+* PTCL patients must have received single-agent pralatrexate as a prior therapy.
+* Eastern Cooperative Oncology Group performance status ≤ 2.
+* Adequate blood, liver and kidney function per laboratory tests.
+* Has taken 1 mg daily oral folic acid for at least 7 days prior to planned start of pralatrexate and received 1 mg vitamin B12 intramuscularly within 10 weeks of the planned start of pralatrexate.
+* Females of childbearing potential must practice a medically acceptable contraceptive regimen from first dose until at least 30 days after last dose of pralatrexate and have a negative serum pregnancy test within 14 days prior to the first day of study treatment. Postmenopausal (defined as greater than 12 months since last menses) and surgically sterilized females do not require this test.
+* Males who are not surgically sterile must practice a medically acceptable contraceptive regimen from first dose until at least 90 days after last dose of pralatrexate.
+* Give written informed consent.
+
+Exclusion Criteria:
+
+* Phase 1
+
+  1\. B-cell: lymphoplasmacytic lymphoma (± Waldenström's macroglobulinemia); plasma cell myeloma/plasmacytoma; hairy cell leukemia.
+* Phase 2a
+
+  1. PTCL: precursor T/Natural Killer (NK) neoplasms, with the exception of blastic NK lymphoma; T-cell prolymphocytic leukemia; T-cell large granular lymphocytic leukemia; mycosis fungoides (MF), except transformed MF; Sézary syndrome; primary cutaneous CD30+ disorders: Anaplastic large cell lymphoma and lym

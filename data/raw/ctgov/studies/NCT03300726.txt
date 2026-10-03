@@ -1,0 +1,21 @@
+Title: Synaptic Injury and Functional Connectivity in Alzheimer's Disease
+Official title: Cerebrospinal Fluid Markers of Synaptic Injury and Functional Connectivity in Alzheimer's Disease
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Alzheimer Disease, Late Onset
+Interventions: CSF analysis (DIAGNOSTIC_TEST); Functional MRI (RADIATION)
+Summary: The purpose of this study is to examine cross-sectional associations between CSF markers of synaptic injury (Ng and SNAP-25) and functional connectivity in default and semantic memory networks using 3T- fMRI in individuals with MCI (i.e. the earliest clinically detectable stage of cognitive impairment) due to AD or mild AD dementia (CDR 0.5-1; n=20) and cognitively normal controls (CDR 0; n=20).
+Eligibility: Inclusion Criteria: Participants included in the study should meet all 4 inclusion criteria:
+
+1. 60 years of age or older
+2. A clinical diagnosis of MCI, mild AD dementia, or normal cognition
+3. No significant medical or surgical co-morbidities
+4. No contraindications to LP or MRI.
+
+Exclusion criteria: Participants with any of the following criteria will be excluded from the study:
+
+1. Participants with MCI due to AD or mild AD dementia who have been treated with cholinesterase inhibitors or glutamate antagonists in the 3 months prior to study enrollment
+2. Individuals with any past history of ischemic or traumatic brain injury
+3. Individuals with imaging evidence of significant cerebrovascular disease or structural brain lesions (e.g. tumor, demyelinating disorders, infection, or congenital anomalies)
+4. Active mood disorder
+5. Active alcohol use
+6. Active use of benzodiazepines, barbiturates, anticholinergic, or anti-epileptic medications

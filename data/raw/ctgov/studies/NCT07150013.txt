@@ -1,0 +1,35 @@
+Title: Rett REVOLUTION Trial: An Exploratory Evaluation of the Safety and Efficacy of Vorinostat in Rett Syndrome
+Official title: Rett REVOLUTION Trial: An Exploratory Evaluation of the Safety and Efficacy of Vorinostat in Rett Syndrome Using an "N of 1" Study Design
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Rett Syndrome
+Interventions: Vorinostat (SAHA) (DRUG); Placebo (DRUG)
+Summary: The RETT REVOLUTION trial is a placebo-controlled, single-blinded, exploratory study with patients serving as their own control ("N of 1" trial design) where the safety and efficacy of vorinostat in the treatment of Rett syndrome will be evaluated. Each patient will be self-controlled in an adapted N-of-1 study design methodology by using a 4-week placebo baseline. Vorinostat dose escalation will occur every 8 weeks of daily dosing: placebo, 80mg/m2/day, 160mg/m2/day.
+
+Key study objectives will include:
+
+* To confirm the safety and tolerability of oral vorinostat 80mg/m2/day and 160mg/ m2/day dose levels when administered to typical Rett patients
+* To identify the nature and magnitude of treatment response to vorinostat, as measured by changes in clinical and laboratory parameters indicative of trend towards benefit, as well as changes in mRNA expression (transcriptome response)
+* Provide a data-driven justification for future study design and statistical analysis plan for subsequent clinical studies assessing safety and efficacy of vorinostat in Rett syndrome
+Eligibility: Inclusion Criteria:
+
+1. Female subjects ≥6 years of age and ≤ 21 years of age at time of screening
+2. Has typical Rett Syndrome (RTT), based on diagnostic criteria for RTT described in Neul, et.al., 2010
+3. Has documented, disease causing mutation in the MeCP2 gene
+4. At time of screening, is in the post-regression phase with no degradation of ambulation, hand function, speech or communication skills in the 4 months prior to screening
+5. Has been on a stable regimen of medication or non-pharmacological treatment for at least 4 weeks prior to the baseline visit; if currently taking trofinetide (Daybue), currently on stable dose for the previous 6 months before screening visit
+6. Has had a stable pattern of seizure activity for 4 weeks before screening
+7. Can swallow medication or can take it by gastrostomy tube
+8. Can wear actigraphy data logging device on wrist or ankle
+9. If of childbearing potential, must agree to use a highly effective method of contraception during the study and for 3 months after the last study drug administration (i.e., abstinence from sexual activity, hormonal contraceptives associated with inhibition of ovulation, intrauterine device, intrauterine hormone-releasing system)
+10. Subjects or their legally authorized representative must be able to provide an informed consent and have sufficient language skill to complete caregiver assessments in the language in which the study assessments are provided
+
+Exclusion Criteria:
+
+1. Has another clinically significant medical condition other than those related to MeCP2 mutation (e.g. diabetes mellitus, cardiovascular disease, renal disease, respiratory disease, hematological abnormalities, malignancy)
+2. Has major surgery planned during the study period
+3. Pregnant or nursing women
+4. Has a history of brain injury, stroke, other cerebrovascular disease or hypoxic-ischemic encephalopathy
+5. Has clinically significant abnormal vital signs at screening or baseline
+6. Has an abnormal ECG at screening, including clinically significant QT prolongation
+7. Has a clinically significant abnormal laboratory value at screening
+8. Liver disease or transaminase levels \> 1.5 times the upper limit of the normal ra

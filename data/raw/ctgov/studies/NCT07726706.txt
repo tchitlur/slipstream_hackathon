@@ -1,0 +1,15 @@
+Title: Upright Participation for Learners: Implementation of Flexible Use of roboT-assisted Walking in Schools - PILOT
+Official title: Upright Participation for Learners: Implementation of Flexible Use of roboT-assisted Walking in Schools
+Status: ENROLLING_BY_INVITATION. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Children Unable to Walk Independently
+Interventions: Robotic walking (DEVICE)
+Summary: Robot-assisted walking offers children who are unable to walk new avenues for participation in their communities in addition to health benefits. Disappointingly, most children cannot access this impactful technology. One of every 1000 children cannot walk due to cerebral palsy,1 and many others cannot walk due to less common neurodevelopmental disorders such as Spina Bifida or Rett Syndrome. The inability to walk impacts most areas of daily life. Despite this large need, there are few, if any, interventions available to facilitate participation and motor function.2-4 Recently, the study team have learned that robot-assisted walking can improve motor function and reduce the health impacts of physical inactivity that these children often experience. Robot assisted walking aids attach to a walker and use robotic legs to power a child's leg movements, allowing them to use their body in new ways from an upright position. When used in home and community settings, it also creates new avenues for participation in daily life that are critical for supporting cognitive, communication and social development. However, this technology is expensive and requires adult support, limiting access to f
+Eligibility: Inclusion Criteria:
+
+* Enrolled at a participating study site.
+* Fit a robotic walking device.
+
+Exclusion Criteria:
+
+* Does not fit a robotic walking device.
+* Displays a contraindication to robotic walking.

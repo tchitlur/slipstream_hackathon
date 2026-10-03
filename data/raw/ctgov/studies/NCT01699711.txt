@@ -1,0 +1,20 @@
+Title: Normalization of dyrk1A and APP Function as an Approach to Improve Cognitive Performance and Decelerate AD Progression in DS Subjects: Epigallocatechin Gallate as Therapeutic Tool
+Official title: Normalization of dyrk1A and APP Function as an Approach to Improve Cognitive Performance and Decelerate AD Progression in DS Subjects: Epigallocatechin Gallate as Therapeutic Tool
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Down Syndrome (DS)
+Interventions: Epigallocatechin-3-gallate (EGCG) (DIETARY_SUPPLEMENT)
+Summary: Epigallocatechin-3-gallate (EGCG), the major catechin in green tea, is postulated to modulate dual specificity tyrosine-phosphorylation-regulated kinase 1A (DYRK1A) and amyloid beta precursor protein (APP) gene overexpression in the brains of Down syndrome mouse models. The clinical study is aimed at demonstrating that normalization of Dyrk1A and APP functions is a therapeutic approach to improve cognitive performance and decelerate AD (Alzheimer's disease) like progression.
+Eligibility: Inclusion Criteria:
+
+* Have been diagnosed of DS neurological disease, aged between 14-29 years.
+* Have given the consent to participate (official custody).
+
+Exclusion Criteria:
+
+* Subjects with neurological disease other than DS, relevant medical disease, co-morbid mental disorder or currently taking any treatment that could interfere with cognitive function or alter any key biomarkers and biochemical parameters analyzed.
+* Having suffered from any major illness or undergoing major surgery in the last three months before the study.
+* Regular ingestion of medication in the month preceding the study (exceptions for single doses of symptomatic medication administered up to the week preceding the trial).
+* Current ingestion of vitamin supplements or catechins or AINE in the two weeks preceding the study.
+* History of gastrointestinal, hepatic or renal problems or any other cause that may alter processes of absorption, distribution, metabolism, or excretion of the drug, or that might suggest gastrointestinal irritation to drug.
+* Subjects following a vegetarian diet.
+* Practice of physical exercise for more than 2 hours per day or energy consume/consumption of more than 3000 kcal per week.

@@ -1,0 +1,31 @@
+Title: Multiple Ascending Doses of Globalagliatin Hydrochloride in Type 2 Diabetes Mellitus
+Official title: A Phase I Placebo-controlled Study to Assess Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Globalagliatin Hydrochloride After Multiple Ascending Doses in Patients With Type 2 Diabetes Mellitus
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Hyperglycaemia (Diabetic); Type 2 Diabetes Mellitus
+Interventions: Globalagliatin Hydrochloride (DRUG); Placebo (DRUG)
+Summary: This is a phase I placebo-controlled study to assess safety, tolerability, pharmacokinetics and pharmacodynamics of Globalagliatin Hydrochloride (SY-004) after Multiple Ascending Doses in patients with Type 2 Diabetes Mellitus (T2DM).
+Eligibility: Inclusion Criteria:
+
+1. Sex：Male and Female；
+2. Age：≥18，≤70；
+3. Have T2DM prior to entering the trial based on the disease diagnostic criteria (WHO, 1999), and currently being treated with diet and exercise only or in combined with a stable dose of metformin for at least 8 weeks.
+4. 18 kg/m2≤BMI≤35 kg/m2 at screening.
+5. 7% ≤ HbA1c ≤11% at screening.
+6. 7 mmol/L≤FPG≤13.3mmol/L at baseline.
+7. The venous access is normal, and blood samples can be collected according to the protocol.
+8. Have given written informed consent to participate in this study.
+9. Are well motivated, capable, and willing to communicate with the investigator and complete all the requirements according to the protocol.
+
+Exclusion Criteria:
+
+1. Personnel and their direct relatives of the clinical research unit and its related facilities. Direct relatives mean all biologically and by law related relatives, including spouse, parent, child and sibling,
+2. Have been diagnosed with type 1 diabetes, or gestational diabetes mellitus, or a specific type of diabetes mellitus.
+3. Clinically significant coronary events or symptoms within 6 months prior to study entry.
+4. Clinically significant peripheral vascular disease.
+5. Clinical evidence of active diabetic proliferative retinopathy.
+6. Known clinically significant autonomic neuropathy as evidenced by urinary retention, orthostatic hypotension, diabetic diarrhea or gastroparesis.
+7. With a history of diabetes or diabetic ketoacidosis, lactic acidosis, hyperosmolar nonketotic coma history.
+8. Have severe hypoglycemia occurred before the screening with unknown causes (need other people to help restore) or the frequency of hypoglycemia, such as 3 or more hypoglycemic events(blood glucose ≤3.9mmol/L) within 1 months before screening or hypoglycemia related symptoms.
+9. Continuous use of insulin for more than 1 month in last year.
+10. Have any disorder or unstable situation of the endocrine system, immune system or other diseases impaired blood sugar(such as Hyperthyroidism, acromegaly, Cushing syndrome) that are required treatment
+11. Have significant history of past or current cardiovascular, respiratory, hepatic, renal, gastrointestinal, endocrine (oth

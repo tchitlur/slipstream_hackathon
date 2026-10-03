@@ -1,0 +1,30 @@
+Title: Fenfluramine and Cognition
+Official title: The Effect of Seven Day Fenfluramine Administration on Cognition in Healthy Volunteers
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Cognitive Function
+Interventions: Fenfluramine (DRUG); Placebo (OTHER)
+Summary: In this study, the investigators will investigate the cognitive effects of fenfluramine, a drug that directly stimulates the release of serotonin in the brain and positively modulates σ1 function. The investigators will use fenfluramine to assess the cognitive effects of modulating serotonin and σ1 function in healthy volunteers using a battery of cognitive tasks that measure learning and memory, executive functioning, reward processing, and emotional processing. The study design is double-blind, and participants will be randomised to either seven days of fenfluramine or placebo administration. All participants will attend two screening visits to assess eligibility. There are two main study visits; during the first, participants will undertake cognitive tasks and questionnaires before taking the initial study dose. One the second study visit, participants will once again complete these tasks and questionnaires after a week of fenfluramine/placebo administration.
+Eligibility: Inclusion Criteria:
+
+* Participant is willing and able to give informed consent for participation in the research
+* Not currently taking any medications (except the contraceptive pill)
+* Aged 18-22 years
+* Male or female
+* Sufficiently fluent English to understand and complete the task
+* Body Mass Index above 18-30
+* Weight of 40-75kg
+
+Exclusion Criteria:
+
+* Current pregnancy (as determined by urine pregnancy test taken during Screening and First Dose Visit) or breast feeding
+* Any past or current Axis 1 DSM-V psychiatric disorder
+* Clinically significant abnormal values for liver function tests, clinical chemistry, urine drug screen, blood pressure measurement and ECG. A participant with a clinical abnormality or parameters outside the reference range for the population being studied may be included only if the Investigator considers that the finding is unlikely to introduce additional risk factors and will not interfere with the study procedures
+* History of, or current medical conditions which, in the opinion of the investigator, may interfere with the safety of the participant or the scientific integrity of the study, including epilepsy/seizures, brain injury, hepatic or renal disease, severe gastro-intestinal problems, Central Nervous System (CNS) tumours, neurological conditions
+* Current or past history of drug or alcohol dependency
+* Current or past use of 3,4-Methylenedioxymethamphetamine (MDMA)
+* Use of recreational drugs (e.g. cannabis, cocaine, amphetamines) within past 3 months
+* Participation in a study which uses the same computer tasks as those in the present study (determined by asking participants about previous studies participated in during screening)
+* Participation in a study that involves the use of a medication within the last three months
+* Smoking \> 5 cigarettes per day
+* Typically drinks \> 6 caffeinated drinks per day (e.g. tea, coffee, coca cola, Red Bull)
+* Participant is unlikely to comply with the clinical study protocol or is unsuitable for any other reason, in the opinion of the Investigator

@@ -1,0 +1,20 @@
+Title: Study of Asian Patients With Hypercholesterolaemia in the UK - Rosuvastatin 5mg Versus Atorvastatin 10mg
+Official title: A Phase IV, 6-week, Randomised, Double-blind, Multicentre, Parallel Group, Comparative Study to Evaluate the Efficacy of Rosuvastatin 5mg and Atorvastatin 10mg in UK Asian Subjects With Primary Hypercholesterolaemia
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Hypercholesterolaemia
+Interventions: Dietary advice (BEHAVIORAL); rosuvastatin (DRUG); atorvastatin (DRUG)
+Summary: The purpose of this study is to compare the effectiveness and safety of rosuvastatin 5mg in lowering blood cholesterol, compared to one other medicine, atorvastatin 10mg in Asian patients in the UK.
+Eligibility: Inclusion Criteria:
+
+* Self described Asian, first or second generation
+* Male or female \> or = 18 years with primary hypercholesterolaemia.
+
+Exclusion Criteria:
+
+* Use of cholesterol lowering drugs from visit 1
+* Homozygous familial hypercholesterolaemia
+* Active arterial disease within 3 months of study entry
+* Poorly controlled diabetes
+* Uncontrolled hypothyroidism
+* Active liver disease
+* History of alcoh/drug abuse.

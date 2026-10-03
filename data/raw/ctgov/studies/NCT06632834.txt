@@ -1,0 +1,26 @@
+Title: Outcome-targeted Therapy: Principle and Outcome Evaluation: Clinical Study and Phenotype-genotype Correlation
+Official title: Outcome-targeted Therapy: Principle and Outcome Evaluation: Clinical Study, and Phenotype-genotype Correlation
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Dilated Cardiomyopathy
+Interventions: simvastatin therapy (DRUG)
+Summary: Brief Summary(Use lay language. Include a statement of the study hypothesis.):
+
+Dilated cardiomyopathy (DCM) is the most common childhood cardiomyopathy and is associated with significant early morbidity and mortality. Those who fail to improve within the first year of diagnosis usually deteriorated even upon aggressive anti-congestive medications. Investigators had conducted precision-medicine-based approach to provide strategic approach as drug repurposing to identify new treatments. Investigators have identified the beneficial effects from a statin, simvastatin, to restore the cardiac contractility in the human induced pluripotent stem cell lines derived from a DCM proband and the proband's father. The mutant mouse consequently confirmed the beneficial effects. The initial experience in the proband is promising. This clinical trial is to find out if simvastatin will benefit the cardiac function of DCM patients.
+Eligibility: Inclusion criteria
+
+Patients diagnosed as dilated cardiomyopathy, classified as NYHA functional class II or III and still have a low left ventricular ejection fraction (LVEF) (LVEF \< 45% and the Z score of the LV end-diastolic diameter \> 2.0) will be enrolled, if they have normal or high level of cholesterol and triglyceride and fulfill any of the following criteria:
+
+1. Patients who have already received anti-congestive medications for at least three months and still have poor LV function (LVEF \< 45% and the Z score of the LV end-diastolic diameter \> 2.0).
+2. Patients who have persistent or even worsening heart failure after one month of anti-congestive medications.
+3. Patients who have positive family history of dilated cardiomyopathy and have received anti-congestive medications for one month.
+4. Patients or their parents must sign an informed consent form.
+
+Exclusion criteria
+
+Patients who fulfill any of the following criteria will be excluded from the trial:
+
+1. Patients who underwent prior cardiac surgery. Those who received DCM related surgery, such as mitral valve plasy, for longer than a year are not subject to this restriction.
+2. Patients who had active liver / renal dysfunction.
+3. Concomitant use with gemfibrozil, cyclosporine, danazol, strong CYP3A4 inhibitors (eg, boceprevir, clarithromycin, erythromycin, HIV protease inhibitors, itraconazole, ketoconazole, nefazodone, posaconazole, telaprevir, telithromycin, voriconazole), or cobicistat-containing products
+4. Patients who are pregnant or plan to pregnancy in the period of study.
+5. Patients who are intolerance to simvastatin therapy.

@@ -1,0 +1,27 @@
+Title: Study on the Composite Endpoint Event of PCSK9 Inhibitor in Patients With Very High Risk of ASCVD and Cancer
+Official title: Study on the Composite Endpoint Event of PCSK9 Inhibitor in Patients With Very High Risk of ASCVD and Cancer
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: ASCVD; Atherosclerotic Cardiovascular Disease; Proprotein Convertase Subtilisin/Kexin Type 9 Inhibitor; Cancer
+Interventions: Evolocumab (DRUG); Statin (DRUG)
+Summary: This study is a prospective, randomized, open-label, and single center trial. To evaluate the effect of treatment with PCSK9 inhibitor on the risk for cardiovascular death, recurrent unstable angina, myocardial infarction, stroke, or coronary revascularization in patients with very high risk of atherosclerotic cardiovascular disease (ASCVD) and cancer.
+Eligibility: Inclusion Criteria:
+
+* Male or female ≥ 18 to ≤ 80 years of age
+* Patients with very high risk of ASCVD (with any of the following):
+
+  1. Documented ASCVD, either clinical or unequivocal on imaging. Documented ASCVD includes previous acute coronary syndrome (ACS), stable angina, coronary revascularization (percutaneous coronary intervention, coronary artery bypass graft, and other arterial revascularization procedures), stroke and transient ischemic attack (TIA), and peripheral arterial disease. Unequivocally documented ASCVD on imaging includes those findings that are known to be predictive of clinical events, such as significant plaque on coronary angiography or computed tomography (CT) scan (multivessel coronary disease with two major epicardial arteries having \>50% stenosis), or on carotid ultrasound.
+  2. Diabetes mellitus (DM) with target organ damage, or at least three major risk factors, or early onset of type 1 diabetes mellitus (T1DM) of long duration (\>20 years).
+* Patients have been diagnosed with cancer through histopathology and have a life expectancy of more than 1 year
+* Fasting low-density lipoprotein cholesterol (LDL-C) ≥ 1.8 mmol/L or non-high-density lipoprotein cholesterol (non HDL-C) \> 2.6 mmol/L
+* Participate voluntarily and sign an informed consent
+* Negative serum Pregnancy test (in women with fertility potential)
+
+Exclusion Criteria:
+
+* Pregnant and lactating women
+* During the study period and within 3 months of receiving the last dose of the study drug, women with fertility intentions and men unwilling to use effective contraceptive methods
+* New York Heart Association (NYHA) class III or IV, or last known left ventricular ejection fraction \< 30%
+* Uncontrolled hypertension, defined as systolic blood pressure ≥ 180 mmHg and/or diastolic blood pressure ≥ 110 mmHg
+* Plan for coronary revascularization or other cardiac surgery in recent (within 3 months after randomization)
+* Severe renal insufficiency, defined as estimated glomerular filtration rate (eGRF) \< 30ml/min/1.73m2 or Serum creatinine (Scr) \> 221 umol/L
+* Severe liver dysfunction, defined as an increase in alanine aminotransferase (ALT) or aspartate aminotransferase (AST

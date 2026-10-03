@@ -1,0 +1,28 @@
+Title: Carisbamate in Adult & Pediatric Subjects With Lennox-Gastaut Syndrome
+Official title: Phase I, Open-Label, Pharmacokinetic, Dose Escalation Study of Carisbamate in Adult and Pediatric Subjects With Lennox-Gastaut Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Lennox Gastaut Syndrome
+Interventions: Carisbamate (DRUG)
+Summary: This is an open-label, multi-center study of carisbamate in adult and pediatric subjects with LGS, with single- and multiple-dose PK assessments from Days 1 through 73. There will be a Screening Period of up to 28 days and a Treatment Period of 87 days.
+Eligibility: Inclusion Criteria:
+
+1. Diagnosis of LGS as evidenced by the following:
+
+   1. More than 1 type of generalized seizure, including drop seizures (atonic, tonic, or myoclonic), for ≥6 months before Visit 1
+   2. Previous electroencephalogram reporting diagnostic criteria for LGS (abnormal background activity accompanied by slow spike-and-wave pattern \<2.5 Hz)
+2. Male or female aged ≥2 years at the time of consent
+3. Aged \<11 years at the onset of LGS
+4. Written informed consent signed by the subject or legal guardian prior to entering the study in accordance with the ICH GCP guidelines. Age appropriate assent will be obtained for children and adolescents. If the written informed consent is provided by the legal guardian because the subject is unable to do so, a written or verbal assent from the subject must also be obtained.
+5. Receiving 1 to 3 concomitant AEDs at a stable dose for ≥30 days before Visit 1 (vagal nerve stimulation \[VNS\] and ketogenic diet, stable and ongoing for ≥30 days before Visit 1, do not count as AEDs)
+6. In the Investigator's opinion, parents or caregivers must be able to report accurate seizure assessments during the screening and study periods and subjects must be able to ingest study drug
+7. Body weight ≥8 kg for subjects enrolled in Cohort IV
+8. Subjects with an implanted vagal nerve stimulator will be allowed if the vagal nerve stimulator was implanted at least 5 months prior to Visit 1 (Screening) and the stimulator parameters are not changed for 30 days prior to Visit 1 and for the duration of the study
+9. Subjects following a ketogenic diet will be allowed as long as the diet has been stable for at least 30 days prior to Visit 1 (Screening) and will remain stable for the duration of the study.
+
+Exclusion Criteria:
+
+1. Progressive neurological disease
+2. Prior treatment with carisbamate
+3. Evidence of clinically significant disease or any medical condition that would compromise the subject's ability to safely complete the study
+4. Any surgical or medical condition that may interfere with the absorption, distribution, metabolism, or excretion of the investigational medicine product
+5. Acute disease state (e.g., nausea, vomiting, fe

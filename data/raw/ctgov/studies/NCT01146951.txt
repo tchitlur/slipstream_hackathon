@@ -1,0 +1,24 @@
+Title: A Placebo-Controlled, Double-Blind Comparative Study of E2080 in Lennox-Gastaut Syndrome Patients (Study E2080-J081-304)
+Official title: A Placebo-Controlled, Double-Blind Comparative Study of E2080 in Lennox-Gastaut Syndrome Patients
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Lennox-Gastaut Syndrome
+Interventions: Rufinamide (E2080) (DRUG); Placebo (DRUG)
+Summary: To confirm that the combination therapy of rufinamide has superior efficacy compared to placebo in patients with Lennox-Gastaut syndrome.
+Eligibility: Inclusion criteria
+
+1. Participants who are diagnosed as Lennox-Gastaut syndrome with tonic/atonic seizures and atypical absence seizures (A history of atypical absence seizures will also be incorporated).
+2. Participants who had a slow spike-and-wave pattern in an electroencephalogram within 6 months prior to the enrollment for the Observation Period.
+3. Participants who had at least a total of 90 seizures in the 28 days prior to the enrollment for the Observation Period.
+4. Participants who have been on 1 - 3 anti-epileptic drugs from 28 days prior to the enrollment for the Observation Period and have not changed the type of the anti-epileptic drugs.
+5. Participants who have not changed the type nor the dose or administration of the anti-epileptic drugs they are taking in the Observation Period.
+
+Exclusion criteria;
+
+1. Participants who had a history of generalized tonic-clonic status epilepticus within baseline.
+2. Participants who received drug therapy at least 4 times to be rescued from status epilepticus within baseline.
+3. Participants who had a history of hypoxia which needed emergency resuscitation within 12 months prior to the Treatment Period.
+4. Participants who were on a ketogenic diet or have received adrenocorticotropic hormone (ACTH) therapy or Vitamin B6 therapy within 6 months prior to the Treatment Period.
+5. Participants who had a history of suicide attempt within the 1 year prior to the Treatment Period.
+6. Participants who had a history of or has an allergy to triazole compound.
+7. Participants who have clinically significant electrocardiogram abnormalities at baseline.
+8. Participants who are pregnant, who may be pregnant, who are lactating or who wish to be pregnant.

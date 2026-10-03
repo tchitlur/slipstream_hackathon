@@ -1,0 +1,17 @@
+Title: HEmiplegia Arrhythmia Retrospective Trial
+Official title: Role of Alternating Hemiplegia of Childhood Genotype in Cardiac Repolarization. HEART: HEmiplegia Arrhythmia Retrospective Trial
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Alternating Hemiplegia of Childhood
+Interventions: Recording of clinical parameters and electrocardiogram parameters (OTHER)
+Summary: Alternating Hemiplegia of Childhood (AHC) is a rare and severe disease that is in need of effective, and hopefully even curative, therapies. Afflicted patients suffer from severe paralyzing crises, often excruciatingly painful muscle spasms, severe often life threatening epileptic seizures, frequently severe developmental and psychiatric/psychological disabilities and other comorbidities, such as cardiac disturbances. Recent data indicate that AHC genotype is in relation to cardiac repolarization troubles and to cardiac arrhythmias. The primary hypothesis to explore is that there is an association between genotype and cardiac phenotype in AHC.
+Eligibility: Inclusion Criteria:
+
+* Patients that meet the clinical diagnostic criteria (Aicardi et al, 1995) for typical alternating hemiplegia with or without identified mutations in ATP1A3.
+* At least one ECG study is required.
+* Patients ages yearand more
+
+Exclusion Criteria:
+
+* Informed consent or assent not obtainable
+* ATP1A3 testing not performed
+* No ECG studies are available

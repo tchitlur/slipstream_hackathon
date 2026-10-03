@@ -1,0 +1,35 @@
+Title: Harmonic Ratio in Patients With GLUT1 Deficiency Syndrome
+Official title: Harmonic Ratio in Patients With GLUT1 Deficiency Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: GLUT1DS1; Dystonia; Gait Disorders, Neurologic; Gait Ataxia
+Interventions: Inertial gait analysis (DIAGNOSTIC_TEST)
+Summary: Glucose transporter deficiency syndrome type 1 (GLUT1DS) is a rare, genetically determined, neurometabolic disorder .
+
+It is estimated that about 90% of affected patients present various pathological gait patterns. Ataxic, spastic, ataxo-spastic, or dystonic walking are the main manifestations described to date.
+
+The kinematic gait analysis with inertial sensors represents a method that is easily applicable in clinical practice, with possible application in numerous neurological syndromes of the pediatric and adult age.
+
+Through the kinematic gait analysis, it will be possible to obtain an accurate characterization of the gait of patients with GLUT1DS. This will allow, in the first place, a better knowledge of locomotor parameters in this rare cohort of patients. Given that kinematic analysis through a wearable sensor is a method that can be easily integrated into daily clinical practice, the data obtained could become prognostic biomarkers and significant outcome measures of the disease (also in relation to possible improvements deriving from treatment with a ketogenic diet or in the context of future pharmacological trials).
+Eligibility: Patients eligibility criteria
+
+Inclusion Criteria:
+
+* Pediatric and adult patients (range 3-60 years) diagnosed with GLUT1 deficiency syndrome according to the recommendations of the International Study Group (Klepper et al., 2020)
+* Ability to walk independently the necessary route
+* Compliance with study procedures
+
+Exclusion Criteria:
+
+* Presence of other neurological or orthopedic comorbidities that may influence gait assessment
+* Poor compliance with study procedures
+
+Healthy controls eligibility criteria:
+
+Inclusion Criteria:
+
+* Typically developing healthy volunteers
+* Age range 3-60 years
+
+Exclusion criteria:
+
+* Presence of neurological or orthopedic comorbidities that may influence gait assessment

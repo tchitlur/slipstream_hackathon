@@ -1,0 +1,26 @@
+Title: Multi-Omics and IPSCs to Improve Diagnosis of Rare Intellectual Disabilities
+Official title: Multi-Omics and IPSCs to Improve the Diagnosis of Rare Intellectual Disabilities
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rare Intellectual Disabilities
+Interventions: Blood sample (OTHER)
+Summary: Background Genetic factors play a major role in intellectual disability (ID) but the underlying cause is not determined in many cases.
+
+This proposal is the continuation of the previous interregional project HUGODIMS, the aim of which was to perform whole exome sequencing (WES) in 69 thoroughly selected simplex ID parent-child trios. Thanks to HUGODIMS consortium, the underlying genetic cause of ID was determined or highly suspected in 48 cases (69.5%) and 7 novel ID genes were identified.
+
+Hypothesis Investigators hypothesize that an approach combining genomics, transcriptomics, metabolomics and morphological analyses performed on induced pluripotent stem cell (iPSC)-derived neural cells would improve diagnosis of ID. The current proposal is therefore a proof-of concept project aiming at assessing the relevance and effectiveness of this multi-omics approach.
+
+Aims and Methods Ten individuals with ID recruited through HUGODIMS, in whom WES have failed to identify pathogenic variants will be included.
+
+The workflow is the following:
+
+1. Whole genome sequencing (WGS) (Nantes) of these 10 negative trios.
+2. Bio-informatics analyses
+3. In 3 WGS negative cases, 3 positive controls beari
+Eligibility: Inclusion Criteria:
+
+* 3 Whole Genome Sequencing negative cases
+* 3 positive controls bearing distinct mutations in CAMK2a
+
+Exclusion Criteria:
+
+* no informed consent/refusal

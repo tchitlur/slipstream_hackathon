@@ -1,0 +1,346 @@
+{
+ "focalId": "cond:G2P01036",
+ "neighborId": "cond:G2P00319",
+ "generatedAt": "2026-10-03T20:43:46.038Z",
+ "mode": "llm",
+ "model": "gpt-5.4",
+ "sections": [
+  {
+   "heading": "Who we are",
+   "sentences": [
+    {
+     "text": "[Name of our group, who we represent, and how many families we are in touch with.]",
+     "evidenceIds": []
+    }
+   ]
+  },
+  {
+   "heading": "Why we are writing to you",
+   "sentences": [
+    {
+     "text": "We are writing because PCDH19-related epileptic encephalopathy early infantile and SLC6A1-related epilepsy with myoclonic-atonic seizures are both recorded on the same mechanism road: too little protein from loss of function of one copy.",
+     "evidenceIds": [
+      "ev:g2p:G2P01036",
+      "ev:hpoa:OMIM:300088",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "The reported phenotype similarity is high, but the shared features are broad seizure terms, so we want to be careful and specific.",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P01036",
+      "ev:hpoa:OMIM:300088",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we share",
+   "sentences": [
+    {
+     "text": "Both gene-disease links are listed as definitive in Gene2Phenotype.",
+     "evidenceIds": [
+      "ev:g2p:G2P01036",
+      "ev:g2p:G2P00319"
+     ]
+    },
+    {
+     "text": "Both conditions are recorded with inferred loss of function as the disease mechanism.",
+     "evidenceIds": [
+      "ev:g2p:G2P01036",
+      "ev:g2p:G2P00319"
+     ]
+    },
+    {
+     "text": "The shared informative features listed are atonic seizure, generalized non-motor (absence) seizure, generalized-onset motor seizure, non-motor seizure, and myoclonic seizure.",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P01036",
+      "ev:hpoa:OMIM:300088",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "Registry design and natural history protocol are marked as transferable from the SLC6A1 community to ours.",
+     "evidenceIds": [
+      "ev:rule:R1",
+      "ev:rule:simgic",
+      "ev:g2p:G2P01036",
+      "ev:hpoa:OMIM:300088",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421",
+      "ev:ctgov:NCT07531511:role",
+      "ev:ctgov:NCT01238250:role"
+     ]
+    },
+    {
+     "text": "Outcome measures and endpoints are also marked as transferable, with review of age of onset and severity before any tool is adopted.",
+     "evidenceIds": [
+      "ev:rule:R2",
+      "ev:rule:simgic",
+      "ev:g2p:G2P01036",
+      "ev:hpoa:OMIM:300088",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421",
+      "ev:ctgov:NCT07531511:role",
+      "ev:ctgov:NCT01238250:role"
+     ]
+    },
+    {
+     "text": "Clinical network, sites, and investigators are marked as transferable as a starting point.",
+     "evidenceIds": [
+      "ev:rule:R3",
+      "ev:rule:simgic",
+      "ev:g2p:G2P01036",
+      "ev:hpoa:OMIM:300088",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421",
+      "ev:seed:org:slc6a1-connect",
+      "ev:ctgov:NCT07173153:role",
+      "ev:ctgov:NCT04937062:role",
+      "ev:ctgov:NCT07847918:role",
+      "ev:ctgov:NCT07531511:role"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we would like to learn from or reuse",
+   "sentences": [
+    {
+     "text": "We would like to learn from the SLC6A1-NDD Prospective Longitudinal Natural History Study and from Simons Searchlight as examples of registry or natural history structure.",
+     "evidenceIds": [
+      "ev:ctgov:NCT07531511:role",
+      "ev:ctgov:NCT01238250:role",
+      "ev:rule:R1",
+      "ev:rule:R2"
+     ]
+    },
+    {
+     "text": "We would like to understand which data items, visit schedule, and measured domains have been most useful in practice.",
+     "evidenceIds": [
+      "ev:rule:R1",
+      "ev:rule:R2",
+      "ev:ctgov:NCT07531511:role",
+      "ev:ctgov:NCT01238250:role"
+     ]
+    },
+    {
+     "text": "We would also like to learn which sites and investigators have experience across these seizure and neurodevelopmental conditions.",
+     "evidenceIds": [
+      "ev:rule:R3",
+      "ev:seed:org:slc6a1-connect",
+      "ev:ctgov:NCT07173153:role",
+      "ev:ctgov:NCT04937062:role",
+      "ev:ctgov:NCT07847918:role",
+      "ev:ctgov:NCT07531511:role"
+     ]
+    },
+    {
+     "text": "For research planning, disease models and assays may offer reusable ideas, but only with expert review.",
+     "evidenceIds": [
+      "ev:rule:R5",
+      "ev:pubmed:models:SLC6A1",
+      "ev:g2p:G2P01036",
+      "ev:g2p:G2P00319"
+     ]
+    },
+    {
+     "text": "For future study planning, trial design may be a useful template, but it also needs expert review.",
+     "evidenceIds": [
+      "ev:rule:R6",
+      "ev:ctgov:NCT07173153:role",
+      "ev:ctgov:NCT04937062:role",
+      "ev:ctgov:NCT07847918:role"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we know differs",
+   "sentences": [
+    {
+     "text": "For PCDH19, no registry or natural history study was found in the sources searched.",
+     "evidenceIds": [
+      "ev:g2p:G2P01036"
+     ]
+    },
+    {
+     "text": "For SLC6A1, two such studies were found: NCT07531511 and NCT01238250.",
+     "evidenceIds": [
+      "ev:ctgov:NCT07531511:role",
+      "ev:ctgov:NCT01238250:role"
+     ]
+    },
+    {
+     "text": "For PCDH19, no targeted clinical trial was found in the sources searched.",
+     "evidenceIds": [
+      "ev:g2p:G2P01036"
+     ]
+    },
+    {
+     "text": "For SLC6A1, three targeted trials were found: NCT07173153, NCT04937062, and NCT07847918.",
+     "evidenceIds": [
+      "ev:ctgov:NCT07173153:role",
+      "ev:ctgov:NCT04937062:role",
+      "ev:ctgov:NCT07847918:role"
+     ]
+    },
+    {
+     "text": "No approved disease-specific therapy was found for either condition.",
+     "evidenceIds": [
+      "ev:g2p:G2P01036",
+      "ev:g2p:G2P00319"
+     ]
+    },
+    {
+     "text": "We must not assume that a therapy approach, a model, or a trial design transfers directly just because the two conditions are on the same road.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P01036",
+      "ev:hpoa:OMIM:300088",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "The reason is that mechanism is recorded per gene and disease, not per family, and a child's own variant may act differently.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P01036",
+      "ev:hpoa:OMIM:300088",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "Our families should confirm the variant class with a clinical geneticist before acting on transfer ideas.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P01036",
+      "ev:hpoa:OMIM:300088",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "We also must not assume eligibility for an SLC6A1 trial, because enrolment in the neighbor's trial is not asserted.",
+     "evidenceIds": [
+      "ev:rule:R7",
+      "ev:ctgov:NCT07173153:role",
+      "ev:ctgov:NCT04937062:role",
+      "ev:ctgov:NCT07847918:role"
+     ]
+    },
+    {
+     "text": "The listed SLC6A1 organization is unverified, and its registry status is unknown.",
+     "evidenceIds": [
+      "ev:seed:org:slc6a1-connect"
+     ]
+    },
+    {
+     "text": "The shared phenotype signal also has an important limit: 100% of the shared weight comes from common, low-information terms.",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P01036",
+      "ev:hpoa:OMIM:300088",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "The curated mechanism for both conditions is inferred from variant types rather than direct functional evidence.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P01036",
+      "ev:g2p:G2P00319"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Questions for expert review",
+   "sentences": [
+    {
+     "text": "Does the overlap between PCDH19 and SLC6A1 go beyond common features such as seizures and developmental delay, in your clinical experience.",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P01036",
+      "ev:hpoa:OMIM:300088",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "Is SLC6A1 Connect the right contact, and does it run a registry.",
+     "evidenceIds": [
+      "ev:seed:org:slc6a1-connect"
+     ]
+    },
+    {
+     "text": "Has a child's specific PCDH19 variant been functionally classified as loss of function, gain of function, or dominant negative, and does it match the mechanism recorded for the condition.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P01036",
+      "ev:hpoa:OMIM:300088"
+     ]
+    },
+    {
+     "text": "What functional evidence exists for PCDH19, given that the curated mechanism is inferred from variant types.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P01036"
+     ]
+    },
+    {
+     "text": "Thank you for reading.",
+     "evidenceIds": []
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "loss of function",
+   "meaning": "A gene change that reduces how well the gene works."
+  },
+  {
+   "term": "natural history study",
+   "meaning": "A study that follows people over time to learn how a condition changes."
+  },
+  {
+   "term": "outcome measure",
+   "meaning": "A way to track symptoms, skills, or daily function in a study."
+  },
+  {
+   "term": "clinical geneticist",
+   "meaning": "A doctor with specialist training in genetic conditions and variant interpretation."
+  },
+  {
+   "term": "variant",
+   "meaning": "A change in a gene."
+  },
+  {
+   "term": "disease model",
+   "meaning": "A cell or animal system used to study a condition in research."
+  }
+ ],
+ "droppedSentences": 0
+}

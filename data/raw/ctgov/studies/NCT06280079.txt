@@ -1,0 +1,27 @@
+Title: Ultra-high-caloric, Fatty Diet in ALS
+Official title: Efficacy, Safety, and Tolerability of Ultra-high-caloric, Fatty Diet (UFD) in Amyotrophic Lateral Sclerosis (ALS)
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Amyotrophic Lateral Sclerosis
+Interventions: Ultra-high-caloric fatty diet (DIETARY_SUPPLEMENT); Placebo (OTHER)
+Summary: This study aims at evaluating efficacy and tolerability of an ultra-high-caloric, fatty diet (UFD) compared to placebo in patients with amyotrophic lateral sclerosis (ALS).
+Eligibility: Inclusion Criteria:
+
+* Possible, probable (clinically or laboratory supported) or definite amyotrophic lateral sclerosis according to the revised version of the El Escorial criteria
+* Disease duration (onset of first paresis or bulbar symptoms) \< 24 months
+* Loss of amyotrophic lateral sclerosis functional rating scale revised of ≥ 0.33 points/month based on the formula: (48 - myotrophic lateral sclerosis functional rating scale revised score at screening visit) / (months between onset and screening visit)
+* Age ≥18 years.
+* Either continuously treated with a stable dose of riluzole, OR not treated with riluzole for the last 4 weeks prior to inclusion
+* Either continuously treated with a stable dose of edaravone, OR not treated with edaravone for the last 4 weeks prior to inclusion
+* Either continuously treated with a stable dose of sodium-phenylbutyrate/taurursodiol, OR not treated with sodium-phenylbutyrate/taurursodiol for the last 4 weeks prior to inclusion
+* Capable of thoroughly understanding all information given
+* full written informed consent according to good clinical practice
+
+Exclusion Criteria:
+
+* Previous participation in another interventional study involving an active treatment within the preceding 4 weeks
+* Tracheostomy or continuous permanent ventilator dependence (\>22 hours per day)
+* Pregnancy or breastfeeding
+* Any medical condition known to have an association with motor neuron dysfunction which might confound or obscure the diagnosis of ALS
+* Presence of any concomitant life-threatening disease or impairment likely to interfere with functional assessment.
+* Evidence of a major psychiatric disorder or clinically evident dementia precluding evaluation of symptoms.
+* Liable to be not cooperative or comply with study requirements as assessed by the investigator, or unable to be reached in the case of emergency

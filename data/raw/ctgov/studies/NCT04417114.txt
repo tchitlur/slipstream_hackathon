@@ -1,0 +1,28 @@
+Title: SystemIc iNflammation and Microvascular diSease PreventIon in psoRiatic diseasE
+Official title: SystemIc iNflammation and Microvascular diSease PreventIon in psoRiatic diseasE
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Psoriasis; Psoriatic Arthritis; Cardiovascular Risk Factor
+Interventions: Rosuvastatin (DRUG)
+Summary: This is a single-label open-arm mechanistic clinical study recruiting patients with psoriasis or psoriatic arthritis with elevated cardiovascular risk. Subjects enrolled in this study will receive statin treatment with rosuvastatin. The statin treatment in this study will be used as an intervention with widely known pleiotropic CV risk reduction effects, including anti-inflammatory reduction. Subjects will be studied before statin therapy and followed for 48 weeks on treatment. The primary outcome will be change in the coronary flow reserve (CFR) as measured by cardiac PET. Overall, this study will examine the impact of statin therapy on changes in CFR as a reflection of impaired coronary vasoreactivity and a manifestation of myocardial ischemia, which may precede clinical CV events (and visible changes in plaque morphology) in high-risk patients with psoriatic disease.
+Eligibility: Inclusion Criteria:
+
+* Age \> 40 years of age
+* Documented evidence of PsO or PsA by a board-certified dermatologist or rheumatologist, respectively.
+* Subjects on systemic therapy/phototherapy for PsO or PsA will be required to be on stable therapy for at least 3 months prior to enrollment
+
+Plus, documented history of at least one of the following:
+
+1. Hypertension
+2. Obesity (BMI \> 30)
+3. Diabetes Mellitus
+4. HsCRP \> 3 mg/L within 30 days of enrollment
+
+Exclusion Criteria:
+
+* Patients on statin or PCSK9 inhibitor therapy, or use of statin therapy within the past year
+* Documented history of other systemic inflammatory diseases, which in the opinion of the investigator would be inappropriate for enrollment.
+* Prior history of untreated chronic infection (tuberculosis), severe fungal infection, or known HIV positive, chronic hepatitis B or C infection), prior history of solid malignancy, myeloproliferative or lymphoproliferative disease within 5 years, excluding treated non-melanoma skin cancer
+* NYHA class IV heart failure
+* Active liver disease including unexplained, persistent elevations of serum transaminases or serum transaminase elevation \> 3 x the upper limit of normal.
+* Severe renal impairment
+* Pregnancy

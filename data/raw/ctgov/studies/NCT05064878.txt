@@ -1,0 +1,24 @@
+Title: A Phase 3 Study to Examine the Efficacy and Safety of ZX008 in Subjects With CDKL5 Deficiency Disorder.
+Official title: A Phase 3, Randomized, Double-Blind, Placebo-Controlled, Fixed-Dose, Multicenter Study To Examine The Efficacy And Safety Of ZX008 In Subjects With CDKL5 Deficiency Disorder Followed By An Open-Label Extension
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: CDKL5 Deficiency Disorder; Generalized Tonic Clonic Seizure; Epileptic Spasm; Refractory Seizures
+Interventions: Fenfluramine (DRUG); Placebo (DRUG)
+Summary: This is a Phase 3 Study to examine the efficacy and safety of ZX008 in children and adults with cyclin-dependent kinase like-5 (CDKL5) deficiency disorder (CDD).
+Eligibility: Inclusion Criteria:
+
+* Subject has a confirmed pathogenic or likely pathogenic mutation in the CDKL5 gene and a clinical diagnosis of CDKL5 deficiency disorder (CDD) with epilepsy onset in the first year of life, plus motor and developmental delays.
+* Subject is male or female, aged 1 to 35 years, inclusive, as of the day of the Screening Visit.
+* Subject must have failed to achieve seizure control despite previous or current use of 2 or more antiepileptic treatments (AETs).
+* Subject is currently receiving at least 1 concomitant antiseizure treatment: antiseizure medication (ASM), vagus nerve stimulation (VNS), responsive neurostimulation (RNS), or ketogenic diet (KD).
+* All medications or interventions for epilepsy (including VNS, RNS, and KD) must be stable prior to screening and are expected to remain stable throughout the study.
+* At the Screening Visit, parent/caregiver reports that subject has ≥ 4 countable motor seizures (CMS) per week.
+
+Exclusion Criteria:
+
+* Subject has a known hypersensitivity to fenfluramine or any of the excipients in the study drug.
+* Subject has a diagnosis of pulmonary arterial hypertension.
+* Subject has a clinically significant medical condition, including chronic obstructive pulmonary disease, interstitial lung disease, or portal hypertension, or has had clinically relevant symptoms or a clinically significant illness currently or in the 4 weeks prior to the Screening Visit, other than epilepsy, that would negatively impact study participation, collection of study data, or pose a risk to the subject.
+* Subject has current or past history of cardiovascular or cerebrovascular disease, such as cardiac valvulopathy, myocardial infarction or stroke, severe ventricular arrhythmias, or clinically significant structural cardiac abnormality, including but not limited to mitral valve prolapse, atrial or ventricular septal defects, patent ductus arteriosus, and patent foramen ovale with reversal of shunt. (Note: Patent foramen ovale or a bicuspid aortic valve are not considered exclusionary).
+* Subject has current eating disorder that suggests anorexia nervosa or bulimia.
+* Subject has a current or past history of glaucoma.
+* Subject is 

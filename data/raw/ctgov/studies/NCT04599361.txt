@@ -1,0 +1,21 @@
+Title: Health Care Analysis on Myocardial Revascularization in Patients With Chronic Coronary Heart Disease (CHD)
+Official title: Health Care Analysis on Myocardial Revascularization in Patients With Chronic Coronary Heart Disease (CHD)
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Coronary Heart Disease
+Interventions: none
+Summary: Myocardial infarction and chronic coronary heart disease (cCHD) are the most frequent causes of death in Germany. Treatment options include widening of the narrowed / blocked coronary vessel via catheter and stent or bypass surgery in which the narrowed vessel sites are bridged. The "German National Disease Management Guideline on cCHD" helps doctors to decide which treatment is most appropriate for the severity of vascular damage and possible concomitant diseases of the patient. Nevertheless, there are other factors determining treatment decision. For example, the equipment or preferences of the hospital or department in which patients are admitted, play a role in the decision.
+
+The aim of the REVASK project is to investigate whether and to what extent the collaboration of cardiology and heart surgery specialists in so-called "heart teams" influences the decision on therapy.
+
+For this purpose, doctors and patients will be interviewed about how the treatment decision was made and how satisfied both sides are with the outcome of the treatment and the decision. In addition, claims data from several German health insurance companies (Techniker, BARMER, Betriebs- und Innungskrankenkass
+Eligibility: Inclusion Criteria:
+
+* with chronic coronary heart disease
+* and 2- or 3-vessel or main-vessel disease
+* who are being treated at one of the recruitment sites
+* with a promptly planned intervention for myocardial revascularization
+* who are insured with pre-specified German health insurance companies (BARMER or TK)
+
+Exclusion Criteria:
+
+\-

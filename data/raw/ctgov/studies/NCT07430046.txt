@@ -1,0 +1,28 @@
+Title: Repurposing Mirtazapine in Rett Syndrome
+Official title: Repurposing Mirtazapine in Rett Syndrome: a Multicentric Open Label Phase II Study
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: RETT Syndrome With Proven MECP2 Mutation
+Interventions: mirtazapine (DRUG)
+Summary: Rett Syndrome (RTT) is a rare neurodevelopmental disorder caused by an MECP2 gene mutation on the X chromosome, primarily affecting females. It causes progressive motor and cognitive decline, loss of speech, repetitive hand movements, breathing issues, seizures, and sleep problems. Given RTT's association with reduced monoamine levels, antidepressants like mirtazapine (MTZ) may help.Preclinical studies in MeCP2-mutant mice and early adult RTT trials showed that MTZ improved respiratory, motor, and neurological function, sleep, and mood, prompting this pediatric and young adult study. The MirtaRett trial is a multicenter, open-label, single-arm, phase II study enrolling 54 female RTT patients (ages 5-40), divided into groups of 18 (5-10, 11-17, 18-40 years). It aims to evaluate MTZ's safety and efficacy for mood, sleep, and motor symptoms, particularly hand control. Other ares of investigation include autonomic function, behavior, caregiver burden, clinical severity, and neuronal plasticity and metabolic biomarkers. Patients will receive escalating doses of MTZ oral solution: initial low doses (3.75-15 mg/day) for two weeks, followed by optimal doses (7.5-30 mg/day) for six months. 
+Eligibility: INCLUSION CRITERIA
+
+* 1\. Female aged 5 to 39 years inclusive, at the time of signing the informed consent.
+* 2\. Girls of childbearing age negative to pregnancy test;
+* 3\. Body weight \> 10 kg. and within the expected range for RTT, based on age and height.
+* 4\. Diagnosis of RTT based on consensus clinical criteria (Neul, 2010) and a confirmed mutation in MECP2 gene.
+* 5\. Breathing dysfunction (at least one of the following): period apnoea, intermittent hyperventilation, breath holding spells, air swallowing, forced expulsion of air and /or saliva.
+* 6\. Ten episodes or more/day of breathing dysfunction during wakefulness in the week prior to the screening visit (parents report).
+
+  7\. Stable medication regimen for 4 weeks prior to beginning the study (if receiving services - physical, occupational, or speech therapy - subjects must be on a stable regimen of these services for 3 months prior to beginning the study).
+* 8\. Female patients of childbearing potential must use a highly effective contraceptive method such as combined hormonal contraception (containing estrogen and progestin) associated with ovulation suppression (oral, intravaginal, transdermal); progestin-only hormonal contraception associated with ovulation suppression (oral, injectable, implantable); intrauterine device; hormone-releasing intrauterine system. Sexual abstinence is considered a highly effective contraceptive method if it aligns with the individual's usual lifestyle. Female patients of childbearing potential are to use adequate contraception as recommended by their Health Care Provider.
+* 9\. Written consent signed by parent/legal guardian/representative prior to screening visit
+* 10\. Patient is cooperative, willing to complete the study, and capable of doing so with assistance of a caregiver.
+* 11\. Caregiver is able to understand the instructions and fully participate.
+
+EXCLUSION CRITERIA
+
+Participants are excluded from the study if any of the following criteria apply:
+
+* Patient is participating to another investigational clinical trial.
+* Hypersensitivity to MTZ or any of the other ingredients of Mirtapil®.
+* Clinically significant (as determined by the investigator) cardiov

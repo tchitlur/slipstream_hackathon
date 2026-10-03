@@ -1,0 +1,25 @@
+Title: Pathological Validation of Functional Imaging in Head and Neck Squamous Cell Carcinoma
+Official title: Pathological Validation of Functional Imaging in Head and Neck Squamous Cell Carcinoma. A Prospective, Non-commercial and Mono-centric Study
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Head and Neck Cancer
+Interventions: A polymerase chain reaction -based hypoxia classifier (OTHER); Functional imaging before treatment. (OTHER); Immunohistochemical staining (OTHER); MRI of the resection specimen (OTHER); Tumour volume delineation and comparison (OTHER)
+Summary: Chemo-radiotherapy (CRT) is currently the cornerstone in the management of locoregional advanced head and neck cancer (HNC). Optimization of the quality of RT is therefore an important issue, if the investigators want to improve the therapeutic index in HNC. This could be achieved by a more accurate definition of the tumor volume and by identification of radioresistant volumes within the tumor. Recent literature puts in this regard the incorporation of functional imaging (FI) in the RT treatment planning forward as a promising tool.
+
+FI modalities provide an outstanding contrast between tumor and surrounding tissues. This is in contrast to anatomical imaging. Using anatomical imaging in RT treatment planning, sufficient margins need to be placed around the tumor volume in order to compensate for geometric uncertainties. Consequently many surrounding functional structures receive high doses of irradiation, resulting in side effects. It is expected that, using FI in RT treatment planning will make these margins smaller or even unnecessary, which will result in less irradiation of the surrounding tissues. So far only one study has reported a comparison between tumor volume on anatomic
+Eligibility: Inclusion Criteria:
+
+* Histologically confirmed squamous cell carcinoma of the larynx (preferably tumours located within the bone structures of the larynx)
+* Decision of primary surgery with curative intent made by the multidisciplinary group of head and neck tumours at Leuven University Hospital
+* Karnofsky performance status ≥70%
+* Age ≥ 18 years old
+* Gender: Male - Female
+* Informed consent obtained, signed and dated before specific protocol procedures
+
+Exclusion Criteria:
+
+* Prior irradiation to the head and neck region
+* Medical contraindications for any of the planned investigations
+* Distant metastases
+* Pregnant or lactating women
+* Mental condition rendering the patient unable to understand the nature, scope, and possible consequences of the study
+* Patient unlikely to comply with the protocol, i.e. uncooperative attitude, inability to return for follow-up visits, and unlikely to complete the study.

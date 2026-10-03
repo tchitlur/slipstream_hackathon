@@ -1,0 +1,26 @@
+Title: Transcranial Direct Current Stimulation, Treatment of Childhood Drug-Resistant Lennox-Gastaut Syndrome, A Pilot Study
+Official title: Transcranial Direct Current Stimulation for Treatment of Childhood Pharmacoresistant Lennox-Gastaut Syndrome, A Pilot Study
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Lennox-Gastaut Syndrome
+Interventions: tDCS (DEVICE)
+Summary: Background: Lennox-Gastaut syndrome (LGS) is a severe childhood epileptic syndrome with high pharmacoresistance. The treatment outcomes are still unsatisfied. The investigator previous study of cathodal transcranial direct current stimulation (tDCS) in children with focal epilepsy showed significant reduction in epileptiform discharges. The investigator hypothesized that cathodal tDCS when applied over the primary motor cortex (M1) combined with pharmacologic treatment will be more effective for reducing seizure frequency in participants with LGS than pharmacologic treatment alone.
+
+Material and Method:
+
+Study participants were randomized to receive either:
+
+1. pharmacologic treatment with 5-consecutive days of 2 milliampere (mA) cathodal tDCS over M1 for 20 min or
+2. pharmacologic treatment plus sham tDCS. Measures of seizure frequency and epileptic discharges were performed before treatment and again immediately post-treatment and 1-, 2-, 3-, and 4-week follow-up.
+Eligibility: Inclusion Criteria:
+
+* Clinical diagnosis of LGS
+* Failure of more than two first-line AEDs to control seizures
+* Average seizure frequency of more than one per month for 18 months and no more than three consecutive seizure-free months during that interval
+* Age between 6 and 15 years
+
+Exclusion Criteria:
+
+* Drug addiction
+* Pregnancy
+* Skull defect
+* Other serious neurological diseases and change in dosage of antiepileptic drugs or use of herbal remedies and other alternative therapies.

@@ -1,0 +1,12 @@
+Title: Post-marketing Surveillance of Long-term Administration of Inovelon Tablets in Patients With Lennox-Gastaut Syndrome
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Lennox-Gastaut Syndrome
+Interventions: Rufinamide (DRUG)
+Summary: This surveillance's objectives are
+
+1. Unknown adverse reactions
+2. Incidences of adverse drug reaction
+3. Efficacy during long-term administration
+4. Factors considered to have effect to safety and effectiveness
+5. Incidences of status epileptics, skin disorders and hyper sensitivity reaction, and central nervous system-related adverse events(ataxia , somnolence and/or dizzy, etc.)
+Eligibility: All patients with Lennox-Gastaut syndrome and administrated Inovelon

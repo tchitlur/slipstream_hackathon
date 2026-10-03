@@ -1,0 +1,25 @@
+Title: Gene Therapy for SLC6A1 Neurodevelopmental Disorder
+Official title: Phase I/II Intrathecal Gene Delivery Clinical Trial of scAAV9.P546.SLC6A1 for SLC6A1 Neurodevelopmental Disorder
+Status: ENROLLING_BY_INVITATION. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: SLC6A1
+Interventions: AAV9.SLC6A1 Gene Therapy (BIOLOGICAL)
+Summary: This is gene therapy study of an AAV9 vector carrying the SLCA1 gene for SLC6A1 neurodevelopmental disorder.
+Eligibility: Inclusion Criteria:
+
+* Confirmation of pathogenic mutation S295L in the SLC6A1 gene
+* Ability to cooperate and complete assessments per determination of the physician and therapists
+
+Exclusion Criteria:
+
+* Serological evidence of HIV infection, or Hepatitis B or C infection
+* Diagnosis of (or ongoing treatment) for an autoimmune disease
+* Presence of a medical condition or extenuating circumstance that, in the opinion of the Sponsor-Investigator, might compromise the participant's ability to comply with the protocol required testing or procedures or compromise the participant's wellbeing, safety, or clinical interpretability
+* Persistent leukopenia or leukocytosis (WBC ≤ 3.5 K/µL or ≥20.0 K/µL) or an absolute neutrophil count \< 1.5K/µL
+* Concomitant illness or requirement for chronic drug treatment that in the opinion of the Sponsor-Investigator creates unnecessary risks for gene transfer
+* AAV9 binding antibody titers \> 1:400 as determined by ELISA immunoassay
+* Contraindications for intrathecal injection procedure (e.g. spina bifida, meningitis, or clotting abnormalities)
+* Abnormal laboratory values in the clinically significant range upon normal values in the Nationwide Children's Hospital Laboratory. (GGT \> 78 U/L, Bilirubin ≥ 3.0 mg/dL , Creatinine ≥ 1.8 mg/dL, Hgb \< 8 or \> 18 g/dL; WBC \> 15,000 cells per mL)
+* Family does not want to disclose participant's study participation with primary care physician and other medical providers.
+* Bleeding disorder or any other medical conditions or circumstances in which intrathecal (IT) administration of the product or lumbar puncture (for collection of CSF) are contradicted according to local institutional policy
+* Two consecutive aminotransaminase liver tests \>3 times the upper limit of normal) at screening
+* Contraindications for MRI scans (e.g., cardiac pacemaker, metal fragment or chip in the eye, aneurysm clip in the brain

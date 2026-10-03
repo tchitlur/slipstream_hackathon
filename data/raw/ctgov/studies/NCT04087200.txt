@@ -1,0 +1,15 @@
+Title: Protective Effect of Early High Dose stATins On Cardiovascular and Renal Events in Acute Coronary Syndrome
+Official title: The Protective Effect of Early High Dose High-intensity Statins on Cardiovascular and Renal Events in Patients With Acute Coronary Syndrome
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Acute Coronary Syndrome
+Interventions: none
+Summary: Registration of all ACS patients (STEMI and NSTEMI) admitted to the cardiology ward and scheduled for early invasive strategy. The aim is to evaluate the protective effects of early (on admission) high-dose high-potency statin therapy on early and mid-term cardiac and renal events in this subset of patients.
+Eligibility: Inclusion Criteria:
+
+* Acute coronary syndrome (ST elevation and non ST elevation)
+* Early invasive strategy
+
+Exclusion Criteria:
+
+* contraindication to statin therapy
+* refusal of consent

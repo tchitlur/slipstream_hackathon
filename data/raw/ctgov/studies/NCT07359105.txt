@@ -1,0 +1,27 @@
+Title: Moderate-intensity Statin vs. Individualized LDL-C Target-based Therapy in Older Adults With Type 2 Diabetes (iTARGET-Elderly Study)
+Official title: A Registry-based Randomized Controlled Trial of Moderate-intensity Statin Therapy vs. Individualized Low-density Lipoprotein Cholesterol Target-based Therapy for Primary Prevention of Cardiovascular Events in Patients 70 Years of Age or Older With Type 2 Diabetes (iTARGET-Elderly Study)
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Dyslipidemia Associated With Type II Diabetes Mellitus
+Interventions: Moderate-intensity statin monotherapy (DRUG); Ezetimibe or ezetimibe-statin combination therapy (DRUG)
+Summary: Statins are the cornerstone of cardiovascular disease (CVD) prevention through the lowering of low-density lipoprotein cholesterol (LDL-C). While the benefits of intensive LDL-C lowering are well-established for secondary prevention, evidence remains insufficient for primary prevention in the elderly-specifically for individuals aged 70 years or older with type 2 diabetes who have no prior history of atherosclerotic cardiovascular events.
+
+Current guidelines generally recommend moderate-intensity statins for this population based on extrapolated data. However, there is a significant evidence gap regarding whether these older adults, who have not yet experienced a cardiovascular event, derive the same risk-benefit ratio from pharmacological intervention as younger or secondary prevention groups. Furthermore, while ezetimibe (alone or in combination) is an effective alternative for patients with established disease, its efficacy as a primary prevention strategy in older diabetic patients has not been rigorously confirmed through randomized controlled trials (RCTs).
+
+Therefore, this study specifically focuses on the primary prevention setting, aiming to determine whether individualize
+Eligibility: Inclusion Criteria:
+
+* Provision of written informed consent to participate in the study by the patient or his/her legally authorized representative after receiving and understanding a detailed explanation of the study
+* Adults aged 70 years or older
+* Diagnosed with type 2 diabetes or currently receiving antidiabetic medication, without a history or presence of cardiovascular disease
+* Either: (1) LDL-C≥100 mg/dL if not receiving lipid-lowering therapy, or (2) currently receiving lipid-lowering therapy (in this case, LDL-C level not restricted)
+
+Exclusion Criteria:
+
+* Diagnosis of type 1 diabetes
+* Documented history of atherosclerotic cardiovascular disease at screening, confirmed clinically or by imaging: (1) myocardial infarction; (2) coronary revascularization; (3) currently receiving treatment for acute coronary syndrome; (4) history of ischemic stroke; (5) aortic aneurysm; (6) peripheral arterial disease
+* Currently undergoing cancer treatment
+* Severe disease requiring recurrent hospitalization
+* Frailty (defined as a score ≥3 on the Korean FRAIL questionnaire), or any condition significantly limiting self-care
+* AST or ALT \>3 × ULN, at screening (however, patients will be eligible if repeat testing at the time of randomization shows levels \<3 × ULN), or liver cirrhosis
+* Contraindications to study drugs
+* Pregnant or breastfeeding women

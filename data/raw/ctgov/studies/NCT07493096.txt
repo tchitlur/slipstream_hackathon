@@ -1,0 +1,45 @@
+Title: Intensive Multimodal Neurorehabilitation Targeting Neuroplasticity in Pediatric Neurodevelopmental and Chromosomal Disorders
+Official title: Functional and Neurodevelopmental Outcomes Following Intensive Multimodal Neurorehabilitation in Pediatric Patients With Neurodevelopmental Disorders, Including Chromosomal Abnormalities
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Neurodevelopmental Disorders; Neurodevelopmental Disorders (NDD); Neurodevelopmental Disorders and Developmental Abnormalities; Developmental Delay (Disorder); Cerebral Palsy (CP); Cerebral Palsy Hemiparetic Cerebral Palsy Spasticity Gait Disorders, Neurologic Postural Balance Impairment; Cerebral Palsy Infantile; Cerebral Palsy Spastic Hemiplegic; Cerebral Palsy, Dyskinetic; Autism Spectrum Disorder; Autism Spectrum Disorder (ASD; Hypoxic Ischemic Encephalopathy; Hypoxic Ischemic Encephalopathy (HIE); Traumatic Brain Injury (TBI); Sensory Processing Disorder; Chromosomal Abnormalities; Genetic Disorders; Down Syndrome (Trisomy 21); Fragile X Syndrome (FXS); RETT Syndrome With Proven MECP2 Mutation; Williams Syndrome; 22q11.2 Deletion Syndrome; Sensorimotor Integration
+Interventions: none
+Summary: This observational study evaluates functional and developmental outcomes in pediatric participants undergoing a two week intensive multimodal neurorehabilitation program. The program is designed for children with neurodevelopmental disorders, including but not limited to cerebral palsy, autism spectrum disorder, developmental delay, hypoxic ischemic encephalopathy (HIE), and chromosomal or genetic abnormalities.
+
+Participants receive individualized therapy sessions for approximately 2.5 hours per day over a two week period. The intervention is not standardized but is tailored to each child's specific needs and may include components such as sensory integration, motor planning, reflex integration, oculomotor training, executive functioning activities, communication support, and other brain based therapeutic approaches.
+
+The purpose of this study is to observe changes in functional abilities, including attention, motor coordination, emotional regulation, communication, and activities of daily living. Outcomes are assessed using clinician observation and parent reported changes before and after the intensive program, with limited follow-up when available.
+
+This study does not assign p
+Eligibility: Inclusion Criteria:
+
+* Pediatric participants between approximately 4 and 12 years of age at the time of enrollment.
+* Diagnosed with or presenting with neurodevelopmental, neurologic, or genetic conditions, including but not limited to:
+
+  * cerebral palsy
+  * autism spectrum disorder
+  * developmental delay
+  * hypoxic ischemic encephalopathy (HIE)
+  * traumatic brain injury
+  * sensory processing disorder
+  * chromosomal or genetic abnormalities
+  * Demonstrate functional impairments in one or more neurodevelopmental domains, including:
+* motor coordination or motor planning
+* sensory processing
+* attention or executive functioning
+* oculomotor or visual processing
+* communication
+* emotional or behavioral regulation
+* activities of daily living
+* Enrolled in and able to participate in a two-week intensive therapy program consisting of approximately 2.5 hours per day/ 5 days per week
+
+  * Able to complete baseline and post-program clinical assessment using clinician-observed or caregiver-reported measures.
+  * Parent or legal guardian able to provide informed consent and participate in reporting functional outcomes when applicable.
+
+Exclusion Criteria:
+
+* Medical instability or acute medical condition that would prevent safe participation in an intensive therapy program.
+* Severe uncontrolled seizure activity or other neurologic condition that would interfere with participation in structured therapeutic activities, as determined by the treating clinician.
+* Behavioral or psychological conditions that would prevent safe engagement in the therapy environment despite appropriate support.
+* Inability to attend or complete the full two-week intensive program.
+* Lack of sufficient baseline or post-intervention data to assess change in functional performance.
+* Concurrent participation in another structured intervention or clinical study that would confound interpretation of functional outcomes, at the discretion of the investigator.

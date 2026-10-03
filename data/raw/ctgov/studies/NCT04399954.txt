@@ -1,0 +1,31 @@
+Title: Evaluation of Ketoflo
+Official title: A Study to Evaluate the Acceptability of Ketoflo, a Food for Special Medical Purposes (FSMP) for Use in the Dietary Management of Epilepsy or Neurometabolic Conditions Requiring a Ketogenic Diet (KD)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Epilepsy Intractable; Glucose Transporter Type 1 Deficiency Syndrome; Ketogenic Dieting
+Interventions: Ketoflo (DIETARY_SUPPLEMENT)
+Summary: For 28 days, 30 participants aged 3 to 18 years of age (inclusive) with a condition requiring a ketogenic diet will incorporate Ketoflo into their usual dietary regime. Ketoflo is a nutritionally complete Food For Special Medical Purposes and is suitable for administration by both tube feeding and use as a sip feed. Data on gastrointestinal tolerance, participants adherence to recommended intakes and their thoughts on the product's palatability will be self-reported in Daily Study Diaries.
+Eligibility: Inclusion Criteria:
+
+i) Diagnosis of a condition requiring a ketogenic diet (KD) e.g. intractable epilepsy, Glut-1 deficiency syndrome (Glut-1 DS) etc.
+
+ii) Aged 3 - 18 years of age (inclusive).
+
+iii) Established on a ketogenic diet for at least 3 months under the supervision of a clinician and/or dietitian trained in the use of the KD.
+
+iv) Requirement for a liquid ketogenic feed.
+
+v) In the opinion of the investigator, the participant (and parent/guardian, if relevant) is/are able to comply with the study protocol requirements and complete the diary and questionnaire.
+
+vi) Willingly given, written, informed consent from participant (or parent/guardian, if relevant)
+
+vii) Willingly given, written assent (if appropriate).
+
+Exclusion Criteria:
+
+i) Inability to comply with the study protocol, in the opinion of the investigator.
+
+ii) Under 3 years of age or over 18 years of age.
+
+iii) Medical conditions in which the KD is contraindicated.
+
+iv) Previous clinical evaluation indicating unsuitability for the KD.

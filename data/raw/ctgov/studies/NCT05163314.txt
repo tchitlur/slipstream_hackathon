@@ -1,0 +1,19 @@
+Title: A Study of Soticlestat as an Add-on Therapy in Children and Adults With Dravet Syndrome or Lennox-Gastaut Syndrome
+Official title: A Phase 3, Prospective, Open-Label, Multisite, Extension of Phase 3 Studies To Assess the Long-Term Safety and Tolerability of Soticlestat as Adjunctive Therapy in Subjects With Dravet Syndrome or Lennox-Gastaut Syndrome (ENDYMION 2)
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Dravet Syndrome (DS); Lennox Gastaut Syndrome (LGS)
+Interventions: Soticlestat (DRUG)
+Summary: The main aim of the study is to learn if soticlestat, when given as an add-on therapy, reduces the number of seizures in children and adults with Dravet Syndrome (DS) or Lennox-Gastaut Syndrome (LGS).
+
+Participants will receive their standard anti-seizure therapy, plus tablets of soticlestat. There will be scheduled visits and follow-up phone calls throughout the study.
+Eligibility: Inclusion Criteria:
+
+1\. Participant must have:
+
+* Been previously enrolled in a phase 3 soticlestat clinical study.
+
+Exclusion Criteria:
+
+1. Unstable, clinically significant neurologic (other than the disease being studied), psychiatric, cardiovascular, ophthalmologic, pulmonary, hepatic, renal, metabolic, gastrointestinal, urologic, immunologic, hematopoietic, endocrine disease, malignancy including progressive tumors, or other abnormality that may impact the ability to participate in the study or that may potentially confound the study results. It is the responsibility of the investigator to assess the clinical significance; however, consultation with the medical monitor may be warranted.
+2. Abnormal and clinically significant ECG abnormality at Visit 1 including QT interval with Fridericia correction method (QTcF) \>450 milliseconds (ms) confirmed with a repeat ECG using manual measurement of QTcF.
+3. Participant is considered by the investigator to be at imminent risk of suicide or injury to self, others, or property. Participants who have positive answers on item numbers 4 or 5 on the CSSRS before dosing are excluded. This scale will only be administered to participants aged ≥6 years.

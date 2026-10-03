@@ -1,0 +1,26 @@
+Title: Evaluate the Efficacy of Fenofibrate on Microalbuminuria
+Official title: A Prospective, Open-label, Parallel, Controlled Study to Evaluate the Efficacy of Fenofibrate on Microalbuminuria in Hypertriglyceridemic Patients With Type 2 Diabetes on Top of Statin Therapy
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Microalbuminuria
+Interventions: fenofibrate (DRUG)
+Summary: The investigators design this prospective, open-label, parallel, controlled study to investigate fenofibrate's effect on microalbuminuria reduction and serum creatinine on top of statin therapy in Chinese hypertriglyceridemic patients with type 2 diabetes.
+Eligibility: Inclusion Criteria:
+
+* Females or males, and aged 20 to 65 years.
+* Type 2 diabetes with microalbuminuria (Urinary albumin /creatinine ratio, ACR, between 30 and 300 mg/g, a first morning spot urine sample will be used to approximate the 24-hour urine albumin excretion) in two consecutive laboratory tests before the study period.
+* At least 2 months statin monotherapy with low to moderate dose (atorvastatin ≤20mg q.d. or rosuvastatin≤10mg q.d. or simvastatin≤40mg q.d. or pravastatin≤40mg q.d.or pitavastatin≤2mg q.d or fluvastatin≤80mg q.d.or lovastatin≤40mg q.d) prior to enrollemnt and plan to continue the same type and dose of statin.
+* TG≥1.7 mmol/L (150mg/dl) and TG\<5.65 mmol/L (500mg/dl).
+* HbA1C\<8% and blood pressure\<140/90mmHg.
+
+Exclusion Criteria:
+
+* Any contraindication of fenofibrate and statins in Chinese label.
+* Hepatic insufficiency (ALT or AST\> 1.5\*ULN)
+* Renal insufficiency \[Creatinine clearance rate (Ccr)\]\<60ml/min estimated from MDRD equation)
+* CK \> 1.5\*ULN
+* Hypothyroidism
+* Use of non-statin lipid-regulating drugs such as niacin and fish oil in previous 1 month
+* Combination use of other fibrates or drug with similar structure, especially ketoprofen
+* Combination use of oral anticoagulants
+* Pregnant or lactating woman
+* Other conditions at investigator's discretion

@@ -1,0 +1,31 @@
+Title: Evaluation of Krio in Children and Adults With Epilepsy
+Official title: A Feasibility Study to Evaluate the Acceptability of Krio, a Food for Special Medical Purposes (FSMP) for Use in the Ketogenic Diet (KD) With Regard to Product Tolerance, Compliance and Acceptability
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Ketogenic Dieting; Epilepsy; Glucose Transporter Type 1 Deficiency Syndrome
+Interventions: Krio (DIETARY_SUPPLEMENT)
+Summary: Acceptability study to evaluate the gastrointestinal tolerance, palatability and participant compliance, over a 7-day period, of Krio for the dietary management of participants with intractable epilepsy or Glut-1 deficiency syndrome patients on a ketogenic diet.
+Eligibility: Inclusion Criteria:
+
+i) Confirmed diagnosis of a condition requiring a KD, e.g. intractable epilepsy, Glut-1 DS.
+
+ii) Aged three (3) years and over.
+
+iii) Currently established on a KD for at least three (3) months, taken orally.
+
+iv) Participant (or parent/guardian) considered by PI and dietitian to be fully proficient at managing the KD, and able to do this competently and accurately.
+
+v) Participant (or parent/guardian) considered by PI and dietitian to be able to follow the protocol requirements and complete the diary and questionnaire.
+
+vi) Freely given, written, informed consent from patient or parent/guardian.
+
+vii) Freely given, written assent (if appropriate).
+
+Exclusion Criteria:
+
+i) Inability to comply with the study protocol, in the opinion of the investigator.
+
+ii) Inability to comply with the ketogenic diet.
+
+iii) Women who are pregnant / breastfeeding at the start of the study or planning to become pregnant during the study period.
+
+N.B.: Women who become pregnant unexpectedly during this study may, in consultation with their doctor, continue on the study's dietary product if they wish but will not have any investigations that would not normally be carried out during pregnancy.

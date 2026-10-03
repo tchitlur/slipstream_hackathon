@@ -1,0 +1,23 @@
+Title: A 12-Week, Phase 2 Study of Gemcabene in Hypercholesterolemia Patients on Stable Moderate and High-Intensity Statins
+Official title: A 12-Week, Phase 2 Randomized, Placebo-Controlled, Double-Blind Study to Assess the Efficacy, Safety and Tolerability of Gemcabene in Subjects With Hypercholesterolemia Not Adequately Controlled on High-Intensity or Moderate-Intensity Stable Statin Therapy
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Hypercholesteremia
+Interventions: Gemcabene (DRUG); Placebo (DRUG)
+Summary: The purpose of this study was to assess the efficacy, safety, and tolerability of multiple doses of gemcabene 600 mg QD compared to placebo in patients with hypercholesterolemia not adequately controlled on high-intensity or moderate-intensity stable statin therapy. Patients with HeFH, ASCVD, or otherwise uncontrolled, may be included with baseline LDL-C value ≥ 100 mg/dL. Subjects were randomized 1:1 to gemcabene 600 mg once daily (QD) or placebo.
+Eligibility: 1. Provision of written and signed informed consent (by subject or legal guardian) prior to any study-specific procedures;
+2. Male or female (neither pregnant or lactating) ≥ 18 years of age at the time of consent;
+3. Currently on a stable, low-fat, low-cholesterol diet in combination with allowed statin doses as described in Table 1, with or without ezetimibe 10 mg QD for at least 12 weeks prior to the Screening Visit;
+4. Fasting LDL-C value ≥ 100 mg/dL (2.59 mmol/L) at the Screening Visit;
+5. Physical examination, including vital signs, that is within normal limits or clinically acceptable to the Investigator;
+6. Weight ≥ 50 kg; with a body mass index (BMI) ≤ 45 kg/m2
+7. Subjects with Type 2 diabetes who take anti-hyperglycemic agents must be on a stable regimen for at least 3 months, with no planned changes in medications for the study duration.
+
+Exclusion Criteria
+
+1. Abnormal liver function test at the Pre-Screening or Screening Visit (AST or ALT) \> 2x ULN (upper limit of normal), total bilirubin \> 1.5x ULN, or alkaline phosphate \> 2x ULN based on appropriate age and gender normal values. Subjects with bilirubin \> 1.5x ULN and a history of Gilbert's syndrome may be included; reflexive direct bilirubin testing will be used to confirm Gilbert's syndrome;
+2. Moderate (Grade B) or severe (Grade C) chronic hepatic impairment according to the Child-Pugh classification;
+3. Active liver disease (e.g. cirrhosis, alcoholic liver disease, hepatitis B, hepatitis C, autoimmune hepatitis, liver failure, liver cancer), history of liver transplant, known diagnosis of HIV or AIDS;
+4. Triglyceride value ≥ 500 mg/dL at the Pre-Screening Visit or the Screening Visit;
+5. Moderate to severe renal insufficiency define as an estimated GFR \< 60mL/min/1.73m (calculated using the Chronic Kidney Disease Epidemiology Collaboration equation) at the Pre-Screening Visit or Screening Visit;
+6. Abnormal urinalysis (proteinuria greater than trace or any male or non-menstruating female with greater than trace hematuria) confirmed by reflexive urine protein:creatinine ration testing;
+7. Uncontrolled thyroid disease; hyperthyroidism or hypothyroidism as defined by thyroid stimulating hormo

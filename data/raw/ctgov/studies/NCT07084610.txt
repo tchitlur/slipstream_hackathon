@@ -1,0 +1,27 @@
+Title: Metabolic Biomarkers Predicting Response to Neoadjuvant Immunotherapy in Non-Small Cell Lung Cancer
+Official title: Metabolic Signatures Predictive of Response to Neoadjuvant Immunotherapy in Non-Small Cell Lung Cancer
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Non-Small Cell Lung Cancer
+Interventions: Nivolumab 3 mg/kg + platinum-based chemotherapy (2 cycles, neoadjuvant) (DRUG)
+Summary: This study investigates metabolic glycolytic biomarkers obtained from radiological imaging (18F-FDG PET/CT), immunohistochemistry (IHC), and molecular analyses, and their association with response to neoadjuvant immunotherapy in early-stage non-small cell lung cancer (NSCLC).
+
+Objective: To evaluate the relationship between glycolytic biomarkers measured by PET/CT (metabolic tumor volume and SUVmax), IHC markers (GLUT-1, Ki-67, PD-L1), and molecular oncogenic alterations, with the pathological response after two cycles of neoadjuvant nivolumab (3 mg/kg) combined with platinum-based chemotherapy in patients with early-stage NSCLC \[stage IB (tumor ≥4 cm) to IIIA\], negative for EGFR and ALK mutations.
+
+Methods: This is a prospective, single-arm clinical study at a single institution, enrolling 30 patients. Baseline metabolic tumor volume (MTV) and SUVmax will be measured by PET/CT, while IHC markers and molecular profiling will be performed on pre-treatment biopsy samples. Patients will receive neoadjuvant treatment with nivolumab (3 mg/kg, IV) combined with platinum-based chemotherapy (cisplatin 75 mg/m² or carboplatin AUC 5, plus pemetrexed 500 mg/m² for non-squamous or paclitaxel
+Eligibility: Inclusion Criteria:
+
+* Histologically confirmed non-small cell lung cancer (NSCLC), clinical stage IB to IIIA (according to AJCC 8th edition)
+* Tumor deemed resectable by the multidisciplinary thoracic oncology team
+* Eastern Cooperative Oncology Group (ECOG) performance status 0-1
+* Adequate organ and bone marrow function
+* Ability to understand and willingness to sign a written informed consent
+
+Exclusion Criteria:
+
+* Prior systemic therapy, radiotherapy, or immunotherapy for lung cancer
+* Known EGFR mutations or ALK rearrangements
+* Active autoimmune disease requiring systemic therapy within the past 2 years
+* Uncontrolled comorbidities or active infections
+* Pregnant or breastfeeding women
+* Contraindications to surgery or anesthesia
+* Known history of other malignancies within the last 3 years, except for adequately treated basal or squamous cell skin cancer, or carcinoma in situ of the cervix

@@ -1,0 +1,33 @@
+Title: GCB-002 in Treatment of Patients With Rett Syndrome
+Official title: An Open Label, Single Arm, Dose Escalation Clinical Study Evaluating the Safety, Tolerability, and Initial Efficacy of GCB-002 in the Treatment of Female Subjects With MECP2 Gene Mutation in Patients With Rett Syndrome
+Status: ENROLLING_BY_INVITATION. Type: INTERVENTIONAL. Phases: NA.
+Conditions: RETT Syndrome With Proven MECP2 Mutation
+Interventions: GCB-002 (GENETIC)
+Summary: Study Brief Summary overall design This study explored dose escalation of single-arm, open, single intrathecal injection in female RTT subjects with MECP2 gene mutations. The investigator plans to conduct 2-3 dose groups. It is expected that each dose group will enroll 3 subjects, with a total of 6-9 female RTT subjects aged 2-10 years old due to MECP2 gene mutations.
+
+dose escalation
+
+1. For safety reasons, each subject in the first dose group needs to complete a 30-day safety observation. After the researcher determines that it is safe and tolerable, the next subject can be enrolled in the group;
+2. The follow-up dose group adopts a sentinel test design, with the first case of each dose group being a sentinel. The first subject needs to complete a 30-day safety observation, and after the researcher determines that it is safe and tolerable, the remaining subjects can be enrolled in the group;
+3. If none of the three subjects in a certain dose group developed DLT, the study will proceed to the next higher dose group;
+4. If there are no safety issues and no adverse events of dose escalation termination in dose group 2 (see dose termination escalation rules), the researcher and fundi
+Eligibility: Inclusion Criteria:
+
+1. Age range from 2 to 10 years old, female;
+2. The clinical diagnosis of the subject is RTT, and after genetic testing, it was found to be a pathogenic variant of the MECP2 gene;
+3. The legal guardian is able to understand the requirements and procedures of the research plan, voluntarily participate, and sign an informed consent form.
+
+Exclusion Criteria:
+
+1. Has participated in or is currently participating in other RTT drug clinical trials or other AAV gene therapy clinical studies;
+2. The subject has a history of head injuries that can cause neurological disorders such as epilepsy, physical disabilities, etc;
+3. The subject has MECP2 gene mutation but does not cause RTT;
+4. Subjects with allergic constitution, including those allergic or hypersensitive to prednisolone, other glucocorticoids, their excipients, and local anesthetics;
+5. The subjects had status epilepticus in the 3 months prior to enrollment;
+6. Subjects require invasive or non-invasive ventilation support;
+7. Serum anti AAV9 neutralizing antibody titer\>1:200;
+8. During the screening visit, subjects with the following abnormal findings: ALT, AST, and γ-glutamyl transferase (GGT) levels all ≥1.0×ULN, TBIL ≥1.0×ULN; serum creatinine (Scr) \>1.0×ULN; activated partial thromboplastin time (APTT) prolonged \>1.5×ULN / INR \>1.5; platelet count (PLT) \<100×10\^9/L or investigator judgment that PLT results are abnormal and clinically significant;
+9. Contraindications for lumbar puncture or intrathecal therapy exist;
+10. Positive for human immunodeficiency virus antibody, or hepatitis B surface antigen, or hepatitis C antibody, or Treponema pallidum antibody, or current TORCH viral infection, or current Epstein-Barr virus infection;
+11. Combination use of any of the following drugs within 90 days prior to administration, and planned immunotherapy therapy (cyclosporine, tacrolimus, methotrexate, cyclophosphamide, intravenous immunoglobulin, rituximab) other than prophylactic medication as specified in the protocol within 3 months after the start of the trial;
+12. The researchers believe that it is not suitable to participate in this study.

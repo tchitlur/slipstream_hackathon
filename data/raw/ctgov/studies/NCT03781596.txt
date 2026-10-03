@@ -1,0 +1,19 @@
+Title: EoE RCT Fluticasone and Omeprazole vs Fluticasone Alone
+Official title: Randomized Controlled Trial Comparing Fluticasone Plus Omeprazole With Fluticasone Alone for Eosinophilic Esophagitis
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Eosinophilic Esophagitis
+Interventions: Retrospective evaluation of endoscopy prior to study drug (DIAGNOSTIC_TEST); Symptom Survey (OTHER); Medication Compliance Phone Call (OTHER); Endoscopy while on study drug (DIAGNOSTIC_TEST); Symptom Survey (OTHER); Fluticasone (DRUG); Omeprazole (DRUG); Placebo oral capsule (DRUG)
+Summary: The purpose of this study is to evaluate the efficacy of combination therapy with omeprazole and swallowed fluticasone vs fluticasone therapy and placebo in the treatment of Eosinophilic Esophagitis (EoE) in children and adults. This study will be a double-blinded, randomized controlled trial. The primary outcome measured will be histologic assessment of esophageal tissue biopsies measuring number of eosinophils per high power field (eos/hpf). Secondary outcomes will be endoscopic findings and symptomatic changes following therapy using validated endoscopic scoring measures and participant surveys, respectively.
+Eligibility: Inclusion Criteria:
+
+* age 6 to 60 years old
+* DEERS (defense enrollment eligibility reporting system) eligible
+* diagnosis of eosinophilic esophagitis
+
+Exclusion Criteria:
+
+* Outside of age range
+* Co-existing inflammatory gastroenterologic condition such as celiac disease, eosinophilic esophagitis, or inflammatory bowel disease.
+* Concurrent use of oral steroids
+* Pregnancy
+* Refusal to undergo endoscopy

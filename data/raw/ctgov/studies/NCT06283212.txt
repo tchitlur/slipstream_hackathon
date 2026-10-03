@@ -1,0 +1,23 @@
+Title: A Clinical Study to Evaluate the Safety and Efficacy of ETX101, an AAV9-Delivered Gene Therapy in Children With SCN1A-positive Dravet Syndrome
+Official title: EXPEDITION: A Clinical Study to Evaluate the Safety and Efficacy of ETX101, an AAV9-Delivered Gene Therapy in Children With SCN1A-positive Dravet Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Dravet Syndrome
+Interventions: ETX101 (DRUG)
+Summary: EXPEDITION is a Phase 1/2 study in the UK to evaluate the safety and efficacy of ETX101 in participants with SCN1A-positive Dravet Syndrome aged 6 to \< 48 months. The study follows and open-label, dose-escalation design.
+Eligibility: Inclusion Criteria:
+
+* Participant has a predicted loss of function pathogenic or likely pathogenic SCN1A variant
+* Participant must have experienced their first seizure between the age of 3 and 15 months
+* Participant must have a clinical diagnosis of Dravet syndrome or the treating clinician must have high clinical suspicion of a diagnosis of Dravet syndrome
+* Participant is receiving at least one prophylactic antiseizure medication
+
+Exclusion Criteria:
+
+* Participant has another genetic mutation or clinical comorbidity which could potentially confound the typical Dravet phenotype
+* Participant has a known central nervous system structural and/or vascular abnormality (indicated by an MRI or CT scan of the brain).
+* Participant has an abnormality that may interfere with CSF distribution and/or has an existing ventriculoperitoneal shunt.
+* Participant is currently taking or has taken antiseizure medications (ASMs) at a therapeutic dose that are contraindicated in Dravet syndrome, including sodium channel blockers.
+* Participant has experienced seizure freedom for a period of 4 consecutive weeks within the 90-day period prior to informed consent.
+* Participant has previously received gene or cell therapy.
+* Participant is currently enrolled in a clinical trial or receiving an investigational therapy.
+* Participant has clinically significant underlying liver disease.

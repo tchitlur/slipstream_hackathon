@@ -1,0 +1,31 @@
+Title: Study on Tolerability of Levodopa/Carbidopa in Children With Angelman Syndrome
+Official title: A Dose-escalation Tolerability Study of Levodopa/Carbidopa in Angelman Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Angelman Syndrome
+Interventions: Levodopa/Carbidopa (4:1) (DRUG)
+Summary: This study is designed to determine the highest dose of levodopa/carbidopa that can be tolerated without any serious side effects by children with Angelman syndrome.
+
+It has been hypothesized that levodopa may lead to an improvement in the neurodevelopment and abnormal movements (e.g. tremors) in children with Angelman syndrome.
+
+Data from this study will be used to design a phase II trial to determine the efficacy of levodopa in treating children with Angelman syndrome.
+Eligibility: Inclusion Criteria:
+
+* Angelman syndrome, confirmed by molecular testing
+* Must be willing to come for research visit on 2 days, exactly 1 week apart
+
+Exclusion Criteria:
+
+* On levodopa, carbidopa, or any dopamine agonists in the 2 weeks prior to participation
+* Other medical conditions that may be associated with developmental or cognitive delays
+* More than 2 clinical seizures per month
+* Used monoamine oxidase (MAO) inhibitors within the last 2 weeks
+* Used phenytoin within the last 2 weeks
+* Used phenothiazines, butyrophenones, and thioxanthenes within last 2 weeks
+* Hypersensitive to levodopa or carbidopa
+* Cardiovascular disease or instability
+* Respiratory diseases, including asthma, emphysema, chronic cough, and shortness of breath
+* Liver disease
+* Stomach or intestinal ulcers
+* Kidney disease
+* Hematological problems, including anemia, leucopenia, and thrombocytopenia
+* Used investigational drugs/interventions within the past three months

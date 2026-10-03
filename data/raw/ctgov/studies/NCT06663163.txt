@@ -1,0 +1,15 @@
+Title: The Association Between Fever and CDKL5 Deficiency Disorder: a Nationwide Survey
+Official title: The Association Between Fever and CDKL5 Deficiency Disorder: a Nationwide Survey
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: CDKL5 Deficiency Disorder
+Interventions: Observation (OTHER)
+Summary: The primary objective of this research is to study the effects of fever on seizure activity in patients with CDKL5 deficiency disorder
+Eligibility: Inclusion Criteria:
+
+* A diagnosis of CDKL5 deficiency, including molecular confirmation of a pathogenic or likely pathogenic CDKL5 variant and refractory seizures.
+* Parents or guardians are willing to complete and provide information about the child's medical history and fever history after receiving the survey questionnaire online.
+
+Exclusion Criteria:
+
+* Any history of previous brain disease (trauma, etc.) that likely to precipitate seizures.
+* Presence of any clinical condition that in the opinion of the principal investigator makes the patient not suitable to participate in the trial.

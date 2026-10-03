@@ -1,0 +1,16 @@
+Title: Effects of Statin on Hepatocellular Carcinoma Recurrence After Liver Transplantation
+Official title: Effects of Statin on Hepatocellular Carcinoma Recurrence After Liver Transplantation
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Hepatocellular Carcinoma
+Interventions: Statin (DRUG)
+Summary: This study aims to investigate whether statin therapy can help prevent recurrence of hepatocellular carcinoma (HCC) in transplant recipients who had liver transplantation for HCC. Multiple logistic regression analysis will be performed to evaluate the association between statin therapy and the risk of HCC recurrence after LT.
+Eligibility: Inclusion Criteria:
+
+* Patients who received LT at the Severance Hospital from 2006 to 2016.
+
+Exclusion Criteria:
+
+* early postoperative mortality (defined as death within 2 months after LT without signs of tumor recurrence)
+* patient with distant lymph node metastasis confirmed within 1 month after LT
+* Patients younger than 20 years of age
+* patients who had LT for cirrhosis without confirmed HCC

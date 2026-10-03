@@ -1,0 +1,31 @@
+Title: A Safety Study of NNZ-2566 in Patients With Rett Syndrome
+Official title: A Phase II Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Dose-Escalation Study of NNZ-2566 in Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Rett Syndrome
+Interventions: NNZ-2566 (DRUG); Placebo (DRUG)
+Summary: The purpose of this study is to determine whether NNZ-2566 is safe and well tolerated in the treatment of Rett Syndrome in adolescent and adult females.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of Rett Syndrome with proven mutation of the MeCP2 gene
+* Age 16 to 45 years
+* Severity rating of between 10 and 36 (Rett Syndrome Natural History/Clinical Severity Scale)
+* Concomitant medications must be stable for \>4 weeks prior to enrollment. The following concomitant medications are permitted: anticonvulsants which do not have liver inducing effects; beta-blockers; medications for the treatment of gastroesophageal reflux disease (GERD); medications for the treatment of chronic respiratory conditions such as asthma; medications for the treatment of anxiety, of depression and of psychosis, hormonal contraceptives. Melatonin for difficulties with sleep onset.
+* Ability to swallow study medication provided as a liquid solution, or via gastrostomy tube
+
+Exclusion Criteria:
+
+* No detectable abnormality of the EEG during screening period
+* Actively undergoing regression
+* QTcF exclusions (any of the following): baseline/screening QT/QTcF interval of 450 msec; history of risk factors for torsade de pointes (e.g. heart failure, hypokalemia (serum potassium at screening \< 3.0 mmol/L) or family history of long QT syndrome; QT/QTcF prolongation previously or currently controlled with medication
+* Current treatment with insulin
+* Hgb A1C values outside the normal reference range at screening
+* Current or past treatment with IGF-1
+* Current or past treatment with growth hormone
+* Current treatment with N-methyl-D-aspartate (NMDA) antagonists
+* Current or planned use of non-medication based interventional therapy during the period of the study (defined as 4-6 week screening period followed by 4 week dosing and 2 week follow-up period)
+* Current clinically significant cardiovascular, renal, hepatic or respiratory disease
+* Gastrointestinal disease which may interfere with the absorption, distribution, metabolism or excretion of the the study medication
+* History of, or current cerebrovascular disease or brain trauma
+* History of, or current significant endocrine disorder e.g. hypo or hyperthyroidism or diabetes mellitus
+* History of, or current malignancy
+* Clinically significant abnormalities in safety laboratory tests, vital signs or EC

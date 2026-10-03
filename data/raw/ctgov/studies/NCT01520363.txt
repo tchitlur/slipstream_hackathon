@@ -1,0 +1,25 @@
+Title: Placebo Controlled Trial of Dextromethorphan in Rett Syndrome
+Official title: Placebo Controlled Trial of Dextromethorphan in Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Rett Syndrome
+Interventions: dextromethorphan (DRUG); placebo (DRUG)
+Summary: Dr. Sakkubai Naidu, Principal Investigator, is initiating a double blinded placebo controlled clinical drug trial using dextromethorphan (DM) in Rett Syndrome (RTT), at the Pediatric Clinical Research Unit (PCRU) of the Johns Hopkins Hospital/Kennedy Krieger Institute. Funding source , FDA-00PD
+
+It has been shown that receptors for a certain brain chemical called glutamate, in particular the NMDA type, are increased in the brain of young RTT patients (\<10 years of age). This chemical and its receptors, when in excess, cause harmful over-stimulation of nerve cells in the brain, contributing in part to the seizures, behavioral problems, and learning disabilities in RTT.
+
+The investigators propose to initiate a specific treatment using DM to counter/block the effects of this brain chemical and its excessive receptors to improve the ill effects of increased glutamate/NMDA receptors, because of DM's identified ability to block NMDA receptors. DM is available for human consumption. Infants and children with respiratory infections and cough, as well as non-ketotic hyperglycinemia, are treated with DM, which has been well tolerated.
+Eligibility: Inclusion Criteria:
+
+* males and females who have classic or atypical RTT with a proven mutation in the MECP2 gene;
+* subjects must be between one year - 10 years of age.
+
+Exclusion Criteria:
+
+* those without an established mutation in the MECP2 gene;
+* those with mutations in the MECP2 gene but who have had brain resection or surgical intervention; for example, tumor, hydrocephalus, severe head trauma; or, an associated severe medical illnesses such as vasculopathies, malignancies, diabetes, thyroid dysfunction, etc;
+* those on medications that could interact with DM, e.g. MAO inhibitors, SSRI, sibutramine etc. to avoid a serotonin syndrome; quinidine and drugs metabolized by the CYP450 isoform CYP2D6 (e.g. amiodarone, haloperidol, propafenone, thioridazine);
+* those proven to be intermediate or slow metabolizers of DM;
+* those with reported adverse reactions to DM;
+* those whose pregnancy test is positive;
+* those showing poor compliance with any aspect of the study;
+* foster children.

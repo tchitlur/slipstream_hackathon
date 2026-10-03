@@ -1,0 +1,294 @@
+{
+ "focalId": "cond:G2P00063",
+ "neighborId": "cond:G2P00319",
+ "generatedAt": "2026-10-03T20:43:46.173Z",
+ "mode": "llm",
+ "model": "gpt-5.4",
+ "sections": [
+  {
+   "heading": "Who we are",
+   "sentences": [
+    {
+     "text": "[Name of our group, who we represent, and how many families we are in touch with.]",
+     "evidenceIds": []
+    }
+   ]
+  },
+  {
+   "heading": "Why we are writing to you",
+   "sentences": [
+    {
+     "text": "We represent families affected by IQSEC2-related intellectual developmental disorder.",
+     "evidenceIds": [
+      "ev:g2p:G2P00063",
+      "ev:hpoa:OMIM:309530"
+     ]
+    },
+    {
+     "text": "We are writing because IQSEC2-related intellectual developmental disorder and SLC6A1-related epilepsy with myoclonic-atonic seizures are placed on the same mechanism road: too little protein from loss of function.",
+     "evidenceIds": [
+      "ev:g2p:G2P00063",
+      "ev:hpoa:OMIM:309530",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "The phenotype similarity score between the two conditions is marked high.",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P00063",
+      "ev:hpoa:OMIM:309530",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we share",
+   "sentences": [
+    {
+     "text": "Both gene-disease links are marked definitive in Gene2Phenotype.",
+     "evidenceIds": [
+      "ev:g2p:G2P00063",
+      "ev:g2p:G2P00319"
+     ]
+    },
+    {
+     "text": "For both conditions, the curated mechanism is loss of function, and this is marked as inferred.",
+     "evidenceIds": [
+      "ev:g2p:G2P00063",
+      "ev:g2p:G2P00319"
+     ]
+    },
+    {
+     "text": "The shared informative features listed are atonic seizure, motor seizure, autistic behavior, diagnostic behavioral phenotype, and disinhibition.",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P00063",
+      "ev:hpoa:OMIM:309530",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "Registry design and natural history protocol are marked transferable between the two communities.",
+     "evidenceIds": [
+      "ev:rule:R1",
+      "ev:rule:simgic",
+      "ev:g2p:G2P00063",
+      "ev:hpoa:OMIM:309530",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421",
+      "ev:ctgov:NCT07531511:role",
+      "ev:ctgov:NCT01238250:role"
+     ]
+    },
+    {
+     "text": "Outcome measures and endpoints are also marked transferable, but age of onset and severity still need review before any instrument is adopted.",
+     "evidenceIds": [
+      "ev:rule:R2",
+      "ev:rule:simgic",
+      "ev:g2p:G2P00063",
+      "ev:hpoa:OMIM:309530",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421",
+      "ev:ctgov:NCT07531511:role",
+      "ev:ctgov:NCT01238250:role"
+     ]
+    },
+    {
+     "text": "Clinical networks, sites, and investigators are marked transferable as a starting point.",
+     "evidenceIds": [
+      "ev:rule:R3",
+      "ev:rule:simgic",
+      "ev:g2p:G2P00063",
+      "ev:hpoa:OMIM:309530",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421",
+      "ev:seed:org:slc6a1-connect",
+      "ev:ctgov:NCT07173153:role",
+      "ev:ctgov:NCT04937062:role",
+      "ev:ctgov:NCT07847918:role",
+      "ev:ctgov:NCT07531511:role"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we would like to learn from or reuse",
+   "sentences": [
+    {
+     "text": "We would like to learn from your registry or natural history experience, including the SLC6A1-NDD Prospective Longitudinal Natural History Study and Simons Searchlight.",
+     "evidenceIds": [
+      "ev:rule:R1",
+      "ev:ctgov:NCT07531511:role",
+      "ev:ctgov:NCT01238250:role"
+     ]
+    },
+    {
+     "text": "We would like to understand which outcome measures and endpoints have been practical for your families and investigators.",
+     "evidenceIds": [
+      "ev:rule:R2",
+      "ev:ctgov:NCT07531511:role",
+      "ev:ctgov:NCT01238250:role"
+     ]
+    },
+    {
+     "text": "We would like to learn which clinical sites and investigators are active in your community.",
+     "evidenceIds": [
+      "ev:rule:R3",
+      "ev:seed:org:slc6a1-connect",
+      "ev:ctgov:NCT07173153:role",
+      "ev:ctgov:NCT04937062:role",
+      "ev:ctgov:NCT07847918:role",
+      "ev:ctgov:NCT07531511:role"
+     ]
+    },
+    {
+     "text": "We would also like to study your trial designs as possible templates, because targeted SLC6A1 studies are listed while no targeted IQSEC2 trial was found in the sources searched.",
+     "evidenceIds": [
+      "ev:rule:R6",
+      "ev:ctgov:NCT07173153:role",
+      "ev:ctgov:NCT04937062:role",
+      "ev:ctgov:NCT07847918:role"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we know differs",
+   "sentences": [
+    {
+     "text": "We must not assume the two conditions share the same biology at the level of an individual family's variant.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6"
+     ]
+    },
+    {
+     "text": "The mechanism is recorded per gene and disease, not per family, so our own IQSEC2 variant must be confirmed by a clinical geneticist as loss of function, gain of function, or dominant negative before acting on transfer ideas.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P00063",
+      "ev:hpoa:OMIM:309530"
+     ]
+    },
+    {
+     "text": "The curated mechanisms for both IQSEC2 and SLC6A1 are inferred from variant types, not from functional evidence.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P00063",
+      "ev:g2p:G2P00319"
+     ]
+    },
+    {
+     "text": "We also must not assume the overlap is deep, because 100% of the shared phenotype weight comes from common low-information terms.",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P00063",
+      "ev:hpoa:OMIM:309530",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "Disease models for SLC6A1 cannot stand in for IQSEC2 models, even if some assay design ideas may be reusable after expert review.",
+     "evidenceIds": [
+      "ev:rule:R5",
+      "ev:pubmed:models:SLC6A1"
+     ]
+    },
+    {
+     "text": "Slipstream does not assert enrolment eligibility for an IQSEC2 family in SLC6A1 trials, so any question about eligibility must go directly to the study team.",
+     "evidenceIds": [
+      "ev:rule:R7",
+      "ev:ctgov:NCT07173153:role",
+      "ev:ctgov:NCT04937062:role",
+      "ev:ctgov:NCT07847918:role"
+     ]
+    },
+    {
+     "text": "The listing for SLC6A1 Connect is marked unverified, so we should not assume it is the right contact or that it runs a registry.",
+     "evidenceIds": [
+      "ev:seed:org:slc6a1-connect",
+      "ev:rule:R3"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Questions for expert review",
+   "sentences": [
+    {
+     "text": "Does the overlap between IQSEC2 and SLC6A1 go beyond common features such as seizures and developmental delay, in your clinical experience?",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P00063",
+      "ev:hpoa:OMIM:309530",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "Is SLC6A1 Connect the right contact, and does it run a registry?",
+     "evidenceIds": [
+      "ev:seed:org:slc6a1-connect"
+     ]
+    },
+    {
+     "text": "Has our child's specific IQSEC2 variant been functionally classified as loss of function, gain of function, or dominant negative, and does it match the mechanism recorded for the condition?",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P00063",
+      "ev:hpoa:OMIM:309530"
+     ]
+    },
+    {
+     "text": "What functional evidence exists for IQSEC2, given that the curated mechanism is inferred from variant types rather than functional studies?",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P00063"
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "loss of function",
+   "meaning": "A gene change that reduces how much working protein is made or how well it works."
+  },
+  {
+   "term": "mechanism",
+   "meaning": "The main disease-causing pattern recorded for a gene and condition."
+  },
+  {
+   "term": "natural history study",
+   "meaning": "A study that follows people over time to learn how a condition changes."
+  },
+  {
+   "term": "outcome measure",
+   "meaning": "A way to track symptoms, function, or change in a study."
+  },
+  {
+   "term": "phenotype",
+   "meaning": "The features and symptoms seen in a condition."
+  },
+  {
+   "term": "variant",
+   "meaning": "A change in a gene sequence."
+  }
+ ],
+ "droppedSentences": 2
+}

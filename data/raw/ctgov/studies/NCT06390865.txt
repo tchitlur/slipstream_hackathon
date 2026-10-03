@@ -1,0 +1,27 @@
+Title: Testing MLN0128 (TAK-228) as Potentially Targeted Treatment in Cancers With TSC1 or TSC2 Genetic Changes (MATCH - Subprotocol M)
+Official title: MATCH Treatment Subprotocol M: Phase II Study of MLN0128 (Tak-228) in Patients With Tumors With TSC1 or TSC2 Mutations
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Advanced Lymphoma; Advanced Malignant Solid Neoplasm; Refractory Lymphoma; Refractory Malignant Solid Neoplasm; Refractory Multiple Myeloma
+Interventions: Biopsy Procedure (PROCEDURE); Biospecimen Collection (PROCEDURE); Computed Tomography (PROCEDURE); Magnetic Resonance Imaging (PROCEDURE); Sapanisertib (DRUG)
+Summary: This phase II MATCH treatment trial tests how well MLN0128 (TAK-228) works in treating patients with cancer that has certain genetic changes called TSC1 or TSC2 mutations. MLN0128 (TAK-228) may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth.
+Eligibility: Inclusion Criteria:
+
+* Patients must have met applicable eligibility criteria in the Master MATCH Protocol EAY131/ NCI-2015-00054 prior to registration to treatment subprotocol
+* Patients must fulfill all eligibility criteria of MATCH Master Protocol at the time of registration to treatment step (Step 1, 3, 5, 7)
+* Patients must have a TSC1 or TSC2 mutation as determined via the MATCH Master Protocol
+* Patients must have an electrocardiogram (ECG) within 8 weeks prior to treatment assignment and must NOT have any of the following cardiac criteria:
+
+  * Clinically important abnormalities in rhythm, conduction or morphology of resting ECG (e.g. complete left bundle branch block, third degree heart block, corrected QT interval (QTc) interval \> 480 milliseconds)
+  * Uncontrolled hypertension (i.e. systolic blood pressure \> 180 mm Hg, diastolic blood pressure \> 95 mm Hg) are not eligible. Use of anti-hypertensive agents to control hypertension before cycle 1 day 1 is allowed
+  * Known pulmonary hypertension
+* Patients must not have known hypersensitivity to MLN0128 (TAK-228) or compounds of similar chemical or biologic composition
+* Patients must not have known hepatitis B surface antigen-positive, or known or suspected active hepatitis C infection, but may have had previously treated and successfully eradicated hepatitis C virus (HCV)
+* Patients must have none of the following within six months of receiving the first dose of MLN0128 (TAK-228): ischemic, myocardial or cerebrovascular event, class III or IV heart failure, placement of pacemaker, or pulmonary embolism
+* Patients must have no manifestations of malabsorption due to prior gastrointestinal (GI) surgery, GI disease, or for an unknown reason that may alter the absorption of MLN0128 (TAK-228)
+* Patients who have a history of brain metastasis are eligible for the study provided that all the following criteria are met:
+
+  * Brain metastases which have been treated
+  * No evidence of disease progression for \>= 1 months before the first dose of study drug
+  * No hemorrhage after treatment
+  * Off-treatment with dexamethasone for 4 weeks before administration of the first dose of MLN0128 (TAK-228)
+  * No ongoi

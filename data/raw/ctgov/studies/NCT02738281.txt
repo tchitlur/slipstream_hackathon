@@ -1,0 +1,13 @@
+Title: Natural History of Rett Syndrome & Related Disorders
+Official title: Rett Syndrome, MECP2 Duplication Disorder, and Rett- Related Disorders Natural History Protocol
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome; MECP2 Duplication dIsorder; CDKL5 Disorder; FOXG1 Syndrome
+Interventions: none
+Summary: The purpose of this study is to advance understanding of the natural history of Rett syndrome (RTT), MECP2-duplication disorder (MECP2 Dup), CDKL5, FOXG1, and individuals with MECP2 mutations who do not have RTT including the range of clinical involvement and to correlate genotype-phenotype over a broad spectrum of phenotypes. While much has been learned about RTT, improvements are required in understanding the role of factors such as X chromosome inactivation, genetic background, and others including the environment, on the great variability observed even between individuals with the same MECP2 mutation. These data will be essential to the development and conduct of clinical trials that are anticipated from ongoing studies in animal models for RTT. This study will not include clinical trials, but should set the stage for such trials and other translational research projects (e.g., development of biomarkers).
+Eligibility: Inclusion Criteria:
+
+* Individuals of both genders and of all ages, with RTT, MECP2 Dup, and, RTT-related disorders including those with mutations or deletions in CDKL5 and FOXG1 genes, or those with RTT (atypical or typical) who are mutation negative.
+
+Exclusion Criteria:
+
+* Individuals who do not meet the above criteria will be excluded.

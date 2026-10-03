@@ -1,0 +1,23 @@
+Title: Memantine for the Treatment of Cognitive Impairment in Systemic Lupus Erythematosus
+Official title: A Randomized Placebo-controlled, Double Blind Phase 2 Clinical Trial of Memantine for the Treatment of Cognitive Impairment in Systemic Lupus Erythematosus
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Lupus Erythematosus, Systemic
+Interventions: Memantine (DRUG); Placebo (DRUG)
+Summary: A phenome-wide association study (PheWAS) identified an association between a variant in the human gene for the N2A subunit of the N-methyl-D-aspartate (NMDA) receptor, GRIN2A, and Systemic Lupus Erythematosus (SLE). A single nucleotide polymorphism (SNP) in this gene encodes for increased NMDA receptor activity. Based on the potential function of the associated SNP and published literature, alterations in SNP function signaling may underlie a cluster of symptoms. The objective of this study is to evaluate the safety, tolerability and efficacy of memantine, an NMDA receptor antagonist, in a precise patient subset with SLE. Participants will complete a full 14-week clinical trial, receiving either memantine or a placebo. Participants' blood will be drawn to test for various antibodies as well as organ function. Patients' urine will also be collected to assess organ function and pregnancy for females at a number of specific time points. The overall goal is to develop a safe and inexpensive therapeutic approach to reduce debilitating cognitive symptoms in a precisely selected SLE sub-population.
+Eligibility: Inclusion Criteria:
+
+1. Meet American College of Rheumatology (ACR) criteria for SLE
+2. Report NPSLE symptoms on the screening survey recommended by EULAR guideline but limited to the psychiatric manifestations questions
+3. Score ≤ 85 on the RBANS total index (≤ 1 SD below the normative mean of 100)
+
+Exclusion Criteria:
+
+1. Male and female subjects \<18 or \>60 years
+2. Change in medication that may affect mood or cognition including prednisone, antidepressant medications, or stimulants within the last 4 weeks
+3. Regular (daily) use of opioids or other drugs of abuse including heavy alcohol or marijuana use
+4. Metabolic derangement defined as liver function tests \>3x upper limit of normal or severe renal disease defined as calculated creatinine clearance \<30 mL
+5. Severe psychiatric disease including schizophrenia, psychosis, suicidal depression
+6. Other factors which in the opinion of the investigator could potentially impact the study outcomes (e.g., underlying disease, medications, history)\* or prevent the participant from completing the protocol (poor compliance or unpredictable schedule)
+7. Inability or refusal to give informed consent for any reason including a diagnosis of dementia or significant cognitive impairment\*\*
+8. Patients who are pregnant
+9. Patients who are enrolled in other investigational drug studies

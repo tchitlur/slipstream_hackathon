@@ -1,0 +1,28 @@
+Title: Pallidothalamic Tracts Electrical Stimulation for Lennox-Gastaut Syndrome
+Official title: The Efficacy and Safety of Pallidothalamic Tracts Electrical Stimulation for Lennox-Gastaut Syndrome: A Prospective, Pilot Trial
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Lennox Gastaut Syndrome
+Interventions: Forel's Field H-DBS ON (DEVICE)
+Summary: The primary objective of this research is to study the efficacy and safety of deep brain stimulation (DBS) of pallidothalamic tracts as adjunctive therapy for alleviating symptoms in Lennox-Gastaut Syndrome.
+Eligibility: Inclusion Criteria:
+
+1. Meets the diagnostic criteria for Lennox-Gastaut Syndrome (LGS) based on comprehensive assessment of medical history, seizure semiology, and electroencephalographic (EEG) findings during both ictal and interictal periods;
+2. Interictal EEG demonstrates generalized paroxysmal fast activity (GPFA) and slow spike-and-wave (SSW) complexes;
+3. Generalized tonic-clonic seizures (GTCs) have been captured in prior video-EEG monitoring, or seizure episodes have been clearly described by reliable eyewitnesses;
+4. During the screening or baseline period, the following conditions are met:
+
+   1. The patient or caregiver is capable of reliably maintaining a seizure diary;
+   2. The seizure diary indicates an average of at least 5 seizures per month;
+   3. The patient is on two or more antiepileptic drugs (AEDs), with a stable treatment regimen (no new add-on or withdrawal of AEDs, excluding temporary rescue medications such as benzodiazepines; dose adjustments are allowed);
+5. The patient has been evaluated through a comprehensive presurgical epilepsy workup and is considered unsuitable for, or has declined, resective epilepsy surgery, or has had unsatisfactory outcomes from resective or ablative procedures;
+6. Providation of written informed consent, demonstrates adequate compliance with the study protocol, and agrees to participate in this clinical study.
+
+Exclusion Criteria:
+
+1. Unable to provide a reliable seizure diary by self or legal guardian;
+2. Predominant seizure type is focal impaired awareness seizures;
+3. Psychogenic non-epileptic seizures within 12 months;
+4. Brain structual abnormalities precluding safe implantation of deep brain stimulator;
+5. Conditions associated with increased risk of intraoperative or postoperative bleeding (e.g., coagulopathy), or requirement for long-term oral anticoagulant or antiplatelet therapy;
+6. Presence of other severe somatic or internal medical conditions, including significant hepatic or renal dysfunction;
+7. Pregnant, or planning to pregnant within 2 years.

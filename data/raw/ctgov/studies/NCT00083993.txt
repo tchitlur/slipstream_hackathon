@@ -1,0 +1,19 @@
+Title: Study Evaluating CCI-779 and Letrozole in Post-menopausal Women With Breast Cancer
+Official title: A Phase 3 Randomized, Placebo-Controlled, Double-Blind Study of Oral CCI-779 Administered in Combination With Letrozole vs. Letrozole Alone as First Line Hormonal Therapy in Postmenopausal Women With Locally Advanced or Metastatic Breast Cancer
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Breast Neoplasms; Neoplasm Metastasis
+Interventions: Temsirolimus (CCI-779) for 34 months (DRUG); Letrozole for 34 months (DRUG)
+Summary: In this clinical research study, postmenopausal subjects with metastatic breast cancer will be given either the combination of temsirolimus (CCI-779) and letrozole or a placebo and letrozole in first-line hormonal treatment. The primary endpoint of this study is to determine overall progression free survival.
+
+Individual subjects will participate in the active treatment phase of the study until disease progression or withdrawal of consent, provided that test article is being tolerated. All subjects will be asked to participate in the long-term follow-up phase of the study, which includes follow-up every 3 months until disease progression (for subjects who withdraw for reasons other than documented progressive disease) or until any new cancer treatment is received, and for survival. The estimated duration of study participation is 34 months.
+Eligibility: Inclusion Criteria:
+
+* Women aged greater than 18 years.
+* Postmenopausal subjects
+* Confirmed diagnosis of locally advanced (not amenable to curative surgery and/or radiation) or metastatic breast cancer (Stage 3B or 4 respectively, by American Joint Committee on Cancer Criteria)
+
+Exclusion Criteria:
+
+* Extensive visceral disease
+* Subjects with bone as the only site of disease
+* Prior radiation therapy to the site of measurable disease for subjects with a solitary measurable lesion

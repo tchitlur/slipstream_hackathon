@@ -1,0 +1,38 @@
+Title: Steroid Profile: Differentiating Testosterone Administration From (Simultaneous) Ethanol Consumption
+Official title: Steroid Profile: Differentiating Testosterone Administration From (Simultaneous) Ethanol Consumption: Evaluation of Newly Developed Markers
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Healthy Volunteers
+Interventions: Testosterone gel (DRUG); Ethanol Solution (DRUG); Testosterone placebo (vaseline) (DRUG); Ethanol placebo (lemon-flavoured water) (DRUG)
+Summary: Background:
+
+Testosterone is an anabolic steroid widely known to improve physical performance. Its consumption is banned by the World Anti-Doping Agency (WADA). The steroid profile is one of the components of the Athlete's Biological Passport (ABP), which consists of selected biological variables that indirectly reveal the effects of doping. Alcohol consumption has been proved to alter the steroid profile and this may lead to the use of ethanol as a masking agent for testosterone administration.
+
+Hypothesis:
+
+Ratios of different testosterone biomarkers vary after ethanol administration: \[6-hydroxy-androsterone-3-glucuronide (6OH-Andros3G) / epitestosterone-glucuronide (EG)\] and \[6-hydroxy-etiocholanolone-3-glucuronide (6OH-Etio3G) / EG\] decrease, while \[testosterone-glucuronide (TG) / EG\] increases.
+
+Primary objective:
+
+To evaluate if the combination of the markers TG, EG, 6OH-Andros3G and 6OH-Etio3G, as well as ethyl glucuronide (EtG) and ethyl sulfate (EtS), can be routinely used to differentiate between changes in the steroid profile due exclusively to the consumption of alcohol and those produced when alcohol is consumed during a testosterone administration.
+
+Secondary ob
+Eligibility: Inclusion Criteria:
+
+* Healthy Caucasian men aged 18 to 40 years.
+* Clinical history and physical examination demonstrating no organic or psychiatric disorders.
+* The ECG and general blood and urine laboratory tests performed before the study should be within normal ranges. Minor or occasional changes from normal ranges are accepted if, in the investigator's opinion, considering the current state of the art, they are not clinically significant, are not life-threatening for the subjects and do not interfere with the product assessment. These changes and their non-relevance will be justified in writing specifically.
+* The body mass index (BMI=weigh/height2) will range from 19 to 27 kg/m2, and the weight from 50 to 100 kg.
+* Understanding and accepting the study procedures and signing the informed consent.
+* Agreeing to follow a diet free from ethanol in the 72 hours prior to the start of each session and until the end of the study.
+* Subjects with social or recreational alcohol consumption, at least 3 Standard Drink/week and subjects with experience in several drunkenness.
+* Volunteers with normal steroidal profile for Caucasian population (0.7 ≤T / E ≤3)
+
+Exclusion Criteria:
+
+* Not meeting the inclusion criteria.
+* Allergy, idiosyncrasy, hypersensitivity or adverse reactions to the active substance of Testogel gel®, which is synthesized from soy, or to any of the excipients or to vaseline ointment.
+* Subjects with intolerance or adverse reactions to ethanol.
+* History or clinical evidence of alcoholism, drug abuse, or regular use of psychoactive drugs.
+* History or clinical evidence of cardiovascular, respiratory, renal, hepatic, endocrine, gastrointestinal, hematological, neurological, dermatological or other acute or chronic diseases that, in the opinion of the Principal Investigator or the collaborators designated by it, may pose a risk to the subjects or interfere with the objectives of the study. Especially history of epilepsy and migraine, edema, hypertension, diabetes mellitus, hypercalcemia or polyglobulia.
+* History of psychiatric disorders.
+* History or clinical evidence of gastrointestinal, liver, renal or other disorders which may lead to suspecting a

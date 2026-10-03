@@ -1,0 +1,35 @@
+Title: Clinical Response to Magnesium Sulfate as an Adjunct in the Anesthesia
+Official title: Evaluation of the Clinical Response to Magnesium Sulfate as an Adjunct in the Anesthesia
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Anesthesia and Analgesia; Magnesium Sulfate
+Interventions: Perioperative magnesium sulfate (DRUG)
+Summary: Magnesium sulfate (MgSO4) has multiple desirable effects in an anesthetic procedure, including modulation of the hemodynamic response to surgical stress, perioperative anesthetic and analgesic effect, potentiation of neuromuscular blockade, and central nervous system depression. MgSO4 is an antagonist of the N-methyl-d-aspartic acid (NMDA) receptor, therefore it produces an analgesic effect related to the prevention of central sensitization caused by peripheral tissue damage.
+
+Objective. To evaluate the perioperative clinical response to MgSO4 as an adjunct to anesthesia.
+
+Material and method. Randomized, triple-blind clinical trial that will include men and women over 18 years of age, scheduled for surgery under general or regional anesthesia. After accepting and signing the informed consent, all patients will be subjected to the same pre, trans and postoperative protocol and will be assigned to 2 groups according to the intravenous administration of MgSO4 (placebo and MgSO4). A brief preoperative medical history will be taken, a peripheral blood sample will be taken to determine preoperative serum Mg, the clinical effect of MgSO4 on trans and postoperative analgesia (EVAD), hemod
+Eligibility: Inclusion Criteria:
+
+* Patients scheduled for elective surgery under general or regional anesthesia at Hospital General de Zona No. 51.
+* Physical state ASA 1 and 2
+* BMI 18-30 kg / m2
+* Acceptance and signing of the informed consent.
+
+Exclusion Criteria:
+
+* Treatment with calcium or magnesium channel blockers
+* Drug use or alcoholism referred by the patient in the questioning
+* Neurological diseases
+* Myopathy
+* Intracardiac block
+* Renal insufficiency
+* Liver failure
+* Pregnancy
+* Hematological disorders
+* Contraindications to the use of magnesium sulfate (hypersensitivity to the active principle or to any of the excipients, concomitant use with quinidine derivatives, tachycardia, heart failure, myocardial injury, infarction).
+
+Elimination criteria:
+
+* Survey with incomplete data corresponding to the study variables.
+* Revocation of informed consent or decision to withdraw by of the patient.
+* Loss to follow-up

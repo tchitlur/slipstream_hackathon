@@ -1,0 +1,18 @@
+Title: Cannabinoid Therapy for Pediatric Epilepsy
+Official title: Cannabinoid Therapy in Medically Refractory Pediatric Epilepsy - Phase 1: Dosing and Tolerability Study of a Cannabidiol-Rich Whole Plant Extract of Cannabis.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Epilepsy
+Interventions: TIL-TC150 (DRUG)
+Summary: This is a Phase 1 trial to determine the tolerability and optimal dose of CBD rich cannabis extract as an adjunct treatment in children with severe drug resistant epilepsy due to Dravet Syndrome. This is an open label intervention. Study duration is 20 weeks to primary analysis with continued follow-up until 64 weeks completed.
+Eligibility: Inclusion Criteria:
+
+* Drug resistant epilepsy due to Dravet syndrome
+* Must have clinically apparent seizures
+* Must be able to tolerate administration of medication orally or enterally via gastrostomy tube
+* Was never on Cannabinoid therapy or have not been treated with Cannabinoid products for at least last 60 days (confirmed by negative urine test for Tetrahydrocannabidiol (THC), only for those who had been treated with CBD).
+
+Exclusion Criteria:
+
+* Co-morbid liver or renal disease
+* Without clinically-apparent seizures
+* Currently taking any Cannabinoid products.

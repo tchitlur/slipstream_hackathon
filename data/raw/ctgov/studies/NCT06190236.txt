@@ -1,0 +1,20 @@
+Title: Integration of Neurofunctional Phenotyping Into Investigation of CBT4CBT for AUD
+Official title: Integration of Neurofunctional Phenotyping Into a Preliminary Investigation of Stand-alone Web-based Cognitive Behavioral Therapy (CBT4CBT) for Alcohol Use Disorder
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Alcohol Abuse; Alcohol Use Disorder
+Interventions: Stand-alone web-based cognitive behavioral therapy (CBT4CBT) for alcohol use disorder (BEHAVIORAL)
+Summary: Alcohol use and misuse are prevalent in the United States. Alcohol use disorder (AUD) is the most common substance use disorder. Evidence-based treatments are effective; however, most people with AUD do not receive treatment, and among those who do, responses to treatment modalities vary. Technology provides the opportunity to expand treatment and improve outcomes. Therefore, the overall goal of this project is to incorporate neurofunctional phenotyping into a preliminary investigation of the feasibility of providing mobile CBT4CBT for AUD among a non-treatment seeking population
+Eligibility: Inclusion Criteria:
+
+* at least 18 years of age
+* Male or female sex assigned at birth
+* Meet DSM-5 Alcohol Use Disorder criteria
+* report recent heavy alcohol use during the past month
+* access to a smart mobile device or computer
+* English-speaking.
+* We are not excluding any participants based on gender identity.
+
+Exclusion Criteria:
+
+* currently receiving specialized professional SUD treatment
+* presenting with language barriers, cognitive impairment, or serious medical or psychiatric illness that would preclude them from providing informed consent or participating in the ResearchMatch.

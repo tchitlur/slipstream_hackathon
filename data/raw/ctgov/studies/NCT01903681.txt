@@ -1,0 +1,51 @@
+Title: Assessment of the Pharmacokinetics of Circadin® in Children With Neurodevelopmental Disorders and Sleep Disturbances
+Official title: Open Label, Single Ascending Dose, Cross-over Study to Assess the Pharmacokinetics of Circadin® (Prolonged-Release Melatonin) Mini Tablets in Children With Neurodevelopmental Disorders and Sleep Disturbances
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Sleep Problems
+Interventions: Circadin 2 mg (DRUG); Circadin 10 mg (DRUG)
+Summary: There is increasing evidence that chronic sleep disorders in children with autism spectrum disorder (ASD), Angelman Syndrome (AS) and Smith-Magenis syndrome (SMS) are associated with disturbed melatonin secretion and melatonin administration has been shown to be effective in these populations. For children who have difficulties swallowing a tablet, Neurim has developed an age-appropriate Melatonin formulation in the form of mini-tablets which have the same dissolution profile as the Circadin® tablets product, thus should produce the same melatonin concentration-time profile with the same effects. This study concerns the pharmacokinetic study.
+
+The purpose of this study is to :
+
+* Establish the 24 hour baseline profile of endogenous saliva melatonin concentrations and urine 6-SMT excretion in children aged 2 up to and including 17 years with neurodevelopmental disorders with sleep disturbances.
+* Establish the concentration-time profile of saliva melatonin concentrations and 24 hour 6-SMT urine excretion after 2 and 10 mg Circadin® mini-tablets single dose administration in children aged 2 up to and including 17 years with neurodevelopmental disorders with sleep disturbances.
+* Eval
+Eligibility: Inclusion Criteria:
+
+* Subject must be 2 to 17 years old
+
+Subject has a documented history of autistic spectrum disorder (ASD; as confirmed according to, DSM-IV-TR 299.00, 299.10 and 299.80 or ICD 10: F 84.0, F84.2, F84.3, F84.5, F84.9 ) or one of the following neurogenetic diseases according to ICD 10: Smith-Magenis syndrome, Angelman syndrome or Tuberous Sclerosis (Bourneville's disease)
+
+Subject has current sleep problems; defined as difficulty initiating or maintaining sleep, or non restorative sleep, for at least 1 month (DSM-IV 307.42). Subject is able to comply with taking the study drug and collaborate freely with the study procedures;
+
+Written informed consent from parents having parental responsibility or from the legal guardian(s). In the case of a child is aged 12 years or older the written informed consent of the child is needed in addition to that of parents having responsibility/legal guardian;
+
+Subject is able to understand instructions in Dutch.
+
+Exclusion Criteria:
+
+Subject has history of difficulty with swallowing and/or easy choking;
+
+Subject has current symptoms suggestive of obstructive sleep apnea syndrome or any breathing related sleep disorders or periodic limb movements;
+
+Subject has known clinically significant disturbance(s) in hepatic and/or renal function;
+
+Subject has non-stable epileptic attacks within 3 months prior to screening, in case of a history of epilepsy;
+
+Subject who currently has asthmatic symptoms;
+
+Subject has untreated medical/psychological condition that may be the etiology of sleep disturbances;
+
+Subject is unable to refrain from the use of disallowed concomitant medication ordietary supplements (see paragraph 3.4) from 1 week prior to study occasions;
+
+Subject is unable to refrain from caffeine-containing products for 24 hours before each occasion;
+
+Subject has a known allergy to melatonin;
+
+Female subject who is pregnant at time of screening;
+
+Subject has unstable use of allowed medication within 2 months prior to the screening;
+
+Subject has clinically relevant periodontal disease and/or oral injuries as judged by the investigator;
+
+Subject is unable to refrain from eating bananas and chocolate during the entire 

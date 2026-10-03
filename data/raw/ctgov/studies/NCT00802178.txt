@@ -1,0 +1,13 @@
+Title: First Presentation of Parkinson Disease Patients to Neurologist
+Official title: CEE PMSS (Central Eastern European Post-Marketing Surveillance Study) First Presentation of Mirapexin in Parkinson Patients
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Parkinson Disease
+Interventions: none
+Summary: In this study information is gathered about the treatment of Parkinson patients who present themselves in a neurological practice for the first time
+Eligibility: Inclusion Criteria:
+
+\- Parkinson Disease patients presenting to neurologist for first time
+
+Exclusion Criteria:
+
+\- Hypersensitivity to the active substance or to any of the excipients

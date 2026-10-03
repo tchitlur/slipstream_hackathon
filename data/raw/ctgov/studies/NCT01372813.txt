@@ -1,0 +1,48 @@
+Title: Vandetanib to Treat Advanced Kidney Cancer
+Official title: A Phase II Study of ZD6474 (Vandetanib) in Subjects With Advanced Clear Cell Renal Carcinoma
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Advanced Clear Cell Renal Carcinoma
+Interventions: vandetanib (DRUG)
+Summary: Background:
+
+* One way tumors are able to grow is by forming new blood vessels that supply it with nutrients and oxygen.
+* Vandetanib (ZD6474) is an experimental drug that blocks certain proteins on the surface of tumor and blood vessel cells that are involved with the formation of new blood vessels.
+* Blocking these proteins may prevent the tumor cells or blood vessels from continuing to grow.
+
+Objectives:
+
+* To determine whether vandetanib can cause tumors to shrink or stabilize in patients with advanced kidney cancer.
+* To determine how vandetanib may work in people with kidney cancer and to develop tests that may be helpful in studying kidney cancer.
+
+Eligibility:
+
+-Patients 18 years of age or older with advanced clear cell kidney cancer whose disease has worsened after treatment with one or more of the following drugs: sunitinib, sorafenib, interleukin-2 and temsirolimus; or patients who have had to stop treatment with these drugs due to unacceptable side effects; or patients who are unable to receive standard treatment.
+
+Design:
+
+* Patients take a vandetanib pill once a day in 28-day cycles.
+* Patients are followed in the clinic every 2 weeks during the first month of treatme
+Eligibility: * INCLUSION CRITERIA:
+
+Patients must meet all the following criteria to be eligible for study enrolment:
+
+Histologically confirmed clear cell renal cell carcinoma (to be confirmed at the Dept. of Pathology, Center for Cancer Research (CCR), National Cancer Institute (NCI)).
+
+Patients must have advanced disease (metastatic or unresectable) disease.
+
+Measurable disease, defined as at least one lesion that can be accurately measured in at least one dimension (longest diameter to be recorded) as greater than or equal to 20 mm with conventional techniques or as greater than or equal to 10 mm with spiral CT scan.
+
+See section 6.2 for the evaluation of measurable disease.
+
+Prior therapy:
+
+1. All patients must have either received prior sunitinib or sorafenib (discontinued for disease progression or unacceptable toxicity) or be unable to receive these agents. Patients who have discontinued sunitinib or sorafenib for life threatening toxicities that are also known to occur with vandetanib (such as skin, GI toxicities, bowel perforation etc.) will not be eligible.
+2. All patients must have failed high dose IL-2, be ineligible to receive this agent or decline this therapy.
+
+   Age greater than or equal to 18 years.
+
+   Life expectancy greater than 3 months.
+
+   Performance status Eastern Cooperative Oncology Group (ECOG) 0-2.
+
+   Patients must have normal organ and marrow function as defined below: white blood cell (WBC) count greater than or equal to 3,000/microL, absolute neutrophil count greater than or equal to 1,500/microL, platelet count greater than or equal to 100,000/microL, serum creatinine less than or equal to 1.5 times upper limit of reference range or measured 24 hr. creatinine clearance greater than or equal to 50 ml/min, aspartate aminotransferase (AST) and alanine aminotransferase (ALT) less than 2.5 times upper limit of reference range, total bilirubin less than 1.5 times upper limit of reference range (less than 3 times upper limit of reference range in patients with Gilbert's disease), alkaline phosphatase less than or equal to 2.5 times upper limit of reference range (or less than or equal to 5 times upper limit of reference range if considered to be r

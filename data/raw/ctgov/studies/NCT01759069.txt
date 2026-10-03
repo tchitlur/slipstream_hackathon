@@ -1,0 +1,18 @@
+Title: RCT: Effectiveness of a Microscope During Dental Root Apical Surgery
+Official title: The Effectiveness of a Microscope During Apical Surgery; a Prospective Randomized Controlled Clinical Trial.
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Effectiveness of Microscope During Apical Surgery in Endodontic Treated Teeth.
+Interventions: Surgical treatment with microscope (PROCEDURE)
+Summary: An endodontic treatment is the standard therapy for teeth with periapical periodontitis. The overall success rate for this treatment is high; 97% of the treated teeth are retained in the oral cavity after 8 years (Salehrabi \& Rotstein, 2004). However, there are teeth that have a persistent granuloma because of various reasons and need endodontic retreatment or apical surgery. Overall results in literature for an endodontic retreatment show a success rate of 77%-89% (Ng, Mann, \& Gulabivala, 2008; Salehrabi \& Rotstein, 2010), the results of apical surgery are more or less similar (von Arx, 2005). Which of the two methods is preferred for failed root canal treatments is dependant on a variety of reasons. (For example an amount of gutta-percha outside the apex of the root is better corrected by apical surgery. Persistent infection as a result of insufficient gutta-percha amounts in a treated root is best treated with an endodontic retreatment.) The overall results in apical surgery have increased the past years due to better preparation of the apical end of the root by the use of an ultrasonic device (de Lange, Putters, Baas, \& van Ingen, 2007) and new materials that are used for f
+Eligibility: Inclusion Criteria:
+
+* Peri-apical lesion on one of the teeth, confirmed on radiograph.
+* Previous endodontic treatment was more than 6 months earlier.
+
+Exclusion Criteria:
+
+* Root fracture.
+* Periodontal origin of apical infection or absence of marginal buccal bone after flap elevation.
+* Root perforation.
+* No previous endodontic treatment.
+* Previous endodontic surgery.

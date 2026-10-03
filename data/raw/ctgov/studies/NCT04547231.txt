@@ -1,0 +1,43 @@
+Title: Impact of Coronary CT Angiography, Physiologic Assessment and Pharmacotherapy on the Clinical Outcomes
+Official title: Impact of Stenosis and Plaque Features in Coronary CT Angiography, Physiologic Assessment and Pharmacotherapy on the Clinical Outcomes After Invasive Coronary Angiography
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Coronary Artery Disease
+Interventions: Fractional flow reserve, Coronary CT angiography (DIAGNOSTIC_TEST)
+Summary: The investigators aim to investigate the prognostic implication of stenosis and plaque features on coronary CT angiography (CCTA), physiologic assessment, and pharmacotherapy after invasive coronary angiography.
+Eligibility: 1\) Deferral of PCI group
+
+Inclusion Criteria:
+
+1. Age ≥ 20 years
+2. Patients who undergo CCTA within 90 days before FFR measurement by clinical needs
+3. Patients with a vessel determined to defer revascularization after FFR measurement.
+
+Exclusion Criteria:
+
+1. Left ventricular ejection fraction \< 35%
+2. Acute ST-elevation myocardial infarction within 72 hours or previous coronary artery bypass graft surgery
+3. Abnormal epicardial coronary flow (TIMI flow \< 3)
+4. Failed FFR measurement
+5. Planned coronary artery bypass graft surgery after diagnostic angiography
+6. Poor quality of CCTA which is unsuitable for plaque analysis
+7. Patients with a stent in the target vessel
+
+2\) PCI group
+
+Inclusion Criteria:
+
+1. Age ≥ 20 years
+2. Patients who undergo CCTA within 90 days before FFR measurement by clinical needs
+3. Patients with a vessel that undergo stent implantation and FFR measurement both before and after revascularization (pre-PCI FFR and post-PCI FFR).
+
+   * Patients with multiple vessels that meet inclusion criteria of the deferral of PCI group and PCI group will be assigned to the PCI group.
+
+Exclusion Criteria:
+
+1. Left ventricular ejection fraction \< 35%
+2. Acute ST-elevation myocardial infarction within 72 hours or previous coronary artery bypass graft surgery
+3. Abnormal epicardial coronary flow (TIMI flow \< 3)
+4. Failed FFR measurement
+5. Planned coronary artery bypass graft surgery after diagnostic angiography
+6. Poor quality of CCTA which is unsuitable for plaque analysis
+7. Patients with a stent in the target vessel

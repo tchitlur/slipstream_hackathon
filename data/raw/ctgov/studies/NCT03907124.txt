@@ -1,0 +1,20 @@
+Title: Clinical Utility of Pharmacogenomics of Psychotropic Medications
+Official title: Clinical Utility of Pharmacogenomics of Psychotropic Medications
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Psychiatric Disorders; Pain
+Interventions: Genetically-guided treatment with FDA-approved psychotropic drugs (DRUG); Treatment as usual (TAU) (DRUG)
+Summary: While the scientific understanding of pharmacogenomics is quickly accelerating, its translation to clinical decision-making (especially in psychiatric practice) has progressed more slowly. In an effort to begin to bridge this translational gap, genetic testing has been developed for various and commonly existing psychiatric disorders, such as major depression, schizophrenia, bipolar disorder, and pain syndromes to improve the safety of prescribing psychotropic medications for these disorders. This genetic testing incudes several pharmacodynamics and pharmacokinetic genetic factors, such as the cytochrome P450 1A2 gene (CYP1A2); the cytochrome P450 2B6 (CYP2B6) gene; P450 2D6 gene (CYP2D6); the cytochrome P450 2C9 gene (CYP2C9); the cytochrome P450 2C19 gene (CYP2C19); uridine-glucoronyl-transferase 2B15 (UGT2B15) gene; the serotonin transporter gene (Solute Carrier Family 6 Member; SLC6A4); p-glycoprotein ( ATP-binding cassette sub-family B member 1; ABCB1) transporter gene; the serotonin 2A receptor gene (HTR2A); the serotonin 2C receptor (HTR2C) gene; serotonin 1a receptor (5HT1a) gene; dopamine 1 receptor (DRD1) gene; dopamine 2 receptor (DRD2) gene; adrenergic alpha-2A receptor
+Eligibility: Inclusion Criteria:
+
+* Patient is between the ages of 18 and 80
+* Schizophrenia or schizoaffective disorder, major depressive disorder, bipolar affective disorder as ascertained by a qualified physician or mental health professional licensed to diagnose based on DSM-V criteria.
+* Patients using antidepressants, anxiolytics, mood stabilizers, and sedative/hypnotics will be allowed
+* Patients on clozapine treatment will be allowed.
+* Study subjects with a score of at least 12 on the scale to assess capacity to consent i.e., UBACC.
+
+Exclusion Criteria:
+
+* Patients who are court-committed for involuntary medications
+* Uncontrolled and/or serious medical illness (as ascertained at admission screening process)
+* Pregnant patients
+* Patients who cannot communicate in English.

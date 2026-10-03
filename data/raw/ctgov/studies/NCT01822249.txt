@@ -1,0 +1,26 @@
+Title: Phase 2 Study of EPI-743 for Treatment of Rett Syndrome
+Official title: A Phase 2A Randomized, Placebo Controlled Trial of EPI-743 in Children With Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Rett Syndrome
+Interventions: EPI-743 (DRUG); Placebo (DRUG)
+Summary: Rett syndrome is a severe neurodevelopmental disorder that primarily affects female children. Rett syndrome is characterized by significant elevation in blood markers of oxidative stress. EPI-743 is a novel therapeutic with demonstrated efficacy and safety in the treatment of disorders characterized by oxidative stress. The purpose of this study is to examine the safety and efficacy of EPI-743 in a population of children with Rett syndrome.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of Rett syndrome with disease stage 1-2
+* Abnormality of at least two disease biomarker levels
+* Confirmed MeCP2 mutation
+* Patient or patient's guardian able to consent and comply with protocol requirements
+* Abstention from use of Coenzyme Q10, vitamin E and Idebenone two weeks prior to enrollment into the study
+
+Exclusion Criteria:
+
+* Any condition, which in the opinion of the investigator could compromise the subject's safety or adherence to treatment with EPI-743.
+* Clinically significant allergy or hypersensitivity to EPI-743 or to any of the excipients of with EPI-743 (eg., sesame oil).
+* Clinically significant allergy or hypersensitivity to Vitamin E
+* Lack of confirmation of MeCP2 mutation
+* Clinical history of bleeding or abnormal baseline PT/PTT
+* Diagnosis of any other concurrent inborn error of metabolism
+* Hepatic insufficiency with LFTs greater than 3 times upper limit of normal
+* Renal insufficiency requiring dialysis
+* End stage cardiac failure
+* Fat malabsorption syndromes precluding drug absorption

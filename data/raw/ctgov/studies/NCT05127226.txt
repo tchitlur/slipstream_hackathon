@@ -1,0 +1,19 @@
+Title: HALOS: A Safety, Tolerability, Pharmacokinetics and Pharmacodynamics Study of Multiple Ascending Doses of ION582 in Participants With Angelman Syndrome
+Official title: HALOS: A Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Intrathecally Administered ION582 in Patients With Angelman Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Angelman Syndrome
+Interventions: ION582 (DRUG)
+Summary: The purpose of this study is to evaluate the safety and tolerability of ascending doses of ION582 administered intrathecally in participants with Angelman syndrome.
+Eligibility: Key Inclusion Criteria:
+
+1. Participant has a documented and certified diagnosis of Angelman syndrome (AS) (ubiquitin-protein ligase E3A \[UBE3A\] deletion or UBE3A mutation)
+2. Male or female between the ages of 0-50 years of age, with signed informed consent from parent(s) or legal guardian(s)
+3. Currently receiving stable standard of care treatments such as, stable doses of anti-epileptic medication, behavioral management medications, sleep medications, gabapentin, cannabidiol, and including special diets, supplements or nutritional support for at least 3 months prior to first dose.
+4. Follow good study practice and not participate in the sharing of personal or study information on social media platforms, such as any website or social media site (e.g., Facebook, Instagram, Twitter, YouTube, etc.) until notified that the study is completed.
+
+Key Exclusion Criteria:
+
+1. Has documented molecular AS confirmation of paternal uniparental disomy (UPD) or imprinting defect (ID).
+2. Any clinically significant (CS) cardiovascular, endocrine, hepatic, renal, pulmonary, gastrointestinal, neurologic, malignant, metabolic, psychiatric, or other condition that, in the judgment of the Investigator, will pose a safety risk, will make the patient unsuitable for participation in, and/or unable to complete the study procedures. Has poorly controlled seizures as determined by the Investigator or has documented Status Epilepticus in the past 6 months that could pose a safety risk while on study.
+3. Known bone, spine, bleeding, or other disorder that exposes the patient to risk of injury or unsuccessful lumbar puncture. Previous treatment with an oligonucleotide (including small interfering ribonucleic acid, antisense oligonucleotide \[ASOs\]). COVID-19 vaccinations are allowed.
+4. Any prior use of gene therapy. Have any other conditions, which, in the opinion of the Investigator would make the participant unsuitable for inclusion or could interfere with the participant taking part in or completing the study.

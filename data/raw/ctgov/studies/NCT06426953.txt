@@ -1,0 +1,25 @@
+Title: Predictive Effect of TGF-β and INS-PI3K-AKT Related Proteins for POD in Diabetes Patients
+Official title: Predictive Effect of TGF-β Combined With INS-PI3K-AKT Signaling Pathway Related Proteins (ADNP, MAP6, Pgc-1α) for POD in Diabetes Patients
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Diabetes; Postoperative Delirium
+Interventions: No intervention (OTHER)
+Summary: To investigate the relationship between POD, TGF-β and INS-PI3K-AKT signaling pathway related proteins (ADNP, MAP6, PGC-1α) in diabetic patients
+Eligibility: Inclusion Criteria:
+
+1. Age ≥65 years
+2. History of diabetes ≥2 years and Glycated hemoglobin ≥6.5% or no history of diabetes and normal blood glucose
+3. The ASA rating is Class I to III
+4. The elderly patients of limited thoracic and abdominal tumor surgery
+
+Exclusion Criteria:
+
+1. Refused to participate
+2. Previous history of schizophrenia, epilepsy, Parkinson's disease
+3. History of alcohol abuse or drug dependence
+4. Patients with ASA grade IV and above
+5. Severe visual or hearing impairment, can not cooperate with the completion of cognitive function tests
+6. Participants in other clinical trials within the last two months
+7. Patients with severe arrhythmia or cardiac dysfunction(EF\<40%)
+8. There was a clear history of neurological and psychiatric problems or long-term use of sedatives or antidepressants
+9. History of cerebrovascular disease or brain surgery or trauma
+10. Severe liver dysfunction (Child-Pugh class C) or severe renal dysfunction (requiring dialysis)

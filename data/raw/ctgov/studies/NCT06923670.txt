@@ -1,0 +1,20 @@
+Title: Prevalence Of Germline Gene Mutations In Patients With Myeloproliferative Neoplasms With Family History
+Official title: Prevalence Of Germline Gene Mutations In Patients With Myeloproliferative Neoplasms With Family History
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Polycythemia Vera; Essential Thrombocythaemia; Myelofibrosis
+Interventions: NGS testing (DIAGNOSTIC_TEST); NGS analysis for mutations in genes involved in familial predisposition to hematological malignancies (DIAGNOSTIC_TEST)
+Summary: Philadelphia-negative myeloproliferative neoplasms (MPNs) occur sporadically and are due to somatic mutations in the JAK2 (Janus kinase 2), CALR (calreticulin) and MPL (thrombopoietin receptor) genes. However, data from epidemiological and family studies clearly highlight a heritable component that influences the risk of developing MPN and potentially contributes to the observed phenotypic pleiotropy. Genome-wide association studies in MPN familial clusters have identified a number of germline genetic variants associated with an increased risk of developing MPN. The strongest association discovered so far is the presence of the JAK2 46/1 haplotype and, subsequently, several studies have found additional variants in other genes, particularly in the TERT gene.
+
+The aim of the study would be to investigate the presence of germline mutations in MPN patients selected on the basis of a family history of myeloid neoplasms through the analysis of both already recognized genes and other potentially implicated ones.
+Eligibility: Inclusion Criteria:
+
+\*Patients \>18 years
+
+* Diagnosis of MPN (Essential Thrombocythemia, Polycythemia Vera, Myelofibrosis) confirmed according to ICC 2022 criteria
+* Familiarity for myeloid neoplasia: at least one first or second degree relative affected by myeloid neoplasia (probands) OR presence of matching criteria with a proband (controls). Each center will be able to contribute with its own available patients/relatives, providing the clinical-laboratory data required by the study.
+
+  * Signing of informed consent according to ICH/EU/GCP and local national laws (if applicable)
+
+Exclusion Criteria:
+
+* Patients \<18 years Patients with other hematological diagnoses; • Lack of informed consen

@@ -1,0 +1,27 @@
+Title: Open-Label Extension and Safety Study for Participants With Crohn's Disease Previously Enrolled in the Etrolizumab Phase III Study GA29144
+Official title: An Open-Label Extension and Safety Monitoring Study of Patients With Moderately to Severely Active Crohn's Disease Previously Enrolled in the Etrolizumab Phase III Protocol GA29144
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Crohn Disease
+Interventions: Etrolizumab (DRUG)
+Summary: This open-label extension and safety monitoring study is composed of two parts: Part 1 will evaluate the long-term safety and efficacy of continued etrolizumab treatment in participants with moderately to severely active Crohn's disease who were previously enrolled in the etrolizumab Phase III Study GA29144 (NCT02394028) and who meet eligibility criteria for enrollment into Part 1. In Part 2, participants who have stopped etrolizumab treatment (either by exiting Part 1 of this study or by entering directly from Study GA29144 \[NCT02394028\]) will be monitored for 92 weeks for progressive multifocal leukoencephalopathy (PML) and other safety events.
+Eligibility: Inclusion Criteria:
+
+Part 1 Open-Label Extension:
+
+* Patients previously enrolled in etrolizumab Phase III study GA29144 (NCT02394028) who meet the eligibility criteria for open-label etrolizumab as described in the protocol
+
+Part 2 Safety Monitoring:
+
+* Patients who participated in etrolizumab Phase III study GA29144 (NCT02394028) and are not eligible or choose not to enter Part 1
+* Patients who transfer from Part 1
+* Completion of the 12-week safety follow-up period prior to entering
+
+Exclusion Criteria:
+
+Part 1 Open-Label Extension:
+
+* Any new, significant, uncontrolled condition
+
+Part 2 Safety Monitoring:
+
+* No exclusion criteria

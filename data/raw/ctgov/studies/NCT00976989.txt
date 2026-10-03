@@ -1,0 +1,20 @@
+Title: A Study of Pertuzumab in Combination With Herceptin and Chemotherapy in Participants With HER2-Positive Breast Cancer
+Official title: A Randomised, Multicentre, Multinational Phase II Study to Evaluate Pertuzumab in Combination With Trastuzumab, Given Either Concomitantly or Sequentially With Standard Anthracycline-based Chemotherapy or Concomitantly With a Non-anthracycline-based Chemotherapy Regimen, as Neoadjuvant Therapy for Patients With Locally Advanced, Inflammatory or Early Stage HER2-positive Breast Cancer
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Breast Cancer
+Interventions: Pertuzumab (DRUG); Trastuzumab (DRUG); FEC (DRUG); Docetaxel (DRUG); TCH (DRUG)
+Summary: This 3 arm study will assess the tolerability, safety and efficacy of 3 neoadjuvant treatment regimens in participants with locally advanced, inflammatory or early stage human epidermal growth factor receptor 2 (HER2)-positive breast cancer. Before surgery, participants will be randomized to receive either A) 6 cycles of pertuzumab plus trastuzumab (Herceptin), with 5-fluorouracil/epirubicin/cyclophosphamide (FEC) for cycles 1-3 and docetaxel for cycles 4-6, or B) FEC for cycles 1-3 followed by pertuzumab plus trastuzumab with docetaxel for cycles 4-6, or C) 6 cycles of pertuzumab plus trastuzumab with docetaxel and carboplatin. Pertuzumab will be administered at a loading dose of 840 mg intravenously (iv), then 420 mg iv 3-weekly, trastuzumab at a loading dose of 8 mg/kg iv, then 6 mg/kg iv 3-weekly, docetaxel at 75 mg/m\^2 iv, increased to 100 mg/m\^2 iv 3-weekly, and FEC and carboplatin iv 3-weekly at standard doses. Following surgery participants will receive trastuzumab 6 mg/kg iv 3-weekly for a total of 1 year, as well as adequate chemo-, radio- and hormone therapy. Anticipated time on study treatment is 4-12 months, and target sample size is 200-300.
+Eligibility: Inclusion Criteria:
+
+* female participants, age \>/=18 years
+* advanced, inflammatory or early stage unilateral invasive breast cancer
+* HER2-positive breast cancer
+* baseline left ventricular ejection fraction (LVEF) \>/=55%
+
+Exclusion Criteria:
+
+* metastatic disease (Stage IV) or bilateral breast cancer
+* previous anticancer therapy or radiotherapy for any malignancy
+* other malignancy, except for carcinoma in situ of the cervix, or basal cell carcinoma
+* clinically relevant cardiovascular disease
+* current chronic treatment with corticosteroids of \>10mg methylprednisolone or equivalent

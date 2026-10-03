@@ -1,0 +1,29 @@
+Title: Angelman Syndrome Natural History Study-FAST UK
+Official title: A Monocentric, Prospective, Longitudinal and Observational Natural History Study for Patients With Angelman Syndrome in the United Kingdom: Natural History - Foundation for Angelman Syndrome Therapeutics (FAST) United Kingdom (UK)
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Angelman Syndrome
+Interventions: Natural History Study (OTHER)
+Summary: The goal of this study is to conduct a prospective, longitudinal assessment of the natural clinical progression of Angelman syndrome (AS) in children and adults. This will be performed by acquiring baseline measurements, and developing effective outcome measures and diagnostic tools for the syndrome, to prepare the healthcare system for forthcoming clinical trials.
+Eligibility: Inclusion Criteria:
+
+For the candidate participants affected by AS:
+
+* Genetically confirmed diagnosis of AS
+* 0-99 years
+* Male or Female
+* Obtained consent forms and/or record of consultation by the carers.
+
+In this study, the two primary carers for each participant diagnosed with AS will be also considered participants. Carers will have to meet the following inclusion criteria:
+
+* Male or Female
+* \>18 years
+* Legal carer of the patient diagnosed with AS
+* Willingness to follow study procedures, as assessed by the research team
+* Willingness to sign the consent form
+* Ability to understand all the information regarding the study, as assessed by the research team
+
+Exclusion Criteria:
+
+* The participant affected by AS may not enter the study if there is any comorbidity (\*) that could potentially affect the results of the study. This will be subject to the clinical judgement of the Chief Investigator (CI) and/or the Principal Investigator (PI). Participants of ongoing (interventional) clinical trials that assess the efficacy of potential treatments will be excluded as assessments need to be done on the basis that represent the natural progression of AS.
+
+(\*) This includes any confirmed chronic or acute condition or disease affecting any system(s), which could interfere with the results of the study and/or the compliance with the study procedures.

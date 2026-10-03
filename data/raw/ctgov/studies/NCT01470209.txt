@@ -1,0 +1,26 @@
+Title: A Phase I Study of BKM120 and Everolimus in Advanced Solid Malignancies
+Official title: A Phase I Study of BKM120 and Everolimus in Advanced Solid Malignancies
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Solid Tumors; Lung Cancer
+Interventions: BKM120 (DRUG); Everolimus (DRUG)
+Summary: This study will assess the safety of combining two agents (everolimus and BKM120) for the treatment of advanced cancer arising from solid organ in patients who are no longer benefiting from or unable to withstand standard treatment of these conditions.
+Eligibility: Inclusion Criteria:
+
+1. Histologic or cytologic confirmation of a solid malignancy with established intolerance or refractoriness to standard therapies
+2. Age ≥ 18 years
+3. Eastern Cooperative Oncology Group (ECOG) performance status ≤ 2
+4. Patients must have at least one site of measurable disease (per Response Evaluation Criteria in Solid Tumors \[RECIST\] 1.1 criteria)
+5. Adequate organ function including:
+
+   1. Bone marrow function as shown by: absolute neutrophil count (ANC) ≥ 1.5 x 10⁹/L, platelets ≥ 100 x 10⁹/L, Hb \>9 g/dL
+   2. Electrolytes: Total calcium (corrected for serum albumin) within normal limits (ongoing requirement for bisphosphonate to control malignant hypercalcemia is not allowed but prophylactic use of bisphosphonate to prevent skeletal complication of bone metastasis is allowed); magnesium ≥ the lower limit of normal
+   3. Liver function: aspartate aminotransferase (AST)/serum glutamate oxaloacetate transaminase (SGOT) and alanine aminotransferase (ALT)/serum glutamate pyruvate transaminase (SGPT) ≤ 2.5 x Upper Limit of Normal (ULN) or ≤ 5.0 x ULN if liver metastases are present; serum bilirubin ≤ 1.5 x ULN in patients with known Gilbert Syndrome, total bilirubin ≤ 3 x ULN, with direct bilirubin ≤ 1.5 x ULN
+   4. Renal function: serum creatinine ≤ 1.5 x ULN or 24-hour clearance ≥ 50 mL/min or calculated glomerular filtration rate (GFR) of 60cc/ml using the formula of Cockroft and Gault
+6. Serum amylase ≤ ULN
+7. Serum lipase ≤ ULN
+8. Fasting plasma glucose ≤ 120 mg/dL (6.7 mmol/L)
+9. International normalized ratio (INR) ≤ 2
+10. Negative serum pregnancy test within 48 hours before starting study treatment in women with childbearing potential
+11. Ability and willingness to participate in the informed consent process and signing a copy of the informed consent form
+12. Presence of appropriate size and site of viable tumor tissue for safe tumor biopsy collection (the biopsy is optional and requirement is only applicable to subjects considered for the expansion cohort stage of the study)
+13. Ability and willingness to undergo repeat tumor biopsies (the biopsy is optional and only applicable to subjects considered for the expansion cohort stage

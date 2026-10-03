@@ -1,0 +1,26 @@
+Title: Everolimus in Patients With Advanced Solid Malignancies With TSC1, TSC2, NF1, NF2, or STK11 Mutations
+Official title: Phase II Study of Everolimus in Patients With Advanced Solid Malignancies With TSC1, TSC2, NF1, NF2, or STK11 Mutations
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Solid Malignancy; Solid Tumor
+Interventions: Everolimus (DRUG)
+Summary: The purpose of this research study is to look at participants with solid tumor malignancies and specific mutations respond to treatment with everolimus.
+Eligibility: Inclusion Criteria:
+
+* Histologically confirmed diagnosis of advanced (metastatic, recurrent, or unresectable) cancer with mutations in any of the following genes: TSC1, TSC2, NF1, NF2 or STK11.
+* Must have failed at least 1 standard of care systemic therapy for their malignancy
+* Measurable disease defined as lesions that can be accurately measured in at least one dimension (longest diameter to be recorded) as \>10 mm with CT scan, as \>20 mm by chest x-ray, or \>10 mm with calipers by clinical exam.
+* Prior therapy (chemotherapy, radiation therapy, and surgery) is allowed if completed at least 2 weeks prior to registration and if all treatment-related toxicities are resolved to ≤ CTCAE grade 1, with the exception of alopecia and hematologic values otherwise meeting the bone marrow function criteria specified below.
+* At least 18 years of age.
+* ECOG performance status ≤ 2
+* Normal bone marrow and organ function as defined below:
+
+  * Leukocytes \> 3,000/mcL
+  * Absolute neutrophil count \> 1,500/mcL
+  * Platelets \> 100,000/mcL
+  * Hemoglobin \> 9.0 g/dL
+  * Total serum bilirubin ≤ 2.0 x IULN
+  * AST(SGOT)/ALT(SGPT) ≤ 2.5 x IULN (≤ 5.0 x IULN in patients with liver metastases)
+  * Serum creatinine ≤ 1.5 x IULN OR creatinine clearance \> 45 mL/min/1.73 m\^2 for patients with creatinine levels above institutional normal
+  * Fasting cholesterol ≤ 300 mg/dL OR ≤ 7.75 mmol/L AND fasting triglycerides ≤ 2.5 x IULN. NOTE: In case one or both of these thresholds are exceeded, the patient can only be included after initiation of appropriate lipid lowering medication
+* Able to swallow tablets.
+* Women of childbearing potential, defined as all women physiologically capable of becoming pregnant, must use highly effective methods of contraception during the study and for 8 weeks after. Women are considered post-menopausal and not of childbearing potential if they have had 12 months of natural (spontaneous) amenorrhea with an appropriate clinical profile (e.g., age appropriate, history of vasomotor symptoms) or have had surgical bilateral oophorectomy (with or without hysterectomy) or tubal ligation at least six weeks prior to randomization. In the case of oophorectomy alon

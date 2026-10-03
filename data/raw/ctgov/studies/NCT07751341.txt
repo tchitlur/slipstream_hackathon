@@ -1,0 +1,25 @@
+Title: A Clinical Study of SHR-9839 as Monotherapy or in Combination With Chemotherapy Plus Adebrelimab Versus Chemotherapy Plus Adebrelimab in Patients With Advanced Esophageal Squamous Cell Carcinoma
+Official title: A Randomized, Controlled, Open-label, Multicenter Phase II Clinical Study of SHR-9839 as Monotherapy or in Combination With Chemotherapy Plus Adebrelimab Versus Chemotherapy Plus Adebrelimab in Patients With Advanced Esophageal Squamous Cell Carcinoma
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Advanced Esophageal Squamous Cell Carcinoma
+Interventions: SHR-9839(sc) for Injection (DRUG); SHR-9839(sc) for Injection、Adebrelimab Injection、Paclitaxel for Injection、Cisplatin Injecion (DRUG)
+Summary: An open-label, multicenter, randomized, phase II clinical trial to evaluate the safety, tolerability and efficacy of SHR-9839(sc) as monotherapy or in combination with chemotherapy plus adebelimab in patients with advanced esophageal squamous cell carcinoma (ESCC).
+Eligibility: Inclusion Criteria:
+
+1. Capable of providing informed consent; has signed and dated the IRB/EC-approved informed consent form, and is willing and able to comply with scheduled study visits, examinations and all other protocol-specified procedures.
+2. Aged between 18 and 75 years inclusive at the time of informed consent signature, irrespective of gender.
+3. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.
+4. Histopathologically confirmed locally advanced unresectable or metastatic esophageal squamous cell carcinoma (ESCC).
+5. Expected survival ≥12 weeks.
+6. Must provide a minimum of 11 formalin-fixed paraffin-embedded (FFPE) tumor tissue blocks or unstained tumor slides.
+7. Females of childbearing potential must agree to use adequate effective contraception from the date of informed consent, throughout study treatment, and for 9 months after the last dose of investigational product, and refrain from oocyte donation during this period (refer to subsequent section for detailed contraceptive requirements).
+
+Exclusion Criteria:
+
+1. Uncontrolled or symptomatic active central nervous system (CNS) metastases without adequate prior treatment.
+2. History of another concurrent malignant tumor diagnosed within 3 years prior to the first study drug administration.
+3. Presence of uncontrolled tumor-related pain as assessed by the Investigator.
+4. Severe cardiovascular or cerebrovascular diseases.
+5. History of interstitial lung disease (ILD) including idiopathic pulmonary fibrosis, organizing pneumonia (e.g., bronchiolitis obliterans organizing pneumonia), drug-induced pneumonitis, radiation pneumonitis requiring steroid therapy; or suspected/unruled-out ILD on screening imaging; or moderate-to-severe pulmonary disease severely impairing respiratory function.
+6. Severe infection within 4 weeks before study treatment initiation, including but not limited to bacteremia, severe pneumonia or other infectious complications requiring hospitalization; active CTCAE Grade ≥2 infection requiring systemic antibiotics within 2 weeks prior to first dose (subjects on prophylactic antibiotics e.g., for urinary tract infection prophylaxis are eligible).
+7. History of 

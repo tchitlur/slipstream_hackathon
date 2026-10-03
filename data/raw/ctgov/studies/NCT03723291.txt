@@ -1,0 +1,47 @@
+Title: PentoxIfylline and Tocopherol for the Treatment of Post-radiotherapy Fibrosis in Head and Neck Cancer Patients
+Official title: PentoxIfylline and Tocopherol for the Treatment of Post-radiotherapy Fibrosis in Head and Neck Cancer Patients: a Feasibility Study
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Head and Neck Fibrosis
+Interventions: Arm B: A combination of pentoxifylline and tocopherol acetate in addition to best standard care [a structured programme of rehabilitation exercises] for 6 months (COMBINATION_PRODUCT); • Arm A: Best standard of care only [a structured programme of rehabilitation exercises] for 6 months (PROCEDURE)
+Summary: Objectives:
+
+This is a feasibility study in preparation for the main multicentre randomised trial, which is anticipated to have two arms:
+
+* Arm A: the current best standard of care \[rehabilitation exercises\]
+* Arm B: the current best standard of care \[rehabilitation exercises\] + the experimental intervention
+
+In this feasibility trial the following aspects will be evaluated:
+
+* Recruitment rates \[that is also willingness to be randomised\]
+* Feasibility of providing the experimental intervention at the NHS study sites
+* Retention rate/drop out rate
+* Feasibility and acceptability of (i) proposed primary outcome \[patient-centred\], (ii) a range of additional patient-centred and clinician-centred outcomes
+* Standard deviation of the proposed primary outcome so to inform sample size calculation of the main trial.
+* Safety/toxicity of the study medication.
+
+Type of trial: Multicentre, parallel group, randomised controlled trial in 50 patients with radiotherapy-induced fibrosis of the head and neck.
+
+Trial design and methods:
+
+Participants over the age of 18, with radiotherapy-induced fibrosis of the head and neck will be given information about the trial and invited to participa
+Eligibility: Inclusion Criteria:
+
+* Subjects aged ≥18 years at the time of signing the Informed Consent Form
+* Subjects with diagnosis of radiotherapy-induced fibrosis of the head and neck: trismus and/or dysphagia as defined by the following patient-centred criteria: Trismus: "Does your mouth opening feel restricted" (answer must be yes). Dysphagia: a score of 3 or more on the 10-item Eating Assessment Tool (EAT-10)
+* Previous History of Head \& Neck Cancer
+* Previous radiotherapy to the Head \& Neck - minimum 50 Gy completed at least 12 months before screening visit
+* No history of primary cancer resection and/or reconstructive surgery to anatomical areas involved in swallowing and/or chewing with potential for altered and reconstructed muscular anatomy that may not be amenable to exercise/respond to anti-fibrotic medications (with the exception of diagnostic biopsy/tonsillectomy and neck lymphadenectomy)
+* Cancer-free for a minimum of 12 months after completion of radiotherapy, (complete clinical/radiological remission; absence of distant metastases)
+* Able to understand the purpose of the study and willing to sign informed consent.
+* Able to take study medications orally
+* Subjects of child bearing potential/potency must adhere to one method of highly effective contraception.
+* Subject has provided written informed consent
+* Diagnosis of RIF of the head and neck by patient defined criteria:
+* Trismus: "Does your mouth opening feel restricted?" Dysphagia: a score of 3 or more on the 10-item Eating Assessment Tool (EAT-10)29
+* No history of primary cancer resection and/or reconstructive surgery to anatomical areas involved in swallowing and/or chewing with potential for altered and reconstructed muscular anatomy that may not be amenable to exercise/respond to antifibrotic medications (with the exception of diagnostic biopsy/tonsillectomy and neck dissections)
+* Able to take study medications orally
+* Subjects of child-bearing potential/potency must adhere to one method of highly effective contraception
+
+Exclusion Criteria:
+
+* Concomitant presence of other disorders that may cause trismus or dysphagia (e.g. active temporomandibular joint disorder limiting mouth opening, scl

@@ -1,0 +1,23 @@
+Title: Effects of Atorvastatin Versus Pravastatin on Platelet Inhibition by Clopidogrel
+Official title: Effects of Atorvastatin Versus Pravastatin on Platelet Inhibition by Clopidogrel in Patients With Acute Coronary Syndrome After Percutaneous Coronary Intervention
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Ischemic Heart Disease; Acute Coronary Syndromes
+Interventions: atorvastatin,pravastatin (DRUG)
+Summary: Clopidogrel and statins are frequently coadministered in patients with ischemic heart diseases. Recent reports suggested that clopidogrel's effectiveness in inhibiting adenosine diphosphate (ADP)-induced platelets aggregation is attenuated by co-administration of certain statins. The objective of the present study is to define which kind of statins might interfere with the antiaggregation property of clopidogrel in patients with acute coronary Syndrome after percutaneous coronary intervention (PCI).
+
+In this prospective randomized study, all patients in test group will receive clopidogrel plus atorvastatin, and all patients in control group will receive clopidogrel plus pravastatin. All patients will be followed up for one year. The primary endpoints include death, non fatal AMI, urgent revascularization. The secondary endpoints include hemorrhage events and subacute thrombosis events at 1 year.
+Eligibility: Inclusion Criteria:
+
+* Diagnosed with ACS.
+* Between ages of 18 Years and 85 years.
+* Presence of one or several stenosis in native coronary arteries requiring PCI.
+* Willing and able to sign informed consent.
+
+Exclusion Criteria:
+
+* A history of bleeding diathesis.
+* New York Heart Association functional class IV.
+* Prior PCI or coronary bypass grafting \< 3 months.
+* Contraindications to statins, clopidogrel and aspirin (White blood cells counts \< 4×109/L or platelet counts \<100 g/l; creatinine clearance \<25 ml/ min; active liver disease).
+* Use of glycoprotein IIb/IIIa inhibitors before PCI.
+* Use of statins before PCI.

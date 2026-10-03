@@ -1,0 +1,31 @@
+Title: A Study of Sirolimus for Injection (Albumin-bound) in Patients With Advanced Solid Tumors
+Official title: A Phase Ib Study to Evaluate the Safety and Efficacy of Sirolimus for Injection (Albumin-bound) in Patients With Malignant Solid Tumors With TSC1/2 Genetic Alterations
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Malignant Solid Tumors
+Interventions: Sirolimus for Injection (Albumin-bound) (DRUG)
+Summary: This is an open-label, multi-center phase 1b study to evaluate the safety and efficacy of Sirolimus for injection (albumin-bound) in patients with malignant solid tumors with TSC1 or TSC2 genetic alterations.
+Eligibility: Inclusion Criteria:
+
+* Patients must have histologically or cytologically confirmed diagnosis of malignant solid tumors, with TSC1 or TSC2 genetic alterations, and have no standard treatment or have failed standard treatments.
+* Patients must have archival tumor tissues or agreed to have a tumor biopsy (if not, the sponsor's consent is required for enrollment).
+* At least 1 measurable lesion as defined by RECIST 1.1.
+* Eastern Cooperative Oncology Group (ECOG) Performance Status 0 or 1.
+* Life expectancy of ≥3 months.
+* Adequate marrow and organ function.
+* Fasting serum triglyceride must be \<300 mg/dL or \<3.42 mmol/L; fasting serum cholesterol must be\<350 mg/dL or \<9.07 mmol/L.
+* Fasting blood glucose must be\<6.1 mmol/L and HbA1c\< 6.5% in dose escalation, in other stage must be \< 7.8 mmol/L and be\< 8% respectively.
+* Women of child-bearing potential, or men whose partners are women of childbearing age must agree to use reliable contraceptive methods during the trial period and at least 6 months after the last administration; women of childbearing age must have a negative serum pregnancy test within 7 days prior to the first administration, should not be breast feeding.
+* Patients should understand and willingness to sign a written informed consent form prior to study entry.
+
+Exclusion Criteria:
+
+* Prior treatment with an mTOR inhibitor.
+* Anti-tumor treatment within 4 weeks prior to first dose of study treatment.
+* Participation in another therapeutic clinical trial with 4 weeks before study treatment.
+* Major surgery within 4 weeks prior to study treatment, or have not fully recovered from any previous procedure.
+* Unresolved toxicity from prior anti-tumor therapy greater than Grade 1 as per Common Terminology Criteria for Adverse Events (CTCAE) version 5.0.
+* Patients with primary brain tumors or PEComa.
+* Active uncontrolled or symptomatic central nervous system metastasis (CNS) or meningeal metastasis.
+* History of serious cardiovascular disease.
+* History of serious lung disease, such as interstitial lung disease and/or pneumonitis, or pulmonary hypertension, or pre-existing severely impaired lung function.
+* Hydrothorax, ascites or pleural effusio

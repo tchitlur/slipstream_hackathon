@@ -1,0 +1,30 @@
+Title: Pharmacokinetics and Pharmacodynamics Trial With Linagliptin (BI 1356) 5mg in African American Type 2 Diabetic Patients
+Official title: An Open Label, Phase I Trial to Investigate the Pharmacokinetics and Pharmacodynamics of Linagliptin (BI 1356) 5 mg After Single and Multiple Oral Administration in Patients With Type 2 Diabetes Mellitus of African American Origin for 7 Days
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Diabetes Mellitus, Type 2
+Interventions: linagliptin QD (once daily) for 7 days (DRUG)
+Summary: The objective of this trial is to investigate the pharmacokinetics and pharmacodynamics of linagliptin (BI 1356) 5 mg administered orally in patients with Type 2 diabetes mellitus of African American origin.
+Eligibility: Inclusion criteria:
+
+1. Glycosylated haemoglobin \>=7 and \<= 10%
+2. Age \>=21 and \<= 65
+3. Body Mass Index \>=18.5 and \<=38 kg/m2
+4. African American origin
+5. Signed and dated informed consent prior to admission to the study
+
+Exclusion criteria:
+
+1. Any finding of the medical examination considered clinically relevant by the Investigator
+2. Clinically relevant concomitant diseases like renal insufficiency, cardiac insufficiency New York Heart Association (NYHA) II-IV, known cardiovascular disease including hypertension \>160-100 mmHg (under current treatment), stroke and transient ischemic attack (TIA).
+3. Clinically relevant gastrointestinal, hepatic, renal, respiratory, cardiovascular, metabolic, immunological or hormonal disorders besides type 2 diabetes
+4. Clinically relevant diseases of central nervous system or psychiatric disorders or relevant neurological disorders besides polyneuropathy
+5. Diagnosis of sickle cell anemia or known chronic anemia
+6. History of chronic or relevant infections (for example human immunodeficieny virus (HIV), Hepatitis B)
+7. History of relevant allergy/hypersensitivity
+8. Intake of drugs with a long half life (\>24hours) within at least one month or less than 10 half lives of the respective drug prior to administration except allowed co medication
+9. Alcohol abuse, drug abuse
+10. Any laboratory value of clinical relevance that is outside an acceptable range
+11. Change of drug dosing of allowed co medication
+12. Any (electrocardiogram) ECG value outside the reference range and of clinical relevance.
+13. Fasted glucose \>270 mg/dl or randomly determined blood glucose \>400 mg/dl on two consecutive days during screening or wash out
+14. Serum creatinine above upper limit normal at screening

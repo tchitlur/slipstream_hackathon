@@ -1,0 +1,23 @@
+Title: A Double-blind Study Evaluating the Efficacy, Safety, and Tolerability of Zorevunersen in Patients With Dravet Syndrome
+Official title: EMPEROR: A Multicenter, Randomized, Double-blind, Sham-controlled, Parallel Group, Phase 3 Study Evaluating the Efficacy, Safety, and Tolerability of Zorevunersen (STK-001) in Patients With Dravet Syndrome
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Dravet Syndrome
+Interventions: zorevunersen (DRUG); Sham Comparator (OTHER)
+Summary: The purpose of the study is to evaluate the efficacy, safety, and tolerability of zorevunersen in Patients with Dravet syndrome.
+Eligibility: Key Inclusion Criteria:
+
+1. Patients must be ≥2 and \<18 years of age.
+2. Patients must have a clinical diagnosis of DS confirmed by the Epilepsy Study Consortium, Inc. (ESCI) and as defined by:
+
+   Onset, prior to 12 months (inclusive, \<13 months), of age, of recurrent focal with motor signs, hemiclonic, or generalized tonic-clonic seizures. No other known etiology causing clinical DS manifestations..
+3. Patient must have a documented pathogenic, likely pathogenic variant, or variant of uncertain significance in the sodium voltage-gated channel type 1 alpha subunit (SCN1A) gene. Patients who have SCN1A testing results of Negative (no variants identified) cannot be randomized.
+4. Patient must experience the required number of major motor seizures during the 6-week Observation Period. Major motor seizure types included are Seizure types included in counts are Hemiclonic, Focal with Motor Signs, Focal to Bilateral Tonic-Clonic, Generalized Tonic-Clonic, Tonic, Tonic/Atonic (Drop Attacks with fall or risk of fall), and Bilateral Clonic.
+5. Patient must have used at least 2 prior interventions for seizures. These can include anti-seizure medications (ASMs), ketogenic diet and/or vagus nerve stimulation (VNS) with either lack of adequate seizure control or discontinued due to an AE(s). These interventions can be ongoing therapies.
+6. Patient must be taking at least one ASM. Benzodiazepines or ASMs used on a standing basis (i.e., not as needed \[PRN\]) for any indication will be considered an ASM.
+7. Patients' maintenance ASMs and interventions for seizures (i.e., ketogenic diet or VNS), as well as any marijuana- or cannabinoid-based products, must have been stable (unless adjusted for weight) during the Baseline Period.
+
+Key Exclusion Criteria:
+
+1. Patient has documented variant in the SCN1A gene associated with gain-of-function
+2. Patient is currently treated with a maintenance ASM acting primarily as a sodium channel blocker, including but not limited to phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, rufinamide, or cenobamate, given the mechanism of action of zorevunersen.
+3. Patient is currently treated with neuromodulation techniques (e.g., re

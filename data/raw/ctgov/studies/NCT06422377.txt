@@ -1,0 +1,17 @@
+Title: A Study Evaluating Soticlestat in Participants With Dravet Syndrome or Lennox-Gastaut Syndrome Who Have Been Exposed to Fenfluramine
+Official title: An Open-label, Nonrandomized, Phase 3 Study to Evaluate the Efficacy and Safety of Soticlestat in Participants With Dravet Syndrome or Lennox-Gastaut Syndrome Who Have Been Exposed to Fenfluramine
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Dravet Syndrome (DS); Lennox-Gastaut Syndrome (LGS)
+Interventions: Soticlestat (DRUG)
+Summary: The purpose of this study is to check how soticlestat impacts symptoms of Dravet syndrome \[DS\] and Lennox-Gastaut syndrome \[LGS\] in participants who have been exposed to fenfluramine.
+Eligibility: Inclusion Criteria:
+
+1. The participant has been exposed to fenfluramine (currently on or used previously).
+2. The participant has a clinical diagnosis of LGS and a history of, on average, ≥12 MMD seizures in the last 90 days immediately before screening based on historical information, and the participant has ≥4 MMD seizures during a minimum of 4 weeks of seizure data collection during the prospective baseline period.
+3. The participant is currently taking 0 to 5 antiseizure treatments (eg. antiseizure medications \[ASMs\], vagus nerve stimulation \[VNS\], ketogenic diet) at stable doses.
+
+Exclusion Criteria:
+
+1. The participant is currently enrolled in a clinical study involving an investigational product or treatment device (ie, not approved in that country, other than soticlestat), or concurrently enrolled in any other type of medical research judged not to be scientifically or medically compatible with this study. Note: Compatibility will be determined on the basis of consultation with the sponsor/designee.
+2. The participant has a known hypersensitivity to any component of the soticlestat formulation.
+3. Participants aged ≥6 years who have positive answers on item numbers 4 or 5 on the Columbia-Suicide Severity Rating Scale (C-SSRS) before dosing are excluded. This scale will only be administered to participants aged ≥6 years at the time of enrollment or participants who turn 6 after enrollment.

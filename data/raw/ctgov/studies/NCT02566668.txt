@@ -1,0 +1,19 @@
+Title: Immune Interactions in Severe Asthma
+Official title: Immune Airway-Epithelial Interactions in Steroid-Refractory Severe Asthma
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Asthma
+Interventions: 1 year Observational Follow-up (OTHER)
+Summary: This research study is being done to learn more about severe asthma by comparing people with severe asthma to those with milder forms of asthma and people without asthma, at baseline and over time. Individuals are being asked to join a research study to help understand the differences in the lungs and blood of participants with severe asthma compared to those with milder asthma and healthy individuals, as well as differences in overall health. Investigators also want to determine whether these differences predict asthma-related and biologic outcomes over 1 year of follow up.
+Eligibility: Inclusion Criteria:
+
+* 18-65 years of age
+* Non-smoker
+* Asthmatic subjects must also demonstrate forced expiratory volume in 1 second (FEV1) bronchodilator reversibility ≥12% or airway hyperresponsiveness reflected by a methacholine provocative concentration causing a 20% fall in FEV1 (PC20) ≤16 mg/mL (Historical methacholine data from previous National Institutes of Health (NIH) trial will be allowed)
+
+Exclusion Criteria:
+
+* Greater than 10 pack year smoking history (none in the last year)
+* Vocal cord dysfunction, cystic fibrosis or chronic obstructive pulmonary disorder
+* Other lung disease, or any coronary artery disease, hypertension, diabetes or renal failure that is not well-controlled.
+
+Healthy Controls only: Pre-bronchodilator FEV1/Forced vital capacity (FVC) \<0.70 or an improvement in FEV1 of more than 12% following 4 puffs of albuterol.

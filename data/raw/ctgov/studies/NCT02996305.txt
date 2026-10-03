@@ -1,0 +1,28 @@
+Title: A Study in Adults and Adolescents With Angelman Syndrome (STARS)
+Official title: A Phase 2 Adult and Adolescent Angelman Syndrome Clinical Trial: A Randomized, Double-Blind, Safety and Efficacy Study of Gaboxadol
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Angelman Syndrome
+Interventions: OV101 Regimen 1 (DRUG); OV101 regimen 2 (DRUG); Placebo (OTHER)
+Summary: The purpose of the study is to assess the safety and tolerability of oral OV101 (gaboxadol) in adult and adolescent subjects with Angelman syndrome. In addition, several exploratory efficacy outcome measures will be investigated.
+Eligibility: Inclusion Criteria
+
+1. Age 13- 49 years
+2. Diagnosis of Angelman syndrome
+3. Receiving a stable regimen of concomitant medications for at least 4 weeks prior to Baseline, and able to maintain these throughout the duration of the study
+4. Has a caregiver capable of providing informed consent on behalf of the subject and able to attend scheduled study visits
+5. Able to ingest study medication
+6. Caregivers must agree not to post any subject or study information on social media
+
+Exclusion Criteria
+
+1. Unable to perform the study related safety and exploratory efficacy assessments, such as motor function
+2. Poorly controlled seizure activity
+3. Concomitant cardiovascular, respiratory, liver, renal, or hematologic diseases of a degree that would limit participation in the study
+4. Pregnancy or women of child-bearing potential who are not using and acceptable method of contraception
+5. Concomitant use of minocycline, levodopa, zolpidem, zaleplon, eszopiclone, ramelteon, and cannabinoid derivatives, or any other use of any investigational agent, device, and/or investigational procedure 4 weeks prior to Baseline and during the study
+6. Allergy to OV101 or any excipients
+7. At increased risk of harming self and/or others based on investigator assessment
+8. Any condition or reason that in the opinion of the investigator makes the subject unsuitable for enrollment
+9. Inability of subject or caregiver to comply with study requirements
+
+Other protocol-defined inclusion/exclusion criteria may apply.

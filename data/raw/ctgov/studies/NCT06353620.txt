@@ -1,0 +1,21 @@
+Title: Structural-functional Connectome in Drug-resistant Epilepsies and Neurodevelopmental Syndromes With Epilepsy
+Official title: Structural-functional Connectome With High-density Electroencephalography in Drug-resistant Epilepsies and Rare Neurodevelopmental Syndromes With Epilepsy
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Epilepsy; Angelman Syndrome; Dup15q Syndrome
+Interventions: High Density EEG recording (DIAGNOSTIC_TEST); Rey Complex Figure Test (DIAGNOSTIC_TEST)
+Summary: Recent studies have shown that the aperiodic part of the signal (neuronal avalanches) of electroencephalography (EEG) contains important information about the dynamics of neuronal networks. Indeed, this has helped to identify functionally altered areas in patients with temporal epilepsy by simply using the resting EEG signal. Furthermore, it has been seen that the propagation of neuronal avalanches (VNs) correlates with the morphological organization of the cerebral cortex. Therefore, NAs represent a measure with direct utility for studying functional reorganization pre and post drug/surgical treatment. In addition, the aperiodic portion of the signal may represent a noninvasive measure of the excitation/inhibition relationship, which is known of being altered both in epilepsy and in some rare neurodevelopmental syndromes (example: Angelman and Dup15q)
+Eligibility: Inclusion Criteria:
+
+* a diagnosis of focal or generalized epilepsy, Angelman syndrome, or Dup15q, confirmed by specialist evaluation;
+* at least one MRI scan of the brain that includes 3D T1 sequences;
+* at least one 128-channel HD-EEG recording; and
+* age between 6 and 75 years at the time of the evaluation of the present study;
+* ability to take part in a neuropsychological evaluation.
+
+Exclusion Criteria:
+
+* vascular causes or non-low-grade tumors as causes of epilepsy;
+* age different from the range 6-75 years;
+* neuroradiological examination not complete (absence T1 3D);
+* absence of HD-EEG 128-channel recording
+* inability to take part in a neuropsychological evaluation.

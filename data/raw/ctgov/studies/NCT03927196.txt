@@ -1,0 +1,22 @@
+Title: Primary Prevention Program
+Official title: The Program to Assess the Influence of Routing and Extended Statin Counseling of Patient With Cardiovascular Risk Factors on the Choice of Medicine and Treatment Compliance
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Primary Prevention of Cardiovascular Disease
+Interventions: extended counseling (BEHAVIORAL)
+Summary: A systematic collection of retrospective and prospective data based on non-intervention patient observation, aimed to assess the risks, course and outcomes of a disease or a group of diseases:
+
+* the retrospective part: database of patients with cardiovascular risks;
+* the prospective part: observation of patients in the real medical practice
+Eligibility: Inclusion Criteria:
+
+Men and women 40-65 years old with the presence of:
+
+* moderate cardiovascular risk (\<5% but ≥1% on a SCORE scale) and cholesterol level LDL ≥3.0 mmol / l, in which the target is not reached during the improvement of lifestyle level of cholesterol-LDL, and the attending physician considers appropriate the appointment lipid-lowering drugs (statins), or
+* high cardiovascular risk (≥5% but \<10% on a SCORE scale) and cholesterol level LDL ≥ 2.5 mmol / l, or
+* very high cardiovascular risk (≥10% on the SCORE scale) and cholesterol-LDL ≥1.8mmol / l, or
+* atherosclerotic stenosis of the brachiocephalic arteries\> 50% in the absence cerebrovascular diseases and the level of cholesterol-LDL ≥1.8 mmol / l, which do not have contraindications to taking statins and not taking drugs of this group in currently.
+
+Exclusion Criteria:
+
+* The presence of the following clinically significant events in anamnesis: myocardial infarction, stroke, myocardial infarction
+* The presence of the following diseases at the time of statin administration: ischemic heart disease; heart failure; atherosclerotic disease of peripheral arteries; atherosclerotic stenosis of the brachiocephalic arteries in the presence of cerebrovascular disease; chronic renal failure with creatinine clearance \<30 ml / min; liver disease with an increase in AST and ALT levels of more than 3 times, compared to the upper limit of normal; history of muscular or neuromuscular diseases, with elevated CPK; alcoholism, oncological, mental and other severe concomitant diseases; intolerance to statins in anamnesis; use of other lipid-modifying agents.

@@ -1,0 +1,14 @@
+Title: Movement Improves Brain Health and Cognition in Parkinson's Disease
+Official title: Movement Improves Brain Health and Cognition in Parkinson's Disease
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Parkinson Disease
+Interventions: Aerobic exercise for >_75 minutes/week of vigorous aerobic exercise or >_ 150 minutes/week of moderate aerobic exercise in at least two weekly sessions, for 12 m (BEHAVIORAL)
+Summary: Cognitive impairment is an acknowledged feature of Parkinson's disease (PD) and often coexists with the classic motor symptoms since their onset. Cognitive symptoms of PD can be differentiated from other neurodegenerative diseases by the affected domains: typically, the executive functions are primarily affected, to a greater extent than the mnesic ones. PD-MCI is of utmost clinical relevance, as it impacts the patients' quality of life and as the major predictor for conversion to PDD. To date, there are no routinely recommended interventions to address MCI in PD and prevent it from evolving into dementia. Recent evidence supports the benefit of aerobic exercise on motor symptoms of PD and its possible disease-modifying role, through functional and structural brain changes. Less is known about the impact of aerobic exercise on cognition in the PD population. In the last decade, studies have proven aerobic exercise as a promising strategy to alter the trajectory of cognitive decline in subjects with cognitive impairment and in elderly people. In particular, executive functions were ameliorated by exercise intervention to a greater extent. A recent preclinical study also demonstrated
+Eligibility: Inclusion Criteria:
+
+1. Patients aged between 30 and 80 years, with a clinical diagnosis of Parkinson's disease (PD) according to the Movement Disorder Society (MDS) diagnostic criteria and a Hoehn \& Yahr (H\&Y) stage between 1 and 3, as well as a diagnosis of mild cognitive impairment (MCI) according to MDS-PD-MCI level II criteria, will be consecutively enrolled during routine clinical practice at the hospitals of the Principal Investigator (PI) and Partner
+2. The inclusion criteria for the study's physical activity intervention are based on the guidelines of the American College of Sports Medicine. To be eligible for the study, potential participants must not engage in more than 120 minutes/week of moderate-intensity exercise or more than 60 minutes/week of vigorous-intensity exercise. Enrolled patients must be able to provide informed consent to participate in the study.
+
+Exclusion Criteria:
+
+* Pregnant patients, patients with medical conditions that prevent vigorous physical exercise, those with oncological or autoimmune comorbidities, or those taking immunomodulatory or anti-inflammatory medications will be excluded from the study

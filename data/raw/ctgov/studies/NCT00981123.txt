@@ -1,0 +1,16 @@
+Title: Non-interventional (NI) Study to Observe Efficacy and Usage of Quetiapine in Acute Episodes of Schizophrenia and as Maintenance Therapy Following Standard Clinical Practice in Croatia
+Official title: Non-interventional Study to Observe Efficacy and Usage of Quetiapine in Acute Episodes of Schizophrenia and as Maintenance Therapy Following Standard Clinical Practice in Croatia
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Schizophrenia
+Interventions: none
+Summary: Observational, non-comparative, epidemiological study to collect and analyse real life data on schizophrenic patients receiving quetiapine according to the standard medical practice in Croatia. The main objectives are to assess after 6 months of quetiapine therapy severity of illness and global improvement in patients using Clinical Global Impression (CGI) scale.
+Eligibility: Inclusion Criteria:
+
+* Patients with diagnosis of schizophrenia
+* Patients who are already treated with quetiapine for at least 12 weeks (outpatients or hospitalised patients)
+* Patients capable of signing ICF
+
+Exclusion Criteria:
+
+* Patients with hypersensitivity to active substance or any of the excipients of this product
+* Patients with contraindication for quetiapine therapy according to the approved SmPC

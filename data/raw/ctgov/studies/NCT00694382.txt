@@ -1,0 +1,22 @@
+Title: Evaluation of AVE5026 in the Prevention of Venous Thromboembolism in Cancer Patients Undergoing Chemotherapy
+Official title: A Multinational, Randomized, Double Blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of AVE5026 in the Prevention of Venous Thromboembolism (VTE) in Cancer Patients at High Risk for VTE and Who Are Undergoing Chemotherapy
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Venous Thromboembolism; Cancer
+Interventions: Semuloparin sodium (DRUG); Placebo (for semuloparin) (DRUG)
+Summary: The primary objective was to compare the efficacy of once daily subcutaneous injections of Semuloparin sodium (AVE5026) with placebo in the prevention of venous thromboembolism \[VTE\] in cancer patients at high risk for VTE and who were undergoing chemotherapy.
+
+The secondary objectives were to evaluate the safety of Semuloparin sodium (AVE5026), to document Semuloparin sodium (AVE5026) exposures, to try identifying a metagene predictor of VTE and to assess the survival status at one year in this population.
+Eligibility: Inclusion Criteria:
+
+Cancer patient with metastatic or locally advanced solid tumor of lung, pancreas, stomach, colon/rectum, bladder or ovary initiating a (new) course of chemotherapy with a minimum intent of 3 months therapy
+
+Exclusion Criteria:
+
+* Required systematic venous thromboprophylaxis or curative treatment with anti-coagulant or thrombolytic;
+* High risk of bleeding;
+* Severe renal impairment (estimated creatinine clearance \<30 mL/min);
+* ECOG (Eastern Cooperative Oncology Group) performance status 3 \& 4;
+* Major surgery within 4 weeks before randomization;
+* Known hypersensitivity to unfractionated heparin \[UFH\] or low molecular weight heparin \[LMWH\].
+
+The above information is not intended to contain all considerations relevant to a patient's potential participation in a clinical trial

@@ -1,0 +1,21 @@
+Title: Pharmacological Treatment of Rett Syndrome With Statins
+Official title: Pharmacological Treatment of Rett Syndrome With 3-Hydroxy-3 Methylglutaryl-coenzyme A Reductase Inhibitor-Lovastatin (Mevacor)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Rett Syndrome
+Interventions: Lovastatin (DRUG)
+Summary: This is a phase 2 , open label, dose escalating study of Lovastatin in Rett syndrome.
+Eligibility: Inclusion Criteria:
+
+* Females patients,
+* Genetically confirmed RTT,
+* Ambulatory.
+
+Exclusion Criteria:
+
+* Presence of co morbid non-Rett related disease,
+* History of adverse reaction/hypersensitivity to statins,
+* Levels of aspartate-amino trans-ferase (AST), alanine-amino transferase (ALT) or creatine kinase (CK) triple the normal values,
+* Active liver disease,
+* Concomitant use of strong CYP3A4 inhibitors,
+* Condition predis-posing to renal failure secondary to rhabdomyolysis (scoliosis surgery within 6 months),
+* Oral contraceptives use.

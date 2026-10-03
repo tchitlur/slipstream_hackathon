@@ -1,0 +1,30 @@
+Title: Evaluation of AVE5026 as Compared to Enoxaparin for the Prevention of Venous Thromboembolism in Patients Undergoing Major Abdominal Surgery
+Official title: A Multinational, Multicenter, Randomized, Double Blind Study Comparing the Efficacy and Safety of AVE5026 With Enoxaparin for the Prevention of Venous Thromboembolism in Patients Undergoing Major Abdominal Surgery
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Venous Thromboembolism
+Interventions: Semuloparin Sodium (DRUG); Enoxaparin sodium (DRUG); Placebo (DRUG)
+Summary: The primary objective is to compare the efficacy and safety of once daily (q.d.) subcutaneous (s.c.) injections of Semuloparin sodium (AVE5026) with q.d. s.c. injections of Enoxaparin for the prevention of Venous Thromboembolic Events (VTE) in patients undergoing major abdominal surgery.
+
+The secondary objectives are to evaluate the safety of Semuloparin sodium (AVE5026) and to document Semuloparin sodium (AVE5026) exposure in this population.
+Eligibility: Inclusion Criteria:
+
+* Patient undergoing major abdominal surgery (open surgery under general anesthesia lasting more than 45 minutes in the peritoneal and/or retroperitoneal space and/or pelvis).
+* Patient \<60 years of age had to have one of the following additional risk factors for VTE:
+
+  * History of VTE,
+  * Obesity,
+  * Chronic Heart failure,
+  * Chronic Respiratory Failure,
+  * Inflammatory Bowel Disease,
+  * Cancer Surgery.
+
+Exclusion Criteria:
+
+* Any major orthopedic or general surgery in the 3 months prior to study start;
+* Clinical signs or symptoms of DVT or PE within the last 12 months or known post phlebitic syndrome;
+* Any contra-indications to the performance of venography;
+* High risk of bleeding;
+* Known hypersensitivity to heparin or Enoxaparin sodium;
+* End stage renal disease or patient on dialysis.
+
+The above information was not intended to contain all considerations relevant to a patient's potential participation in a clinical trial.

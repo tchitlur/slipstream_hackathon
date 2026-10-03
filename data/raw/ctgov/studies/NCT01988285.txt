@@ -1,0 +1,21 @@
+Title: Risk Factors and Biomarkers for Diagnosis and Treatment of EoE
+Official title: Risk Factors and Biomarkers for Diagnosis and Treatment of EoE
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Eosinophilic Esophagitis
+Interventions: Specimen Collection (OTHER); Questionnaires (OTHER)
+Summary: Purpose: To validate our previously developed model of risk factors for diagnosis of eosinophilic esophagitis (EoE), and to assess the utility of serum levels of biomarkers in diagnosis and monitoring of treatment of EoE. Participants: Up to a total of 800 participants (approximately 400 with EoE and 400 without EoE) who are referred for upper endoscopy. Procedures: This is a prospective cohort study. Patients will be compared with newly diagnosed EoE to non-EoE controls, obtain baseline measures, reassess EoE patients after treatment, and also reassess untreated controls. Data collection will include questionnaire results, blood collection, and tissue collection (esophageal biopsies performed during upper endoscopy per pre-specified protocol). Blood will be analyzed for the presence of the candidate biomarkers. Patients will be compared with newly diagnosed EoE to non-EoE controls, obtain baseline measures, reassess EoE patients after treatment, and also reassess untreated controls. Data collection will include questionnaire results, blood collection, possible saliva collection, possible urine collection, and tissue collection (esophageal biopsies performed during upper endoscopy 
+Eligibility: Inclusion Criteria:
+
+1. Referral for upper endoscopy (esophagogastroduodenoscopy; EGD) to evaluate specific symptoms (dysphagia, heartburn, reflux, chest pain, regurgitation, abdominal pain, nausea, or vomiting).
+2. Age 18 or older
+
+Exclusion Criteria:
+
+1. Acute GI bleeding.
+2. Known cancer of the esophagus, stomach, or small bowel.
+3. Prior esophageal resection.
+4. Esophageal varices.
+5. Active anticoagulation or bleeding diathesis.
+6. Medical instability (determined by the performing endoscopist) to precludes performing EGD.
+7. Pregnancy
+8. Inability to read or understand the consent form and questionnaire.

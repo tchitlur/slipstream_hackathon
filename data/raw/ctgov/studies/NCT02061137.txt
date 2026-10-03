@@ -1,0 +1,23 @@
+Title: Study to Assess Safety and Efficacy of Fingolimod in Children With Rett Syndrome
+Official title: A Phase 1 Clinical Study to Assess Safety and Efficacy of Oral Fingolimod (FTY720) in Children With Rett Syndrome.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Rett's Syndrome
+Interventions: fingolimod (FTY720) (DRUG)
+Summary: The Trial Objective is to assess safety and efficacy of oral fingolimod (FTY720) in children older than 6 years with Rett Syndrome. So far there is no established treatment for children with Rett Syndrome. Therefore a positive result in terms of safety and first indications of efficacy would path the way to a phase II clinical study with more patients to further test the hypothesis that fingolimod treatment may slow down the regression of motor and language skills.
+Eligibility: Inclusion Criteria:
+
+* Children fulfilling diagnostic criteria (2001, Hagberg B et al. Eur. J. Paediatr. Neurol. 2002) of Rett Syndrome
+* Stages II -IV Hagberg/ Witt-Engerström (Hagberg B, Witt-Engerström I. Am J Med Genet 1986, Hagberg B. Ment Retard Dev Disabil Res Rev 2002)
+* Patients older than 6 years old (have had their 6th birthday)
+* Written informed consent of parents/ of legal guardian
+* Negative testing for pregnancy
+* Positive confirmation of a MECP2 mutation
+
+Exclusion Criteria:
+
+* Any uncertainty about diagnosis of Rett Syndrome
+* Patients younger than 6 years old (have not yet had their 6thbirthday)
+* Additional associated neurological diseases such as a brain malformation
+* Patient \<15kg body weight at timepoint of screening
+* Patients with negative varicella-zoster virus immunoglobulin G (IgG) antibodies
+* Pregnancy or breastfeeding for girls in childbearing potential age

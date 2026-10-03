@@ -1,0 +1,19 @@
+Title: Therapeutic Omegas for Triglyceride Suppression
+Official title: Pilot RCT Intervention Targeting Elevated Triglycerides With a Point-of-Care Meter and Omega-3 Fatty Acids to Normalize Triglycerides and Fetal Growth
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Pregnancy
+Interventions: Intervention Omega 3 Supplementation (DIETARY_SUPPLEMENT); Placebo Soybean Oil (DIETARY_SUPPLEMENT)
+Summary: This study plans to learn more about how an omega-3 fatty acid supplement effects triglyceride levels in pregnancy. Triglycerides are a type of fat found in your blood. Your body converts extra calories into triglycerides to be stored and used later for energy. It is normal for triglyceride levels to go up during pregnancy however some women have levels that are \~30-40% higher than normal when they reach their third trimester of pregnancy. Having high triglycerides in pregnancy may be related to an increased chance of having a baby that is large for their age. The goal of this study is to determine if taking an omega-3 fatty acid supplement can slow the rise in triglyceride levels later in pregnancy.
+Eligibility: Inclusion Criteria:
+
+* Pregnant women between the ages of 21-39 yrs
+* Pre-pregnancy BMI 28-39
+* Fasting Triglyceride ≥120 mg/dL measured by 15 wks
+
+Exclusion Criteria:
+
+* Pre-gestational diabetes or prediabetes
+* History of gestational diabetes,
+* History of pre-eclampsia, spontaneous pre-term delivery, or gestational hypertension \<34wks
+* Tobacco or illicit substance use
+* Chronic steroid use

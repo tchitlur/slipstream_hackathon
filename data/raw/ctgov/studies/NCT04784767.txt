@@ -1,0 +1,28 @@
+Title: PHASE 1 SARS-COV-2-Spike-Ferritin-Nanoparticle (SpFN) Vaccine With ALFQ Adjuvant for Prevention of COVID-19
+Official title: Randomized Double-blind Placebo-Controlled Study in Healthy Adults to Evaluate Safety/Tolerability/Immunogenicity of Ranging Doses SARS-COV-2SPFN_1B-06-PL With Army Liposomal Formulation QS21 (ALFQ) for Prevention of COVID-19
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: SARS-CoV-2 Infection
+Interventions: 25 µg SpFN_1B-06-PL + ALFQ (QS21 Adjuvant) (BIOLOGICAL); Sodium chloride, USP, for injection (0.9% NaCl) (DRUG); 50 µg SpFN_1B-06-PL + ALFQ (QS21 Adjuvant) (BIOLOGICAL)
+Summary: The purpose of this study is to evaluate the safety, reactogenicity, and immune response of the SpFN COVID-19 vaccine with Army Liposomal Formulation QS21 (ALFQ) adjuvant in healthy adults ages 18-55.
+Eligibility: Inclusion Criteria:
+
+* Must be a male or non-pregnant, non-breastfeeding female between the ages of 18 and 55 years, inclusive, at the time of enrollment.
+* Must be willing and able to read, sign, and date the informed consent document.
+* Must demonstrate an understanding of the study with a passing score (90% or greater) on the Test of Understanding (TOU) by the third attempt, before study-related procedures are performed.
+* Must be willing and able to comply with study requirements and be available for follow-up visits for the entire study.
+* Must have the means to be contacted by telephone and/or video for remote follow-up visits as needed.
+* Must have a body mass index (BMI) ≥18.1 kg/m2 and \<35.0 kg/m2.
+* Have no previously documented COVID-19/SARS-CoV-2 infection
+* Must agree to refrain from donating blood or plasma outside of this study for the duration of participation in this study.
+* Must have acceptable screening laboratory findings: white blood cell (WBC), hemoglobin, platelet count, prothrombin (PT), prothrombin time (PTT), aspartate transaminase (AST), alanine transaminase (ALT), alkaline phosphatase (ALP), creatinine, and total bilirubin) within 14 days before Study Day 1.
+* Must be healthy based on the physician investigator's clinical judgment after review of past medical history, medication use, vital signs, and an abbreviated physical examination.
+* Biological females must have a negative urine pregnancy test at screening and a negative urine pregnancy test immediately before each study injection.
+* Biological females of reproductive capacity must use an acceptable method of contraception, beginning 30 days before enrollment, and until at least 60 days after the last study injection.
+
+Exclusion Criteria:
+
+* Has plans to become pregnant or is currently pregnant or breastfeeding.
+* Seropositive to COVID-19 by binding antibody titer assay.
+* Confirmed positive for active infection of human immunodeficiency virus (HIV), hepatitis C virus (HCV), or presence of Hepatitis B surface antigen (HbsAg).
+* Has known or suspected congenital or acquired immunodeficiency, or recent history or current use of immunosuppressive therapy.
+* History of organ and or

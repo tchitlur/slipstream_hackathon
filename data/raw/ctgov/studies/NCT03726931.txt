@@ -1,0 +1,22 @@
+Title: FES (16α-[18F]-Fluoro-17β-estradiol)-PET: Towards a New Standard to Stage Locally Advanced and Recurrent, Estrogen Receptor Positive (ER+) Breast Cancer? Pilot Study to Compare [18F]FES-PET and [18F]FDG-PET
+Official title: FES (16α-[18F]-Fluoro-17β-estradiol)-PET: Towards a New Standard to Stage Locally Advanced and Recurrent, Estrogen Receptor Positive (ER+) Breast Cancer? Pilot Study to Compare [18F]FES-PET and [18F]FDG-PET
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Breast Cancer
+Interventions: 18F-Fluorestradiol PET/CT scan (DIAGNOSTIC_TEST)
+Summary: Accurate staging is of great importance in patients with clinically locally advanced primary breast cancer (LABC, stage III) or locoregional recurrent (LRR) breast cancer for making a correct treatment plan. According to current guidelines, staging is performed with positron emission tomography (PET) using the 2-\[18F\]fluoro-2-deoxy-D-glucose (\[18F\]FDG) PET tracer, combined with diagnostic computed tomography (CT). However, previous studies have shown that this technique (with the current PET tracer) might not be sufficient for accurate staging. Specifically in low grade, estrogen receptor positive (ER+) breast cancer metastases can be missed due to the low metabolic activity, leading to low uptake of \[18F\]FDG. Therefore, there is a clinical need to improve staging procedures. 16α-\[18F\]-fluoro-17β-estradiol (\[18F\]FES), an ER-targeted PET tracer, allows imaging of ER+ tumor lesions regardless of their metabolic activity. Patients with clinically LABC and LRR have a 25-50% risk of distant metastases. Correct identification of distant metastases allows adaptation of the treatment plan to avoid burdensome treatment with surgery, systemic and radiotherapy in order to maintain q
+Eligibility: Inclusion Criteria:
+
+* Clinically LABC (stage III) or LRR breast cancer (all histological types) with ER+, HER2- and low grade according to Bloom Richardson criteria (grade 1-2)
+* Females aged 18 years or older at screening
+* Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0-2
+* Candidates for treatment with curative intent (patients are also allowed for inclusion in the current study if they have undergone recent surgery (\<6 weeks) for current breast cancer and require staging because of unexpected stage III disease)
+* In case \[18F\]FDG PET/CT has already been performed, patients can be included \<21 days after this scan
+* Estimated glomerular filtration rate (eGFR) ≥30 ml/min
+* Written and signed informed consent
+
+Exclusion Criteria:
+
+* History with another cancer within the last 5 years, except non-melanoma skin cancer
+* Undergoing treatment for current breast cancer such as (neo)adjuvant chemotherapy, hormonal therapy (only in case of Tamoxifen), radiotherapy or investigational drug therapy
+* Pregnancy or lactating women
+* Any medical, psychological or social condition that may interfere with the subject's safety and participation in the study, will lead to exclusion from this study

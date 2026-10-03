@@ -1,0 +1,18 @@
+Title: Predictors of Rupture Risk of Intracranial Aneurysms
+Official title: Predictors of Rupture Risk of Intracranial Aneurysms - Impact of Lipid Metabolism and Mitochondrial Function
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Subarachnoid Hemorrhage, Aneurysmal; Intracranial Aneurysm
+Interventions: none
+Summary: Patients admitted to Haukeland University Hospital with either UIA or aSAH underwent a measurement of bioelectrical impedance and body mass composition using InBody 10. Lipids and lipoproteins were collected from plasma. 60 patients in total were included in the study.
+Eligibility: Inclusion Criteria:
+
+* Admitted electively for treatment of unruptured intracranial aneurysm
+* Admitted acutely for aneurysmal subarachnoid hemorrhage
+* Informed consent form signed by patient or close relative
+
+Exclusion Criteria:
+
+* Pregnant
+* Pacemaker
+* Subarachnoid hemorrhage without identified aneurysmal rupture
+* Unruptured aneurysm with previous SAH/intracranial hemorrhage

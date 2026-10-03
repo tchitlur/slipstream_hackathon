@@ -1,0 +1,17 @@
+Title: Clinical Trial of Levodopa/Carbidopa ( Sinemet) Therapy in Angel Man Syndrome
+Official title: Clinical Trial of Levodopa/Carbidopa ( Sinemet) Therapy in Angel Man Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Angelman Syndrome
+Interventions: Levodopa (DRUG)
+Summary: The purpose of this study is to evaluate the safety and effectiveness (how well a drug works) of Carbidopa/levodopa (Sinemet) in individuals with Angelman syndrome. Sinemet is a medication that helps to raise dopamine levels (a chemical that signals nerve cells) in the brain and central nervous system. There is evidence that dopamine concentrations may be abnormal in patients with Angelman syndrome. This study is investigating whether Sinemet helps motor control, intellectual function and the achievement of developmental milestones in people with Angelman syndrome
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of Angelman syndrome confirmed by molecular genetic testing.
+* Age between 18 months and 16 years of age
+* Absence of any contraindication to the use of Sinemet as determined by the PI
+
+Exclusion Criteria:
+
+* Intractable epilepsy not responsive to anticonvulsive therapy in the patient with this syndrome.
+* History of prior drug intolerances/drug hypersensitivity to any agent that may be similar to L Dopa .
+* Progressively deteriorating EEG pattern.

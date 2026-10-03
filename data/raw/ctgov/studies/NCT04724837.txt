@@ -1,0 +1,24 @@
+Title: Zibotentan and Dapagliflozin for the Treatment of CKD (ZENITH-CKD Trial)
+Official title: A Phase 2b Multicentre, Randomised, Double-Blind, Active-Controlled, Parallel Group Dose-Ranging Study to Assess the Efficacy, Safety and Tolerability of Zibotentan and Dapagliflozin in Patients With Chronic Kidney Disease With Estimated Glomerular Filtration Rate (eGFR) ≥ 20 mL/Min/1.73 m^2
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Chronic Kidney Disease
+Interventions: Zibotentan (DRUG); Dapagliflozin (DRUG); Placebo (DRUG)
+Summary: The purpose of the study is to assess efficacy, safety and tolerability of treatment with zibotentan and dapagliflozin in combination and dapagliflozin 10 mg as monotherapy in participants with chronic kidney disease (CKD) with estimated glomerular filtration rate (eGFR) ≥ 20 mL/min/1.73 m\^2, and urinary albumin to creatinine ratio (UACR) ≥ 150 mg/g and ≤ 5000 mg/g.
+Eligibility: Inclusion Criteria:
+
+Participants are eligible to be included in the study only if all of the following criteria apply:
+
+* Diagnosis of Chronic kidney disease (CKD), defined as:
+
+  (a) eGFR chronic kidney disease epidemiology collaboration (CKD-EPI) ≥ 20 mL/min/1.73 m\^2, and (b) UACR ≥ 150 and ≤ 5000 mg albumin/g creatinine, based on a single first morning void spot urine sample at screening.
+* No current or prior (within 1 month of screening) medical treatment with an SGLT2i (sodium-glucose co-transporter 2 inhibitor) or any fixed dose combination with SGLT2i.
+* If Angiotensin-converting enzyme inhibitors (ACEi) and/or Angiotensin receptor blockers (ARB) and/or mineralocorticoid receptor agonist are prescribed, the dose must be stable ≥ 4 weeks before screening. Participants who have been deemed unable to tolerate ACEi or ARB therapy due to allergy or complications can be enrolled.
+* No current or prior treatment within 6 months prior to screening with cytotoxic therapy, immunosuppressive therapy or other immunotherapy for primary or secondary kidney disease.
+* Body mass index ≤ 40 kg/m\^2.
+* Male or female of non-childbearing potential.
+* Female participants must have a negative pregnancy test at screening, must not be lactating, and must be of non-childbearing potential, confirmed at screening by fulfilling one of the following criteria:
+
+  * Postmenopausal defined as amenorrhoea for at least 12 months or more following cessation of all exogenous hormonal treatments and follicle-stimulating hormone and luteinizing hormone levels in the postmenopausal range.
+  * Documentation of irreversible surgical sterilisation by hysterectomy, bilateral oophorectomy, or bilateral salpingectomy but not tubal ligation.
+* Male participants must be surgically sterile, abstinent, or in conjunction with a female sexual partner, using a highly effective method of contraception for the duration of the study (from the time they sign consent) and for 3 months after the last dose of investigational product to prevent any pregnancies. Male study participants must not donate or bank sperm during this same time period.
+* Capable of giving signed informed consent, as described in Append

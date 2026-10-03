@@ -1,0 +1,31 @@
+Title: Phenylbutyrate for Monogenetic Developmental and Epileptic Encephalopathy
+Official title: Phenylbutyrate for Monogenetic Developmental and Epileptic Encephalopathy
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: EARLY_PHASE1.
+Conditions: STXBP1 Encephalopathy With Epilepsy, SLC6A1 Neurodevelopmental Disorder; Developmental and Epileptic Encephalopathy
+Interventions: Glycerol Phenylbutyrate 1100 MG/ML [Ravicti] (DRUG)
+Summary: This study is to evaluate the use of glycerol phenylbutyrate for monogenetic developmental epileptic encephalopathies (DEEs). DEEs are characterized by epilepsy and developmental delay in early life.
+
+Two examples of DEEs are STXBP1 and SLC6A1, though there are dozens of others.
+
+STXBP1 Encephalopathy is a severe disease that can cause seizures and developmental delays in infants and children. SLC6A1 neurodevelopmental disorder is characterized by developmental delay and often epilepsy. Both STXBP1 encephalopathy and SLC6A1 neurodevelopmental disorder cause symptoms because there are not enough working proteins made by these genes.
+
+It is possible that a medication called phenylbutyrate may help the the remaining proteins work better for STXBP1, SLC6A1, and/or other similar DEEs caused by single genes (i.e. "monogenetic"). This study is to test if glycerol phenylbutyrate is safe and well tolerated in children with monogenetic DEE.
+Eligibility: \###### STXBP1 / SLC6A1 ARM
+
+Inclusion Criteria:
+
+* Diagnosed with STXBP1-E or SLC6A1-NDD; confirmed by laboratory report (i.e., a genetic test with a pathogenic or likely pathogenic mutation of STXBP1 or SLC6A1-NDD and a clinical picture consistent with the disorder, as determined by the Investigator). Patients with the appropriate clinical picture, a de novo variant of uncertain significance in STXBP1 or SLC6A1-NDD will also be eligible for enrollment, at the discretion of the Investigator.
+* Is between 2 months and 17 years of age, inclusive.
+* For children with STXBP1-E, the child must have had at least one seizure in the past 30 days prior to enrollment. If there is high demand for the study and we have several subjects to choose, we will prefer to enroll children with a high number of seizures in the past month.
+* For SLC6A1-NDD, seizures occur later in the course (typically middle of 1st decade) and so seizures will not be an entry criteria.
+* Is in general good health, aside from neurological consequences of STXBP1-E or SLC6A1-NDD, as determined by having no concurrent medical illness, in the opinion of the site investigator, that places the subject at increased risk of adverse drug reactions or that will interfere with study follow-up.
+* Has normal laboratory test results (≤ 1.5 × upper limit of normal \[ULN\]) for serum aminotransferase (aspartate aminotransferas \[AST\] and alanine aminotransferase \[ALT\]) concentrations and ammonia at Screening.
+* Has normal renal function, with estimated glomerular filtration rate \> 90 mL/minute/1.73 m2 at Screening (using the Chronic Kidney Disease Epidemiology Collaboration equation).
+* Has a platelet count \> 150 × 103/μL at Screening.
+* Has a QT interval corrected with Fridericia's formula (QTcF) \< 450 msec on the Screening EKG.
+* Parent or guardian is able to comprehend and willing to sign an informed consent form (ICF).
+
+Exclusion Criteria:
+
+* Has participated in another investigational study within 30 days or 5 half-lives of the test drug's biologic activity (whichever is longer) before the first study drug dose.
+* Has a QT interval corrected with Fridericia's formula (QTcF) ≥ 450 msec on the Screening EKG

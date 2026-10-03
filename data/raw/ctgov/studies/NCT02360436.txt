@@ -1,0 +1,16 @@
+Title: Analysis of the Glutathione Cycle in Children With Rett Syndrome
+Official title: EPITRA-14-001: Analysis of the Glutathione Cycle in Children With Rett Syndrome
+Status: WITHDRAWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome
+Interventions: none
+Summary: Analyis of the Glutathione Cycle in Children with Rett Syndrome
+Eligibility: Inclusion Criteria:
+
+* Age between 2 and 10, inclusive
+* Genetically-confirmed diagnosis of Rett syndrome with MeCP2 mutation
+* No change in dietary supplements in three months prior to the initial blood draw
+* No participation in interventional pharmaceutical clinical trials in prior 12 months
+
+Exclusion Criteria:
+
+* None other than meeting Inclusion criteria

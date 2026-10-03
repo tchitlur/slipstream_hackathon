@@ -1,0 +1,54 @@
+Title: Understanding Alpha-Synuclein Spread in Parkinson's Disease Through Blood Biomarkers and Neuroimaging
+Official title: From Genes to Virtual Brain: Defining the Pathogenic Mechanisms Promoting Alfa-synuclein Seeding and Spreading in Parkinson's Disease.
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Parkinson's Disease (PD); GBA1 Parkinson Disease; REM Sleep Behavior Disorder (iRBD)
+Interventions: brain imaging (DIAGNOSTIC_TEST); blood draw (PROCEDURE); Skin biopsy (PROCEDURE)
+Summary: The project aims to investigate how abnormal accumulation of alpha synuclein and its interaction with tau influence brain function across the Parkinson's disease (PD) spectrum, with particular focus on individuals carrying GBA1 mutations. This interventional, monocentric, cross sectional study includes patients with PD, individuals with idiopathic REM sleep behavior disorder, and participants without PD.
+
+All enrolled subjects will undergo clinical and neuropsychological assessments, blood based biomarker analyses related to neurodegeneration, synaptic and mitochondrial function, and multimodal brain MRI to evaluate brain structure, white matter integrity, and functional connectivity.
+
+The study aims to:
+
+* characterize the relationship between alpha synuclein/tau pathology and synaptic mitochondrial dysfunction;
+* identify biomarker and connectivity signatures across disease stages and genetic backgrounds;
+* integrate preclinical, clinical, biological, and imaging data to support the development of mechanistic models of alpha synuclein propagation.
+
+In parallel, preclinical studies in GBA PD mouse models and wild type mice will be used to investigate how changes in PD-related path
+Eligibility: Inclusion criteria for Parkinson's disease cohorts (GBA-PD and nonGBA-PD):
+
+* Diagnosis of PD according to MDS-PD criteria and, for the GBA-PD group, presence of heterozygous GBA mutations (with a balanced distribution of severe, risk, mild, and complex variants);
+* Disease duration between 3 and 7 years;
+* Disease stage according to Hoehn \& Yahr ≤ 3;
+* Absence of mutations in other known genes associated with PD susceptibility;
+* Age \> 18 Years;
+* Ability to understand and voluntarily sign informed consent and to comply with study procedures.
+
+Exclusion criteria for Parkinson's disease cohorts:
+
+* Diagnosis of atypical and/or secondary parkinsonism;
+* Diagnosis of dementia according to DSM-5 criteria;
+* Presence of other neurological disorders and/or essential tremor;
+* Presence of systemic inflammatory or infectious diseases, autoimmune diseases, or malignant tumors at the time of enrollment.
+
+Inclusion criteria for unaffected subjects (GBA-nonPD and nonGBA-nonPD):
+
+* Age \> 18 Years;
+* Ability to understand and voluntarily sign informed consent and to comply with study procedures;
+* No diagnosis of PD or other neurological disorders;
+* Presence of a heterozygous GBA mutation for the GBA-nonPD group and absence of such mutation for control subjects (nonGBA-nonPD);
+* Absence of mutations in other known genes associated with PD susceptibility.
+
+Exclusion criteria for unaffected subjects (GBA-nonPD and nonGBA-nonPD):
+
+* Presence of systemic inflammatory or infectious diseases, autoimmune diseases, or malignant tumors at the time of enrollment;
+* Diagnosis of atypical and/or secondary parkinsonism;
+* Diagnosis of dementia according to DSM-5 criteria.
+
+Inclusion criteria for subjects with idiopathic REM Sleep Behavior Disorder (GBA-iRBD and nonGBA-iRBD):
+
+* Diagnosis of idiopathic REM Sleep Behavior Disorder according to ICSD-3;
+* Age \> 18 Years;
+* Ability to understand and voluntarily sign informed consent and to comply with study procedures;
+* No diagnosis of PD or other neurological disorders;
+* Presence of a heterozygous GBA mutation for the GBA-iRBD group and absence of such mutation for the nonGBA-iRBD group;
+* Absence of mutations in other known genes ass

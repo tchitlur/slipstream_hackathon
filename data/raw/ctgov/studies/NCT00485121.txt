@@ -1,0 +1,33 @@
+Title: Effects of Ezetimibe Add-On to Statin Therapy on Adipokine Production in Obese and Metabolic Syndrome Patients With Atherosclerosis
+Official title: Effects of Ezetimibe Add-On to Statin Therapy on Adipokine Production in Obese and Metabolic Syndrome Patients With Atherosclerosis
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Metabolic Syndrome; Obesity; Coronary Artery Disease
+Interventions: Ezetimibe (DRUG)
+Summary: The purpose of this study is to investigate the effects of adding ezetimibe to statin therapy on levels of inflammatory markers and adipokines in patients with atherosclerosis disease and features of the metabolic syndrome,whose LDL-c remains above target (\> 2.0 mmol/L) despite statin monotherapy.
+
+We hypothesize that the addition of Ezetimibe (10mg per day for 12 weeks) to ongoing statin therapy in patients with atherosclerosis and features of the metabolic syndrome will favourably modify levels of inflammatory biomarkers and adipokines.
+Eligibility: Inclusion Criteria:
+
+* Patients on statin therapy (no dose change within past 4 weeks) with LDL-c \> 2mmol/l
+* Presence of atherosclerosis (CHD\* and/or cerebrovascular disease\*\* and/ or peripheral arterial disease (PAD)\*\*\*) plus at least one of the following:
+
+  1. Metabolic Syndrome (according to modified NCEP ATP III criteria, using waist circumference cut-offs of 80 cm for women and 90 cm for men in all subjects of Asian origin and cut-offs of 88 cm for women and 102 cm for men in all Caucasian subjects)
+  2. Obesity (BMI \> 30 Kg/m2 or waist circumference of \> 102 for men and \> 88 for women. For subjects of Asian origin the cutoff values should be 25, 90 and 80 respectively)
+
+     * CHD defined as (any one of the following): previous myocardial infarction; coronary angiography demonstrating at least 50% diameter stenosis in an epicardial coronary artery or its major branch; previous percutaneous transluminal coronary angioplasty (PTCA) with or without stent implantation (atherectomy included) or previous coronary artery bypass grafting (CABG)
+
+       * Cerebrovascular disease defined as (any one of the following): prior ischemic stroke, documented TIA, or flow-limiting stenosis in extracranial artery documented by Doppler or angiography.
+
+         * PAD defined as (any one of the following): prior peripheral arterial revascularization (PTA or surgery), amputation, or documented intermittent claudication with ABI \< 0.9
+
+Exclusion Criteria:
+
+* Women who are pregnant, breast feeding, or not using a reliable method of contraception
+* Clinical signs of congestive heart failure or measured left ventricular ejection fraction \<40%
+* Hemodynamically significant valvular heart disease or hypertrophic obstructive cardiomyopathy
+* Renal dysfunction (creatinine \> 1.8 x ULN)
+* Hepatic disease (liver function test \>1.5 x ULN \[upper limit normal\])
+* Other significant laboratory abnormalities that the investigator feels may compromise the patient's safety by participation in the study
+* History of systemic inflammatory disease (rheumatoid arthritis, inflammatory bowel disease, systemic lupus erythematous), myositis/myopathic process, or cancer)
+* HIV
+* Use of s

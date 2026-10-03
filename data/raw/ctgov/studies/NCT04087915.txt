@@ -1,0 +1,20 @@
+Title: Further Cardiovascular Outcomes Research With PCSK9 Inhibition in Subjects With High Risk Coronary Artery Disease (FORWARD)
+Official title: A Perspective, Cohort Study Assessing the Impact of Additional LDL-Cholesterol Reduction on Major Cardiovascular Events When Evolocumab is Used in Combination With Statin Therapy In Patients With High Risk Cardiovascular Disease
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Dyslipidemia; High Risk Coronary Artery Disease
+Interventions: Evolocumab (DRUG)
+Summary: The primary objective was to evaluate the effect of treatment with evolocumab on the risk for cardiovascular death, myocardial infarction, stroke, hospitalization for unstable angina, or coronary revascularization, whichever occurs first, in patients with high risk coronary artery disease.
+Eligibility: Inclusion Criteria:
+
+* Male or female ≥ 18 years of age
+* Coronary artery disease at high risk (Syntax Score ≥ 33)
+* Patients had to have a fasting LDL cholesterol level of 1.4 mmol per liter while they had been taken an optimized regimen of lipid-lowering therapy for at least 4 weeks, which was defined as preferably a high intensity statin but must have been at least atorvastatin at a dose of 20 mg daily or its equivalent, with or without ezetimibe.
+
+Exclusion Criteria:
+
+* New York Heart Association (NYHA) class III or IV, or last known left ventricular ejection fraction \< 30%
+* Uncontrolled hypertension
+* Uncontrolled or recurrent ventricular tachycardia
+* Untreated hyperthyroidism or hypothyroidism
+* Homozygous familial hypercholesterolemia
+* LDL or plasma apheresis

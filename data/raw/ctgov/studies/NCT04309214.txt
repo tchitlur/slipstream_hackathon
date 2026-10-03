@@ -1,0 +1,23 @@
+Title: Market Research - Acceptability Study for New MCT Fat Products
+Official title: Market Research - Acceptability Study for a Range of New MCT Based Products (Dr Schär - Kanso) Kanso DeliMCT 53% (Cream) Kanso DeliMCT 28% (Tomato or Mushroom) Kanso DeliMCT 21% (Cacaobar)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Ketosis; Epilepsy; Fatty Acid Oxidation Disorder; Malabsorption; Ketogenic Diet; Medium Chain Triglycerides
+Interventions: MCT fats (DIETARY_SUPPLEMENT)
+Summary: This is a market research, observational study to evaluate the tolerability and acceptability of MCT supplements for young children, young people and adults with intractable epilepsy, GLUT-1 or PDHD from 3 years to adulthood.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of epilepsy requiring a ketogenic or a specialist diet as part of their treatment.
+* Subjects new to taking or who are already taking an MCT product and are willing to try each of the 3 study products for 7 days each. 21 days taking product with 2 days between each new product trialled.
+* Those patients who have been taking MCT in their diet should do so for a minimum of 4 weeks before commencement of the study.
+* Patients aged 3 years of age to adulthood.
+* Written informed consent obtained from patient or parental caregiver.
+
+Exclusion Criteria:
+
+* Presence of serious concurrent illness
+* Investigator's uncertainty about the willingness or ability of the patient to comply with the protocol requirements
+* Participation in any other studies involving investigational or marketed products concomitantly or within two weeks prior to entry into the study
+* Any patients having taken antibiotics over the previous 2 weeks leading up to the study
+* Patients already on and MCT product who have been taking it in their diet for less than 4 weeks
+* Patients less than 3 years of age
+* Patients over 20 years.

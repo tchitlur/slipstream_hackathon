@@ -1,0 +1,20 @@
+Title: Effects of Adherence to a Mediterranean Diet Style on Cardiovascular Risk
+Official title: Effects of Adherence to a Mediterranean Diet Style on Cardiovascular Risk by Means Its Influence on Serum Levels of Ceramides and on Some Atherothrombotic Candidate Gene Expression
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Cardiovascular Risk Factor
+Interventions: low fat (BEHAVIORAL); mediterranean diet (BEHAVIORAL)
+Summary: Evaluation of the effect of adherence to Mediterranean Diet on some surrogate vascular markers and on gene expression of some cardiometabolic genes
+Eligibility: Inclusion Criteria:
+
+* at least two of the following eligibility criteria:
+
+  1. Type 2 diabetes mellitus
+  2. Arterial hypertension
+  3. BMI ≥ 25
+  4. Active smoking
+  5. Family history of early cardiovascular disease
+  6. Previous cardiovascular or cerebrovascular events (\> 6 months)
+
+Exclusion Criteria:
+
+* All patients with recent (\<6 months) cardiovascular or cerebrovascular events were excluded.

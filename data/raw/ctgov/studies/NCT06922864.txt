@@ -1,0 +1,27 @@
+Title: the Prediction Value of Combined Electroencephalographic and Electromyographic Response in Disorders of Consciousness
+Official title: the Prediction Value of Combined Electroencephalographic and Electromyographic Response in Disorders of Consciousness
+Status: NOT_YET_RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Disorders of Consciousness Due to Severe Brain Injury
+Interventions: thermal stimulation (OTHER); itch (OTHER)
+Summary: The goal of this observation study is to learn about the prediction value of combined electroencephalographic and electromyographic response in disorders of consciousness.
+
+The main ways of stimulation is thermal and itch. Six months after inclusion in the study, patients were classified according to the Glasgow Outcome Scale Extended, (GOSE).
+Eligibility: Inclusion Criteria:
+
+1. Age ≥18 years.
+2. Brain damage lasts 28 to 90 days.
+3. It meets the diagnostic criteria of unresponsive arousal syndrome/vegetative state (UWS/VS) or microconscious state (MCS).
+
+   Diagnostic criteria for UWS/VS: loss of cognitive function and inability to execute commands; There is a sleep-wake cycle; Inability to understand or express language; The ability to open eyes automatically or in response to stimulation; Can be purposeless eye following movement; The functions of hypothalamus and brainstem were basically preserved.
+
+   MCS diagnostic criteria: simple instructions can be executed; Yes/no (whether correct or not) can be expressed by gesture or speech; Have an understandable language; Purposeful behavior (including activity or emotional response) with more than one can diagnose MCS.
+4. All subjects' legal guardians sign informed consent forms.
+
+Exclusion Criteria:
+
+1. Spinal cord T1 and above plane injury, peripheral nerve injury and so on affect nerve conduction;
+2. The impact of injury on palms and soles of feet;
+3. History of developmental, psychiatric, or neurological disorders prior to brain injury.
+4. Deep sedation within 72 hours, including the use of general anesthesia.
+5. Increased intracranial pressure, liver/kidney failure, and hemodynamic instability within 72 hours.
+6. Severe co-existing systemic diseases with limited life expectancy.

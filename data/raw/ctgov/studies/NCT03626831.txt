@@ -1,0 +1,41 @@
+Title: Effect of Evolocumab on Vascular Function
+Official title: Randomized, Double-blind, Placebo Controlled, Parallel-group, Prospective Clinical Study to Analyse the Effect of Evolocumab on Vascular Function
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Atherosclerotic Cardiovascular Disease
+Interventions: Evolocumab Prefilled Syringe (DRUG); Placebos (DRUG)
+Summary: This is a phase IV, randomized (1:1), prospective, double-blind, placebo controlled, parallel-group, single center study at the Clinical Research Unit (CRC) of the Department of Nephrology and Hypertension, with its two separate locations:
+
+* Nürnberg, Kreuzburger Str. 2, 90471 Nürnberg, and
+* Erlangen, Ulmenweg 18, 91054 Erlangen
+
+The results of this study provide strong support for the concept that it is lower LDL-C levels that is key to achieving better outcomes, and that it is possible to achieve these on top of statin therapy (despite the much debated potential "pleiotropic" effects of statins).
+
+At least 65 patients will be randomized (1:1) and included (informed consent) in order to obtain 58 fully evaluable subjects (29 with evolocumab, 29 with placebo).
+
+Patients will be simultaneously recruited from investigator's outpatient clinics, referring physicians, and advertisement in local newspapers, and social media. Those patients that appear to potentially fulfill the inclusion criteria will be invited to a screening visit. After providing informed consent, patients will be tested for inclusion/exclusion criteria and for feasibility of vascular measurements (in particular to 
+Eligibility: Inclusion Criteria:
+
+* Signed informed consent in written form
+* Male or female 40 - 80 years
+* History of clinically evident atherosclerotic cardiovascular disease as evidenced by ANY of the following:
+* diagnosis of coronary artery disease as evidenced by acute coronary syndrome, myocardial infarction (MI), coronary stent implantation, coronary stenosis ≥50% by coronary angiography
+* diagnosis of non-hemorrhagic stroke or transient ischemic attack (TIA)
+* symptomatic peripheral arterial disease (PAD), as evidenced by intermittent claudication with ankle-brachial index (ABI) \< 0.85, or peripheral arterial revascularization procedure, or amputation due to atherosclerotic disease, or artery stenosis ≥50% by angiography
+* Fasting LDL-C ≥ 70 mg/dL (≥ 1.8 mmol/L) or non-HDL-C ≥ 100 mg/dL (≥ 2.6mmol/L) on optimized background lipid lowering therapy (please see Appendix 14.3.)
+* Stable background lipid lowering therapy for at least 4 weeks (please see Appendix 14.3)
+* Most recent fasting triglycerides ≤ 400 mg/dL (4.5 mmol/L) by central laboratory before randomization
+
+Exclusion Criteria:
+
+* Inability to image the brachial artery and to perform FMD
+* Subjects with statin intolerance
+* Known or suspected homozygous familial hypercholesterolemia (FH)
+* Subject must not be randomized within 4 weeks of their most recent MI or stroke
+* NYHA class III or IV, or last known left ventricular ejection fraction \< 30%
+* Atrial fibrillation
+* Known hemorrhagic stroke at any time
+* Uncontrolled or recurrent ventricular tachycardia
+* Planned or expected cardiac surgery or revascularization within 3 months after randomization
+* Uncontrolled hypertension defined as sitting pSBP \> 180 mmHg or pDBP \> 110 mmHg
+* Use of cholesteryl ester transfer protein (CETP) inhibition treatment, mipomersen, or lomitapide within 12 months prior to randomization. Fenofibrate therapy must be stable for at least 6 weeks prior to final screening at a dose that is appropriate for the duration of the study in the judgment of the investigator. Other fibrate therapy (and derivatives) are prohibited
+* Prior use of PCSK9 inhibition treatment other than evolocumab or use of evolocumab \< 12 weeks prior to fin

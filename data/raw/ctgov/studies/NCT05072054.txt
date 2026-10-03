@@ -1,0 +1,27 @@
+Title: Comparison of Effects of Atorvastatin Versus Rosuvastatin on Cardiac Function in Heart Failure Patients
+Official title: Comparison of Effects of Atorvastatin Versus Rosuvastatin Treatment on Cardiac Function and Inflammation in Patients With Chronic Heart Failure With Reduced Ejection Fraction: A Randomised, Double Blind Clinical Study
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Heart Failure With Reduced Ejection Fraction
+Interventions: Atorvastatin Oral Tablet (DRUG); Rosuvastatin Oral Tablet (DRUG)
+Summary: Statins have a protective effect in patients with established heart failure because of their lipid-lowering and pleiotropic effects. There is no randomized controlled trial comparing lipophilic versus hydrophilic statins in these patients (head to head comparison). The best evidence so far is from a meta-analysis in which the authors did an adjusted indirect comparison between lipophilic statins and rosuvastatin and found that lipophilic statins were associated with significantly lower incidence of all-cause mortality, cardiovascular mortality, and hospitalization for worsening heart failure compared to rosuvastatin (hydrophilic statin) among patients with heart failure. So, the investigators plan to conduct a randomized controlled trial comparing the effects of atorvastatin and rosuvastatin on cardiac function in patients with heart failure with reduced ejection fraction.
+Eligibility: Inclusion Criteria:
+
+1. Either gender,18-65 years of age
+2. Left ventricular ejection fraction \<40% as assessed by 2D echocardiography
+3. NYHA class II-III
+4. CHF patients currently optimized on standard treatment for at least 1 month before enrolment and on an OPD basis treatment
+5. Ready to give written informed consent
+6. Willing to comply with the study protocol
+
+Exclusion Criteria:
+
+1. Known hypersensitivity to statins
+2. NYHA class IV patient
+3. Serum creatinine \>3 mg/dl
+4. Significant liver disease: SGOT/SGPT \>3 times the upper limit of normal (ULN) or \>2.5 times the ULN in symptomatic patients
+5. Patient on an enzyme inducer or inhibitor currently
+6. Any malignancy or patient on chemotherapeutic agents
+7. Pregnant or lactating females
+8. Patients who have participated in another trial within the past 3 months
+9. Patient with uncontrolled diabetes mellitus (HbA1c \>7 g%)/ uncontrolled hypertension (BP \>140/90 mmHg despite in ≥3 antihypertensive drugs)
+10. Patient with HIV/ HBV / HCV infection

@@ -1,0 +1,23 @@
+Title: Dietary Supplements for the Treatment of Angelman Syndrome
+Official title: Efficacy of a Therapeutic Treatment Trial in Angelman Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Angelman Syndrome; Nervous System Diseases
+Interventions: Betaine (DRUG); Creatine (DRUG); Metafolin (DRUG); Vitamin B12 (DRUG)
+Summary: Angelman syndrome (AS) is a complex genetic disorder that affects the nervous system. The purpose of this study is to determine the effectiveness of certain dietary supplements in treating the symptoms of AS.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of AS
+* In stable condition with relatively good control of seizures
+* Willing to comply with treatment, study visit schedule, and study assessments
+* Willing to take oral or G-tube medication
+* Willing to be contacted monthly during the course of the study
+* Parent or guardian willing to provide informed consent
+
+Exclusion Criteria:
+
+* History of liver or kidney disease
+* Currently being treated for a serious acute illness
+* Known hypersensitivity to any of the study drugs
+* Received high-dose folate drug treatment in the 12 months prior to study entry
+* Other significant medical problems, including those involving the liver, kidney, or heart
+* Other comorbidities, genetic disorders, or extreme prematurity; children with autism are not excluded

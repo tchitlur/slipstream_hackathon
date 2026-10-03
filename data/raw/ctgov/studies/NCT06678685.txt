@@ -1,0 +1,25 @@
+Title: Spironolactone Improved Children With Gene Mutations Related to NCOR
+Official title: An Exploratory Study of Spironolactone Tablets for the Treatment of Children With Gene Mutations Related to NCOR
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: NCOR Gene Mutations; Spironolactone; ASD
+Interventions: .spironolactone (DRUG)
+Summary: MECP2, a key transcriptional regulator, has been shown to interact with the NCOR1/2 complex to modulate gene expression. Specifically, MECP2 recruits the NCOR complex to specific genomic loci, facilitating histone deacetylation and chromatin remodeling, which are essential for the proper regulation of genes involved in synaptic function and neuronal maturation. Disruptions in the MECP2-NCOR interaction have been implicated in neurodevelopmental disorders, including Rett syndrome and autism spectrum disorder (ASD), highlighting the collaborative role of MECP2 and the NCOR1/2 complex in maintaining neuronal homeostasis.
+
+Building on this, NCOR1/2 constitutes the NCOR complex,interacts with many different nuclear receptors to produce special physiological effects. The receptors further recruit epigenome-modifying enzymes that are involved in the transcription of multiple genes involved in neurotransmission and synaptic plasticity. Studies of mice with gene knockout and autistic with NCOR mutations have found that both exhibit clinical symptoms characteristic of ASD, such as deficits in social interaction, spatial learning, and impaired recognition memory. Further study revealed that t
+Eligibility: Inclusion Criteria:
+
+1. ADOS-2 diagnostic criteria for autistic children
+2. Patients with NCOR related gene mutation detected by whole exon test;
+3. Age: 3-10 years old;
+4. The subject and (or) guardian sign the informed consent, agreeing that the researcher will cooperate with the clinical trial process and collect clinical data and peripheral blood and urine samples;
+
+Exclusion Criteria:
+
+1. have other pathogenic mutations (confidence higher than the NCOR related mutation);
+2. Boys over 10 years old;
+3. Allergic to spironolactone, used spironolactone one month before enrollment;
+4. Hyperkalemia, serum potassium concentration \> 5.5mmol/L;
+5. Renal insufficiency;
+6. Used related drugs one month before enrollment: potassium supplement, angiotensin-converting enzyme inhibitor, angiotensin receptor blocker, digoxin, coletenamine, acetylsalicylic acid, abiraterone;
+7. Fever (body temperature above 37.3°);
+8. Clinically significant metabolic, hematological, liver, immune, urological, endocrine, neurological, pulmonary, psychiatric, skin, allergic, renal, or other major conditions in the determination of ASD that may affect the interpretation of study findings or patient safety.

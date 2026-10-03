@@ -1,0 +1,27 @@
+Title: Safety and Efficacy of HMI-203 in ERT-Treated Adults With MPS II
+Official title: A Phase 1 Open-Label Dose Escalation Study to Evaluate the Safety and Efficacy of HMI-203 in ERT-Treated Adults With Mucopolysaccharidosis Type II (MPS II) (juMPStart Trial)
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Mucopolysaccharidosis II
+Interventions: Genetic HMI-203 (BIOLOGICAL)
+Summary: Phase 1, open-label, sequential ascending dose-escalation study. Designed to evaluate the safety and efficacy of a single IV infusion of investigational gene therapy HMI-203. Males, ages 18 to 45 years inclusive, with MPS II (Hunter syndrome) currently receiving idursulfase ERT (or the equivalent) are eligible to participate. Participants will be followed for safety and efficacy for 5 years.
+Eligibility: Key Inclusion Criteria:
+
+* Adult males 18-45 years of age at the time of informed consent
+* Has capacity and is able to understand the purpose and risks of the study and is willing, able and committed to comply with all study procedures for the duration of the trial (a total of 5 years after gene therapy administration)
+* Diagnosis of MPS II based on historically decreased I2S enzyme activity and elevated urine GAGs and/or presence of hemizygous IDS pathogenic variant
+* Kaufman Brief Intelligence Test-Second Edition (KBIT2) score ≥ 80
+* Compliance with regular treatments of ERT for MPS II for at least 12 months prior to enrollment
+* Clinically stable relative to urinary GAG levels, ambulation, and cardiopulmonary status for 12 months preceding enrollment
+
+Key Exclusion Criteria:
+
+* Multiple sulfatase disorder as determined by abnormal activity of another lysosomal sulfatase
+* Unresponsive and/or intolerant to idursulfase treatment
+* History of BMT, stem cell transplant, or gene therapy
+* Presence of anti-capsid neutralizing antibodies
+* ALT or AST \> ULN; Total or Direct bilirubin \> ULN
+* International normalized ratio (INR) \>1.2 ULN
+* Hematology values below the normal range
+* Hemoglobin A1c ≥ 6.5% or fasting glucose ≥126 mg/dL
+* Contraindication to corticosteroid or tacrolimus use
+* Any condition that would not allow the potential participant to complete follow-up examinations during the course of the study or, in the opinion of the investigator, makes the potential participant unsuitable for the study

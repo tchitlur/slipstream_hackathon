@@ -1,0 +1,34 @@
+Title: An Open-Label Study of Trofinetide for the Treatment of Girls Two to Five Years of Age Who Have Rett Syndrome
+Official title: An Open-Label Study of Trofinetide for the Treatment of Girls Two to Five Years of Age Who Have Rett Syndrome
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: Rett Syndrome
+Interventions: Trofinetide (DRUG)
+Summary: To investigate the safety and tolerability of long-term treatment with oral trofinetide in girls with Rett syndrome
+Eligibility: Inclusion Criteria:
+
+* Female subject
+
+  1. 2 to 4 years of age and body weight ≥9 kg and \<20 kg at Screening OR
+  2. 5 years of age and body weight ≥9 kg and \<12 kg at Screening
+* Can swallow the study medication provided as a liquid solution or can take it by gastrostomy tube
+* The subject's caregiver is English-speaking and has sufficient language skills to complete the caregiver assessments
+* Has classic/typical Rett syndrome (RTT) or possible RTT according to the Rett Syndrome Diagnostic Criteria
+* Has a documented disease-causing mutation in the MECP2 gene
+* Has a stable pattern of seizures, or has had no seizures, within 8 weeks prior to Screening
+* Subject and caregiver(s) must reside at a location to which study drug can be delivered and have been at their present residence for at least 4 weeks prior to Screening
+
+Exclusion Criteria:
+
+* Has been treated with insulin within 12 weeks of Baseline
+* Has current clinically significant cardiovascular, endocrine (such as hypo- or hyperthyroidism, Type 1 diabetes mellitus, or uncontrolled Type 2 diabetes mellitus), renal, hepatic, respiratory or gastrointestinal disease (such as celiac disease or inflammatory bowel disease) or has major surgery planned during the study
+* Has a history of, or current, cerebrovascular disease or brain trauma
+* Has significant, uncorrected visual or uncorrected hearing impairment
+* Has a history of, or current, malignancy
+* Has any of the following:
+
+  1. QTcF interval of \>450 ms at Screening or Baseline
+  2. History of a risk factor for torsades de pointes (e.g., heart failure or family history of long QT syndrome)
+  3. History of clinically significant QT prolongation that is deemed to put the subject at increased risk of clinically significant QT prolongation
+  4. Other clinically significant finding on ECG at Screening or Baseline
+
+Additional inclusion/exclusion criteria apply. Patients will be evaluated at baseline to ensure that all criteria for study participation are met. Patients may be excluded from the study based on these assessments (and specifically, if it is determined that their baseline health and condition do not meet all prespecified entry criteria).

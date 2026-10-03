@@ -1,0 +1,22 @@
+Title: Topical Rapamycin Therapy to Alleviate Cutaneous Manifestations of Tuberous Sclerosis Complex (TSC) and Neurofibromatosis I (NF1)
+Official title: Topical Rapamycin Therapy to Alleviate Cutaneous Manifestations of Tuberous Sclerosis Complex and Neurofibromatosis 1
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Tuberous Sclerosis; Neurofibromatoses; Angiofibroma; Neurofibroma
+Interventions: Skincerity (DRUG); Skincerity plus sirolimus/rapamycin (DRUG); Skinercity plus sirolimus/rapamycin (DRUG)
+Summary: This study is a prospective, randomized, double-blind, placebo-controlled evaluation of the safety of a topically applied formulation of rapamycin to cutaneous fibromatous lesions in subjects with Tuberous Sclerosis Complex (TSC) and Neurofibromatosis I (NF1). Subjects will apply either a Polyvinylidene fluoride (PVDF) coating (Skincerity) containing rapamycin or the PVDF coating alone nightly to fibromatous lesions for a duration of six months.
+
+The primary goal of this study is to evaluate the safety of the topical product in patients with TSC and NF1. The secondary goal of this study is to evaluate the effectiveness of the topical product for treatment of cutaneous fibromatous lesions.
+Eligibility: Inclusion Criteria:
+
+* Subject is willing and able to comply with all trial requirements
+* Subject is male or female and over 13 years of age
+* Subject has a diagnosis of either TSC or NF1 and has visible fibromatous lesions (angiofibromas or neurofibromas)
+* Female subjects of child-bearing potential must not be pregnant and must agree to use appropriate contraceptive methods for the duration of the trial
+
+Exclusion Criteria:
+
+* Subject is currently receiving therapy with rapamycin or sirolimus
+* Subject is receiving any form of immunosuppression or has previously experienced immune dysfunction
+* Subject is currently participating in or has participated within the last 30 days in any clinical trial involving an investigational drug
+* Subject has a known hypersensitivity to either the PVDF coating (Skincerity®) or rapamycin
+* Subject is a pregnant or nursing female

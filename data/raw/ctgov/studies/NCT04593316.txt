@@ -1,0 +1,21 @@
+Title: Study of Risk Factors for the Occurrence and Severity of Exertional Heatstroke in the Military Environment
+Official title: Study of Risk Factors for the Occurrence and Severity of Exertional Heatstroke in the Military Environment
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Heat Stroke
+Interventions: Saliva collection (OTHER); Questionnaires (BEHAVIORAL); Ingestible core temperature capsule intake (OTHER); Physical exercise (OTHER); Heart rate monitoring (OTHER); Core temperature monitoring (OTHER)
+Summary: Although the circumstances of onset and management of exertional heatstroke have been identified for several years, its pathophysiology remains imperfectly understood. Exertional heatstroke is the result of both extrinsic (i.e. environmental) and intrinsic (i.e. individual) contributing factors.
+
+Extrinsic factors are well known (high ambient temperature and hygrometry, poorly "breathable" clothing, intense and prolonged physical effort) but some of them may be observed in milder conditions. In the French Armed Forces, 25% of the exertional heatstrokes that have been reported between 2005 and 2011 occurred below 17°C.
+
+Intrinsic factors, on the other hand, are numerous and less consensual, partly because of the imperfect knowledge of exertional heatstroke physiopathology. Potential factors include a thermoregulatory defect (inability to maintain a temperature plateau during an effort) and several genetic mutations may also contribute to explain a propensity to present an exertional heatstroke. While exertional heatstroke is clearly not a monogenic pathology, the association of several polymorphisms could contribute to this vulnerability. Among the genes that have been explored, mut
+Eligibility: Inclusion Criteria:
+
+* Active military
+* Between 18 and 45 years old
+* Ability to the walk/run test
+
+Exclusion Criteria:
+
+* Ongoing drug treatment (for the control group only),
+* BMI greater than or equal to 30,
+* Contraindication to the ingestion of a core temperature capsule

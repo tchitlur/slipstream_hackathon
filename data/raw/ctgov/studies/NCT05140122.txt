@@ -1,0 +1,21 @@
+Title: LEONIDaS Caregivers Study
+Official title: The LEONIDaS(Long Term Exploration of Outcomes From New Interventions in Dravet Syndrome) Caregivers Study
+Status: WITHDRAWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Dravet Syndrome; Depression; Anxiety
+Interventions: Multiple (DRUG); Multiple (OTHER)
+Summary: Dravet syndrome is a rare form of severe epilepsy that begins in the first year of life and is associated with frequent and/or prolonged seizures. Individuals with Dravet Syndrome often experience a range of comorbidities, including behavioral and developmental delays, movement and balance issues, sleep difficulties, chronic infections, and growth and nutritional issues. Patients with Dravet syndrome are at high risk of death due to SUDEP (Sudden Unexpected Death in Epilepsy), prolonged seizures, seizure-related accidents, and infections.
+
+Due to the severity of this condition, parents of children with Dravet syndrome are typically highly involved in their child's 24-hour care and this has a considerable impact on family life. Recent studies have highlighted the profound impact that such caregiving has on physical health, mental health, social function and financial resources. In particular, caregivers report high levels of stress and anxiety, fatigue, depression and social isolation. However, there is currently a lack of effective interventions to reduce the negative impact of caregiving on caregivers.
+
+The aim of this study is to prospectively study carers of individuals with Dra
+Eligibility: Inclusion Criteria:
+
+* Willing and able to give informed consent for participation in the study
+* Aged 18 years or above
+* Primary caregiver of an individual with a medical history supporting a clinical diagnosis of Dravet syndrome
+* Able to access the internet
+
+Exclusion Criteria:
+
+* Inability to provide informed written consent
+* Another caregiver of the same individual with Dravet is already enrolled in the study

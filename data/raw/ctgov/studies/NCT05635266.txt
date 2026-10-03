@@ -1,0 +1,19 @@
+Title: Tissue Repository Providing Annotated Biospecimens for Approved Investigator-directed Biomedical Research Initiatives
+Official title: A Single-Site Tissue Repository Providing Annotated Biospecimens for Approved Investigator-directed Biomedical Research Initiatives
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Age-Related Macular Degeneration; Allergies; Alpha-Gal Syndrome; Alzheimer Disease; Amyloidosis; Ankylosing Spondylitis; Arthritis; Alopecia Areata; Asthma; Atopic Dermatitis; Autism; Autoimmune Hepatitis; Behcet's Disease; Beta-Thalassemia; Cancer; Celiac Disease; Kidney Diseases; COPD; Crohn Disease; Cystic Fibrosis; Diabetes; Dravet Syndrome; DMD; Fibromyalgia; Graves Disease; Thyroid Diseases; Hepatitis; Hidradenitis Suppurativa; ITP; Leukemia; ALS; Lupus or SLE; Lymphoma; Multiple Sclerosis; Myasthenia Gravis; Heart Diseases; Parkinson Disease; Pemphigus Vulgaris; Cirrhosis; Psoriasis; Schizophrenia; Scleroderma; Sickle Cell Disease; Stroke; Ulcerative Colitis; Vasculitis; Vitiligo
+Interventions: Specimen sample (DIAGNOSTIC_TEST)
+Summary: To collect, preserve, and/or distribute annotated biospecimens and associated medical data to institutionally approved, investigator-directed biomedical research to discover and develop new treatments, diagnostics, and preventative methods for specific and complex conditions.
+Eligibility: Inclusion Criteria:
+
+* Persons 18 to 85 years of age at the date of informed consent.
+* If presenting with a history of a specific condition, the diagnosis is confirmable in the medical record or may be confirmed using other forms of verification including self-reporting.
+* Understands the procedures and requirements of the study by providing written informed consent (or verbal assent if a legally authorized representative will sign the ICF), including consent for authorization for protected health information disclosure.
+
+Exclusion Criteria:
+
+* Persons younger than 18 years of age or older than 85 years of age at the date of informed consent.
+* Receipt of blood products 30 days before the study blood draw.
+* Receipt of an investigational (unapproved) drug 30 days before the study blood draw.
+* A confirmable diagnosis of any medical condition that would increase potential phlebotomy risks.
+* Has donated a unit of blood within the last 2 months at the date of informed consent.

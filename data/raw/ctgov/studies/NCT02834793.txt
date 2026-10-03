@@ -1,0 +1,29 @@
+Title: Study of Perampanel as Adjunctive Treatment for Inadequately Controlled Seizures Associated With Lennox-Gastaut Syndrome
+Official title: A Multicenter, Double-Blind, Randomized, Placebo-Controlled Trial With an Open-Label Extension Phase of Perampanel as Adjunctive Treatment in Subjects at Least 2 Years of Age With Inadequately Controlled Seizures Associated With Lennox-Gastaut Syndrome
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Lennox-Gastaut Syndrome (LGS)
+Interventions: Placebo (DRUG); Perampanel (DRUG)
+Summary: This study is being conducted to demonstrate that perampanel given as adjunctive anti-epileptic treatment is superior to placebo in reducing the number of drop seizures in participants with inadequately controlled seizures associated with Lennox-Gastaut Syndrome (LGS).
+Eligibility: Inclusion Criteria:
+
+* Participants must have a diagnosis of LGS as evidenced by:
+
+  1. more than one type of generalized seizure, including drop seizures (atonic, tonic, or myoclonic) for at least 6 months before Visit 1;
+  2. an electroencephalogram (EEG) reporting diagnostic criteria for LGS at some point in their history (abnormal background activity accompanied by slow, spike, and wave pattern \<2.5 hertz \[Hz\]).
+* Participants must be at least 2 years old at the time of consent/assent
+* Participants must have been \<11 years old at the onset of LGS
+* Participants must have experienced an average of at least 2 drop seizures per week in the 4-week Baseline Period preceding randomization
+* Participants must have been receiving 1 to 4 concomitant antiepileptic drugs (AEDs) at a stable dose for at least 30 days before Visit 1 (vagal nerve stimulation (VNS) and ketogenic diet do not count as AEDs). Use of cannabidiol (CBD) products is allowed and is counted as one of the 4 maximum allowed concomitant AEDs. CBD dose and product must have remained stable for at least 30 days before Visit 1 and is to remain the same throughout the course of the Core Study
+* In the investigator's opinion, parents or caregivers must be able to keep accurate seizure diaries
+* Body weight at least 8 kilogram (kg)
+
+Exclusion Criteria:
+
+* Presence of progressive neurological disease
+* Presence of drop seizure clusters where individual seizures cannot be reliably counted (seizure clusters are defined as ≥2 drop seizures with \<5 minutes between any 2 consecutive seizures)
+* Prior treatment with perampanel with discontinuation due to safety issues (related to perampanel)
+* Prior treatment with perampanel within 30 days before Visit 1
+* Evidence of clinically significant disease (eg, cardiac, respiratory, gastrointestinal, renal disease, hepatic disease) that in the opinion of the investigator(s) could affect the participant's safety or study conduct
+* Scheduled for epilepsy-related surgery or any other form of surgery during the projected course of the study
+* Ketogenic diet and VNS, unless stable and ongoing for at least 30 days before Visit 1
+* Treatment with an investigational drug or 

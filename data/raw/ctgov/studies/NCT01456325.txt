@@ -1,0 +1,29 @@
+Title: A Study of Onartuzumab (MetMAb) in Combination With Tarceva (Erlotinib) in Participants With Met Diagnostic-Positive Non-Small Cell Lung Cancer Who Have Received Chemotherapy For Advanced or Metastatic Disease (MetLung)
+Official title: A Randomized, Phase III, Multicenter, Double-Blind, Placebo-Controlled Study Evaluating Efficacy and Safety of Onartuzumab (Metmab) in Combination With Tarceva (Erlotinib) in Patients With Met Diagnostic-Positive Non-Small Cell Lung Cancer Who Have Received Standard Chemotherapy for Advanced/Metastatic Disease
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Non-Squamous Non-Small Cell Lung Cancer
+Interventions: Erlotinib (DRUG); Onartuzumab (MetMab) (DRUG); Placebo (DRUG)
+Summary: This randomized, multicenter, double-blind, placebo-controlled study will evaluate the efficacy and safety of onartuzumab (MetMAb) in combination with Tarceva (erlotinib) in participants with incurable non-small cell lung cancer identified to be Met diagnostic-positive. Participants will be randomized to receive either onartuzumab (MetMAb) or placebo in combination with erlotinib. Anticipated time on study treatment is until disease progression or unacceptable toxicity occurs.
+Eligibility: Inclusion Criteria:
+
+* Adult participants, greater than or equal to (\>/=) 18 years of age
+* Eastern Cooperative Oncology Group (ECOG) performance status 0-1
+* Histologically or cytologically confirmed incurable Stage IIIb/IV NSCLC tumor
+* Met diagnostic-positive status tested by immunohistochemistry (IHC)
+* Results of endothelial growth factor receptor (EGFR)-activating mutation testing
+* Radiographic evidence of disease
+* Prior treatment with at least one platinum-based line of treatment (for stage IIIb/IV) and no more than one additional line of chemotherapy treatment; the last dose of chemotherapy must have been administered \>/= 21 days prior to Day 1
+* availability of tissue sample for diagnostic testing is required
+
+Exclusion Criteria:
+
+* More than 30 days of exposure to an investigational or marketed agent that can act by EGFR inhibition, or a known EGFR-related toxicity resulting in dose modifications (EGFR inhibitors including but not limited to gefitinib, erlotinib and cetuximab)
+* Brain metastases or spinal cord compression not definitively treated with surgery and/or radiation, or previously treated central nervous system (CNS) metastases or spinal cord compression without evidence of stable disease for \>/= 14 days
+* History of another malignancy in the previous 3 years, unless cured by surgery alone and continuously disease free for at least 3 years; participants with prior history of non-invasive cancers are eligible
+* Inadequate hematological, biochemical or organ function
+* Significant history of cardiac disease
+* Serious active infection at time of randomization or other serious underlying medical conditions that would impair the ability of the participant to receive protocol treatment
+* Any inflammatory changes of the surface of the eye
+* Clinically significant gastro-intestinal disease, including uncontrolled inflammatory gastro-intestinal diseases
+* Pregnant or lactating women
+* Positive for human immunodefinciency (HIV) infection

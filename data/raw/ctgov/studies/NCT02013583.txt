@@ -1,0 +1,15 @@
+Title: The Glucose Transporter Type I Deficiency (G1D) Registry
+Official title: The Glucose Transporter Type I Deficiency (G1D) Registry
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: GLUT1 Deficiency Syndrome; Glucose Transporter Type 1 Deficiency Syndrome; Glucose Transporter Type1 (GLUT-1) Deficiency; GLUT-1 Deficiency Syndrome
+Interventions: No intervention (OTHER)
+Summary: The purpose of this protocol is to create a registry for patients diagnosed with Glucose Transporter Type 1 Deficiency (G1D), or patients experiencing symptoms consistent with G1D but not yet diagnosed, to enter medical information for physicians and other health researchers to analyze to increase the understanding of G1D and any sub-diagnoses.
+Eligibility: Inclusion Criteria:
+
+* Males and females
+* G1D diagnosis
+* Patients experiencing symptoms of G1D but who have not yet received a diagnosis
+
+Exclusion Criteria:
+
+* Patients who are not experiencing any symptoms of G1D

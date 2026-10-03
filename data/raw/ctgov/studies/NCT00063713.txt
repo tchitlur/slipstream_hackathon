@@ -1,0 +1,28 @@
+Title: VELCADE in Subjects With Relapsed or Refractory Mantle Cell Lymphoma
+Official title: A Phase 2 Study of VELCADE in Subjects With Relapsed or Refractory Mantle Cell Lymphoma
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Mantle Cell Lymphoma
+Interventions: VELCADE TM (bortezomib) for Injection (DRUG)
+Summary: The purpose of this study is to find out whether treatment with VELCADE will increase the time it takes for lymphoma to get worse.
+Eligibility: Inclusion Criteria
+
+* 18 years of age or older
+* Confirmed diagnosis of mantle cell lymphoma
+* Documented relapse or progressive disease following 1 or 2 prior lines of anti-cancer therapy. At least one of those regimens must have included an anthracycline or mitoxantrone. Relapsed or progressive disease, since last therapy must be documented by new lesions or objective evidence of the progression of existing lesions.
+* At least 1 measurable or evaluable site of disease
+* Voluntary consent
+
+Exclusion Criteria
+
+* Previous treatment with VELCADE
+* Any experimental or anti-cancer therapy within 3 weeks before the first dose of study drug
+* Radiation therapy within 3 weeks before the first dose of study drug
+* Major surgery with 2 weeks before the first dose of study drug
+* Rituximab, Campath, or other unconjugated therapeutic antibody within 4 weeks before the first dose of study drug
+* Radioimmunotherapy or other toxin immunoconjugates such as Zevalin or Bexxar within 10 weeks before the first dose of study drug
+* History of allergic reactions to boron or mannitol compounds
+* Diagnosed or treated for another malignancy other than mantle cell lymphoma with 5 years before the first dose of study drug
+* Active systemic infection requiring treatment
+* Women patients must not be pregnant or breast-feeding, confirmed through pregnancy test obtained during screening (this test is not required for women who are post-menopausal or surgically sterile)
+* Serious medical or psychiatric illness likely to interfere with participation in this clinical study
+* Concurrent treatment with another investigational drug or participation in non-treatment studies is not allowed if it interferes with participation in this clinical study

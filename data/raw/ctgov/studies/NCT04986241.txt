@@ -1,0 +1,21 @@
+Title: The Association of Statins on Cardiorespiratory Fitness and Exercise Adaptation
+Official title: Retrospective Study of the Association of Statins on Cardiorespiratory Fitness and Exercise Adaptation: Database of the Cardiovascular Rehabilitation and Exercise Physiology Department of Heart Institute (InCor)
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Statin Adverse Reaction
+Interventions: Statin (DRUG); Physical activity (OTHER); Sedentary (OTHER)
+Summary: Statins are part of one of the largest groups of drugs prescribed worldwide used in the treatment of dyslipidemia. Despite the good therapeutic results of statins and their good tolerance on the part of patients, some adverse effects may occur during treatment. In skeletal muscle, statins can lead to mitochondrial dysfunction characterized by decreased adenosine triphosphate production, decreased oxidative phosphorylation capacity, increased concentration of reactive oxygen species, and decreased mitochondrial biogenesis.
+
+Cardiorespiratory fitness is a physiological indicator that corresponds to the integration of the cardiovascular, pulmonary, muscular, and cellular (mitochondria) systems in capturing, transporting and using oxygen, commonly expressed as the maximum oxygen consumption. Several studies show a strong association of lower cardiorespiratory capacity with an increased risk of mortality from cardiovascular disease and mortality from all causes.
+
+Combining the use of statins with lifestyle changes has been suggested in many medical guidelines. Physical exercise plays a fundamental role in improving cardiorespiratory fitness and controlling dyslipidemia. However, some st
+Eligibility: Inclusion Criteria:
+
+* Maximal Cardiopulmonary Test on treadmill or bike.
+* Test considered maximum from the metabolic point of view (Respiratory Quotient \>1.10).
+
+Exclusion Criteria:
+
+* Incomplete patient data.
+* Incomplete exam data.
+* Chronic obstructive pulmonary disease
+* Diagnosis of cancer

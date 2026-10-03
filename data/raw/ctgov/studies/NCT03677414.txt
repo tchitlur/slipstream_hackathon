@@ -1,0 +1,16 @@
+Title: Analysis of Androgene Receptors Axis and DNA Damage Repair Genes in Patients With Prostate Cancer
+Official title: Analysis of Androgene Receptors Axis and DNA Damage Repair Genes From Plasma DNA (ctDNA) in Patients With Prostate Cancer
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Prostatic Neoplasms
+Interventions: none
+Summary: In this project, we would like to focus on castration-sensitive prostate cancer (CRPC). This is a highly variable clinical picture with differentiated and burdening symptoms. The clinical parameters used to estimate the prognosis have so far only shown a very limited valence; genetic markers have so far only rarely been investigated.
+
+In the course of our preliminary investigations, we were already able to isolate 189 plasma samples from 59 patients with metastatic prostate cancer. These samples are prepared by highly innovative techniques, e.g. "whole genome sequencing", in order to gain comprehensive insights into the spectrum of genetic changes under therapy and the associated tumor evolution. These results should be compared with the genetic material of the respective prostate tumors, which originate from previous operations. This highly comprehensive data, which will yield results on copy number changes, mutations, and gene expression, will allow analysis of signaling pathways of unprecedented resolution to increase the efficacy of targeted therapies in patients and minimize the burden of non-effective therapy side effects.
+Eligibility: Inclusion Criteria:
+
+* subject has proven histological diagnosis of prostate cancer
+* subject was treated with abiraterone and/or enzalutamide.
+
+Exclusion Criteria:
+
+* patient rejects the participation

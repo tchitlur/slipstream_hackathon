@@ -1,0 +1,18 @@
+Title: Eosinophil β1 Integrin Activation as a Biomarker for Eosinophilic Esophagitis
+Official title: Eosinophil β1 Integrin Activation as a Biomarker for Eosinophilic Esophagitis
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Eosinophilic Esophagitis
+Interventions: Observation Period (OTHER)
+Summary: The purpose of this study is to improve the overall management of patients with Eosinophil Esophagitis. Currently, the best way to monitor Eosinophil Esophagitis is repeating the endoscopy procedure. The investigators plan to identify a biomarker in the blood (a measurable substance) that tracks with disease activity and will reduce the need for follow-up endoscopies.
+Eligibility: Inclusion Criteria:
+
+* Male or female with no health concerns that might affect the outcome of the study,
+* Age 18 years of age and older
+* Esophageal dysfunction with a predominant symptom of solid food dysphagia and/or esophageal food impaction
+* Esophageal eosinophilia (\>15 eosinophils/HPF) shown on biopsy
+* In the opinion of the investigator, capable and willing to grant written informed consent and cooperate with study procedures and requirements.
+
+Exclusion Criteria:
+
+* Major health problems such as autoimmune disease, heart disease, type I and II diabetes, uncontrolled hypertension or lung diseases other than asthma. The listed health problems are definitive exclusion but decisions regarding major health problems not listed will be based upon the judgment of the investigator,
+* Pregnant or lactating females or has a planned pregnancy during the course of the study.

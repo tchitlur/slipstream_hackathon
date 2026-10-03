@@ -1,0 +1,31 @@
+Title: A Study to Evaluate the Safety and Pharmacokinetics of the Intravenous Fixed-Dose Combination (IV FDC) of Tiragolumab and Atezolizumab in Participants With Locally Advanced, Recurrent or Metastatic Solid Tumors
+Official title: A Phase II, Single-Arm, Open-Label Study Evaluating the Safety and Pharmacokinetics of the Intravenous Fixed-Dose Combination (IV FDC) of Tiragolumab and Atezolizumab in Participants With Locally Advanced, Recurrent or Metastatic Solid Tumors
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: PD-L1-selected Solid Tumors
+Interventions: Tiragolumab and Atezolizumab IV FDC (DRUG)
+Summary: The purpose of this study is to assess the safety, pharmacokinetics, and immunogenicity of tiragolumab and atezolizumab intravenous fixed-dose combination (IV FDC) in participants with histologically confirmed PD-L1-selected solid tumors whose disease is locally advanced, recurrent, or metastatic and for whom an investigational agent in combination with an anti-PD-L1 antibody is considered an acceptable treatment option.
+Eligibility: Inclusion Criteria:
+
+* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1
+* Life expectancy \>=12 weeks
+* Adequate hematologic and end organ function
+* Recovery (i.e., improvement to Grade 1 or better) from all acute toxicities from previous therapy, excluding alopecia
+* For female participants of childbearing potential, negative serum pregnancy test within 14 days prior to initiation of study treatment (Day 1 of Cycle 1)
+* For female participants of childbearing potential: agreement to remain abstinent (refrain from heterosexual intercourse) or use contraception, and agree to refrain from donating eggs during the treatment period and for 5 months after the final dose of tiragolumab and atezolizumab IV FDC
+* For male participants: agreement to remain abstinent (refrain from heterosexual intercourse) or use a condom, and agree to refrain from donating sperm during the treatment period and for 90 days after the final dose of tiragolumab and atezolizumab IV FDC to avoid exposing the embryo
+
+Cancer-Specific Inclusion Criteria:
+
+* Histologic documentation of locally advanced, recurrent, or metastatic malignancy, ineligible for definitive local therapy, for which a clinical trial of an investigational agent in combination with an anti-PD-L1 antibody is considered an acceptable treatment option. Participant must be informed of all standard of care options available for his/her cancer.
+* No prior treatment with checkpoint inhibitor therapies (CPI-Naive)
+* Measurable disease per Response Evaluation Criteria in Solid Tumors, Version 1.1 (RECIST v1.1)
+* Submittal of archival tumor and/or fresh tumor tissue to the central laboratory for programmed death-1 (PD-L1) evaluation prior to enrollment
+* PD-L1 selected tumors, as determined by the investigational VENTANA PD-L1 (SP263) immunohistochemistry (IHC) assay
+
+Exclusion Criteria:
+
+* Pregnancy or breastfeeding, or intention of becoming pregnant during the study or within 5 months after the final dose of tiragolumab and atezolizumab IV FDC
+* Significant cardiovascular disease
+* Known clinically significant liver disease
+* Poorly controlled Type 2 diabetes mellitus
+* Major surgical procedure within 28 days p

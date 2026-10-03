@@ -1,0 +1,23 @@
+Title: Efficacy and Safety of Cannabidiol Oral Solution (GWP42003-P, CBD-OS) in Patients With Rett Syndrome
+Official title: A Randomized, Double-blind, Placebo-controlled Trial to Investigate the Efficacy and Safety of Cannabidiol Oral Solution (GWP42003-P, CBD-OS) in Patients With Rett Syndrome
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Rett Syndrome; RTT
+Interventions: GWP42003-P (DRUG); Placebo (DRUG)
+Summary: To evaluate the efficacy of cannabidiol oral solution (GWP42003-P, CBD-OS) in reducing symptom severity when compared with placebo, in participants with Rett syndrome.
+Eligibility: Key Inclusion Criteria:
+
+* Participant (if possessing adequate understanding, in the investigator's opinion) and/or their parent(s)/legal representative is willing and able to give informed consent/assent for participation in the trial.
+* Participant and their caregiver are willing and able (in the investigator's opinion) to comply with all trial requirements (including the completion of all caregiver assessments by the same caregiver throughout the trial).
+* Participant must weigh at least 10 kilograms.
+* Clinical diagnosis of Rett syndrome (typical or atypical), defined according to RettSearch Consortium criteria
+* Confirmed pathogenic genetic mutation of the MECP2 gene
+* Participant must be post-regression (≥ 6 months since last loss of hand use or verbal language or gross motor regression).
+* Participant must have a disease severity of between 10 and 36, defined according to the Clinical Severity Scale (CSS).
+* All medications or interventions (including antiepileptic drugs \[AEDs\] and non-pharmacological interventions - dietary supplements, probiotics, physical therapy, speech therapy, etc.) for Rett syndrome-related symptoms must have been stable for 4 weeks prior to screening and the participant/caregiver must be willing to maintain a stable regimen throughout the trial.
+* Ability to swallow the investigational medicinal product (IMP) provided as a liquid solution, or the ability for IMP to be delivered via gastrostomy (G) or nasogastric (NG) feeding tube (only G-or NG-tubes made from polyurethane or silicon are allowed)
+* Participant and/or parent(s)/legal representative is willing to allow the responsible authorities to be notified of participation in the trial, if mandated by local law.
+* Participant and/or parent(s)/legal representative is willing to allow the participant's primary care practitioner (if they have one) and consultant (if they have one) to be notified of participation in the trial, if the primary care practitioner/consultant is different than the investigator.
+
+Key Exclusion Criteria:
+
+* Participant meets exclusion criteria for Rett syndrome diagnosis (traumatic brain injury, neurometabolic disease, or severe infection that causes neur

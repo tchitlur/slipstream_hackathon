@@ -1,0 +1,23 @@
+Title: Lamivudine as a Novel Clinical Effort for Rett Syndrome
+Official title: Lamivudine in Individuals With Rett Syndrome: Clinical, Biochemical, and Cellular Evaluation
+Status: ENROLLING_BY_INVITATION. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Rett Syndrome
+Interventions: Lamivudine (DRUG)
+Summary: Rett syndrome (RTT) is a rare genetic neurodevelopmental disorder caused primarily by mutations in the MECP2 gene, leading to progressive impairments in motor function, communication, and behavior following an initial period of apparently typical development. Currently, there are no treatments that change the course of the disease, and clinical care is largely focused on managing symptoms. Loss of MeCP2 function has been associated with increased activity of the LINE-1 (L1) retroelement, which may contribute to neuroinflammation and cellular stress in the brain. Lamivudine, a nucleoside reverse transcriptase inhibitor widely used in antiviral therapy, can inhibit L1 reverse transcription and has shown beneficial effects in preclinical models of RTT, including reductions in inflammatory and oxidative stress markers and improvements in neurological and behavioral outcomes. This study aims to evaluate the safety and potential clinical and biological effects of lamivudine in individuals with Rett syndrome using a before-and-after treatment design. Participants will receive oral lamivudine and will undergo clinical assessments and laboratory testing before and after the treatment period
+Eligibility: Inclusion Criteria:
+
+* Clinical and molecular diagnosis of Rett syndrome;
+* Age 2 years or older at the time of enrollment;
+* Ability to swallow liquid medication;
+* Stable clinical condition, as determined by the study investigator;
+* Availability of a parent or legal guardian able to provide informed consent and comply with study procedures;
+* Willingness of the participant and/or legal guardian to comply with study visits and assessments.
+
+Exclusion Criteria:
+
+* Known hypersensitivity or contraindication to lamivudine;
+* Severe hepatic or renal impairment that, in the investigator's judgment, would preclude safe participation;
+* Use of investigational drugs or participation in another clinical trial within a defined washout period before enrollment;
+* Presence of any medical condition or acute illness that could interfere with study participation or outcome assessment, as determined by the investigator;
+* Inability to undergo blood collection or skin biopsy procedures required for the study;
+* Any condition that, in the opinion of the investigator, would place the participant at undue risk or compromise adherence to the study protocol.

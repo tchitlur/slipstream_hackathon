@@ -1,0 +1,23 @@
+Title: Study of Ganetespib (STA-9090) + Docetaxel in Advanced Non Small Cell Lung Cancer
+Official title: A Randomized, Phase IIB/III Study of Ganetespib (STA-9090) in Combination With Docetaxel Versus Docetaxel Alone in Subjects With Stage IIIb or IV Non-Small-Cell Lung Cancer
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: Non-small Cell Lung Cancer Stage IIIB; Non-small Cell Lung Cancer Stage IV; Non-small Cell Lung Cancer Metastatic
+Interventions: Docetaxel (DRUG); Combination of ganetespib and docetaxel (DRUG)
+Summary: The purpose of this study is to determine whether combining ganetespib (STA-9090) with docetaxel is more effective than docetaxel alone in the treatment of subjects with advanced non-small cell lung cancer.
+Eligibility: Inclusion Criteria:
+
+* confirmed diagnosis of NSCLC
+* Stage IIIB or IV NSCLC
+* ECOG Performance Status 0 or 1
+* Prior therapy defined as 1 prior systemic therapy for advanced disease
+* measurable disease
+* Radiologic evidence of disease progression following most recent prior treatment.
+* Adequate hematologic, hepatic, renal function
+
+Exclusion Criteria:
+
+* Active or untreated CNS metastases
+* Active malignancies other than NSCLC within the last 5 years with the exception of adequately treated cone-biopsied in situ carcinoma of the cervix uteri or basal or squamous cell carcinoma of the skin
+* Serious cardiac illness or medical conditions
+* Pregnant or lactating women
+* Uncontrolled intercurrent illness

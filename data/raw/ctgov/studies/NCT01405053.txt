@@ -1,0 +1,16 @@
+Title: Study of Rufinamide in Pediatric Subjects 1 to Less Than 4 Years of Age With Lennox-Gastaut Syndrome Inadequately Controlled With Other Anti-epileptic Drugs
+Official title: A Multicenter, Randomized, Controlled, Open-label Study to Evaluate the Cognitive Development Effects and Safety, and Pharmacokinetics of Adjunctive Rufinamide Treatment in Pediatric Subjects 1 to Less Than 4 Years of Age With Inadequately Controlled Lennox-Gastaut Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Lennox-Gastaut Syndrome
+Interventions: Rufinamide (DRUG); Any other approved Antiepileptic Drug (DRUG)
+Summary: This study was designed to evaluate the cognitive effect, safety, and pharmacokinetics (PK) of rufinamide on Lennox-Gastaut Syndrome (LGS) inadequately controlled in pediatric participants already taking other anti-epileptic drugs.
+Eligibility: Key Inclusion:
+
+1. Clinical diagnosis of LGS, which might include the presence of a slow background electroencephalogram (EEG) rhythm, slow spikes-waves pattern (less than 3 Hz), the presence of polyspikes; care should be taken not to include benign myoclonic epilepsy of infancy, atypical benign partial epilepsy (pseudo-Lennox syndrome), or continuous spike-waves of slow sleep (CSWS).
+2. On a fixed and documented dose of one to three concomitant regionally approved antiepileptic drugs (AEDs) for a minimum of 4 weeks prior to randomization with an inadequate response to treatment.
+3. Consistent seizure documentation (i.e., no uncertainty of the presence of seizures) during the pre-randomization phase.
+
+Key Exclusion:
+
+1. Familial short QT syndrome
+2. Prior treatment with rufinamide within 30 days of baseline visit or discontinuation of rufinamide treatment due to safety issues related to rufinamide

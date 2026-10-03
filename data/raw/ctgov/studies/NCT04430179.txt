@@ -1,0 +1,38 @@
+Title: Dupilumab Severe Eosinophilic Chronic Sinusitis Without Nasal Polyposis
+Official title: An Evaluation of Dupilumab in Patients With Severe Eosinophilic Chronic Sinusitis Without Nasal Polyposis
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Severe Eosinophilic Chronic Sinusitis Without Nasal Polyposis
+Interventions: Dupilumab 300 MG/2 ML Subcutaneous Solution [DUPIXENT] (DRUG); Placebo (OTHER)
+Summary: The investigators will investigate the efficacy of dupilumab in patients with severe eosinophilic CRSsNP who are resistant to the conventional treatment with intranasal corticosteroids and have significantly extensive disease involving more than 2 sinuses bilaterally in sinus CT scan and Lund-Mackay sinus (LMK) CT score \>=10 at baseline.
+Eligibility: Inclusion Criteria:
+
+* Age 18 or older
+* LMK-CT score ≥ 10 (out of maximum of 24) at screening.
+* Bilateral sinusitis with at least more than 2 sinus involvement despite completion of a prior intranasal corticosteroid (INCS) treatment for at least 8 weeks prior to screening
+* Presence of at least two of the following symptoms prior to screening:
+* Nasal blockage/obstruction/congestion
+* Nasal discharge (anterior/posterior nasal drip)
+* Facial pain/pressure
+* Reduction or loss of smell
+* Must have Eosinophilic CRSsNP (blood eos ≥ 200) within 6 months prior to screening
+* Able and willing to undergo regular intervention as well as evaluation per study protocol
+* Must agree not to participate in a clinical study involving another investigational drug or device throughout the duration of this study
+* Must be competent to understand the information given in IRB approved ICF and must sign the form prior to the initiation of any study procedure
+
+Exclusion Criteria:
+
+* Age \< 18
+* With CRS with nasal polyps
+* Treated in any clinical trial of dupilumab
+* Has taken:
+
+  1. Biologic therapy/systemic immunosuppressant to treat inflammatory disease or autoimmune disease (eg, rheumatoid arthritis, inflammatory bowel disease, primary biliary cirrhosis, systemic lupus erythematosus, multiple sclerosis, etc) within 2 months before screening or 5 half-lives, whichever is longer
+  2. An experimental monoclonal antibody within five half-lives or within 6 months before screening if the half-life is unknown
+  3. Anti-immunoglobulin E (IgE) therapy (omalizumab) within 130 days prior to screening
+  4. Leukotriene antagonists/modifiers unless patient is on a continuous treatment for at least 30 days prior to screening
+  5. Initiation of allergen immunotherapy within 3 months prior to screening or a plan to begin therapy or change its dose during the run-in period or the randomized treatment period
+* Have had a sino-nasal surgery changing the lateral wall structure of the nose making impossible the evaluation of NPS
+* Patients with conditions/concomitant diseases making them non-evaluable at screening or for the primary efficacy endpoint such as:
+
+  1. Antrochoanal polyps
+  2. Nasal septa

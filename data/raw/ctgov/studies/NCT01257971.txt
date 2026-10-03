@@ -1,0 +1,15 @@
+Title: Non-interventional Study (NIS) to Assess Reaching of Cholesterol Target Values in Patients Treated With HMG-CoA Reductase Inhibitors
+Official title: Non-interventional Study to Assess Reaching of Cholesterol Target Values in Patients Treated With 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) Reductase Inhibitors in Croatia
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Hypercholesterolaemia
+Interventions: none
+Summary: This is a multi-centre non-interventional study of patients who are treated with any HMGCoA reductase inhibitor available in Croatia (rosuvastatin, simvastatin, atorvastatin and fluvastatin) for at least 6 months. All HMG-CoA reductase inhibitors must be prescribed in accordance with SmPCs approved in Croatia. Data collection for each patient will take place at a single visit. The investigator will complete a Case Report Form with the patient's demographics, the presence of the factors for high cardiovascular risk, current treatment, cholesterol values as well as with further treatment decision.
+Eligibility: Inclusion Criteria:
+
+* patients who have been treated with one HMG-CoA reductase inhibitor for at least 6 months without changing the dose for the last 4 weeks at least.
+* All patients must sign Informed consent form.
+
+Exclusion Criteria:
+
+* Patients who have not signed the Informed consent form.
+* Patients with contraindication for the treatment with HMG-CoA reductase inhibitors as per SmPC approved in Croatia.

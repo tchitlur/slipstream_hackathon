@@ -1,0 +1,19 @@
+Title: Gene Editing as a Therapeutic Approach for Rett Syndrome
+Official title: Personalized MECP2 Gene Therapy Using CRISPR/Cas9 Technology Coupled to AAV-mediated Delivery in 3D Cell Culture and KI Mice
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome
+Interventions: Gene editing in vitro (OTHER)
+Summary: We designed the project to validate CRISPR/Cas9-based gene editing combined with AAV-based delivery for correction of the most common MECP2 mutations both in vitro and in vivo.
+Eligibility: Inclusion Criteria:
+
+* Patients -exclusively female- since the pathology is linked to the X chromosome, with a clinical diagnosis of Rett syndrome confirmed at the genetic level by the identification, through NGS analysis, for one of the recurrent mutations (mutational hotspots) in the MECP2 gene object of the study:
+
+  c. 473C\>T - (p.(T158M)), c.502C\>T (p(R168X)), c.763C\>T (p.(R255X)), c.916C\>T (p.(R306C));
+* Age above 6 months;
+* Availability of parents or legal guardians to provide free and informed consent to participate in the study
+
+Exclusion Criteria:
+
+* NGS diagnosis with the normal outcome;
+* Positive NGS diagnosis for mutation in MECP2 but with the presence of a mutation different from those under study.
+* Unwillingness of parents or legal guardians to provide free and informed consent to participate in the study;

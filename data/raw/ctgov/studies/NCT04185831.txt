@@ -1,0 +1,30 @@
+Title: A MolEcularly Guided Anti-Cancer Drug Off-Label Trial
+Official title: MEGALiT - a Multicenter, Basket and Umbrella Explorative Trial on the Efficacy and Safety of Molecular Profile Selected Commercially Available Targeted Anti-cancer Drugs in Patients With Advanced Cancers Progressive on Standard Therapy
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Solid Tumor
+Interventions: Atezolizumab (DRUG); Everolimus (DRUG); Cobimetinib (DRUG); Niraparib (DRUG)
+Summary: This is a prospective, open-label, non-randomized combined basket- and umbrella trial divided in two parts; a limited feasibility-oriented part 1 including 154 patients and 3 treatment cohorts and part 2 that will include an expanded cohort of patients and treatment cohorts. The overall aims of the study are to test the feasibility, safety and efficacy of comprehensive genomic profiling on fresh tumor biopsies as a basis for treatment decision making and to compare two different sequencing, bioinformatics and decision-making platforms (part 1). Also to evaluate the efficacy and safety of off-label treatment with cancer drugs in patients selected based on genomic biomarker matching.
+Eligibility: Inclusion Criteria:
+
+1. Adult (age \>18 years)
+2. Patients with histologically-proven, locally advanced or metastatic solid tumor (part 1; hematological malignancies also eligible in part 2) progressive while on last line established therapy considered available for the patient. For re-recruitment (part 2) patients must be progressive while on trial defined treatment or off-protocol treatment.
+3. Fresh tumor sampling by biopsy must be possible, except for patients with CNS malignancy who can be included based on molecular analysis of archived tumor material.
+4. ECOG performance status 0-2.
+5. Patients must have acceptable organ function as defined below:
+
+   1. Absolute neutrophil count ≥ 1.5 x 10\^9/L
+   2. Hemoglobin \> 90 g/L
+   3. Platelets \> 75 x 10\^9/L
+   4. Total bilirubin \< 2 x ULN
+   5. ASAT (SGOT) and ALAT (SGPT) \< 2.5 x institutional ULN (or \< 5 x ULN in patients with known hepatic metastases)
+   6. Serum creatinine ≤ 1.5 × ULN or calculated or measured creatinine clearance ≥ 50 mL/min/1.73 m2
+6. Patients must have objectively measurable disease (by physical or radiographic examination).
+7. Ability to understand and the willingness to sign a written informed consent document.
+8. For orally administered drugs, the patient must be able to swallow and tolerate oral medication and must have no known malabsorption syndrome.
+9. Negative pregnancy test in women of childbearing potential (premenopausal or \<12 months of amenorrhea post-menopause and who have not undergone surgical sterilization). Women of childbearing potential must use highly effective method of contraception, i.e. combined hormonal contraception, or progestogen-only hormonal contraception, or intrauterine device, or intrauterine hormone-releasing system, or bilateral tubal occlusion, or vasectomized partner, or sexual abstinence for the duration of participation in the study, and four months following completion of study therapy.
+10. Selected tumor types might have disease-specific inclusion criteria, defined by disease-specific study appendix.
+
+Exclusion Criteria:
+
+1. Ongoing treatment-related toxicity \> grade 2.
+2. Patients receiving any other anti-cancer therapy (cytotoxic, biologi

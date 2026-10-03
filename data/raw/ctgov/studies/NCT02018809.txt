@@ -1,0 +1,25 @@
+Title: Social Forces to Improve Statin Adherence (Study A)
+Official title: Using Social Support To Improve Medication Adherence In Statin Users With Diabetes
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Medication Adherence; High Blood Pressure; Diabetes
+Interventions: Medication Adherence Partner (BEHAVIORAL); Electronic pill bottle (DEVICE)
+Summary: To assess the effectiveness of reporting statin adherence patterns to a Medication Adherence Partner (MAP) in improving the outcome of statin adherence versus usual care as measured by an electronic pill bottle.
+
+Hypothesis: Subjects with a MAP receiving daily adherence feedback will have the highest statin adherence of any arm, as measured by pill bottle data.
+Eligibility: Inclusion Criteria:
+
+* The subject is Humana insured
+* The subject is an English speaking adult
+* Age range ≥18 years
+* The subject has diagnosis with diabetes for ≥12 months
+* The subject has an MPR \<70% to a statin medication
+* Subject denies side-effects to their statin medication
+* The subject identified a person who agreed to serve as their MAP
+
+Exclusion Criteria:
+
+* The subject is \<18 years old
+* The subject is considered part of a vulnerable population (is a prisoner, a cognitively impaired person, or a pregnant woman)
+* On statin combination medication
+* The subject does not identify an individual who agrees to serve as their MAP
+* The subject reports a clinically important side effect to the statin medication or active liver disease:

@@ -1,0 +1,51 @@
+Title: GENES AND AUTISM - Induced Pluripotent Stem Cells
+Official title: EXPLORATIONS CELLULAIRES - CELLULES PLURIPOTENTES INDUITES DES SUJETS PRESENTANT UN TSA, DE LEURS APPARENTES, ET DE TEMOINS
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Autism Disorder; ASD
+Interventions: Blood Sample : isolation of peripheral blood mononuclear cells (PBMCs) (OTHER)
+Summary: Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by deficits in social interaction and verbal and non-verbal communication (DSM-5, 2013), affecting approximately 2% of the general population. In 5 to 40% of cases, genetic factors are identified as the cause of these disorders, with prevalence depending on the technique used (exomes and/or SNP arrays) and the associated intellectual deficit. In the majority of cases, the etiology remains unknown. Studies of microdeletions/microduplications (copy number variants) or Whole Exome Sequencing and Whole Genome Sequencing (Single Nucleotide Variants) show the involvement of numerous genes in the predisposition to autism. ASD remains a genetically heterogeneous disorder, as more than 250 genes have been associated with ASD to date.
+
+The main objective of the project is to continue identifying genetic factors, and also to understand the biological mechanisms involved in the emergence of autistic symptoms.
+
+Identifying biological pathways is an essential step in developing new therapeutic strategies. In addition, one of the major challenges of this study is to better understand the phenotype/genotype relationships
+Eligibility: Inclusion Criteria:
+
+● For all participants :
+
+* 1\) Be Included in the "Genes and Autism" protocol (C07-33 or C16-89).
+* 2\) Affiliated to the social insurance, Universal Health Coverage or any equivalent system.
+
+  →As a Reminder : C07-33 inclusion criteria
+
+  ● Participants with ASD.
+* 1\) Autistic patients must meet the diagnostic criteria of DSM-IV \[American Psychiatric Association, 1994\] and the criteria of ADI-R (Autism Diagnostic Interview-Revised, Lord et al., 1994) and ADOS for autism.
+
+..Or.. Patients with Asperger's syndrome must meet the DSM-IV criteria as well as the ASDI criteria for Asperger's syndrome (Asperger Syndrome Diagnostic Interview, Gillberg et al., 2001) and the ADOS for autism spectrum disorders.
+
+..Or.. Patients with ASD must meet diagnostic criteria of DSM-IV and ADOS criteria for autism spectrum disorders
+
+* 2\) Be at least 2 years old, with no upper age limit
+* 3\) Somatic state compatible with blood test
+
+  ● Adult controls and adult relatives of controls
+* 1\) Be between 18 and 65 years old
+* 2\) Somatic and intellectual state compatible with blood test
+
+  ● Controls with mental retardation
+* 1\) Minimum age of 2 yearsIQ \< 70Child controls
+* 2\) Minimum age of 2 years
+
+  →As a Reminder : inclusion criteria C16-89
+
+  ● Probands with ASD
+* 1\) Meet the diagnostic criteria for ASD of the of DSM-5 \[American Psychiatric Association, 2012\]. The diagnosis will be based on a consensus between the clinical expertise of expert clinicians, the scores of the Autism Diagnostic Interview-Revised (ADI-R) (Lord et al, 2003) and those of the Autism Diagnosis Observational Scale (ADOS-2) (Lord et al, 1994)
+* 2\) Be at least 24 months old with no upper age limit
+* 3\) Somatic state compatible with a blood test
+* 4\) Affiliation to the Social Insurance
+* 5\) Signature of informed consent by the applicant or by the holders of parental authority if the subject is a minor or by the guardian if the subject is under guardianship
+
+  ● Controls wihout ASD
+* 1\) At least 24 months old
+* 2\) Somatic and Intellectual state compatible with a blood test
+* 3\) Affiliation in the Social Insurance
+* 4\) Signature of informed consent by the subject or by hold

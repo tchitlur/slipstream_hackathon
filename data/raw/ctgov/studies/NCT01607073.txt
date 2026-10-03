@@ -1,0 +1,24 @@
+Title: Verapamil as Therapy for Children and Young Adults With Dravet Syndrome
+Official title: Verapamil as Adjunctive Seizure Therapy for Children and Young Adults With Dravet Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Dravet Syndrome
+Interventions: Verapamil (DRUG)
+Summary: This study will assess how well the drug verapamil can improve control of seizures and dysautonomia symptoms in children and young adults diagnosed with Dravet syndrome. The safety of verapamil when given with all concomitant medications will also be assessed.
+Eligibility: Inclusion Criteria:
+
+* 2 to 25 years old
+* Onset of seizures in first year of life
+* seizure type usually generalized tonic-clonic, clonic, or hemiclonic, often prolonged (\>10 minutes)
+* myoclonic jerks/myoclonic seizures
+* history of normal development at seizure onset with subsequent developmental delay or regression which occurs after seizure onset
+* presence of documented abnormality on the SCN1A gene
+* medically intractable epilepsy: must have been on at least 2 prior antiepileptic medications without adequate control of epilepsy
+* subject is capable of giving informed consent (or assent if possible) or has an acceptable surrogate capable of giving informed consent on the subject's behalf
+
+Exclusion Criteria:
+
+* use of clonidine, propranolol, carbamazepine, oxcarbazine, stiripentol, lamotrigine, or cyclosporine
+* Abnormalities of cardiac conduction or rhythm (excluding sinus arrhythmia) on screening EKG
+* significant use of grapefruit juice
+* ketogenic diet
+* pregnancy

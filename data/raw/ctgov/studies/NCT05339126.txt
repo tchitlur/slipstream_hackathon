@@ -1,0 +1,19 @@
+Title: RNS System LGS Feasibility Study
+Official title: RNS System Feasibility Study of Thalamocortical Brain-Responsive Neurostimulation for the Treatment of Lennox-Gastaut Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Epilepsy; Lennox Gastaut Syndrome; Lennox-Gastaut Syndrome, Intractable; Seizures; Seizures, Generalized
+Interventions: RNS System (DEVICE)
+Summary: To generate preliminary safety and effectiveness data for brain-responsive neurostimulation of thalamocortical networks as an adjunctive therapy in reducing the frequency of generalized seizures in individuals 12 years of age or older with Lennox Gastaut Syndrome (LGS) who are refractory to antiseizure medications.
+
+The intent is to determine the feasibility and the optimal design of a subsequent pivotal study in order to expand the indication for use for the RNS System as a treatment for patients with medically intractable LGS.
+Eligibility: Inclusion Criteria:
+
+* Participant is 15 years of age or older for first cohort; 12 years of age or older for second cohort. Note that age requirements for eligibility differ by cohort, as follows: the age limit for Cohort 1 is 15 years of age and above and the age limit for Cohort 2 may decrease to 12 years, pending a DSMB letter of recommendation, based on review of interim data analysis and concurrence with NINDS.
+* Participant has medically intractable epilepsy defined as failure to achieve acceptable seizure control without unacceptable medication related side effects despite trials of 2 or more antiseizure medications.
+* Participant had an average of ≥ 5 drop seizures per month in the 2 months preceding enrollment. A drop seizure is defined as an epileptic seizure (atonic, tonic, tonic-clonic, or myoclonic) involving the entire body, trunk, or head that leads or could lead to a fall, injury, or slumping in a chair.
+* Participant's seizures are non-localized.
+* Participant's scalp recorded EEG has features of LGS, such as multifocal spike, slow spike and wave discharges, and paroxysmal fast activity.
+* Participant must (a) have a stable antiseizure medication (ASM) regimen for the 2 months preceding enrollment and (b) be willing to remain on the stable regimen, as medically able, through the Blinded Evaluation Period; rescue medication for acute seizure clusters are permitted. A stable ASM regimen is defined as no introduction or discontinuation of an ASM, and no change in an ASM dose of more than 25%.
+* Participant is not on a therapeutic diet for epilepsy, or if participant is on a therapeutic diet for epilepsy must (a) have a stable diet for the 2 months preceding enrollment and (b) be willing to remain on the stable diet, as medically able, through the Blinded Evaluation Period.
+* Participant does not have a vagus nerve stimulator (VNS), or if participant does have a VNS must (a) have had the VNS off for the 2 months preceding enrollment and (b) be willing to remain with the VNS off through the Blinded Evaluation Period.
+* Participant is a male, or is a female of childbearing potential who is surgically sterile, 2 years postmenopausal, or practices a re

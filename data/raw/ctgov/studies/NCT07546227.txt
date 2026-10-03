@@ -1,0 +1,17 @@
+Title: HIIT Versus Moderate Continuous Training in ACHD
+Official title: Physical Activity in Tetralogy: A Randomized Trial of Interval Training Versus Moderate Continuous Training
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Adult Congenital Heart Disease
+Interventions: Exercise Intervention (OTHER)
+Summary: This study is a single center randomized controlled trial evaluating the effect of an exercise training intervention (interval training or moderate continuous training) compared to usual care (no training) on exercise capacity in patients with congenital heart disease (CHD).
+
+Our primary aim is to determine the impact of interval training (IT) compared to moderate continuous exercise training (MCT) versus controls (no exercise) on exercise capacity as measured by peak VO2. Secondary aims are to: 1) assess the safety of exercise training in CHD, 2) evaluate the effect of exercise training on cardiac structure and function and 3) assess the effects of exercise training on quality of life and long-term physical activity.
+Eligibility: Inclusion Criteria:
+
+* Medically stable patients aged 16 or great with congenital heart disease.
+
+Exclusion Criteria:
+
+* Uncorrected cyanotic congential heart disease (SpO2 \</= 85%)
+* Severe outflow tract obstruction (peak Doppler gradient \>50 mmHg)
+* Sustained arrhythmia

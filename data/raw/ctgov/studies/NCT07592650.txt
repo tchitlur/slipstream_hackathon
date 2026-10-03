@@ -1,0 +1,20 @@
+Title: Applicability and Effectiveness of Remote Occupational Therapy
+Official title: Applicability and Effectiveness of Remote Occupational Therapy With Children and Adolescents With Dravet Syndrome and Their Families.
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Dravet Syndrome
+Interventions: none
+Summary: The pandemic has made it necessary to imagine and experiment with new ways for disabled patients to continue their care, responding to the sudden employment and emotional void of this historical period. With this in mind, several studies have shown how telemedicine and telerehabilitation can represent a new frontier in care, reducing costs, shortening distances, increasing continuity of care, and also allowing services to be performed in a comfortable and familiar environment. All these elements also combine to determine a positive effect on the patient's compliance with the therapeutic project, in which he or she finally feels like a protagonist. It is evident that the application of these modalities in the pediatric patient requires the maximum cooperation from the family. In this regard, it has been shown that despite the complexity associated with managing a patient with Dravet syndrome, families want to be involved, showing readiness to invest and participate in meaningful activities for their children.Considering the persistence of the national health emergency and the demonstrated effectiveness of remote occupational therapy in patients with behavioral and adaptive framework
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of Dravet Syndrome.
+* Ages 7-18 years.
+* Sufficient cognitive and behavioral skills to set goals and participate in treatment
+* Access and manageability with respect to using a PC/tablet with a stable Internet connection
+* Sufficient language/communication skills to follow simple instructions and interact with therapist
+* Willingness/ability of a parent/caregiver in the family to attend all treatment sessions and involve themselves in "parent coaching." It will be necessary to maintain the same parent for the duration of the course.
+
+Exclusion Criteria:
+
+* Photosensitivity
+* Organizational difficulties in the family that prevent the continuation of treatment
+* Ongoing occupational treatment.

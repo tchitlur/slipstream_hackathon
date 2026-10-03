@@ -1,0 +1,20 @@
+Title: Crossover Study to Assess the Efficacy and Safety of UX007 in the Treatment of Movement Disorders Associated With Glucose Transporter Type 1 Deficiency Syndrome (Glut1 DS)
+Official title: A Phase 3, Randomized, Double-blind, Placebo-controlled, Crossover Study to Assess the Efficacy and Safety of UX007 in the Treatment of Movement Disorders Associated With Glucose Transporter Type 1 Deficiency Syndrome (Glut1 DS)
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Glucose Transporter Type 1 Deficiency Syndrome (Glut1 DS)
+Interventions: UX007 (DRUG); Placebo (DRUG)
+Summary: The primary objective of the study was to evaluate the efficacy and safety of UX007 in the treatment of disabling paroxysmal movement disorders associated with Glut1 DS.
+Eligibility: Inclusion Criteria:
+
+1. Diagnosis of Glut1 DS confirmed by SLC2A1 mutation
+2. Males and females, aged ≥6 years old at the time of informed consent
+3. At least 8 disabling paroxysmal movement disorder events in the 12 weeks prior to the Screening, by subject or caregiver report or At least 6 disabling paroxysmal movement disorder events in any 6 consecutive week period, over the last 12 week period prior to the Screening, by subject or caregiver report
+4. At least 4 disabling paroxysmal movement disorder events in 6 week Run-in Period, reported in the daily electronic Glut1 DS symptom diary
+5. ≥80% compliance with daily electronic Glut1 DS symptom diary completion during the Run in Period
+6. Not on ketogenic diet (KD), modified KD, or ketosis-inducing modified-fat diet for at least 3 months prior to Screening
+7. Plasma level of beta-hydroxybutyrate (BHB) ≤ 1 mmol/L (non-fasting) at Screening
+8. Provide written or verbal assent (if possible) and written informed consent by the patient(if an adult), or by a legally authorized representative after the nature of the study has been explained, and prior to any research-related procedures
+9. Must, in the opinion of the Investigator, be willing and able to complete key aspects of the study and be likely to complete the 22-week, placebo-controlled, treatment period
+10. Patient (or caregiver) must, in the opinion of the Investigator, be able to comply with accurate completion of the study daily electronic Glut1 DS symptom diary
+11. Females of child-bearing potential must have a negative urine pregnancy test at Screening and Baseline and be willing to have additional pregnancy tests during the study. Females considered not to be of child-bearing potential include those who have not experienced menarche, are post-menopausal (defined as having no menses for at least 12 months without an alternative medical cause) or are permanently sterile due to total hysterectomy, bilateral salpingectomy, or bilateral oophorectomy.
+12. Participants of child-bearing potential or fertile males with partners of child-bearing potential who are sexually active must consent to use a highly effective method of contraception as determined by the si

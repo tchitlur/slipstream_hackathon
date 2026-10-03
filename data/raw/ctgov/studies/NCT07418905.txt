@@ -1,0 +1,17 @@
+Title: Technology-supported Motor Rehabilitation for People With Rett Syndrome
+Official title: Technology-supported Motor Rehabilitation for People With Rett Syndrome (TeMoRett) Sub-project: Psychophysiological Personalization of the Technology-supported Motor Rehabilitation for People With Rett Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rett Syndrome
+Interventions: computer gaming (BEHAVIORAL)
+Summary: This study focuses on improving purposeful arm use while simultaneously reducing engagement in stereotypies. It is typically expected that the training period for this study will last about 6 months. The first half of the training periods will be devoted to learning to separate hands to stop the stereotypies that interfere with arm and hand use. In this first half, participants will also need to learn to keep arms apart in order to be actively involved in the chosen game. The second half of the training period will be devoted to learning to stop stereotypies and reach for targets that are intended to start game play. When not touching the targets, the software will interpret that the game should stop and wait for the next target to be touched.
+Eligibility: Inclusion Criteria:
+
+* dx of Rett syndrome
+* functional range of motion of both arms
+* no seizures or seizures managed with medication
+* understanding cause and effect
+* midline stereotypies
+
+Exclusion Criteria:
+
+* no competing orthopedic or neuromuscular diagnosis that impacts shoulder movements

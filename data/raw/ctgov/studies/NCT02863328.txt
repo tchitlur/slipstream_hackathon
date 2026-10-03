@@ -1,0 +1,27 @@
+Title: Efficacy and Safety of Oral Semaglutide Versus Empagliflozin in Subjects With Type 2 Diabetes Mellitus
+Official title: Efficacy and Safety of Oral Semaglutide Versus Empagliflozin in Subjects With Type 2 Diabetes Mellitus
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Diabetes; Diabetes Mellitus, Type 2
+Interventions: semaglutide (DRUG); empagliflozin (DRUG)
+Summary: This trial is conducted globally. The aim of this trial is to investigate Efficacy and Safety of Oral Semaglutide versus Empagliflozin in Subjects with Type 2 Diabetes Mellitus.
+Eligibility: Inclusion Criteria:
+
+* Informed consent obtained before any trial-related activities. Trial-related activities are any procedures that are carried out as part of the trial, including activities to determine suitability for the trial
+* Male or female, age above or equal to 18 years at the time of signing informed consent
+* Diagnosed with type 2 diabetes mellitus at least 90 days prior to day of screening
+* HbA1c (glycosylated haemoglobin) of 7.0-10.5 % (53-91 mmol/mol) (both inclusive)
+* Stable daily dose of metformin (at least 1500 mg or maximum tolerated dose as documented in the subject medical record) at least 90 days prior to the day of screening
+
+Exclusion Criteria:
+
+* Female who is pregnant, breast-feeding or intends to become pregnant or is of child-bearing potential and not using an adequate contraceptive method (adequate contraceptive measure as required by local regulation or practice).For certain specific countries: Additional specific requirements apply
+* Any disorder, which in the investigator's opinion might jeopardise subject's safety or compliance with the protocol
+* Family or personal history of Multiple Endocrine Neoplasia Type 2 or Medullary Thyroid Carcinoma
+* History of pancreatitis (acute or chronic)
+* History of major surgical procedures involving the stomach potentially affecting absorption of trial product (e.g. subtotal and total gastrectomy, sleeve gastrectomy, gastric bypass surgery)
+* Any of the following: myocardial infarction, stroke or hospitalisation for unstable angina or transient ischaemic attack within the past 180 days prior to the day of screening
+* Subjects presently classified as being in New York Heart Association Class IV
+* Planned coronary, carotid or peripheral artery revascularisation known on the day of screening
+* Subjects with ALT (alanine aminotransferase) above 2.5 x upper normal limit
+* Renal impairment defined as Estimated Glomerular Filtration Rate below 60 mL/min/1.73 m\^2 as per Chronic Kidney Disease Epidemiology Collaboration formula (CKD-EPI)
+* Treatment with any medication for the indication of diabetes or obesity other than stated in the inclusion criteria in a period of 90 days before the day of scree

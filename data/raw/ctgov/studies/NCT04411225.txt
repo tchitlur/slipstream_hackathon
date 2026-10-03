@@ -1,0 +1,22 @@
+Title: Effects of Cannabidiol (CBD) Versus Placebo as an Adjunct to Treatment in Early Psychosis
+Official title: Effects of Cannabidiol (CBD) Versus Placebo as an Adjunct to Treatment in Early Psychosis: Understanding the Mechanism and Mediators of Action
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Early Psychosis
+Interventions: Cannabidiol oral solution (DRUG)
+Summary: This is an outpatient, single center, between-group, double blind, placebo controlled design. Approximately 120 adolescents and adult patients will be randomized to either have their treatment augmented with Cannabidiol Oral Solution (CBD) or with a matching CBD placebo for 8 weeks. The study will examine CBD as an augmentation strategy in early psychosis. It is hypothesized that CBD will improve symptoms, neurocognition, markers of inflammation and eating behaviors. Importantly, moderators and mediators of the CBD effects will be explored.
+Eligibility: Inclusion Criteria:
+
+* First episode psychosis (onset within the last 2 years) or attenuated psychosis syndrome (APS), stabilized with treatment for at least 8 weeks prior to initiating the trial consistent with the FDA-NIMH-MATRICS guidelines for clinical trial design for clinical enhancing drugs:
+* Clinically stable and in a nonacute phase of their illness for at least 2 months, First episode psychosis participants will have been maintained on current antipsychotic for at least 6 weeks, with no change in antipsychotic dose for the previous 4 weeks while APS participants will be on the same treatment regimen (psychosocial or pharmacologic) for 4 weeks,
+* Exhibit no more than moderate levels of positive symptoms (defined by ratings of ≤ 4) on PANSS items P1 (delusions), P2 (conceptual disorganization), P3 (hallucinatory behavior), P5 (grandiosity), P6 (suspiciousness), and G8 (unusual thought content),
+* No more than a minimal level of depressive symptoms as assessed by the Calgary Depression Scale for Schizophrenia (CDSS)
+* Acceptable diagnoses will include APS, Psychosis NOS, Schizophreniform, Schizophrenia, and Schizoaffective per the Structured Clinical Interview for DSM-V.
+
+Exclusion Criteria:
+
+* Concomitant medical or neurological illness;
+* Significant head injury;
+* Impaired intellectual functioning IQ\<80; however those with an IQ i the 75-79 range will be include if WRAT reading \> 85 suggesting higher premorbid IQ.
+* High suicidal risk assessed by the The Columbia-Suicide Severity Rating Scale (C-SSRS)42
+* Pregnant women and those who do not agree to avoid becoming pregnant
+* Patients requiring treatment with Azelastine, Azelastine; Fluticasone, Dronabinol, Valproic Acid, or Divalproex Sodium

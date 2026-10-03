@@ -1,0 +1,42 @@
+Title: Imaging of Coronary Plaques in Participants Treated With Evolocumab
+Official title: High-Resolution Assessment of Coronary Plaques in a Global Evolocumab Randomized Study (HUYGENS)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Coronary Artery Disease (CAD)
+Interventions: Evolocumab (DRUG); Placebo (DRUG); Statin therapy (DRUG)
+Summary: To evaluate the effect of evolocumab on fibrous cap thickness (FCT) in participants with non-ST-elevation acute coronary syndrome (NSTE-ACS) who are taking maximally tolerated statin therapy.
+Eligibility: Inclusion Criteria:
+
+* Provided informed consent prior to initiation of any study-specific activities/procedures.
+* Age greater than or equal to 18 years at screening
+* Clinical indication for coronary angiography during admission due to NSTE-ACS with interventional treatment of culprit plaque
+* An eligible low-density lipoprotein cholesterol (LDL-C) level via local lab assessment based on statin use at screening
+
+No statin use: greater than or equal to 130 mg/dL Low- or moderate-intensity statin use greater than or equal to 80 mg/dL High-intensity statin use greater than or equal to 60 mg/dL
+
+* On maximally tolerated statin therapy in accordance with standard of care per local guidelines prior to randomization.
+* Tolerates placebo run-in injection at screening
+* Meets all the following criteria at the qualifying coronary angiogram:
+
+Angiographic evidence of coronary artery disease (CAD) with greater than or equal to 20% reduction of lumen diameter by angiographic visual estimation, in addition to the culprit plaque.
+
+Left main coronary artery must not have a greater than 50% reduction in lumen diameter by visual angiographic estimation.
+
+Targeted vessel:
+
+May not be the culprit vessel for the current or a previous myocardial infarction (MI).
+
+Has not undergone prior percutaneous coronary intervention (PCI) or coronary artery bypass grafting (CABG), and may not be a bypass graft.
+
+May not be a candidate for PCI or CABG currently or over the next 12 months, in the opinion of the investigator.
+
+Must be accessible by the optical coherence tomography (OCT) catheter.
+
+Targeted segment:
+
+Must have up to 50% but not greater than 50% reduction in lumen diameter by visual angiographic estimation and must be at least 40 mm in length.
+
+Must contain at least 1 image with a fibrous cap thickness (FCT) of less than or equal to 120 μm and at least 1 image with a lipid arc of greater than 90° as determined by the imaging core laboratory Distal plaques of up to 50% stenosis by visual angiographic estimation are permitted, provided that such stenosis is not a target for PCI or CABG.
+
+Exclusion Criteria:
+
+* ST-segment elevation myocardial infarction (STEMI) or left bundle branch b

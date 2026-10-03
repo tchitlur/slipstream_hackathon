@@ -1,0 +1,26 @@
+Title: Melatonin Versus Placebo in the Lennox-Gastaut Syndrome: Neurophysiological and Neuropsychological Effects
+Official title: Double Blind, Randomised, Cross-over Study Melatonin Versus Placebo in the Lennox-Gastaut Syndrome: Neurophysiological and Neuropsychological Effects
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Lennox-Gastaut Syndrome
+Interventions: melatonin (DRUG); placebo (DRUG)
+Summary: Lennox-Gastaut syndrome is a severe epileptic encephalopathy of childhood. In that syndrome, various type of seizure occur, mainly tonic seizures, atonic seizures and atypical absences. The tonic seizure occur mostly at night.
+
+The hypothesis is that the melatonin could have a positive effect in that syndrome, by reducing the epileptic activity (assessed in the polysomnographic record by counting the number of interictal and ictal discharges) and stabilizing the structure of sleep.
+
+The study is double blind, randomised, cross-over designed.
+Eligibility: Inclusion Criteria:
+
+* Lennox-Gastaut syndrome (based on ILAE classification, 1989)
+* light mental retardation (QI 50-69)
+* french mother tongue
+* having someone helping the patient (parent and/or referent educator)
+* informed consent have been given by the patient / guardian
+* absence of concomitant evolutive affection or associated sleep pathologies
+* collaboration of the patient, ability to complete all aspects of the trial.
+
+Exclusion Criteria:
+
+* epileptic syndrome other than Lennox-Gastaut, other neurologic and/or psychiatric disease
+* moderate to severe mental retardation (QI \< 50)
+* psychiatric disease that could interfere with the diagnostic procedure
+* specific sleep disorder (anamnestic and diagnosed on the polygraphic record), for example: sleep apnea syndrome, narcolepsy, restless legs syndrome, periodic legs movements, etc...

@@ -1,0 +1,32 @@
+Title: Characterization of Angelman Syndrome
+Official title: Angelman Syndrome Natural History Study
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Angelman Syndrome
+Interventions: none
+Summary: Angelman Syndrome (AS) is a developmental disorder that is caused by a deficiency of a maternally transmitted gene. It is inherited at birth, and affects movement, speech, and social demeanor. This study will gain a better understanding of the disease progression and clinical features of AS by observing children with AS over an extended period of time.
+Eligibility: Inclusion Criteria:
+
+1. Molecular diagnosis of Angelman syndrome OR
+2. Meets all major diagnostic criteria for Angelman Syndrome and 3 of the 6 minor criteria:
+
+Major Criteria:
+
+* Functionally severe developmental delay
+* Speech impairment; none or minimal words used
+* Movement or balance disorder
+* Behavioral uniqueness, frequent laughs/smiling, excitable personality, hand flapping, short attention span
+
+Minor Criteria:
+
+* Deceleration in head circumference growth (post-natal)
+* Seizures (myoclonic, absence, drop, tonic-clonic)
+* Abnormal EEG (with patterns suggestive of AS, or hypsarrhythmia)
+* Sleep disturbance
+* Attraction to or fascination with water
+* Drooling
+
+Exclusion Criteria:
+
+* Does not meet diagnostic criteria for Angelman Syndrome
+* Other medical or genetic disorders (except autism)
+* Born extremely premature

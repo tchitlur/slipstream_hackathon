@@ -1,0 +1,19 @@
+Title: SLC13A5 Deficiency Natural History Study - United States Only
+Official title: SLC13A5 Deficiency: A Prospective Natural History Study - United States Only
+Status: ENROLLING_BY_INVITATION. Type: OBSERVATIONAL. Phases: none.
+Conditions: Citrate Transporter Deficiency; Epilepsy; Rare Diseases; Movement Disorders; Genetic Disorder; SLC13A5 Deficiency; EIEE25; Kohlschutter-Tonz Syndrome (Non-ROGDI); Citrate Transporter Disorder; DEE25
+Interventions: none
+Summary: SLC13A5 deficiency (Citrate Transporter Disorder, EIEE 25) is a rare genetic disorder with neurodevelopmental delays and seizure onset in the first few days of life. This natural history study is designed to address the lack of understanding of disease progression. Additionally it will identify clinical and biomarker endpoints for use in future clinical trials.
+Eligibility: Inclusion Criteria:
+
+1. Parent(s)/legal representative and/or patient must be willing and able to give informed consent/assent for participation in the study.
+2. Males and females of any age are eligible for this study
+3. Suspected or confirmed diagnosis of SLC135 deficiency with genetic variants in both SLC13A5 alleles and consistent clinical characteristics. Variants of uncertain significance in one or both alleles are acceptable if deemed good candidates by participant's primary geneticist or neurologist and study personnel.
+4. Participant and caregiver must be willing to provide clinical data, participate in standardized assessments, and provide biological samples.
+5. Willingness to travel to one of the three sites annually is favored, but not required.
+
+Exclusion Criteria:
+
+1\. The presence of a second, confirmed disorder, genetic or otherwise, affecting neurodevelopment or with other overlapping symptoms of SLC13A5 deficiency.
+
+\-

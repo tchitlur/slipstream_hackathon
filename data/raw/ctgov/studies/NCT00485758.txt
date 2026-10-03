@@ -1,0 +1,15 @@
+Title: Extended Niacin/Laropiprant in Patients With Type 2 Diabetes (0524A-069)
+Official title: A Multicenter, Randomized, Double-Blind, Placebo Controlled 36 Week Study to Evaluate the Efficacy and Safety of Extended Release (ER) Niacin/Laropiprant in Patients With Type 2 Diabetes
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Diabetes Mellitus Type 2
+Interventions: ER niacin/laropiprant (DRUG); Comparator : placebo (unspecified) (DRUG)
+Summary: A study to assess the efficacy and tolerability of ER (Extended Release) niacin/laropiprant versus placebo in Type 2 Diabetes Mellitus patients.
+Eligibility: Inclusion Criteria:
+
+* Patients between the ages of 18 to 80 years with Type 2 Diabetes who are on a stable dose of antidiabetic medication for at least 3 months
+
+Exclusion Criteria:
+
+* Patients taking Cholestin, niacin (\>50 mg/day), fibrate therapy, hormonal contraceptives, intermittent Hormone Replacement Therapy, or certain corticosteroids
+* Patients with any of the following conditions: active liver disease or kidney disease, poorly controlled high blood pressure, active peptic ulcer, or other heart or blood diseases
+* Patients with abnormal laboratory results from a blood test that will be given before starting the study

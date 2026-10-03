@@ -1,0 +1,23 @@
+Title: RISK FACTORS FOR ANASTOMOTIC LEAKAGE FOLLOWING TOTAL OR SUBTOTAL COLECTOMY (RIALTCOT)
+Official title: RISK FACTORS FOR ANASTOMOTIC LEAKAGE FOLLOWING TOTAL OR SUBTOTAL COLECTOMY (RIALTCOT)
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Total Colectomy; Subtotal Colectomy
+Interventions: Total or Subtotal colectomy (PROCEDURE)
+Summary: Higher anastomotic leakage (AL) rate is reported after ileosigmoid (ISA) or ileorectal anastomosis (IRA) in total or subtotal colectomy (TSC) compared to colonic or colorectal anastomosis. An AL reduction in these cases may improve short and long terms outcomes significantly. Current evidence remains insufficient to assess AL risk after TSC, based on single-center studies or small cases series. The investigators aim to analyse and identify potential risk factors to AL following TSC and ISA or IRA, both preoperative and intraoperative in order to prevent surgical complications.
+
+The study is set up as a retrospective multicentre observational study. Inclusion criteria are patients (1) over 18 years old, (2) underwent restorative TSC with ISA or IRA anastomosis, (3) with/without loop ileostomy (4) between 2013-2019. Exclusion criteria are: (1) non-restorative TSC, (2) previous colorectal resection, (3) deferred anastomosis in trauma surgery and (4) other surgical resection in the same procedure.
+
+AL will be defined as a defect of the integrity of the intestinal wall at the anastomotic site leading to a communication of the intra and extraluminal or a pelvic abscess adjacent to the an
+Eligibility: Inclusion Criteria:
+
+* (1) over 18 years old
+* (2) underwent restorative TSC with ISA or IRA anastomosis (emergent or elective)
+* (3) with/without loop ileostomy
+* (4) between 2013-2019
+
+Exclusion Criteria:
+
+* (1) non-restorative TSC
+* (2) previous colorectal resection
+* (3) deferred anastomosis in trauma surgery and
+* (4) other surgical resection in the same procedure.

@@ -1,0 +1,22 @@
+Title: Antiepileptic Efficacy Study of GWP42003-P in Children and Young Adults With Dravet Syndrome (GWPCARE1)
+Official title: A Double Blind, Placebo Controlled Two-part Study to Investigate the Dose-ranging Safety and Pharmacokinetics, Followed by the Efficacy and Safety of Cannabidiol (GWP42003-P) in Children and Young Adults With Dravet Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Epilepsy; Dravet Syndrome
+Interventions: GWP42003-P 20 mg/kg/day Dose (DRUG); Placebo control (DRUG)
+Summary: To investigate the potential antiepileptic effects of cannabidiol (GWP42003-P) in children and young adults with Dravet syndrome.
+Eligibility: Key Inclusion Criteria:
+
+* Participants were male or female aged between 2 and 18 years (inclusive).
+* Participants had a documented history of Dravet Syndrome that was not completely controlled by current antiepileptic drugs.
+* Participants took one or more antiepileptic drugs at a dose that had been stable for at least four weeks.
+* All medications or interventions for epilepsy (including ketogenic diet and vagus nerve stimulation) were stable for four weeks prior to screening and participants were willing to maintain a stable regimen throughout the study.
+
+Key Exclusion Criteria:
+
+* Participants had clinically significant unstable medical conditions other than epilepsy.
+* Participants had clinically relevant symptoms or a clinically significant illness in the four weeks prior to screening or randomization, other than epilepsy.
+* Participants were currently using or had in the past used recreational or medicinal cannabis or synthetic cannabinoid based medications (including Sativex®) within the three months prior to study entry and were unwilling to abstain for the duration for the study.
+* Participants had any known or suspected hypersensitivity to cannabinoids or any of the excipients of the investigational medicinal products.
+* Participants had been part of a previous clinical trial involving another investigational product in the previous six months.
+* There were plans for the participants to travel outside their country of residence during the study.
+* Participants previously randomized into this study. In particular, participants who participated in Part A of the study could not enter Part B.

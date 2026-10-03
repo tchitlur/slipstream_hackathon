@@ -1,0 +1,43 @@
+Title: Psilocybin Therapy for Methamphetamine Use Disorder and HIV
+Official title: Psilocybin Recovery Intervention for Stopping Methamphetamine Use
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Methamphetamine Use Disorder; Human Immunodeficiency Virus (HIV)
+Interventions: Psilocybin 5 mg (DRUG); Psilocybin 25 mg (DRUG); Motivational Support (BEHAVIORAL)
+Summary: The goal of this clinical trial is to learn whether it is possible to use psilocybin in combination with motivational support therapy to treat moderate-to-severe methamphetamine use disorder (MeUD) in people with HIV who are seeking to stop using methamphetamine. The main questions it aims to answer are:
+
+* Do people with HIV and MeUD find psilocybin with motivational support therapy feasible and acceptable as a potential treatment?
+* Is psilocybin safe and tolerable among people with HIV and MeUD?
+
+Participants will:
+
+* Be randomly assigned to receive a single monitored dose of either 25 mg (higher dose) or 5 mg (lower dose) psilocybin
+* Have 3 preparation and 3 integration motivational support therapy visits before and after the psilocybin dosing session.
+* Report their methamphetamine use prior to, during, and up to 3 months following the intervention
+* Optionally receive one additional open-label 25 mg psilocybin session after the 4-week assessment, if eligible
+Eligibility: Inclusion Criteria:
+
+* Age 25 to 64
+* Diagnosed with HIV at least 3 months ago
+* Moderate-to-severe methamphetamine use disorder
+* Uses methamphetamine regularly and identifies it as their primary drug
+* Has a goal of quitting methamphetamine use
+* Able and willing to abstain from methamphetamine and other non-prescribed drugs for at least 24 hours prior to and throughout psilocybin dosing sessions
+* Currently living indoors with stable housing anticipated for the duration of the study
+* Has a text-capable cellphone
+* Willing to use highly effective contraception and not donate sperm throughout the study
+* Able to participate in study procedures in English
+
+Exclusion Criteria:
+
+* History of any primary psychotic disorder (e.g., schizophrenia or schizoaffective disorder), bipolar I disorder, or certain other psychiatric conditions as determined by study assessment
+* Current moderate-to-severe opioid, alcohol, or sedative use disorder (Note: people on stable doses of buprenorphine or methadone may be eligible)
+* Currently taking certain medications that may interact with psilocybin
+* Recent use of a psychedelic drug
+* Certain significant heart, liver, or kidney conditions
+* Uncontrolled high blood presure (i.e., \>150/90 mmHg)
+* History of stroke or seizure in the past year
+* Current pregnancy or breastfeeding
+* Current involvement in the criminal legal system that would be expected to interfere with study participation
+* Current or planned enrollment in a contingency management program or another investigational substance use treatment trial within the past month
+
+Note: Additional eligibility criteria apply. Certain criteria and thresholds are not listed here to preserve the scientific integrity of the study.

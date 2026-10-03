@@ -1,0 +1,18 @@
+Title: A Safety Study of BMS-852927 in Subjects With Hypercholesterolemia
+Official title: A Site and Subject Blinded Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of BMS 852927 in Patients With Primary Hypercholesterolemia on a Stable Dose of Statin Therapy
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Hypercholesterolemia
+Interventions: BMS-852927 (DRUG); BMS-852927 (DRUG); BMS-852927 (DRUG); Placebo (DRUG)
+Summary: The purpose of this study is to evaluate the safety of BMS-852927 after 28 days of dosing in patients with high cholesterol.
+Eligibility: Inclusion Criteria:
+
+* Men and women, aged ≥18 to ≤75
+* Body mass index (BMI) ≤ 40 kg/m2
+* Primary hypercholesterolemia on a stable daily dose of a statin for ≥ 6 weeks
+* Serum triglyceride levels at screening \< 400mg/dL (\< 4.52 mmol/L)
+
+Exclusion Criteria:
+
+* Any significant acute medical illness, significant cardiovascular history
+* Current or history of hepatic or hepatobiliary disease
+* Evidence of organ dysfunction or any clinically significant deviation from normal in physical examination, vital signs, ECG or clinical laboratory determinations beyond what is consistent with the target population

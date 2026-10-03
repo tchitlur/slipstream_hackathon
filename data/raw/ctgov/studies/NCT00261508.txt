@@ -1,0 +1,20 @@
+Title: A Study of the Effectiveness and Safety of Risperidone Versus Placebo in the Treatment of Children With Autistic Disorder and Other Pervasive Developmental Disorders (PDD)
+Official title: Efficacy And Safety Of Risperidone In The Treatment Of Children With Autistic Disorder And Other Pervasive Developmental Disorders: A Canadian, Multicenter, Double-Blind, Placebo-Controlled Study
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: DCild Development Disorders, Pervasive; Autistic Disorder; Developmental Disabilities; Asperger Syndrome; Rett Syndrome
+Interventions: risperidone (DRUG)
+Summary: The purpose of the study is to evaluate the effectiveness of an oral solution of risperidone (an antipsychotic medication) versus placebo in the treatment of behavioral symptoms in children with Pervasive Developmental Disorders (PDD).
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of Pervasive Developmental Disorders (Autistic Disorder, Rett's Disorder, Childhood Disintegrative Disorder, Asperger's Disorder, or Pervasive Development Disorder not Otherwise Specified) by Diagnostic and Statistical Manual of Mental Disorders, 4th edition (DSM-IV), Axis I criteria
+* with a total score of \>=30 on the Childhood Autism Rating Scale (CARS)
+* receiving treatment as an out-patient
+* healthy on the basis of a physical examination, electrocardiogram (ECG), and medical history at start of the study.
+
+Exclusion Criteria:
+
+* Diagnosis of schizophrenia or other psychotic disorders by DSM-IV criteria
+* seizure during 3 months prior to study initiation or currently being treated with more than one anticonvulsant drug
+* history of tardive dyskinesia (a complication of neuroleptic therapy involving involuntary movements of facial muscles)
+* neuroleptic malignant syndrome (a rare psychotropic-drug reaction, which may be characterized by confusion, reduced consciousness, high fever or pronounced muscle stiffness)
+* known hypersensitivity, intolerance, or unresponsiveness to risperidone.

@@ -1,0 +1,29 @@
+Title: Preoperative Olaparib Endometrial Carcinoma Study (POLEN)
+Official title: A Preoperative "Window-opportunity", Multicenter, Pharmacokinetic-pharmacodynamic Study to Evaluate the Inhibitory Effects of Single Agent AZD2281 (Olaparib), in Patients With Early-stage Endometrial Carcinoma
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Endometrial Carcinoma
+Interventions: Olaparib (DRUG)
+Summary: The primary objective of this study is to identify, in human tumour samples, biomarker changes associated to short exposure to AZD2281 as potential predictors of activity in Endometrial Carcinoma (EC).
+
+This is an exploratory study with a biological primary endpoint. Clinical efficacy or safety are not a primary objective of the study.
+Eligibility: Inclusion Criteria:
+
+* Patients must have histologically-confirmed type I primary endometrial carcinoma (EC). Diagnosis biopsy must contain 3-12 mg of tumour cellularity/stroma (Tumour: 5-20 mm) and this will be checked in the central laboratory for this trial. If tumour cellularity/stroma is inadequate, one re-biopsy with adequate tumour cellularity/stroma will be mandatory before study entry.
+* WHO performance status ≤ 2.
+* Adequate bone marrow function as shown by: ANC ≥ 1.5 x 109/L, Platelets ≥ 100 x 109/L, Hb \>10g/dL.
+* Adequate liver function as shown by:
+
+serum bilirubin ≤ 1.5 x ULN INR \< 1.3 (or \< 3 on anticoagulants) ALT and AST ≤ 2.5x ULN
+
+* Adequate renal function: serum creatinine ≤ 1.5 x mg/dL.
+* Fasting serum cholesterol ≤300 mg/dL or ≤7.75 mmol/L and fasting triglycerides ≤ 2.5 x ULN.
+* Signed informed consent, including consent to tissue collection and blood samples as specified by the protocol.
+
+Exclusion Criteria:
+
+* Subjects who have received prior anticancer therapies for the current endometrial cancer (including chemotherapy, radiotherapy, antibody based therapy, hormonotherapy or surgery).
+* Patients, who have had a major surgery or significant traumatic injury within 4 weeks of start of study drug, patients who have not recovered from the side effects of any major surgery (defined as requiring general anesthesia) or patients that may require major surgery during the course of the study.
+* Prior treatment with any investigational drug within the preceding 4 weeks.
+* Patients receiving chronic, systemic treatment with corticosteroids or another immunosuppressive agent, except corticosteroids with a daily dosage equivalent to prednisone ≤ 20 mg. However, patients receiving corticosteroids must have been on a stable dosage regimen for a minimum of 4 weeks prior the study entry. Topical or inhaled corticosteroids are allowed.
+* Patients who have received immunization with attenuated live vaccines within one week of study entry (note: during study period these kind of vaccines are also not allowed).
+* Patients who have any severe and/or uncontrolled medical conditions or other conditions that could affect their participation in the study such

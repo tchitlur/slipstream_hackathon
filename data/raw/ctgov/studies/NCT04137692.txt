@@ -1,0 +1,25 @@
+Title: Red Blood Cell Exchange Transfusion as a Novel Treatment for GLUT1 Deficiency Syndrome
+Official title: Red Blood Cell Exchange Transfusion as a Novel Treatment for GLUT1 Deficiency Syndrome
+Status: SUSPENDED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Glucose Transporter Type 1 Deficiency Syndrome; GLUT1DS1
+Interventions: Red Blood Cell Transfusion (OTHER)
+Summary: Pathogenic mutations of the brain glucose transporter type I lead to glucose transporter deficiency syndrome (G1D), which is most often associated with medication-refractory epilepsy and movement dysfunction. At present, G1D is only alleviated by interventions such as the ketogenic diet, which can be poorly tolerated and afford only an incomplete restoration of neural function. A better understanding of G1D can uncover new fundamental aspects of brain function while facilitating the development of new therapies aimed to restore brain metabolism and excitability. We will conduct a mechanistic trial that will utilize a mechanism-testing framework broadly applicable to metabolic interventions. The trial will investigate red blood cell exchange (i.e., the replacement of human G1D circulating red cells, which are deficient in GLUT1) with healthy donor cells as a novel means to augment blood-to-brain glucose transport. The hypothesis is that electroencephalography post treatment will display an increase in beta brain activity. Additional measures of brain activity will also be secondarily tested.
+Eligibility: Inclusion Criteria:
+
+1. Male or Female
+2. Age 16 years to 80 years old.
+3. Diagnosed with genetically confirmed glucose transporter type 1 disorder
+4. Patients not currently receiving ketogenic dietary therapy, due to failure of this diet to achieve seizure remission or due to patient preference, including compliance or tolerance issues.
+5. Subjects must be able to provide informed consent for themselves or have a parent or legally authorized representative (LAR) provide permission if the subject is a minor or lacks capacity to consent.
+6. Spanish and English speakers will be eligible for participation. Spanish-speaking participants may be enrolled, and the study team is equipped to conduct the consent process in Spanish. The Principal Investigator (PI) is fluent in Spanish and will conduct the consent process in Spanish when applicable.
+7. IHD-RBCx is determined to be a safe and appropriate procedure for the subject by the transfusion medicine physician based on clinical and laboratory assessment.
+
+Exclusion Criteria:
+
+1. Currently on the ketogenic diet or taking triheptanoin (C7) oil
+2. No genetic confirmation of G1D diagnosis
+3. Unable to return for follow up visits
+4. Weak peripheral veins, such that IV placement is contraindicated (required for transfusion)
+5. Serious chronic medical conditions, such as congestive heart failure, renal failure, liver failure, or any other medical conditions that preclude large volume transfusions.
+6. Patients currently pregnant or breast-feeding are excluded from participating in this research. Patients who plan on getting pregnant during this research or who are unwilling to use birth control, including abstinence, during the course of this research are also excluded due to safety concerns for the fetus.
+7. An evaluation by the transfusion physician as to whether IHD-RBCx is a safe option will be part of the screening assessment. If IHD-RBCx is deemed unsafe based on laboratory parameters such as a low red blood cell count, then the subject will not be eligible to participate in this study.

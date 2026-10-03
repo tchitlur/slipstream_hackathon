@@ -1,0 +1,38 @@
+Title: Statin Monotherapy for Treatment of Endocrine Metabolic Disease Risk
+Official title: The Efficacy and Safety of Rosuvastatin for Modifying Bone Mass and Cardiometabolic Disease Outcomes
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Spinal Cord Injuries; Osteoporosis; Metabolic Syndrome
+Interventions: Rosuvastatin Calcium (DRUG); Placebo Oral Tablet (DRUG); Coenzyme Q10 (DIETARY_SUPPLEMENT); Calcium Carbonate (DIETARY_SUPPLEMENT); Vitamin D (DIETARY_SUPPLEMENT)
+Summary: Rationale: After having a spinal cord injury (SCI), people develop changes in their body composition that influences their long-term health. Individuals with paralysis after SCI will have large declines in their bone density ant increases in fat mass which increases their risk of fracture and heart disease. Therapies to prevent SCI-related changes in body composition and their health effects are needed. Drugs known as "statins" used often to reduce high cholesterol, may help to reduce bone loss and inflammation.
+
+Hypothesis: Among adults with SCI for a long time, treatment with a drug named Rosuvastatin or a sugar pill, with supplements (coenzyme Q10, calcium and vitamin D), for twelve months can decrease their endocrine metabolic disease risk by increasing bone density and reducing inflammation.
+
+Study Design: A clinical trial will be conducted in Toronto, Ontario and Miami, Florida. Subjects will get statin therapy or placebo (sugar pill) by chance. Study subjects and research staff will not know whether they are taking the study drug or a sugar pill until after the study
+
+Subjects: Fifty-four adults (age 18-60 years) with a long-term SCI and no movement below their level of inju
+Eligibility: Inclusion Criteria:
+
+* Adult (age 18-60 years)
+* Motor complete SCI (C1-T10 AIS A/B)
+* 2 years post-injury
+* Have a telephone, and ability to attend the study visits
+* Able to take oral medications and swallow independently
+* Can provide free and informed consent
+* Ability to understand instructions in English
+* May report current use of oral alendronate 10mg daily or 70mg weekly or risedronate 5mg daily, 30mg weekly or 150mg monthly
+
+Exclusion Criteria:
+
+These criteria are intended to exclude those in whom; Rosuvastatin would be unsafe, DXA/pQCT measurement or biomarker assessment would be invalid, or in whom other co-morbid health conditions may confound the study results. Exclusion criteria include:
+
+* Current and/or one year prior to enrolment treatment with any statin such as atorvastatin, fluvastatin, lovastatin, pitavastatin, pravastatin, simvastatin and rosuvastatin.
+* Current treatment with IV bisphosphonate, denosumab, recombinant PTH, ovarian hormone therapy, an oral contraceptive, Immunosuppressants (Including Cyclosporine) and fusidic acid.
+* Known allergy to Rosuvastatin, lactose powder, CoQ10, calcium carbonate, vitamin D2 and vitamin D3, or any other ingredient found in rosuvastatin, placebo or study supplements.
+* History of Paget's disease, osteomalacia, steroid induced osteoporosis, or untreated parathyroid or untreated thyroid disease.
+* Subjects with history of stage 4 chronic kidney disease. (124)
+* Current Weight ≥136 kg.
+* Bilateral knee region metal implants (hardware), history of bilateral knee region contracture \>30 degrees, fracture or any other bilateral knee region pathology which would preclude accurate DXA assessment of one limb.
+* Post-menopausal women (absence of menses for a minimum of 1 year).
+* Women with amenorrhea due to bilateral surgical removal of the ovaries and/or uterus (women with amenorrhea due to spinal cord injury are able to participate).
+* Pregnancy or lactation.
+* Female of child-bearing potential who is engaged in active heterosexual relations and is not using appropriate birth control methods. Appropriate methods of birth control will include: surgical sterilization at least 6 months prior to using study dru

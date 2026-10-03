@@ -1,0 +1,25 @@
+Title: Polypill For Prevention of Cardiovascular Disease
+Official title: The Feasibility of a Polypill Clinical Trial for Primary Prevention of Cardiovascular Disease: A Pilot Study
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Cardiovascular Disease
+Interventions: Red Heart Pill 2b (Polypill) (DRUG); Standard Practice (OTHER)
+Summary: The purpose of this pilot study is to provide data on the feasibility of conducting a large clinical trial on the polypill (combination of aspirin, angiotensin converting enzyme inhibitor, thiazide diuretic, and statin) for primary prevention of cardiovascular disease (CVD). We hypothesized that A "polypill" comprising the aforementioned four components would significantly reduce the estimated 10-year total CVD risk score with high adherence and no significant increase in adverse effects compared to the standard practice.
+Eligibility: Inclusion Criteria:
+
+* Estimated 10-year total CVD risk score \> 20%. The total CVD risk assessment will be based on the recently developed WHO CVD risk prediction charts
+* No contraindication for treatment with aspirin, angiotensin converting enzyme inhibitors, low-dose diuretics, or statins
+* Informed consent given
+
+Exclusion Criteria:
+
+* Patients with established angina pectoris, coronary heart disease, myocardial infarction, transient ischemic attacks, stroke, peripheral vascular disease, coronary revascularization and/or carotid endarterectomy Left ventricular hypertrophy (on ECG) or hypertensive retinopathy (grade III or IV)
+* Patients with secondary hypertension
+* Patients with diabetes type 1 or 2 with overt neuropathy or other significant renal disease.
+* Known renal failure or impairment
+* Atrial fibrillation
+* ALT \> 1.5 times the upper limit of normal
+* History of liver cirrhosis or hepatitis
+* History of recent gastrointestinal bleeding (within the last year)
+* Women in child bearing period
+* History of life-limiting diseases or events
+* Unwillingness to sign informed consent.

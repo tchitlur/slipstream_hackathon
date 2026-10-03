@@ -1,0 +1,22 @@
+Title: Treatment Development for Glucose Transporter Type I Deficiency Syndrome (G1D)
+Official title: Clinical Trial of Citric Acid Cycle Stimulation in Energy-deficiency States: Treatment Development for Glucose Transporter Type I Deficiency Syndrome (G1D) (NMTUT 2010B)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Glucose Transporter Type 1 Deficiency Syndrome; GLUT1 Deficiency Syndrome
+Interventions: Triheptanoin (DRUG)
+Summary: The purpose of this trial is to determine if an alternative energy source will impact brain metabolism in a disorder characterized by glucose metabolism failure in the brain.
+
+The central hypothesis tested in this investigation is whether circumventing impaired glucose metabolism is feasible, safe and potentially promising by supplying anaplerotic precursors through metabolism of odd-carbon fatty acids that can enter the citric acid cycle (CAC) through alternative metabolic pathways.
+Eligibility: Inclusion Criteria:
+
+* Male or Female
+* Ages 1 month to \<21 years of age
+* Diagnosed with glucose transporter type I deficiency.
+* Age matched (within 1 year) controls not diagnosed with G1D.
+
+Exclusion Criteria:
+
+* All subjects carrying body metal implants incompatible with the exposure to a magnetic field
+* Subjects unable to tolerate the MRI and MRS procedures due to anxiety
+* Subjects receiving oxygen supplementation or those confined to a bed or stretcher
+* Subjects currently receiving a ketogenic diet, due to a high risk of seizure recurrence while transitioning off ketosis.
+* Patients behaviorally unable to hold still for imaging procedures (rather than limited by seizure activity) will be excluded.

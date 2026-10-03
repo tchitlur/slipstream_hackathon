@@ -1,0 +1,23 @@
+Title: Phase 3 Efficacy and Safety Study of GTX-102 in Pediatric Subjects With Angelman Syndrome (AS)
+Official title: A Phase 3, Randomized, Double-blind, Sham-controlled Study Investigating the Efficacy and Safety of GTX-102 in Pediatric Subjects With Angelman Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Angelman Syndrome
+Interventions: GTX-102 (DRUG); Sham-LP (PROCEDURE)
+Summary: The primary objective of this study is to evaluate the effect of GTX-102 in cognitive function in participants with deletion-type Angelman Syndrome (AS).
+Eligibility: Key Inclusion Criteria:
+
+* Signed informed consent from parent(s) or legal guardian(s)
+* Confirmed diagnosis of AS with genetic confirmation of full maternal ubiquitin-protein ligase E3A (UBE3A) gene deletion causing AS in the region of 15q11.2 q13
+* Able to ambulate independently, or with assistance at the Screening Visit (note, a child whose primary means of mobility is by wheelchair is excluded from the study)
+* Platelet count, prothrombin time / international normalized ratio, and partial thromboplastin time within 1.5x the normal limits at the Screening Visit
+* Willing and able to comply with scheduled visits, drug administration plan, laboratory tests, and all study procedures, including LP procedure, MRI, and tolerating anesthesia without intubation
+* From the time of informed consent through to at least 6 months after the final dose of GTX-102, females of childbearing potential who are sexually active must use highly effective contraception or abstinence. Males are able to participate if they agree to remain abstinent (refrain from heterosexual intercourse) or use acceptable contraceptive methods during the study and for at least 3 months after the final dose of GTX-102
+
+Key Exclusion Criteria:
+
+* Any change in medications or diet/supplements intended to treat symptoms of AS (eg, sleeping aids, antiseizure medications, supplements, dietary change including ketogenic or low-glycemic index diet, other) within the month prior to the Screening Visit (excluding weight-based adjustments)
+* Any condition that creates an increased risk of unsuccessful LP
+* Current or expected concomitant use of drugs that increase the risk of bleeding (eg, heparin, low molecular weight heparin, platelet inhibitors)
+* Known hypersensitivity to GTX-102 or its excipients that, in the judgment of the Investigator, places the subject at increased risk for adverse effects
+* Presence or history of any condition, lab abnormality, or infection, that, in the judgement of the Investigator, would interfere with participation, pose undue safety risk, or would confound interpretation of results
+* Pregnant or breastfeeding or planning to become pregnant (self or partner) at any time during the

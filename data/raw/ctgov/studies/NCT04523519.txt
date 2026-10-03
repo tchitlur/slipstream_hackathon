@@ -1,0 +1,36 @@
+Title: PrEP Intervention for People Who Inject Substances and Use Methamphetamine
+Official title: PrEP Intervention for People Who Inject Substances and Use Methamphetamine
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: HIV Infections
+Interventions: Video directly observed therapy with contingency management (BEHAVIORAL); Integrated Next-Step Counseling (BEHAVIORAL)
+Summary: In this study, "PrEP Intervention for people who Inject Substances and Use Methamphetamine" (PRIME), we propose to assess if using video directly observed therapy with real-time contingency management (VDOT-CM) may help people assigned male sex at birth who inject methamphetamine adhere to PrEP. We will randomize 140 adults who use methamphetamine, are HIV-negative, and have recently engaged in a sexual HIV risk behavior to VDOT-CM or counseling alone for 24 weeks.
+
+The study aims are to (1) determine the efficacy of VDOT-CM compared to counseling alone for PrEP adherence, (2) evaluate the acceptability of PrEP and adherence support strategies among the cohort, and (3) compare injection or chemsex and sexual HIV risk behavior before and during PrEP use.
+
+We hypothesize that participants randomized to VDOT-CM will have superior adherence to PrEP. We also hypothesize that participants will describe barriers to and facilitators of PrEP adherence, and those who are randomized to VDOT-CM will consider it an acceptable PrEP adherence support strategy. Finally, we do not expect to find increased injection, chemsex, or sexual risk behaviors for HIV among study participants after they begin
+Eligibility: Inclusion Criteria:
+
+Participants are eligible to be included in the study only if all of the following criteria apply:
+
+1. Age 18-65 years inclusive,
+2. Assigned male sex at birth,
+3. Past 30-day methamphetamine use on 4 or more days, by self-report,
+4. ≥ 1 positive methamphetamine urine toxicology,
+5. Either interested in initiating PrEP OR currently on daily PrEP with sub-optimal adherence (measured as missing at least one dose of one's PrEP in the past 30 days, by self-report),
+6. Reports condomless sero-unknown/discordant anal or insertive vaginal sex with a person of any gender in the past 12 months,
+7. HIV-negative,
+8. Reliable access to a computer to complete study visits, if participating remotely, AND
+9. Proficient in English
+
+Exclusion Criteria:
+
+Participants are excluded from the study if any of the following criteria apply:
+
+1. On PrEP for more than 6 months,
+2. Unwillingness to use a video app to record oneself taking PrEP, OR
+3. Any other circumstances that, in the opinion of the investigators, would compromise participant safety and/or successful completion of the trial.
+
+   For participants receiving PrEP from the study team, exclusion criteria will include the following:
+4. Contraindication to tenofovir or emtricitabine-containing products,
+5. Creatinine clearance ≤30 mL/min, OR
+6. Positive hepatitis B surface antigen test.

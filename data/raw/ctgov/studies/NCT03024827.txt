@@ -1,0 +1,28 @@
+Title: Cannabidiol in Children With Refractory Epileptic Encephalopathy
+Official title: Cannabidiol in Children With Refractory Epileptic Encephalopathy: A Phase 1 Open Label Dose Escalation Study (CARE-E)
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Epileptic Encephalopathy
+Interventions: CanniMed® 1:20 (DRUG)
+Summary: This study will assess the safety and tolerability of a cannabidiol-enriched Cannabis Herbal Extract in a small group of children with refractory epileptic encephalopathy. The dosage of Cannabis Herbal Extract will be gradually increased over a four month time period.
+Eligibility: Inclusion Criteria:
+
+* Age 1-10 years
+* Epileptic Encephalopathy
+* A minimum of at least 1 major seizure per week or 4 major seizures per month. For the purposes of this research study, a major seizure would include atonic, tonic, clonic, tonic-clonic, major myoclonic, myoclonic astatic seizures and epileptic spasms (including infantile spasms)
+* Refractory to anticonvulsant medication as per the International League Against Epilepsy (ILAE) Definition of failing 2 appropriate anticonvulsants at therapeutic doses
+* The ability to attend appointments regularly
+* Negative pregnancy test at screening for females who have reached menarche
+
+Exclusion Criteria:
+
+* Recent (\<1 month) change in anticonvulsant therapies including anticonvulsant medications, ketogenic diet or settings on Vagal Nerve Stimulator
+* Recent (\<6 months) change in intravenous immunoglobulin (IVIG) treatment
+* Initiation of ketogenic diet within 6 months (Patients must be on the ketogenic diet for at least 6 months to prevent any delayed response from the ketogenic diet affecting study results)
+* Implantation and activation of Vagal Nerve Stimulator within 12 months (Patients may have a vagal nerve stimulator for at least one year once again to prevent delayed response from the vagal nerve stimulator affecting study results)
+* Use of cannabis-based therapy within 2 months (Participants who have previously used a cannabis based therapy may be included if they have a 2 month period without use of cannabis based therapy prior to enrolment in the study)
+* Use of selective serotonin reuptake inhibitor (SSRI), tricyclic antidepressant or atypical neuroleptic medication in last month
+* Concomitant regular use of narcotics (Use of narcotics in emergency situations and supervised by a physician is allowed)
+* Initiation or dosage change of oral or injected steroids within 3 months
+* Allergy or known intolerance to any of the compounds within the study preparation
+* Inability of study participants to attend assessments on a monthly basis
+* Clinically significant cardiac, renal or hepatic disease (as assessed by the site investigator)

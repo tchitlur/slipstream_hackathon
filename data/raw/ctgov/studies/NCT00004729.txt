@@ -1,0 +1,16 @@
+Title: Ketogenic Diet for Child Epilepsy and Seizure Control
+Official title: Efficacy of the Ketogenic Diet -- a Blinded Study
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Epilepsy; Seizures; Lennox-Gastaut Syndrome
+Interventions: Ketogenic diet (BEHAVIORAL)
+Summary: Twenty to thirty percent of children with epilepsy continue to suffer from seizures, even when treated with currently available anticonvulsant medications. Children with Lennox-Gastaut Syndrome (LGS) are particularly handicapped by atonic-myoclonic seizures. Preliminary data suggest that even when other medications have failed, these seizures may respond rapidly and dramatically to a high-fat-low-carbohydrate ketogenic diet. The purpose of the study is to assess if the classic ketogenic diet is efficacious in reducing seizure frequency, medication toxicity, and improves quality of life.
+Eligibility: Inclusion Criteria:
+
+* \>15 myoclonic or atonic seizures a day
+* EEG with Lennox-Gastaut pattern
+
+Exclusion Criteria:
+
+* \<15 atonic or myoclonic seizures a day
+* on \>3 medications
+* previously on diet and/or evidence of metabolic disorder

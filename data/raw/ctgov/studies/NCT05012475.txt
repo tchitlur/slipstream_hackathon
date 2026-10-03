@@ -1,0 +1,15 @@
+Title: Measuring Impact of Computer Gaming on Arm Use in Rett Syndrome
+Official title: Assessing the Effectiveness of Customized Computer Activities on Reducing Stereotypies and Improving Independent Upper Extremity Motor Skills in Persons with Rett Syndrome
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rett Syndrome
+Interventions: Modified Virtual Reality Gaming (BEHAVIORAL)
+Summary: Using a tele-research approach, we will recruit, enroll, guide and support carers and participants to engage in computer based activities (modified virtual reality) with the primary outcome of reducing stereotypies and increasing independent arm and hand use and secondary outcome of improving quality of living. Because of our virtual approach, we are able to recruit from multiple countries and all states and territories of the USA.
+Eligibility: Inclusion Criteria:
+
+* Rett syndrome,
+* Understanding of cause and effect,
+* Functional range of motion of arms to complete the movements needed to control the games.
+
+Exclusion Criteria:
+
+* no competing orthopedic or neuromuscular diagnosis that impacts shoulder movements

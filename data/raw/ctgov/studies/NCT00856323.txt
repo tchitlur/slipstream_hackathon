@@ -1,0 +1,25 @@
+Title: Contingency Management for Methamphetamine Abstinence and HIV Post-Exposure Prophylaxis in Men Who Have Sex With Men
+Official title: Biobehavioral Interventions for HIV-negative Methamphetamine-using MSM
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Amphetamine-Related Disorders; HIV; HIV Infections
+Interventions: Truvada (DRUG); CM (BEHAVIORAL)
+Summary: This study seeks to decrease methamphetamine use and concomitant high-risk sexual behaviors among methamphetamine-using men who have sex with men (MSM) by combining a biomedical intervention with a behavioral intervention. The behavioral intervention will consist of an 8-week course of contingency management (CM) through which participants will be reinforced for testing negative for methamphetamine metabolites during periodic urine analyses. The biomedical intervention involves a 28-day course of an antiretroviral drug (Truvada) to be administered after an unanticipated HIV risk exposure (i.e., engaging in either receptive or insertive anal sex without a condom with someone who is HIV-positive or of unknown status). In combining these two interventions, this study seeks to evaluate the combined intervention's effects on sexual risk behaviors and methamphetamine use.
+Eligibility: Inclusion Criteria:
+
+* Individual must identify as a male who has sex with other men (MSM);
+* At least 18 years of age;
+* HIV negative serostatus on baseline rapid oral HIV antibody test;
+* Self-reported methamphetamine use within the previous 72 hours and test positive for methamphetamine metabolites at baseline;
+* Self-reported unprotected anal intercourse (either receptive or insertive) with an HIV-positive or status unknown partner within the previous 3 months;
+* Self-reports no previous hypersensitivity to any of the components of Truvada (tenofovir disoproxil fumarate or emtricitabine);
+* Willing to comply with study requirements (i.e., monitored urine testing three times per week, meet with physician within first week of enrollment, begin medication immediately following an unexpected high-risk sexual exposure, and contact the clinic and meet with physician within 92 hours of unexpected high-risk sexual exposure).
+
+Exclusion Criteria:
+
+* Does not identify as a male who has sex with other men;
+* Under 18 years of age;
+* HIV positive, by self-report or as indicated by the results on the baseline rapid oral HIV antibody test;
+* Self-reports any previous hypersensitivity to any of the components of Truvada;
+* Has not used methamphetamine in the previous 72 hours and does not test positive for methamphetamine metabolites;
+* Has not had unprotected anal intercourse with an HIV-positive or status unknown partner within the previous 3 months;
+* Unwilling to comply with study requirements.

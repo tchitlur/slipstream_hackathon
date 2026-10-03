@@ -1,0 +1,13 @@
+Title: Deep Brain Stimulation (DBS) MatchMaker
+Official title: Deep Brain Stimulation (DBS) MatchMaker
+Status: ENROLLING_BY_INVITATION. Type: OBSERVATIONAL. Phases: none.
+Conditions: TOR1A; PANK2; HPRT1; EIF2AK2; SOX2; KMT2B; GABRB2; ADCY5; UBA5; GNAO1; SGCE; TNPO2; GNB1; PLA2G6; Movement Disorders; Dystonia; Chorea
+Interventions: none
+Summary: DBS Matchmaker (https://www.dbsmatchmaker.com) is a platform designed to connect clinicians worldwide who are treating rare movement disorders with deep brain stimulation (DBS). It facilitates global collaboration and knowledge sharing to enhance patient care by improving patient selection, counseling, treatment, and outcomes for individuals with movement disorders.
+Eligibility: Inclusion Criteria:
+
+* Individuals of all ages with genetic movement disorders, who are undergoing or being considered for DBS treatment.
+
+Exclusion Criteria:
+
+* Individuals who have not undergone DBS treatment.

@@ -1,0 +1,36 @@
+Title: Iron Supplementation in Heart Failure Patients With Anemia: The IRON-HF Study
+Official title: Randomized Trial to Assess the Effects of Iron Supplementation in Heart Failure Patients With Anemia: The IRON-HF Study
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: Heart Failure; Anemia
+Interventions: Iron Sucrose IV 200mg, once a week, for 5 weeks (DRUG); Ferrous sulfate 200mg PO TID, for 8 weeks (DRUG)
+Summary: Anemia has been demonstrated to be a common finding in patients with heart failure (HF). Previous studies in hospitalized patients with HF have found a prevalence of anemia ranging from 15% to 63%. More importantly, anemic patients with HF have increased morbidity and mortality. The mechanisms underlying anemia in HF are multifactorial, involving mild to moderate forms of anemia of chronic disease and ferropenic anemia. The clinical impact of iron supplementation in HF patients who have a relatively preserved renal function and either chronic disease anemia, ferropenic anemia or both remains largely unknown. The route of iron administration that could be most clinically effective is also unclear. Thus, the primary aim of the IRON-HF study is to assess the effects of iron supplementation alone (IV or PO) on parameters of functional capacity in HF patients with anemia with decreased availability of iron.
+Eligibility: Inclusion Criteria:
+
+* 18 years of age or older;
+* Outpatients followed at a HF Clinic in a tertiary care Hospital with clinical diagnosis of HF for at least 3 months before study entry;
+* NYHA functional class II to IV, who are able to perform ergospirometry;
+* Documentation of LVEF \< 40% within the last 6 months;
+* Adequate baseline therapy for HF based on patient's functional class (β-blockers, ACE inhibitors irrespective of functional class except if contra-indications, digoxin, spironolactone if NYHA class III or IV);
+* Stable baseline HF therapy with same doses of medications and no intent to increase doses for the following 3 months;
+* Hemoglobin ≤ 12 g/dl and \> 9 g/dl;
+* Transferrin saturation \< 20% and ferritin \< 500 µg/L;
+* Ability to provide written informed consent.
+
+Exclusion Criteria:
+
+* Any clinically overt bleeding: gastrointestinal bleeding, hypermenorrhea, history of peptic ulcer without evidence of healing or inflammatory intestinal diseases;
+* Uncorrected hypothyroidism;
+* Other inflammatory, neoplastic or infectious disease;
+* Serum creatinine \> 1,5 mg/dl;
+* Previous intolerance to oral elemental iron compounds;
+* HF due to alcoholic cardiomyopathy, current regular drinker of alcoholic beverages or HF due to peripartum cardiomyopathy;
+* Recent admission for decompensated HF (last month)
+* Recent myocardial revascularization procedures (last 3 months);
+* Recent ACS, stroke or TIA (last 3 months);
+* Active or metastatic neoplastic disease with life expectancy of less than a year;
+* Patients in heart transplantation list;
+* Patients that had participated in any other clinical trial or study within the last month;
+* Pregnant or lactating women;
+* Pre-menopausal women that are not using any effective method of contraception;
+* Patients using prohibited medications or that have not yet accomplished the wash-out period;
+* Patients currently participating in cardiovascular rehabilitation programs.

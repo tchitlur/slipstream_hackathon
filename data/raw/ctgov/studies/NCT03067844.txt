@@ -1,0 +1,30 @@
+Title: Vascular Effects of Alirocumab in Acute MI-Patients
+Official title: Effects of the PCSK9 Antibody AliroCuMab on Coronary Atherosclerosis in PatieNts With Acute Myocardial Infarction: A Serial, Multivessel, Intravascular Ultrasound, Near-Infrared Spectroscopy And Optical Coherence Tomography Imaging Study
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Coronary Vessel; Coronary Circulation; Atheroma; Myocardial
+Interventions: Alirocumab (DRUG)
+Summary: Coronary artery disease (CAD) is the most frequent cause of mortality in the industrialized world. Hypercholesterolemia is a major risk factor for the development and progression of CAD. While statins currently represent the first-line, gold-standard therapy for primary and secondary prevention of cardiovascular morbidity and mortality, nearly 50% of patients in Europe and Canada treated with statins do not achieve their target levels of low-density lipoprotein cholesterol (LDL-C) or cannot tolerate effective statin doses.
+
+Recently, a growing number of studies of PCSK9 inhibitors in a wide spectrum of patients with hyperlipidemia on or off lipid-lowering therapy, familial hypercholesterolemia, and statin intolerance demonstrated consistent, profound, and sustained reductions in LDL-C with greater magnitude of reduction as compared with high-dose statin regimens. However, the effects of PCSK9 inhibition on coronary plaque morphology remain unknown.
+
+This study will investigate the effect of the PCSK9 inhibitor alirocumab in patients with acute myocardial infarction undergoing percutaneous coronary intervention (PCI) in the infarct-related artery and receiving guideline-recommended 
+Eligibility: Inclusion Criteria:
+
+* Male or female, age ≥18 years at screening;
+* Acute myocardial infarction: acute ST-segment elevation myocardial infarction (STEMI) with pain onset within ≤24h, or non-ST segment elevation myocardial infarction (NSTEMI), with at least one coronary segment (culprit lesion) requiring PCI;
+* LDL-C ≥70 mg/dL (≥1.8 mmol/L) assessed prior to, or during PCI in patients who have been receiving any stable statin regimen within ≥ 4 weeks prior to enrollment; OR LDL-C ≥125 mg/dL (≥3.2 mmol/L) in patients who are statin-naïve or have not been on stable statin regimen for ≥ 4 weeks prior to enrollment;
+* At least two major native coronary arteries ("target vessels") each meeting the following criteria for intracoronary imaging immediately following the qualifying PCI procedure: Angiographic evidence of \<50% reduction in lumen diameter by angiographic visual estimation;
+* Target vessel deemed to be accessible to imaging catheters and suitable for intracoronary imaging in the proximal (50mm) segment ("target segment");
+* Target vessel may not be a bypass (saphenous vein or arterial) graft or a bypassed native vessel;
+* Target vessel must not have undergone previous PCI within the target segment;
+* Target vessel is not candidate for intervention at the time of qualifying PCI or over the following 6 months in the judgment of the Investigator;
+* Hemodynamic stability allowing the repetitive administration of nitroglycerine;
+* Ability to understand the requirements of the study and to provide informed consent;
+* Willingness to undergo follow-up intracoronary imaging.
+
+Exclusion Criteria:
+
+* Left-main disease, defined as ≥50% reduction in lumen diameter of the left main coronary artery by angiographic visual estimation;
+* Three-vessel disease, defined as ≥70% reduction in lumen diameter of three major epicardial coronary arteries by angiographic visual estimation or in major branches of one or more of these arteries, irrespective of the localization (proximal 50mm or more distal localization) of the obstructive lesions;
+* History of coronary artery bypass surgery;
+* "Thrombolysis In Myocardial Infarction" (TIMI) flow \<2 of the infarct-related artery after P

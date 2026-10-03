@@ -1,0 +1,29 @@
+Title: Study to Assess Efficacy and Safety of XC221 200 mg in the Treatment of Influenza or Other ARVI
+Official title: Double-blind Randomized Placebo-controlled Comparative Multicenter Study to Assess the Safety, Tolerability and Efficacy of XC221 in a Dose of 200mg Per Day in Patients With Uncomplicated Influenza or Other ARVI
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Influenza; Acute Respiratory Viral Infections
+Interventions: XC221 (DRUG); Placebo (DRUG)
+Summary: The innovative drug XC221 is planned for use in treatment of acute respiratory viral infections in a double-blind, randomized, placebo-controlled, comparative multicenter study assessing the safety, tolerability and efficacy of XC221 at a dose of 200 mg per day in patients with uncomplicated influenza or other acute respiratory viral infections during the 3-days treatment.
+Eligibility: Inclusion Criteria:
+
+1. Both sexes aged 18 years and older.
+2. Clinically diagnosed influenza or ARVI mild or moderate severity.
+3. Patient's body temperature ≥37.5ºС and at least 1 symptom from Modified Jackson Scale estimated more than 2 points.
+4. Uncomplicated course of influenza or ARVI based on clinical estimations.
+5. The first 36 hours from the beginning of symptoms of influenza or ARVI.
+6. Women of reproductive age (who are not in menopause and who have not undergone surgical sterilization) and men who have sexual activity should use a reliable method of contraception (acceptable methods of contraception in this study are: intrauterine devices, oral contraceptives, contraceptive patch, long-acting injectable contraceptives, a double barrier method (condom and diaphragm with spermicide) throughout the study period.
+7. Compliance with the treatment regimen, visits and laboratory examinations provided by the protocol.
+8. Signed Informed Consent Form.
+
+Exclusion Criteria:
+
+1. Complications of influenza or ARVI (including the presence / development of bacterial infection).
+2. The need for inpatient treatment of influenza and ARVI.
+3. Hypersensitivity to excipients of the drug XC221 or placebo.
+4. Antiviral medications 7 days prior to screening (antiviral agents, interferons and interferon inducers, drugs that have immunomodulating action) or anti-infective agents of systemic or local action.
+5. Severe infection with signs of cardiovascular insufficiency development and other manifestations of infectious-toxic shock, as well as with the presence of neuroinfection syndrome (encephalic and meningoencephalic reactions, polyradiculoneuritis, neuritis).
+6. Signs of of viral pneumonia symptoms (the presence of two or more of the following symptoms): dyspnea, chest pain when coughing, systemic cyanosis, dullness of percussion sound with a symmetrical evaluation of the upper and lower sections of the lungs).
+7. Infectious diseases during the last week before including into the study.
+8. Bronchial asthma, COPD, pulmonary emphysema in history.
+9. History of increased convulsive activity.
+10. Severe, decompensated or unstable somatic diseases (any diseases or conditions

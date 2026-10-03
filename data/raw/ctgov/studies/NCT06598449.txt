@@ -1,0 +1,20 @@
+Title: Assessment of Safety of the Use of Fenfluramine in Children With Dravet Syndrome Under 24 Months of Age
+Official title: Assessment of Safety of the Use of Fenfluramine in Children With Dravet Syndrome Under the Age of 24 Months
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Dravet Syndrome (DS); Children Under 2 Years
+Interventions: fenfluramine (DRUG)
+Summary: Dravet syndrome is a genetic epilepsy associated with pathogenic variants in SCN1A that codes for Nav1.1, a protein necessary for sodium channels. Children with Dravet syndrome classically present in the first year of life with prolonged seizures, often hemiclonic and in the setting of fever or temperature changes such as getting in or out of bath water. Many anti-seizure medications are sodium channel blockers and exacerbate seizures in this patient population. This creates some limitations in medication choices for this patient population. Recently fenfluramine was approved for use in Dravet syndrome for people 2 years and older. Randomized studies demonstrated a 74.9% reduction of convulsive motor seizures compared to 19.2% in the placebo group. Additionally, 16% of children treated with fenfluramine were seizure free. Fenfluramine is likely to be as effective in children under the age of 2 years. The current study has proposed an intermediate size patient population expanded access protocol to allow access to fenfluramine for children under 24 months of age.
+Eligibility: Inclusion Criteria:
+
+Treating physicians must submit a clinical statement of potential benefit, which includes patient's gender, age, diagnosis, genetic pathogenic variant, co-morbidities, seizure history, prior and current therapies, response to prior therapies and reason for request. Echocardiogram (ECHO) results must also be submitted to the lead site prior to final approval. Patients must be between 12 and 23 months old to be eligible. Additional inclusion criteria:
+
+1. SCN1A with a known or presumed pathogenic variant or VUS with a history of prolonged seizure or a clinical diagnosis of Dravet syndrome.
+2. Failure of at least one anti-seizure medication that is not a sodium channel blocker (lamotrigine, oxcarbazepine, carbamazepine, eslicarbazepine)
+
+Exclusion Criteria:
+
+1. Patients with mild or greater mitral valve regurgitation and/or trace or greater aortic valve regurgitation will not be eligible for participation. The clinical statement can be submitted first for initial, conditional approval and then ECHO results can be submitted at a later date for final approval.
+2. Patients with failure to thrive will not be eligible for participation as fenfluramine can suppress appetite and has a risk for weight loss. Failure to thrive will be evaluated on the following criteria:
+
+   1. Weight less than the 2nd percentile.
+   2. Lack of weight gain that crosses two or more of the major percentile lines and is not congruent with length.

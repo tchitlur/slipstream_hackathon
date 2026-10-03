@@ -1,0 +1,20 @@
+Title: EValuation Of poLygenic Scores and CT imAging In Risk Factor Modification in Patients With diabEtes
+Official title: EValuation Of poLygenic Scores and CT imAging In Risk Factor Modification in Patients With diabEtes
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Cardiovascular Diseases; Type 2 Diabetes Mellitus (T2DM)
+Interventions: CTCA results (OTHER); PRS results (OTHER)
+Summary: This study is a three-arm, parallel-group, randomised controlled trial evaluating the effect of using cardiac CT imaging or polygenic risk score in cardiovascular risk factor modification in patients with diabetes.
+Eligibility: Inclusion Criteria:
+
+* Age 40 years or older
+* Established diagnosis of T2DM
+* Having acceptable imaging quality as deemed by the VHI-AICL
+* Able to have a PRS calculated
+
+Exclusion Criteria:
+
+* Unable to provide written informed consent.
+* Unwilling to be followed for serial evaluation
+* Clinically manifest CV disease
+* Evidence of clinically significant coronary disease on CT that would preclude masking from participant's treating clinician for the duration of the study on the grounds of safety, including but not limited to, equal/greater than 50% in the left main coronary artery or equal/greater than 70% in any epicardial coronary artery
+* Unable to participate in the study or complete protocol required assessments in the opinion of the Investigator

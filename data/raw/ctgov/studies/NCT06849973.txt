@@ -1,0 +1,28 @@
+Title: To Study the Efficacy & Safety of Oral NA-921 (Bionetide) in Girls and Women with Rett Syndrome
+Official title: A Randomized, Double-Blind, Placebo-Controlled, Phase 2/ Phase 3 Study of NA-921 (Bionetide) for the Treatment of Girls and Women with Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: Rett Syndrome
+Interventions: Drug: Bionetide (DRUG); Placebo (DRUG)
+Summary: To study the efficacy \& safety of oral Bionetide versus placebo in girls and women with Rett syndrome
+Eligibility: INCLUSION CRITERIA:
+
+* Female subjects 5 to 20 years of age, inclusive, at Screening
+* Body weight ≥12 kg at Screening
+* Can swallow the study medication provided as a liquid solution or can take it by gastrostomy tube
+* Has classic/typical Rett syndrome (RTT)
+* Has a documented disease-causing mutation in the MECP2 gene
+* Has a stable pattern of seizures, or has had no seizures, within 8 weeks of Screening
+* Subjects of childbearing potential must abstain from sexual activity for the duration of the study and for at least 30 days thereafter or must agree to use acceptable methods of contraception. Subject must not be pregnant or breastfeeding.
+* The subject's caregiver is English-speaking and has sufficient language skills to complete the caregiver assessments
+* Subject and caregiver(s) must reside at a location to which study drug can be delivered and have been at their present residence for at least 3 months prior to Screening
+
+EXCLUSION CRITERIA :
+
+* Has been treated with insulin within 12 weeks of Baseline
+* Has current clinically significant cardiovascular, endocrine (such as hypo- or hyperthyroidism, Type 1 diabetes mellitus, or uncontrolled Type 2 diabetes mellitus), renal, hepatic, respiratory or gastrointestinal disease (such as celiac disease or inflammatory bowel disease) or has major surgery planned during the study
+* Has a history of, or current, cerebrovascular disease or brain trauma
+* Has significant, uncorrected visual or uncorrected hearing impairment
+* Has a history of, or current, malignancy
+* Has a known history or symptoms of long QT syndrome
+
+Additional inclusion/exclusion criteria apply. Patients will be evaluated at screening to ensure that all criteria for study participation are met. Patients may be excluded from the study based on these assessments (and specifically, if it is determined that their baseline health and condition do not meet all pre-specified entry criteria).

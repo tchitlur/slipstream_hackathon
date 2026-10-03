@@ -1,0 +1,21 @@
+Title: Glucose Trnsporter and PEDF in Psoriasis
+Official title: Role of Glucose Transporter (GLUT) Genes Expression in Patients With Psoriasis
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Psoriasis Vulgaris
+Interventions: GLUT 1 gene expression (DIAGNOSTIC_TEST)
+Summary: Psoriasis is a chronic relapsing cutaneous immune mediated inflammatory disease(IMID). In which there are skin lesions characterized by erythema, thickness and scale formation with different size from a pinhead to 20 cm in diameter. Prevalence of psoriasis is 2% to 4% worldwide. Psoriasis occurs at any age with two peaks: between 15-20 years and between 55-60 years. Women are presented with psoriasis at younger age than men ,but with less severity. lesions usually present on knee, elbow, scalp and sacral region this may be attributed to higher traumatic incident .
+
+Psoriasis vulgaris is the most common type, and accounts 90% of cases. Patients with psoriasis vulgaris present with pain, itching and bleeding from skin lesions.
+
+There are many theories for psoriasis pathogenesis: angiogenesis, decrease in apoptosis of keratinocyte, hyperproliferation , alteration of cell to cell adhesion and immune-mediated inflammation.
+
+Patients with immune mediated inflammatory disease (IMID) are susceptible to develop diabetes mellitus, metabolic syndrome, hyperlipidemia, and hypertension.A previous study found that psoriatic patients are more susceptible to type 2 diabetes compared to control.
+
+G
+Eligibility: Inclusion Criteria:
+
+* Patients with psoriasis vulgaris Patients with psoriasis vulgaris and type 2 diabetes
+
+Exclusion Criteria:
+
+* Factors affect GLUT 1 expression As: tumors either benign or malignant cause increase GLUT 1 expression

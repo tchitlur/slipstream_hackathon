@@ -1,0 +1,20 @@
+Title: Does Vitamin C Reduce Finger Stiffness After Distal Radius Fractures?
+Official title: Does Vitamin C Reduce Finger Stiffness After Distal Radius Fractures? A Placebo Randomized Controlled Trial
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Finger Stiffness; Distal Radius Fracture
+Interventions: 500 mg vitamin c, 1 pill per day for 6 weeks (DRUG); 1 placebo pill for 6 weeks (DRUG)
+Summary: The reported prevalence of disproportionate pain and disability among patients recovering from a fracture of the distal radius varies widely. Literature reports numbers between 1% and 37%, perhaps in part because it is poorly defined, known by so many different names, subjective, and unverifiable.
+
+The investigators are interested in the effect of vitamin C after distal radius fractures on objective measurement of finger motion, patient reported outcome measures, and pain intensity, instead of the previously used, subjective and imprecise criteria for complex regional pain syndrome.
+
+Patients presenting to the Hand and Orthopaedic Trauma Services of MGH with a distal radius fracture will be asked to participate in this clinical trial. Patient will be randomly assigned to take either placebo or vitamin C 500 mg until full finger motion is attained as regarded by the treating physician at follow-up or for 6 weeks.
+
+The investigators hypothesize no difference in finger stiffness at 6 weeks measured by distance to palmar crease of the index through little finger between patients taking vitamin C or placebo after a distal radius fracture. Additionally, the investigators assess finger st
+Eligibility: Inclusion Criteria:
+
+* All adult (age 18 or greater) patients presenting to the Hand and Orthopaedic Trauma Services of the Massachusetts General Hospital (MGH) within two weeks of a fracture of the distal radius, either operatively or nonoperatively treated
+
+Exclusion Criteria:
+
+* Patients with severe kidney failure, known allergy for vitamin C or pregnancy
+* Multiple fractures, except for ulna fractures

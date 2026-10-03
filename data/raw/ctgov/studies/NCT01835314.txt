@@ -1,0 +1,7 @@
+Title: Compassionate Use of Stiripentol in Dravet Syndrome
+Official title: Compassionate Use of Stiripentol in Dravet Syndrome
+Status: NO_LONGER_AVAILABLE. Type: EXPANDED_ACCESS. Phases: none.
+Conditions: Dravet Syndrome
+Interventions: Stiripentol (DRUG)
+Summary: Compassionate use of Stiripentol in Dravet Syndrome. This is a treatment protocol, not a research study, therefore children will only be monitored on a clinical basis for seizure improvement predominantly by parent and caregiver report.
+Eligibility: Children with genetic confirmation of Dravet syndrome (a documented sodium channel, voltage-gated, type I, alpha subunit (SCN1A) mutation) or clinical confirmation of Dravet syndrome by two pediatric neurologist will be considered to have Dravet syndrome. In order to enter the treatment protocol there will be documented treatment failure of at least two therapeutic anticonvulsants excluding Na channel blockers. Anticonvulsants that are Na channel blockers such as carbamazepine and lamotrigine as known to provoke seizures in this patient population.

@@ -1,0 +1,15 @@
+Title: Validation of Optical Genome Mapping for the Identification of Constitutional Genomic Variants in a Postnatal Cohort
+Official title: Validation of Optical Genome Mapping for the Identification of Constitutional Genomic Variants in a Postnatal Cohort
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Developmental Disability; Intellectual Disability; Autism Spectrum Disorder; Congenital Anomaly; Fragile X Syndrome; Facioscapulohumeral Muscular Dystrophy 1
+Interventions: Standard of care genetic testing group (OTHER)
+Summary: The purpose of this research use only (RUO) study is to detect genomic structural variants (SVs) in human DNA by Optical Genome Mapping (OGM) using the Bionano Genomics Saphyr system. SVs are a type of genetic alternation that includes deletions, duplications, and both balanced and unbalanced rearrangements (ex: inversions or translocations), as well as specific repeat expansions and contractions. The results of OGM analysis will be compared to prior clinical genetic test results to determine how OGM compares to current standard of care (SOC) clinical test methods such as chromosomal microarray analysis (CMA), karyotyping, Southern blot analysis, polymerase chain reaction (PCR), fluorescence in situ hybridization (FISH), and/or next generation sequencing (NGS), etc.
+Eligibility: Inclusion Criteria:
+
+1. Individual with a genomic aberration identified by CMA, karyotyping, Southern blot analysis, PCR, FISH, and/or NGS or other standard of care (SOC) genetic testing technology whose clinical test results are available to compare with results from OGM.
+2. Patients with prior negative SOC genetic testing results whose results are available to compare with results from OGM.
+
+Exclusion Criteria:
+
+1. Any individual who opted-out of research at the testing laboratory.
+2. An individual whose genetic test contains the following variants: pathogenic sequence variants, abnormalities involving acrocentric p-arms and centromeres, below 20% for mosaicism, and tetraploidy.

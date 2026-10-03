@@ -1,0 +1,26 @@
+Title: Multimodal Investigation of the Neuroprotective Effects of Resveratrol (MINER)
+Official title: A Pilot RCT on the Effect of Resveratrol on Mood, Memory Deficits, Hippocampal Inflammation and Neurogenesis in Veterans With Gulf War Illness
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Gulf War Illness
+Interventions: Resveratrol (DRUG)
+Summary: Since their return from military service in the 1990-1991 Gulf War, many Veterans have been affected by debilitating symptoms that are not easily explained. A leading hypothesis states that the combination of exposure to toxic chemicals and environmental stressors are responsible for a cluster of debilitating symptoms known as Gulf War Illness (GWI). Research has found that over-the-counter antioxidant supplements such as resveratrol may reverse the damage that causes these debilitating symptoms. Resveratrol is a nutrient found abundantly in the skin of red grapes that is known to have robust antioxidant and anti-inflammatory properties. The investigators predict that resveratrol treatment will improve memory issues, difficulties with thinking and mood problems in Veterans with GWI and that resveratrol will do so with minimal risk.
+Eligibility: Inclusion Criteria:
+
+1. Served on active military duty and deployed to the Persian Gulf region August 1990 - July 1991;
+2. English speaking and able to understand the consent form and study questionnaires;
+3. Willing and able to be randomized to treatment and to commit to a 26-week study;
+4. Men and women between the ages of 44 to 68 (the number of 1990-1991 Gulf War Veterans who are older than 68 dramatically decreases because many of those with GWI have died prematurely);
+5. Meet the Kansas case definition for the diagnosis of GWI as well as the more inclusive CDC definition
+6. Stabilization on any psychiatric medication (≥3 months on selective serotonin reuptake inhibitor or monoamine oxidase inhibitor, ≥1 month on anxiolytic or beta-blockers);
+7. Female subjects of childbearing potential must test negative for pregnancy at the time of enrollment based on a serum pregnancy test and agree to use reliable method of birth control (for example, oral contraceptives or Norplant; a reliable barrier method of birth control \[diaphragms with contraceptive jelly; cervical caps with contraceptive jelly; condoms with contraceptive foam\]; intrauterine devices; partner with vasectomy; or abstinence) during the study. Note that this inclusion criterion applies only to females of childbearing potential. Females of childbearing potential are defined as women not surgically sterilized and between menarche and 2 years post-menopause.
+
+Exclusion Criteria:
+
+1. Unstable or poorly controlled diabetes type II (HbA1C \>9.0);
+2. Cancer;
+3. Lifetime diagnosis of schizophrenia or bipolar disorder or a history of psychiatric hospitalization for, or current diagnosis (i.e., the past 6 months) of substance dependence;
+4. Major depressive disorder or posttraumatic stress disorder requiring hospitalization;
+5. Significant CNS disease including TIAs or stroke, dementia, syncopal episodes, severe head trauma, multiple sclerosis;
+6. Serious or advanced heart disease or clinically relevant abnormal electrocardiogram (ECG) or postural hypotension;
+7. Untreated sleep apnea or body mass index (BMI) placing patients at risk for undiagnosed sleep apnea (BMI≥35 kg/m2);
+8. Subjects with renal insuffic

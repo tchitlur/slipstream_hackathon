@@ -1,0 +1,37 @@
+Title: TAP-GRIN: Interventional Study on Patients With GRIN-related Neurodevelopmental Disorders
+Official title: L-serine Supplementation in Patients With GRIN-related Neurodevelopmental Disorders: Multicentre Protocol for an Aggregated Series of Randomised, Placebo-controlled N-of-1 Trials
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: GRIN-related Disorders; GRIN1; GRIN2A; GRIN2B; GRIN2D; Epilepsy; Neurodevelopmental Disorder (Diagnosis)
+Interventions: L-serine (DIETARY_SUPPLEMENT); Maltodextrin (Placebo) (OTHER)
+Summary: The goal of this clinical study is to find out whether L-serine dietary supplementation helps improve overall clinical functioning in children and young adults (2-30 years) with GRIN-related neurodevelopmental disorders (GRIN-NDD) caused by loss-of-function (LoF) variants in GRIN1, GRIN2A, GRIN2B, or GRIN2D. It will also assess the safety and tolerability of L-serine.
+
+The main questions it aims to answer are:
+
+Does L-serine improve overall clinical status, measured mainly by the Clinical Global Impression-Severity (CGI-S) score?
+
+Does L-serine improve behaviour, cognition, adaptive functioning, motor skills, sleep, and (in those with epilepsy) seizure frequency and EEG findings?
+
+What side effects or medical problems occur during L-serine compared with placebo?
+
+Do neurophysiological measures (including TMS-EMG/TMS-EEG) change with treatment and potentially act as biomarkers of response?
+
+Researchers will compare L-serine to a placebo (maltodextrin powder with similar appearance/texture) using a randomised, double-blind, placebo-controlled "n-of-1" approach, where each participant receives both treatments in alternating periods. Results from multiple single-patient trials will the
+Eligibility: Inclusion Criteria:
+
+* Clinical diagnosis of a GRIN-related neurodevelopmental disorder (GRIN-NDD)
+* Presence of a pathogenic or likely pathogenic loss-of-function (LoF) variant in GRIN1, GRIN2A, GRIN2B, or GRIN2D
+* Parent(s), caregiver(s), or legally authorised representative(s) have been informed of the nature of the study and have provided written informed consent.
+* Participants who are able to do so have provided written informed consent or assent, according to local regulations and cognitive capacity.
+* Parent(s)/caregiver(s) are willing and able to comply with study procedures and visits, in the opinion of the investigator.
+* Participants who have previously received L-serine supplementation are willing to discontinue L-serine for at least one week prior to the baseline observation period.
+
+Exclusion Criteria:
+
+* Age younger than 2 years at screening.
+* Known hypersensitivity or intolerance to L-serine, placebo, or any excipients used in the study formulations.
+* Presence of a clinically significant unstable medical condition (other than epilepsy) that, in the investigator's judgement, may place the participant at increased risk or interfere with study participation.
+* Any other significant disease or disorder that may compromise participant safety, affect study outcomes, or impair the participant's ability to complete the study procedures.
+* Inadequate supervision by parent(s) or caregiver(s), as judged by the investigator.
+* Participation in another clinical trial involving an investigational medicinal product within the previous 6 months.
+* Female participants who are pregnant or breastfeeding.
+* Presence of a GRIN1, GRIN2A, GRIN2B, or GRIN2D variant for which a clear loss-of-function effect cannot be demonstrated.

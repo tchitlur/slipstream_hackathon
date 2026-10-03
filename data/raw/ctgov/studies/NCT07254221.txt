@@ -1,0 +1,24 @@
+Title: Rosuvastatin for Prevention of Anthracycline-induced Cardiac Dysfunction in Breast Cancer Patients
+Official title: Evaluation of Rosuvastatin Efficacy in Prevention of Anthracycline-induced Cardiac Dysfunction in Breast Cancer Patients After Chemotherapy
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Anthracycline-induced Cardiac Toxicity; Breast Cancer; Anthracycline Related Cardiotoxicity in Breast Cancer; Anthracycline-induced Cardiotoxicity
+Interventions: Rosuvastatin 20 mg/day (DRUG); Placebo tablets similar to rosuvastatin 20mg tablets (DRUG)
+Summary: This study, called "ROSUBREAST", is a multicenter, double-blind, randomized clinical trial evaluating whether rosuvastatin (20 mg daily) can protect the heart in women with breast cancer receiving anthracycline-based chemotherapy. A total of 400 participants will be randomly assigned to receive either rosuvastatin or placebo for 12 months. The main goal is to determine whether rosuvastatin can prevent cancer treatment-related cardiac dysfunction (CTRCD), defined as a significant drop in heart pumping function. The study will also assess changes in cardiac strain, blood biomarkers, symptoms of heart failure, quality of life, and possible side effects.
+Eligibility: Inclusion Criteria:
+
+* Female individuals with ≥18 years of age
+* Documented breast cancer diagnosis based on imaging and pathology findings
+* Scheduled to receive the first time anthracycline-based chemotherapy
+
+Exclusion Criteria:
+
+* Baseline LVEF \< 50%
+* Prior Statin use or Statin use is indicated based on guidelines
+* history of congestive heart failure (CHF) or cardiomyopathy
+* Pregnancy or breastfeeding
+* Unable to provide informed consent
+* Unexplained persistent elevation of transaminases (\>3 times upper limits of normal)
+* Concomitant use of oral cyclosporine
+* Metastatic invasion of cancer to other organs
+* Previous cycles of chemotherapy
+* Any contraindication for statin use

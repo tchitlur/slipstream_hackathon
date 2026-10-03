@@ -1,0 +1,13 @@
+Title: Studies of the Variable Phenotypic Presentations of Rapid-Onset Dystonia Parkinsonism and Other Movement Disorders
+Official title: Clinical, Genetic, and Cellular Consequences of Mutations in the NA,K-ATPase ATP1A3
+Status: ACTIVE_NOT_RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Dystonia; Parkinsonism
+Interventions: none
+Summary: The purposes of this study are to identify persons with rapid-onset dystonia-parkinsonism (RDP) or mutations of the RDP gene, document prevalence of the disease, and map its natural history.
+Eligibility: Inclusion Criteria:
+
+* clinical presentation consistent with ATP1A3 disease (RDP, AHC) or confirmed diagnosis of RDP or AHC
+
+Exclusion Criteria:
+
+* none

@@ -1,0 +1,15 @@
+Title: Molecular Genetics in Infantile Spasms
+Official title: Molecular Characterization of a Cohort of 73 Patients With Infantile Spasms Syndrome
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Infantile Spasms; West Syndrome
+Interventions: none
+Summary: Infantile Spasms syndrome (ISs) is a characterized by epileptic spasms occurring in clusters with an onset in the first year of life. West syndrome represents a subset of ISs that associates spasms in clusters, a hypsarrhythmia EEG pattern and a developmental arrest or regression. Aetiology of ISs is widely heterogeneous including many genetic causes. Many patients, however, remain without etiological diagnosis, which is critical for prognostic purpose and genetic counselling. In the present study, the investigators performed genetic screening of 73 patients with different types of ISs by array-CGH and molecular analysis of 5 genes: CDKL5, STXBP1, KCNQ2, and GRIN2A, whose mutations cause different types of epileptic encephalopathies, including ISs, as well as MAGI2, which was suggested to be related to a subset of ISs.
+Eligibility: Inclusion Criteria:
+
+* Infantile spams or West syndrome
+
+Exclusion Criteria:
+
+* brain malformation
+* clinical features of tuberous sclerosis
+* abnormal metabolic assays

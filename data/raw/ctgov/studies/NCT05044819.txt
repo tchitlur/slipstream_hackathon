@@ -1,0 +1,23 @@
+Title: Assessment of Potential for Chronic Liver Injury in Participants Treated With Epidiolex (Cannabidiol) Oral Solution
+Official title: A Long-term Safety Study to Assess the Potential for Chronic Liver Injury in Participants Treated With Epidiolex (Cannabidiol) Oral Solution
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Lennox Gastaut Syndrome; Dravet Syndrome; Tuberous Sclerosis Complex
+Interventions: Cannabidiol (DRUG)
+Summary: This study will monitor for potential chronic liver injury and liver fibrosis, in participants treated with cannabidiol oral solution.
+Eligibility: Inclusion Criteria:
+
+* Participant is within the approved age range as per labeling recommendations. Participants aged 1 to 3 years who are in the FibroScan subset will not undergo FibroScan assessments until they reach 4 years of age.
+* Participant is either on existing Epidiolex therapy for treatment of a seizure disorder or is to be started on Epidiolex for treatment of an Food and Drug Administration (FDA)-approved indication.
+* Participant is willing to refrain from strenuous exercise 48 to 72 hours prior to all study visits with the exception of unscheduled visits.
+* Any non-pharmacological therapies (e.g., ketogenic diet) must also be stable up to 4 weeks prior to Screening Visit and expected to be stable throughout the duration of the study.
+
+Exclusion Criteria:
+
+* Participant is currently using or within 3 months of screening has used recreational or medicinal cannabis, or synthetic cannabinoid-based medications, not including Epidiolex if currently prescribed.
+* Participant is not planning to abstain from using recreational cannabinoids or medicinal cannabis, or synthetic cannabinoid-based medications during the study.
+* Female participant is pregnant (positive pregnancy test), lactating or planning pregnancy during the course of the study and for 3 months thereafter.
+* Participant has any other significant disease or disorder which, in the opinion of the investigator, may either put the participant, other participants, or site staff at risk because of participation in the study, may influence the result of the study, or may affect the participant's ability to take part in the study
+* Participant has diseases or disorders which are associated with liver fibrosis with a FibroScan score of ≥ 6.5 Kilopascals (where FibroScan results are available).
+* Positive serology panel (including hepatitis B surface antigen and hepatitis C virus antibody) and/or positive human immunodeficiency virus antibody/p24 antigen screens at screening.
+* Following a physical examination, if the participant has any abnormalities that, in the opinion of the investigator, would prevent the participant from safe participation in the study.
+* Participant has significantly impaired h

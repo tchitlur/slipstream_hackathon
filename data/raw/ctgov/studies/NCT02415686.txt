@@ -1,0 +1,47 @@
+Title: Cardiac Arrhythmias in Dravet Syndrome
+Official title: Cardiac Arrhythmias in Dravet Syndrome: an Observational, International, Multicentre Study
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Epilepsy
+Interventions: none
+Summary: SUMMARY
+
+Rationale:
+
+People with Dravet Syndrome (DS), a rare epilepsy syndrome, have a high risk of Sudden Unexpected Death in Epilepsy (SUDEP). Mouse models indicated that the responsible sodium channel mutation (SCN1A) not only alters cortical excitability but also increases the propensity to arrhythmias. Little is known yet about the prevalence of seizure-induced arrhythmias in human DS subjects.
+
+Objective:
+
+To assess the prevalence of cardiac arrhythmias in DS and to compare the prevalence of cardiac arrhythmias between DS subjects and subjects with other types of epilepsy.
+
+Study design:
+
+Observational study.
+
+Study population:
+
+Subjects with Dravet syndrome and a known pathogenic SCN1A mutation, seizure frequency ≥ 1/week (all seizure types except for absences or myoclonias), age ≥ 6 years and no signs of self-harm. Each case will be matched to two historical controls (age +/- 5 years) from the EEG databases of the participating centres. Only those controls with two or more recorded seizures will be matched to the cases.
+
+Intervention:
+
+Not applicable
+
+Main study parameters/endpoints:
+
+Ictal asystole Ictal bradycardia Ictal QT-shortening/lengthening
+
+Nature and extent of th
+Eligibility: Criteria:
+
+Cases must meet all of the following criteria:
+
+1. DS with a known pathogenic SCN1A mutation
+2. seizure frequency ≥ 1/week (all seizure types expect for absences or myoclonias)
+3. no self-harm
+4. age ≥ 6 years
+
+Each case will be matched to two historical controls (age +/- 5 years). Controls will meet the following criteria:
+
+1. definite diagnosis of epilepsy
+2. no clinical suspicion of DS
+3. at least two seizures recorded (all seizure types expect for absences or myoclonias) during video-EEG registration.
+4. age ≥ 6 years

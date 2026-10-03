@@ -1,0 +1,26 @@
+Title: Cornelia De Lange Syndrome: Assessing Positive Effects of Lithium Treatment
+Official title: Cornelia De Lange Syndrome: Assessing Positive Effects of Lithium Treatment
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: Cornelia De Lange Syndrome
+Interventions: Lithium Carbonate Capsule (DRUG)
+Summary: The study "Cornelia de Lange Syndrome: assessing positive effects of Lithium treatment - CLoSER" aims to evaluate the effectiveness on behavioral modifications of lithium carbonate therapy in patients with Cornelia de Lange syndrome (CdLS).
+
+CdLS is a rare genetic disease caused by autosomal mutations dominant or X-linked. The prevalence of CdLS is estimated to be between 1:10,000-30,000 newborns, but it is probably underestimated because the most cases mild ones may go undiagnosed. This syndrome is characterized by slow growth before and after birth with intellectual disability and short stature, from major malformations such as facial anomalies, neurological disorders, gastrointestinal and musculoskeletal malformations. To date, for these patients only targeted medical and surgical therapeutic interventions are recommended for improving the quality of life. No drug therapy is validated for the cognitive/behavioral disorders. It has been shown that lihium-dependent activation of the WNT pathway is able to recover the Abnormal phenotype in many CdLS models. Lithium is already widely used in psychiatry and has a long history of clinical efficacy.
+
+Recently some studies are evaluatin
+Eligibility: Inclusion Criteria:
+
+* Age \> 4 years
+* Body weight within the normal range in the reference range for CdLS, based on age and height
+* Diagnosis of CdLS based on consensus clinical criteria and a confirmed mutation in the NIPBL gene
+* Stable drug regimen for 4 weeks prior to starting the study
+* Written consent signed by parent/legal guardian/representative prior to the screening visit
+* Ability to take the study drug provided in capsules or drops (for younger patients and those with swallowing difficulties) or combined with food/drinks
+* Caregiver must be able to understand the instructions and participate knowingly in the study
+
+Exclusion Criteria:
+
+* The patient is participating in another clinical trial
+* QT interval prolongation, thyroid dysfunction, renal insufficiency, hepatic insufficiency, leukopenia, or other currently clinically significant medical disorders (as determined by the investigator), other than those directly related to CdLS
+* QTcF interval on ECG greater than 450 msec
+* Severe diabetes mellitus or inherited metabolic disorder

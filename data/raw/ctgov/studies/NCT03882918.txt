@@ -1,0 +1,26 @@
+Title: An Open-Label Study to Evaluate the Long-Term Safety, Tolerability, and Efficacy of OV101 in Individuals With Angelman Syndrome
+Official title: An Open-Label Study to Evaluate the Long-Term Safety, Tolerability, and Efficacy of OV101 in Individuals With Angelman Syndrome
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Angelman Syndrome
+Interventions: OV101 (DRUG)
+Summary: This open-label study (OV101-18-002) will evaluate the long-term (52 weeks) safety of OV101 in subjects with AS and provide additional OV101 treatment to those subjects who completed Study OV101-15-001 (NCT02996305). Subjects with AS who completed the pharmacokinetic Study OV101-16-001 (NCT03109756) will also be permitted to participate, provided they meet all entry criteria.
+Eligibility: Inclusion Criteria:
+
+Each subject must meet all the following criteria to be enrolled in this study:
+
+1. Has completed the OV101-15-001 or OV101-16-001 study up to the EOS.
+2. Is male or female and 13 to 49 years old (inclusive) at the time of inclusion in the OV101-15-001 or OV101-16-001 study.
+3. Has a previous diagnosis of AS with molecular confirmation from the OV101-15-001 or OV101-16-001 study.
+4. Has an LAR/caregiver capable of providing informed consent and able to attend all scheduled study visits, oversee the administration of study drug, and provide feedback regarding the subject's symptoms and performance as described in the protocol.
+5. Provides assent to the protocol (to the extent possible and in accordance with local institutional review board (IRB) and regulatory requirements) and has an LAR/caregiver who will provide written informed consent. Subjects providing assent must do so at the same visit as LAR/caregiver written informed consent is provided.
+6. Can swallow study drug capsules or ingest the contents of study drug capsules after sprinkling the capsule contents onto 1 spoon of applesauce or low-fat yogurt.
+7. Is currently receiving a stable dose of concomitant medications such as anti-epileptic medication, gabapentin, clonidine, trazadone, melatonin, and special diets for at least 4 weeks prior to Baseline.
+8. Agrees to remain sexually abstinent from the first day of screening until 30 days after the last dose of study treatment.
+9. Has LAR/caregiver(s) who agree not to post any of the subject's personal medical data or information related to the study on any website or social media site (eg, Facebook, Instagram, Twitter) until notified that the study is completed.
+
+Exclusion Criteria:
+
+Subjects meeting any of the following criteria will be excluded from the study:
+
+1. Discontinued from the OV101-15-001 or OV101-16-001 study due to safety reasons causally related to OV101.
+2. Has a concomitant disease (eg, gastrointestinal, renal, hepatic, endocrine, respiratory, or cardiovascular system disease) or condition or any clinically significant finding at Screening that could interfere with the conduct of the study or that would pose an unaccep

@@ -1,0 +1,19 @@
+Title: Piloting Treatment With Intranasal Oxytocin in Phelan-McDermid Syndrome
+Official title: Piloting Treatment With Intranasal Oxytocin in Phelan-McDermid Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Phelan-McDermid Syndrome
+Interventions: Oxytocin (DRUG); Saline (DRUG)
+Summary: This is a pilot study examining the efficacy, safety and tolerability of intranasal oxytocin as a novel treatment in Phelan-McDermid syndrome (PMS). This study will utilize a randomized, placebo-controlled design for 12 weeks (phase 1), followed by an open-label extension for 12 weeks (phase 2). The purpose is to evaluate the effect of intranasal oxytocin on impairments in attention, social memory, socialization, language, and repetitive behaviors.
+Eligibility: Inclusion criteria:
+
+* Have a diagnosis of Phelan-McDermid syndrome defined by pathogenic deletion or mutation of the SHANK3 gene and confirmed by chromosomal microarray or sequencing.
+* Must be between the ages of 5 and 17
+* Must be on stable medication and psychosocial therapy regimens for at least three months prior to enrollment
+
+Exclusion criteria:
+
+* Allergy to oxytocin
+* Active cardiovascular disease, epilepsy, or renal disease that is not controlled by medication
+* Pregnant, lactating or refuse to practice contraception if sexually active
+* Have caretakers who are unable to speak English, be consistently present at visits to report on symptoms, or are otherwise judged unable to comply with the protocol by the study team
+* Comorbid conditions such that the patient is too medically compromised to participate

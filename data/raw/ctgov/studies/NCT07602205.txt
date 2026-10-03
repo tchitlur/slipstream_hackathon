@@ -1,0 +1,27 @@
+Title: Efficacy and Safety of Daily Home-based Hyperthermic Baths for Reducing Epileptic Seizures in CDKL5 Deficiency Disorder: A PROBE Clinical Trial
+Official title: Efficacy and Safety of Daily Home-based Hyperthermic Baths for Reducing Epileptic Seizures in CDKL5 Deficiency Disorder: A Prospective, Randomized, Parallel-Controlled, Open-Label, Blinded Endpoint (PROBE) Clinical Trial
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: CDKL5 Deficiency Disorder
+Interventions: Home-based hyperthermic Baths (BEHAVIORAL)
+Summary: The primary objective of this research is to study the efficacy and safety of daily, home-based hyperthermic baths for reducing epileptic seizures in CDKL5 Deficiency Disorder.
+Eligibility: Inclusion Criteria:
+
+1. A diagnosis of CDKL5 deficiency disorder, including molecular confirmation of a pathogenic CDKL5 variant and exhibiting epileptic seizures.
+2. Male or female participants aged 6 months to 14 years, inclusive.
+3. Patients presenting with drug-resistant epilepsy that seizures were uncontrolled despite the appropriate trial of at least two antiseizure medications (ASMs).
+4. At least 8 motor seizures during each 4 weeks in the 8-week historical seizure records preceding screening.
+5. Treatment regimens of 0-4 ASMs were required to be stable for at least 4 weeks before screening and throughout the intervention. Ongoing ketogenic diets were allowed if remain unchanged during screening and treatment.
+6. Subjects who have undergone surgical implantation of vagus nerve stimulation (VNS) will be eligible for inclusion in the study, provided they meet all of the following criteria:
+
+   1. The VNS device has been in place for at least one year prior to the screening visit;
+   2. The stimulation parameters remain unchanged throughout the duration of the trial.
+7. Parents or caregivers must be able and willing to maintain an accurate and comprehensive daily electronic seizure diary throughout the duration of the study.
+8. Participants' legal guardians willing to provide written informed consent.
+
+Exclusion Criteria:
+
+1. Patients who had any history of previous brain disease (including trauma, encephalitis, etc.) that were likely to precipitate seizures; defined by MRI outcomes.
+2. Participants with skin ulceration or dermatologic conditions that make bathing unsuitable.
+3. Parents or guardians who, based on past experiences, determine that the child has an intolerance to thermal baths.
+4. A history of seizures induced by thermal baths, or an increase in seizure frequency after thermal baths.
+5. Patients who presented any clinical condition that in the opinion of the principal investigator made the patient not suitable to participate in the survey.

@@ -1,0 +1,40 @@
+Title: Mast Cells Are Involved in the Mechanism of NPSLE Epilepsy
+Official title: Mast Cells Are Involved in the Mechanism of NPSLE Epilepsy
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Lupus Erythematosus, Systemic
+Interventions: none
+Summary: Tryptase, TLR4, and anti-NR2A antibodies were measured in serum, cerebrospinal fluid, and subjects and other markers to assess their relevance to disease activity, aiming to find new therapeutic targets,Timely intervention to improve the prognosis of SLE and improve the quality of life of patients with SLE.
+Eligibility: Inclusion Criteria:
+
+1. Healthy control group
+
+   * Voluntary signing of informed consent;
+   * Healthy volunteers older than 18 years old and less than 50 years old, regardless of gender;
+   * No systemic diseases or neurological symptoms or signs;
+   * According to the judge's judgment, healthy volunteers matching the NPSLE epilepsy group in terms of gender, age, and education level were selected as the control group.
+2. SLE group
+
+   * Voluntary signing of informed consent;
+   * Age greater than 18 years old, less than 50 years old, gender is not limited;
+   * Patients with SLE who meet diagnostic criteria.
+3. NPSLE Epilepsy Group
+
+   * Voluntary signing of informed consent;
+   * Age greater than 18 years old, less than 50 years old, gender is not limited;
+   * Patients with NPSLE epilepsy who meet diagnostic criteria.
+
+Exclusion Criteria:
+
+1. SLE group
+
+   * patients with SLE with other autoimmune diseases;
+   * Previous seizures, psychiatric abnormalities and other manifestations;
+   * MR of the head has obvious abnormal signals in the skull or EEG shows abnormal signals;
+   * History of use of hormones and immunosuppressants;
+   * The investigators judged that it was not suitable to participate in this study.
+2. NPSLE Epilepsy Group
+
+   * prior history of epilepsy or clear cranial MR findings suggesting structural abnormalities;
+   * Presence of precipitating seizures such as sleep deprivation, high fever, infection, long-term abstinence from alcoholism
+   * Interrupt, patients with systemic diseases such as hypoglycemia, severe electrolyte disorders, malignant lesions, progressive or degenerative diseases, severe liver and kidney insufficiency and other metabolic diseases;
+   * The investigators judged that it was not suitable to participate in this study.

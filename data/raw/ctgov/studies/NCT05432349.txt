@@ -1,0 +1,13 @@
+Title: Rett Syndrome Registry
+Official title: Rett Syndrome Real World Data Observational Registry
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome; Rett Syndrome, Atypical; Genetic Disease; Genetic Diseases, X-Linked; Intellectual Disability; Neurobehavioral Manifestations; Neurologic Manifestations; Neurologic Disorder; Neurodevelopmental Disorders; Nervous System Diseases
+Interventions: none
+Summary: The Rett Syndrome Registry is a longitudinal observational study of individuals with MECP2 mutations and a diagnosis of Rett syndrome. Designed together with the IRSF Rett Syndrome Center of Excellence Network medical directors, this study collects data on the signs and symptoms of Rett syndrome as reported by the Rett syndrome experts and by the caregivers of individuals with Rett syndrome. This study will be used to develop consensus based guidelines for the care of your loved ones with Rett syndrome and to facilitate the development of better clinical trials and other aspects of the drug development path for Rett syndrome.
+Eligibility: Inclusion Criteria:
+
+* Male or female with a pathologic loss of function alteration of MECP2
+
+Exclusion Criteria:
+
+* Male or female with a gain of function alteration of MECP2, including those with MEPC2 duplication or triplication

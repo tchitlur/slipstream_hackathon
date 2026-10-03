@@ -1,0 +1,15 @@
+Title: Functional Abilities in Rett Syndrome
+Official title: Functional Abilities in Rett Syndrome
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome
+Interventions: none
+Summary: The purpose of this study is to evaluate and determinate the functional abilities in Rett syndrome conforming to the established Pediatric Evaluation of Disability Inventory (PEDI).
+Eligibility: Inclusion Criteria:
+
+* Patients with Rett syndrome that matched the criteria for the classic form of the disease
+
+Exclusion Criteria:
+
+* Any other disease;
+* Rett syndrome associated with other disease
+* Rett syndrome that not that matched the criteria for the classic form of the disease

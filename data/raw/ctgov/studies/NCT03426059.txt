@@ -1,0 +1,16 @@
+Title: Mapping the Phenotype in Adults With Phelan-McDermid Syndrome
+Official title: Mapping the Phenotype in Adults With Phelan-McDermid Syndrome
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Phelan-McDermid Syndrome; Autism Spectrum Disorder; Intellectual Disability
+Interventions: No Intervention (OTHER)
+Summary: The protocol aims to comprehensively define the phenotype of Phelan-McDermid Syndrome and to identify potential genetic factors, which may play a role in the variability of the disease's outcomes. The first aim involves a physical exam, a neurological exam, collection of medical history information, a clinical genetic evaluation, blood work and neuropsychological assessments. If clinically indicated, the protocol collects information from medical tests. These medical tests may include electrocardiography, echocardiography, renal ultrasonography, and renal ultrasound.
+Eligibility: Inclusion Criteria:
+
+* Participant is 22 years of age and older at the time of enrollment
+* Participant has been diagnosed with pathogenic deletions or mutations of the SHANK3 gene
+* Participant is proficient in English
+* Participant provided consent
+
+Exclusion Criteria:
+
+* None

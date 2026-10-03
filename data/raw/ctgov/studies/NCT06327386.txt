@@ -1,0 +1,23 @@
+Title: The Therapeutic Efficacy of 18F-FDG Combined With 18F-FAPI PET/MR in Neoadjuvant Therapy for Gastric Cancer
+Official title: The Therapeutic Efficacy of 18F-FDG Combined With 18F-FAPI PET/MR in Neoadjuvant Therapy for Gastric Cancer
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Cancer
+Interventions: 18F-FAPI#18F-FDG (DIAGNOSTIC_TEST)
+Summary: Gastric cancer is the fifth most common cancer worldwide and the third leading cause of cancer-related deaths. Although surgical treatment can benefit the survival of the vast majority of patients, currently only early gastric cancer patients can be cured directly through endoscopic resection or surgery alone. Neoadjuvant therapy reduces tumor volume and improves tumor response rate through preoperative radiotherapy and chemotherapy, thereby increasing R0 resection rate and improving overall survival, without increasing postoperative complications and mortality. Timely imaging re staging during neoadjuvant therapy can allow patients to enter the surgical stage earlier, thereby reducing their preoperative burden. According to the different stages of neoadjuvant therapy, clinical staging can be divided into baseline stage (cBSstage) and clinical rest stage (cReStage) after neoadjuvant therapy.
+
+At present, the conventional imaging methods for diagnosing cBStage in gastric cancer include CT, endoscopic ultrasonography (EUS), and MRI. The NCCN guidelines recommend CT for cBStage, with a diagnostic accuracy of 77.1% to 88.9%. Similarly, EUS and MRI were also used for cBStage, with accur
+Eligibility: Inclusion Criteria:
+
+* Diagnosed primary gastric adenocarcinoma patients (cT2N+non-surgical treatment, cT3NanyMany and above staging)
+* Staging of MRI enhanced examination before neoadjuvant therapy
+* Restaging of preoperative 18F-FAPI and 18F-FDG PET/MRI examination
+* Postoperative resection was performed after neoadjuvant therapy, with postoperative pathology, regression grading, and related immunohistochemistry
+* Patient age ≥ 18 years old
+* The patient voluntarily participates and signs an informed consent form.
+
+Exclusion Criteria:
+
+* Severe comorbidities may interfere with treatment or affect disease-specific health-related quality of life
+* Drug requirements that interfere with the research protocol
+* Pregnant or lactating male subjects who are expected to conceive or cause their spouse to conceive during the planned trial period
+* The imaging quality is poor and cannot be used for diagnosis and evaluation.

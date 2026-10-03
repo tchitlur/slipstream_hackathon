@@ -1,0 +1,51 @@
+Title: An Investigation Into the Cardiovascular Risk and Aetiology of CKDu in Sri Lanka
+Official title: An Investigation Into the Cardiovascular Risk and Aetiology of CKDu in Sri Lanka
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: CKDu; Arterial Stiffness; Proteinuria; Serum Creatinine; Urinary Biomarkers; DNA Adducts
+Interventions: Arterial Stiffness Assessment (DEVICE)
+Summary: 1. We hypothesise that CKDu patients will have increased arterial stiffness and thus increased all-cause and cardiovascular mortality. The first objective of this study is to recruit a cohort of \~ 50 CKDu patients who attend the CKDu clinic in Anuradhapura, and measure their arterial stiffness using the TensioMed® Arteriograph™ (details below). We will recruit an age, sex and blood pressure matched control group of healthy Sri Lankans (consenting visitors with patients both to clinic and as inpatients), and if possible, a second control group, similarly age, sex and blood pressure matched, who have CKD of known causes and attend general renal clinic in Anuradhapura.
+2. We hypothesise that detailed renal analysis will give insight into the aetiology of CKDu in the North Central Province of Sri Lanka. The second objective of the study is to recruit up to 250 CKDu patients and to characterize their disease profile using analysis serum and urine renal biomarkers, exosomes, proteomics and DNA adducts.
+Eligibility: CKDu (CKD unknown aetiology) patients:
+
+Inclusion Criteria
+
+* Age 18- 85 years
+* Attend CKDu clinic in Anuradhapura or Padavi-Sri Pura
+* Evidence of renal dysfunction: proteinuria, raised serum creatinine
+* Able to understand information given and happy to give consent
+
+Exclusion Criteria
+
+* Subjects who are on dialysis
+* History of diabetes
+* History of major cardiac (including MI), respiratory (including asthma \& COPD) or neurological disease
+* Pregnant
+* History of significant hypertension (\>140/90mmHg despite anti-hypertensives or \>160/100mmHg untreated)
+* History of glomerulonephritis or other known cause of renal disease
+
+Inclusion criteria for healthy volunteers:
+
+* Age 18- 85 years
+* Present in Anuradhapura teaching hospital as a visitor/carer of patient in ward or at outpatient clinic at either site
+* Able to understand information given and happy to give consent
+
+Exclusion criteria for healthy volunteers:
+
+* Age \< 18 or \>85 years
+* Evidence of renal dysfunction: proteinuria, raised serum creatinine
+* Evidence of diabetes mellitus, significant hypertension (defined above), glomerulonephritis or other known cause of renal disease.
+
+Inclusion criteria for patients with CKD of known cause:
+
+* Age 18- 85 years
+* Attend general renal clinic in Anuradhapura or Padavi-Sri Pura
+* Evidence of renal dysfunction: proteinuria, raised serum creatinine
+* Known cause renal disease proven by biopsy or strong association such as diabetes mellitus or chronic, severe hypertension.
+* Able to understand information given and happy to give consent
+
+Exclusion criteria for patients with CKD of known cause:
+
+* Age \< 18 or \>85 years
+* CKD unknown origin
+* Pregnant
+* Subjects who are on dialysis

@@ -1,0 +1,32 @@
+Title: Evaluation of a New Treatment Program for Adolescents With Eating Disorders: MINERVA Program
+Official title: The Efficacy, Efficiency, and Patient Experience of a New Intensive Treatment Program for Adolescents With High-complexity Eating Disorders: MINERVA
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Eating Disorders in Adolescence; Anorexia Nervosa; Bulimia Nervosa; Binge-Eating Disorder; Other Specified Feeding or Eating Disorder
+Interventions: ED-MINERVA Program (BEHAVIORAL)
+Summary: The aim of this study is to investigate the efficacy, efficiency, and patient experience of a new intervention program on adolescents with high-complexity eating disorders (ED). A prospective group of adolescents with ED (N=60) will follow this treatment program including four different phases: 1) Inpatient treatment; 2) Family Treatment Apartment; 3) Home Treatment; 4) Recovery within the community. The investigators will use a retrospective, control group (N=60) that matched the prospective group in age, sex, ED diagnosis, and severe symptomatology. Primary variables regarding Body Mass Index (BMI), ED symptomatology, functionality, recovery (yes/no), type of outpatient services (low/mid/high intensity), number of readmissions, and patient experience will be assessed at discharge, and after 6 and 12 months. Secondary variables include anxiety, depression, readiness to recover, quality of life symptoms, caregiver skills, and functionality of the family
+Eligibility: Inclusion Criteria for the prospective experimental group:
+
+* Patient diagnosed with an Eating Disorder (according to the DSM-5) through a semi-structured interview (K-SADS PL-5)
+* Aged between 12 and 17 years old
+* Both patients and parents are willing to participate in the study and sign the informed consent to accept participation
+* Patient with a poor response to treatment, defined as having one of the following two conditions:
+
+  1. undergoing over a year of treatment, including partial and total hospitalization, without symptom stabilization, experiencing severe psychological distress, eating symptomatology, comorbidities, or family dysfunction during this period (clinical improvement of at least 50 on the CGAS functioning scale) OR
+  2. undergoing more than three admissions without symptom stabilization (clinical improvement of at least 50 on the CGAS functioning scale).
+
+     Exclusion criteria for the prospective group:
+* Acute ED pathology and biological decompensation that require urgent pediatric attention or admission to an acute psychiatric ward.
+
+Inclusion criteria for the retrospective control group:
+
+* Aged between 12 and 17 years old
+* Diagnosed with an Eating Disorder (according to the DSM-5)
+* Received treatment in Sant Joan de Déu between 2012 and 2022
+* Patient with a poor response to treatment, defined as having one of the following two conditions:
+
+  1. undergoing over a year of treatment, including partial or total hospitalization, without achieving stabilization of ED symptomatology (needing high-intensive treatment units i.e. not being able to follow individual treatment in external consultations) OR
+  2. undergoing more than three admissions without symptom stabilization once referred to partial hospitalization in less than one year, including a similar psychological state and characteristics as the first condition
+
+Exclusion criteria for the retrospective control group:
+
+* Missingness of 20% or more of the required data

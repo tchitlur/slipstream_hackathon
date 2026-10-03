@@ -1,0 +1,18 @@
+Title: A Study to Investigate the Long-Term Safety of ZX008 (Fenfluramine Hydrochloride) Oral Solution in Children and Adults With Epileptic Encephalopathy Including Dravet Syndrome and Lennox-Gastaut Syndrome
+Official title: An Open-Label Extension Trial to Assess the Long-Term Safety of ZX008 (Fenfluramine Hydrochloride) Oral Solution as an Adjunctive Therapy for Seizures in Patients With Rare Seizure Disorders Such as Epileptic Encephalopathies Including Dravet Syndrome and Lennox-Gastaut Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Dravet Syndrome; Lennox Gastaut Syndrome; Epileptic Encephalopathy
+Interventions: ZX008 (Fenfluramine Hydrochloride) (DRUG)
+Summary: This is an international, multicenter, open-label, long-term safety study of ZX008 in subjects with Dravet syndrome, Lennox-Gastaut syndrome or epileptic encephalopathy
+Eligibility: Inclusion Criteria:
+
+* Male or nonpregnant, nonlactating female
+* Satisfactory completion of a core study
+* Has a rare seizure disorder, such as epileptic encephalopathy and has successfully completed another Zogenix-sponsored clinical trials with ZX008
+* Subject's caregiver is willing and able to be compliant with study procedures, visit schedule and study drug accountability
+
+Exclusion Criteria:
+
+* Current cardiac valvulopathy or pulmonary hypertension that is clinically significant
+* Moderate or severe hepatic impairment
+* Receiving monoamine oxidase inhibitors, serotonin agonists, serotonin antagonists, and serotonin reuptake inhibitors within 14 days of receiving ZX008

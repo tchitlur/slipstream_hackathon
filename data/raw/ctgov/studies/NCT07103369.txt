@@ -1,0 +1,38 @@
+Title: A Phase I Clinical Study to Evaluate SM17 in Chinese Healthy Subjects and Patients With Moderate to Severe Atopic Dermatitis
+Official title: A Randomized, Double-Blind, Placebo-Controlled Phase I Clinical Study to Evaluate the Safety, Tolerability, Immunogenicity, Pharmacokinetics, and Preliminary Efficacy and Pharmacodynamics of SM17 in Chinese Healthy Subjects and Patients With Moderate to Severe Atopic Dermatitis
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Atopic Dermatitis
+Interventions: SM17 for injection (DRUG); SM17 placebo for injection (OTHER)
+Summary: This trial is a phase 1, randomized, double-blind, placebo-controlled trial conducted in Chinese Healthy Volunteers and Patients with moderate-to-severe Atopic Dermatitis
+
+It aims to evaluate the safety, tolerability, pharmacokinetic characteristics and immunogenicity of single and multiple doses of SM17 injection in healthy subjects . It also aims to evaluate the safety, tolerability, pharmacokinetic characteristics, pharmacodynamic effect and immunogenicity as well as preliminary efficacy in AD patients.
+Eligibility: Inclusion Criteria:
+
+Healthy Volunteers：
+
+* Male or Female，19\~55 years old
+* BMI ≥18.5 and \<28.0 kg/m² at the screening visit, with body weight ≥50 kg for males and ≥45 kg for females
+* Non-smokers or former smokers who have quit for at least 6 months, with a smoking history of \<10 pack-years for former smokers at the screening visit. No history of alcohol consumption or light alcohol consumption prior to the screening visit.
+* No abnormalities or abnormalities of no clinical significance (NCS) in vital signs, physical examination, laboratory tests, or electrocardiogram (ECG) results during the screening period, QTcF \<450 msec for male and QTcF \<470 msec for female subjects.
+* Use one medically approved contraceptive method during the trial and for 6 months after the trial ends (specific methods see Appendix 1); No plans to donate sperm/ova during the trial and for 6 months after the trial ends.
+* informed consent.
+
+Eligible patients must have a history of inadequate response or intolerance to treatment with topical AD medications.
+
+* Male or female, 18 \~70 years old
+* Atopic dermatitis (Hanifin \& Rajka) at the screening visit with eczema symptoms reported over 1year
+* Eczema Area and Severity Index (EASI) score ≥16 at the screening and baseline visits
+* Investigator's Global Assessment (IGA) score ≥3 at the screening and baseline visits
+* ≥10% body surface area (BSA) of AD involvement at the screening and baseline visits
+* Baseline pruritus numerical rating scale (NRS) weekly average score ≥4
+* Documented recent history (within 6 months before the screening visit) of inadequate response to topical AD medication(s) or for whom topical treatments are medically inadvisable (e.g. intolerance, because of important side effects, or safety risks)
+* Have applied a stable dose of topical bland emollient (moisturizer) at least twice daily for at least 7 consecutive days immediately before randomization
+* Willing and able to comply with all clinic visits and study-related procedures
+* Able to understand and complete study-related questionnaires
+* Signed written informed consent
+
+Exclusion Criteria:
+
+Healthy volunteers:
+
+* Presence of psychiatric or legal incapacity

@@ -1,0 +1,22 @@
+Title: APRICOT: Anaesthesia PRactice In Children Observational Trial
+Official title: APRICOT: Anaesthesia PRactice In Children Observational Trial - European Prospective Multicenter Observational Study: Epidemiology of Severe Critical Events in Paediatric Anaesthesia
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Anaesthesia; Children
+Interventions: none
+Summary: The aims of the APRICOT study are:
+
+* To establish the incidence of severe critical events in children undergoing anesthesia in Europe.
+* To describe the differences in paediatric anaesthesia practice throughout Europe.
+* To study the potential impact of this variability on the occurrence of severe critical events (Laryngospasm, Bronchospasm, Pulmonary aspiration, Drug error, Anaphylaxis, Cardiovascular instability, Neurological damage, Perianaesthetic cardiac arrest and postanaesthetic Stridor).
+Eligibility: Inclusion Criteria:
+
+* Age: from birth to 15 years included
+* All children admitted for an inpatient or outpatient procedure under general anaesthesia with or without regional analgesia or under regional anaesthesia alone. This includes all kind of surgeries and procedures requiring anaesthesia and analgesia to be performed such as central venous access, burn care, cast, etc.,
+* Children admitted for a diagnostic procedure under sedation (performed by an Anaesthetist) or general anaesthesia (such as endoscopy, radiology (CT-scan, MRI), cardiac catheterisation and electrophysiology, PET-scan, radiotherapy, lumbar and bone marrow puncture, biopsies), diagnostic procedure under general anaesthesia (such as endoscopy, radiology…)
+* Children admitted for urgent or emergency procedure performed in- or out-of-hours.
+
+Exclusion Criteria:
+
+* Children admitted directly from the intensive care units to the operating rooms
+* Anaesthesia procedures in the neonatal or paediatric intensive care units.
+* Age: All children aged ≥ 16 years.

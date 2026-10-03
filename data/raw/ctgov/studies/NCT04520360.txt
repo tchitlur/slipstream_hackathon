@@ -1,0 +1,25 @@
+Title: Bioavailability and Food Effect Study of 3 Types of Carisbamate
+Official title: A Single-Center, Open-Label,Randomized, Crossover Study to Evaluate the Relative Bioavailability and Food Effect of a New Oral Suspension and Tablet Formulation of Carisbamate (YKP509) in Healthy Adult Subjects
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Healthy Subjects
+Interventions: Carisbamate (DRUG)
+Summary: This study is designed to examine the relative bioavailability of three carisbamate formulations (Oral Suspension Type 1, Oral Suspension Type 2, and a 300 mg Oral Tablet) and to assess the effect of food on the oral bioavailability of the Oral Suspension Type 2 and the 300 mg Oral Tablet.
+Eligibility: Inclusion Criteria:
+
+1. Male or female subjects of 18 to 50 years of age (inclusive)
+2. Able to read, understand, sign, and date a written informed consent form (ICF) before study participation at screening
+3. Agree to use 2 highly effective methods of contraception, including at least one barrier method
+4. Body mass index (BMI) between 18.0 and 30.0 kg/m2 (inclusive) at screening
+5. Judged to be in good health based on medical history, physical examination, and routine laboratory measurements (i.e., without clinically relevant pathology)
+6. Normal electrocardiogram (ECG) (12-lead), arterial blood pressure, and heart rate within the normal standard range used by the study center or considered not clinically significant by the Investigator and in agreement with the Sponsor
+7. Able to understand and comply with protocol requirements and instructions and likely to complete the study as planned
+8. A female study subject of childbearing potential must agree to use one of the accepted contraceptive method from Screening, during the study, and for at least 90 days after the last dose of the study medication. Hormonal contraceptives alone will not be considered an adequate method of contraception.
+9. A female study subject must agree not to donate eggs (oocytes) during the study and for at least 90 days after the last dose of the study medication
+10. Females of non-childbearing potential who have undergone a sterilization procedure at least 6 months prior to dosing with official documentation (e.g., hysteroscopic sterilization, bilateral tubal ligation or bilateral salpingectomy, hysterectomy, or bilateral oophorectomy) or become postmenopausal with amenorrhea for at least 1 year prior to dosing and have follicle-stimulating hormone (FSH) serum levels consistent with postmenopausal status as per Principal Investigator's judgment
+11. Subjects are able and willing to consume a high-fat meal within a 30 minute timeframe
+
+Exclusion Criteria:
+
+1\. History of any illness or condition that, in the opinion of the Investigator, might confound the results of the study or pose additional risks in administering study drug to the subjects
+
+1. Smokers (subjects who have smoked within

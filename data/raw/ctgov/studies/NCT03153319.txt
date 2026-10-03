@@ -1,0 +1,34 @@
+Title: Study to Evaluate the Safety and Efficacy of Adalimumab in MPS I, II, and VI
+Official title: Phase 1/2 Study of the Effect of Adalimumab on Physical Function and Musculoskeletal Disease in Mucopolysaccharidosis Types I, II, and VI
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Mucopolysaccharidosis I; Mucopolysaccharidosis II; Mucopolysaccharidosis VI
+Interventions: Adalimumab Injection [Humira] (DRUG); Saline Solution for Injection (DRUG)
+Summary: Randomized, double-blind, placebo-controlled, parallel-group, single-center study followed by open-label phase, to evaluate the effects of adalimumab compared to placebo on the change from baseline in joint and skeletal disease in children and adults with mucopolysaccharidosis (MPS) I, II or VI.
+Eligibility: Inclusion Criteria:
+
+* Male or female ≥5 years of age;
+* Diagnosis of MPS I, II or VI;
+* Treatment with ERT for ≥1 year or no treatment with ERT for ≥1 year;
+* Weight ≥15 kg;
+* Significant bodily pain reported by the CHQ-PF50 or SF-36 (\> 1 SD more severe \[below\] than the general population mean);
+* ≥ 3 joints with limitations in motion; and Patient or parent/legal guardian is able and willing to provide informed consent. For patients 7 to 17 years of age, assent must also be provided.
+
+Exclusion Criteria:
+
+* History of HCT less than 2 years prior to enrollment;
+* Immune suppression therapy less than 1 year prior to enrollment;
+* Active graft versus host disease;
+* Current diagnosis or history of lymphoma or other malignancy;
+* Current active infection;
+* History of serious opportunistic infection (e.g., bacterial \[Legionella and Listeria\]; tuberculosis \[TB\]; invasive fungal infections; or viral, parasitic, and other opportunistic infections);
+* Positive TB skin test, positive Quantiferon-TB Gold TB test, positive chest X-ray, or a recent exposure to TB
+* Congestive heart failure defined by an ejection fracture \<50% measured by ECHO;
+* Demyelinating disorders (e.g., central nervous system \[CNS\] disorders including multiple sclerosis and optic neuritis and peripheral nervous system disorders including Guillain-Barre syndrome);
+* Hematologic abnormalities (e.g., pancytopenia, aplastic anemia);
+* Hepatitis B infection (active or chronic carrier);
+* Latex sensitivity;
+* Pregnancy or breastfeeding;
+* Known or suspected allergy to adalimumab or related products;
+* Participation in simultaneous therapeutic study that involves an investigational study drug or agent within 4 weeks of study enrollment;
+* Requirement for live vaccine exposure that would be expected to occur during the time frame of the study; or
+* Any other social or medical condition that the Investigator believes would pose a significant hazard to the subject if the investigational therapy were initiated or be detrimental to the study.

@@ -1,0 +1,22 @@
+Title: StAtins in Frail OldEr Patients with Ischemic Stroke or Transient Ischemic Attack - the Randomized Controlled Trial
+Official title: StAtins in Frail OldEr Patients with Ischemic Stroke or Transient Ischemic Attack - the Randomized Controlled Trial
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Ischemic Stroke; Transient Ischemic Attack
+Interventions: Statin (atorvastatin, fluvastatin, pravastatin, rosuvastatin or simvastatin) (DRUG)
+Summary: Two Dutch guidelines (Stroke and Cardiovascular Risk Management) provide conflicting advice on optimal statin treatment in older patients. In the SAFEST - RCT, the investigators will assess the impact of starting versus not starting a statin in frail individuals aged 70 and above with a recent ischemic stroke or transient ischemic attack (TIA) on their health-related quality of life and Major Adverse Cardiovascular Events (MACE) free survival during a two-year follow-up period.
+Eligibility: Inclusion Criteria:
+
+* age = 70 years or older at the time of ischemic stroke or TIA;
+* inclusion within 6 weeks after diagnosis of ischemic stroke or TIA;
+* not using statin therapy at the time of the index event;
+* frailty as defined by a pre-event score of 4-7 and/or post-event score of 6-7 on the validated Clinical Frailty Scfale.\[49\]
+
+Exclusion Criteria:
+
+* Patients with a stroke or TIA of non-atherosclerotic etiology.
+* Previous serious adverse drug reactions (defined as an adverse reaction that results in death, is life-threatening, requires hospitalization or prolongation of existing hospitalization, results in persistent or significant disability or incapacity, or is a birth defect40) to statins or other contraindications to statin use.
+* Very severe frailty or very limited life expectancy (\< 6 months) as defined by a score \>= 8 points on the validated Clinical Frailty Scale.
+* Inability to communicate in Dutch.
+* Inability to respond to questions, either independently or with the assistance of a proxy (a proxy is allowed to assist by writing on behalf of the participant in cases of physical incapacity or by discussing questions with the participant, but the proxy cannot make decisions for the participant).
+* Inability or unwillingness to provide written informed consent, either independently or with the assistance of a proxy (a proxy is allowed to assist by writing on behalf of the participant in cases of physical incapacity or by discussing the consent form with the participant, but the proxy cannot make decisions or provide consent on behalf of the participant).
+* Extremely high-risk patients, i.e. patients who have had two or more cardiovascular events within a period of one year.

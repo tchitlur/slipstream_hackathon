@@ -1,0 +1,32 @@
+Title: Multi-center Clinical Study on the Diagnosis and Treatment Management of Rare Neurological Disease in Children
+Official title: Multi-center Clinical Study on the Diagnosis and Treatment Management of Rare Neurological Disease in Children
+Status: WITHDRAWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Xlsma; DMD; X-ALD; TSC
+Interventions:  (OTHER)
+Summary: The incidence of rare diseases is extremely low, the disease is numerous, the symptoms are serious, and the detection technology is complicated. Countries have different definitions of rare diseases. The definition of rare diseases in China is defined as: diseases with a prevalence of less than 1 in 500 000 or newborns with an incidence of less than 1/10 000 are rare diseases. Due to the low incidence of rare diseases and the accumulation of multiple organs and systems in most diseases, clinicians lack comprehensive and systematic understanding. Patients often face great difficulties in seeking medical treatment and diagnosis. Currently, there is a lack of systematic and rare diseases in China. Management, diagnosis and treatment of rare diseases, making the diagnosis of rare diseases, prevention interventions seriously lagging behind, obviously behind the management of developed countries and regions; rare diseases are mostly related to genetic variation, with the clinical application of genetic diagnosis technology, more and more Many genetically related rare diseases have been diagnosed at an early stage; at present, precision medicine is rapidly developing, and more and more ra
+Eligibility: 1\. SMA:
+
+Inclusion criteria: patients meet the all the following criteria:
+
+1. Clinically manifestation: hypotonia, progressive symmetric and proximal weakness affecting the legs more than the arms, sparing of the facial muscles but often with bulbar muscle weakness.
+2. Neurogenic EMG. EMG is also usually not needed in type 1 and 2 children; this investigation can help in more chronic forms in which the phenotype might be less striking.
+3. Along with EMG and NCV test, a muscle or nerve biopsy can be used to diagnose spinal muscular atrophy if molecular genetic testing of SMN1 does not identify mutations.
+4. Genetic testing of SMN1/SMN2: Homozygous absence of exons 7 and 8 of the SMN1 gene(96%), or only of exon 7, or other mutations. SMN2 copy numbers may vary. Genetic testing is the gold standard of diagnosis.
+
+Exclusion Criteria: None.
+
+\-
+
+2\. DMD:
+
+Inclusion criteria: patients meet the all the following criteria:
+
+1. Clinically manifestation: weakness, clumsiness, a Gowers' sign, difficulty with stair climbing, or toe walking. developmental delay or increased concentrations of serum enzymes such as alanine aminotransferase, aspartate aminotransferase, lactate dehydrogenase, or very high creatine kinase level.
+2. Dystrophin gene mutation: dystrophin gene deletion and duplication testing is usually the first confirmatory test best done by MLPA or comparative genomic hybridisation array. Approximately 70% of individuals with DMD have a single-exon or multi-exon deletion or duplication in the dystrophin gene. If deletion or duplication testing is negative, genetic sequencing should be done to screen for the remaining types of mutations that are attributed to DMD (approximately 25-30%).
+3. Muscle biopsy: if genetic testing does not confirm a clinical diagnosis of DMD, then a muscle biopsy sample should be tested for the presence of dystrophin protein by immunohistochemistry of tissue cryosections or by western blot of a muscle protein extract. Muscle samples from DMD patient has no dystrophin present, while BMD Becker muscular dystrophy (with some partially functional dystrophin present).
+
+Exclusion Criteria: None. -
+
+3\. X-ALD:
+
+Inclusion criteria: patients meet

@@ -1,0 +1,29 @@
+Title: Comparative Efficacy Study of 10 mg Dequalinium Chloride (Fluomizin) in the Treatment of Vulvovaginal Candidiasis
+Official title: Comparative Study of the Efficacy of 10.0 mg Dequalinium Chloride (Fluomizin®) and 100 mg Clotrimazole (Canesten®) for the Treatment of Vulvovaginal Candidiasis
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Vulvovaginal Candidiasis
+Interventions: Fluomizin vaginal tablets (DRUG); Canesten vaginal tablets (DRUG)
+Summary: A clinical study to compare the clinical efficacy of vaginal tablets containing 10mg dequalinium chloride (Fluomizin) with the clinical efficacy of 100mg clotrimazole in patients suffering from vulvovaginal candidiasis, to assess safety of the two medications during the treatment, and to evaluate women's satisfaction with the two treatments.
+Eligibility: Inclusion Criteria:
+
+* Clinical signs and symptoms of vulvovaginal candididiasis as Total Severity Score, Total Severity Score of at least 4 (0-15: vaginal itching (0-3), vaginal burning or soreness (0-3), abnormal vaginal discharge (0-3),vulvo/vaginal erythema or edema(0-3), vulvar excoriation or fissure formation (0-3).
+* Direct microscopy (Wet smear) positive for yeast forms (hyphae/pseudohyphae) or budding yeasts.
+* normal vaginal pH (higher than 4.5) at baseline.
+* Women aged 18 - 45 years old.
+* Women can comply with all clinical trial instructions, and can return to all follow-up visits.
+* Signed Written Informed Consent to participate in this study.
+
+Exclusion Criteria:
+
+* Recurrent vulvovaginal candidiasis(4 episodes of VVC in the last 12 months).
+* Women with other cause of vaginal infections, e.g. bacterial vaginosis, aerobic vaginitis, trichomoniasis, and mixed infections
+* Women using oral or vaginal antifungals within 2 weeks prior to enrolment and during the study.
+* Women using any intra-vaginal products, also vaginal douches containing soaps and other anionic, surface-active substances, within 2 weeks prior to enrolment and during the study.
+* Women using any antibiotic or anti-infective within 2 weeks prior to enrolment.
+* Cervicitis, abnormal PAP smear in the last 6 month.
+* Severe systemic diseases (HIV infection, diabetes mellitus, cancer, tuberculosis, autoimmune diseases, severe psychiatric conditions, etc.).
+* Women with confirmed Neisseria gonorrhoea or Chlamydia trachomatis.
+* Women having menstruation bleeding at enrolment.
+* Known or suspected hypersensitivity to one of the study medications, inclusive their excipients.
+* Participation of patient in another investigational drug study concomitantly or within 30 days prior to entry in the study.
+* Patient is relative of, or staff directly reporting to, the investigator.

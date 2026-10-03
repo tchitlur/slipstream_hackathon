@@ -1,0 +1,22 @@
+Title: Kinematic-guided BoNT-A Treatment for ET and PD Tremor
+Official title: Use of Kinematic Assessment of Hand Tremor Pre- and Post- Treatment With Botulinum Toxin Type A in Essential Tremor and Parkinson Disease
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Tremor
+Interventions: BoNT-A (DRUG)
+Summary: The present study attempts to fill a critical knowledge gap of BoNT A in tremor management by studying the efficacy of IncobotulinumtoxinA (Xeomin®) injection for hand tremor in essential tremor and idiopathic Parkinson disease using data regarding composition of tremor obtained through sophisticated, yet clinically accessible multi-sensor based kinematic information.
+Eligibility: Inclusion Criteria:
+
+* Consenting male and female participants, aged 18 years to 80 years
+* PD individuals diagnosed by UK Brain Bank Criteria with stage H\&Y2-3 disease or ET with hand tremor in their motor dominant hand
+* Stable IPD/ET medication management for the 6 month duration prior to their enrollment in the study
+* Individuals with IPD will be eligible for the study only if tremor is their primary and most bothersome symptom as determined by clinical exam and patient report
+* Participants who are botulinum toxin naïve for tremor management
+
+Exclusion Criteria:
+
+* History of stroke
+* Muscle weakness or any related compartmental muscle syndrome
+* Smoking
+* Offending medications (Lithium, valproate, steroids, amiodarone, beta-adrenergic agonists (e.g. salbutamol))
+* Contradictions per the Xeomin® drug monograph
+* Patients prescribed zonisamide

@@ -1,0 +1,32 @@
+Title: Genomic Imprinting and Assisted Reproductive Technologies
+Official title: Assessment of the Risk of Imprinting Defects in Children Born Following Assisted Reproductive Technologies (ART)
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Natural Pregnancy; Pregnancy, Ovarian
+Interventions: none
+Summary: Genomic imprinting, referring to an epigenetic marking resulting in monoallelic gene expression, plays a critical role in development. Recently, various imprinting diseases were reported in animals (Large Offspring syndrome (LOS)) and humans (Beckwith-Wiedemann syndrome (BWS) and Angelman syndrome (AS)) born after ART. In all cases, an imprinting defect was involved (loss of methylation at ICR2 in BWS, at SNRPN in AS and at IGF2R DMR2 in LOS). These data suggest that ART procedures may impair the establishment or the maintenance (following fertilization) of methylation marks at maternally imprinted loci. In view of these data, the aim of this study is to determine if children born following ART exhibit an increased risk of imprinting defects. If the answer is yes, the second objective is to identify the problematic step in the ART procedure and thus to suppress or modify this step.
+Eligibility: Inclusion Criteria:
+
+Mother :
+
+* Age: 26 to 40 at conception
+* Single foetus pregnancy
+* Signed informed consent
+* Affiliation to French health benefits
+* Absence of maternal pathology
+* Normal foetal karyotype (if available)
+* Known procedure of ovarian stimulation
+* ART procedure without sperm or oocyte donation
+* ART in a participating ART departments
+* Delivery in a participating hospital
+
+Father
+
+* Age : 18 to 50 at conception
+* Signed informed consent
+
+Exclusion Criteria:
+
+* Abnormal foetal karyotype (if available)
+* Delivery before 35 weeks of amenorrhea
+* Delivery in not participating hospital
+* Delivery complication leading to the absence of sample collection

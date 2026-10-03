@@ -1,0 +1,14 @@
+Title: Electro-clinical Features and Functional Connectivity Analysis in SYN1 Gene Mutation-related Epilepsy
+Official title: Electro-clinical Features and Functional Connectivity Analysis in SYN1 Gene Mutation-related Epilepsy
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Epileptic Syndromes
+Interventions: Electro-clinical analysis of epileptic seizures (OTHER); Electro-encephalographic cases (OTHER); Clinical datas analysis (OTHER); Electro-encephalographic control (OTHER)
+Summary: SYN1 gene mutation is an X-linked gene mutation that causes numerous pathological manifestations such as seizures and neurodevelopmental disorders. A few descriptions of this disease have been published in the last decade, but the electro-clinical features of epilepsy are still largely unknown. No analysis of electroencephalographic connectivity has yet been performed. The aim of this study is to perform a detailed electro-clinical seizure analysis and electroencephalographic analysis in patients with a SYN1 gene mutation, in an attempt to identify a characteristic pattern that would allow earlier diagnosis and better understanding and management of this disease.
+Eligibility: Inclusion Criteria:
+
+* Cases : SYN1 gene mutation, available electroencephalographic and clinical data.
+* Controls : older than 12 years at the moment of the electroencephalogram recording, electroencephalogram considered as normal, no neurological disease (particularly no epilepsy), no neuroimaging abnormality.
+
+Exclusion Criteria:
+
+\- Controls : younger than 12 years at the moment of the electroencephalogram recording, electroencephalogram considered as abnormal, neurological disease (particularly epilepsy), neuroimaging abnormality.

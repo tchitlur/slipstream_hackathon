@@ -1,0 +1,16 @@
+Title: Development of Non-invasive Prenatal Test for Microdeletion and Other Genetic Syndromes Based on Cell Free DNA
+Official title: Development of Non-invasive Prenatal Test for Microdeletion/Duplication and Other Genetic Syndromes Based on Fetal DNA Isolated From Maternal Blood
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Microdeletion Syndromes; Trisomy 21; Trisomy 18; Trisomy 13; Sex Chromosome Abnormalities
+Interventions: none
+Summary: The purpose of this study is to collect blood from families with a child who has been diagnosed with a chromosomal disorder including microdeletions in order to further develop a non-invasive prenatal screening test based on fetal DNA isolated from maternal blood.
+Eligibility: Inclusion Criteria:
+
+* Couples who have a child diagnosed with an autosomal chromosome abnormality (e.g. Down syndrome, Edwards syndrome, Patau syndrome).
+* Couples who have a child diagnosed with a sex chromosome abnormality (e.g. Turner syndrome, Klinefelter syndrome, Triple X syndrome, 47, XYY).
+* Couples who have a child diagnosed with a microdeletion/duplication syndrome (a positive microarray test).
+
+Exclusion criteria:
+
+* Not an English language or Spanish language speaker
+* Genetics report is not available

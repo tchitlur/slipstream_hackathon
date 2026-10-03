@@ -1,0 +1,28 @@
+Title: Piezo-surgery Versus Conventional Drills
+Official title: Histomorphometric and Immunohistochemical Evaluation of Bone Healing Around Implants Placed Using Piezosurgery Versus Conventional Drills: a Split Mouth Randomized Clinical Trial
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Bone Formation
+Interventions: Piezo-surgery insert OR Conventional Drills (DEVICE)
+Summary: Purpose: The aim of this RCT was to evaluate and compare histomorphometric and immunohistochemical characteristics of peri-implant bone tissue after implant site preparation using piezoelectric tips versus conventional drills. Material and Methods: A split-mouth protocol was carried out on 6 patients with bilateral partial edentulism. A total of 12 alveolar ridges were randomized into two groups: 6 control sites (Group B) with conventional drills preparation (Drill-group) and 6 test sites (Group A) treated by piezoelectric implant inserts preparation (Piezo-group). At 28 days after surgery (T1), in both group, one study-fixtures with 0.5 mm of peri-implant bone tissue were explanted and processed for the histological, histomorphometrical and immunoistochemical analysis. For each sample Inflammatory infiltrates, necrotic bone (Zone 1), woven and newly formed bone (Zone 2), native bone (Zone 3), CD31 (cluster of differentiation 31) and SATB2 (special AT-rich sequence-binding protein necrotic bone undergoing remodeling) were evaluated.
+Eligibility: Criteria: Inclusion Criteria:
+
+1. bilateral edentulous sites in mandibles or maxillae that did not require bone regeneration prior to implant placement;
+2. American Society of Anesthesiologists (ASA) status 1;
+3. the capacity to understand and accept the conditions of the study;
+4. continuing participation for at least 1 year of follow-up.
+
+Exclusion Criteria:
+
+1. Previous bone augmentation of the sites to be treated;
+2. poor oral hygiene;
+3. smoking \> 10 cigarettes/day;
+4. abuse of alcohol or drugs;
+5. pregnancy;
+6. acute local or systemic infection;
+7. uncontrolled diabetes or other metabolic disease;
+8. severe hepatic or renal dysfunction;
+9. HIV, HBV, or HCV infection;
+10. chemotherapy or radiotherapy within the past 5 years;
+11. current immunosuppressive therapy;
+12. an autoimmune disorder;
+13. bisphosphonate therapy

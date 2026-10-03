@@ -1,0 +1,27 @@
+Title: A Study in Healthy Men to Test How BI 1569912 is Processed in the Body
+Official title: A Double-micro-tracer Human Absorption, Distribution, Metabolism and Excretion (hADME) and Absolute Bioavailability Trial After a Single Oral Dose of BI 1569912 (C-14) and a Single, Concomitant, Intravenous Micro-dose of BI 1569912 (C-13) in Healthy Male Subjects (a Phase I, Open-label, Non-randomised, Single-dose, Fixed-sequence Trial)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Healthy
+Interventions: BI 1569912 (C-14) (DRUG); BI 1569912 (C-13) (DRUG)
+Summary: The main objectives of this trial are:
+
+* To investigate basic pharmacokinetics of BI 1569912 and total radioactivity, including mass balance, excretion pathways and metabolism following oral administration of BI 1569912 (C-14) to healthy male subjects (test treatment, T).
+* To investigate the absolute bioavailability of BI 1569912 as single oral solution dose, using a single, concomitant intravenous micro-tracer administration of BI 1569912 (C-13) (reference treatment, R)
+Eligibility: Inclusion Criteria :
+
+Subjects will only be included in the trial if they meet the following criteria:
+
+1. Healthy male subjects according to the assessment of the investigator, as based on a complete medical history including a physical examination, vital signs (blood pressure (BP), pulse rate (PR)), 12-lead electrocardiogram (ECG), and clinical laboratory tests
+2. Age of 18 to 55 years (inclusive)
+3. Body mass index (BMI) of 18.5 to 29.9 kg/m 2 (inclusive)
+4. Signed and dated written informed consent in accordance with ICH-GCP and local legislation prior to admission to the trial
+
+Exclusion Criteria :
+
+Subjects will not be allowed to participate, if any of the following general criteria apply:
+
+1. Any finding in the medical examination (including BP, PR or ECG) deviating from normal and assessed as clinically relevant by the investigator
+2. Repeated measurement of systolic blood pressure outside the range of 90 to 140 mmHg, diastolic blood pressure outside the range of 50 to 90 mmHg, or pulse rate outside the range of 40 to 100 beats per minute (bpm)
+3. Any laboratory value outside the reference range that the investigator considers to be of clinical relevance, in particular hepatic parameters (alanine aminotransferase (ALT), aspartate aminotransferase (AST), total bilirubin) or renal parameters (creatinine) exceeding the upper limit of normal (ULN) after repeated measurements
+4. Any evidence of a concomitant disease assessed as clinically relevant by the investigator
+5. Further exclusion criteria apply

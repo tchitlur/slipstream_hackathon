@@ -1,0 +1,17 @@
+Title: Leptin and Cytokines in Diabetic Pregnancy - Physiologic or Pathogenic Role
+Official title: Leptin and Cytokines in Diabetic Pregnancy - Physiologic or Pathogenic Role
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Gestational Diabetes Mellitus; Preeclampsia; Placental Hypoxia
+Interventions: none
+Summary: Leptin, a circulating hormone expressed abundantly in adipose tissue, has been reported to be a satiety factor. In addition, it has been shown to increase during pregnancy in maternal blood, parallel to increase in body fat mass, to correlate with fetal body weight gain and to fall down to basal levels after delivery.
+
+Little is known about leptin levels in pregnant women with preexisting or gestational diabetes and their relationship with fetal and postnatal growth and perinatal complications.
+
+Therefore, the proposed study aims to understand and characterize the role of leptin in gestational diabetes mellitus as well as the relationship between leptin, cytokines and the pathophysiological complications during diabetic pregnancy. Specifically, we will evaluate 60 pregnant women both in Germany and in Israel and evaluate serum levels and mRNA of leptin, cytokines (inflammatory as well as Th1 and Th2) and correlate them to maternal changes of body weight and birth weight in women of various degrees of glucose tolerance and with various degrees of metabolic control during pregnancy; relationship between serum and umbilical cord vein concentrations of leptin, cytokines and metabolic v
+Eligibility: Inclusion Criteria:
+
+random glucose challenge test (GCT): 50 g of glucose are orally given at any time of the day. The results are considered as positive if the capillary blood glucose concentrations 1 hour after the load are \>130 mg/dl. Those with normal results serve as control group
+
+Exclusion Criteria:
+
+\-

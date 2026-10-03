@@ -1,0 +1,31 @@
+Title: Comparison of Survival Benefit of Panitumumab With Supportive Care to Best Supportive Care Alone in Patients With Metastatic Colorectal Cancer
+Official title: A Phase 3, Multicenter, Randomized, Open-label Trial to Evaluate the Survival Benefit of Panitumumab and Best Supportive Care, Compared to Best Supportive Care Alone, in Subjects With Chemorefractory Wild-type KRAS Metastatic Colorectal Cancer
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Metastatic Colorectal Cancer
+Interventions: Best Supportive Care (BSC) (OTHER); Panitumumab (DRUG)
+Summary: The purpose of this study is to evaluate the benefit of panitumumab in addition to best supportive care compared to best supportive care alone in patients with chemorefractory wild-type KRAS (Kirsten rat sarcoma viral oncogene homolog) metastatic colorectal cancer.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of metastatic colorectal cancer (CRC)
+* Wild-type (without mutation in codons 12 and 13) KRAS gene in tumor tissue confirmed by a central laboratory
+* Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1 or 2
+* At least 1 measurable or non-measurable lesion per Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 guidelines.
+* Treatment failure (defined as failure due to either disease progression \[clinical or radiological\] or toxicity \[treatment intolerance\]) of a prior regimen containing irinotecan for metastatic disease and a prior regimen containing oxaliplatin for metastatic disease. Oxaliplatin and irinotecan may have been administered sequentially or in combination.
+
+  * Disease relapse within 6 months after completing adjuvant chemotherapy (with either an irinotecan or oxaliplatin containing regimen) will also be considered as treatment failure of a prior regimen for metastatic disease
+* Must have previously received a thymidylate synthase inhibitor (eg, fluorouracil, capecitabine, raltitrexed, or fluorouracil-uracil) at any point for treatment of CRC
+* Man or woman at least 18 years of age
+* Adequate hematologic, renal, hepatic and metabolic function
+* Negative pregnancy test within 72 hours before randomization (for women of childbearing potential only)
+* Subject or subject's legally acceptable representative has provided informed consent.
+* Other protocol-specified criteria may apply
+
+Exclusion Criteria:
+
+* Symptomatic brain metastases requiring treatment
+* History of another primary cancer within 5 years of randomization
+* Prior anti-epidermal growth factor receptor (EGFR) antibody therapy (eg, panitumumab or cetuximab) or treatment with small molecule EGFR inhibitors (eg, gefitinib, erlotinib, lapatinib)
+* Antitumor therapy (eg, chemotherapy, hormonal therapy, immunotherapy, antibody therapy) within 21 days before randomization
+* Radiotherapy within 14 days before randomization.
+* Exclusion Criteria for corrected QT (QTc) Evaluation Subpart of the Study: Prolongation of QT/QTc interval \> 450 milliseconds at screening
+* Other protocol-specified criteria may apply

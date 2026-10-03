@@ -1,0 +1,21 @@
+Title: Study of the Prevalence of Autistic Traits in Angelman Syndrome
+Official title: Study of the Prevalence of Autistic Traits in Angelman Syndrome, the Correlation With Cognitive Level, Epilepsy, With Socio-communication Skills and Parenting Styles
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Angelman Syndrome
+Interventions: none
+Summary: The goal of this observational cross-sectional study is to establish the prevalence of autism spectrum disorder in children and adolescents with Angelman syndrome. The main questions it aims to answer are:
+
+* which clinical variables differentiate AS patients with and without Autism Spectrum Disorder between genetics, epilepsy, pharmacotherapy, behavioural problems, parenting style and parents' perceived stress.
+* which clinical variables differentiate parenting styles and levels of perceived stress.
+
+Data from neuropsychological, speech therapy and physiotherapeutic assessments are collected during regular clinical follow-ups, regarding: cognitive development ("Bayely Scales of Infant Development-III", Cognitive Scale) and adaptive behaviour; Autism and Autism Spectrum Disorder ("Autism Diagnostic Observational Schedule-2"); parental stress and parenting styles; social-communicative skills; motor development.
+Eligibility: Inclusion Criteria:
+
+* genetically confirmed diagnosis of Angelman Syndrome
+* chronological age between 4-15 years
+
+Exclusion Criteria:
+
+* genetic examination pending report
+* mental age lower than 12 months
+* brain injury acquired in the peri- or postnatal period

@@ -1,0 +1,15 @@
+Title: Comparative Effectiveness of Palliative Surgery Versus Additional Anti-Seizure Medications for Lennox-Gastaut Syndrome
+Official title: Comparative Effectiveness of Palliative Surgery Versus Additional Anti-Seizure Medications for Lennox-Gastaut Syndrome - PCORI
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Lennox Gastaut Syndrome
+Interventions: none
+Summary: Lennox-Gastaut syndrome is a serious and rare form of epilepsy that begins in infancy and early childhood. Seizures and their consequences need medical attention, emergency encounters, and hospitalizations. Seizures disrupt home life for the patient and for family. Lennox-Gastaut syndrome is typically accompanied by disabilities in motor, communication, eating, and other skills needed for daily function.
+
+Lennox-Gastaut syndrome (LGS) has no cure. Although current treatments may help reduce the number of seizures, none are expected to eliminate them entirely; these treatments are palliative. The main treatments include anti-seizure medications and some surgical approaches, including the implantation of a vagus nerve stimulator (a pacemaker-like generator implanted in the chest wall and programmed by a physician to stimulate the vagus nerve in the neck) and corpus callosotomy (cutting through the band of fibers that connect the two sides of the brain). While both types of treatment (medications and surgeries) produce some benefit by reducing how often the seizures occur, both also have some risks. All medications can, in some patients, produce moderate to severe side effects. This i
+Eligibility: Inclusion Criteria:
+
+Patients with the diagnosis of Lennox Gastaut syndrome with medical records at the seven plus eleven pediatric centers
+
+Exclusion Criteria:
+
+Patients without Lennox Gastaut Syndrome

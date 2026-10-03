@@ -1,0 +1,26 @@
+Title: Study With QR-504a to Evaluate Safety, Tolerability & Corneal Endothelium Molecular Biomarker(s) in Subjects With FECD3
+Official title: Open-Label, Single-Dose, Exploratory Study With QR-504a to Evaluate Safety, Tolerability, and Corneal Endothelium Molecular Biomarker(s) in Subjects With Fuchs Endothelial Corneal Dystrophy With Trinucleotide Repeat Expansion in the TCF4 Gene (FECD3)
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Fuchs Endothelial Corneal Dystrophy; FECD3; Corneal Diseases; LRS; Descemet's Membrane Disorder
+Interventions: QR-504a (DRUG)
+Summary: PQ-504a-001 (Fuchs Focus) is an open-label, single-dose, exploratory study to evaluate safety, tolerability, and corneal endothelium molecular biomarker(s) in subjects with Fuchs Endothelial Corneal Dystrophy with Trinucleotide Repeat Expansion in the TCF4 gene (FECD3).
+Eligibility: Inclusion Criteria:
+
+• Clinical diagnosis of FECD3 with:
+
+* confirmed presence of trinucleotide repeat (TNR) expansion in the TCF4 gene (50 TNRs or more as determined by PCR),
+* symmetrical disease progression in both eyes, in the opinion of the Investigator,
+* a clinical indication for DMEK in both eyes ((phakic, aphakic, pseudophakic), or a clinical indication for concurrent, preemptive lens replacement surgery \& DMEK in phakic eye.
+
+Exclusion Criteria:
+
+* Presence of any significant ocular or non-ocular disease/disorder which may either put the subject at risk because of participation in the study, may influence the results of the study, or the subject's ability to participate in the study.
+* History of any form of keratoplasty in either eye.
+* History or presence of ocular herpetic diseases (including herpes simplex virus, varicella zoster or cytomegalovirus) in either eye.
+* Presence of any active ocular infection in either eye.
+* Receipt within 3 months prior to Screening of in the opinion of the investigator any procedures or drugs that cause ocular disease or have ocular side effects that may confound assessment of safety, local tolerability or potential efficacy including.
+* Systemic therapies known to influence the immune system (including but not limited to cytostatics, interferons, TNF-binding proteins, drugs acting on immunophilins, or antibodies with known impact on the immune system). Subjects that have been treated with systemic steroids within the past 12 months or that require intermittent use of topical steroids (eg, in pulmonological, dermatological or ophthalmological indications) may be considered for inclusion following approval by the Medical Monitor.
+* Use of any investigational drug or device within 90 days or 5 half-lives of Day 1, whichever is longer, or plans to participate in another study of a drug or device during the study period.
+* Any prior receipt of genetic or stem-cell therapy for ocular or non-ocular disease.
+* Ongoing event of intraocular tumors.
+* Pregnant or breastfeeding subjects. Female subjects of childbearing potential and male subjects must be sexually inactive by abstinence, which is consistent with the preferred 

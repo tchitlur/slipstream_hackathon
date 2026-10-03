@@ -1,0 +1,21 @@
+Title: AMAZE 2: A Research Study Investigating How Well the Medicine NNC0487-0111 Helps People With Excess Body Weight and Type 2 Diabetes Lose Weight
+Official title: Efficacy and Safety of NNC0487-0111 s.c. Once-weekly in Participants With Overweight or Obesity, and Type 2 Diabetes (AMAZE 2)
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Diabetes Mellitus; Overweight; Obesity
+Interventions: NNC0487-0111 (DRUG); Placebo (matched to NNC0487-0111) (DRUG)
+Summary: The purpose of this clinical study is to find out if NNC0487-0111 is safe and effective for treating people who have excess body weight and type 2 diabetes. There are 2 study treatments in this study taken as injections under the skin once a week. Participants will either get NNC0487-0111 (the treatment being tested) or Placebo (treatment that has no active medicine in it). Which treatment participants get is decided by chance.
+Eligibility: Inclusion Criteria:
+
+* Male or female (sex at birth).
+* Age 18 years or above at the time of signing informed consent.
+* Diagnosed with type 2 diabetes mellitus more than equal to (≥) 180 days before screening.
+* Treatment with lifestyle intervention, and/or 0-3 marketed oral antidiabetic drugs (OAD)s (metformin, α-glucosidase inhibitors (AGI), glinides, sodium-glucose cotransporter 2 inhibitor (SGLT2i), thiazolidinediones, or sulfonylureas (SU) as a single agent or in combination) according to local label. Treatment with oral antidiabetic drugs should be stable (same drug(s), dose and dosing frequency) before screening.
+* Haemoglobin A1c (HbA1c) 7-10% \[53-86 (millimoles per mole) mmol/mol\] (both inclusive) as measured by the central laboratory at screening.
+
+Exclusion Criteria:
+
+* Renal impairment with estimated Glomerular Filtration Rate (eGFR) less than (\<) 30 milliliter per minute per meter square (mL/min/1.73 m\^2) \[2021 Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) formula\], at screening.
+* Participant with diabetic retinopathy or maculopathy who received treatment with retinal photocoagulation, vitrectomy or anti-Vascular Endothelial Growth Factor (anti-VEGF) before screening or are expected to require treatment after screening. Diabetic retinopathy or maculopathy must be verified by an eye examination performed within 90 days before screening or in the period between screening and randomisation. Pharmacological pupil-dilation is a requirement unless using a digital fundus photography camera specified for non-dilated examination.
+* Known hypoglycaemic unawareness as indicated by the investigator according to Clarke's questionnaire question 8.
+* Recurrent severe hypoglycaemic episodes within the last year as judged by the investigator.
+* Treatment with glucagon-like peptide-1 (GLP-1) receptor agonists (RA), dual GLP-1/gastric inhibitory peptide (GIP) RAs (or any other GLP-1 based treatment), or amylin analogues before screening.

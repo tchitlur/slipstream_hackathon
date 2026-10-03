@@ -1,0 +1,21 @@
+Title: A Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of OP-101 After Intravenous Administration in Healthy Volunteers
+Official title: A Phase 1 Open-Label Single-Ascending Dose Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of OP-101 (Dendrimer N-Acetyl-Cysteine) After Intravenous Administration in Healthy Volunteers
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Healthy
+Interventions: OP-101 (DRUG)
+Summary: A clinical study to measure the effect of OP-101 after being administered intravenously in healthy volunteers.
+Eligibility: Key Inclusion Criteria:
+
+* Body Mass Index (BMI) between 18 and 32 kg/m\^2.
+* Is in general good health, based upon the results of a medical history assessment, physical examination, vital signs, laboratory profile, and 12-lead electrocardiogram (ECG), as judged by the investigator.
+* Female subjects may not be pregnant, lactating, or breastfeeding.
+* Subjects must have a negative urine test for drugs of abuse, cotinine, and breath alcohol test at screening and Check-in.
+
+Key Exclusion Criteria:
+
+* Evidence of clinically significant hematologic, renal, endocrine, pulmonary, cardiac, gastrointestinal, hepatic, psychiatric, neurologic, immunologic, allergic disease, or any other condition that, in the opinion of the Investigator, might significantly interfere with the absorption, distribution, metabolism, or excretion of study drug, or place the subject at an unacceptable risk as a participant in this study.
+* History of malignancy (other than successfully treated basal cell or squamous cell skin cancer).
+* History or presence of an abnormal ECG that, in the opinion of the Investigator, is clinically significant.
+* Has used any product containing nicotine within 90 days prior to screening or intends to use any product containing nicotine during the course of the study.
+* Has used medications that affect gastrointestinal motility or gastric emptying; such as metoclopramide, proton pump inhibitors, and H2 blockers; within 30 days prior to Day 1.
+* Has used prescription or over-the-counter medication, vitamins/herbal supplements (with the exception of hormonal contraceptives) within 14 days prior to Day 1.

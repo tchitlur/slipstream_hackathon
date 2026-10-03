@@ -1,0 +1,32 @@
+Title: Safety and Efficacy Study of Ladostigil in Mild to Moderate Probable Alzheimer's Disease
+Official title: A 6-Month Prospective, Multi-Center, Double-Blind, Placebo-Controlled, Randomized, Adaptive-Trial-Design Study to Evaluate the Safety and Efficacy of 80mg b.i.d Ladostigil in Patients With Mild to Moderate Probable Alzheimer's Disease
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Alzheimer's Disease; Dementia; Memory Loss; Cognitive Impairment
+Interventions: ladostigil hemitartrate (DRUG)
+Summary: For many, Alzheimer's disease is the number one medical issue facing our aging society. It is a late onset neurodegenerative disease, frequently under diagnosed, that impairs memory and cognitive performance. There are no known treatments that can either prevent or reverse its progression. Consequently, there still remains a need to evaluate treatments which can better stabilize the symptoms of this disease. These symptoms frequently include decreased functional capacity and negative psychological attributes (e,g, depression, anxiety) in association with the memory and cognition deficits. This current study is being done to assess an investigational compound that has been designed to not only improved the cognitive status of affected patients but to also better manage all symptoms. Hence, the ultimate goal is to provide patients with an improved quality of life by slowing the progression of this neurodegenerative disease
+Eligibility: Inclusion Criteria:
+
+* AD diagnosis according to NINCDS-ADRDA criteria
+* Mild to moderate AD according to MMSE 14-24 inclusive
+* MRI or CT assessment within 6 months before baseline, corroborating the clinical diagnosis and excluding other potential causes of dementia especially cerebrovascular lesions
+* Absence of major depressive disease according to CSDD of less than or equal to 18
+* Modified Hachinski Ischemic Scale equal to or below 4
+* Education for eight or more years
+* Previous decline in cognition for more than six months as documented in patient medical records
+* A caregiver available and living in the same household or interacting with the patient daily and available if necessary to assure administration of investigational product
+* Patients living at home or nursing home setting without continuous nursing care
+* General health status acceptable for participation in a 12-month clinical trial and ability to swallow oral medication
+* No history of treatment with rivastigmine
+* For patients with either donepezil or galantamine anti-cholinesterase inhibitor treatment prescribed, stopped treatment four weeks prior to screening
+* For patients with memantine treatment prescribed, stopped treatment four weeks prior to screening
+
+Exclusion Criteria:
+
+* Other primary degenerative dementias (e.g. dementia with Lewy bodies, fronto-temporal dementia, Huntington's disease, Jacob-Creutzfeldt disease)
+* Other neurodegenerative conditions (Parkinson's disease. amyotrophic lateral sclerosis, etc)
+* Other central nervous system diseases (severe head trauma, tumors, subdural hematoma, etc)
+* A current DSM-IV diagnosis of active major depression, schizophrenia or bipolar disorder
+* Seizure disorders
+* Other infectious, metabolic or systemic diseases affecting central nervous system (syphilis, present hypothyroidism, present vitamin B12 or folate deficiency, serum electrolytes out of normal range, juvenile onset diabetes mellitus, etc)
+* Clinically significant, advanced or unstable disease that may interfere with primary or secondary variable evaluations
+* Other unstable, chronic or clinically significant medical conditions involving major organs like kidney, liver, lungs 

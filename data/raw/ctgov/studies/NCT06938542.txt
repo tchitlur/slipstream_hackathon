@@ -1,0 +1,29 @@
+Title: Palliative Care Needs of Children With Rare Diseases and Their Families
+Official title: Palliative Care Needs of Children With Rare Diseases and Their Families
+Status: ENROLLING_BY_INVITATION. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Trisomy 13 Syndrome; Arthrogryposis Congenita Multiplex With Intestinal Atresia; Asparagine Synthetase Deficiency; CHARGE Syndrome; Early Infantile Epileptic Encephalopathy; FOXG1 Syndrome; KBG Syndrome; Noonan Syndrome; Severe Hemophilia A; Short Bowel Syndrome; Beta-Propeller Protein-Associated Neurodegeneration; Brain Injury of Prematurity With Periventricular Leukomalacia; Chromosome 17p13.3 Microdeletion Syndrome; Chromosome 1q43-1q44 Deletion; Cockayne Syndrome; Congenital Diaphragmatic Hernia; End-Stage Renal Disease With Cloacal Anomaly; Mitochondrial Depletion Disorder; Severe Factor VII Deficiency
+Interventions: Family Centered pediatric palliative care for family caregivers of children with rare diseases. (BEHAVIORAL)
+Summary: The palliative care needs of family caregivers of children with rare diseases and their children are largely unmet, including the need for support to prepare for future medical decision making. This trial will test the FACE-Rare intervention to see if investigators can identify and meet those needs; and if FACE-Rare effects family caregivers' quality of life and child healthcare utilization. Finally, investigators will determine if the intersectionality of child-sex, family-race, Federal poverty level, and social connection influences family quality of life and child health care utilization longitudinally.
+Eligibility: Child inclusion criteria:
+
+* ≥1.0 years and \<18.0 years at enrollment.
+* Unable to participate in end-of-life care decision-making.
+* Has a rare disease as operationally defined by NIH's Genetic and Rare Diseases Information Center (GARD).
+* Not under a Do Not Resuscitate Order or Allow a Natural Death Order.
+* Not in the Intensive Care Unit.
+
+Family caregiver inclusion criteria:
+
+* \> 18.0 years at enrollment.
+* Child's family caregiver/legal guardian.
+* Not known to be developmentally delayed.
+
+Support person inclusion criteria:
+
+* \> 18.0 years at enrollment.
+* Chosen by family caregiver.
+* Not known to be developmentally delayed.
+
+Exclusion Criteria:
+
+* Family caregiver or support person is actively homicidal, suicidal, or psychotic at the time of enrollment.

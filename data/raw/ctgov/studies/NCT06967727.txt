@@ -1,0 +1,15 @@
+Title: Registry and Natural History of Epilepsy-Dyskinesia Syndromes
+Official title: Registry and Natural History of Epilepsy-Dyskinesia Syndromes
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Epilepsy-Dyskinesia; Epilepsy; Dyskinesia; EDS; Epilepsy-Dyskinesia Syndomes; Epilepsy in Children; Dyskinesias; Movement Disorders in Children; Neurologic Disorder; Chorea; Myoclonus; Ataxia; Dystonia Disorder; Movement Disorders
+Interventions: none
+Summary: The Registry and Natural History of Epilepsy-Dyskinesia Syndromes is focused on gathering longitudinal clinical data as well as biological samples (blood, urine, and/or skin/tissue) from male and female patients, of all ages, who have a genetic diagnosis of epilepsy-dyskinesia syndromes. Through prospective review and molecular data analysis, the study aims to identify patterns and correlations between movement and seizure disorders, uncovering genotype-phenotype relationships. The initiative's goals are to enhance understanding of epilepsy-dyskinesia syndromes, inform precision medicine approaches, and foster international collaboration.
+Eligibility: Inclusion Criteria:
+
+* Having at least one pathogenic or likely pathogenic variant in one of the genes of interest:
+
+AARS2, ADCY5, ALG13, AP3B2, AP4B1, AP4E1, AP4M1, AP4S1, ARX, ATP1A3, CACNA1A, CACNA1E, CACNA2D2, CDKL5, CSTB, DARS2, DLAT, DLD, DNM1, EARS2, EPG5, EPM2A, FARS2, FOXG1, FRRS1L, GABRA1, GABRA2, GABRB2, GABRB3, GABRG2, GNAO1, GRIA2, GRIA4, GRIN1, GRIN2A, GRIN2B, GRIN2D, HARS2, HNRNPU, HTT, IQSEC2, IRF2BPL, KCNA2, KCNB1, KCNC1, KCNMA1, KCNQ2, KCNQ3, KCNT1, LARS2, MECP2, MEF2C, MTND5, MTTK, MTTL1, NARS2, NHLRC1, PCDH12, PCDH19, PDE10A, PDE2, PDHA1, PDHB, PDHX, PDK3, PDP1, PIGA, PIGN, PIGP, PIGQ, PIGS, PLCB1, POLG, PRRT2, PURA, RHOBTB2, SCN1A, SCN1B, SCN2A, SCN8A, SCN9A, SETBP1, SETD5, SLC13A5, SLC1A2, SLC25A22, SLC2A1, SMC1A, SNX14, SPTAN1, ST3GAL3, STXBP1, SYNGAP1, SYNJ1, SZT2, TARS2, TBC1D24, UBA5, UBE3A, VAMP2, VARS2, WARS2, WDR45, WWOX, YIF1B, YWHAG, and other genes associated with epilepsy-dyskinesia syndromes.
+
+Exclusion Criteria:
+
+* Not having a pathogenic or likely pathogenic variants in the genes of interest

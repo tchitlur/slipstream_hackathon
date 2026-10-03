@@ -1,0 +1,16 @@
+Title: Statins and Post-ERCP Acute Pancreatitis (Stark Project)
+Official title: Stark Project: Statins and Risk of Post-Endoscopic Retrograde Cholangiopancreatography Acute Pancreatitits.
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Post-ERCP Acute Pancreatitis
+Interventions: Statin (DRUG)
+Summary: Post-endoscopic retrograde cholangiopancrepatography (ERCP) acute pancreatitis (PEAP) is a frequent complication of this endoscopic procedure. Chronic statin intake has been linked to lower incidence and severity of acute pancreatitis (AP). Periprocedural rectal administration of non-steroidal anti-inflammatory drugs is protective against PEP, but the role of chronic acetylsalicylic acid (ASA) treatment is unclear. The aim of the study is to investigate whether statins and chronic ASA intake are associated with lower risk of PEAP.
+Eligibility: Inclusion Criteria:
+
+* Patients ≥ 18 years old scheduled for ERCP and willing to participate were included.
+
+Exclusion Criteria:
+
+* Patients with ongoing AP
+* Surgically altered biliary anatomy (such as hepatico-jejunostomy or choledoco-duodenostomy)
+* Failure to reach the papilla
+* Patients undergoing ERCP for stent removal or exchange

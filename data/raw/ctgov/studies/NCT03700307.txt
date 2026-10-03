@@ -1,0 +1,24 @@
+Title: Effects of Different Surgical Methods for Persistent Atrial Fibrillation Combined With the Application of Statin Drugs on Left Atrial Function
+Official title: Changes in Left Atrial Function After Respective Treatments of Persistent Atrial Fibrillation With Circumferential Pulmonary Vein Isolation, Circumferential Pulmonary Vein and Left Atrial Linear Isolation Using Cryoballoon Ablation and Effects of the Application of Statin Drugs
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Persistent Atrial Fibrillation
+Interventions: Cryoballoon ablation (PROCEDURE)
+Summary: A total of 164 patients with persistent atrial fibrillation, who are planned to undergo treatment with cryoballoon ablation, will be randomly allocated into two groups. These patients will receive circumferential pulmonary vein isolation, circumferential pulmonary vein and left atrial roof linear isolation using cryoballoon ablation(allocation ratio, 1:1). Patients in each group will be randomly allocated into the statin treatment group and non-statin treatment group (allocation ratio, 1:1). Real-time 3D ultrasound and 2D ultrasound examinations and measurement of left atrial function are carried out for all patients before the operation, and at 1, 2, 3 and 4 weeks and 2, 3, 6, 9 and 12 months after the operation. Preoperative transesophageal echocardiography will be carried out in all patients to measure the left atrial appendage function. All ultrasound data will be stored and a professional director from the ultrasound room will be invited for quantitative analysis. Indicators for ultrasonography include: left atrial anterior and posterior diameter, left atrial volume, left atrial volume index, mitral e ", E peak, A peak, velocity time integral (VTI), left atrial ejection fracti
+Eligibility: Inclusion Criteria:
+
+* Persistent AF is defined as AF that persists without interruption for 7 days (electrocardiogram data or Holter), atrial fibrillation cannot be prevented in patients who orally take class I and III antiarrhythmic drugs, and patient age is \<80 years.
+
+Exclusion Criteria:
+
+* •left ventricular dysfunction
+
+  * atrial thrombosis
+  * valvular heart disease
+  * hyperthyroidism
+  * patients who underwent prosthetic heart valve replacement
+  * patients with previous history of atrial fibrillation ablation
+  * pregnant women
+  * patients with existing liver and kidney disease
+  * malignant tumors
+  * hematological system diseases
+  * patients who underwent prosthetic heart valve replacement

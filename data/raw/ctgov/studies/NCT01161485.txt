@@ -1,0 +1,27 @@
+Title: Reduction of Drug Use and HIV Risk Among Out-of-Treatment Methamphetamine Users
+Official title: Reduction of Drug Use and HIV Risk Among Out-of-Treatment Methamphetamine Users
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: HIV Infections
+Interventions: HIV Testing and Counseling (BEHAVIORAL); Contingency Management (BEHAVIORAL); Strengths-based case management (BEHAVIORAL)
+Summary: There is a need to identify and test effective strategies to reduce meth use and human immunodeficiency virus (HIV) risk behaviors in heterosexuals. This project will compare the efficacy of a manually-driven HIV testing and counseling (HIV T/C) intervention, with HIV T/C plus a manualized Contingency Management (CM), with HIV T/C plus CM plus a manualized Strengths-Based Case Management (CM/SBCM) model. As HIV T/C is the standard of care, the investigators are testing to determine if the investigators can enhance this standard. The specific aims and hypotheses of this protocol are:
+
+1. To compare the relative efficacy of HIV T/C vs. CM vs. CM/SBCM on reducing drug use, specifically meth use. Hypothesis 1: CM/SBCM will reduce drug use more than those in CM (which will have more reduction than HIV T/C), potentially mediated through increased service utilization.
+2. To compare the relative efficacy of HIV T/C vs. CM vs. CM/SBCM on reducing HIV and STI risk behaviors, specifically sex risk behaviors but also needle risk for injection drug users (IDUs). Hypothesis 2: CM/SBCM will have greater decreases in HIV risk behaviors than those in CM (which will have greater decreases than HIV T
+Eligibility: Inclusion Criteria:
+
+* 18 years of age or older
+* Be competent (not too intoxicated or mentally disabled) to give informed consent at the time of the interview
+* Meth use (verified through urine drug screening and a self-report of meth use of at least 4 times per month for the last 3 months)
+* Self-reported sex with someone of the opposite sex in last 30 days
+* Ability to provide a reliable address and phone number for contact
+* Not in drug treatment in the past 30 days
+* Willingness to be tested for HIV at baseline and follow-up
+* Not transient and no know reason why he/she will not be available for follow-up interviews
+* Not currently mandated by the criminal justice system to receive treatment based on self-report.
+
+Exclusion Criteria:
+
+* Participation in drug treatment in the past 30 days
+* Currently participating in another Project Safe study
+* Pregnant or attempting to become pregnant
+* Intoxicated or impaired mentally to the point that they cannot voluntarily consent to participate tin the project and/or respond to the interview

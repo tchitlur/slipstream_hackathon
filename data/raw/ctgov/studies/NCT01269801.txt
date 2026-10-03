@@ -1,0 +1,27 @@
+Title: Study of BOTOX and JUVEDERM for Treatment of Moderate to Severe Facial Wrinkles and Folds
+Official title: A Phase IV Prospective, Open Label, Randomized, Crossover Study Evaluating BOTOX Cosmetic for Injection and JUVEDERM Injectable Gel for the Treatment of Moderate to Severe Facial Wrinkles and Folds
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Wrinkles
+Interventions: onabotulinumtoxinA (DRUG); JUVÉDERM (DRUG)
+Summary: The purpose of this study is to see how well Juvederm Ultra XC or Juvederm Ultra Plus XC, and BOTOX Cosmetic, work compared to each other and when used together for the cosmetic treatment of age-associated wrinkles and folds of the face.
+Eligibility: Inclusion Criteria:
+
+* Adult females or males, aged 25 to 65 years;
+* Subjects must be seeking treatment with either BOTOX® or JUVÉDERM injections;
+* Subjects must have one or more moderate to severe hyperfunctional facial lines of the upper face (i.e., glabellar lines, lateral canthal lines (crow's feet) or horizontal forehead lines) or moderate to severe nasolabial folds based on the physician observer assessment (0-3 scale);
+* Women must either be of non-childbearing potential (i.e., surgically sterilized or post-menopausal) or if of childbearing potential, must not be pregnant (as documented by a negative urine pregnancy test at the baseline examination) or lactating and must be practicing a medically acceptable method of birth control;
+* Subjects must be willing and able to provide written informed consent;
+* Subjects must be willing and able to follow the procedures outlined in this protocol.
+
+Exclusion Criteria:
+
+* Female subjects who are pregnant (positive urine pregnancy test) or who have an infant they are breast-feeding or who are of childbearing potential and not practicing a reliable method of birth control;
+* Previous botulinum toxin or semipermanent injectable filler therapy within the past year or any prior history of permanent filler therapy injection;
+* Prior cosmetic procedures (i.e., liposuction, etc.) or visible scars that may affect evaluation of response and/or quality of photography;
+* Known allergy or sensitivity to any of the study medication or their components;
+* Known severe allergies manifested by a history of anaphylaxis or history or presence of multiple severe allergies;
+* Diagnosis of myasthenia gravis, Eaton-Lambert syndrome, amyotrophic lateral sclerosis or any other disease that might interfere with neuromuscular function;
+* Concurrent use of aminoglycoside antibiotics that interfere with neuromuscular function;
+* Subjects with profound atrophy or excessive weakness of the muscles in the target area(s) of BOTOX injection;
+* Subjects with an infection at an injection site or systemic infection (in this case, postpone study entry until one week following recovery);
+* Concurrent participation in an investigational drug or device

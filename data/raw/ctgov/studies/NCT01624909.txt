@@ -1,0 +1,13 @@
+Title: China PEACE-Prospective AMI Study
+Official title: The China PEACE (Patient-centered Evaluative Assessment of Cardiac Events) Prospective Study of Acute Myocardial Infarction
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Coronary Heart Disease
+Interventions: none
+Summary: Coronary heart disease (CHD) and heart attacks pose a serious health risk to men and women, however little information is available about how evidence-based therapies are incorporated appropriately into routine clinical practice in China. In addition, basic data and evidence about safety and efficacy of treatment for AMI is limited. By consecutively recruiting AMI patients in 40 hospitals of different levels, this study will examine various real-life factors, that may affect patients recovery after a heart attack. Practical guidelines and risk model for AMI patients will be established based on the findings, to improve patients outcomes in future finally.
+Eligibility: Inclusion Criteria:
+
+* Hospitalized patients with acute myocardial infarction according to positive cardiac biomarkers (Troponin I/T, CK-MB or CK≥ local laboratory upper limit of normal values within 24 hours after initial presentation, and at least one of the following two supporting evidence of ischemia (ischemic symptoms occurring within 24 hours before admission or up to 72 hours for STEMI; ECG changes indicative of new ischemia).
+
+Exclusion Criteria:
+
+* Previously enrolled in the PEACE study

@@ -1,0 +1,29 @@
+Title: Treatment Development of Triheptanoin (G1D)
+Official title: Treatment Development of Triheptanoin (C7) for Glucose Transporter Type I Deficiency (G1D): A Phase I Maximum Tolerable Dose Trial
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Epilepsy; GLUT1DS1; Glut1 Deficiency Syndrome 1, Autosomal Recessive; Glucose Metabolism Disorders; Glucose Transport Defect; Glucose Transporter Type 1 Deficiency Syndrome; Glucose Transporter Protein Type 1 Deficiency Syndrome
+Interventions: Triheptanoin (DRUG)
+Summary: To determine the maximum tolerated dose (MTD), as a percentage of calories consumed, of triheptanoin (C7 oil; C7) in a pediatric and adult patient population genetically diagnosed with glucose transporter type 1 deficiency disorder (G1D).
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of glucose transporter type I deficiency (G1D) confirmed by genotyping or PET scan of the brain.
+* Stable on no dietary therapy other than Modified Atkins diet (i.e., on no dietary therapy for 1 month, including, but not limited to, medium chain triglyceride therapy).
+* Males and females 2 years 6 months to 35 years 11 months old, inclusive.
+
+Exclusion Criteria:
+
+* Subjects with a history of life-threatening seizure episodes, including but not limited to status epilepticus and cardiac arrest.
+* Subjects with evidence of independent, unrelated metabolic and/or genetic disease.
+* Subjects with a body mass index (BMI) greater than or equal to 30.
+* Subjects with a chronic gastrointestinal disorder, such as irritable bowel syndrome, Crohn's disease, or colitis, which could increase the subject's risk of developing diarrhea or stomach pain.
+* Subjects currently on dietary therapy (i.e., ketogenic diet, medium chain triglyceride-supplemented diets, Atkins diet, low glycemic index diet, and related diets).
+* Women who are pregnant or breast-feeding may not participate.
+* Women who plan to become pregnant during the course of the study, or who are unwilling to use birth control to prevent pregnancy (including abstinence) may not participate.
+* Females age 10 and over will be asked to provide a urine sample for a pregnancy test via dipstick.
+* Subjects will be asked to agree to abstinence or another form of birth control for the duration of the study.
+* Allergy/sensitivity to C7.
+* Previous treatment with C7 one month prior to enrollment.
+* Treatment with medium chain triglycerides in the last 30 days.
+* Subjects exhibiting signs of dementia, or diagnosed with any degenerative brain disorder (such as Alzheimer's disease) that would confound assessment of cognitive changes, in the opinion of the investigator.
+* Active drug or alcohol use or dependence that, in the opinion of the investigator, would interfere with adherence to study requirements.
+* Inability or unwillingness of 1 parent or legal guardian/representative to give written informed consent.

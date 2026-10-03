@@ -1,0 +1,19 @@
+Title: Multiomics Approach in Adult Patients With Phenylketonuria
+Official title: Relationships Between the Genome and Metabolomic and Phenomic Signatures in Adult Patients With Early-Treated Phenylketonuria: a Multicenter Cross-sectional Study
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Phenylketonuria (PKU)
+Interventions: none
+Summary: The GENOPHEN study aims to explore the links between the genome, metabolomic profile, and clinical phenotype in adults with early-treated PKU.
+Eligibility: Inclusion Criteria:
+
+* PKU patients over the age of 18,
+* diagnosed through the newborn screening program,
+* patients who participated in the final visit of the ECOPHEN study,
+* affiliation with a health insurance plan,
+* informed consent dated and signed by patients for DNA analysis (saliva sample)
+
+Exclusion Criteria:
+
+* Patients whose PKU diagnosis was not detected during neonatal screening,
+* Patients who have not signed a dated informed consent form,
+* Patients who are unable to provide a saliva sample.

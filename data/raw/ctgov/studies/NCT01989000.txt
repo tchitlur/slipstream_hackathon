@@ -1,0 +1,20 @@
+Title: The Role of the Tumor Microenvironment of Pancreatic Cancer to Predict Treatment Outcome
+Official title: The Role of the Tumor Microenvironment of Pancreatic Cancer to Predict Treatment Outcome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Pancreatic Cancer
+Interventions: Gadobutrol (DRUG); [F-18]HX4 (DRUG); Gemcitabine (DRUG); Radiotherapy (RADIATION); Pancreaticoduodenectomy (PROCEDURE)
+Summary: Pancreatic cancer is a highly lethal disease. Patients with resectable or borderline resectable disease may benefit from preoperative radiochemotherapy. However, only a subset of patients will respond to this potentially toxic and expensive treatment. Therefore, novel predictive markers are needed to determine treatment efficacy at an early stage. Preferably, these markers could be determined non-invasively and provide insight into the biology of pancreatic cancer. Pancreatic cancers are heterogeneous tumors. The tumor microenvironment is often characterized by large amounts of stroma, hypovascularization, and hypoxia. As these three factors can all contribute to treatment resistance, a quantitative assessment of these markers may aid in the prediction of response to preoperative radiochemotherapy. Moreover, these assessments may have prognostic value. Finally, further insight into the interrelation of these aspects of the tumor microenvironment can contribute to the evaluation of new targeted treatment options. Tumor cellularity and extracellular matrix composition can be assessed non-invasively in vivo by diffusion weighted magnetic resonance imaging (DWI) and tumor vascularity c
+Eligibility: Inclusion Criteria:
+
+* Patients with pancreatic tumors, with histological or cytological proof of adenocarcinoma or a high suspicion on CT imaging.
+* Tumor size ≥ 1cm.
+* WHO-performance score 0-2.
+* Scheduled for surgery or neo-adjuvant chemotherapy/radiation followed by surgery. For the reproducibility part of the study, patients who will not undergo surgery, may be included, too.
+* Written informed consent.
+
+Exclusion Criteria:
+
+* Any psychological, familial, sociological or geographical condition potentially hampering adequate informed consent or compliance with the study protocol.
+* Contra-indications for MR scanning, including patients with a pacemaker, cochlear implant or neurostimulator; patients with non-MR compatible metallic implants in their eye, spine, thorax or abdomen; or a non-MR compatible aneurysm clip in their brain; patients with severe claustrophobia.
+* Renal failure (GFR \< 30 ml/min) hampering safe administration of Gadolinium containing MR contrast agent.
+* For the reproducibility part of the protocol: surgery, radiation and/or chemotherapy foreseen within the timeframe needed for MR scanning.

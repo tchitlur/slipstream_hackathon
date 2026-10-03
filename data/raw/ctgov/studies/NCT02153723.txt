@@ -1,0 +1,19 @@
+Title: Pharmacological Treatment of Rett Syndrome With Glatiramer Acetate (Copaxone)
+Official title: Pharmacological Treatment of Rett Syndrome With Glatiramer Acetate (Copaxone)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Rett Syndrome
+Interventions: Glatiramer Acetate (DRUG)
+Summary: A phase 2 open label trial to test a potential drug treatment for Rett syndrome, the leading known genetic cause of severe neurological impairment in girls. The drug, Copaxone (generic name - Glatiramer acetate) is medication FDA approved for the treatment of multiple sclerosis. Copaxone's high safety profile has been documented in large cohorts of patients for more than 12 years.
+Eligibility: Inclusion Criteria:
+
+* Female patients with genetically confirmed Rett Syndrome (RTT)
+* Age: 10 or more years old. Selection of the age is based on the available evidence of the safety of Glatiramer Acetate (GA) in this group, and the relative homogeneity/stability of the phenotype, which is not expected to spontaneously change within a 6 month period at this age
+* Ambulatory (with our without support)
+
+Exclusion Criteria:
+
+* Prolonged Qtc (obtained within 30 days prior to enrollment)
+* Presence of co morbid non-Rett related disease
+* Presence of immunodeficiency requiring intravenous immunoglobulin 3 (IVIG 3) months prior to enrollment
+* Allergy/sensitivity to GA or mannitol
+* Inability or unwillingness of legal guardians to give written informed consent

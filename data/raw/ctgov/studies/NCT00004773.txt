@@ -1,0 +1,17 @@
+Title: Study of Cardiac and Paroxysmal Abnormalities in Rett Syndrome
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome
+Interventions: none
+Summary: OBJECTIVES: I. Evaluate electrocardiographic parameters, including QT and PR intervals and QRS morphology/duration, across clinical stages in patients with Rett syndrome.
+
+II. Characterize abnormalities of cardiac conduction and repolarization. III. Assess arrhythmias, heart rate variability, and autonomic nervous system function in these patients using 24-hour Holter monitoring.
+
+IV. Record events believed to represent seizures with video, electroencephalogram (EEG), and polygraph monitoring in patients who have more than 1 clinical seizure every 5 days.
+
+V. Characterize these events with respect to clinical manifestations, EEG correlates, and other physiologic data.
+
+VI. Determine the frequency of seizures vs. events without electrographic correlates in these patients.
+
+VII. Determine whether Rett syndrome patients have characteristic or unique types of seizures and/or an epileptic syndrome.
+Eligibility: * Classical Rett syndrome meeting Rett Syndrome Diagnostic Work Group criteria
+* Age-matched girls without neurologic or cardiac problems entered as controls

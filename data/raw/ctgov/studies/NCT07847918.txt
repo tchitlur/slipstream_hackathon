@@ -1,0 +1,38 @@
+Title: A Fully Remote Feasibility Trial of Phenylbutyrate for SLC6A1-Related Disorders
+Official title: A Site-Less Feasibility Trial of Phenylbutyrate for SLC6A1-Related Disorders
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: SLC6A1
+Interventions: Glycerol Phenylbutyrate (DRUG)
+Summary: The purpose of this study is to evaluate the feasibility of a site-less (fully remote) clinical trial using phenylbutyrate for SLC6A1-related disorders. Study participants will receive treatment with phenylbutyrate, undergo electroencephalogram (EEG) monitoring, and complete laboratory testing. Caregivers will report seizure frequency, answer questionnaires, and report side effects.
+
+Participants will be randomly assigned to one of two groups. Randomization is stratified by age band (\<7 years vs. ≥7 years) and baseline seizure frequency (≤5 vs. \>5 daily seizures). One group will begin treatment immediately; the other group will have a 6-week observation period before starting treatment. All participants will receive phenylbutyrate. Treatment lasts up to 18 weeks with the option to extend for up to 3 years. Follow-up occurs at 18 weeks. If extending treatment, additional follow-up occurs at 6 months, 1 year, and then annually.
+
+Participation is completely voluntary. There is the risk of adverse events from the study drug, phenylbutyrate, including hospitalization from metabolic acidosis. There is the risk of loss of confidentiality of your medical and personal information collecte
+Eligibility: Inclusion Criteria:
+
+* Confirmed diagnosis of SLC6A1-related disorder based on a pathogenic or likely pathogenic variant in the SLC6A1 gene
+* Age 2-60 years at time of consent
+* Active clinical seizures, defined as ≥4 seizures in the 4 weeks prior to enrollment
+* Seizures persisting despite an adequate trial of ≥2 prior antiseizure medications at therapeutic doses
+* Stable antiseizure medication regimen for ≥4 weeks prior to enrollment
+* Parent, legal guardian, or legally authorized representative (LAR) able to provide informed consent and participate in digital follow-up assessments
+* Local licensed physician identified for ordering laboratory testing, EEG, and clinical evaluation as needed
+* English-speaking caregiver for consent and study communication
+
+Exclusion Criteria:
+
+* Larger 3p25 chromosomal deletion extending beyond SLC6A1 and SLC6A11 to encompass additional genes
+* Early-infantile developmental and epileptic encephalopathy (DEE) phenotype
+* Epileptic spasms within the 6 months prior to enrollment
+* Hepatic impairment (AST or ALT \>2× the upper limit of normal)
+* Renal impairment (eGFR \<60 mL/min/1.73m²)
+* Thrombocytopenia (platelet count \<150 × 10³/μL)
+* Inborn errors of beta-oxidation
+* Pancreatic insufficiency or intestinal malabsorption
+* Known hypersensitivity to phenylbutyrate or any of its components
+* Participation in another interventional investigational study within 30 days or 5 half-lives of the investigational product, whichever is longer
+* Current use of alfentanil, quinidine, cyclosporine, or probenecid due to clinically significant interactions with phenylbutyrate based on CYP3A4 modulation
+* Pregnancy or breastfeeding
+* Any condition that in the investigator's judgment would interfere with study participation or safety monitoring
+
+This is a fully remote study. Participants may enroll from any U.S. state. No facility visit is required.

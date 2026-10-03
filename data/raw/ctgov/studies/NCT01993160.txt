@@ -1,0 +1,26 @@
+Title: 18F-FCH (Fluorocholine)-PET/MR in Staging of High-Risk Prostate Cancer
+Official title: 18F-FCH-PET/MR in Staging of High-Risk Prostate Cancer: A Multiparametric Approach
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Prostate Cancer
+Interventions: Fluorocholine (18F-FCH) Injection (DRUG); PET scan (RADIATION); Whole body MRI (RADIATION)
+Summary: This is a single centre, single arm feasibility study of 18FCH PET-MR imaging for staging patients with high risk prostate cancer.
+
+Study Hypothesis:
+
+FCH-PET/MR will enable more accurate staging of patients with high risk prostate cancer as compared to conventional imaging.
+Eligibility: Inclusion Criteria:
+
+* Age ≥ 18 years
+* Histologic diagnosis of carcinoma of prostate
+* High risk disease: defined as Gleason ≥8, or T3 disease, or PSA \>20ng/mL
+* No prior therapy for prostate cancer (surgery, radiation therapy, hormone therapy, chemotherapy).
+* Ability to provide written informed consent to participate in the study
+
+Exclusion Criteria:
+
+* Prior surgery or radiation therapy for prostate cancer
+* Prior or ongoing hormone or other systemic therapy for prostate cancer
+* Inability to lie supine for 90 minutes
+* Any contraindication to MR as per Joint Department of Medical Imaging policies.
+* Impaired kidney function with glomerular filtration rate \< 30ml/min
+* Previous anaphylactic reaction to gadolinium or other contraindications to MR.

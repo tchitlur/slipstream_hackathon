@@ -1,0 +1,17 @@
+Title: Study in Patients' With Persistent Asthma and Chronic Obstructive Pulmonary Disease
+Official title: A Phase IV Real-World Multi-Country Observational Study on Patients' Disease Control and Self-Reported Outcomes During Fixed Dose Combination Inhaler Treatment for Persistent Asthma and COPD
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Asthma; Chronic Obstructive Pulmonary Disease
+Interventions: Marketed antagonists (DRUG)
+Summary: The study is to evaluate the percentage of patients with asthma or COPD achieving disease control
+Eligibility: Inclusion Criteria:
+
+* Patient ≥ 18 years of age who has been diagnosed with persistent asthma or patient ≥ 40 years of age and/or (ex)-smoker with more than 10 pack years of smoking who has been diagnosed with COPD
+* Treatment with a stable dose (no change in dose or change by less than 50% in the last 3 months) of a Inhaled corticosteroid (ICS), Long-acting beta2-agonists (LABA), Fixed dose combination (FDC) administered twice daily by Dry powder inhaler (DPI) for 3 months prior to enrollment in accordance with its approved indication
+* Patient is willing and able to provide written informed consent;
+* Patient agrees to participate in the study and to disclose any medical events to the treating physician;
+* Patient is able to complete the questionnaires.
+
+Exclusion Criteria:
+
+• Current enrolment or planned enrolment in an interventional study (patients are allowed to participate in other observational or case-control studies).

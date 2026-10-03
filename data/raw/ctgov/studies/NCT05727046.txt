@@ -1,0 +1,13 @@
+Title: Investigation of the Usability of the Dynamic Scaffolding System
+Official title: Investigation of the Usability of the Dynamic Scaffolding System An Adaptive Mobility Device in Children With Special Needs and Parental Satisfaction
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Child Development Disorder; Child Development; Assistive Technology
+Interventions: none
+Summary: The aim of the present study was to compare the duration of use of the Dynamic Scaffolding System (DSS) in children with different levels of motor impairment, to report adverse events during use, and to examine parental satisfaction. One hundred children with special needs aged between 9 and 108 months who had used the DSS device for at least 6 months and their parents were included in the study. The duration of daily use of the DSS device by the children, any adverse events during use, and parental satisfaction were assessed using the Quebec 2.0 Assistive Technology User Satisfaction Assessment Questionnaire.
+Eligibility: Inclusion Criteria:
+
+* Children with motor disabilities
+
+Exclusion Criteria:
+
+* If children did not use Dynamic Scaffolding System for less than one month

@@ -1,0 +1,18 @@
+Title: A Clinical Trial of PRAX-222 in Pediatric Participants With Early Onset SCN2A Developmental and Epileptic Encephalopathy
+Official title: A Seamless, Clinical Trial to Investigate the Safety and Efficacy of Multiple Doses of PRAX-222 in Pediatric Participants With Early Onset SCN2A Developmental and Epileptic Encephalopathy
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: SCN2A-DEE; Epilepsy
+Interventions: PRAX-222 - Initial Dose (DRUG); PRAX-222 - Initial Ascending Doses (DRUG); PRAX-222 - Optional Ascending Doses (DRUG); PRAX-222 - Fixed Doses (DRUG); Placebo (PROCEDURE)
+Summary: The goal of this trial is to learn about the effect of PRAX-222 in pediatric participants with early onset SCN2A developmental and epileptic encephalopathy (DEE), aged 2 to 18 years.
+Eligibility: Inclusion Criteria:
+
+* Has onset of seizures prior to 3 months of age.
+* Has a minimum weight of at least 10 kg at screening.
+* Has a documented SCN2A variant through genetic testing obtained via a laboratory accredited per Clinical Laboratory Improvement Amendments (CLIA) or College of American Pathologists (CAP) or equivalent.
+* Additional inclusion criteria apply and will be assessed by the study team
+
+Exclusion Criteria:
+
+* Has any clinically significant or known pathogenic genetic variant other than in the SCN2A gene, or a genetic variant that may explain or contribute to the participant's epilepsy and/or developmental disorder.
+* Is taking more than 2 sodium channel blocking anti-seizure medications
+* Additional exclusion criteria apply and will be assessed by the study team

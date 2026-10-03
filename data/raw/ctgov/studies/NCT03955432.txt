@@ -1,0 +1,22 @@
+Title: Long-term Cardiac Monitoring in Epilepsy
+Official title: Long-term Cardiac Monitoring in Epilepsy: Comparative Group Study to Assess Risk of Interictal and Ictal Cardiac Dysfunction
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Focal Epilepsy; Intractable Epilepsy; Epileptic Encephalopathy; Lennox Gastaut Syndrome; Symptomatic Epilepsy; Generalized Epilepsy
+Interventions: Reveal LINQ ICM System (DEVICE)
+Summary: The purpose of this research study to investigate, classify, and quantify chronic cardiac rhythm disorders in three groups of patients with epilepsy (intractable focal epilepsy, controlled focal epilepsy and symptomatic generalized epilepsy). Patients with epilepsy have a higher risk for cardiac complications than the general population. With this study, we aim to understand more about these potential complications in patients with epilepsy and assess if treatments for cardiac problems should be evaluated more carefully in patients with epilepsy.
+Eligibility: Inclusion Criteria:
+
+1. Age 18-50 years with ability to consent.
+2. No primary cardiac abnormality.
+3. Ability to receive an implantable loop recorder and tolerate the procedure.
+4. Patients with epilepsy as described by the three groups (intractable focal epilepsy, controlled focal epilepsy and symptomatic generalized epilepsy)
+
+Exclusion Criteria:
+
+1. Cardiac disease of any type
+2. Known epilepsy genetic disorder with potential cardiac compromise
+3. Major co-morbidities such as cancer, diabetes, stroke, bleeding disorder
+4. Chronic psychosis
+5. Severe MR without reliable caregiver monitoring (what is MR?)
+6. Already included in another clinical trial that will affect the objectives of this study.
+7. Life expectancy is less than 1 year

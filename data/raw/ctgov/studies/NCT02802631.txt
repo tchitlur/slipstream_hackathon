@@ -1,0 +1,22 @@
+Title: Study to Evaluate Safety, Tolerability, and Pharmacokinetics of Minocin (Minocycline) for Injection in Healthy Adults
+Official title: A Phase 1, Randomized, Double-Blind, Placebo-Controlled, Single and Multiple Ascending Dose Study of the Safety, Tolerability, Pharmacokinetics of Minocin® (Minocycline) for Injection in Healthy Adult Subjects
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Normal Healthy Volunteers
+Interventions: Minocin (minocycline) for Injection (DRUG); Placebo (OTHER)
+Summary: This was a Phase 1, randomized, double-blind, placebo-controlled, single and multiple ascending dose study of the safety, tolerability, and pharmacokinetics of Minocin (minocycline) for injection in healthy adult participants.
+Eligibility: Inclusion Criteria:
+
+1. A signed informed consent form, the ability to understand the study conduct and tasks that were required for study participation, and a willingness to cooperate with all tasks, tests, and examinations as required by the protocol, whether in the research unit or after discharge, for the duration of the study
+2. Male or female between 18 and 50 years of age inclusive
+3. Participant had a body mass index ≥18 kilograms/square meter (kg/m\^2) and ≤30 kg/m\^2.
+4. Participant was non-smoker or smokes up to 5 cigarettes per day (or equivalent).
+5. Participant was in good health based on medical history and physical examination findings and had no clinically meaningful safety laboratory abnormalities (hematology, blood chemistry, and urinalysis) or 12-lead electrocardiogram results, as assessed by the Principal Investigator.
+6. Vital signs (blood pressure, pulse, respiratory rate and temperature) measured at screening/baseline must have been within the following ranges: systolic blood pressure ≥90 to ≤150 millimeters of mercury (mm Hg), diastolic blood pressure ≥45 to ≤90 mm Hg; heart rate ≥45 to ≤90 beats per minute (taken after resting in a supine position for at least 5 minutes).
+7. Expectation that intravenous access would be sufficient to allow for ease of study drug infusion, and for all protocol-required blood sampling to take place
+8. Participant committed to remaining admitted in the research unit for the course of the study.
+9. Female participant was surgically sterile, postmenopausal: period of amenorrhea for at least 2 years, or if of childbearing potential, agreed to abstinence or to use at least 2 acceptable methods of birth control (for example prescription oral contraceptives, contraceptive injections, contraceptive patch, intrauterine device, barrier methods) or male partner sterilization alone, between the first dose (Day 1) and for 90 days after the completion of the study.
+
+Exclusion Criteria:
+
+1. Had any condition, including findings in the medical history or in pre-study assessments that constituted a risk or a contraindication for the participation in the study or completing the study
+2. Positive breath test for alcohol and/

@@ -1,0 +1,15 @@
+Title: A Study to Assess the Cholesterol Lowering Effect of an Ezetimibe/Simvastatin Combination Tablet Compared to Another Cholesterol Lowering Drug in Patients With High Cholesterol and With High Cardiovascular Risk (0653A-809)(COMPLETED)
+Official title: A Randomized, Double-Blind, Active-Controlled, Multicenter Study to Assess the LDL-C Lowering of Switching to a Combo Tab Ezetimibe/Simvastatin (10 mg/20 mg) Compared to Rosuvastatin 10 mg in Patients With Primary High Cholesterol and High Cardiovascular Risk Not Controlled With a Prior Statin Treatment
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Hypercholesterolemia
+Interventions: ezetimibe (+) simvastatin (DRUG); Comparator : rosuvastatin calcium (DRUG); Comparator: Placebo (unspecified) (DRUG); Comparator: Placebo (unspecified) (DRUG)
+Summary: This is a multicenter study to evaluate the safety and efficacy of ezetimibe/simvastatin versus rosuvastatin in participants with high cholesterol.
+Eligibility: Inclusion Criteria:
+
+* Participant is currently taking a statin medication for the treatment of high cholesterol
+* Participant has an LDL-C level that is greater than or equal to 100 mg/dl and less than or equal to 190 mg/dl
+
+Exclusion Criteria:
+
+* Women who are pregnant or nursing, or women who intend to become pregnant
+* Participant has any condition, situation, or is currently taking any medication that might pose a risk to the participant or interfere with participation in the study

@@ -1,0 +1,23 @@
+Title: A Study of the Safety and Tolerability of GTX-102 in Children With Angelman Syndrome
+Official title: A Phase 1/2 Open-label, Multiple-dose, Dose-escalating Clinical Trial of the Safety and Tolerability of GTX-102 in Pediatric Patients With Angelman Syndrome (AS)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Angelman Syndrome
+Interventions: GTX-102 (DRUG)
+Summary: The primary objective of the study is to evaluate the safety and tolerability of multiple-ascending doses of GTX-102 administered by intrathecal (IT) injection to participants with Angelman Syndrome (AS).
+Eligibility: Inclusion Criteria:
+
+* Signed informed consent from parent(s) or legal guardian(s)
+* Documented genetic confirmation of full maternal UBE3A gene deletion causing AS in the region of 15q11.2-q13 including class I, II or III
+* Stable seizure control (defined as clinically stable with no changes in antiepileptic medications over the prior 1 month before the screening visit, other than weight associated dose adjustments)
+* Able to ambulate independently, or with an assistive device (note, a child whose primary means of mobility is by wheelchair is excluded from the study)
+* Platelet count, prothrombin time / international normalized ratio, and partial thromboplastin time within 1.2 x the normal limits
+* Normal renal function with serum creatinine and spot urine protein ≤ 1.4 x the upper limit of normal (ULN)
+* Normal hepatic function with total bilirubin, aspartate aminotransferase, alanine aminotransferase, and alkaline phosphatase ≤ 1.4 x ULN. Exception: levels ≤ 2 × ULN are acceptable if due to anti-epileptic drugs (AEDs) or Gilbert syndrome
+* Willing and able to comply with scheduled visits, drug administration plan, laboratory tests, study restrictions, and all study procedures, including LP procedure
+* Able to tolerate the anesthetic regimen, if required for LP procedure
+* A female patient is eligible to participate if she is not pregnant, not breastfeeding, and at least one of the following conditions applies: Female of non-childbearing potential (ie, pre-menarche), Female of childbearing potential who agrees to remain abstinent (refrain from heterosexual intercourse) or use acceptable contraceptive methods during the treatment period and for at least 3 months after the final dose of GTX-102
+* A male patient is eligible to participate if he agrees to remain abstinent (refrain from heterosexual intercourse) or use acceptable contraceptive methods during the treatment period and for at least 3 months after the final dose of GTX-102
+
+Exclusion Criteria:
+
+* Any change in medications (excluding AEDs) or diet/supplements intended to treat symptoms of AS (eg, sleeping aids, supplements, dietary change including ketogenic or low-glycemic index diet, other) over the p

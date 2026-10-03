@@ -1,0 +1,27 @@
+Title: Efficacy and Safety Study of SHR-1819 Injection in Adult Patients With Severe Atopic Dermatitis
+Official title: A Multicenter, Randomized, Double-blind, Placebo-controlled Phase II Clinical Study Evaluating the Efficacy, Safety, Pharmacokinetics and Pharmacokinetics of SHR-1819 Injection in Adults With Moderate to Severe Atopic Dermatitis
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Moderate to Severe Atopic Dermatitis
+Interventions: SHR-1819 (DRUG); Placebo (DRUG)
+Summary: This trial was designed to evaluate the efficacy and safety of SHR-1819 injection in patients with atopic dermatitis.
+Eligibility: Inclusion Criteria:
+
+1. Subjects voluntarily sign informed consent forms prior to the commencement of any proceedings related to the study, are able to communicate smoothly with the investigator, understand and are willing to complete the study in strict compliance with the requirements of this clinical research protocol;
+2. Age 18 to 75 years old (inclusive) at the time of signing the informed consent form, regardless of gender;
+3. Have atopic dermatitis at the time of screening (according to the 2014 American College of Dermatology Guidelines) and have a course of at least 1 year before screening;
+4. At the screening and baseline periods, EASI ≥ 16, IGA ≥ 3, BSA ≥ 10%;
+5. The average daily peak pruritus (itch) numerical evaluation scale (P-NRS) score for the first 7 days of randomization ≥ 4 points (at least 4 days of daily peak pruritus P-NRS scores need to be collected);
+6. According to the investigators, topical TCS treatment was poor or intolerant within 6 months prior to screening.
+
+Exclusion Criteria:
+
+1. Pregnant or lactating women;
+2. Major surgeries are planned for the duration of the study;
+3. History of previous atopic corneal conjunctivitis involving the cornea;
+4. History of clinically significant diseases (e.g., circulatory system abnormalities, endocrine system abnormalities, neurological disorders, hematologic disorders, immune system disorders, psychiatric disorders, and metabolic instability) that the researcher believes that participation in the study poses a risk to the safety of the subject or that the disease/illness worsens during the study period will affect the effectiveness or safety analysis;
+5. Subjects have had or are currently clinically significant diseases or abnormalities;
+6. Screening for people with a history of heavy alcohol consumption or substance abuse in the 3 months prior to screening;
+7. The drug has been used in the previous 6 months;
+8. Screening of subjects with malignancy within the first 5 years (except completely cured cervical cancer in situ and non-metastatic cutaneous squamous cell carcinoma or basal cell carcinoma);
+9. Other comorbid (or co-occurring) skin disorders may be affected in the study evaluation;
+10

@@ -1,0 +1,13 @@
+Title: Non-interventional Surveillance of Effectiveness of Symbicort® Maintenance And Reliever Therapy (Symbicort® SMART) in the Treatment of Moderate and Severe Asthma
+Official title: Non-interventional Surveillance of Effectiveness of Symbicort® Maintenance And Reliever Therapy (Symbicort® SMART) in the Treatment of Moderate and Severe Asthma
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Asthma
+Interventions: Symbicort (DRUG)
+Summary: This is a 3-month non-interventional, observational study on patients with moderate and severe asthma.
+Eligibility: Inclusion Criteria:
+
+* Patients with moderate and severe asthma on Symbicort SMART treatment
+
+Exclusion Criteria:
+
+* Under 18 years old

@@ -1,0 +1,17 @@
+Title: Mapping the Genotype, Phenotype, and Natural History of Phelan-McDermid Syndrome
+Official title: Mapping the Genotype, Phenotype, and Natural History of Phelan-McDermid Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Phelan-McDermid Syndrome; Autism Spectrum Disorder; Intellectual Disability
+Interventions: none
+Summary: The purpose of this study is to comprehensively characterize PMS using standardized medical, cognitive, and behavioral measures and to track the natural history of the syndrome using repeated longitudinal assessments. In addition, this study will be aiming to identify biomarkers using neuroimaging, including diffusion tensor imaging and identify genetic factors which contribute to diverse phenotypes in patients with PMS.
+Eligibility: Inclusion Criteria:
+
+* Individuals older than 18 months of age with pathogenic deletions or mutations of the SHANK3 gene
+* English speaking individuals
+
+Exclusion Criteria:
+
+* Has taken an investigational drug as part of another research study, within 30 days prior to study enrollment
+* For subjects involved in imaging biomarker assessment: contraindications to 3T MRI scanning, such as metal implants/non-compatible medical devices or medical conditions, including vagus nerve stimulator
+* For subjects involved in EEG/ ERP biomarker assessment: contraindications to EEG/ERP, such as uncooperative or destructive behaviors preventing lead placement or capture by ERP/VEP equipment. Under age 2 or over age 11 at the time of enrollment.
+* Unwilling or unable to comply with study procedures and assessments

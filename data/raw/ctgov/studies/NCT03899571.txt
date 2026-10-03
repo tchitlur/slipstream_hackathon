@@ -1,0 +1,19 @@
+Title: Prophylactic Treatment With Oseltamivir
+Official title: Duration of Prophylactic Treatment With Oseltamivir: A Randomized Clinical Trial
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Influenza, Human
+Interventions: Oseltamivir Oral Capsule for 5 days post-exposure (DRUG); Oseltamivir Oral Capsule for 10 days post-exposure (DRUG)
+Summary: The purpose of this study is to compare the efficacy of 5-day versus 10-day oseltamivir prophylactic treatment in patients who had been exposed to influenza.
+Eligibility: Inclusion Criteria:
+
+* 18 years or older
+* exposure to influenza during hospitalization
+* risk factors for influenza complications
+* consent for participation obtained
+
+Exclusion Criteria:
+
+* younger than 18 years
+* hematological malignancy
+* hospitalized in intensive care unit
+* refusal to participate

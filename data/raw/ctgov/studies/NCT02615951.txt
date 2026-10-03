@@ -1,0 +1,17 @@
+Title: Characterization of Breg Cells
+Official title: Characterization of B Regulatory (Breg) Cells in Healthy Subjects and in Rheumatoid Arthritis (RA)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Healthy Volunteers; Arthritis, Rheumatoid
+Interventions: blood sampling (OTHER)
+Summary: Recently, it has been shown that B cells could also have regulatory functions through the secretion of interleukin 10 (IL-10). They are called the B regulatory cells (Breg). In the mouse model the most commonly used of rheumatoid arthritis, collagen-induced arthritis (CIA), the transfer Breg helps prevent the development of CIA and cure established arthritis. The investigators have recently shown that Breg were decreased in patients with RA compared to controls and that the rate of Breg was inversely correlated with disease activity and autoantibody. These results thus suggest that the lack of IL-10 secretion by B cells plays an important role in the pathophysiology of RA. Nevertheless, in humans, the Breg remain poorly understood. The main objective of this project is to better characterize the B capable of producing IL-10 both in subjects with RA and controls. Understanding which induces the secretion of IL-10 by B could allow to consider new therapeutic approaches in autoimmune diseases, including in RA.
+
+The investigators therefore aim to identify nutrient transporters, chemokine receptors, genes and surface proteins differentially expressed between Breg and other B cells in pa
+Eligibility: Inclusion Criteria:
+
+* RA responding to ACR/EULAR 2010 criteria
+
+Exclusion Criteria:
+
+* steroid\> 10 mg/d
+* previous use of biological disease-modifying antirheumatic drug (DMARD)
+* age\<18 years

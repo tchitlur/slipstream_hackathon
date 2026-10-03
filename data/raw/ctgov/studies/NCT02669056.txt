@@ -1,0 +1,20 @@
+Title: Brainstem and Prematurity
+Official title: Brainstem Assesment in a Cohort of Very Preterm Babies (Less Than 28 Weeks)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Very Premature Infants
+Interventions: 5-HT measurement (OTHER); cerebral MRI (OTHER); Video recording (OTHER); EEG (OTHER); growth curves (OTHER); ASQ questionnaire (OTHER)
+Summary: Although significant advances in neonatal care have increased survival rates of preterm infants born before 28 weeks gestation, a concomitant decrease in neuro developmental disorders has not been achieved. Cerebral injuries, well documented during the previous years, in preterm babies are particularly deleterious since they occur in a developing brain. They affect both white and grey matter by complex mechanisms and the principal targets are the developing oligodendrocytes and neurons of the subplate. All these criteria define the encephalopathy of prematurity. Nevertheless, the consequences of prematurity at the level of the brainstem are not very well known and may explain neuro-developmental disorders with normal MRI.
+
+The assessment of the motor repertoire is complementary to the neurological examination and may represent a diagnostic tool for cerebral palsy, mild motor deficits and delayed acquisition in children. The newborn have a rich motor repertoire. GMs play a key role in the development due to the feedback that they send to cortical neurons and reflect the maturational stage of the Central Nervous System (CNS). Lesions of the brainstem caused by prematurity may induce 
+Eligibility: Inclusion Criteria:
+
+* Birth less than 28 weeks
+* known gestational age
+* Birth in born
+* Infant without genetic syndrom, evolutive neurologic disease, chronic disorder, malformative pathology
+* Infant without intra-ventricular haemorrhage with dilatation or intraparenchymal haemorrhage
+* Infants without mechanical ventilation
+
+Exclusion Criteria:
+
+• Infant with congenital cardiopathy, congenital brainstem disorder, Pierre Robin sequence

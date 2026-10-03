@@ -1,0 +1,34 @@
+Title: Tianasen (ASO-GNAO1) for GNAO1-Encephalopathy With Epilepsy and Movement Disorders.
+Official title: An Open-Label, Non-Randomized Study to Evaluate the Efficacy and Safety of ASO-GNAO1 (Tianasen) in Patients With GNAO1-Encephalopathy With Epilepsy and Movement Disorders Following Repeated Intrathecal Dose Escalation.
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: GNAO1; Epilepsy; Hyperkinesis
+Interventions: Antisense oligonucleotide treatment (ASO) (BIOLOGICAL)
+Summary: The goal of this clinical trial is to evaluate the efficacy and safety of the investigational drug ASO-GNAO1 (Tianasen) in pediatric patients with c.607G\>A mutation in the GNAO1 gene associated with epilepsy and neurodevelopmental disorder. The main questions it aims to answer are:
+
+1. Does intrathecal administration of ASO-GNAO1 slow or halt the progression of motor and cognitive symptoms?
+2. Is ASO-GNAO1 safe and well-tolerated in this patient population?
+3. What is the appropriate therapeutic dose?
+
+This is an open-label study without a placebo control group due to the rare and severe nature of the disease. All participants will receive the active drug.
+
+Participants will:
+
+Receive escalating doses of ASO-GNAO1 via intrathecal injection over a 12-month period.
+
+Undergo frequent neurological assessments, biomarker testing, and safety monitoring.
+Eligibility: Inclusion Criteria:
+
+* Informed Consent: Written informed consent from the parent(s) or legal guardian(s) of the patient and the child's assent (where applicable based on age and cognitive ability), obtained prior to the initiation of any study-related procedures.
+* Age: Male or female children aged 1 year and older (≥1 year) until 14 years at the time of informed consent signing.
+* Diagnosis: A confirmed a c.607G\>A variant in of GNAO1 gene based on genetic testing, and a clinical presentation that includes both epilepsy and movement disorders.
+* Treatment Resistance:
+
+  * For seizures: Documented resistance to antiseizure medications prior to screening, defined as the persistence of seizures despite adequate trials of at least two appropriately dosed antiseizure medications.
+  * For non-epileptic hyperkinesias/dystonia: Documented resistance to anti-hyperkinetic medications prior to screening, defined as the persistence of debilitating hyperkinesias or dystonic attacks despite adequate trials of at least two appropriately dosed anti-hyperkinetic medications.
+* Contraception (for females of reproductive potential): For post- menarche female adolescents, a negative serum or urine pregnancy test at screening and agreement to use highly effective methods of contraception (e.g., hormonal implants, combined oral contraceptives, intrauterine device) throughout the study participation period.
+
+Exclusion Criteria:
+
+* Unacceptable Risk: Any concurrent severe medical, neurological, or psychiatric condition, or any other significant circumstance (e.g., unstable clinical status) that, in the judgment of the Investigator, could significantly increase the risk associated with study participation or the administration of the investigational product, or could interfere with the interpretation of study results.
+* Impossibility of Intervention: Any anatomical abnormality, coagulation disorder, active infection, or other condition that constitutes a contraindication to or precludes the safe performance of repeated lumbar punctures for intrathecal administration of the study drug.
+* Pregnancy or Lactation: Pregnancy, lactation, or intention to become pregnant during the study peri

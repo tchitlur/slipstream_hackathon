@@ -1,0 +1,15 @@
+Title: Combined Molecular and Mechanistic Methods for Detection of Pressure Ulcers
+Official title: Combined Molecular and Mechanistic Methods for Early Detection and Individual Prevention of Pressure Ulcer Formation in Vulnerable Patients
+Status: NOT_YET_RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Pressure Ulcer; Inflammatory Response
+Interventions: non-invasive ventilation teraphy, NIV (PROCEDURE)
+Summary: This project aims to develop a novel method for identifying early tissue damage related to pressure ulcer (PU) development in vulnerable patients by measuring biomarkers of inflammation on the skin surface. PUs are common and costly injuries that result from prolonged pressure on the skin. Current methods to assess PU risk are unreliable, and the mechanisms of PU development are not well understood. This project contributes to new knowledge of PU etiology as well as the individual variability at a molecular level combined with new knowledge about nursing actions and clinical factors linked to PU progression and outcomes of prevention. The project will use non-invasive techniques and model-based analysis to identify specific biomolecules that reflect individual susceptibility to pressure exposure in different PU risk scenarios.
+Eligibility: Inclusion Criteria:
+
+\- patients that use oronasal face masks in their ordinary care during routine management regimes of non invasive ventilation.
+
+Exclusion Criteria
+
+* acute respiratory failure
+* previous ICU care
+* pressure ulcer on measurement site

@@ -1,0 +1,30 @@
+Title: Phase I/II Dose Escalation Study of VELCADE® and Docetaxel in Patients With Advanced Androgen-Independent Prostate Cancer
+Official title: A Phase I/II, Open Label, Dose Escalation Study to Determine the Tolerance and Preliminary Activity of PS-341 Plus Docetaxel in Patients With Advanced Androgen-Independent Prostate Cancer Requiring Chemotherapy
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Prostatic Neoplasms
+Interventions: VELCADE TM (bortezomib) for Injection (DRUG)
+Summary: The purpose of this study is to evaluate how safe PS-341(VELCADE) is when given with Docetaxel (Taxotere) to patients with androgen-independent prostate cancer, and also to see what effects (good and bad) it has on you and on your cancer.
+Eligibility: Inclusion criteria
+
+Each patient must meet all of the following inclusion criteria to be enrolled in the study:
+
+* Patient has histologically-confirmed advanced and/or metastatic androgen-independent prostate cancer requiring anti-neoplastic treatment.
+* Previous or concurrent hormone therapy with a luteinizing hormone-releasing hormone analog (e.g., leuprolide) does not preclude enrollment in the study.
+* Patient has progressive measurable or evaluable disease, defined as meeting at least one of the following three criteria \[1\]:
+
+  1. Progressive measurable disease (changes in the size of lymph nodes or parenchymal masses on physical examination or x-ray).
+  2. Progressive bone metastasis \[presence of new lesion(s) on a bone scan\].
+  3. Progressive PSA, as evidenced by two separate measurements taken at least one week apart and confirmed by a third, and if necessary, a fourth measurement.
+
+     * If the third measurement is not greater than the second measurement, then a fourth measurement must be taken; the fourth measurement must be greater than the second measurement for the patient to be eligible for enrollment in the study.
+     * The confirmatory PSA measurement (i.e., the third or, if applicable, fourth PSA measurement) must be greater than or equal to 5 ng/mL.
+* Patient is 18 years of age or older.
+* Patient has a Karnofsky performance status of 60% or greater.
+* Patient has a life expectancy of three months or longer.
+* Patient has all of the following pretreatment laboratory data within 14 days before the first study drug dose:
+* Absolute neutrophil count (ANC) greater than or equal to 1,500/mm3.
+* Platelets greater than or equal to100,000/mm3.
+* Hemoglobin \>8.0 g/dL.
+* Serum creatinine less than or equal to 2.5 mg/dL.
+* Patient has given voluntary written informed consent before performance of any study-related procedure not part of normal medical care.
+* Patient agrees to use an acceptable barrier method for contraception from Screening through 90 days after the last study drug dose. \[It is recommended that female partners of male patients enrolled in this study also use an acceptable method of birth control (i.e., a hormonal contraceptive, in

@@ -1,0 +1,17 @@
+Title: Multicentre Real-life Follow-up Study of Rare Epileptic Syndromes in Children and Adolescents
+Official title: Multicentre Real-life Follow-up Study of Rare Epileptic Syndromes in Children and Adolescents
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Epilepsy; West Syndrome; Dravet Syndrome
+Interventions: none
+Summary: Rare epilepsies as a whole account for 20-30% of epilepsies, but knowledge about prognostic factors is currently limited. This means that it is difficult to provide adequate information to families at diagnosis and during follow-up. Prognostic factors are also important for management as they can have an impact on the patient's outcome (time to intervention, choice of one molecule over another, etc.). Finally, few treatments are currently available for these epilepsies. One of the limitations to the development of treatments is the lack of real life data as it is difficult to create reliable primary endpoints such as the rate of patients becoming seizure free naturally compared to a therapeutic intervention.
+
+The aim of this real-life study is to evaluate the response to treatment as well as to see the evolution of cognitive and psychiatric comorbidities. As explained above, there are very few randomised trials except for 3 rare epilepsies (infantile spasm syndrome, Dravet syndrome, Lennox-Gastaut syndrome). This has led to the virtual absence of management recommendations, including for the three syndromes mentioned above, where attempts at treatment algorithms have been proposed,
+Eligibility: Inclusion Criteria:
+
+* Diagnosis for rare epilepsy (based on ORPHA codes)
+* holders of parental authority not opposed
+* Be followed in one of the declared centers of the study
+
+Exclusion Criteria:
+
+* opposition from the holders of parental authority or the patient

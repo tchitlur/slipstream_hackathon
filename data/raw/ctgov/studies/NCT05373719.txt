@@ -1,0 +1,18 @@
+Title: Observational Study in Patients With Cyclin-dependent Kinase-like 5 Deficiency Disorder
+Official title: Endpoint Enabling Study of Cyclin-dependent Kinase-like 5 (CDKL5) Deficiency Disorder (CDD)
+Status: ACTIVE_NOT_RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Cyclin-Dependent Kinase-Like 5 Deficiency Disorder
+Interventions: No intervention; observational (OTHER)
+Summary: Observational, noninterventional, 3-year study to examine the presence of detectable differences in neurocognitive, developmental, motor, neurophysiologic, and quality of life measures over time in patients with cyclin-dependent kinase-like 5 deficiency disorder.
+Eligibility: Inclusion Criteria:
+
+1. Documented diagnosis of Cyclin-dependent Kinase-like 5 (CDKL5) deficiency disorder with pathogenic or likely pathogenic of CDKL5 variants
+2. Ages newborn to 55 years old
+3. Parent/Caregiver who is willing and capable of providing written informed consent
+4. Parent/caregiver lives with or has daily contact with study participant and able to provide consistent information across the study
+
+Exclusion Criteria:
+
+1. Any clinically significant neurocognitive deficit not attributable to Cyclin-dependent Kinase-like 5 (CDKL5) deficiency disorder or a secondary cause that may, in the opinion of the investigator, confound interpretation of study results (e.g., extreme prematurity, other genetic variants, unclassified CDKL5 variant, abnormal brain imaging, imaging and/or injury not otherwise attributable to CDD).
+2. Any condition that, in the opinion of the investigator, would put the patient at undue risk or make it unsafe for the patient to participate
+3. Any condition which would make the individual or the caregiver, in the opinion of the investigator, unsuitable for the study

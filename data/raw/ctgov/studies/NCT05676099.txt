@@ -1,0 +1,13 @@
+Title: TSC Biosample Repository and Natural History Database
+Official title: TSC Alliance Tuberous Sclerosis Complex (TSC) Biosample Repository and Natural History Database
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Tuberous Sclerosis; Lymphangioleiomyomatosis
+Interventions: Phlebotomy (PROCEDURE); Buccal (cheek) swab (PROCEDURE); Genetic Testing (GENETIC); Tissue donation after routine clinical procedure (OTHER)
+Summary: The TSC Biosample Repository collects and stores samples of blood, DNA, and tissues that scientists can request to use in their research. The samples we collect are all linked to clinical data in the TSC Natural History Database. The TSC Natural History Database captures clinical data to document the impact of the disease on a person's health over his or her lifetime. This data may be collected retrospectively or prospectively.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of tuberous sclerosis complex or lymphangioleiomyomatosis (sporadic LAM).
+
+Exclusion Criteria:
+
+\-

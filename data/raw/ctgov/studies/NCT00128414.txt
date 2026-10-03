@@ -1,0 +1,22 @@
+Title: Study of Colchicine to Treat and Prevent Recurrent Pericarditis (First Episode)
+Official title: Treatment and Prevention of Pericarditis With Colchicine. A Multicenter Double Blind Randomized Trial. The CORP Trial: COlchicine for Recurrent Pericarditis
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Pericarditis; Recurrence
+Interventions: Colchicine (for 6 months) (DRUG); Placebo (DRUG)
+Summary: The purpose of the study is to determine whether colchicine is safe and effective in the treatment and prevention of recurrent pericarditis (first episode).
+Eligibility: Inclusion Criteria:
+
+* Patients with the first attack of recurrent pericarditis
+* Age≥ 18 years
+* Informed consent
+
+Exclusion Criteria:
+
+* Suspected neoplastic, tuberculous, or purulent etiology
+* Known severe liver disease and/or elevated transaminases \>1.5 times the upper limit of normality
+* Serum creatinine \>2.5 mg/dl
+* Serum creatine kinase (CK) over the upper limit of normality or known myopathy
+* Known gastrointestinal or blood disease
+* Pregnant or lactating women or women not protected by a contraception method
+* Known hypersensibility to colchicine
+* Treatment with colchicine at enrolment

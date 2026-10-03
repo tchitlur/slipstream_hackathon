@@ -1,0 +1,35 @@
+Title: Combined Effects of Non-statin Treatments on Apolipoprotein A-I Up-Regulation (CENTAUR): A Feasibility Study
+Official title: Combined Effects of Non-statin Treatments on Apolipoprotein A-I Up-Regulation (CENTAUR): A Feasibility Study
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Dyslipidemia
+Interventions: Atorvastatin (DRUG); ABT335 (DRUG); ER Niacin (DRUG)
+Summary: The investigators propose to investigate if using a combination of medications that may improve cholesterol give additional benefit to that gained from the statin medication, Lipitor. It is recommended that patients who meet certain criteria for risk of heart disease take a statin medication to improve cholesterol and hopefully reduce risk of heart disease. The combination therapy will include Lipitor, Niaspan, and investigational medication (known as ABT335) in a class of drugs called fibrates. We are looking to see if and how these three medications together might improve risk factors for atherosclerosis and influence HDL cholesterol. The study will also look at the safety and any side effects that might be associated with this combination of medications.
+Eligibility: Inclusion Criteria:
+
+1. Men/women aged 18-80 years.
+2. Low HDL-C, adjusted for baseline statin use
+
+   1. Not on statin: Men with HDL \<= 40 or women with HDL \<= 50 mg/dL
+   2. On statin: Men with HDL \<= 42 or women with HDL \<= 52 mg/dL
+3. TG/HDL ratio \>= 3.5
+4. Able to understand and agree to informed consent
+5. Women of child-bearing age must test negative on a urine pregnancy test and agree to use reliable birth control during the study and for 1 month after last dose of study drugs. Reliable methods include oral contraceptives, a barrier method, intrauterine device, partner with vasectomy, or abstinence.
+6. Willing to be available for study duration and follow study procedures
+
+Exclusion Criteria:
+
+1. Subjects with following lipoprotein disorders:
+
+   1. Patients on high-potency lipid-lowering regimen, defined as two or more prescription lipid-altering medications (excluding fish oils) where one is a high-dose statin (40 mg/day of rosuvastatin, 80 mg/day of other approved statins). Those on combination therapy with a lower statin dose or those taking high-dose statin monotherapy (excluding fish oils) may participate. Patients will switch to atorvastatin 10 mg and/or wash off other lipid medications to participate
+   2. LDL \> 190 mg/dL
+   3. TG \> 750 mg/dL or pancreatitis from triglyceridemia, regardless of current TG levels
+   4. Dysbetalipoproteinemia (VLDL/TG \> 0.3 -AND- TG \> 200 mg/dL).
+2. Use of non-statin lipid therapy prior to study initiation is exclusionary if (n.b. washout of non-statins is permitted):
+
+   1. Niacin \> 250 mg/ day within 6 weeks: Advicor, Niaspan, Niacor, Simcor, Slo-Niacin, or supplemental niacin
+   2. Fibrates within 12 weeks: fenofibrate (Antara, Lofibra, Tricor, Triglide), gemfibrozil (Lopid), or clofibrate
+   3. Enterically active drugs within 4 weeks: colestipol, cholestyramine, colesevelam, ezetimibe, orlistat.
+   4. Red yeast rice during the treatment phase of the study (i.e. must be switched to study statin)
+   5. Fish oil \> 2 g/day within 4 weeks: Lovaza (née Omacor), numerous supplements
+   6. Altered dose of a selective estrogen receptor modulator (SERM) within 4 weeks
+3. Intolerance to statin, fibrate, aspirin,

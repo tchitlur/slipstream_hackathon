@@ -1,0 +1,29 @@
+Title: Intensive Anti-Scoliosis Postural Intervention for Individuals With Rett Syndrome Supported by a Smartphone Application
+Official title: An Intensive Anti-Scoliosis Postural Intervention Supported by an Application for Individuals With Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rett Syndrome
+Interventions: Rehabilitative Intervention (OTHER)
+Summary: Background: Scoliosis is the most common orthopedic comorbidity in Rett syndrome (RTT), with a prevalence of 94% and a mean curve progression of 14-21° Cobb annually. A scoliosis prevention intervention based on daily activity programs was proposed for people with RTT within uncontrolled study designs.
+
+Aim: The current study aims to evaluate the effectiveness of a home-based activity program carried out during daily life to slow the progression of scoliosis in girls with RTT.
+
+Ethics: The proposal was approved by Ariel university IRB. All participants' parents will sign informed consent forms.
+
+Participants: Twenty Italian girls aged between six and 16 years with a genetically confirmed classic RTT and scoliosis at a severity level between 10° and 40° Cobb will be recruited and randomly divided into two groups (immediate intervention - Group 1; wait-list-intervention - Group 2). Both groups will follow the same 10-month intervention program, 10 months apart.
+
+Outcome measures: Participants' scoliosis Cobb's angle, motor functioning, and behavioral characteristics will be assessed three times.
+
+Procedure: Each participant will be evaluated three times: at T1, T2, and T3. Participan
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of RTT with confirmed MECP2 gene mutation;
+* Diagnosis of unstructured flexible scoliosis (Cobb angle between 10° and 40°) measured radiologically with an x-ray performed no more than six months before the recruitment;
+* Age between 6 and 16 years.
+
+Exclusion Criteria:
+
+* Presence of psychomotor developmental deficit evidenced in the first six months of life or diseases of neurometabolic, infectious, or secondary brain damage trauma origin;
+* Previous surgical intervention to the spine or its planning within the study period;
+* Use of a corset during most waking hours;
+* Clinical judgment of the evaluating specialist doctor who certifies unstable health conditions that are not compatible with the performance of the rehabilitation program (e.g., ongoing or recurrent infections, severe gastrointestinal disorders, drug-resistant epilepsy with multi-day seizures).
+* Clinical judgment of the research team suggesting an inability of the home environment to perform the intervention program (change in residence, a planned pregnancy, a pre-planned complex surgical/medical procedure within the period of the planned intervention program for the child or family member) within the intervention period.

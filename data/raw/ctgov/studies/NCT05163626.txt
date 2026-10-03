@@ -1,0 +1,18 @@
+Title: Combined Aerobic Exercise and Cognitive Training in Seniors at Increased Risk for Alzheimer's Disease
+Official title: Combined Aerobic Exercise and Cognitive Training for Alzheimer's Disease Prevention in At-Risk Seniors Estimated by An Exosomal Synaptic Protein Model: Cognition and Exosomal Synaptic Proteins Effects
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Alzheimer Disease
+Interventions: Combined aerobic exercise and cognitive training program (BEHAVIORAL)
+Summary: The study aims to investigate the effect of a long-term combined aerobic exercise and cognitive training program on cognitive function and blood exosomal synaptic protein levels in seniors at increased risk for Alzheimer's Disease.
+Eligibility: Inclusion Criteria:
+
+* Mandarin-speaking subjects.
+* Not clinically demented.
+* Meeting the cutoff values of MMSE and CDR.
+* With low levels of blood neuro-exosomal synaptic proteins (GAP43\<1983pg/ml, synaptotagmin 1\<431pg/ml, neurogranin\<1433pg/ml, SNAP25\<448pg/ml)
+
+Exclusion criteria:
+
+* Had major neurologic diagnosis (e.g., Alzheimer's disease, Parkinson's disease, stroke, encephalitis, and epilepsy) or other condition that might impair cognition or confound assessments.
+* Had a history of psychotic episodes or had major depression (Hamilton Depression Rating Scale score \> 24 points).
+* Had severe systemic diseases, such as tumors, cardiovascular or orthopedic disorders that can affect the ability to perform the proposed intervention tasks.

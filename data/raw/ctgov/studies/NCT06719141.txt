@@ -1,0 +1,31 @@
+Title: A Study to Investigate LP352 in Children and Adults With Developmental and Epileptic Encephalopathies (DEE)
+Official title: A Phase 3, Randomized, Double-Blind, Placebo-Controlled, Multicenter Study to Investigate the Efficacy, Safety, and Tolerability of LP352 in the Treatment of Seizures in Children and Adults With Developmental and Epileptic Encephalopathies
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Developmental and Epileptic Encephalopathy
+Interventions: LP352 (DRUG); Placebo (DRUG)
+Summary: This (DEEp OCEAN Study) is a double-blind, randomized, placebo-controlled, multicenter study to investigate the efficacy, safety, and tolerability of LP352 in the treatment of seizures in children and adults with DEE. The study consists of 3 main phases: Screening, Titration period, Maintenance period, followed by a Taper period and Follow-Up. The total duration of the study will be approximately 24 months.
+Eligibility: Inclusion Criteria:
+
+* Participants who are characterized as having Lennox-Gastaut Syndrome (LGS) must fulfill all of the following criteria:
+
+  * Onset of seizures at ≤8 years old
+  * History of tonic/tonic-atonic seizures plus at least 1 of the following seizure type(s): atypical absence, atonic, myoclonic, focal impaired awareness, generalized tonic-clonic, nonconvulsive status epilepticus, or epileptic spasms
+  * Presence of developmental plateauing or regression
+  * History of electroencephalogram (EEG) showing generalized slow (\<2.5 Hertz \[Hz\]) spike-and-wave complexes
+* Participants who are characterized as having DEE (Other) must fulfill all of the following criteria:
+
+  * Does not meet criteria for LGS
+  * Onset of seizures at ≤5 years old
+  * Presence of developmental plateauing or regression
+  * History of multiple seizure types
+  * History of interictal EEG background showing diffuse or multifocal slowing (with or without epileptiform activity)
+* The participant has a current occurrence of at least 1 of the following countable motor seizure types: generalized tonic-clonic, tonic (bilateral), clonic (bilateral), atonic (bilateral) with truncal/leg involvement, focal motor (including hemiclonic), and focal to bilateral tonic-clonic.
+* The participant has demonstrated an average of at least 4 countable motor seizures per month for each of the 3 months prior to Screening.
+* The participant has been taking 1 to 4 antiseizure medications (ASMs) at a stable dose for at least 4 weeks prior to Screening.
+* The participant, parent, or caregiver is willing and able (in the judgment of the investigator) to comply with completion of the diaries throughout the study.
+* The participant must be willing and able to provide written informed consent; in instances where the participant is unable to provide consent, an appropriate legal representative.
+
+Exclusion Criteria:
+
+* The participant has a diagnosis of Dravet Syndrome (DS) or has a mutation of the Sodium channel protein type 1 subunit alpha (SCN1A) gene consistent with DS.
+* The participant has been admitted to a medical facility for treatment of status epilepticus requiring mechanical ventilation within 3 mon

@@ -1,0 +1,29 @@
+Title: Theory-based Text Messaging to Reduce Methamphetamine Use and HIV Risks Among MSM
+Official title: Theory-based Text Messaging to Reduce Methamphetamine Use and HIV Risks Among MSM
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Methamphetamine Abuse; HIV
+Interventions: Text Messages Transmitted by Peer Health Educators (TXT-PHE) (BEHAVIORAL); Text Messages Transmitted by Automation (TXT-Auto) (BEHAVIORAL)
+Summary: Participants receive culturally relevant and specifically tailored text messages based on the behavioral change theoretical constructs of Social Support Theory, Health Belief Model, and Social Cognitive Theory. Participants are randomized into one of three conditions for an 8-week intervention period: Group 1: culturally relevant theory-based text messages interactively transmitted by peer health educators (TXT-PHE); or, Group 2: the same culturally relevant theory-based text messages transmitted by automation (TXT-Auto); or, Group 3: assessment-only (AO) control with no theoretically based text messages.
+Eligibility: Inclusion Criteria:
+
+* Self-identified MSM
+* Between the ages of 18 and 65 years
+* Methamphetamine use within the previous 3 months
+* Unprotected anal intercourse (insertive or receptive) with a non-primary male partner in the previous 6 months
+* Not currently in treatment or seeking methamphetamine abuse treatment
+* Able and willing to fully charge a cellular phone daily
+* Able and willing to provide informed consent
+* Able and willing to comply with study requirements
+
+Exclusion Criteria:
+
+* Does not identify as a MSM
+* Not between the ages of 18 and 65 years
+* Has not used methamphetamine in the previous 3 months
+* Has not had unprotected anal intercourse (insertive or receptive) with a non-primary male partner in the previous 6 months
+* Currently in treatment or seeking methamphetamine abuse treatment
+* Unable or unwilling to fully charge a cellular phone daily
+* Unable or unwilling to provide informed consent
+* Unable or unwilling to comply with study requirements
+* Unable to understand the Informed Consent Form
+* Determined to have a more serious psychiatric condition (SCID verified) that is beyond the safe enrollment of study procedures

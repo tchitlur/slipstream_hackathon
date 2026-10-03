@@ -1,0 +1,41 @@
+Title: Reduced Intensity Conditioning for Non-Malignant Disorders Undergoing UCBT, BMT or PBSCT
+Official title: A Phase II Study of Reduced Intensity Conditioning in Pediatric Patients and Young Adults ≤55 Years of Age With Non-Malignant Disorders Undergoing Umbilical Cord Blood, Bone Marrow, or Peripheral Blood Stem Cell Transplantation
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Primary Immunodeficiency (PID); Congenital Bone Marrow Failure Syndromes; Inherited Metabolic Disorders (IMD); Hereditary Anemias; Inflammatory Conditions; Systemic Juvenile Idiopathic Arthritis (sJIA); Juvenile Rheumatoid Arthritis (JRA)
+Interventions: Hydroxyurea (DRUG); Alemtuzumab (DRUG); Fludarabine (DRUG); Melphalan (DRUG); Thiotepa (DRUG)
+Summary: The objective of this study is to evaluate the efficacy of using a reduced-intensity condition (RIC) regimen with umbilical cord blood transplant (UCBT), double cord UCBT, matched unrelated donor (MUD) bone marrow transplant (BMT) or peripheral blood stem cell transplant (PBSCT) in patients with non-malignant disorders that are amenable to treatment with hematopoietic stem cell transplant (HSCT). After transplant, subjects will be followed for late effects and for ongoing graft success.
+Eligibility: Inclusion:
+
+1. A 4/6, 5/6 or 6/6 HLA matched related or unrelated UCB unit available that will deliver a pre-cryopreservation total nucleated cell dose of ≥ 3 x 10e7 cells/kg, or double unit grafts, each cord blood unit delivering at least 2 x 10e7 cells/kg OR an 8 of 8 or 7 of 8 HLA allele level matched unrelated donor bone marrow or peripheral blood progenitor graft.
+2. Adequate organ function as measured by:
+
+   1. Creatinine ≤ 2.0 mg/dL and creatinine clearance ≥ 50 mL/min/1.73 m2.
+   2. Hepatic transaminases (ALT/AST) ≤ 4 x upper limit of normal (ULN).
+   3. Adequate cardiac function by echocardiogram or radionuclide scan (shortening fraction \> 26% or ejection fraction \> 40% or \> 80% of normal value for age).
+   4. Pulmonary evaluation testing demonstrating CVC or FEV1/FVC of ≥ 50% of predicted for age and/or resting pulse oximeter ≥ 92% on room air or clearance by the pediatric or adult pulmonologist. For adult patients DLCO (corrected for hemoglobin) should be ≥ 50% of predicted if the DLCO can be obtained.
+3. Written informed consent and/or assent according to FDA guidelines.
+4. Negative pregnancy test if pubertal and/or menstruating.
+5. HIV negative.
+6. A non-malignant disorder amenable to treatment by stem cell transplantation, including but not limited to:
+
+   1. Primary Immunodeficiency syndromes including but not limited to:
+
+      * Severe Combined Immune Deficiency (SCID) with NK cell activity
+      * Omenn Syndrome
+      * Bare Lymphocyte Syndrome (BLS)
+      * Combined Immune Deficiency (CID) syndromes
+      * Combined Variable Immune Deficiency (CVID) syndrome
+      * Wiskott-Aldrich Syndrome
+      * Leukocyte adhesion deficiency
+      * Chronic granulomatous disease (CGD)
+      * X-linked Hyper IgM (XHIM) syndrome
+      * IPEX syndrome
+      * Chediak - Higashi Syndrome
+      * Autoimmune Lymphoproliferative Syndrome (ALPS)
+      * Hemophagocytic Lymphohistiocytosis (HLH) syndromes
+      * Lymphocyte Signaling defects
+      * Other primary immune defects where hematopoietic stem cell transplantation may be beneficial
+   2. Congenital bone marrow failure syndromes including but not limited to:
+
+      * Dyskeratosis Congenita (DC)
+      * Con

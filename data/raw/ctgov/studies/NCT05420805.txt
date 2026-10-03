@@ -1,0 +1,23 @@
+Title: Protective Role of Pre-/ Post-biotics on Gut Inflammation, Dysbiosis, and Life Quality in Rett Syndrome (Biotics_RTT)
+Official title: Protective Effects of Pre- and Post-biotics on Gut Inflammation, Microbiota Diversity, Epileptogenesis, and Quality of Life in Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rett Syndrome; Dysbiosis; Epilepsy; Quality of Life
+Interventions: ALAC, inulin, FOS, and sodium butyrate (DIETARY_SUPPLEMENT); Sodium butyrate and zinc oxide (DIETARY_SUPPLEMENT)
+Summary: The study will examine the potential efficacy and safety of two pre- and post-biotics on markers for gut inflammation and intestinal microbiota ecology in patients with Rett syndrome. Moreover, this trial will search for possible effects on epileptogenesis and quality of life.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of classic/typical Rett syndrome (and proven loss-of-function mutation of the MeCP2 gene) with gastrointestinal dysfunction and/or positive history of epilepsy
+* Female gender (age \> / = 3 years old)
+* Ability to obtain written informed consent from their parent(s)/legal guardian(s)
+* Stable medications for at least 4 weeks prior to the baseline visit.
+
+Exclusion Criteria:
+
+* Diagnosis not fitting into the Rett syndrome consensus guidelines
+* Nonpathogenic MECP2 mutation or mutations in non-MECP2 genes (i.e., cyclin-dependent kinase 5, CDKL5; forkhead box protein G1, FOXG1)
+* Male gender
+* Percutaneous endoscopic gastrostomy (PEG) tube
+* Proven hypersensitivity to one or more components of the dietary supplements (X-biotics)
+* Unstable concomitant medications less than 4 weeks prior to enrollment visit.
+* Concomitant antibiotic therapy at the enrollment. In the case of antibiotic therapy, a 4-weeks washout period will be undertaken.
+* Rejection of the informed consent form by the parents/caregivers and/or lack of compliance to the Study procedures.

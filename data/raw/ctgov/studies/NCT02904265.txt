@@ -1,0 +1,25 @@
+Title: Efficacy Study of Acetazolamide Versus Diazepam in Continuous Spike and Wave/Landau-Kleffner Syndrome
+Official title: Non-inferiority Prospective Randomized Trial of Acetazolamide Versus Diazepam in Patients With Continuous Spike and Wave in Sleep (CSWS)/Landau Kleffner Syndrome (LKS)
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: Landau-Kleffner Syndrome; Status Epilepticus, Electrographic
+Interventions: Diazepam (DRUG); Acetazolamide (DRUG)
+Summary: The purpose of this study is to compare the effectiveness of the medications acetazolamide and diazepam in the treatment of continuous spike wave in sleep (CSWS) and Landau-Kleffner syndrome (LKS).
+Eligibility: Inclusion Criteria:
+
+* ESES and clinical CSWS/LKS defined by all of the following:
+* SWI ≥50% during first hour of sleep
+* Bilateral synchrony of discharges during sleep
+* Clinical evidence of behavior and/or academic regression
+* Daytime SWI ≤20%
+
+Exclusion Criteria:
+
+* Previous treatment with benzodiazepine or acetazolamide for Electrical Status Epilepticus in Sleep (ESES)
+* Current treatment with carbamazepine, phenytoin, oxcarbazepine, phenobarbital, vigabatrin or lamotrigine
+* Antiepileptic medication changes over the month prior to enrollment
+* Epileptic encephalopathy other than CSWS/LKS
+* Prior serious adverse reaction to benzodiazepines or acetazolamide
+* Sulfa allergy
+* Progressive underlying neurologic condition
+* Frequent seizures that would prevent the patient from maintaining a stable dose of medications
+* Female patient that has begun menses or is pregnant

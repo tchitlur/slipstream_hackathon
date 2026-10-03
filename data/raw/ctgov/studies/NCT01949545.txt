@@ -1,0 +1,35 @@
+Title: Study of the Pharmacokinetics and Safety of Carfilzomib in Patients With Advanced Malignancies and Hepatic Impairment
+Official title: An Open-Label, Single Arm, Phase 1 Study of the Pharmacokinetics and Safety of Carfilzomib in Subjects With Advanced Malignancies and Varying Degrees of Hepatic Impairment
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Solid Tumors; Hematologic Malignancies; Hepatic Impairment
+Interventions: Carfilzomib (DRUG)
+Summary: The purpose of this study is to compare the safety and efficacy of carfilzomib, including measuring the amount of the study drug in the blood at certain times following dosing. This study is being done in people with varying degrees of liver function to see if they respond differently to the study drug.
+Eligibility: Key Inclusion Criteria:
+
+1. Relapsed or progressive advanced malignancies (solid tumors or hematologic malignancies)
+2. At least ≥ 2 prior treatment regimens for the underlying malignancy
+3. Confirmed advanced solid tumor or hematologic malignancy
+4. Measurable or evaluable disease
+5. Clinical diagnosis of chronic hepatic impairment that is stable with no acute worsening of liver failure within one month prior to enrollment. Hepatic impairment will be assessed as per National Cancer Institute Organ Dysfunction Working Group Criteria (NCI-ODWG) schema and will fall into one of the following three categories:
+
+   * Cohort 2 (mild): Bilirubin \> 1-1.5 × upper limit of the normal range (ULN) or aspartate aminotransferase (AST) \> ULN, but bilirubin ≤ ULN
+   * Cohort 3 (moderate): ≥ 1.6-3 × ULN; any AST
+   * Cohort 4 (severe): Bilirubin \> 3 × ULN; any AST
+
+   Exception to Inclusion Criterion #5 for Subjects with Normal Hepatic Function:
+
+   All subjects enrolled with normal hepatic function (N=10) must meet all inclusion criteria as outlined with the exception of Inclusion Criterion
+
+   #5, which should be substituted with the following criterion to be enrolled into the study:
+
+   \- Cohort 1 (normal hepatic function): Bilirubin ≤ ULN; AST ≤ ULN
+6. Eastern Cooperative Oncology Group (ECOG) Performance Status 0-2
+7. Left ventricular ejection fraction (LVEF) ≥ 40%
+8. Adequate renal function (calculated creatinine clearance ≥ 30 mL/min)
+9. Active congestive heart failure (New York Heart Association \[NYHA\] Class III to IV), symptomatic ischemia, conduction abnormalities uncontrolled by conventional intervention or myocardial infarction within the protocol-specified period prior to enrollment
+
+Key Exclusion Criteria:
+
+1. Subjects with symptomatic brain metastasis or central nervous system (CNS) disease
+2. Significant neurotoxicity (Grade 2 with pain or higher) at the time of enrolment
+3. Known human immunodeficiency virus (HIV), hepatitis B virus (HBV) and hepatitis C virus (HCV) infection (Exception: Subjects with chronic or cleared HBV and HCV infection and stable liver function tests \[bilirubin, AST\] will be allowed)

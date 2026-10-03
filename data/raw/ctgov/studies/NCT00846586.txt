@@ -1,0 +1,26 @@
+Title: Efficacy and Safety of Indacaterol Plus Tiotropium Versus Tiotropium Alone in Patients With Chronic Obstructive Pulmonary Disease
+Official title: A Randomized, Double-blind, Controlled, Parallel-group, 12-week Study to Compare the Efficacy and Safety of the Combination of Indacaterol 150 µg Once Daily With Open Label Tiotropium 18 µg Once Daily Versus Open Label Tiotropium 18 µg Once Daily in Patients With Moderate-to-severe Chronic Obstructive Pulmonary Disease
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Chronic Obstructive Pulmonary Disease (COPD)
+Interventions: Indacaterol 150 μg (DRUG); Tiotropium 18 μg (DRUG); Placebo to indacaterol (DRUG)
+Summary: This study assessed the efficacy and safety of indacaterol (150 µg once daily \[od\]) when combined with tiotropium (18 µg od) versus tiotropium (18 µg od) treatment alone in patients with chronic obstructive pulmonary disease (COPD)
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of chronic obstructive pulmonary disease (COPD) (moderate-to-severe as classified by the Global Initiative for Chronic Obstructive Lung Disease \[GOLD\] Guidelines, 2007) and:
+
+  1. Smoking history of at least 10 pack-years
+  2. Post-bronchodilator forced expiratory volume in 1 second (FEV1) ≤ 65% and ≥ 30% of the predicted normal value
+  3. Post-bronchodilator FEV1/FVC (force vital capacity) \< 70%
+
+Exclusion Criteria:
+
+* Patients who have had a COPD exacerbation requiring systemic glucocorticosteroid treatment or antibiotics and/or hospitalization in the 6 weeks prior to screening or during the run-in period
+* Patients who have had a respiratory tract infection within 6 weeks prior to screening or during the run-in period
+* Patients with a body mass index less than 15 or more than 40 kg/m\^2
+* Patients with concomitant pulmonary disease
+* Patients with a history of asthma
+* Patients with diabetes Type I or uncontrolled diabetes Type II
+* Any patient with lung cancer or a history of lung cancer
+* Patients with a history of certain cardiovascular comorbid conditions
+
+Other protocol-defined inclusion/exclusion criteria applied to the study.

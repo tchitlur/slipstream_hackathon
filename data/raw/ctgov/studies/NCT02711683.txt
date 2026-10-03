@@ -1,0 +1,29 @@
+Title: DL-3-n-butylphthalide Treatment in Patients With Mild to Moderate Alzheimer's Disease Already Receiving Donepezil
+Official title: DL-3-n-butylphthalide Treatment in Patients With Mild to Moderate Alzheimer's Disease Already Receiving Donepezil : A Multi Center, Prospective Cohort Stud
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Alzheimer's Disease
+Interventions: DL-3-n-butylphthalide (DRUG); Donepezil (DRUG)
+Summary: Alzheimer's disease (AD) is the commonest cause of dementia. There is no effective treatment to cure the disease. Cholinesterase inhibitors, such as donepezil, are widely recommended to patients with mild to moderate AD. But the cognitive function of most of the patients using donepezil gradually aggravate, with Mini-Mental State Examination(MMSE) score falling by 2 points per year on average, and donepezil cannot effectively delay AD progress.
+
+DL-3-n-butylphthalide(NBP) is a synthetic chiral compound containing L- and D-isomers of butylphthalide. It is developed from L-3-n-butylphthalide, which was initially isolated as a pure component from seeds of Apium graveolens in 1978 by researchers of Institute of Medicine of Chinese Academy of Medical Sciences. Studies in the past several decades have demonstrated that NBP is effective in alleviating oxidative damage and mitochondria dysfunction, improving microcirculation. NBP was approved by the State Food and Drug Administration of China (SFDA) as a therapeutic drug for treatment of ischemic stroke in 2005 Not only for ischemic stroke, NBP has been reported to increase the expression of N-methyl-D-aspartate subtype glutamate receptor 
+Eligibility: Inclusion Criteria:
+
+* literate Chinese, aged 50-85 years, with a consistent caregiver who accompanied the subjects at least 4 days a week，2 hours a day;
+* complaint and/or informant report of cognitive impairment involving memory and/or other cognitive domains lasting for at least 12 months; and progressing gradually.
+* diagnosis of probable AD according to the National Institute of Neurological and Communicative Disorders and Stroke-Alzheimer's Disease and Related Disorders Association (NINCDS-ADRDA) criteria;
+* a mini-mental state examination (MMSE) score ≥11 and ≤22 (primary school) or ≥11 and ≤26 (junior school or above) ;
+* Hachinski ischemia scale score ≤4;
+* All patients meeting the clinical criteria underwent brain magnetic resonance imaging (MRI) scan including hippocampal assessment at screening. The MRI entry criteria are as follows: the number of cerebral infarcts (≥20 mm in diameter)less than 2, without infarcts in thalamus, hippocampal or entorhinal cortex, the medial temporal lobe atrophy visual rating scale (MTA) score more than 2 degree.
+* absent of neurological sign;
+* having used donepezil more than 3 months and remained relatively stable；
+* sign the informed consent.
+
+Exclusion Criteria:
+
+* severe white matter lesion(WML)(score ≥3 according to the Fazekas rating scale), the number of cerebral infarcts (≥20 mm in diameter)more than 2, with infarcts in the important sites, such as thalamus, hippocampal or entorhinal cortex;
+* dementia due to other causes, such as vascular dementia, infection of central nervous system，dementia with Lewy body(DLB)，etc
+* suffered from other neurological disease, such as stroke, Parkinson's disease, epilepsy；
+* suffered from mental disorders, such as schizophrenia，bipolar disorder，severe depression, delirium;
+* suffered from unstable or severe disorders of heart, lung, liver, kidney and blood system;
+* Severe impairment of vision and hearing;
+* Using other cholinesterase inhibitors or memantine.

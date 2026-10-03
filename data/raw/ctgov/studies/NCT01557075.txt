@@ -1,0 +1,23 @@
+Title: Aspirin Mono Therapy 12-months After Drug-eluting Stents Implantation
+Official title: Effects of High-dose Statin Treatments on Patients With Aspirin Mono Antiplatelet Therapy 12-months After Drug-eluting Stents Implantation: a Randomized Controlled Study
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Drug-eluting Stent (DES)
+Interventions: Atorvastatin (High dose statin treatment) (DRUG); Pravastatin (High dose statin treatment) (DRUG)
+Summary: The purpose of this study is to determine whether high dose statin therapy in patients with aspirin mono antiplatelet therapy who had received drug-eluting stent (DES) previously and were free of the adverse cardiac events during the first 12 months could be superior over pravastatin therapy in the prevention of late adverse cardiac and cerebrovascular events during the additional 12 months.
+
+Study Design.
+Eligibility: Inclusion Criteria:
+
+1. Patients who had previously received DES at least 12 months(±2month) ago
+2. Patients who were free of death, MI, stroke, repeat revascularization, or ST within first 12 months after DES implantation
+3. Patients with mono antiplatelet therapy with only aspirin after
+4. Age 20 years of older
+5. Patients with signed informed consent
+
+Exclusion Criteria:
+
+1. History of DES or BMS implantation within 10 months
+2. Patients who required the continuing dual antiplatelet therapy or additional other types of antithrombotics or antiplatelets such as cilostazol or ticlopidine, etc besides aspirin after DES implantation
+3. Patients who could not be prescribed aspirin or statins due to contraindication or severe side effects
+4. Pregnant women or women with potential childbearing
+5. Life expectancy ≤ 2 year

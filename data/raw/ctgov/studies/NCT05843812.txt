@@ -1,0 +1,36 @@
+Title: Magnesium Sulfate in Bariatric Surgery
+Official title: "Evaluation of the Clinical Response to Magnesium Sulfate as an Adjuvant in Anesthesia in Bariatric Surgery"
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Anesthesia and Analgesia; Magnesium Sulfate; Bariatric Surgery Candidate
+Interventions: Magnesium Sulfate 10 MG/ML (DRUG)
+Summary: Weight loss surgery, also known as bariatric surgery, has been around since the 1950s and since its inception has been shown to successfully achieve significant and sustainable weight loss in a large number of patients who undergo this intervention, as well , if a beneficial impact is observed in the management of metabolic disorders, such as type 2 diabetes mellitus and hyperlipidemia.
+
+After bariatric surgery, patients are at risk of narcotic-related side effects.(2) Because of this, pain management strategies must be implemented to reduce the consumption of narcotic medications. Some studies have reported that a multimodal analgesic regimen can reduce the consumption of postoperative narcotics, as well as the therapy requirements to control postoperative nausea and vomiting.
+
+It has also been reported that excess body mass is associated with changes in mineral levels in the body, particularly hypomagnesemia , a condition that is also common in hospitalized patients (Hansen \& Bruserud 2018), and has a high incidence in the perioperative environment.
+
+Magnesium sulfate (MgSO4) has multiple desirable effects in an anesthetic procedure. It is an antagonist of the N-methyl-d-asparti
+Eligibility: Inclusion Criteria:
+
+* Patients scheduled for bariatric surgery under general o anesthesia at Hospital universitario de la Facultad de Medicina de la Universidad Autonoma de Coahuila
+* Physical state ASA 2 y 3
+* Acceptance and signing of the informed consent.
+
+Exclusion Criteria:
+
+* Treatment with calcium or magnesium channel blockers
+* Drug use or alcoholism referred by the patient in the questioning
+* Neurological diseases
+* Myopathy
+* Intracardiac block
+* Renal insufficiency
+* Liver failure
+* Pregnancy
+* Hematological disorders
+* Contraindications to the use of magnesium sulfate (hypersensitivity to the active principle or to any of the excipients, concomitant use with quinidine derivatives, tachycardia, heart failure, myocardial injury, infarction).
+
+Elimination criteria:
+
+* Survey with incomplete data corresponding to the study variables.
+* Revocation of informed consent or decision to withdraw by of the patient.
+* Loss to follow-up

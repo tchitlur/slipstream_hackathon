@@ -1,0 +1,23 @@
+Title: Cannabidiol Oral Solution as an Adjunctive Treatment for Treatment-resistant Seizure Disorder
+Official title: A Multicenter, Open-label, Flexible Dose Study to Assess the Long-term Safety of Pharmaceutical Cannabidiol Oral Solution as an Adjunctive Treatment for Pediatric Subjects With a Treatment-resistant Seizure Disorder Who Complete INS011-14-029 or Part A of INS011-15-054
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Seizures
+Interventions: Cannabidiol Oral Solution (DRUG)
+Summary: This is a multicenter, open-label trial to assess the long-term safety and efficacy of Cannabidiol Oral Solution as adjunctive therapy for pediatric participants with treatment-resistant seizure disorders, including Lennox-Gastaut syndrome (LGS) or Dravet syndrome (DS). All participants have rolled over from previous trials: INS011-14-029 (NCT02324673) and INS011-15-054 (NCT02551731).
+Eligibility: Inclusion Criteria:
+
+* Completed activities through Day 11 in INS011-14-029 or Part A (Visit 6) INS011-15-054
+* Informed consent/assent (as applicable) was voluntarily provided by the participant and/or parent(s)/caregiver(s) in accordance with applicable laws, regulations, and local requirements
+* Is medically stable with no anticipated changes in chronic medications in the opinion of the Investigator
+* Continues to meet protocol-specified criteria for qualification and contraception, including treatment-resistant seizure disorder
+* In the opinion of the Investigator, the subject and/or parent(s)/caregiver(s) are able to continue keeping accurate seizure diaries
+
+Exclusion Criteria:
+
+* Inadequate supervision by parent(s)/caregiver(s)
+* History or current use of dietary supplements, drugs or over-the counter medications outside protocol-specified parameters
+* Signs, symptoms or history of any condition that, per protocol or in the opinion of the investigator, might compromise:
+
+  1. the safety or well-being of the participant or study staff
+  2. the safety or well-being of the participant's offspring (such as through pregnancy or breast-feeding)
+  3. the analysis of results

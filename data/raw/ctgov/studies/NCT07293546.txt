@@ -1,0 +1,20 @@
+Title: Phase 1/2 Study of FRF-001, an AAV-9 Gene Therapy, in Patients With FOXG1 Syndrome (FS)
+Official title: An Open-Label First-in-Human Phase 1/2 Study to Evaluate the Safety, Tolerability, and Efficacy of FRF-001, an AAV-9 Gene Therapy Administered by Intracerebroventricular Injection in Participants With FOXG1 Syndrome
+Status: ENROLLING_BY_INVITATION. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: FOXG1 Syndrome
+Interventions: FRF-001 (GENETIC)
+Summary: The goal of this clinical trial is to learn if FRF-001 is a safe, tolerable, and efficacious treatment for children and adults with FOXG1 syndrome.
+Eligibility: Inclusion Criteria:
+
+* Participant must have a FOXG1 mutation confirmed as likely pathogenic or pathogenic by whole exome sequencing, whole genome sequencing, gene panel, single gene testing, or microarray performed at an accredited lab, with clinical phenotype consistent with FS in the opinion of the investigator.
+* The participant, or the participant's parent or legal guardian, is registered at the time of signing the informed consent in the FRF Citizen Natural History Study.
+* The participant, or the participant's parent, legal guardian, or caregiver are willing and able to complete all aspects of the study, adhere to the study visit schedule, and comply with all assessments.
+
+Exclusion Criteria:
+
+* Another genetic mutation or clinical comorbidity which could potentially confound the typical FOXG1 syndrome phenotype; FOXG1 gene duplication; or FOXG1 gene deletions that include regions outside of the FOXG1 coding region.
+* Prior treatment with a gene, cell therapy, or investigational treatment for FS.
+* Concurrent enrollment in another clinical study unless it is observational (noninterventional) and the study that does not interfere with the requirements of the current protocol and does not have the potential to impact the evaluation of safety or efficacy of FRF-001.
+* Any current or prior condition or contraindication that would render the participant unable to safely receive prophylactic corticosteroids, as assessed and determined by the Investigator.
+* Contraindications to or unwilling to undergo MRI or lumbar puncture (LP) procedures.
+* Any medical condition, comorbidity, or anatomical abnormality that, in the opinion of the Investigator and/or the attending anesthesiologist, would contraindicate the safe administration of sedation or general anesthesia required for study procedures.

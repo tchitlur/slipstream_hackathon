@@ -1,0 +1,21 @@
+Title: Study to Investigate LP352 in Subjects With Developmental and Epileptic Encephalopathies
+Official title: Randomized, Double-blind, Placebo-controlled, Parallel-group, Dose-escalation Study to Investigate the Safety, Tolerability, PK, PD, and Exploratory Efficacy of LP352 in Subjects With Developmental and Epileptic Encephalopathies
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Developmental and Epileptic Encephalopathy; Dravet Syndrome; Lennox Gastaut Syndrome
+Interventions: LP352 (DRUG); Placebo (DRUG)
+Summary: The objective of this study is to assess the safety, tolerability, efficacy, and pharmacokinetics of adjunctive therapy of LP352 in adults and adolescents with developmental and epileptic encephalopathies.
+Eligibility: Key Inclusion Criteria:
+
+1. Male or non-pregnant, non-lactating female, age 12 to 65 years
+2. Diagnosis of Dravet syndrome, Lennox-Gastaut syndrome, or other developmental and epileptic encephalopathy
+3. Has a minimum number of seizures per 4-week period while taking 1 to 4 anti-seizure medications
+4. All medications and epilepsy interventions must be stable for 4 weeks before screening and are expected to remain stable during the study
+5. The patient/parent/caregiver is able and willing to attend study visits, complete the diary and take study drug as instructed
+
+Key Exclusion Criteria:
+
+1. Current or past history of cardiovascular or cerebrovascular disease, such as cardiac valvulopathy, myocardial infarction, stroke, pulmonary arterial hypertension or abnormal blood pressure
+2. Has glaucoma, renal impairment, liver disease or any other medical condition that would affect study participation or pose a risk to the subject
+3. Current or recent history of moderate or severe depression, anorexia nervosa, bulimia or at risk of suicidal behavior
+4. Currently taking anorectic agents, monoamine oxidase inhibitors; serotonin agonists or antagonists including fenfluramine, atomoxetine, vortioxetine, or other medications for weight loss
+5. Positive test result on the drug screen, except tetrahydrocannabinol (THC) for patients taking prescribed cannabidiol

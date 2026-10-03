@@ -1,0 +1,27 @@
+Title: Trial of Ibudilast for Methamphetamine Dependence
+Official title: Randomized Trial of Ibudilast for Methamphetamine Dependence
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Methamphetamine Dependence; HIV Infection
+Interventions: Ibudilast (DRUG); Placebo (DRUG)
+Summary: The objective of this study is to test the safety and potential efficacy of ibudilast to treat methamphetamine dependence. The study hypotheses are that ibudilast will reduce methamphetamine use and increase treatment retention more than placebo among patients seeking treatment for methamphetamine dependence. As HIV infection is a common complication of methamphetamine dependence, half of the participants will be HIV positive and the study will assess whether ibudilast also improves HIV related outcomes (e.g. medication adherence, CD4 count, risk behaviors).
+Eligibility: Inclusion Criteria:
+
+1. 18 years of age or older;
+2. meet DSM-IV-TR criteria for MA dependence (SCID verified);
+3. a MA-positive urine drug screen at one or more visit during the two week lead-in period;
+4. seeking treatment for MA problems;
+5. willing and able to comply with study procedures;
+6. provide written informed consent;
+7. English speaking
+8. reside within 35 miles of the clinical research site; and
+9. if female of childbearing potential, not pregnant or lactating and willing to use a medically reliable method of birth control during the trial (e.g., birth control pills, Depo-Provera, and/or condoms with spermicide).
+
+Exclusion Criteria:
+
+1. a medical condition that, in the study physician's judgment, may interfere with safe study participation (e.g., active TB; unstable cardiac, renal, or liver disease; uncontrolled hypertension; unstable diabetes);
+2. CD4 count \< 50 cells/mm3 (suggestive of advanced HIV infection)
+3. AST, ALT, or GGT \> 3 times upper normal limit;
+4. A corrected QT of \> 450 msecs in men or \> 460 msec in women on at least two ECGs during the baseline period, or clinical risk factors for Torsades de Pointes (e.g. (e.g., heart failure, hypokalemia, family history of Long QT Syndrome), or requiring ongoing treatment with concomitant medication(s) with established risk of Torsades de Pointes (e.g. Amiodarone, Arsenic trioxide, Astemizole, Bepridil, Chloroquine, Chlorpromazine, Cisapride, Citalopram, Clarithromycin, Disopyramide, Dofetilide, Domperidone, Droperidol, Erythromycin, Flecainide, Halofantrine, Haloperidol, Ibutilide, Levomethadyl, Mesoridazine, Methadone, Moxifloxacin, Pentamidine, Pimozide, Probucol, Procainamide, Quinidine, Sotalol, Sparfloxacin, Terfenadine, Thioridazine, Vandetanib);
+5. current ongoing treatment with psychotropic medications (e.g., antidepressants, antipsychotics, antiepileptics, sedative/hypnotics, narcotic analgesics);
+6. a neurological disorder (e.g., organic brain disease, dementia) or a medical condition which would make study agent compliance difficult or which would compromise informed consent;
+7. a major psychiatric disorder not due to substance abuse (e.g., schizophrenia, bipolar disorder) as as

@@ -1,0 +1,39 @@
+Title: A Safety, Tolerability and Preliminary Efficacy Study of FRTX-02 Capsules in Healthy Subjects and Subjects With Atopic Dermatitis
+Official title: A Phase 1, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Preliminary Efficacy of Single and Multiple Ascending Doses of FRTX-02 in Healthy Subjects and Subjects With Atopic Dermatitis
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Atopic Dermatitis Eczema
+Interventions: FRTX-02 Capsule (DRUG); Placebo (DRUG)
+Summary: FRTX-02 is an orally-available, potent and selective DYRK1A inhibitor.
+Eligibility: Selected Inclusion Criteria
+
+Part 1 (SAD/MAD)
+
+* Healthy male or female
+* 18-55 years of age, inclusive
+* At least 50 kg in weight (males) and 45 kg in weight (females)
+* BMI 18.5-30.0 kg/m2, inclusive
+
+Part 2 (Subjects with AD)
+
+* Male or female with atopic dermatitis
+* 18-65 years of age, inclusive
+* BMI 18-40.0 kg/m2, inclusive
+* Validated Investigator's Global Assessment (vIGA-AD) score of ≥ 3 (moderate)
+* Body surface area (BSA) with AD involvement ≥ 10%
+* History of inadequate response to treatment with topical medications (e.g., corticosteroids, calcineurin inhibitors, etc.) or subjects for whom topical treatments are otherwise medically inadvisable.
+
+Selected Exclusion Criteria
+
+Part 1 (SAD/MAD)
+
+* Use of tobacco products within 3 months prior to drug administration
+* History of alcohol abuse or drug abuse
+* Positive urine drug screen, alcohol breath test, or urine cotinine test
+* Participation in a clinical research study involving the administration of an investigational or marketed drug within 30 days prior to drug administration
+* Donation of plasma within 7 days prior to dosing or donation or loss of 500 mL or more of whole blood within 8 weeks prior to dosing.
+
+Part 2 (Subjects with AD)
+
+* History of alcohol abuse or drug abuse
+* Positive urine drug screen, alcohol breath test, or urine cotinine test
+* Participation in a clinical research study involving the administration of an investigational or marketed drug within 12 weeks prior to drug administration

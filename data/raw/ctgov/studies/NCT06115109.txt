@@ -1,0 +1,18 @@
+Title: Angelman Natural History Study - FAST Spain
+Official title: Observational Study, Prospective Multicentric, From the Natural History of Patients With Angelman Syndrome in Spain
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Angelman Syndrome
+Interventions: Non intervention, Observational study (OTHER)
+Summary: The goal of this study is to conduct a prospective, longitudinal study to observe the natural clinical progression and disease outcome of AS patients receiving no disease-modified intervention, with the purpose of obtaining data that will be useful for future clinical trials.
+Eligibility: Inclusion Criteria:
+
+1. Male or female between 3 months and 99 years of age.
+2. Clinical diagnosis of Angelman Syndrome and molecular confirmation of the diagnosis.
+3. The participant has an acceptable guardian capable of giving consent on behalf of the participant,
+4. Willingness and ability of their guardians to comply with scheduled visits, treatment plan, laboratory tests, and other study procedures.
+
+Exclusion Criteria:
+
+1. Patients with any comorbidity that, in the clinical judgment of the principal investigator, may affect the results of the study. Any confirmed chronic or acute condition or illness affecting any system(s) that could interfere with study results and/or compliance with study procedures is included.
+2. Patients who are participating in parallel studies with investigational drugs.
+3. Unwillingness or inability of their guardians to follow the procedures outlined in the protocol.

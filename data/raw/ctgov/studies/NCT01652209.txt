@@ -1,0 +1,32 @@
+Title: To Evaluate the Efficacy and Safety of Hearticelgram®-AMI in Patients With Acute Myocardial Infarction.
+Official title: A Randomized,Open labEled, muLticenter Trial for Safety and Efficacy of Intracoronary Adult Human Mesenchymal stEm Cells Acute Myocardial inFarction
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Acute Myocardial Infarction
+Interventions: Hearticellgram-AMI (BIOLOGICAL)
+Summary: Through the injection of Hearticellgram-AMI into acute myocardial infarction patients who are the primary targets of the drug, long term efficacy in the improvement of the left ventricle ejection fraction upon the first cell treatment is to be evaluated and compared with the current existing treatments (contemporary drug treatment).
+
+This study will also compare the efficacy and safety of single dose of hearticellgram-AMI.
+Eligibility: Inclusion Criteria:
+
+1. As of the date of written consent, between 20 and 75 years of age
+2. Those with less than 50% of the left ventricular ejection fraction (LVEF) on echocardiography performed after percutaneous coronary intervention (PCI) (evaluated by investigator)
+3. Who has been identified as an acute myocardial infarction in any of the following on an electrocardiogram (12-lead electrocardiography, ECG) performed before PCI
+
+   * ST-segment elevation 0.1 mV in two or more limb leads or
+   * 0.2 mV elevation in two or more contiguous precordial leads indicative of acute myocardial infarction (AMI)
+4. Those identified as anterior wall MI
+5. Who meet the above criteria and have successfully reperfused within 72 hours after the onset of chest pain
+6. Who can conduct clinical trials according to the clinical trial protocol
+7. Who has consented in writing to voluntarily participate in this clinical trial (owner or legal representative)
+
+Exclusion Criteria:
+
+1. Who have not been diagnosed with malignant blood diseases (acute myelogenous leukemia, acute lymphocytic leukemia, non-Hodgkins lymphoma, Hodgkins lymphoma, multiple myelopathy) within 5 years of screening criteria
+2. Patients with severe aplastic anemia
+3. Patients with solid cancers in their previous medical history (within 5 years)
+4. Patients whose blood serum AST/ASL rates are more than three times the normal maximum rate, and whose creatinine rates are more than 1.5 times the normal maximum rate (but AST in myocardial infarction patients can temporarily rise, thus, as decided by the researchers, if there is no damage to the liver function, the rise will not be taken into consideration)
+5. Patients who have implemented Coronary Artery Bypass Graft(CABG)
+6. Patients with chronic heart failure (patients with medical history of heart failure medical history at least three months before the occurrence of acute myocardial infarction)
+7. Patients who cannot proceed with cardiac catheterization
+8. Patients who had been continuously taking large doses of steroids (1mg/kg/day) or antibiotics for severe infections from one month prior to registration
+9. Patients who had major surgical operations, organ biops

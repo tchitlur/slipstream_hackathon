@@ -1,0 +1,37 @@
+Title: Systems Biological Assessment of Statin Effect on Vaccine Responses
+Official title: Systems Biological Assessment of Statin Effect on Vaccine Responses
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Vaccine Response
+Interventions: Atorvastatin (DRUG); Quadrivalent seasonal influenza vaccine (BIOLOGICAL)
+Summary: This study is being done to answer the question: Does the use of statin lipid-lowering medication change the effect of influenza vaccine? The research team will use the knowledge gained from answering this question to understand how this medication affects long-lasting immune responses to vaccines. The researchers will study the immune response to the influenza vaccine in the blood (where antibodies are). The team will also look at how statin therapy affects the bacteria that live in the gut by collecting stool samples. To be in this research, participants must be adults willing to receive vaccines.
+Eligibility: Inclusion Criteria:
+
+* Able to understand and give informed consent.
+* Age 18-50 years.
+* Women of childbearing potential must agree to use effective birth control for the first 3 months of the study. A negative urine pregnancy test must be documented prior to vaccination.
+
+Exclusion Criteria:
+
+* History of allergy or serious adverse reaction, including Guillain-Barré syndrome, to a vaccine or vaccine products.
+* History of a medical condition resulting in impaired immunity such as active solid tumors, leukemia, lymphoma, use of immunosuppressive drugs, chemotherapy, or radiation therapy. Persons with previous skin cancers or cured non-lymphatic tumors are not excluded from the study.
+* History of HIV, Hepatitis B, or Hepatitis C infection.
+* Chronic clinically significant medical problems that could be considered active or unstable (i.e. diagnosed within the past 3 months or requiring a change in medication within the past 3 months). This includes (but is not limited to):
+
+  1. Insulin-dependent diabetes
+  2. Severe heart disease (including arrhythmias)
+  3. Severe lung disease
+  4. Severe liver disease
+  5. Severe kidney disease
+  6. Severe hypertension: defined as life-threatening consequences (e.g., malignant hypertension, transient or permanent neurologic deficit).
+* BMI \> 30
+* Current or previous use of statins or any other lipid-lowering drug.
+* Pregnancy or breastfeeding or plans to become pregnant in the first 3 months of study participation.
+* History of influenza infection within the same influenza season.
+* Receipt of blood products or immune globulin products within the prior 3 months.
+* History of excessive alcohol consumption, drug use, psychiatric conditions, social conditions, or occupational conditions that in the opinion of the investigator would preclude compliance with the trial.
+* Receipt of any live vaccines 30 days before or plans to receive any live vaccines 30 days after vaccination.
+* Receipt of any inactivated vaccines 14 days before or plans to receive any inactivated vaccines 14 days after vaccination.
+
+For participants randomized to the statin therapy + QIV group:
+
+* The participant is currently taking any medication that has know

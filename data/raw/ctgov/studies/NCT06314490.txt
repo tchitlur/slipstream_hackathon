@@ -1,0 +1,15 @@
+Title: Personalized Antisense Oligonucleotide Therapy for Rare Pediatric Genetic Disease: SCN2A
+Official title: Personalized Antisense Oligonucleotide Therapy for Rare Pediatric Genetic Disease: SCN2A
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Genetic Disease
+Interventions: nL-SCN2A-002 (DRUG)
+Summary: This research project entails delivery of a personalized antisense oligonucleotide (ASO) drug designed for a single pediatric participant with SCN2A associated developmental epileptic encephalopathy
+Eligibility: Inclusion Criteria:
+
+* Informed consent provided by the participant's parent(s)/guardian(s)
+* Ability to travel to the study site, adhere to study-related follow-up examinations and/or procedures, and provide access to participant's medical records.
+* Genetically confirmed mutation
+
+Exclusion Criteria:
+
+• Use of an investigational medication within less than 5 half-lives of the drug at enrollment

@@ -1,0 +1,31 @@
+Title: Predicting Response to Selinexor-Based Therapy in Relapsed/Refractory Multiple Myeloma: A Multicenter Prospective Study
+Official title: Efficacy Prediction of Selinexor-Based Regimens in Relapsed/Refractory Multiple Myeloma Based on Differential Multigene Expression: A Multicenter Prospective Clinical Study
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Multiple Myeloma of Bone
+Interventions: Selinexor-Based Regimen (DRUG)
+Summary: Background:
+
+Relapsed/refractory multiple myeloma (RRMM) remains a major clinical challenge due to treatment resistance and disease heterogeneity. Selinexor-based regimens have demonstrated promising efficacy; however, predictive biomarkers for treatment response are still lacking. This study aims to evaluate the predictive value of differential multigene expression in RRMM patients treated with selinexor-based therapy.
+
+Methods:
+
+This is a multicenter, prospective clinical study enrolling 127 patients with RRMM. Eligible patients are aged ≥18 years, have a confirmed diagnosis of multiple myeloma based on International Myeloma Working Group (IMWG) criteria, and have received 2-4 prior lines of therapy. Key exclusion criteria include unresolved toxicities from prior treatments, severe comorbidities, prior bone marrow transplantation within 6 months, hypersensitivity to study drugs, HIV infection, pregnancy or lactation, and participation in other clinical trials within 30 days.
+
+All patients receive a selinexor-based regimen consisting of selinexor 60 mg orally once weekly (Day 1 of each week) in combination with standard agents. Each treatment cycle lasts 28 days. Treatment respons
+Eligibility: Inclusion Criteria:
+
+1. Patients with a confirmed diagnosis of multiple myeloma (MM) based on bone marrow aspiration or biopsy, in accordance with the International Myeloma Working Group (IMWG) criteria.
+2. Patients with relapsed/refractory MM after 2-4 prior lines of therapy.
+3. Age ≥18 years.
+4. Provision of written informed consent, with willingness to participate in the study and to provide relevant clinical samples and follow-up information.
+
+Exclusion Criteria:
+
+1. Patients with relapsed MM whose toxicities from prior chemotherapy have not recovered to baseline or ≤ Grade 1.
+2. Presence of other active malignancies or severe systemic diseases (e.g., significant cardiovascular or cerebrovascular disease, hepatic or renal insufficiency) that may affect study outcomes or limit tolerance to treatment or follow-up.
+3. Prior history of bone marrow transplantation or other treatments that may affect the bone marrow microenvironment or immune function within 6 months before study initiation.
+4. Known hypersensitivity to selinexor, ixazomib, or any components of the study drugs, or a history of severe allergic reactions.
+5. Known human immunodeficiency virus (HIV) infection (HIV antibody positive).
+6. Participation in another clinical trial within 30 days prior to study initiation or during the study period.
+7. Pregnant or breastfeeding women.
+8. Patients with psychiatric disorders or those unable to comply with study procedures.

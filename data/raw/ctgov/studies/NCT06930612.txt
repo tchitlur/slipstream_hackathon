@@ -1,0 +1,17 @@
+Title: A Study of CM512 in Patients With Chronic Rhinosinusitis With Nasal Polyposis （NEZHA-1）
+Official title: A Randomized, Double-blind, Placebo-controlled Phase II Clinical Study to Evaluate the Efficacy and Safety of CM512 in Patients With Chronic Rhinosinusitis With Nasal Polyposis
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Chronic Rhinosinusitis With Nasal Polyposis
+Interventions: CM512 (BIOLOGICAL); Placebo (DRUG)
+Summary: This is a multi-center, randomized, double blind, placebo-controlled Phase II study to evaluate the efficacy and safety of CM512, and to observe the life quality of subjects, the Pharmacokinetics, Pharmacodynamics and immunogenicity of CM512 in patients with chronic rhinosinusitis with nasal polyposis (CRSwNP).
+Eligibility: Inclusion Criteria:
+
+* with chronic rhinosinusitis with nasal polyposis (CRSwNP).
+* Nasal Polyp Score (NPS) of ≥5 with a minimum score of 2 in each nasal cavity.
+* Nasal Congestion Score of 2 or 3 at screening period, and at least 2 at baseline.
+* Contraception.
+
+Exclusion Criteria:
+
+* Not enough washing out period for previous therapy, e.g., less than 10 weeks or 5 half-lives (whichever is longer) for Interleukin (IL)-4 receptor alpha subunit antagonists, less than 8 weeks or 5 half-lives for biologic therapy/systemic immunosuppressant, less than 6 months for sinus surgery (including polypectomy).With malignant or benign tumor of nasal cavity.
+* Vaccination with live attenuated vaccine within 30 days before randomization or during the planned study period.

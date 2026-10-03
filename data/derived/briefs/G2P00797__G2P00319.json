@@ -1,0 +1,301 @@
+{
+ "focalId": "cond:G2P00797",
+ "neighborId": "cond:G2P00319",
+ "generatedAt": "2026-10-03T20:43:45.880Z",
+ "mode": "llm",
+ "model": "gpt-5.4",
+ "sections": [
+  {
+   "heading": "Who we are",
+   "sentences": [
+    {
+     "text": "[Name of our group, who we represent, and how many families we are in touch with.]",
+     "evidenceIds": []
+    }
+   ]
+  },
+  {
+   "heading": "Why we are writing to you",
+   "sentences": [
+    {
+     "text": "We are reaching out because STX1B-related generalized epilepsy with febrile seizures plus and SLC6A1-related epilepsy with myoclonic-atonic seizures are recorded on the same mechanism road, described here as too little protein from loss of one copy.",
+     "evidenceIds": [
+      "ev:g2p:G2P00797",
+      "ev:hpoa:OMIM:616172",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "For STX1B, the curated mechanism is loss of function, inferred, with strong confidence for the gene-disease link.",
+     "evidenceIds": [
+      "ev:g2p:G2P00797",
+      "ev:hpoa:OMIM:616172"
+     ]
+    },
+    {
+     "text": "For SLC6A1, the curated mechanism is also loss of function, inferred, with definitive confidence for the gene-disease link.",
+     "evidenceIds": [
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "The recorded phenotype similarity is high, although all of the shared weight comes from common low-information terms.",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P00797",
+      "ev:hpoa:OMIM:616172",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we share",
+   "sentences": [
+    {
+     "text": "The shared features listed in the evidence pack are atonic seizure, generalized non-motor (absence) seizure, non-motor seizure, dialeptic seizure, and attention deficit hyperactivity disorder.",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P00797",
+      "ev:hpoa:OMIM:616172",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "Registry design and natural history protocol were judged transferable between the two conditions.",
+     "evidenceIds": [
+      "ev:rule:R1",
+      "ev:rule:simgic",
+      "ev:g2p:G2P00797",
+      "ev:hpoa:OMIM:616172",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421",
+      "ev:ctgov:NCT07531511:role",
+      "ev:ctgov:NCT01238250:role"
+     ]
+    },
+    {
+     "text": "Outcome measures and endpoints were also judged transferable, but age of onset and severity still need review before any instrument is adopted.",
+     "evidenceIds": [
+      "ev:rule:R2",
+      "ev:rule:simgic",
+      "ev:g2p:G2P00797",
+      "ev:hpoa:OMIM:616172",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421",
+      "ev:ctgov:NCT07531511:role",
+      "ev:ctgov:NCT01238250:role"
+     ]
+    },
+    {
+     "text": "Clinical network, sites, and investigators were judged transferable, with the caution that the SLC6A1 organization listing is unverified.",
+     "evidenceIds": [
+      "ev:rule:R3",
+      "ev:rule:simgic",
+      "ev:g2p:G2P00797",
+      "ev:hpoa:OMIM:616172",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421",
+      "ev:seed:org:slc6a1-connect",
+      "ev:ctgov:NCT07173153:role",
+      "ev:ctgov:NCT04937062:role",
+      "ev:ctgov:NCT07847918:role",
+      "ev:ctgov:NCT07531511:role"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we would like to learn from or reuse",
+   "sentences": [
+    {
+     "text": "We would like to learn from any registry or natural history materials linked to SLC6A1 studies, including NCT07531511 and NCT01238250.",
+     "evidenceIds": [
+      "ev:rule:R1",
+      "ev:ctgov:NCT07531511:role",
+      "ev:ctgov:NCT01238250:role"
+     ]
+    },
+    {
+     "text": "We would like to review outcome measures and endpoints used in those studies as possible templates for STX1B work.",
+     "evidenceIds": [
+      "ev:rule:R2",
+      "ev:ctgov:NCT07531511:role",
+      "ev:ctgov:NCT01238250:role"
+     ]
+    },
+    {
+     "text": "We would also like to learn which clinical sites and investigators are active across the SLC6A1 natural history and interventional studies.",
+     "evidenceIds": [
+      "ev:rule:R3",
+      "ev:ctgov:NCT07173153:role",
+      "ev:ctgov:NCT04937062:role",
+      "ev:ctgov:NCT07847918:role",
+      "ev:ctgov:NCT07531511:role"
+     ]
+    },
+    {
+     "text": "The evidence pack lists SLC6A1 Connect as a neighbor organization, but says the listing is unverified and that registry status is unknown.",
+     "evidenceIds": [
+      "ev:seed:org:slc6a1-connect"
+     ]
+    },
+    {
+     "text": "For research planning only, we would value expert review of whether SLC6A1 therapeutic strategy, assay design, and trial design could serve as templates for STX1B.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:ctgov:NCT07173153:role",
+      "ev:ctgov:NCT04937062:role",
+      "ev:ctgov:NCT07847918:role",
+      "ev:pubmed:models:SLC6A1"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we know differs",
+   "sentences": [
+    {
+     "text": "We must not assume that a therapy approach transfers directly from SLC6A1 to STX1B.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:g2p:G2P00797",
+      "ev:hpoa:OMIM:616172",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "The reason is that mechanism is recorded per gene and disease, not per family, and a family's own variant may act differently.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P00797",
+      "ev:hpoa:OMIM:616172",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "The evidence pack says the family's own variant class should be confirmed with a clinical geneticist before acting on any transfer idea.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P00797",
+      "ev:hpoa:OMIM:616172",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "We also must not assume that SLC6A1 disease models can stand in for STX1B disease models.",
+     "evidenceIds": [
+      "ev:rule:R5",
+      "ev:pubmed:models:SLC6A1"
+     ]
+    },
+    {
+     "text": "The reason is that the neighbor's animal or cell model is specific to its own gene, even if some assay design may be reusable after expert review.",
+     "evidenceIds": [
+      "ev:rule:R5",
+      "ev:pubmed:models:SLC6A1"
+     ]
+    },
+    {
+     "text": "The curated mechanism for both conditions is inferred from variant types, not from direct functional evidence.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P00797",
+      "ev:g2p:G2P00319"
+     ]
+    },
+    {
+     "text": "We also must not assume eligibility for an SLC6A1 trial, because enrolment in the neighbor's trials was not asserted.",
+     "evidenceIds": [
+      "ev:rule:R7",
+      "ev:ctgov:NCT07173153:role",
+      "ev:ctgov:NCT04937062:role",
+      "ev:ctgov:NCT07847918:role"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Questions for expert review",
+   "sentences": [
+    {
+     "text": "Does the overlap between STX1B and SLC6A1 go beyond common features such as seizures and developmental delay in clinical practice.",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P00797",
+      "ev:hpoa:OMIM:616172",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "Is SLC6A1 Connect the right contact, and does it run a registry.",
+     "evidenceIds": [
+      "ev:seed:org:slc6a1-connect"
+     ]
+    },
+    {
+     "text": "Has a child's specific STX1B variant been functionally classified as loss of function, gain of function, or dominant negative, and does it match the mechanism recorded for the condition.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P00797",
+      "ev:hpoa:OMIM:616172"
+     ]
+    },
+    {
+     "text": "What functional evidence exists for STX1B, given that the curated mechanism is inferred from variant types rather than functional studies.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P00797"
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "loss of function",
+   "meaning": "A change that reduces how well a gene or its protein works."
+  },
+  {
+   "term": "mechanism",
+   "meaning": "The main biological way a gene change is thought to cause disease."
+  },
+  {
+   "term": "natural history study",
+   "meaning": "A study that follows people over time to learn how a condition changes."
+  },
+  {
+   "term": "outcome measure",
+   "meaning": "A test, score, or observation used to track symptoms or daily function."
+  },
+  {
+   "term": "clinical geneticist",
+   "meaning": "A doctor with special training in genetic conditions and test results."
+  },
+  {
+   "term": "disease model",
+   "meaning": "A cell or animal system used in research to study a disease."
+  }
+ ],
+ "droppedSentences": 4
+}

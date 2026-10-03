@@ -1,0 +1,31 @@
+Title: Ezetimibe/Simvastatin (MK-0653A) Versus Rosuvastatin Versus Doubling Statin Dose in Participants With Cardiovascular Disease and Diabetes Mellitus (MK-0653A-133)(COMPLETED)
+Official title: A Randomized, Double-Blind, Active-Controlled Study of Patients With Cardiovascular Disease and Diabetes Mellitus Not Adequately Controlled With Simvastatin or Atorvastatin: Comparison of Switching to Combination Tablet Ezetimibe/Simvastatin Versus Switching to Rosuvastatin or Doubling the Statin Dose
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Cardiovascular Disorder; Diabetes Mellitus
+Interventions: ezetimibe (+) simvastatin (DRUG); simvastatin 40 mg or atorvastatin 20 mg (DRUG); Rosuvastatin (DRUG); atorvastatin 10 mg or simvastatin 20 mg (DRUG)
+Summary: The purpose of this study is to determine the efficacy of switching to a combination tablet ezetimibe/simvastatin (10mg/20mg) versus rosuvastatin (10 mg) versus doubling the statin dose in those patients who have cardiovascular disease and diabetes mellitus not adequately controlled on simvastatin 20 mg or atorvastatin 10 mg.
+Eligibility: Inclusion Criteria:
+
+* Patient has not taken common statins or ezetimibe within 6 weeks of study screening or patient is currently taking a daily dose of the following statins for 6 weeks prior to study screening: simvastatin, atorvastatin, pravastatin, fluvastatin, ezetimibe, lovastatin, or ezetimibe + fluvastatin
+* Patient is willing to go on a cholesterol and glucose lowering diet for the duration of the study
+* Patient is willing to remain abstinent or use birth control for the duration of the study
+* Patient has Diabetes Mellitus with cardiovascular disease
+
+Exclusion Criteria:
+
+* Patient has sensitivity to certain common statin drugs
+* Patient is Asian and would not be able to start taking the higher doses of rosuvastatin necessary for the study design
+* Patient consumes more than 2 alcoholic drinks per day
+* Patient is pregnant or breast-feeding
+* Patient has been treated with other investigational drugs within 30 days of first visit
+* Patient is currently on prohibited doses of the following statin drugs: rosuvastatin, simvastatin, atorvastatin, and pravastatin
+* Patient has congestive heart failure
+* Patient has uncontrolled high blood pressure
+* Patient has kidney disease
+* Patient has uncontrolled endocrine or metabolic disease which are known to possibly increase blood lipoproteins
+* Patient has diabetes mellitus that is not well controlled
+* Patient is human immunodeficiency virus (HIV) positive
+* Patient is currently taking medications that inhibit Cytochrome P450 3A4 (CYP3A4)
+* Patient is currently taking therapies that would increase the risk of muscle weakness
+* Patient has been taking certain over- the-counter lipid-lowering agents within 6 weeks prior to visit 1
+* Patient is currently taking psyllium or other fiber-based laxatives

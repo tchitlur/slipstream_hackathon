@@ -1,0 +1,19 @@
+Title: Observational Study to Characterize Biomarkers and Disease Progression in Participants With Methyl CpG Binding Protein 2 (MECP2) Duplication Syndrome
+Official title: A Prospective and Retrospective Observational/Non-interventional Study to Characterize Biomarkers and Disease Progression in Patients With MECP2 Duplication Syndrome
+Status: TERMINATED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Methyl CpG Binding Protein 2 (MECP2) Duplication Syndrome
+Interventions: none
+Summary: The purpose of the study is to prospectively assess longitudinal changes in biomarkers (MECP2, potential biomarkers of target engagement and disease activity) in cerebrospinal fluid (CSF) and blood; characterize longitudinal changes in performance on clinical scales (clinician-reported measures of neurodevelopment and functioning) and caregiver-reported outcome assessments (communication, gastrointestinal, social-emotional-adaptive behavioral measures); evaluate longitudinal changes in caregiver-reported health-related quality-of-life measures; and assess the frequency, type, and severity of seizures over time.
+Eligibility: Key Inclusion Criteria
+
+* Participant has a diagnosis of MDS with genetic confirmation of MECP2 duplication (or triplication)
+* Participant has a parent or caregiver (CG) ≥ 18 years old capable of providing informed consent (signed and dated), and able to attend all scheduled study visits and provide feedback regarding the participant's symptoms and performance as described in the protocol and be able to comply with all study requirements and activities
+* Male ≥ 1 month and ≤ 65 years of age
+* No contraindications for lumbar puncture (LP)'s, blood draws, sedation (if necessary) or other study activities
+* Medically stable to complete the study and will tolerate sedation or general anesthesia and other study activities
+
+Key Exclusion Criteria
+
+* Clinically significant abnormalities in medical history (e.g., clinically significant renal, hepatic, or cardiac abnormalities; major surgery within 3 months of screening) or upon physical examination that could potentially impact the NH of MDS
+* Unwillingness or inability to comply with study procedures, including follow up, as specified by this protocol, or unwillingness to cooperate fully with the Investigator
+* Treatment with an investigational drug, gene therapy, stem cell therapy, biological agent, or device within 30 days of screening, or 5 half-lives of investigational agent, whichever is longer (participants cannot be concurrently enrolled in NH00006 and ION440-CS1).

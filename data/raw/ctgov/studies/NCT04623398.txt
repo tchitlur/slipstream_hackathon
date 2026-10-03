@@ -1,0 +1,34 @@
+Title: Effect of Lithium in Patients With Autism Spectrum Disorder and Phelan-McDermid Syndrome (SHANK3 Haploinsufficiency)
+Official title: Effect of Lithium in Patients With Autism Spectrum Disorder and Phelan-McDermid Syndrome (SHANK3 Haploinsufficiency): Pilot Study.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Autism Spectrum Disorder
+Interventions: Lithium Carbonate (DRUG); Placebo (DRUG)
+Summary: There is currently no treatment for the body symptoms of Autism Spectrum Disorders (ASD). However, basic research suggests that some forms of ASD may be alleviated, even in the adult stage. The genes involved in ASDs particularly impact synaptic homeostasis. Specific clinical trials in patients with synaptic mutations need to be carried out. In this spirit, patients with deleterious mutations in SHANK3 represent a paradigm. The induced pluripotent stem cells (iPSc) carrying SHANK3 mutations and derived in neurons, can be used for high-throughput screening of pharmacological substances and allow the identification of compounds that can restore the expression level of SHANK3. The objective of this proposed project is to test one of the compounds identified by research on these iPSc as a novel treatment for social communication deficit in patients with deleterious mutations in SHANK3. Its effect on the symptoms of the social deficit could represent a new perspective for other forms of idiopathic autism.
+Eligibility: Inclusion Criteria:
+
+* Children under 18 years of age
+* Minimum weight of 20 kg for children aged 7 years old
+* Patient with haplo deficiency SHANK3, i.e. carrier of a SHANK3 deletion (CNV) or a de novo truncating mutation in SHANK3 (Phelan McDermid syndrome);
+* Total Social Responsiveness Scale - T score (SRS) of at least 66
+* Patients of childbearing age who are sexually active must agree to use a highly effective form of contraception (estrogen-progestin or progestin-only contraception, or an intrauterine device, or contraceptive abstinence).
+* Affiliation to a social security system
+* Signature of the consent by the holders of parental authority
+* Non-participation in another clinical trial
+* Diagnosis of Autism Spectrum Disorders (DSM-5 criteria) confirmed by Autism Diagnostic Interview-Revised (ADI-R) and Autism Diagnostic Observation Scale (ADOS-II)
+* IQ Assessment
+* Beta-HCG negative
+
+Exclusion Criteria:
+
+* Hepatic or renal insufficiency (disturbed liver function tests, abnormal creatinine clearance);
+* Unbalanced thyroid or diabetic pathology;
+* Cardiac pathology: Brugada syndrome or family history of Brugada syndrome, heart failure;
+* Addison's disease;
+* Unstable epileptic disease.
+* Patient with concomitant diseases judged for which the experimental treatment with Li + could compromise tolerance ;
+* History of allergy to Li+;
+* Allergy to lactose, lactose being the sole diluent and excipient of the prepared form.
+* Initiation of co-occurring cognitive-behavioural therapy that is specifically focused on autistic symptoms within 6 weeks prior to inclusion;
+* Any introduction of psychotropic drugs within 2 weeks prior to trial, including neuroleptics, monoamine oxidase inhibitors, stimulants, antidepressants. For neuroleptic drugs and Fluoxetine, this delay should be 4 weeks prior to the trial;
+* Serious behavioural problems or refusal to take medication that does not allow for compliance;
+* Inability to perform blood tests to check lithemia when the patient is included.

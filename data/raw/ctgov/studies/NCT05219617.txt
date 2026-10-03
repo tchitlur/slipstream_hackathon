@@ -1,0 +1,23 @@
+Title: Investigate Efficacy and Safety of Carisbamate as Adjunctive Treatment for Seizures Associated With LGS in Children and Adults
+Official title: A Randomized, Double-Blind, Placebo-Controlled Study to Investigate the Efficacy and Safety of Carisbamate (YKP509) as Adjunctive Treatment for Seizures Associated With Lennox-Gastaut Syndrome in Children and Adults, With Optional Open-Label Extension
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Seizures; Lennox Gastaut Syndrome
+Interventions: Carisbamate (DRUG)
+Summary: The primary objective is to evaluate the efficacy of carisbamate (YKP509) as adjunctive treatment in reducing the number of drop seizures (tonic, atonic, and tonic-clonic) compared with placebo in pediatric and adult subjects (age 4-55 years) diagnosed with Lennox Gastaut Syndrome (LGS).
+Eligibility: Inclusion Criteria:
+
+1. Subject must have a documented history of Lennox-Gastaut syndrome by:
+
+   1. Evidence of more than one type of seizure, of which at least one should be an atonic or tonic seizure
+   2. History of an electroencephalogram (EEG) reporting diagnostic criteria for LGS (abnormal background activity accompanied by slow, spike and wave pattern \<3.0 Hz)
+   3. History of developmental delay
+2. Male or female subjects
+3. Subjects must be age 4-55 years at the time of consent/assent
+4. Must have been \<11 years old at the onset of LGS
+5. Subjects must have experienced at least 2 drop seizures with potential to fall (tonic, atonic, tonic-clonic) during the 4-week Baseline period preceding randomization (minimum of 4 drop seizures in the first two weeks and 4 in the last two weeks). Drop seizures are defined as a seizure involving the entire body, trunk, or head that led or could have led to a fall, injury, slumping in a chair, or hitting the subject's head on a surface. All drop seizure types must be countable (either as isolated seizures or as countable isolated seizures in a cluster).
+6. Subjects must have been receiving 1 to 4 concomitant anti-seizure medications (ASMs) at a stable dose for at least 4 weeks before Visit 1
+7. If not taking Epidiolex, subjects may take other approved cannabidiol or over the counter cannabidiol products. If taking cannabidiol other than Epidiolex, consult Medical Monitor to determine if it counts as a concomitant ASM.
+8. Dietary therapy and any CNS stimulator settings must be stable for 4 weeks prior to baseline and maintain stable regimen throughout the study. The dietary therapy and CNS stimulators are not counted as an ASM.
+9. Parents or caregivers must be able to keep accurate seizure diaries
+10. Subject is either not of childbearing potential, defined as premenarchal, postmenopausal for at least 1 year or surgically sterile (bilateral tubal ligation, bilateral oophorectomy, or hysterectomy), if of childbearing potential, must comply with an acceptable method of birth control during the study, for at least 4 weeks prior to study entry and for 4 weeks following completion of the study, if able.
+11. Subject and/or 

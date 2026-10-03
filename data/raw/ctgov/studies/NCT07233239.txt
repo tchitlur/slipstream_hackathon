@@ -1,0 +1,21 @@
+Title: A Study to Evaluate the Efficacy and Safety of Cannabidiol Oral Solution (CBD-OS [GWP42003-P, JZP926]) for the Treatment of Focal-Onset Seizures
+Official title: A Phase 1b, Multicenter, Open-Label, Single-arm Study to Evaluate the Efficacy and Safety of Cannabidiol Oral Solution (CBD-OS [GWP42003-P, JZP926]) in Participants Aged 12 to 75 Years for the Treatment of Focal-Onset Seizures
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Focal Seizures
+Interventions: CBD-OS (DRUG)
+Summary: Cannabidiol oral solution (CBD-OS) is approved in the US for the treatment of seizures associated with Lennox-Gastaut syndrome (LGS), Dravet syndrome (DS), or Tuberous sclerosis complex (TSC) in patients 1 year of age and older. This study will assess the efficacy and safety of CBD-OS in participants aged 12 to 75 years for the treatment of focal-onset seizures (FOS).
+Eligibility: Participants are eligible to be included in the main study only if all of the following criteria apply:
+
+1. Participant has a documented diagnosis of focal epilepsy according to the ILAE Classification of Epilepsy, 2017, characterized by focal seizure types with typical interictal/ictal EEG findings (eg, history of an EEG with focal sharp waves or slowing). Participants with a documented diagnosis of focal epilepsy and a normal EEG are eligible for inclusion.
+2. Participant is currently treated with at least 1, but no more than 4, antiseizure medications on a stable regimen.
+3. Participant is aged 12 to 75 years old, inclusive, at Screening.
+
+Participants are excluded from the study if any of the following criteria apply:
+
+1. Has a concurrent, confirmed diagnosis of non-epileptic seizures or events that can confound the assessment of the efficacy measures, in the opinion of the investigator.
+2. Has clinically significant unstable medical condition(s), other than epilepsy.
+3. History of suicidal behavior, current suicidal risk as determined from history, or presence of active suicidal ideation as indicated by a positive response to Item 4 or Item 5 on the C-SSRS or is considered at risk of suicide or self-harm based on the clinical judgement of the investigator following interview with the participant and/or caregiver.
+4. Has known or suspected hypersensitivity to cannabinoids or any of the excipients of the study intervention, such as sesame oil.
+5. Is currently treated with Epidiolex or received treatment with Epidiolex within 28 days prior to Screening (Visit 1).
+6. Is currently using or has used recreational or medicinal cannabis, cannabinoid/CBD based medications, products, or supplements (botanical or synthetic) within 28 days prior to Screening (Visit 1) and/or is unwilling to abstain for the duration of the study.
+7. Presence of only nonmotor focal aware seizures or primary generalized epilepsies.

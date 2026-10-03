@@ -1,0 +1,18 @@
+Title: A Long Term Extension Study of E2080 in Lennox-Gastaut Patients
+Official title: A Long Term Extension Study of E2080 in Lennox-Gastaut Patients
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Lennox-Gastaut Syndrome
+Interventions: Rufinamide (DRUG)
+Summary: To investigate the safety of long term administration of E2080 in the patients with Lennox-Gastaut syndrome who completed the E2080-J081-304 Study.
+Eligibility: Inclusion criteria:
+
+1. Participants who have completed the evaluation of Week 12 of the E2080-J081-304 study.
+2. Male participants with reproductive ability and female participants with child-bearing potential, or their partners, had to be able to take medically appropriate contraceptive measures.
+3. Participants who have provided a written informed consent to participate in this clinical trial until the evaluation of week 12 of the E2080-J081-304 study.
+4. Participants who had a family member or a caregiver capable of recording the reporting diary, providing participant information necessary for the study, assisting treatment compliance, and accompanying the participant on scheduled visit days during the study period.
+
+Exclusion criteria:
+
+1. Participants who were judged by the investigator that they are unfit to participate in this clinical study for safety reasons based on the information up to the evaluation of week 12 of the E2080-J081-304 Study.
+2. Participants who were judged by the investigator that they are likely to become non-compliant with administration during the clinical trial period.
+3. Participants who were judged by the investigator that they were unfit to participate in this clinical trial.

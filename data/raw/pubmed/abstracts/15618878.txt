@@ -1,0 +1,2 @@
+Epilepsy and sodium channel gene mutations: gain or loss of function?
+Mutations in voltage-gated sodium channel genes (SCN1A, SCN2A, SCN1B) have been reported to be responsible for some epilepsies. Although studying such mutations to elucidate the disease mechanisms would be indispensable for the development of effective therapies, the functional consequences of these mutations remain controversial. Here, I propose a novel hypothesis for an epileptic disease mechanism which could drive the design of further studies to understand the molecular pathology of these diseases.

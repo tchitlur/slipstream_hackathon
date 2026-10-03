@@ -1,0 +1,20 @@
+Title: Statin Therapy In Cardiac Surgery
+Official title: Statin Therapy In Cardiac Surgery
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Atrial Fibrillation; Myocardium; Injury
+Interventions: Rosuvastatin (DRUG); Placebo (DRUG)
+Summary: The purpose of STICS trial (Statin Therapy In Cardiac Surgery) is to test whether perioperative treatment with Rosuvastatin 20 mg once daily prevents post-operative atrial fibrillation and reduces perioperative irreversible myocardial damage in patients undergoing elective cardiac surgery.
+Eligibility: Inclusion Criteria:
+
+* Adult patients awaiting elective cardiac surgery who are willing and able to give informed consent for participation in the study and who are in sinus rhythm and not taking any antiarrhythmic medication, other than beta-adrenergic blocking agents, at the time of surgery.
+
+Exclusion Criteria:
+
+* History of obstructive hepato-biliary disease or other serious hepatic disease
+* Untreated hypothyroidism
+* Creatinine \> 200 umol/L
+* Personal and family history of hereditary muscle disorders
+* Known intolerance to statins or history of muscle toxicity with fibrates or statins.
+* On-going use of fibrates, niacin or of agents that are strong inhibitors of cytochrome P-450 or the P-glycoprotein within a month preceding randomization (cyclosporine, oral azole antifungals,macrolide antibiotics, protease inhibitors, nefazodone, amiodarone or ≥ 1L/day of grapefruit juice)
+* Significant mitral valve disease (moderate or severe mitral regurgitation-eg. \> grade II and/or mitral stenosis \& mitral annular calcification).
+* Patients treated with any anti-arrhythmic agent (other than beta-adrenergic receptor blockers).

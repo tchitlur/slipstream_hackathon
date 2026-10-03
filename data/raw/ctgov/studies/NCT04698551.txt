@@ -1,0 +1,18 @@
+Title: NIPD on cffDNA for Triplet Repeat Diseases
+Official title: Comparison of Two NGS Phasing Techniques of Parental Haplotypes for NIPD of Triplet Expansion Diseases
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Myotonic Dystrophy 1; Huntington Disease; Fragile X Syndrome
+Interventions: Non invasive prenatal diagnosis (GENETIC)
+Summary: The purprose of this study is to develop and validate an analytical NIPD test for triplet repeat disesases by NGS analysis from maternal blood, searching for the familial mutation in families at risk of having one of the following triplet repeat diseases: Huntington's disease, Myotonic dystrophy, Fragile X syndrome.. A comparison of two 3rd generation long fragment DNA sequencing techniques will be performed. These methods are based of the phasing techniques of parental haplotypes without the proband.
+Eligibility: Inclusion criteria:
+
+* Couple at risk (based on family history or echographic findings) for one of the following diseases: Huntington's disease, Steinert's myotonic dystrophy, fragile X
+* Written informed consent was obtained for DIACCIMEX study and mentionned "authorization for use for further studies on familial pathology. Indeed, the DNA can be used anonymized for the development of new analyzes of non-invasive prenatal diagnosis".
+* Prenatal diagnosis has been done for the pregnancy during which maternal blood has been collected
+* Couple molecular diagnosis results for one of the following diseases (Huntington's disease, Steinert's myotonic dystrophy, fragile X and spinocerebellar ataxias 1, 2 or 3 ) MUST BE AVAILABLE.
+
+Exclusion criteria:
+
+* Couple Genomic DNA are unavailable
+* Subjects at risk of transmitting the family disease, but not wishing to know their molecular status
+* Individuals under guardianship by court order

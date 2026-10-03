@@ -1,0 +1,29 @@
+Title: Neurodevelopmental Outcome of Early Dietary Lysine Restriction in Pyridoxine Dependent Epilepsy Patients
+Official title: Neurodevelopmental Outcome of Early Dietary Lysine Restriction in Pyridoxine
+Status: WITHDRAWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Pyridoxine Dependant Epilepsy
+Interventions: Lysine Restricted Diet (DIETARY_SUPPLEMENT); Pyridoxine (DRUG)
+Summary: Restricting dietary lysine intake in infants from age 3 months or less with confirmed diagnosis of pyridoxine-dependent epilepsy due to Antiquitin (ATQ) deficiency will: reduce the accumulation of neurotoxic substratesα-aminoadipicsemialdehydeandits cyclic equivalent 1-piperideine-6-carboxylate;and will improve overall neurodevelopmental outcome at 3 years of age by acting as an effective intervention into the complex pathophysiology of the condition.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of pyridoxine-dependent epilepsy based on clinical symptoms and elevated levels of plasma or urine AASA. Confirmation by at least one known disease causing mutation in the ALDH7A1 gene to be obtained within one month of enrollment.
+* Participant is male or female \<3 years of age.
+
+  * Participants in the test arm have to be less than 3 months of age when the dietary restriction was started.
+  * Participants in the control arm may be older than 3 months of age but must not be older than 3 years of age when they are enrolled into the study and must have been on pyridoxine treatment prior to age 3 months and not treated with dietary lysine restriction at any time during their life.
+* Participant is managed with a vitamin B6 dose of 15-30 mg/kg/day continuously beginning at \< 3 months age, and willing to maintain this dose for the study duration.
+* Participants must have been offered dietary lysine restriction as adjunct therapy as part of standard clinical care.
+* Parent(s) or guardian(s) is willing and able to provide written informed consent after the nature of the study has been explained, and prior to any research-related procedures.
+
+Exclusion Criteria:
+
+* Diagnosis is not confirmed: Participant does not have a mutation in the ALDH7A1 gene.
+* Participant was treated prenatally for PDE with pyridoxine (i.e. mother was on pyridoxine)
+* Timing of dietary restriction: Participant is on a lysine-restricted diet from an age \> 3months.
+* Confounding factors:
+
+  * Participant is a pre-term with a gestational age \< 32 weeks
+  * The participant has a birth weight less than the 2nd percentile or weighs less than 2nd percentile at study entrance (on age appropriate growth chart).
+  * Participant shows an intracranial malformation or abnormality unrelated to ATQ deficiency, as diagnosed on the cranial ultrasound and/or MRI brain scan
+  * Participant has any other disorder identified that can affect the cognitive function in the opinion of the coordinating principal investigators.
+* A known allergy or sensitivity to any component of the products commonly used in a lysine-restricted diet or to other products associated with lysine restric

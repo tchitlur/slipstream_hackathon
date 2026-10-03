@@ -1,0 +1,15 @@
+Title: A Multicenter, Open-label, Pilot Study of Soticlestat (TAK-935/OV935) in Participants With 15Q Duplication Syndrome (Dup 15q) or Cyclin-Dependent Kinase-Like 5 (CDKL5) Deficiency Disorder (ARCADE STUDY)
+Official title: A Multicenter, Open-label, Pilot Study of TAK-935 (OV935) in Patients With 15Q Duplication Syndrome or CDKL5 Deficiency Disorder (ARCADE Study)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: 15q Duplication Syndrome; CDKL5 Deficiency Disease
+Interventions: Soticlestat (DRUG)
+Summary: The purpose of this study is to investigate the effect of soticlestat on the frequency of motor seizures for participants with Dup15q or CDD during the Maintenance Period.
+Eligibility: Inclusion Criteria:
+
+1. Clinical diagnosis of Dup 15q or CDKL5 deficiency disorder.
+2. Currently taking 1 to 6 antiepileptic drugs (AEDs) at a stable dose.
+
+Exclusion Criteria:
+
+1. Two or more episodes of convulsive status epilepticus per 3 months requiring hospitalization and intubation.
+2. Currently receiving a study drug or participated in a clinical study involving another investigational product in the previous month.

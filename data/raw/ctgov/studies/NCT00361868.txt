@@ -1,0 +1,13 @@
+Title: Fenofibrate and Metformin Fixed Combination vs Rosiglitazone - FAME ROSI
+Official title: A Randomized, Double-Blind Trial Comparing the Efficacy and Safety of a Fixed Combination of Fenofibrate and Metformin vs Rosiglitazone in Patients With Type 2 Diabetes Mellitus and Dyslipidemia
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Dyslipidemia; Glucose Metabolism Disorder
+Interventions: fenofibrate (F) + metformin (M) hydrochloride fixed combination (DRUG); Rosiglitazone (DRUG)
+Summary: Under conditions of first-line drug treatment in antidiabetic drug naïve/drug free patients with type 2 diabetes mellitus and dyslipidemia, to show that :- the efficacy of a fixed combination (FC) of fenofibrate and metformin on glycemic control is not inferior to that of rosiglitazone and the efficacy of FC of fenofibrate and metformin on triglyceride control is superior to that of rosiglitazone.
+Eligibility: Inclusion Criteria:
+
+* Patient with Type 2 diabetes mellitus and dyslipidemia inadequately controlled with lifestyle modifications.
+
+Exclusion Criteria:
+
+* Type 1 diabetes.

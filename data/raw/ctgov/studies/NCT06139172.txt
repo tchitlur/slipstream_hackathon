@@ -1,0 +1,25 @@
+Title: Web Intervention for Parents of Youth With Genetic Syndromes (WINGS)
+Official title: Promoting Prosocial Behavior in Syndromic Intellectual and Developmental Disabilities
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Telomeric 22Q13 Monosomy Syndrome; Tuberous Sclerosis; Hamartoma Syndrome, Multiple; Fragile X Syndrome; Angelman Syndrome; Rett Syndrome; Chromosome 15Q, Partial Deletion; Creatine Deficiency, X-linked
+Interventions: Functional Behavioral Training (FBT) (BEHAVIORAL); Positive Parenting Strategies-Treatment as Usual (OTHER)
+Summary: The purpose of this study is to evaluate the effectiveness of an adapted, telehealth functional behavioral therapy (FBTsIDD) specifically focused on promoting appropriate communication and behavioral strategies in individuals with syndromic intellectual and developmental disorders.
+
+Participants will be asked to complete virtual study assessments at intake and then on a monthly basis for the duration of 3-6 months. In addition, participants will attend weekly or biweekly virtual intervention visits with a study therapist.
+Eligibility: Inclusion Criteria:
+
+* Age(s) 2-12 years old at time of enrollment
+* Existing genetic syndrome based on clinical or genetic diagnosis and confirmed by medical records
+* Documented diagnosis of global developmental delay (GDD) or intellectual disability (ID)
+* estimated ID in all ranges
+* Disruptive behavior challenges determined to be clinically appropriate for remote, parent-implemented coaching based on clinician determination of acuity of problem behaviors
+* Caregiver who is able to consent in English.
+* Parent/caregiver available for weekly intervention sessions
+* Stable psychosocial and psychiatric treatments 3 months prior to baseline visit.
+
+Exclusion Criteria:
+
+* High levels of aggression that mitigate remote or outpatient treatment as defined by clinician judgement and/or ABC Irritability scores above 20 (i.e., higher level of care needed than provided by study procedures)
+* Medical or psychiatric instability that may limit study participation
+* Meaningful change in medication or psychosocial interventions 3 months prior to baseline visit
+* Limitations in technology access that may hinder participation in remote trial (e.g., declining support provided by study participation)

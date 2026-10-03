@@ -1,0 +1,17 @@
+Title: Evaluation of Prostate-Specific Antigen (PSA) Levels in Patients With Advanced Prostate Cancer Treated With Bicalutamide
+Official title: Non-interventional Observational Study to Evaluate Change of PSA Levels in Patients With Advanced Prostate Cancer Treated With Bicalutamide in Combination With Medical or Surgical Castration
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Advanced Prostate Cancer
+Interventions: none
+Summary: Prospective, non-comparative, non-interventional, observational study to collect and analyse real life environment data on advanced prostate cancer patients receiving combination treatment of medical or surgical castration and bicalutamide according to routine medical practice in Croatia. The main aim is to evaluate change of PSA level and prescribing practices based on prostate cancer stage.
+Eligibility: Inclusion Criteria:
+
+* Patients with diagnosis of advanced prostate cancer
+* Patients who are already treated with bicalutamide for at least 4 weeks and maximum 12 weeks
+* Patients capable of signing ICF
+
+Exclusion Criteria:
+
+* Patients with hypersensitivity to bicalutamide
+* Patients on therapy with terfenadin, astemizol or cisapride
+* Participation in a clinical study during the last 30 days

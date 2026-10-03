@@ -1,0 +1,21 @@
+Title: GWPCARE2 A Study to Investigate the Efficacy and Safety of Cannabidiol (GWP42003-P) in Children and Young Adults With Dravet Syndrome
+Official title: A Randomized, Double-blind, Placebo-controlled Study to Investigate the Efficacy and Safety of Cannabidiol (GWP42003-P) in Children and Young Adults With Dravet Syndrome.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Epilepsy; Dravet Syndrome
+Interventions: GWP42003-P (DRUG); Placebo Control (DRUG)
+Summary: To investigate the potential antiepileptic effects of cannabidiol (GWP42003-P) in children and young adults with Dravet syndrome.
+Eligibility: Key Inclusion Criteria:
+
+* Participant must have been male or female, aged between 2 and 18 years (inclusive).
+* Participant must have had a documented history of Dravet syndrome that was not completely controlled by current antiepileptic drugs.
+* Participant must have been taking 1 or more antiepileptic drugs at a dose that had been stable for at least 4 weeks.
+* All medications or interventions for epilepsy (including ketogenic diet and vagus nerve stimulation) must have been stable for 4 weeks prior to screening and participant was willing to maintain a stable regimen throughout the study.
+
+Key Exclusion Criteria:
+
+* Participant had clinically significant unstable medical conditions other than epilepsy.
+* Participant had clinically relevant symptoms or a clinically significant illness in the 4 weeks prior to screening or randomization, other than epilepsy.
+* Participant was currently using or had in the past used recreational cannabis, medicinal cannabis, or synthetic cannabinoid-based medications (including Sativex®) within the 3 months prior to study entry and was unwilling to abstain for the duration for the study.
+* Participant had any known or suspected hypersensitivity to cannabinoids or any of the excipients of the investigational medicinal products.
+* There were plans for the participant to travel outside their country of residence during the study.
+* Any history of suicidal behavior or any suicidal ideation of type four or five on the Columbia-Suicide Severity Rating Scale (Children's) at screening.

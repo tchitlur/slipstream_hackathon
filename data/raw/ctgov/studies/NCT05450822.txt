@@ -1,0 +1,48 @@
+Title: Precision Medicine in the Treatment of Epilepsy
+Official title: The BrainDrugs-Epilepsy Study: A Prospective Open-label Cohort Precision Medicine Study in Epilepsy
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Epilepsy
+Interventions: Levetiracetam (DRUG); Levetiracetam Tablets (DRUG); Lamotrigine tablet (DRUG)
+Summary: Primary objectives:
+
+The purpose of this study is to identify single and composite biomarkers (from neuroimaging, electrophysiological, and non-imaging biological measures), clinical measures (from cognitive, psychometric, and behavioral test scores), and risk/protective factors (e.g., from medical history, socioeconomic status, coping, lifestyle) that can:
+
+1. Predict antiseizure medication (ASM) treatment outcome, psychiatric, cognitive, or behavioral comorbidities, and quality of life in newly diagnosed epilepsy patients (Cohort II-III).
+2. Predict a second epileptic seizure/epilepsy diagnosis and behavioral, cognitive, psychiatric dysfunction and quality of life in patients after a first epileptic seizure (Cohort I).
+Eligibility: Inclusion Criteria for healthy subjects:
+
+* No history of current or past psychiatric or other major medical conditions
+
+Exclusion Criteria for healthy subjects:
+
+* Current or previous neurological disease, severe somatic disease, or consumption of medical drugs likely to influence the test results
+* Non-fluent in Danish or pronounced visual or auditory impairments
+* Current or past learning disability
+* Pregnancy or lactation (females)
+* Participation in experiments with radioactivity (\>10 mSv) within the last year or significant occupational exposure to radioactivity
+* Contraindications for MRI (pacemaker, metal implants, etc.)
+* Severe head injury
+* Alcohol or drug abuse
+* Drug use other than tobacco and alcohol within the last 30 days
+* Hash \> 50 x lifetime
+* Drugs \> 10 x lifetime (for each substance)
+* Current psychoactive medication
+* Any current or former primary psychiatric disorder (Axis I WHO ICD-10 diagnostic classification)
+
+Inclusion Criteria for patients:
+
+* Cohort I-II: Age between 16 and 55 years
+* Cohort III: Age between 18 and 55 years
+* Cohort I: Semiology of first seizure raises a strong suspicion of epilepsy but do not fulfill International League Against Epilepsy (ILAE) diagnostic criteria
+* Cohort II-III: Diagnosed with epilepsy according to ILAE criteria
+* Cohort III: Epileptogenic lesion on MRI concordant with seizure semiology and/or EEG
+
+Exclusion criteria for patients:
+
+* Cohort I-III: Life expectancy \< 10 years
+* Cohort I-III: Known genetic syndromes, psychomotor retardation or disease associated with gross morphological brain changes such as brain tumor, major stroke or major traumatic brain injury
+* Cohort I-III: Body weight less than 40 kg
+* Cohort I-III: Reduced kidney function (i.e., glomerular filtration rate (GFR) \< 80 ml/min or 50 ml/min for patients 16-17 years old or ≥18 years old, respectively),
+* Cohort I-III: Moderate reduced liver function
+* Cohort I-III: Cardiac conduction disorders (e.g., Brugada syndrome, long QT-syndrome)
+* Cohort I-III: Medication incompatible with study aims or causing interactions with the administered levetiracetam or lamotrigine therapy (e.g., SV2A binding agents, monoamine oxidase inhibit

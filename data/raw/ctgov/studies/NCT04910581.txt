@@ -1,0 +1,28 @@
+Title: rTMS in Wilson Disease Dysarthria
+Official title: Inhibitory rTMS Applied on Laryngeal Motor Cortex in Wilson's Disease Patients With Dysarthria
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Wilson Disease
+Interventions: rTMS (PROCEDURE); Sham stimulation (PROCEDURE)
+Summary: Wilson disease is a hereditary hepatic and neurological disease associated with copper accumulation. Neurological symptoms are of extra-pyramidal, cerebellar and dystonic origin. Dysarthria is one of the debilitating symptoms of Wilson disease poorly responsive to pharmacological treatment. The most common form is a dystonic hyperkinetic Dysarthria.
+
+Pathophysiology of dystonia is still not elucidated. Motor cortex hyperexcitability has been demonstrated in various forms of dystonia. Furthermore, rTMS inhibitory applied over motor cortex has been shown to transitory reduce dystonic symptoms in various forms of dystonia.
+
+In the present study, we investigate the effect of a single 1Hz 20-minutes inhibitory rTMS session applied over the motor laryngeal cortex on dyasarthria is the main kinetic dysarthria has been shown to be associated with inhibition of laryngeal motor cortex in Parkinson disease.
+Eligibility: Inclusion Criteria:
+
+* Conseting adult patients with social insurance
+* Wilson disease with dystonic hyperkinetic dysarthria
+* Stable pharmacological therapy n the last 6 monts
+* Brain MRI in the previous 6 months, without additional brain lesion
+* Patients that did not receive botulinium toxin in the previous 4 months
+
+Exclusion Criteria:
+
+* Incapacitated adult
+* Previous mdedical history of epilepsia
+* Pregnancy or breastfeeding
+* Brain lesion outside basal ganglia on brain MRI
+* Patient consider by the investigator not able to sustain an 30 minutes rTMS session without moving
+* Vocal chord lesion
+* Previous history of laryngeal surgery
+* rTMS contra indication

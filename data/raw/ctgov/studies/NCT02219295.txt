@@ -1,0 +1,16 @@
+Title: SEGATROM: Sensory and Gastrointestinal Impact of Taste Receptor Variants on Human Metabolism and Nutrition
+Official title: Sensory and Gastrointestinal Impact of Taste Receptor Variants on Human Metabolism and Nutrition
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Disorder of Glucose Regulation
+Interventions: sweet block (DIETARY_SUPPLEMENT); bitter block (DIETARY_SUPPLEMENT); umami-block (DIETARY_SUPPLEMENT); gastroscopy (OTHER)
+Summary: We investigate the impact of taste receptors (sweet, bitter and umami) on human metabolism. There ist growing evidence, that components of the taste signalling system, including the taste receptor proteins , have important functions in the regulation of metabolic parameters in non-gustatory tissues.
+Eligibility: Inclusion Criteria:
+
+* Healthy persons
+
+Exclusion Criteria:
+
+* Tumor in history
+* Pregnancy
+* Severe illness in history
+* Bodymass index below 18

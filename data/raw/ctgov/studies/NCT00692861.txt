@@ -1,0 +1,41 @@
+Title: Autoimmunity in Neurologic Complications of Celiac Disease
+Official title: The Role of Autoimmunity in Neurologic Complications of Celiac Disease
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Ataxia
+Interventions: none
+Summary: This study, done in collaboration with Cornell University in New York, will explore the potential role of the body s immune response to gluten in ataxia. Celiac disease is an autoimmune disorder that is triggered by the ingestion of wheat gluten and related proteins in genetically susceptible individuals. Some people with celiac disease also develop ataxia, which is a loss of muscle coordination, leading to imbalance. The cause of the associated ataxia is not well understood, but it is suspected to be related to the immune response towards gluten in these patients. Preliminary results indicate that antibodies in people with celiac disease can react with brain proteins, which might have a role in the associated neurologic deficits. The aim of this study is to characterize the immune response in the ataxia that is associated with celiac disease.
+
+People 18 years of age and older with 1) ataxia and no celiac disease, 2) ataxia plus celiac disease and 3) matched healthy control subjects will be enrolled at the NIH. People with celiac disease only will be enrolled at Cornell University.
+
+All participants have a blood sample drawn for various tests of immune function as well as genetic t
+Eligibility: * INCLUSION CRITERIA:
+
+We plan to evaluate serum and blood from patients with gluten sensitivity (including both biopsy-proven CD, and biopsy-negative cases with high anti-gliadin antibody titer) accompanied by cerebellar ataxia. Serum samples will be acquired prior to initiation of a gluten-free diet. Therefore, several inclusion criteria exist based on the study group:
+
+INCLUSION CRITERIA FOR PATIENTS WITH CD PLUS CEREBELLAR ATAXIA:
+
+* The patient meets criteria for CD based on the modified ESPGAN criteria
+* The patient has ataxia with or without neuropathy based on clinical evaluation
+* The patient is free from other neurological and psychiatric deficits
+* All other known causes for ataxia have been ruled out through routine clinical evaluations
+* The patient is at least 18 years old and is willing to participate in the protocol
+* The patient is not taking medications that are commonly known to have immune modulating effects.
+* The patient is not on a gluten free diet
+
+INCLUSION CRITERIA FOR PATIENTS WITH HEREDITARY CEREBELLAR ATAXIA WITHOUT CD:
+
+* The patient tested negative for serologic markers of CD (i.e. antigliadin, antireticulin, and antiendomysial antibody testing as performed under protocol 93-N-0202)
+* The patient has ataxia on routine clinical examination and no other neurological or psychiatric problems
+* The patient has a known autosomal dominant ataxia (i.e., SCA, DRPLA, Friedreich s ataxia, and etc).
+
+INCLUSION CRITERIA FOR MATCHED-CONTROLS:
+
+* They should not have CD and or ataxia based on clinical evaluation and history
+* Serologic testing for antigliadin, antireticulin, and antiendomysial antibodies should reveal negative results
+* They should be race and age-matched with patients with CD and the ataxia group.
+* They should have no neurological or psychiatric conditions based on clinical evaluation and history
+* They should not have any rheumatological or autoimmune conditions in them or in their first degree relatives.
+* They should be at least 18 years of age and be able to provide consent for participation
+* They should not be on any immune modulating medications.
+
+Final diagnosis of CD will strictly follow the modified criteria of the Eu

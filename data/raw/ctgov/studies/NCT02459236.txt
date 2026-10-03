@@ -1,0 +1,24 @@
+Title: A Study of Intermittent Doses of CERC-301 in MDD
+Official title: A Randomized, Double-Blind, Placebo-Controlled Study of Intermittent Doses of CERC-301 in the Treatment of Subjects With Severe Depression Despite Antidepressant Treatment
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Major Depressive Disorder
+Interventions: CERC-301 (DRUG); Placebo (DRUG)
+Summary: There is a significant unmet medical need for rapidly acting treatment of subjects with severe major depressive disorder (MDD) who have not adequately responded to antidepressant therapy. Alternative therapies require weeks to achieve full efficacy, may have significant side effects, and still fail in a high percentage of subjects. Rapid reduction of severe depression by pharmacological therapy is important to reduce the need for hospitalization and risk of self-harm and mortality. CERC-301, a highly selective, orally bioavailable, N-methyl-D-aspartate (NMDA) receptor subunit 2B (NR2B), also referred to as Glutamate NMDA receptor subunit epsilon-2 (GluN2B) antagonist, would be a therapeutic breakthrough if it provides rapid onset of antidepressant effects and an effect size similar to that seen with experimental intravenous NMDA modulators.
+Eligibility: Inclusion Criteria:
+
+1. Diagnosis of MDD recurrent without psychotic features according to DSM-IV-TR criteria with diagnosis confirmed using the Structured Clinical Interview for DSM-IV Axis I Disorders Clinical Trials Version (SCID-CT).
+2. Lifetime history of ≥2 major depressive episodes, for which at least one required treatment with SSRI or SNRI antidepressants.
+3. History during the current major depressive episode of failure to achieve a satisfactory response (e.g., less than 50% improvement of depression symptoms) to ≤3 treatment courses of a therapeutic dose of an antidepressant therapy of at least 8 weeks duration during the current episode, according to the Massachusetts General Hospital Antidepressant Treatment Response Questionnaire.
+
+Exclusion Criteria:
+
+1. Duration of current depression episode ≥2 years or diagnosis of Persistent Depressive Disorder (DSM-V) or Dysthymic Disorder (DSM-IV)
+2. Use of other NMDA-receptor modulators (e.g., dextromethorphan, ketamine, amantadine, memantine) within 30 days of screening and throughout the study.
+3. History of use of an NMDA-receptor modulator for the treatment of MDD.
+4. Use of bupropion, tricyclic antidepressants, antipsychotics, stimulants, or lithium within 8 weeks prior to screening
+5. Initiation of psychotherapy or a change in intensity of psychotherapy or other non-drug therapies (e.g., hypnosis, acupuncture) within 8 weeks prior to screening.
+6. Electroconvulsive therapy, transcranial magnetic stimulation, or vagal nerve stimulation during the current depressive episode.
+7. Excessive alcohol use, which is defined by the Centers for Disease Control as \>1 drink per day for women and \>2 drinks per day for men.
+8. Current diagnosis of a Substance Use (including alcohol) Disorder (Abuse or Dependence, as defined by DSM-IV/V), with the exception of nicotine dependence, at screening or within 6 months prior to screening.
+9. Active, comorbid disease that might limit the ability of the subject to participate in the study as determined by the Investigator (i.e., poorly controlled diabetes mellitus, congestive heart failure, etc.).
+10. Current neurologic or neuropsychiatric disorder which could interfere with

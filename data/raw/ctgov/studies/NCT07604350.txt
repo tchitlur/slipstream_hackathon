@@ -1,0 +1,43 @@
+Title: Edaravone Dexborneol for Post-Stroke Epilepsy
+Official title: A Randomized, Double-blind, Placebo-controlled, Multicenter Clinical Study of Edaravone Dexborneol Sublingual Tablets for the Prevention of Post-Stroke Epilepsy
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Post-stroke Epilepsy; Post-stroke Seizure
+Interventions: Treatment of edaravone dexborneol sublingual tablets containin edaravone 30 mg plus borneol 6 mg, twice daily (with an interval of ≥6 hours between doses) for three months. (DRUG); Placebo (DRUG)
+Summary: This is a prospective, randomized, double-blind, placebo-controlled, multicenter clinical trial designed to evaluate the efficacy and safety of Edaravone Dexborneol sublingual tablets in preventing late-onset epilepsy in patients with acute ischemic stroke at high risk.
+
+Eligible participants are adults aged 18-80 years with a confirmed diagnosis of acute ischemic stroke by clinical and imaging criteria (MRI or CT), enrolled within 48 hours of stroke onset. High risk for post-stroke epilepsy is defined as a SeLECT-EEG score ≥7. Patients must have no prior history of epilepsy or other central nervous system disorders associated with seizures. Key exclusion criteria include prior seizures before enrollment, recent stroke within the past 12 months, severe renal or hepatic dysfunction, significant cardiac insufficiency, drug hypersensitivity, pregnancy or lactation, and other conditions deemed unsuitable by investigators.
+
+A total of approximately 160 participants will be randomized in a 1:1 ratio to receive either Edaravone Dexborneol sublingual tablets or matching placebo.
+
+The primary endpoint is a composite outcome assessed within 2 years, defined as the occurrence of either: (1) d
+Eligibility: Inclusion criteria: 1. Adults aged 18 to 80 years, of either sex.
+
+2\. Diagnosis of acute ischemic stroke confirmed by clinical presentation and neuroimaging (MRI or CT).
+
+3\. Time from stroke onset to screening/randomization ≤48 hours.
+
+4\. High risk of post-stroke epilepsy, defined as a SeLECT-EEG score ≥7, including: stroke severity (Se, 0-2 points), large-artery atherosclerosis etiology (L, 0-1 point), cortical involvement (C, 0-2 points), middle cerebral artery territory infarction (T, 0-1 point), and EEG findings (EEG, 0-2 points).
+
+5\. No prior history of epilepsy before the index stroke, and no history of other central nervous system disorders (e.g., traumatic brain injury, brain tumor) associated with seizures.
+
+6\. Conscious at enrollment or with recovered consciousness after treatment, and able to cooperate with sublingual medication administration and follow-up assessments.
+
+7\. Provision of written informed consent by the patient or a legally authorized representative.
+
+Exclusion criteria: 1. History of epilepsy or occurrence of any seizure prior to screening.
+
+2\. History of ischemic or hemorrhagic stroke within 12 months prior to the index stroke.
+
+3\. Large cerebral infarction with severe intracranial hypertension on imaging after stroke, with limited life expectancy or inability to complete follow-up.
+
+4\. Severe renal impairment (significantly reduced eGFR according to contraindications of edaravone dexborneol) or a history of edaravone-related renal injury.
+
+5\. Severe hepatic dysfunction (ALT or AST \>3 times the upper limit of normal) or severe heart failure (New York Heart Association class III-IV) that may preclude tolerance to the study drug.
+
+6\. Known hypersensitivity to edaravone or borneol, or a history of severe drug allergy.
+
+7\. Pregnant or breastfeeding women; women of childbearing potential unwilling to use effective contraception.
+
+8\. Presence of other serious diseases (e.g., advanced malignancy) that may affect survival or study compliance.
+
+9\. Any other condition that, in the investigator's judgment, makes the patient unsuitable for participation in the study.

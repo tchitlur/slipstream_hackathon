@@ -1,0 +1,20 @@
+Title: Everolimus for Treatment of Disfiguring Cutaneous Lesions in Neurofibromatosis1 CRAD001CUS232T
+Official title: Everolimus for Treatment of Disfiguring Cutaneous Lesions in Neurofibromatosis1- CRAD001CUS232T
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Neurofibromatosis 1
+Interventions: Everolimus (DRUG)
+Summary: This trial is evaluating the use of oral Everolimus to determine if there is a reduction in the size of the disfiguring cutaneous lesions in patients with Neurofibromatosis 1 over a 6 month period. The evaluation will be done by 3D photography measuring volume with the LIFEVIZ Micro system.
+Eligibility: Inclusion Criteria:
+
+1. Patient is at least 18 years of age at the time of enrollment
+2. Informed consent
+3. Compliance with trial requirements (photography, lab draws, medication schedules, and study visits)
+4. Diagnosis of NF 1 and has cutaneous neurofibromas that are located in in a region amenable to photography
+5. Females of child bearing potential must not be pregnant as confirmed by a negative pregnancy test (blood beta-hCG level) prior to study enrollment and must agree to use appropriate contraceptive methods for the duration of the trial
+6. Patient must have adequate liver function as shown by, total bilirubin \</= 2.0 mg/dL, ALT and AST \</= 2.5 X ULN, INR \</= 2
+
+8\. Patient must have adequate renal function, serum creatinine \</= 1.5 X ULN 9. Patient must have adequate lipid profile, fasting serum cholesterol \</= 300 mg/dL OR \</= 7.75 mmol/L, fasting triglycerides \</= X ULN
+
+Exclusion Criteria:
+
+1\. Patients currently receiving anticancer therapies or who have received anticancer therapies within 4 weeks of the start of Everolimus (including chemotherapy, radiation therapy, antibody based therapy, etc.) 2. Known intolerance or hypersensitivity to Everolimus or other rapamycin analogs (e.g. sirolimus, temsirolimus) 3. Known impairment of gastrointestinal (GI) function or GI disease that may significantly alter the absorption of oral Everolimus 4. Uncontrolled diabetes mellitus despite adequate therapy 5. Patients who have any severe and /or uncontrolled medical conditions such as: unstable angina pectoris, symptomatic congestive heart failure, myocardial infarction \</= prior to start of Everolimus, serious uncontrolled cardiac arrhythmia, or any other clinically significant cardiac disease, symptomatic congestive heart failure of New York Hear Association Class III or IV, known active (acute or chronic) or uncontrolled severe infection, liver disease such as cirrhosis, decompensated liver disease, or chronic hepatitis, known severely impaired lung function (spirometry and DLCO 50% or less of normal and O2 saturation 88% or less at rest on room air), active, bleeding diathesis, chronic treatment with corticosteroids, or other immunosuppressive age

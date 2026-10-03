@@ -1,0 +1,19 @@
+Title: A Study of TAK-981 Given With Pembrolizumab in Participants With Select Advanced or Metastatic Solid Tumors
+Official title: A Phase 1b/2 Study of TAK-981 Plus Pembrolizumab to Evaluate the Safety, Tolerability, and Antitumor Activity of the Combination in Patients With Select Advanced or Metastatic Solid Tumors
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Advanced or Metastatic Solid Tumors
+Interventions: TAK-981 (DRUG); Pembrolizumab (DRUG)
+Summary: TAK-981 is being tested in combination with pembrolizumab to treat participants who have select advanced or metastatic solid tumors.
+
+The study aims are to evaluate the safety, tolerability, and preliminary efficacy of TAK-981 in combination with pembrolizumab.
+
+Participants will be on this combination treatment for 21-day cycles. They will continue with this treatment for up to 24 months or until participants meet any discontinuation criteria.
+Eligibility: Inclusion Criteria:
+
+1. Has a histologically or cytologically documented, advanced (metastatic and/or unresectable) cancer as listed below that is incurable: Note: Prior neoadjuvant or adjuvant therapy included in initial treatment may not be considered first- or later-line standard of care treatment unless such treatments were completed less than 12 months prior to the current tumor recurrence.
+
+   A. Non-squamous NSCLC for which prior standard first-line treatment containing an anti-programmed cell death protein 1/programmed cell death protein 1 ligand (PD-1/PD-L1) checkpoint inhibitor (CPI) alone or in combination has failed and that has progressed on no more than 1 prior systemic therapy. In Phase 2, participants with nonsquamous NSCLC must have not received more than 1 prior systemic therapy and must not have presented with disease progression during the first 6 months of treatment with first-line CPI/anti-PD-(1/L1)-containing therapy.
+
+   Note: In Phase 1, participants with nonsquamous NSCLC and known driver mutations/genomic aberrations (e.g., epidermal growth factor receptor (EGFR), B-Raf proto-oncogene mutation V600E \[BRAF V600E\], and ROS proto-oncogene 1 \[ROS1\] sensitizing mutations, neurotrophic receptor tyrosine kinase \[NRTK\] gene fusions, and anaplastic lymphoma kinase \[ALK\] rearrangements) must have also shown progressive disease after treatment with a commercially available targeted therapy. In Phase 2, participants with driver mutations are not eligible.
+
+   B. CPI-naive cervical cancer (squamous cell carcinoma, adenosquamous carcinoma or adenocarcinoma of the cervix) participants for whom prior standard first-line treatment has failed and who have received no more than 1 prior systemic line of therapy for recurrent or Stage IVB cervical cancer. Note: The following cervical tumors are not eligible: minimal deviation/adenoma malignum, gastric-type adenocarcinoma, clear-cell carcinoma, and mesonephric carcinoma. Histologic confirmation of the original primary tumor is required via pathology report. Note: First-line treatment must have consisted of platinum-containing doublet. Chemotherapy administered concurrently with primary radiation (e.

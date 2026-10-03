@@ -1,0 +1,29 @@
+Title: Biomarkers of Neurodegeneration, Synaptic Plasticity and Neuroinflammation in Dravet Syndrome
+Official title: Biomarkers of Neurodegeneration, Synaptic Plasticity and Neuroinflammation in Dravet Syndrome
+Status: NOT_YET_RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Dravet Syndrome (DS)
+Interventions: none
+Summary: Dravet syndrome (DS) is a developmental and epileptic encephalopathy, usually caused by de novo pathogenic SCN1A variants, characterized by early-onset prolonged febrile seizures, subsequent drug-resistant polymorphic epilepsy, developmental impairment, and, in some patients, progressive motor, cognitive and behavioral decline. Despite the expanding therapeutic landscape, objective biomarkers for disease stratification, monitoring and treatment response are lacking. Blood-based markers of neurodegeneration, synaptic plasticity and neuroinflammation are promising candidates because they are minimally invasive and may capture biological processes involved in disease progression.
+
+TEMBO-DS is a prospective multicenter observational pilot study enrolling 60 individuals with DS and 30 age- and sex-matched healthy controls. DS participants will carry pathogenic or likely pathogenic SCN1A variants and fulfill ILAE clinical criteria, with no age limits. Individuals with epileptic spasms, SCN1A gain-of-function encephalopathy, structural causes of epilepsy, or systemic, oncological, autoimmune or neurodegenerative conditions potentially affecting biomarker levels will be excluded.
+
+At basel
+Eligibility: Inclusion Criteria:
+
+Subjects with Dravet Syndrome (DS):
+
+* Subjects carrying SCN1A gene variants classified as pathogenic or likely pathogenic (classes IV and V), in association with the clinical criteria defined by the ILAE (Zuberi, 2022), including: disease onset between 1 and 20 months of life, recurrent febrile and afebrile hemiclonic seizures, as well as focal seizures evolving to bilateral tonic-clonic seizures and/or generalized tonic-clonic seizures, will be included in the study.
+* No age limits are planned for recruitment. In order to ensure adequate representation of the different age groups, at least one third of enrolled subjects will be younger than 10 years and at least one third older than 18 years.
+* Informed consent signed by the parent/guardian or by the patient themself if an adult. For adult patients with intellectual disability such as to impair the capacity to consent to participation, informed consent will be obtained from the guardian/legal representative.
+* Informed assent signed by the minor.
+
+Healthy controls (HC):
+
+* Subjects without neurological disorders for whom a blood sample is planned for screening or for clinical questions not conflicting with the exclusion criteria, matched for age and sex to the DS group (±2 years).
+* Informed consent signed by the parent/guardian or by the patient themself if an adult.
+* Informed assent signed by the minor.
+
+Exclusion Criteria:
+
+* Subjects with a history of epileptic spasms, early-onset epileptic encephalopathy associated with gain-of-function SCN1A variants, as well as subjects with brain MRI findings indicative of a focal cause of epilepsy.
+* Patients affected by systemic diseases, including autoimmune or oncological conditions, and by neurodegenerative diseases potentially able to interfere with the levels of the biomarkers under study.

@@ -1,0 +1,18 @@
+Title: Long-term Extension of GTX-102 in Angelman Syndrome
+Official title: A Long-term Extension Trial Investigating the Safety and Efficacy of GTX-102 in Patients With Angelman Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Angelman Syndrome
+Interventions: GTX-102 (DRUG)
+Summary: The primary objective of the study is to evaluate the long-term safety profile of GTX-102 in participants with Angelman Syndrome (AS)
+Eligibility: Inclusion Criteria:
+
+* Signed informed consent from parent(s) or legal guardian(s).
+* Completed a final study visit in a prior clinical trial with GTX-102. If the subject has an ongoing adverse event, medical monitor approval is required to rollover. The Screening visit must occur within 6 months of the last visit in the prior GTX-102 trial.
+* From the time of informed consent through the end of the study and for at least 6 months after the final dose of GTX-102, females of childbearing potential who are sexually active must use highly effective contraception or abstinence. Males are able to participate if they agree to remain abstinent (refrain from heterosexual intercourse) or use acceptable contraceptive methods during the study and for at least 3 months after the final dose of GTX-102.
+
+Exclusion Criteria:
+
+* Discontinued from study or withdrew from study treatment in a prior GTX-102 trial.
+* History or evidence of any other medical, neurological, or psychological condition that would expose the subject to an undue risk of a significant AE or interfere with study assessments during the course of the trial as determined by the clinical judgment of the Investigator.
+* Known hypersensitivity to GTX-102 or its excipients that, in the judgment of the Investigator, places the subject at increased risk for adverse effects.
+* Pregnant or breastfeeding or planning to become pregnant (self or partner) at any time during the study

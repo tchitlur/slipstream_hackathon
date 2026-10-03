@@ -1,0 +1,30 @@
+Title: Statin Therapy in Asymptomatic Aortic Stenosis
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Aortic Valve Stenosis
+Interventions: fluvastatin (DRUG)
+Summary: There is evidence that the degenerative changes leading to aortic stenosis are caused by a chronic inflammatory process. Furthermore the development of aortic stenosis is partially dependent on typical cardiovascular risk factors. An inflammatory process as well as those risk factors are amenable for medical therapy. As such the use of statins (HMG CoA reductase inhibitors) would be an appealing concept to reduce both those risks for development of aortic stenosis. Aim of this study is to evaluate the usefulness of statin therapy on the progression of aortic stenosis.
+Eligibility: Inclusion Criteria:
+
+1. Age ≥ 21 years
+2. Mild to moderate aortic stenosis
+3. No symptoms caused by aortic stenosis
+4. Written informed consent to participate in the study
+5. Aortic valve leaflet thickening with reduced systolic opening
+6. Reduced aortic valve area \> 0,8 cm2 and \< 1,5 cm2
+7. Maximum aortic jet velocity at rest \> 2,5 m/s
+
+Exclusion Criteria:
+
+1. Symptoms caused by aortic stenosis
+2. Aortic valve area \< 0,7 cm2
+3. Severe aortic regurgitation
+4. Reduced left ventricular ejection fraction (\< 50%)
+5. Any valve disease with indication for surgery
+6. Coronary artery disease
+7. Therapy refractory arterial hypertension
+8. Comorbid noncardiac diseases or other reasons which make a regular follow-up impossible
+9. Other indication for treatment with statins
+10. Women of childbearing potential not using the contraception method(s) specified in this study (specify), as well as women who are breastfeeding
+11. Known sensitivity to study drug(s) or class of study drug(s)
+12. Patients with severe medical condition(s) that in the view of the investigator prohibits participation in the study (specify as required)
+13. Use of any other investigational agent in the last 30 days

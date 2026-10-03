@@ -1,0 +1,18 @@
+Title: Obi Medical Robot: Evaluating Effectiveness Related to Usability
+Official title: Obi Medical Robot: Evaluating Effectiveness Related to Usability in Providers, Caregivers & Patients
+Status: ACTIVE_NOT_RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Upper Extremity Impairments; Cerebral Palsy (CP); ALS - Amyotrophic Lateral Sclerosis; Rett Syndrome
+Interventions: One-week trial of Obi Medical device, which provides robotic assistance with feeding to persons with upper extremity impairments who are unable to self-feed in the traditional manner using utensils (DEVICE)
+Summary: This mixed-methods usability study evaluates the effectiveness of the Obi Gen 3 robotic feeding device in meeting user needs among providers, caregivers, and patients. Participants will complete a one-week trial using Obi in home, school, or community settings, followed by feedback surveys and optional interviews. The study seeks to validate that the device design meets usability requirements prior to broader deployment.
+Eligibility: Inclusion Criteria:
+
+* Providers with relevant expertise to recommend and evaluate patients' ability to use Obi
+* Caregivers directly assisting users with Obi
+* Adults or children (≥5 years) needing assistive feeding technology to self-feed
+
+Exclusion Criteria:
+
+* Inability to provide informed consent/assent
+* Cognitive impairments that may prevent the ability to understand or respond to the survey questions
+* Non-English speakers (English-only materials)
+* Residents of California who are new Obi users

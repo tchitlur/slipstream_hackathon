@@ -1,0 +1,31 @@
+Title: The Effect of Sodium on Erythrocyte Salt Sensitivity, Syndecan-1 and Heparin Sulfate in Healthy Subjects.
+Official title: The Effect of Sodium on Erythrocyte Salt Sensitivity, Syndecan-1 and Heparin Sulfate in Healthy Subjects: A Randomized, Double-Blinded, Placebo-Controlled, Cross-Over Study
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Sodium; Renal Function; Blood Pressure
+Interventions: Sodium Chloride (DIETARY_SUPPLEMENT)
+Summary: The study was a double-blinded, randomized, placebo-controlled cross-over study. 27 healthy subjects received a four days standardized, sodium reduced diet (100 mmol sodium) and treatment with sodium chloride (200 mmol sodium) or placebo in a randomized order. After the treatment the subjects went to an examination day. With 1 L isotonic sodium chlorid intravenous in 25 minutes, the subjects were further sodium and volume loaded. Change in salt blood test (SaBT), syndecan-1(syn-1) and heparan sulfate (HS), brachial and central blood pressure (BP), pulse wave velocity (PWV) and augmentation index (AIx) were measured. Baseline blood samples were taken before the treatment periods
+Eligibility: Inclusion Criteria:
+
+* Both gender
+* Age 18-50 years,
+* BMI 18.5-30.0 kg/m2,
+* Signed concent.
+* Fertile women with safe contraception during the whole examination period.
+
+Exclusion Criteria:
+
+* Alcohol consumption \> 7 drinks per week for women and, \> 14 drinks per week for men.
+* Smoking,
+* Substance abuse
+* Current use of medicine except contraception,
+* Office BP \> 140/90
+* History or signs of clinically relevant kidney, heart, liver, lung, neurological, or endocrine diseases, neoplastic disorders,
+* Pregnancy or lactation
+* Blood donation within 1 month of the first investigation,
+* Clinically relevant abnormal blood/urine sample or electrocardiography.
+
+Withdrawal criteria:
+
+* Development of exclusion criteria
+* Suspicion of poor compliance to study medication
+* Withdrawal of signed concent.

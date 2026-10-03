@@ -1,0 +1,43 @@
+Title: A Research Study to See How Well the New Weekly Medicine IcoSema, Which is a Combination of Insulin Icodec and Semaglutide, Controls Blood Sugar Level in People With Type 2 Diabetes Compared to Weekly Insulin Icodec
+Official title: A 52 Week Study Comparing the Efficacy and Safety of Once Weekly IcoSema and Once Weekly Insulin Icodec, Both Treatment Arms With or Without Oral Anti Diabetic Drugs, in Participants With Type 2 Diabetes Inadequately Controlled With Daily Basal Insulin.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Diabetes Mellitus, Type 2
+Interventions: IcoSema (DRUG); Insulin icodec (DRUG)
+Summary: This study will compare the new medicine IcoSema, which is a combination of insulin icodec and semaglutide, taken once a week, to insulin icodec taken once a week in people with type 2 diabetes.
+
+The study will look at how well IcoSema controls blood sugar level in people with type 2 diabetes compared to insulin icodec.
+
+Participants will either get IcoSema or insulin icodec. Which treatment participants get is decided by chance. IcoSema and insulin icodec are both new medicines that doctors cannot prescribe.
+
+Participants will get IcoSema or insulin icodec, which participants must inject once a week with a pen, which has a small needle, in a skin fold in the thigh, upper arm, or stomach.
+
+The study will last for about 1 year and 1 month. Participants will have 21 clinic visits, 31 phone/video calls with the study doctor, and 4 contacts with the site that can either be clinic visits or phone/video calls At 11 clinic visits participants will have blood samples taken. At 7 clinic visits participants cannot eat or drink (except for water) for 8 hours before the visit.
+
+Women cannot take part if pregnant, breast-feeding or plan to get pregnant during the study period.
+
+Not applicable f
+Eligibility: Key inclusion criteria
+
+1. Male or female and age above or equal to 18 years at the time of signing informed consent.
+2. Diagnosed with type 2 diabetes mellitus 180 days or more before screening.
+3. HbA1c of 7.0 10.0% (53.0 85.8 mmol/mol) (both inclusive) as assessed by central laboratory on the day of screening.
+4. Treated with once daily or twice daily basal insulin (neutral protamine hagedorn insulin, insulin degludec, insulin detemir, insulin glargine 100 units/mL, or insulin glargine 300 units/mL) 20- 80 units/day for 90 days or more before screening. Short term bolus insulin treatment for a maximum of 14 days before screening is allowed, as is prior insulin treatment for gestational diabetes. The treatment can be with or without any of the following anti diabetic drugs with stable doses for 90 days or more before screening:
+
+   * Metformin
+   * Sulfonylureas (a)
+   * Meglitinides (glinides) (a)
+   * DPP 4 inhibitors (a)
+   * Sodium glucose co transporter 2 inhibitors
+   * Alpha glucosidase inhibitors
+   * Thiazolidinediones
+   * Marketed oral combination products only including the products listed above.
+5. Body mass index (BMI) below or equal to 40.0 kg/m\^2. (a) Sulfonylureas, meglitinides (glinides) and DPP 4 inhibitors must be discontinued at randomisation.
+
+Key exclusion criteria
+
+1. Female who is pregnant, breast-feeding or intends to become pregnant or is of childbearing potential and not using a highly effective contraceptive method.
+2. Anticipated initiation or change in concomitant medication (for more than 14 consecutive days) known to affect weight or glucose metabolism (e.g. treatment with orlistat, thyroid hormones, or systemic corticosteroids).
+3. Treatment with any medication for the indication of diabetes or obesity other than stated in the inclusion criteria within 90 days before screening.
+4. Any episodes (as declared by the participant or in the medical records.) of diabetic ketoacidosis within 90 days before screening.
+5. Presence or history of pancreatitis (acute or chronic) within 180 days before screening.
+6. Any of the following: Myocardial infarction, stroke, hospitalization for unstable angina pectoris or transient ischaemic atta

@@ -1,0 +1,15 @@
+Title: SCN1A Horizons A Natural History Study of SCN1A-related Epilepsies in the United Kingdom
+Official title: SCN1A Horizons A Natural History Study of SCN1A-related Epilepsies in the United Kingdom
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: SCN1A; Dravet Syndrome; Epilepsy
+Interventions: none
+Summary: The aims of this prospective natural history study are to define the seizure, neuro-developmental, and behavioural characteristics of SCN1A-related epilepsies/Dravet syndrome in children and adults longitudinally over a period of three years. In addition, this study will compare missense and truncating genotypes in terms of i) rates of change of countable convulsive seizures per month and ii) neurodevelopmental outcome and trajectories.
+Eligibility: Patients meeting the following inclusion criteria will be considered eligible for this study:
+
+1. Patient and/or legally authorised representative must be willing and able to give informed consent/assent for participation in the study.
+2. Patient and parent/caregiver are willing and able (in the Investigator's opinion) to comply with all study requirements (including ability and willingness to comply with virtual visits).
+3. Participant has a confirmed pathogenic (class 5) or likely pathogenic (class 4. SCN1A variant, as demonstrated by genetic testing.
+
+Exclusion criteria:
+
+Patient has any other significant disease or disorder which, in the opinion of the Investigator, may either put the patient at risk because of participation in the study, or may affect the patient's ability to participate in the study.

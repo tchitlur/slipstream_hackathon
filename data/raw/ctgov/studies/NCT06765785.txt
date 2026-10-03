@@ -1,0 +1,37 @@
+Title: Cardiovascular Screening in Asymptomatic South Asians
+Official title: Cardiovascular Screening in Asymptomatic South Asians - a Pilot Randomized Comparison of Q-risk 3 Score Versus Computed Tomography Coronary Angiography (CTCA)
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Cardiovascular Diseases; Asymptomatic Condition; South Asian
+Interventions: CTCA (DIAGNOSTIC_TEST)
+Summary: Cardiovascular disease (CVD) is the leading cause of morbidity, mortality and healthcare costs in the United Kingdom. Ethnic minorities like South Asians (SA) have a 3-5 times higher incidence of CVD as predicted by various risk scores despite similar or fewer traditional cardiovascular risk factors.
+
+Computed Tomography Coronary Angiography (CTCA) is able to outline the coronary anatomy determining the site, severity and type of atherosclerotic plaque location in the heart arteries. The National Institute for Health and Care Excellence (NICE) guidelines recommends CTCA as the first line investigation for stable chest pain considered to be coming from the heart (angina).
+
+However there is no pathway for the patients who are asymptomatic but at high risk of CVD, such as the SA cohort. Current practice involves using risk scores to guide management of asymptomatic adults. One recommended and commonly used score is the Q-risk score (the QRISK ® 3-2018 risk calculatorhttps://qrisk.org \> three). This score incorporates ethnicity amongst other risk factors and patients with a risk ≥10% of having a heart attack or stroke in the next 10 years are offered primary prevention treatment with 
+Eligibility: Inclusion Criteria:
+
+* Asymptomatic South Asian patients of age
+
+  * men≥30 years ≤60 years
+  * Women \>50 years ≤60 years
+
+Plus at least one of the following risk factors:
+
+* hypertension (HTN)
+* diabetes mellitus (DM)
+* hyperlipidaemia
+* family history of premature coronary artery disease (male \<45 years, female \<55 years)
+* smoking (current or ex-smoker in the last 3 months)
+
+Exclusion Criteria:
+
+* Patients meeting any of the following criteria will be excluded
+
+  * Patients unable to give written informed consent
+  * History of previous coronary events/CABG/ coronary stenting or CTCA in the last 4 years
+  * Patients with pre-existing cardiac symptoms
+  * Patients who could or are pregnant
+  * Allergy to iodine contrast
+  * Active ongoing malignancy and treatment for the same
+  * eGFR ≤30ml/min/1.72m2
+  * Participation in any other interventional research trial

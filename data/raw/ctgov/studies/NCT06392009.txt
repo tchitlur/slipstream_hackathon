@@ -1,0 +1,25 @@
+Title: Astroscape: A Study of Radiprodil on Safety, Tolerability, Pharmacokinetics, and Effect on Seizures and Behavioral Symptoms in Patients With TSC or FCD Type II
+Official title: A Multicenter, Open-label Study to Assess the Safety, Tolerability, Pharmacokinetics, and Effect on Seizures and Behavioral Symptoms of Radiprodil in Patients With Tuberous Sclerosis Complex (TSC) or Focal Cortical Dysplasia (FCD) Type II
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Tuberous Sclerosis Complex; Focal Cortical Dysplasia
+Interventions: Radiprodil (DRUG)
+Summary: Study RAD-GRIN-201 is a phase 1B/2A trial to assess safety, tolerability, pharmacokinetics (PK), and potential efficacy of radiprodil in participants with Tuberous Sclerosis Complex (TSC) or Focal Cortical Dysplasia (FCD) type II. The study is open-label, so all participants will be treated with radiprodil. Subjects' participation in the study is expected to last up to six months in Part A and one year in Part B/long-term treatment period. The treatment period in Part B may be extended based on a favorable benefit/risk profile.
+Eligibility: Inclusion Criteria:
+
+* Failed to respond to at least 2 anti-seizure medications (ASMs) at appropriate dosages and duration
+* Disease specific criteria:
+
+  1. diagnosis of FCD Type II based on clinical symptoms and confirmed by a positive magnetic resonance imaging (MRI)
+  2. diagnosis of TSC by either clinical or genetic diagnostic criteria (Northrup, 2021) as documented in the participant's medical record - Participant on average has had at least 8 countable/witnessed primary seizures during a 4-week baseline period with at least 1 seizure occurring in at least 3 of the 4 weeks of baseline
+* All medical interventions for epilepsy / behavior (including ketogenic diet and any neurostimulation devices) should be stable for 28 days prior to screening with no more than 6 days per month use of rescue medication. Participants must remain on a stable regimen throughout the treatment period
+* Participant has had an MRI scan within 12 months of the planned date of first dose of study drug
+
+Exclusion Criteria:
+
+* Any other clinically relevant medical, neurologic, or psychiatric condition and/or behavioral disorder unrelated to TSC or FCD Type II that would preclude or jeopardize participant's safe participation or administration of study drug or the conduct of the study according to the judgement of the investigator.
+* Clinically significant laboratory or ECG abnormalities.
+* Severe hepatic dysfunction (Child-Pugh grade C).
+* History of brain surgery within 6 months of screening for epilepsy or any other reason.
+* Contraindications to radiprodil or with known hypersensitivity to the active substance or the excipients or other chemically closely related substances.
+* Receiving treatment with contraindicated concomitant drugs such as agonists or antagonists of the glutamate receptor, including but not limited to felbamate, memantine, and perampanel.
+* body weight \<10kg for whom a gastric tube is the only possibility for radiprodil dosing.

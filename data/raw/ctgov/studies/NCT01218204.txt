@@ -1,0 +1,21 @@
+Title: A Study to Investigate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Administering Multiple Oral Doses of GSK1292263 Alone and With Atorvastatin
+Official title: A Study to Investigate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Administering Multiple Oral Doses of GSK1292263 Alone and With Atorvastatin
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Dyslipidaemias; Dyslipidemias
+Interventions: 10mg atorvastatin (DRUG); 80mg atorvastatin (DRUG); GSK1292263 Placebo (DRUG); 100mg GSK1292263 (DRUG); 300mg GSK1292263 (DRUG); 800mg GSK1292263 (DRUG); 10mg ezetimibe (DRUG); Washout (OTHER)
+Summary: This study investigates the safety, pharmacokinetics and effects of GSK1292263 when taken alone or when co-dosed with atorvastatin to subjects with dyslipidemia.
+Eligibility: Inclusion Criteria:
+
+* Healthy adult males and females of non-child-bearing-potential, aged 18-75 years who is capable of giving informed consent.
+* A female subject is eligible to participate if she is of:
+
+  * Non-childbearing potential defined as pre-menopausal females with a documented tubal ligation or hysterectomy; or postmenopausal defined as 12 months of spontaneous amenorrhea. In questionable cases, a blood sample with simultaneous follicle stimulating hormone (FSH) \> 40 MlU/ml and estradiol \<40 pg/ml (\<140 pmol/L) is confirmatory in the absence of a clear post-menopausal history.
+  * Females on hormone replacement therapy (HRT) must discontinue HRT to allow confirmation of post-menopausal status prior to study enrollment. For most forms of HRT, at least 2-4 weeks will elapse between the cessation of therapy and the blood draw; this interval depends on the type and dosage of HRT. Following confirmation of their post-menopausal status, they can resume use of HRT during the study.
+* Male subjects must agree to use one of the contraception methods listed in the protocol. This criterion must be followed from the time of the first dose of study medication until seven days following the last dose.
+* Body weight \> 50 kg (110 pounds) and body mass index (BMI) between 19.0 and 39.0 (inclusive).
+* Part A: (i) Subjects who are on 80mg or 40mg atorvastatin for \>= 4 weeks and are tolerating the drug well, or (ii) Subjects not on lipid-modifying therapy who have a fasting low density lipoprotein cholesterol (LDLc) \>= 130mg/dL.
+* In Part B at Screening: Subjects who are on statins or Vytorin treatment for \>= 4 weeks.
+* Part B at the end of the 4 week washout: Subjects who have a fasting LDL cholesterol of \>=120mg/dL and \<=180mg/dL and fasting triglycerides of \>=100mg/dL and \<=400mg/dL.
+* Part B at the end of the 4 week run-in on atorvastatin: Subjects who are tolerating well atorvastatin 10mg or 80mg (as determined by the Investigator).
+* Part B: Subjects must be willing to discontinue statins or Vytorin for the duration of the study.
+* Liver enzymes, AST and ALT \< 2x upper limit of normal (ULN); alkaline phosphatase and bilirubin =\< 1.5xULN (isolated bil

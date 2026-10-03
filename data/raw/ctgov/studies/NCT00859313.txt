@@ -1,0 +1,27 @@
+Title: An Open-Label Functionality, Safety and Efficacy Study in Patients Undergoing Elective Unilateral Knee Replacement
+Official title: An Open-Label Functionality, Safety, and Efficacy Study of the NanoTab® Delivery System/ARX-F01 15 Mcg in Patients Undergoing Elective Unilateral Knee Replacement
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Pain, Postoperative
+Interventions: Sufentanil NanoTab PCA System/15 mcg (DRUG)
+Summary: This study is being performed to evaluate the functionality of a device (Sufentanil NanoTab® PCA System) that has been developed for use by patients to self-administer the ARX-F01 pain medication (Sufentanil NanoTab 15 mcg) for the treatment of post-operative pain after undergoing knee replacement surgery.
+
+Another goal of this study is to assess the safety and effectiveness of this non-invasive, sublingual route of administration of ARX-F01 in decreasing the amount of pain that a patient experiences following knee replacement surgery.
+Eligibility: Inclusion Criteria:
+
+1. Male or female patients between 45 and 80 years of age.
+2. Patient is scheduled for an elective unilateral, unicondylar, bi- or tri-compartmental, cemented or uncemented knee replacement under general or spinal anesthesia that does not include use of an intrathecal opioid.
+3. Patient must be classified as American Society of Anesthesiologists (ASA) class I - III.
+4. Patient must have a Body Mass Index (BMI) between 18 and 39, inclusively.
+5. Female patients of childbearing potential must be using an effective method of birth control from the screening visit through the end of study. Acceptable methods of birth control include oral or transdermal contraceptives, condom, spermicidal foam, intrauterine device (IUD), progestin implant or injection, abstinence, vaginal ring, or sterilization of partner. The reason for non-childbearing potential, such as bilateral tubal ligation, bilateral oophorectomy, hysterectomy, or postmenopausal for ≥1 year, must be specified in the patient's CRF.
+6. The patient must be willing and able to understand the study procedures and the use of pain scales, and to communicate meaningfully with the study personnel.
+7. The patient must have the manual dexterity to handle the Sufentnail NanoTab PCA System and be able to follow directions for its use.
+8. The patient must provide written informed consent and sign the Informed Consent approved by the Institutional Review Board (IRB).
+
+Exclusion Criteria:
+
+1. Patient has previously undergone a knee replacement of the same knee.
+2. A passive range-of-motion (PRM) will be used before the 12-hour study period is complete.
+3. Patient has previously not responded to opioid analgesics for treatment of pain.
+4. Patient is currently taking or has taken an opioid for more than 30 consecutive days of daily use at a daily dose equivalent of greater than 15 mg morphine within the past three months prior to surgery (e.g. more than 3 doses per day of Vicodin®, Norco®, Lortab® with 5 mg hydrocodone per tablet).
+5. Patient has an allergy or hypersensitivity to opioids.
+6. Patient is taking monoamine oxidase inhibitors (MAOIs), or has taken MAOIs within 14 days prior to enrolling in the 

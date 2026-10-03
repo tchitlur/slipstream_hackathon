@@ -1,0 +1,36 @@
+Title: Variation in Sulphonylurea Response in Type 2 Diabetes
+Official title: The Use of Glycaemic Response to Sulphonylureas as a Tool to Investigate Type 2 Diabetes Pathophysiology
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Diabetes Mellitus, Type 2
+Interventions: gliclazide (DRUG)
+Summary: The study hypothesis is that people who respond well to sulphonylureas have a different underlying cause for their diabetes than people who respond poorly to this medication. We are using two approaches to study this. In one approach we look at people who have previously responded well or poorly, confirm this by rechallenging them with a sulphonylurea drug, and then looking at how well they produce insulin in response to glucose and an intravenous sulphonylurea called tolbutamide. The second approach identifies people with a certain genetic predisposition to diabetes (due to changes in the TCF7L2 gene) and then looks at how well they respond to sulphonylurea medication.
+Eligibility: Inclusion Criteria:
+
+* Type 2 diabetes
+* Age \>35 and \< 70
+* Age of diabetes diagnosis \>35 and \<70
+* White European
+* Pre-SU HbA1c \<=10%
+* HbA1c (on treatment) \<= 9%
+* No myocardial infarction or Acute coronary syndrome in previous year
+* No stroke or transient ischaemic attack in previous year
+* No or stable (background) retinopathy (no unscheduled laser treatment in the last 6 months)
+* eGFR \> 60mls/min
+* No Proteinuria \>30mg/dl on multistix 10SG
+* No active foot ulceration or infection
+* Liver ALT ≤ twice the upper limit of the reference range
+* Contactable by telephone
+
+Exclusion Criteria:
+
+* Type 1 diabetes
+* HbA1c \>10% prior to commencing SU
+* HbA1c\>9% on SU treatment
+* Recent MI or Stroke within last 12 months
+* Pre-proliferative or proliferative retinopathy
+* eGFR\<60 ml/min
+* Proteinuria \>30mg/dl on multistix 10SG
+* Active foot ulceration or infection
+* Liver ALT \> twice the upper limit of the reference range
+* Female planning to conceive within the study period
+* Any other significant medical reason for exclusion as determined by the investigator

@@ -1,0 +1,27 @@
+Title: Neuroimaging in Healthy Aging and Senile Dementia (HASD_IND)
+Official title: Neuroimaging in Healthy Aging and Senile Dementia (HASD_IND)
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Alzheimer Disease
+Interventions: [11C]-Pittsburgh Compound B ([11C]PiB) (DRUG); F 18 AV-1451 (Flortaucipir) (DRUG)
+Summary: To identify factors that signal the transition from asymptomatic (preclinical) to symptomatic Alzheimer disease (AD).
+Eligibility: Inclusion Criteria:
+
+* Male or female, any race
+* Age \> 18 years
+* Participation in one of the ongoing projects affiliated with the Knight ADRC at Washington University and referred by the MAP staff and a Washington University physician.
+* Normal cognition or early-stage symptomatic AD
+* Willing and able to undergo study procedures.
+* Capacity to give informed consent and follow study procedures
+
+Exclusion Criteria:
+
+* Has any condition that, in the Investigator's opinion, could increase risk to the participant, limit the participant's ability to tolerate the research procedures, or interfere with the collection/analysis of the data (e.g., participants with severe chronic back pain might not be able to lie still during the scanning procedures);
+* Has hypersensitivity to either AV-1451 or PIB or any of its excipients;
+* Contraindications to PET, CT or MRI (e.g. electronic medical devices, inability to lie still for extended periods) that make it unsafe for the individual to participate;
+* Severe claustrophobia;
+* Currently pregnant or breast-feeding. Women must agree to avoid becoming pregnant and must agree to refrain from sexual activity or to use reliable contraceptive methods for 24 hours following administration of Flortaucipir injection;
+* Must not have participated in any clinical trial involving a study drug or device within the 30-days prior to study enrollment;
+* Must not participate in another drug or device study prior to the end of this study participation;
+* Current or recent (within 12 months prior to screening) participation in research studies involving radioactive agents such that the total research-related radiation dose to the participant in any given year would exceed the limits set forth in the U.S. Code of Federal Regulations (CFR) Title 21 Section 361.1.
+
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?FR=361.1

@@ -1,0 +1,26 @@
+Title: A Study to Investigate the Pharmacokinetics (PK) and Safety and to Provide Proof of Mechanism of Alogabat in Children and Adolescents Aged 5-17 Years With Angelman Syndrome (AS) With Deletion Genotype.
+Official title: A Phase IIa Multicenter, Open-label, 12-week Study to Investigate the Pharmacokinetics and Safety and to Provide Proof of Mechanism of Alogabat in Children and Adolescents Aged 5-17 Years With Angelman Syndrome (AS) With Deletion Genotype
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Angelman Syndrome
+Interventions: Alogabat (DRUG)
+Summary: This is a two-part, Phase IIa, multicenter, 12-week, open-label study. Up to 56 participants with deletion AS aged 5-17 years (inclusive) will be enrolled in the study.
+Eligibility: Inclusion Criteria:
+
+* Clinical diagnosis of AS and a genetic subtype of deletion on chromosome 15q11q13 confirmed by a historical molecular diagnosis
+* The participant's general health status, in the context of the disease under study, allows them to participate in a clinical trial in the opinion of the investigator
+* The reliability of sexual abstinence for male and/or female enrollment eligibility needs to be evaluated in relation to the duration of the clinical study and the preferred and usual lifestyle of the participant. Periodic abstinence (e.g., calendar, ovulation, symptothermal, or post-ovulation methods) and withdrawal are not acceptable methods of preventing drug exposure
+* Female participants:
+
+A female participant is eligible to participate if she is not pregnant, not breastfeeding, and non-childbearing or remain abstinent and/or Hormonal contraceptive methods must be supplemented
+
+-Male participants: Male contraception is not required in this study because of the minimal seminal dose transmitted through sexual intercourse
+
+Exclusion Criteria:
+
+* A molecular diagnosis of AS with genotypic classification of any type besides the molecular diagnosis as specified in Inclusion Criterion
+* Concurrent cardiovascular disease considered not well controlled by drug treatment, including participants with clinically significant hypertension, bradycardia and arrhythmias, myocardial infarction (MI) within 12 months of screening or uncompensated heart failure
+* Confirmed clinically significant abnormality on 12-lead electrocardiogram (ECG), including:
+* a QT corrected for heart rate using the Fridericia's correction factor (QTcF) of \>/= 450 ms (based on the average of 3 consecutive measurements) for participants older than 10 years old
+* a QT corrected for heart rate using Bazett's formula (QTcB) of \>/= 450 ms (based on the average of 3 consecutive measurements) for participants up to, and including, the age of 10 years old
+* Congenital heart diseases not treated and congenital QT corrected for heart rate (QTc) prolongation or family history of Long QT Syndrome
+* Medical history of malignancy if not considered cured or if occurred within the last 5 years with 

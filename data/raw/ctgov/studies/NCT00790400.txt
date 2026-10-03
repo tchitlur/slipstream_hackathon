@@ -1,0 +1,39 @@
+Title: Efficacy and Safety of RAD001 in Patients Aged 18 and Over With Angiomyolipoma Associated With Either Tuberous Sclerosis Complex (TSC) or Sporadic Lymphangioleiomyomatosis (LAM)
+Official title: A Randomized, Double-blind, Placebo-controlled Study of RAD0001 in the Treatment of Angiomyolipoma in Patients With Either Tuberous Sclerosis Complex (TSC) or Sporadic Lymphangioleiomyomatosis (LAM)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Tuberous Sclerosis Complex (TSC); Lymphangioleiomyomatosis (LAM)
+Interventions: Everolimus (RAD001) (DRUG); Everolimus Placebo (DRUG)
+Summary: This study will evaluate the safety and efficacy of RAD001 in treating patients with Angiomyolipoma associated with Tuberous Sclerosis Complex or Sporadic Lymphangioleiomyomatosis.
+Eligibility: Inclusion Criteria:
+
+* Male or Female 18 years or older
+* Clinically definite diagnosis of Tuberous Sclerosis Complex according to the modified Gomez criteria or sporadic LAM (biopsy-proven or compatible chest CT scan)
+* Clinically definite diagnosis of renal angiomyolipoma
+* At least one Angiomyolipoma of ≥ 3 cm in its longest diameter using CT or MRI
+* Females of child bearing potential must use birth control and have documentation of negative pregnancy test
+* Written informed consent according to local guidelines
+
+Exclusion Criteria:
+
+* Recent heart attack, cardiac related chest pain or stroke
+* Severely impaired lung function
+* Bleeding related to angiomyolipoma or embolization during 6 months prior to randomization
+* Clinically significant chylous ascites
+* Clinically significant hematological or hepatic abnormality
+* Severe liver dysfunction
+* Severe kidney dysfunction
+* Pregnancy or breast feeding
+* Current infection
+* History of organ transplant
+* Surgery within two months prior to study enrollment
+* Prior therapy with a medication in the same class as Everolimus
+* Recent use of an investigational drug
+* Bleeding diathesis or on oral anti-vitamin K medication
+* Uncontrolled high cholesterol
+* Uncontrolled diabetes
+* HIV
+* Inability to attend scheduled clinic visits
+* Patients with metal implants thus prohibiting MRI evaluations
+* Angiomyolipoma which requires surgery at the time of randomization
+* History of malignancy
+* Severe or uncontrolled medical conditions which would cause an unacceptable safety risk or compromise compliance with the protocol

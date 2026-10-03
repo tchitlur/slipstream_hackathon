@@ -1,0 +1,23 @@
+Title: A Study of Lorcaserin as Adjunctive Treatment in Participants With Dravet Syndrome
+Official title: A Multicenter, Double-Blind, Randomized, Placebo-Controlled, Parallel-Group Study With Open-Label Extension Phase of Lorcaserin as Adjunctive Treatment in Subjects With Dravet Syndrome
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Epilepsies, Myoclonic
+Interventions: Placebo (DRUG); Lorcaserin (DRUG)
+Summary: The primary purpose of the study is to demonstrate that lorcaserin has superior efficacy compared to placebo on percent change in frequency of convulsive seizures per 28 days in participants with Dravet syndrome.
+Eligibility: Key Inclusion Criteria:
+
+Participants must meet all of the following criteria to be included in this study:
+
+1. Male or female, age 2 years and older at the time of informed consent
+2. Diagnosis of epilepsy with Dravet syndrome
+3. Has at least 4 convulsive seizures during the 4 weeks of baseline
+4. Current treatment with antiepileptic drugs must be stable for at least 4 weeks before screening, and be expected to remain stable throughout the study
+
+Key Exclusion Criteria:
+
+Participants who meet any of the following criteria will be excluded from this study:
+
+1. Use of lorcaserin within 4 weeks before screening, or any history of it being discontinued due to lack of efficacy or adverse reactions
+2. Use of fenfluramine within 2 months before screening, any history of lack of fenfluramine efficacy, or any history of valvulopathy at baseline with history of fenfluramine use
+3. Recent or concomitant use of serotonergic medications or monoamine oxidase inhibitors
+4. Presence of progressive central nervous system disease other than Dravet syndrome

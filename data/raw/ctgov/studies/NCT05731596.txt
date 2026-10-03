@@ -1,0 +1,27 @@
+Title: Comparative Clinical Study to Evaluate the Efficacy and Safety of Rosuvastatin Vs CoQ10 on Nonalcoholic Steatohepatitis
+Official title: Comparative Clinical Study to Evaluate the Possible Efficacy and Safety of Rosuvastatin Versus Coenzyme Q10 on Nonalcoholic Steatohepatitis
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Nonalcoholic Steatohepatitis
+Interventions: Rosuvastatin 20 Mg Oral Tablet (DRUG); Coenzyme Q10 100 MG Oral Capsule (DRUG)
+Summary: This study will be a randomized, controlled, parallel study that aims to evaluate the efficacy and safety of Rosuvastatin versus Coenzyme Q10 on nonalcoholic steatohepatitis patients.
+Eligibility: Inclusion Criteria:
+
+* Age: ≥ 18 years.
+* Gender: Both male and female patients will be included.
+* Patients have established diagnosis of NASH (based on liver ultrasonography).
+
+Exclusion Criteria:
+
+* Young ages \<18 years
+* Secondary causes of hepatic fat accumulation such as Significant alcohol consumption as defined by an average daily consumption of alcohol greater than 30 g/day in men and greater than 20 g/day in women or Long-term use of a steatogenic medication (e.g., non-Steroidal anti-inflammatory drugs (NSAIDs) amiodarone, methotrexate, tamoxifen, corticosteroids)
+* Patients with a known history of viral hepatitis, hemochromatosis, Wilson's disease, autoimmune hepatitis, primary biliary cirrhosis, sclerosing cholangitis, biliary obstruction.
+* Patients with inflammatory diseases.
+* Subjects using any other lipid-lowering agents, or any supplements known to have antioxidant activity and omega-3 supplementation for at least 3 months before participation in the trial
+* Current Pregnancy
+* Breastfeeding
+* Females On Oral Contraceptive pills
+* Patients with renal impairment
+* Patients with heart failure
+* Patients with cancer or with a history of cancer treatment
+* Any contraindications to coenzyme Q 10 Or statins like hypersensitivity to anyone
+* Patients with predisposing risk factors for myopathy/rhabdomyolysis.

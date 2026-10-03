@@ -1,0 +1,23 @@
+Title: Phase 2 Study of Triheptanoin (UX007) for the Treatment of Glucose Transporter Type 1 Deficiency Syndrome (Glut1 DS)
+Official title: A Randomized, Double-blind, Placebo-controlled, Parallel-group, Study to Assess the Safety and Efficacy of UX007 in Subjects With Glucose Transporter Type 1 Deficiency Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Glucose Transporter Type 1 Deficiency Syndrome (Glut1 DS)
+Interventions: UX007 (DRUG); Placebo (DRUG)
+Summary: The primary objectives of the study are to evaluate the efficacy of UX007 compared to placebo as measured by the reduction from randomization to Week 8 in frequency of seizures and to evaluate the safety of UX007 via adverse event (AE) rates, laboratory values, and electrocardiogram (ECG).
+Eligibility: Inclusion Criteria:
+
+1. Diagnosis of Glut1 DS confirmed by SLC2A1 mutation
+2. Males and females at least 1 of age at the time of informed consent
+3. Average of at least 2 observable seizures (generalized or partial-onset \[simple partial motor, complex partial, absence, or secondarily generalized seizures) in 4 weeks over the last 24 weeks, by subject or caregiver report
+4. At least 2 observable seizures (generalized or partial-onset \[simple partial motor, complex partial, or secondarily generalized seizures) in 4 weeks during the Baseline Period, with no 3-week seizure-free period during the Baseline Period OR absence seizures documented on Screening electroencephalogram (EEG)
+5. Continuing to have seizures despite a prior or current use of at least 1 antiepileptic drug (AED)
+6. Allowed to be on up to 3 concomitant AEDs that must have been stable in dose at least 2 weeks prior to the beginning of screening and anticipated to remain stable in dose through the end of the 8-week, placebo-controlled Treatment Period
+7. Not on, or not fully compliant with a prescribed diet plan (e.g. KD)
+8. Plasma level of beta-hydroxybutyrate (BHB) ≤ 1 mmol/L (non-fasting) at Screening
+9. Provide written or verbal assent (if possible) and written informed consent by a legally authorized representative after the nature of the study has been explained, and prior to any research-related procedures
+10. Must, in the opinion of the investigator, be willing and able to complete all aspects of the study, comply with accurate completion of the seizures diary, and likely to complete the 8 week, placebo-controlled, Treatment Period
+11. Females of childbearing potential must have a negative pregnancy test at Screening, be willing to use an acceptable method of contraception, and have additional pregnancy tests during the study. Females considered not of childbearing potential include those who have not reached menarche, had total hysterectomy, have been in menopause for at least two years, or have had tubal ligation at least one year prior to Screening.
+
+Exclusion Criteria:
+
+1. Serum alanine aminotransferase (ALT) or aspartate aminotransferase (AST) levels exceeding 3 times the upper limit of

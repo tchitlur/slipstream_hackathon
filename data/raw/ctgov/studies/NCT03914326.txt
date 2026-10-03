@@ -1,0 +1,20 @@
+Title: A Heart Disease Study of Semaglutide in Patients With Type 2 Diabetes
+Official title: Semaglutide Cardiovascular Outcomes Trial in Patients With Type 2 Diabetes
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Diabetes Mellitus, Type 2
+Interventions: Semaglutide (DRUG); Placebo (semaglutide) (DRUG)
+Summary: The researchers are doing this study to look whether the type 2 diabetes medicine, semaglutide, has a positive effect on heart disease. Participants will either get semaglutide tablets or placebo tablets ("dummy" medicine) - which treatment is decided by chance. Participants must take one tablet with water every morning on an empty stomach and not eat or drink anything for at least 30 minutes. The study will last for about 3.5-5 years. Participants will have up to 25 clinic visits and 1 phone call with the study doctor. Women cannot be in the study if pregnant, breast-feeding or if they plan to become pregnant during the study period.
+Eligibility: Inclusion Criteria:
+
+* Male or female, age equal to or above 50 years at the time of signing informed consent
+* Diagnosed with type 2 diabetes mellitus
+* HbA1c 6.5% - 10.0% (47 - 86 mmol/mol) (both inclusive) (latest available and no more than 30 days old local laboratory assessment based on medical records or point of care measurement)
+* At least one of the below conditions (a-d):
+
+  a) Coronary heart disease defined as at least one of the following: i. Prior myocardial infarction ii. Prior coronary revascularisation procedure iii. 50% or above stenosis in coronary artery documented by cardiac catheterisation, computerized tomography coronary angiography iv. Coronary heart disease with ischaemia documented by stress test with any imaging modality b) Cerebrovascular disease defined as at least one of the following: i. Prior stroke ii. Prior carotid artery revascularisation procedure iii.50% or above stenosis in carotid artery documented by X-ray angiography, magnetic resonance angiography, computerized tomography angiography or Doppler ultrasound c) Symptomatic peripheral artery disease (PAD) defined as at least one of the following: i. Intermittent claudication with an Ankle-brachial index (ABI) below 0.85 at rest ii. Intermittent claudication with a 50% or above stenosis in peripheral artery (excluding carotid) documented by X-ray angiography, magnetic resonance angiography, computerized tomography angiography or Doppler ultrasound iii. Prior peripheral artery (excluding carotid) revascularization procedure iv. Lower extremity amputation at or above ankle due to atherosclerotic disease (excluding e.g. trauma or osteomyelitis) d) Chronic kidney disease defined as: i. eGFR below 60 mL/min/1.73 m\^2 (based on medical records using latest available and no more than 6 months old assessment)
+
+Exclusion Criteria:
+
+* Any of the following: myocardial infarction, stroke, hospitalisation for unstable angina pectoris or transient ischaemic attack within the past 60 days prior to the day of screening
+* Planned coronary, carotid or peripheral artery revascularisation known on the day of screening
+* Heart failure presently classified as being in New York Heart Association Cl

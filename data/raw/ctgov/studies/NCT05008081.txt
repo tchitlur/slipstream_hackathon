@@ -1,0 +1,19 @@
+Title: The CATALINA Study
+Official title: An International Multi-centre Prospective Cohort Study in Patients Hospitalized for an Acute Exacerbation of COPD
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Chronic Obstructive Pulmonary Disease Exacerbation
+Interventions: none
+Summary: The CATALINA study is a prospective cohort study embedded within CICERO (Collaboration In COPD ExaceRbatiOns, a European Respiratory Society supported Clinical Research Collaboration), designed to collect standardised, longitudinal clinical data and biological samples in 20 centres across Europe and beyond.
+Eligibility: Inclusion Criteria:
+
+* Age 18 years and older
+* Established diagnosis of COPD by medical doctor (based on clinical history OR pulmonary function test with an FEV1/FVC \< 0.7)
+* Current hospitalization with suspicion of an acute exacerbation of COPD (AECOPD)
+* Inclusion within 48 hours post hospital admission
+* Voluntary written informed consent of the participant or his/her representative obtained prior to any study procedure
+
+Exclusion Criteria:
+
+* Patients unwilling or unable to comply with study procedures
+* Patients not requiring treatment with systemic corticosteroids, antibiotics or both as a minimum therapy for the index AECOPD
+* Patients with a confirmed positive test result for COVID19, or those highly suspected based on clinical examination

@@ -1,0 +1,23 @@
+Title: Cannabidiol Oral Solution as an Adjunctive Therapy for Treatment of Participants With Inadequately Controlled Dravet Syndrome
+Official title: A Multicenter, Randomized, Double-blind, Placebo- Controlled, Interventional Study to Assess the Safety and Efficacy of Pharmaceutical Cannabidiol Oral Solution as an Adjunctive Therapy for Treatment of Subjects With Inadequately Controlled Dravet Syndrome
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Dravet Syndrome
+Interventions: Cannabidiol Oral Solution (DRUG); Placebo Solution (DRUG)
+Summary: This Phase 3 study will enroll participants diagnosed with Dravet Syndrome (DS) who are still experiencing at least one tonic-clonic, clonic, and/or focal seizures with motor components (FSMC) per week, despite ongoing treatment with up to three antiepileptic drugs (AEDs), and meet the other inclusion/exclusion criteria.
+
+Following a 28-day baseline period, participants will begin an 84-day treatment period. Participants will be assigned to receive twice-daily doses of placebo or cannabidiol oral solution at the highest dose determined to be safe in a previous trial.
+
+Following study completion, all participants will be invited to receive Cannabidiol Oral Solution in an open label extension study (under a separate protocol).
+Eligibility: Inclusion Criteria:
+
+* Meets protocol-specified criteria for qualification and contraception, including clinical diagnosis of refractory DS and onset of seizures according to protocol-specified criteria
+* Is able to speak and understand the language in which the study is being conducted, is able to understand the procedures and study requirements and has voluntarily signed and dated an informed consent form approved by the Institutional Review Board before the conduct of any study procedure
+* In the opinion of the Investigator, the subject and/or parent(s)/caregiver(s) are able to keep accurate seizure diaries and the participant is able to take study drug and comply with the protocol, including dosing, medications and diet
+
+Exclusion Criteria:
+
+* Medical history is outside protocol-specified parameters
+* Clinically significant history of allergic reactions or significant sensitivities to cannabinoids or to any of the other ingredients in the study drug
+* Inadequate supervision by parents or guardians
+* History or current use of dietary supplements, drugs or over-the counter medications outside protocol-specified parameters
+* Signs, symptoms or history of any condition that, per protocol or in the opinion of the investigator, might compromise: 1) the safety or well-being of the participant or study staff; 2) the safety or well-being of the participant's offspring (such as through pregnancy or breast-feeding); 3) the analysis of results

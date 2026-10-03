@@ -1,0 +1,24 @@
+Title: Treatment of Mitochondrial Dysfunction in Rett Syndrome With Triheptanoin
+Official title: Treatment of Mitochondrial Dysfunction in Rett Syndrome With Triheptanoin: An Open-label, 10-subject Clinical Trial of UX007 (Triheptanoin) in the Treatment of Mitochondrial Dysfunction in Participants With Rett Syndrome, Dyskinesia, and Epilepsy
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Rett Syndrome
+Interventions: triheptanoin (DRUG)
+Summary: The aim of this study is to evaluate the safety and tolerability of triheptanoin in participants with Rett syndrome using laboratory values, electrocardiogram, rate of adverse events (AE), and physical exam.This study also seeks to evaluate the efficacy of UX007 (triheptanoin) in improving overall seizure frequency and dystonia.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of Classic Rett syndrome as defined by the clinical consensus criteria
+* Presence of a MECP2 mutation
+* Post-regression stage of development, defined as greater than 6 months since the last loss of hand use or verbal language
+* Average of at least 4 observable seizures (generalized or partial-onset \[Generalized Tonic-Clonic, Generalized Tonic, Generalized Clonic, Generalized Atonic, Partial/Focal with Secondary Generalization, Myoclonic, Myoclonic Atonic, Myoclonic Tonic, Complex Partial/Focal, and Simple Partial/Focal Motor) in one month prior to the study by caregiver report or presence of dystonia on average at least four times in one month prior to the study in at least one body region rated as at least "mild" by caregiver report
+* Use of at least one anti-seizure medication at screening visit
+* At screening visit, managed on four or fewer concomitant anti-seizure medications that must have been stable in dose at least one month prior to the beginning of screening and anticipated to remain stable in dose through the end of the 8.5 month trial period
+* Legally authorized caregiver must be willing to give written informed consent after the nature of the study has been explained, and prior to any research-related procedures
+* Caregiver and participant must, in the opinion of the investigator, be willing and able to complete all aspects of the study, comply with accurate completion of the seizure and dystonia diaries, and be likely to complete the four month treatment period
+
+Exclusion Criteria:
+
+* Markedly abnormal metabolic screening laboratory testing (e.g., serum alanine aminotransferase (ALT) or aspartate aminotransferase (AST) levels exceeding 2X the upper limit of normal)
+* Any known hypersensitivity to triheptanoin that, in the judgment of the investigator, places the subject at increased risk for adverse effects
+* Prior use of triheptanoin within 1 month prior to screening
+* Participants or caregivers who are unwilling or unable to discontinue use of a prohibited medication or other substance that may confound study objectives
+* Use of any other investigational product, including drugs or supplements within 1 month prio

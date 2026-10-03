@@ -1,0 +1,19 @@
+Title: Predicting Medication Response in Obsessive Compulsive Disorder
+Official title: Predicting Medication Response in Obsessive Compulsive Disorder
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Obsessive Compulsive Disorder
+Interventions: clomipramine (DRUG); escitalopram (DRUG); duloxetine (DRUG)
+Summary: In this study, the investigators hope to study a number of variables the investigators believe may help us predict why some people respond better to some medications than others. Participants will be randomly assigned to receive one of two typical medications for OCD, clomipramine or escitalopram. Individuals who would like to participate but who have previously tried one or both of these medications may instead take a newer drug, duloxetine, and undergo the identical procedures. The factors the investigators will be studying include demographics (i.e. age, gender, age of onset of OCD), genetic markers (such as variants in genes involved in breaking down drugs in the liver (cytochrome P450 system), and genes involved in several brain chemical systems, such as serotonin), the dimensions of OCD symptoms (i.e. checking, washing, and hoarding) and cortical inhibition. Cortical inhibition will be measured transcranial magnetic stimulation and is being studied because deficits in this process may be important in the development of OCD. The investigators hypothesize that certain pretreatment clinical characteristics will correlate with poor treatment response including earlier age of onse
+Eligibility: Inclusion Criteria:
+
+* Clinical diagnosis of Obsessive Compulsive Disorder
+* Must be able to swallow tablets
+
+Exclusion Criteria:
+
+* History of stroke
+* History of Parkinson's disease
+* History of Epilepsy
+* Clinical diagnosis of Schizophrenia or schizoaffective disorder
+* Clinical diagnosis of Bipolar Affective disorder
+* Active suicidality

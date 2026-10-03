@@ -1,0 +1,35 @@
+Title: Adapting Treatment to the Tumor Molecular Alterations for Patients With Advanced Solid Tumors: MyOwnSpecificTreatment
+Official title: A Two-period, Multicenter, Randomized, Open-label, Phase II Study Evaluating the Clinical Benefit of a Maintenance Treatment Targeting Tumor Molecular Alterations in Patients With Progressive Locally-advanced or Metastatic Solid Tumors
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Malignant Solid Neoplasms
+Interventions: Nilotinib (400 mg BID) (DRUG); Everolimus (10 mg QD) (DRUG); Sorafenib (400 mg BID) (DRUG); Lapatinib (1500 mg QD) (DRUG); Pazopanib (800 mg QD) (DRUG); Olaparib (300 mg BID) (DRUG); Durvalumab + Tremelimumab (COMBINATION_PRODUCT)
+Summary: The MOST Plus study is a two-period phase II clinical trial, conducted in patients with all types of progressive solid tumors after at least 1 prior systemic treatment regimen for advanced disease (in the absence of a validated second line therapy).
+
+The main goal of this study is to evaluate for these patients the clinical benefit of a maintenance treatment in patients with stable disease (SD) after induction treatment with a selected therapy (Molecular Targeted Therapy (MTT) or with SD, partial response (PR) or complete reponse (CR) with Immunotherapy (IT)).
+
+For MTT, the first period of this trial (induction period) will enable to establish whether the identification of genomic alterations in genes encoding for "actionable" targets in the tumor cells, regardless of the histological subtype, can be used to select efficient treatment targeting the pathway activated by the mutation.
+
+For Immunotherapy, induction period with durvalumab + tremelimumab is expected to be an innovative therapy for an efficient tumor control and may allow to identify types of cancer or molecular types of cancer that are more receptive to immunotherapy.
+
+For all treatments, the second period (maintenance 
+Eligibility: Inclusion Criteria:
+
+I1. Male or female patient ≥ 18 years of age.
+
+I2. Histologically or cytologically confirmed diagnosis of metastatic or locally advanced and unresectable solid tumor of any type, except for Nilotinib cohort: only pigmented villonodular synovitis are eligible, not amenable to curative treatment. Concerning primitive tumors of the central nervous system (CNS), all histological types of malignant tumors (including parenchymal and meningeal tumors) are eligible (except for IT).
+
+I3. Documented disease progression at the time of study entry.
+
+I4. At least one prior systemic treatment regimen for locally advanced or metastatic disease - except for Nilotinib cohort : patients can be treated with Nilotinib in first line systemic treatment.
+
+Patients who are candidates for a validated second line treatment regimen are not eligible for the study. For patients with a primitive CNS tumor, the absence of other therapeutic options must be validated by the reference committee for the patient's pathology before inclusion. As there is no prior systemic treatment regimen available for locally advanced or metastatic PEComa, these tumors are eligible for a MTT treatment in first line of their advanced or metastatic disease. No previous treatment by immune checkpoint inhibitors (anti-PD1/PDL1, anti-CTLA4, anti-LAG3 etc.) is allowed for IT group.
+
+I5. Patient with measurable disease, defined as at least one lesion that can be accurately measured on CT-scan or MRI according to RECIST 1.1.
+
+I6. A multidisciplinary molecular board must have recommended one of the investigational MTT available in the study after review of a tumor (or blood for pazopanib, olaparib and immunotherapy cohorts) molecular profiling previously established from a biopsied lesion and/or primitive tumor, and/or from a liquid biopsy, respectively (for pazopanib, olaparib and immunotherapy cohorts).
+
+I7. The MTT recommended by the multidisciplinary molecular board after the review of tumor or blood molecular profile is not approved and reimbursed in France for the disease affecting the patient in the same label.
+
+I8. Eastern Cooperative Oncology Group (ECOG) performance status 0, 1 or 2.
+
+I9. Ad

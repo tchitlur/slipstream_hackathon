@@ -1,0 +1,20 @@
+Title: Adapting a Psychosocial Support Intervention for the Rett Syndrome Community
+Official title: Adapting a Psychosocial Support Intervention for the Rett Syndrome Community
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rett Syndrome; Family Caregivers; Social Support; Psychological Support
+Interventions: Those who have patients prescribed Daybue (OTHER); Caregiver Speaks + Daybue (OTHER)
+Summary: This study seeks to adapt Caregiver Speaks, a psychosocial supportive intervention delivered through Facebook, for parent caregivers of children living with Rett Syndrome. This study also seeks to explore feasibility and acceptability of implementing the adapted intervention, and its impact on parent psychological outcomes.
+Eligibility: Inclusion Criteria:
+
+* Adult caregiver (≥18 years old) of an individual with Rett syndrome Caregiver of a child or individual of any age with a confirmed clinical diagnosis of Rett syndrome.
+* English-speaking and able to read and understand study materials Willing and able to participate in a 6-week, online psychosocial intervention delivered via a private social media platform
+* Willing and able to complete electronic surveys and, if selected, participate in virtual interviews
+* For randomized phase participation: child is receiving standard pharmacologic treatment for Rett syndrome (e.g., Daybue) as part of routine clinical care
+
+Exclusion Criteria:
+
+* Inability to speak, read, or understand English sufficiently to participate in the intervention and assessments.
+* Caregiver under the age of 18 years
+* Lack of confirmed diagnosis of Rett syndrome in the care recipient.
+* Inability or unwillingness to provide informed consent.
+* Lack of access to required technology (internet-enabled device and ability to access the online intervention platform).

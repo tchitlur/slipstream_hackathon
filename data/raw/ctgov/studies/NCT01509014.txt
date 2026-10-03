@@ -1,0 +1,12 @@
+Title: Community Pharmacy Assisting in Total Cardiovascular Health
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Statin Therapy; Adherence
+Interventions: CPATCH intervention to support statin adherence (BEHAVIORAL)
+Summary: Despite proven benefits in reducing morbidity and mortality, many patients become nonadherent to statin therapy within the first year of starting. Due to their accessibility and frequent patient contact, pharmacists are well-positioned to improve medication adherence.
+
+The purpose of this study is to determine whether a simple intervention by community pharmacists can improve statin adherence in new statin users.
+Eligibility: Inclusion Criteria:
+
+* Pharmacies must fill at least 85 statin prescriptions in a six-week period
+* CPATCH intervention was given priority over other study initiatives offered by the pharmacy
+* All members of pharmacy staff provided informed consent

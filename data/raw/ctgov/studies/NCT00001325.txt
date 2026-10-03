@@ -1,0 +1,25 @@
+Title: Metabolic Abnormalities in Children With Epilepsy
+Official title: Natural History of Metabolic Abnormalities in Children With Epilepsy
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Generalized Epilepsy; Infantile Spasms; Metabolic Disease; Partial Epilepsy; Seizures
+Interventions: 18 FDG (DRUG)
+Summary: This study is designed to use positron emission tomography to measure brain energy use. Positron Emission Tomography (PET) is a technique used to investigate the functional activity of the brain. The PET technique allows doctors to study the normal processes of the brain (central nervous system) of normal individuals and patients with neurologic illnesses without physical / structural damage to the brain.
+
+When a region of the brain is active, it uses more fuel in the form of oxygen and sugar (glucose). As the brain uses more fuel it produces more waste products, carbon dioxide and water. Blood carries fuel to the brain and waste products away from the brain. As brain activity increases blood flow to and from the area of activity increases also.
+
+Researchers can label a sugar with a small radioactive molecule called FDG (fluorodeoxyglucose). As areas of the brain use more sugar the PET scan will detect the FDG and show the areas of the brain that are active. By using this technique researchers hope to answer the following questions;
+
+4\. Are changes in brain energy use (metabolism) present early in the course of epilepsy
+
+5\. Do changes in brain metabolism match the severity of pat
+Eligibility: INCLUSION CRITERIA:
+
+Patients with partial seizures, infantile spasms and Lennox-Gastaut syndrome will be selected.
+
+EXCLUSION CRITERIA:
+
+Evidence of a structural lesion as cause for epilepsy.
+
+Degenerative or metabolic disease.
+
+Inability to comply with the protocol.

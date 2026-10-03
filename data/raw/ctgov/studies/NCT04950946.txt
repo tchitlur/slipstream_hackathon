@@ -1,0 +1,15 @@
+Title: GNAO1 Natural History Study
+Official title: Natural History of GNAO1-associated Neurodevelopmental Disorder
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: GNAO1
+Interventions: none
+Summary: The purpose of the GNAO1 Natural History Study is to establish the clinical phenotype of GNAO1 associated neurologic disease, its association with genotype, and areas of clinical importance within the disease.
+Eligibility: Inclusion Criteria:
+
+* Enrollment in the Bow Foundation GNAO1 registry.
+* Evidence of a known pathogenic mutation in GNAO1 or a variant of unknown significance and clinical symptoms likely to be consistent with GNAO1 as determined by study physicians.
+
+Exclusion Criteria:
+
+* Inability to obtain informed consent from parents or adult subjects.
+* Inability to obtain medical records.

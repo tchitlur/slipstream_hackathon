@@ -1,0 +1,23 @@
+Title: ANAVEX2-73 Study in Patients With Rett Syndrome
+Official title: A Double-Blind, Randomized, Placebo-Controlled, Safety and Efficacy Study of ANAVEX2-73 in Patients With Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Rett Syndrome
+Interventions: ANAVEX2-73 (DRUG); Placebo (DRUG)
+Summary: ANAVEX2-73-RS-002 is a Phase 3, double-blind, randomized, placebo-controlled dose escalation safety, tolerability and efficacy study in patients 18 years and older with RTT using endpoints including multiple clinical and exploratory molecular and biochemical measures.
+Eligibility: Inclusion Criteria:
+
+* Aged ≥ 18 years, inclusive.
+* Diagnosis of classic RTT, according to 2010 criteria (Neul et al., 2010), and a MECP2 mutation.
+* Current pharmacological treatment regimen, including supplements, has been stable for at least 4 weeks.
+* If on antiepileptic drugs (AEDs), 1-4 AEDs allowed. Treatment must be stable (drug, dose, interval of administration) for 30 days prior to enrollment.
+* If the subject is already receiving stable non-pharmacologic educational, behavioral, and/or dietary interventions, participation in these programs must have been continuous during the 90 days prior to the screening visit and subjects or their parent/caregiver/legally authorized representative (LAR) will not electively initiate new or modify ongoing interventions for the duration of the study. 'Study duration' is defined as lasting from the screening visit until the treatment is terminated. For participants in the 16-21 years range, typical school vacations are not considered modifications of stable programming.
+* Ability to keep accurate seizure diaries or have caregiver who can keep accurate seizure diaries.
+* Confirmation from the participant that, if of childbearing potential is not pregnant through urine pregnancy testing. Female patients of childbearing potential and at risk for pregnancy must agree to abstinence.
+* Prior to the conduct of study-specific procedures, the subject's parent/caregiver/LAR must provide written informed consent. If applicable, the research team
+
+Exclusion Criteria:
+
+* Patients who have a progressive medical or neurological condition that in the opinion of the Investigator would interfere with the conduct of the study.
+* Current clinically significant systemic illness that is likely to result in deterioration of the patient's condition or affect the patient's safety during the study.
+* History of clinically evident stroke or clinically significant carotid or vertebrobasilar stenosis or plaque or other history of neurologic (e.g., head trauma with loss of consciousness) or psychiatric condition that the Investigator deems may interfere with interpretability of data.
+* Indication of liver disease, defined by serum levels of ALT (S

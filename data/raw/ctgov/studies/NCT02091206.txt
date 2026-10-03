@@ -1,0 +1,23 @@
+Title: A Dose-ranging Pharmacokinetics and Safety Study of GWP42003-P in Children With Dravet Syndrome (GWPCARE1)
+Official title: A Double Blind, Placebo-controlled, Two-part Study to Investigate the Dose-ranging Safety and Pharmacokinetics, Followed by the Efficacy and Safety of Cannabidiol (GWP42003-P) in Children and Young Adults With Dravet Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Epilepsy; Dravet Syndrome
+Interventions: GWP42003-P 5 mg/kg/day Dose (DRUG); Placebo control (DRUG); GWP42003-P 10 mg/kg/day Dose (DRUG); GWP42003-P 20 mg/kg/day Dose (DRUG)
+Summary: To evaluate the safety and pharmacokinetics (PK) of multiple doses of GWP42003-P compared with placebo in children with Dravet syndrome.
+Eligibility: Key Inclusion Criteria:
+
+* Participants were male or female aged between 4 and 10 years (inclusive).
+* Participants had a documented history of Dravet Syndrome that was not completely controlled by AEDs.
+* Participants took one or more AEDs at a dose which had been stable for at least 4 weeks.
+* Participants had experienced fewer than 4 convulsive seizures (tonic-clonic, tonic, clonic, atonic seizures) during the 28-day baseline period.
+* All medications or interventions for epilepsy (including ketogenic diet and vagus nerve stimulation \[VNS\]) were stable for four weeks prior to screening and participants were willing to maintain a stable regimen throughout the study. The ketogenic diet and VNS treatments were not counted as an AED.
+
+Key Exclusion Criteria:
+
+* Participants had clinically significant unstable medical conditions other than epilepsy.
+* Participants had clinically relevant abnormalities in the 12-lead electrocardiogram measured at screening or randomization.
+* Participants were currently using or had in the past used recreational or medicinal cannabis, or synthetic CBD based medications (including Sativex®) within the 3 months prior to study entry and were unwilling to abstain for the duration for the study.
+* Participants had any known or suspected hypersensitivity to cannabinoids or any of the excipients of the IMP.
+* Participants who had been part of a clinical trial involving another investigational product in the previous 6 months.
+* There were plans for the participants to travel outside their country of residence during the study.
+* Participants were previously randomized into this study. In particular, participants participating in Part A of the study cannot enter Part B.

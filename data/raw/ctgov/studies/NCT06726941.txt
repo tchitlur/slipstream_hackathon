@@ -1,0 +1,18 @@
+Title: Effect of Exercise Gene Expression and Histone Modifications in Patients With Hemiplegia
+Official title: Effect of Exercise on Neuroplasticity-Related Gene Expression and Histone Modifications in Patients With Hemiplegia
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Ischemic Stroke, Acute; Acute Hemiparesis
+Interventions: Physiotherapy and Rehabilitation Practices (OTHER)
+Summary: The aim of this study is to demonstrate the effect of routine exercise program on neuroplasticity through histone acetylation and gene expression changes in acute stroke survivors from an epigenetic perspective and to investigate the correlation of epigenetic effects with its effects on motor function and quality of life.
+Eligibility: Inclusion Criteria:
+
+1. Participants who applied to Afyonkarahisar Health Sciences University Physical Therapy and Rehabilitation Clinic for rehabilitation purposes and had a stroke for the first time
+2. Participants with ischemia as the etiology of stroke
+3. Participants between the ages of 25-70
+4. Drugs that have been used for at least 1 month and up to 6 months after a cerebrovascular accident
+
+Exclusion Criteria:
+
+1. Participants whose stroke etiology is other than ischemia
+2. Participants with clinically significant neurological disease other than stroke
+3. Participants with systemic and musculoskeletal diseases that will not tolerate neurological rehabilitation and prevent them from participating

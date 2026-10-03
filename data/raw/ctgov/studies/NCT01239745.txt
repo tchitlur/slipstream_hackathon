@@ -1,0 +1,25 @@
+Title: Aromasin® As Adjuvant Treatment In Postmenopausal Women With Invasive, Estrogen Receptor Positive Early Breast Cancer
+Official title: A Non-Interventional Study With Aromasin® As Adjuvant Treatment In Postmenopausal Women With Invasive, Estrogen Receptor Positive Early Breast Cancer Who Are Disease-Free After 2-3 Years Of Initial Adjuvant Tamoxifen Therapy
+Status: TERMINATED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Breast Neoplasms
+Interventions: Aromasin (DRUG)
+Summary: This non-interventional study will be conducted in several Eastern European countries to assess the safety, tolerability and efficacy of Aromasin® when it is administered in real-word setting in postmenopausal women with invasive estrogen receptor positive early breast cancer , who are disease-free after completion of 2 to 3 years of tamoxifen and continue the treatment with Aromasin® until completion of 5 years of adjuvant hormonal therapy, to understand how Aromasin® is used in routine clinical practice, to assess adherence to prescribed Aromasin® treatment and to understand reasons for its early discontinuation.
+Eligibility: Inclusion Criteria:
+
+* Postmenopausal females, defined as one from the next :
+
+  1. Natural menopause ≥1 year,
+  2. Surgical ovariectomy,
+  3. Chemotherapy-induced amenorrhoea ≥ 2 years.
+* Patients who have had surgical treatment for histologically confirmed breast cancer that was non-metastatic at the time of the initial diagnosis.
+* Patients who are disease-free after 2 to 3 years of adjuvant tamoxifen treatment.
+* Patients whose tumour was estrogen receptor positive (ER+).
+* Evidence of a personally signed and dated informed consent document indicating that the subject (or a legally acceptable representative) has been informed of all pertinent aspects of the study.
+
+Exclusion Criteria:
+
+* Patients for whom Aromasin® treatment is contraindicated (see SmPC).
+* Metastatic breast cancer or a contra lateral tumour.
+* Other concomitant adjuvant endocrine therapy.
+* Other concomitant antineoplastic treatment.
+* Participation in a clinical trial with an investigational drug during the 30 days prior to enrolment in the study.

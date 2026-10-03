@@ -1,0 +1,19 @@
+Title: Stimulant Use and Methylation in HIV
+Official title: Stimulant Use and Methylation in HIV
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: HIV Infections; Methamphetamine-dependence; Methamphetamine Abuse
+Interventions: none
+Summary: This study will leverage extracted leukocyte DNA specimens from a completed NIH-funded project to examine the efficacy of a behavioral intervention model that reduced stimulant use on DNA methylation over 6 months.
+Eligibility: Inclusion Criteria:
+
+* At least 18 years old
+* Documentation of HIV-positive serostatus
+* Speak English
+* Biological verification of recent methamphetamine use
+* Completion of at least three contingency management (CM) visits
+* Self reported anal sex with a man in the past 12 months
+
+Exclusion Criteria:
+
+* Inability to provide informed consent, evidenced by cognitive impairment
+* HIV negative serostatus

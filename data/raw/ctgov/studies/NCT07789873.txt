@@ -1,0 +1,31 @@
+Title: A 28-Day Study of GAL-101 in Participants With Mild to Moderate Alzheimer's Disease
+Official title: A 28-Day Study of GAL-101 in Participants With Mild to Moderate Alzheimer's Disease
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Mild to Moderate Alzheimer's Disease
+Interventions: GAL-101 Salt (DRUG); Placebo (DRUG)
+Summary: This Phase 2a study will evaluate the safety and tolerability of GAL-101 in approximately 100 participants with mild to moderate Alzheimer's disease associated with amyloid-beta pathology. Participants will be randomly assigned to receive either 1200 mg of GAL-101 salt or matching placebo tablets by mouth once daily for 28 days. Neither the participants nor the study team will know which treatment each participant receives during the study.
+
+The study will also explore whether GAL-101 affects brain-wave activity measured using quantitative electroencephalography, Alzheimer's disease-related biomarkers in cerebrospinal fluid, and performance on cognitive tests. Blood and cerebrospinal fluid samples will be collected to evaluate how GAL-101 is absorbed and distributed in the body.
+Eligibility: Inclusion Criteria:
+
+* Male or female participants aged 50 to 85 years, inclusive.
+* Clinical diagnosis of Alzheimer's disease at the mild or moderate dementia stage (Stages 4 or 5) according to the 2018 National Institute on Aging and Alzheimer's Association criteria
+* Evidence of amyloid-beta pathology based on cerebrospinal fluid biomarkers, amyloid-beta positron emission tomography, or plasma phosphorylated tau 217.
+* Evidence of cognitive decline during the previous year.
+* Availability of a reliable trial partner, caregiver, or legal representative who has contact with the participant for at least 10 hours per week and can support study participation.
+* Able and willing to provide informed consent and comply with study requirements.
+* In sufficiently good health, in the investigator's opinion, to participate in the study.
+* If receiving an acetylcholinesterase inhibitor or memantine, treatment must be at a stable dose for the protocol-specified period.
+
+Exclusion Criteria:
+
+* A neurological, psychiatric, cerebrovascular, or other medical condition that could explain the participant's cognitive impairment, interfere with study assessments, or create an unacceptable safety risk.
+* Previous treatment with anti-amyloid-beta immunotherapy.
+* Participation in another interventional clinical study or receipt of an investigational drug within 3 months before screening.
+* Use of prohibited medications or substances that could affect cognition, electroencephalography assessments, safety, or interpretation of the study results.
+* Clinically significant or unstable cardiovascular, respiratory, renal, hepatic, metabolic, infectious, or malignant disease.
+* Active major depression, schizophrenia, bipolar disorder, or clinically significant suicide risk.
+* Known or suspected hypersensitivity to GAL-101, placebo, or their components.
+* A scalp condition that would prevent adequate electroencephalography assessment.
+* Inability to comply with the study schedule or procedures.
+* Any other condition that, in the investigator's opinion, makes the participant unsuitable for the study.

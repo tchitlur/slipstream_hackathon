@@ -1,0 +1,31 @@
+Title: Study of the Efficacy and Safety of NST-1024 Versus Placebo in Subjects With Hypertriglyceridemia
+Official title: A Multicenter, Randomized, Double-Blind, Placebo-Controlled 28- Day Phase II Proof of Concept Study to Evaluate the Efficacy and Safety of NST-1024 400 mg BID Versus Placebo in Statin-Naïve or Statin-Stable Hypertriglyceridemic Subjects
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: High Triglycerides
+Interventions: NST-1024 (DRUG); Placebo (OTHER)
+Summary: This is a Phase IIa,multicentre proof of concept study consisting of 2 study periods to study Treatment with NST-1024 as an adjunct to diet to reduce triglyceride (TG) levels in subjects with TG levels of ≥500 mg/dL and ≤2000 mg/dL; determined by percentage change in TG from baseline after 28 days of treatment.
+
+The two periods consist of:
+
+1. A 3-week screening period that includes a TG qualifying period, and
+2. A 28-days, double-blind, randomized, parallel group, placebo-controlled treatment period.
+
+Subjects will return to the study site for a follow-up visit 2 weeks after the last dose.
+
+Approximately 50 subjects will be randomized at approximately 15-35 centers in USA.
+Eligibility: Inclusion Criteria:
+
+1. Understanding of the study procedures, willing to adhere to the study schedules, and agreement to participate in the study by giving written informed consent prior to screening (Visit 1 Week -3\]) assessments;
+2. Men or women 18 to 79 years of age, inclusive;
+3. If on statin or non-statin lipid-altering therapy, such as ezetimibe, niacin \>200 mg/day, bempedoic acid, fibrates, prescription omega-3 products, other consumer products containing omega-3 fatty acids, or other herbal products or dietary supplements with potential lipid and glucose-altering effects, subject's use must be stable for ≥28 days prior to the first TG baseline qualifying measurement (i.e., Visit 1 \[Week -3\]), and should remain stable thereafter for the duration of study participation;
+4. Fasting TG levels ≥500 mg/dL and ≤2000 mg/dL (based on an average \[arithmetic mean\] of Visit 1 and Visit 2). Note: In cases in which a subject's average TG level from Visit 1 and Visit 2 falls outside the range for entry into the study, an additional visit (Visit 2a) can be arranged up to 7 days after Visit 2 for an additional measurement of fasting TG levels. If a third sample is collected, entry into the double-blind treatment period will be based on the average of the highest TG value from Visit 1 and 2 and the Visit 2a value. Neither one of the two values used for the arithmetic mean can be less than 400 mg/dL;
+5. If using oral or injectable weight loss drug, subjects must maintain stable dose of all oral and injectable weight loss drugs (e.g., GLP-1 receptor agonists) for at least 3 months prior to screening (i.e., Visit 1 \[Week -3\]), and during participation in the study.
+6. Willingness to maintain stable diet and physical activity level throughout the study
+7. If a smoker, no plans to change smoking habits during the study period.
+8. Agree to use appropriate contraceptive methods based on biological sex and child-bearing potential as outlined in Section 12.5 of the protocol.
+9. Agree to abstain from sperm or egg donation through 90 or 30 days, respectively, after administration of the last dose of IP.
+
+Exclusion Criteria:
+
+1. Body mass index \>50 kg/m2;
+2. Participation i

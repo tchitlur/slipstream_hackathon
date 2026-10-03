@@ -1,0 +1,21 @@
+Title: Effects of Varenicline in Heavy Drinking Smokers
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Cigarette Smoking; Alcohol Consumption
+Interventions: Varenicline (DRUG); Placebo pill (for varenicline) (DRUG); Alcohol (DRUG); placebo beverage (for alcohol) (DRUG)
+Summary: This laboratory study will examine if varenicline can reduce alcohol-induced smoking lapse in heavy drinking smokers.
+Eligibility: Inclusion Criteria:
+
+1. Be between the ages of 21 and 55 and provide informed consent;
+2. Smoke \> 10 cigarettes per day for \> 2 years and have a carbon monoxide (CO) \> 10 ppm;
+3. Report an interest in quitting smoking in the near future, but currently not in the process of quitting;
+4. Report current heavy drinking according to NIAAA guidelines (62): for men, \> 14 drinks per week or ≥ 5 drinks per occasion at least once per month over the past 12 months; for women, \> 7 drinks per week or ≥ 4 drinks per occasion at least once per month over the past 12 months;
+5. Not seeking or receiving treatment for alcohol use;
+6. No current (last 12 months) diagnosis of substance use disorder for any psychoactive substances other than alcohol and nicotine on the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-V);
+7. Negative urine toxicology screen for narcotics, amphetamines, and sedative hypnotics at screening;
+8. No lifetime history of psychotic disorders, bipolar disorders, or major depression with suicidal ideation;
+9. No current symptoms of moderate depression or higher, indexed by a score ≥ 20 on the Beck Depression Inventory-II (BDI);
+10. No serious alcohol withdrawal symptoms as indicated by a score \< 10 on the Clinical Institute Withdrawal Assessment for Alcohol-Revised;
+11. Not pregnant, nursing, or planning on becoming pregnant in the next month (if female);
+12. Have no medical condition that may interfere with safe study participation (e.g., unstable cardiac, renal, or liver disease, uncontrolled hypertension or diabetes);
+13. Within normal limit aspartate transaminase (AST), alanine transaminase (ALT), or gamma-glutamyl transferase (GGT) levels;
+14. Not currently on prescription medication that contraindicates use of VAR.

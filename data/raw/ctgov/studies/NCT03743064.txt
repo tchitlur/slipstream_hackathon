@@ -1,0 +1,29 @@
+Title: A Study to Evaluate the Efficacy and Safety of Anamorelin HCl for the Treatment of Malignancy Associated Weight Loss and Anorexia in Adult Patients With Advanced Non-Small Cell Lung Cancer (NSCLC)
+Official title: A Phase 3 Randomized, Double-Blind, Placebo-Controlled, Multicenter Study to Evaluate the Efficacy and Safety of Anamorelin HCl for the Treatment of Malignancy Associated Weight Loss and Anorexia in Adult Patients With Advanced Non-Small Cell Lung Cancer (NSCLC)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Cachexia; Cancer; Non Small Cell Lung Cancer
+Interventions: anamorelin HCl (DRUG); Placebo Oral Tablet (DRUG)
+Summary: The goal of this clinical trial was to compare the efficacy and safety of anamorelin HCl (the investigational drug) to that of placebo (tablet with no drug) in patients with advanced non-small cell lung cancer and cachexia (cancer-related weight loss). The main question it aimed to answer was as follows: Do patients who receive anamorelin HCl gain more body weight and show more improvement in anorexia symptoms than those who receive placebo.
+
+Approximately 316 patients were to be enrolled in the study. Of these patients, an equal number were to be assigned to each treatment group (anamorelin HCl or placebo). Participants were to take their assigned study drug by mouth once daily for a total of 24 weeks. During this treatment period, the patients were to visit the clinical study site every 3 weeks for health and other study-related assessments. Two weeks after the last treatment, patients were to receive a follow-up phone call.
+Eligibility: Inclusion Criteria:
+
+1. Signed written informed consent
+2. Female or male ≥18 years of age
+3. Documented histologic or cytologic diagnosis of American Joint Committee on Cancer (AJCC) Stage III or IV NSCLC. Stage III patient must have unresectable disease
+4. Body mass index \< 20 kg/m2 with involuntary weight loss of \>2% within 6 months prior to screening
+5. Ongoing problems with appetite/eating associated with the underlying cancer, as determined by having score of ≤ 17 points on the 5-item Anorexia Symptom Scale and ≤ 37 points on the 12-item FAACT A/CS
+6. Patient receiving or not receiving systemic anti-cancer treatment at the time of screening are eligible to participate. Systemic anti-cancer treatment includes first, second, third treatment line with chemotherapy/radiation therapy, immunotherapy or targeted therapy.
+
+   Patient not receiving systemic anti-cancer treatment is eligible if:
+   1. Not planning to receive anti-cancer treatment and/or at least 14 days must be elapsed from the completion of prior treatment at the day of screening, in case underwent previous cycle OR
+   2. Planning to receive anti-cancer treatment within 14 days from randomization and/or at least 14 days must be elapsed from the completion of prior treatment at the day of screening, in case underwent previous cycle OR
+   3. Patient on palliative care treatment
+7. ECOG performance status 0,1 or 2 at screening
+8. AST (SGOT) and ALT (SGPT) ≤ 3 x ULN or if hepatic metastases are present ≤ 5 x ULN
+9. Adequate renal function, defined as creatinine ≤2 ULN, or calculated creatinine clearance \>30 ml/minute
+10. Female patient shall be: a) of non-childbearing potential or b) of childbearing potential using reliable contraceptive measures and having a negative urine pregnancy test within 24 hours prior to first dose of investigational product.
+
+    Notes:
+    1. Female patient of non-childbearing potential are defined as being in post-menopausal state since at least 1 year; or having documented surgical sterilization or hysterectomy at least 3 months before study participation.
+    2. Reliable contraceptive measures include implants, injectables, combined oral contraceptives, intrauterine de

@@ -1,0 +1,28 @@
+Title: GABA Biomarkers in Dravet Syndrome
+Official title: Electrophysiological Biomarkers of GABA Metabolism in Children With SCN1A+ Dravet Syndrome
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Dravet Syndrome
+Interventions: GABA Blood Level (DIAGNOSTIC_TEST)
+Summary: This study will non-invasively obtain levels of GABA in the brain of children with SCN1A+DS and neurodeveloping children through evoked and induced cortical responses, correlate them with the BOLD responses, and with the levels of GABA in their blood.
+Eligibility: Inclusion Criteria:
+
+1. Authorized representative (parent/caregiver) must be willing and able to give informed consent for the participant's participation in the study. Participants capable of providing informed assent must be willing to provide their assent.
+2. Participant and their parent/caregiver are willing and able (in the PI's opinion) to comply with all study requirements.
+3. Participant is male or female aged between 0 months and 18 years of age, inclusive, at the time of consent.
+4. Participant has a confirmed pathogenic or likely pathogenic SCN1A mutation, as demonstrated by genetic testing.
+5. Participant had normal development prior to onset of first seizure as defined by the Centers for Disease Control and Prevention (CDC 2019).
+6. Participant had an onset of seizures, defined as first focal clonic/hemiclonic, generalized/focal, generalized tonic-clonic/clonic, atonic, prolonged seizure, or status epilepticus between age 3 and 5 months, inclusive.
+7. Participant should have an evaluation by a pediatric neurologist with a diagnosis of DS.
+
+Exclusion Criteria:
+
+1. Participant has a copy number variant of SCN1A, including SCN1A microdeletion, affecting other genes.
+2. Participant has an SCN1A mutation present on both alleles.
+3. Participant has a known pathogenic or clinically suspected mutation in a seizure-associated gene besides SCN1A.
+4. Participant has a confirmed mutation in a gene besides SCN1A, that is known to increase the severity of the seizure phenotype.
+5. Participant has a known gain-of-function mutation, as defined by functional studies, including p.Thr226Met.
+6. Participant has a history of notable developmental deficit that was evident prior to seizure onset, by physician report.
+7. Participant has a known central nervous system structural abnormality as found on magnetic resonance imaging or computed tomography scan of brain which, in the opinion of the Principal Investigator (PI), is not consistent with the clinical phenotype of DS. Note: Prior scans may be used, and no new scan is required to confirm normal imaging.
+8. Metal implants.
+9. Baclofen pump.
+10. Inability or unwillingness of patient or parent/legally authorized represent

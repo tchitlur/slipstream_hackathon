@@ -1,0 +1,29 @@
+Title: Dysport for the Treatment of OMD
+Official title: A Pilot Dose Ranging Study of Dysport® (AbobotulinumtoxinA) in the Treatment of Oromandibular Dystonia
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Oral Dystonia; Tardive Dystonia
+Interventions: Low Dose - AbobotulinumtoxinA (DRUG)
+Summary: The purpose of this study is to study the efficacy and safety of AbobotulinumtoxinA (Dysport) for use in Oromandibular Dystonia (OMD).
+Eligibility: Inclusion Criteria:
+
+* a diagnosis of primary or tardive OMD
+* moderate or severe severity, defined as GDS score ≥4 in either "lower face" or "jaw and tongue" section
+* capability of attending the scheduled visits
+* only those who have been previously injected with onabotulinumtoxinA and responded to that treatment, and are at least 12 weeks post last injection
+* Women of childbearing age need to use contraception in order to be included.
+
+Exclusion Criteria:
+
+* Existence of a systemic disease that could confound the evaluation
+* previous placement of Deep Brain Stimulation electrodes to treat dystonia
+* concomitant oral medications that could interfere with the action of botulinum toxin Type A (e.g., aminoglycosides)
+* on an unstable dosage of any medication prescribed to treat dystonia (e.g., benzodiazepines, baclofen or anticholinergics)
+* any known hypersensitivity to any botulinum toxin preparation and allergy to cow's milk protein
+* immunoresistance to other forms of botulinum toxin type A
+* existence of a concomitant neuromuscular disorder (e.g., Myasthenia Gravis or Lambert-Eaton syndrome, etc)
+* infection at the proposed injection sites
+* pregnant women
+* women of childbearing age NOT on contraception
+* breastfeeding women
+* inability to comply with scheduled visits
+* patients who had been previously injected with botulinum toxin type A but who did not respond

@@ -1,0 +1,38 @@
+Title: Dose Escalation Study Evaluating Safety of TheraSphere Prostate Cancer (PCa) Device
+Official title: An Early Feasibility Study to Evaluate the Safety of the TheraSphere Prostate Cancer (PCa) Device in Patients With Clinically Localized Prostate Cancer
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Prostate; Cancer
+Interventions: TheraSphere PCa (DEVICE)
+Summary: The VOYAGER Study is an interventional, non-randomized, single-arm, dose escalation trial with the goal of determining the safety of TheraSphere PCa device in patients with clinically localized prostate cancer across US-based centers.
+Eligibility: Inclusion Criteria:
+
+1. Subject has ability to comprehend and willingness to sign and date the IRB-approved study informed consent form (ICF), and to comply with the study testing, procedures, and follow-up schedule.
+2. Histologic confirmation of adenocarcinoma of the prostate by MR-fusion biopsy. Referral biopsy for eligibility must be completed between 180 days and 6 weeks prior to mapping procedure.
+3. Subject with favorable intermediate risk clinically localized prostate cancer defined per NCCN Guidelines version 3.2022 as follows:
+
+   * Favorable intermediate-risk has all the following:
+   * i. One Intermediate Risk Factor (IRF):
+
+     1. cT2b-cT2c
+     2. Grade Group 2 or 3
+     3. PSA 10-20 ng/mL
+   * ii. Grade Group 1 or 2
+   * iii. \<50% biopsy cores positive (e.g., \<6 of 12 cores)
+4. Staging MRI must confirm American Joint Committee on Cancer (AJCC, 8th edition) stage T1, T2a, T2b or T2c.
+5. Whole prostate gland volume ≥ 60 cc (measured on MRI)
+6. International Prostate Score Symptom (I-PSS) ≤ 18
+7. Estimated life expectancy of \>5 years according to NCCN guideline's tools (NCCN v03.2022) who has declined or is ineligible for Standard of Care treatments (observation, active surveillance, surgery, and radiation therapies \[brachytherapy/external beam radiation therapy\])
+8. Eastern Cooperative Oncology Group (ECOG) Performance Status 0-2
+9. Angiographic inclusion criteria:
+
+   * a. Type I to IV prostate artery origins on both hemiglands.1
+   * b. No evidence of procedure limiting vascular abnormalities (aneurysms, stenosis, shunt, fistula, occlusion) or morphologic asymmetric single prostate artery on either side (hemigland)
+   * c. Bilaterally accessible solitary prostatic arteries.
+   * d. Complete perfusion of the prostate gland via a single dominant vessel for each hemigland
+10. Have adequate organ and bone marrow function within 30 days prior to index procedure, as defined below:
+
+    * a. International Normalized Ratio (INR) ≤ 1.2 (in absence of anticoagulation)
+    * b. Platelets ≥ 75,000/L
+    * c. GFR ≥ 40 mL/min/1.73m2
+    * d. Absolute Neutrophil Count (ANC) ≥ 1.5 x 109/L
+    * e. Hemoglobin (Hgb) ≥ 9.0 g/dL (Note: the use of transfusion or 

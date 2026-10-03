@@ -1,0 +1,16 @@
+Title: MyGeneRank: A Digital Platform for Next-Generation Genetic Studies
+Official title: MyGeneRank: A Digital Platform for Next-Generation Genetic Studies
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Heart Diseases
+Interventions: Receive genetic risk information (OTHER)
+Summary: Many conditions affecting health are caused by a combination of environment, behaviors, and genes. While individuals can alter some factors in their lives to reduce the chances of developing different diseases (e.g., not smoking cigarettes), the contribution from genetic risk encoded by DNA remains with people throughout their lives. Scientists are still trying to determine the entirety of genetic factors that influence disease, but for some conditions it has been shown that the factors identified thus far can begin to identify people at high to low genetic risk. Looking across the genome, scientists can calculate a cumulative genetic risk score - which can be used to rank genetic risk compared to other worldwide populations.
+
+The goal of this study is to determine how genetic risk influences health decisions and other things that can be controlled in life. The first genetic risk score is calculated for coronary heart disease (CAD). CAD ultimately leads to heart attacks, heart failure and sometimes sudden cardiac death and is the main reason heart disease remains as the number one cause of death worldwide. Other researchers have shown that this genetic risk score can be used to ide
+Eligibility: Inclusion Criteria:
+
+* Customer of 23andMe willing to share their 23andMe data
+* User of Apple mobile device
+
+Exclusion Criteria:
+
+* Under 18 years old

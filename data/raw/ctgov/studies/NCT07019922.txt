@@ -1,0 +1,18 @@
+Title: A Clinical Trial of Elsunersen in Pediatric SCN2A-DEE to Assess Efficacy and Safety
+Official title: A Multi-Center, Single-Arm Clinical Trial to Investigate the Efficacy and Safety of Elsunersen in Pediatric Participants With Early Onset SCN2A Developmental and Epileptic Encephalopathy
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Epileptic Encephalopathy; SCN2A Encephalopathy
+Interventions: 1mg elsunersen (DRUG); 0.5mg elsunersen (DRUG)
+Summary: A Multi-Center, Single-Arm Clinical Trial to Investigate the Efficacy and Safety of Elsunersen in Pediatric Participants with Early Onset SCN2A Developmental and Epileptic Encephalopathy
+Eligibility: Inclusion Criteria:
+
+* Has a documented Gain of Function SCN2A variant confirmed through genetic testing.
+* Has onset of seizures prior to 3 months of age.
+* Seizure frequency of 4 or more countable motor seizures per 28-day during the Baseline Observation Period.
+
+Exclusion Criteria:
+
+* Has any clinically significant or known pathogenic genetic variant other than in the SCN2A gene, or a genetic variant that may explain or contribute to the participant's epilepsy and/or developmental disorder.
+* Has bone, spine (eg, kyphosis, scoliosis), bleeding, or other disorder.
+* Has received any experimental or investigational drug, device, or other therapy within 30 days or 5 half-lives (whichever is longer) prior to Screening, including any prior use of gene therapy.
+* Is currently pregnant or breastfeeding or is planning to become pregnant during the clinical trial.

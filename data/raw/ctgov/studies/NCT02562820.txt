@@ -1,0 +1,21 @@
+Title: An Exploratory Trial of Ketamine for the Treatment of Rett Syndrome
+Official title: Ketamine for the Treatment of Rett Syndrome: An Exploratory Trial
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Rett Syndrome
+Interventions: Intravenous infusion (PROCEDURE); Intravenous infusion (PROCEDURE)
+Summary: Rett Syndrome (RTT) is a complex disorder resulting from mutations in a gene encoding the MeCP2 protein. Currently, there are no methods to fix the abnormal gene, however, animal studies suggest that the symptoms of RTT can be treated.
+
+Ketamine is a sedative or anesthetic, depending on the dose. The drug is approved by the US Food and Drug Administration (FDA) and is commonly used in children and adults. Animal studies and case reports in humans suggest that ketamine may reduce the symptoms of Rett syndrome. The purpose of this study is to determine the safety and efficacy of ketamine for treating breathing and behavioral symptoms of RTT.
+Eligibility: Inclusion Criteria:
+
+1. Rett syndrome diagnosis based on the 2010 RTT diagnostic criteria, as determined by review of clinical records, and
+2. Pathogenic mutation in the MECP2 gene, and
+3. Breathing score of 3 or greater on RSBQ, and
+4. Age 5-25 years.
+
+Exclusion Criteria:
+
+1. Ongoing clinical regression as determined by review of clinical records and consultation with parents, or
+2. Seizure within one week of study session, or
+3. Unstable systemic illness other than Rett syndrome, or
+4. Clinically important variations in medication use.

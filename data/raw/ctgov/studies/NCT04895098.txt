@@ -1,0 +1,27 @@
+Title: Statin Monotherapy or Statins in Combination With Ezetimibe in Patients for Prevention of CVD
+Official title: Retrospective Observational Study of the Efficacy and Safety of Statin Monotherapy or Statins in Combination With Ezetimibe in Patients Receiving Lipid-lowering Therapy in Both Primary and Secondary Prevention of CVD
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Lipid Metabolism Disorders; Cardiovascular Diseases
+Interventions: statin and ezetimibe combination therapy (DRUG); statin monotherapy (DRUG)
+Summary: Retrospective observational study of the efficacy and safety of statin monotherapy or statins in combination with ezetimibe in patients receiving lipid-lowering therapy in both primary and secondary prevention of cardiovascular diseases (CVD). The study will include patients receiving lipid-lowering therapy in both primary and secondary prevention of CVD who have received therapy of interest for ≥ 3 months in the 2 years preceding the signing of informed consent, i.e. statins as monotherapy or in combination with ezetimibe in a stable mode (without dose adjustment and/or statin replacement). Effectiveness of therapy will be evaluated based on the data on changes in baseline levels of total cholesterol (CS), low density lipoproteins (LDL), high density lipoproteins (HDL), triglycerides (TG), data on which will be obtained from primary medical records. Demographic and anthropometric data on patients, information on the history of hyperlipidemia and concomitant diseases will also be obtained. Also, the study will collect data on the development of adverse reactions of particular interest during therapy (liver/muscle damage, major cardiovascular events (MACE).
+Eligibility: Inclusion Criteria:
+
+Patient can be included in the study only once.
+
+1. Age \> 18 years.
+2. Patient receiving lipid-lowering therapy with statin monotherapy or statins in combination with ezetimibe for both primary and secondary prevention of CVD.
+3. Receiving statins as monotherapy or statins in combination with ezetimibe in a stable dosing regimen for 3 or more months at the time of enrolment in the study.
+4. Willingness and ability to sign an informed consent to participate in the study.
+5. Availability of primary medical documentation, which allows assessment of all parameters necessary for the study from the moment of initiation of statin monotherapy or statins in combination with ezetimibe.
+6. Initiation of lipid-lowering therapy not earlier than 2 years before enrolment into the study.
+
+Exclusion Criteria:
+
+1. Age \< 18 years.
+2. A diagnosis of familial hypercholesterolemia made prior to study enrolment or the investigator's suspicious of the possible presence of familial hypercholesterolemia.
+3. Change in lipid-lowering therapy within 3 months prior to study enrolment.
+4. Concomitant administration of omega-3 PUFA with statin monotherapy or combination therapy of statins and ezetimibe, as well as the use of any methods of extracorporeal filtration and/or plasmapheresis.
+5. Clinically significant impairment of liver and/or kidney function, which may impede interpretation of test results
+6. Presence of hypothyroidism
+7. Ezetimibe monotherapy
+8. Intolerance to statins at any dose

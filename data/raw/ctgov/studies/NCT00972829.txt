@@ -1,0 +1,26 @@
+Title: Tolerability and Lipid Lowering Effect of Weekly/Biweekly Crestor in Statin Intolerant Patients Treated With Zetia
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Hypercholesterolemia
+Interventions: Rosuvastatin (DRUG); Ezetimibe (DRUG)
+Summary: Recently, research studies have shown that patients who have had trouble taking statins every day, are able to take statins if they take them only once or twice a week. The investigators are doing a research study which involves switching people who are taking ezetimibe to the statin Crestor once or twice a week and to see how ell Crestor lowers cholesterol and if it is tolerated.
+Eligibility: Inclusion Criteria:
+
+* Patients with a history of intolerance to statins
+* Patients currently receiving ezetimibe
+* Patients willing and able to provide signed informed consent
+
+Exclusion Criteria:
+
+* Patients receiving a statin (Lipitor, Crestor, Lescol, Simvastatin, or Pravachol)
+* Stroke, TIA, myocardial infarction, unstable angina, percutaneous coronary intervention, coronary artery bypass surgery, or major surgery within 3 months
+* Cancer undergoing active treatment
+* Creatinine clearance \< 40 ml/minute
+* Active liver disease or persistent elevation of SGOT or SGPT \> 2 times the upper limit of normal level
+* Participation in any clinical study within the last 30 days
+* Drug addition or alcohol abuse within the past 6 months
+* Use of cyclosporine within the last 3 months
+* Use of gemfibrozil within the last month
+* Patients unwilling or unable to provide informed consent
+* Patients with poor compliance
+* Women of childbearing potential
+* History of rhabdomyolysis due to statins

@@ -1,0 +1,40 @@
+Title: Downmodulating Monocyte Activation for HIV-1 Associated Neurocognitive Disorders (HAND)
+Official title: Statin Modulation of Monocyte/Macrophage Activation for HAND Treatment
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: HIV Dementia
+Interventions: Atorvastatin (generic Lipitor) (DRUG); placebo (DRUG)
+Summary: HIV associated neurological disorders (HAND), are a major problem even in ART treated people. HAND results from chronic inflammation which is largely attributed to expansion and activation of monocytes. These activated monocytes, some of which also carry virus to the brain, invade the CNS and release cytokines / chemokines resulting in further recruitment of monocytes, as well as release viral proteins which injure neurons and cause activation of other brain cells. Persistent monocyte/macrophage activation is thus a potential critical target for adjunctive therapy to treat or prevent HAND. The investigators therefore propose to study the effects of a statin drug (Atorvastatin), which has anti-inflammatory functions, on the monocyte activation status in ART treated HIV+ individuals.
+
+The investigators objectives are based on the hypothesis that Atorvastatin treatment will reduce the inflammatory and activated phenotype and function of monocytes which have been linked to HIV associated neuropathogenesis and occur in HIV infected subjects despite ART. In this study the investigators propose to
+
+1\) define the effect of Atorvastatin on monocyte activation in HIV infected / ART treated 
+Eligibility: Inclusion Criteria:
+
+1. Chronic HIV-1 infected individuals on HAART (with no change in treatment within 4 weeks of study entry) and willing to continue therapy for the duration of the study.
+2. HIV viral load less than 200 copies/ml for more than 6 months at time of screening.
+3. Nadir CD4 count less than 350 and current CD4 counts greater than 100 cells/ul.
+4. Hs-CRP levels above 2mg/L.
+5. Willingness to use a method of contraception during the study period.
+6. Willingness to comply with study evaluations for LP sub-study.
+7. Karnofsky performance score of 80 or higher.
+8. If female, willing to undergo pregnancy testing on a monthly basis and not breastfeeding.
+9. Hemoglobin greater than or equal to 9.0 g/dL for female and 10.0 g/dL for male subjects.
+10. men and women 18 years or older.
+
+Exclusion Criteria:
+
+1. Concomitant use of fibric acid derivatives or other lipid lowering agents including patients on statins and Ezetimibe.
+2. Use of any anti-inflammatory drugs (OTC or prescription) on a daily basis.
+3. Pregnancy or breastfeeding
+4. Active drug use or alcohol abuse/dependence which in the opinion of researchers will interfere with the patients' ability to participate in the study.
+5. Allergy or hypersensitivity to Atorvastatin or any of its components.
+6. History of myositis or rhabdomyolysis with use of any statins.
+7. Patients who are on concurrent immunomodulatory agents, including systemic corticosteroids (nasal or inhaled) will be ineligible for 3 months after completion of therapy with the agent.
+8. History of inflammatory muscle disease such a poly or dermatomyositis.
+9. Serious intercurrent illness requiring systemic treatment and/or hospitalization within 30 days of entry.
+10. Evidence of active opportunistic infections requiring treatment or neoplasms that require chemotherapy during study period.
+11. CPK greater than 3 times the ULN.
+12. Known active liver disease or AST/ALT greater than 3 times the ULN.
+13. Renal insufficiency, indicated by serum creatinine greater than 2mg/dL.
+14. Absolute neutrophil counts less than 1000/ul; hemoglobin less than 10g/dL for males and less than 9g/dL for females; platelet counts less than 100,000/mm3.
+15. Docum

@@ -1,0 +1,21 @@
+Title: Angelman Syndrome (AS) Biomarker Study
+Official title: A Study to Explore Cerebrospinal Fluid and Blood Biomarkers in Participants With Angelman Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: EARLY_PHASE1.
+Conditions: Angelman Syndrome; Chromosome 15q Duplication (dup15q) Syndrome
+Interventions: Lumbar Puncture (PROCEDURE); Blood Collection (PROCEDURE)
+Summary: The primary objective of this study is to measure ubiquitin-protein ligase E3A (UBE3A) protein levels in cerebrospinal fluid (CSF) and to evaluate its utility as a biomarker in support of the development of therapies for AS.
+Eligibility: Key Inclusion Criteria:
+
+* Ability of the participant's legally authorized representative (LAR) to understand the purpose and risks of the study and provide signed and dated informed consent and authorization to use confidential health information in accordance with national and local privacy regulations
+* Must have genetically confirmed diagnosis of AS (UBE3A deletion, UBE3A mutation, paternal uniparental disomy, or imprinting center defect) or dup15q syndrome (with number and size of duplications of 15q specified) provided by the Investigator
+* Must be scheduled for a procedure unrelated to the study that will involve administration of general anesthesia or conscious sedation.
+
+Key Exclusion Criteria:
+
+* Lumbar Puncture (LP) procedure less than 30 days before the Sampling Visit
+* Any contraindications to having an LP
+* The blood and CSF collection will, in the opinion of the Investigator, inhibit, in some way, the prescheduled procedure that requires anesthesia or sedation
+* Current enrollment or past enrollment in an interventional clinical study in which an investigational gene therapy or antisense oligonucleotide (ASO) is/was administered
+* Enrollment in an interventional clinical study in which an investigational small molecule/antibody treatment or approved small molecule/antibody therapy is administered within 1 month (or 5 half-lives of study agent, whichever is longer) prior to the Sampling Visit which, under the judgement of the Investigator and/or Sponsor would affect UBE3A and other CSF biomarker levels. Use of approved or investigational small molecule therapies which would not impact the biomarkers above will be eligible with Sponsor approval prior to enrollment (e.g., anti-epileptic drugs being studied in alternative formulation, other derivatives of benzodiazepines, or other same class drugs as those already permitted as part of the study).
+
+Note: Other protocol defined inclusion/exclusion criteria may apply.

@@ -1,0 +1,27 @@
+Title: Phase II Trial of AZD2014 in TSC1/2 Mutated or TSC1/2 Null GC Patients as Second-line Chemotherapy
+Official title: Samsung Medical Center
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Cancer of Stomach
+Interventions: AZD2014 (DRUG)
+Summary: Phase II trial of AZD2014 in TSC1/2 mutated or TSC1/2 null GC patients as second-line chemotherapy
+Eligibility: Inclusion Criteria:
+
+1. Provision of fully informed consent prior to any study specific procedures.
+2. Patients must be ≥20 years of age.
+3. Advanced gastric adenocarcinoma (including GEJ) that has progressed during or after first-line therapy.
+
+   * The 1st line regimen must have contained doublet 5-fluoropyrimidine and platinum based regimen.
+   * Relapse within 6 months of completion of adjuvant/neoadjuvant chemotherapy containing doublet 5-fluoropyrimidine and platinum-based regimen could be considered as 1st line therapy.
+   * Acceptable prior chemotherapy regimens for this protocol are chemotherapy regimens that include Immune Target agent therapy. (such as a pembrolizumab, ramucirumab etc)
+4. Previous adjuvant/neoadjuvant chemotherapy is allowed, if completed more than 6 months prior to starting the 1st line therapy.
+5. Provision of tumor sample (from eith tumor sample (from eith tumor sample (from eith tumor sample (from eith tumor sample (from eith er a resection or biopsy)er a resection or biopsy) er a resection or biopsy)er a resection or biopsy) er a resection or biopsy)er a resection or biopsy)er a resection or biopsy)er a resection or biopsy)er a resection or biopsy) er a resection or biopsy) er a resection or biopsy) er a resection or biopsy)er a resection or biopsy)
+6. Patients with TSC1/2 mutation or null through the VIKTORY trial. (The VIKTORY trial uses Ion Torrent PGM to screen for a panel of cancer mutations and nanostring copy number variation panel (see addendum for the VIKTORY trial). Types of TSC1/2 mutation for this trial was defined in VIKTORY lab manual
+7. Patients are willing and able to comply with the protocol for the duration of the study including undergoing treatment and scheduled visits and examinations.
+8. ECOG performance status 0-2.
+9. Patients must have a life expectancy ≥ 3 months from proposed first dose date.
+10. Patients must have acceptable bone marrow, liver and renal function measured within 28 days prior to administration of study treatment as defined below:
+
+    \- Haemoglobin ≥9.0 g/dL (transfusion allowed)
+    * Absolute neutrophil count (ANC) ≥ 1.5 x 109/L
+    * White blood cells (WBC) \> 3 x 109/L
+    * Platele

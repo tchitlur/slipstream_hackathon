@@ -1,0 +1,23 @@
+Title: High-intensity Atorvastatin for Arteriovenous Fistula Failure (HAFF): A Feasibility Pilot Study
+Official title: High-intensity Atorvastatin for Arteriovenous Fistula Failure (HAFF): A Feasibility Pilot Study
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Primary Arteriovenous Fistula Failure
+Interventions: Atorvastatin 40mg (DRUG); Placebo (OTHER)
+Summary: Primary failure is the most common complication of newly created arteriovenous fistulas (AVFs) and an important contributor to end stage renal disease (ESRD) patients' morbidity and mortality. Recently, the investigators have found that high intensity atorvastatin (40 mg/day) reduces AVF primary failure significantly when compared to other statins or no statin treatment in three separate prospective and retrospective studies done in collaboration with the University of Miami. Based on these findings and considering the necessity for a therapy to improve AVF maturation rates, the investigators propose the realization of a feasibility pilot double blinded randomized controlled trial (RCT). In this study, a total of 50 patients will be randomly allocated to receive high intensity atorvastatin (40 mg daily) or placebo starting at two weeks before surgery and until the end of the observational period (6 weeks after surgery). Present trial will reveal crucial feasibility information such as the appropriateness of the eligibility criteria, patient recruitment and retention rates, compliance, adverse events, efficacy of patient follow-ups, and readiness of the facilities and involved perso
+Eligibility: Inclusion Criteria:
+
+* age\>18 years of age;
+* stage 4 or 5 CKD;
+* one-stage AVF surgery is planned (radiocephalic or brachiocephalic);
+* and statin-naïve or at least 6 months from last statin use.
+
+Exclusion Criteria:
+
+* revision of an existing AVF instead of a de novo access;
+* known intolerance or hypersensitivity to statins;
+* active liver disease;
+* elevation in AST, ALT or CPK of more than 3 times the upper limit of normal;
+* baseline LDL\<40 mg/dL;
+* coadministration of strong interacting drugs;
+* any condition in which statins are contraindicated;
+* involvement in another trial where the intervention may confound the outcome of this trial.

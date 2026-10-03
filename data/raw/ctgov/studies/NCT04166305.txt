@@ -1,0 +1,21 @@
+Title: Drug Resistant Epilepsy: Clinical and Genetic Study
+Official title: Clinical and Genetic Factors Associated With Drug Resistance of Epilepsy
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Epilepsy, Drug Resistant
+Interventions: Genetic study for SCN1A c.3184 A/G and CCL2-2518G>A polymorphism: (GENETIC)
+Summary: This study is to identify the clinical criteria of drug resistant epilepsy and to explore whether SCN1A c.3184 A/G (rs2298771) and ccl2(rs1024611) polymorphisms could serve as genetic based biomarkers to predict drug resistance among epileptic patient.
+Eligibility: Inclusion Criteria:
+
+* Patient with diagnosis of epilepsy (idiopathic or cryptogenic/symptomatic), according to the International League Against Epilepsy classification confirmed by electroencephalogram.
+* Treatment with at least one AED, long enough to achieve the optimal dose; drug-resistance and drug-responsiveness, according to the criteria ILAE 2010.
+
+Exclusion Criteria:
+
+* Patient with severe adverse anti-epileptic drug reactions.
+* Patient with unreliable records of seizure frequency.
+* Patient with poor compliance with AEDs,.
+* Patient with significant psychiatric comorbidity,
+* Patient with progressive systemic disorders .
+* Patient with history of alcohol or drug abuse.
+* Epileptic patients in clinical remission or with gradual withdrawal of therapy.
+* Epileptic patients with therapy titration phase.

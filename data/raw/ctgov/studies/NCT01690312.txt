@@ -1,0 +1,31 @@
+Title: Clinical Study to Assess High-DHA Fish Oil on Biomarkers of Cardiovascular Disease Risk in Adults on Statin Therapy
+Official title: Clinical Study to Assess the Acute and Chronic Effects of a High-DHA Fish Oil on Fasting and Post-Prandial Biomarkers of Cardiovascular Disease Risk in Adults on Statin Therapy.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Cardiovascular Disease
+Interventions: Fish Oil (DIETARY_SUPPLEMENT); Placebo (DIETARY_SUPPLEMENT)
+Summary: The objective of this study is to determine the acute and chronic \[4-week\] effects of a high-DHA fish oil supplement on fasting and post-prandial (post-meal) biomarkers of cardiovascular disease risk, in adults on Statin therapy.
+Eligibility: Inclusion Criteria:
+
+* Be an adult between the ages of 18 and 70;
+* Be a male or a post-menopausal female who has gone a minimum of one year since their last menses;
+* Be taking Statin medication at a stable dose for a minimum of four weeks prior to study commencement \[and whom have reached a target LDL level\];
+* Have elevated fasting triglyceride levels \[greater than 1.5 mmol/L but less than 5.7 mmol/L\];
+* Have fasting blood glucose levels below the study cut-off \[less than 7.0 mmol/L\];
+* Have a Body Mass Index (BMI) less than 35.0
+* Be taking natural health products BUT agree to cease consumption during the study period and a 4-week pre-study washout prior to study commencement. Study participants will be allowed to consume a daily multivitamin if they have been doing so at a stable dose for a minimum of three months prior to study commencement.
+
+Exclusion Criteria:
+
+* Be younger than 18 years of age or older than 70 years of age;
+* Be an adult pre- or peri-menopausal female;
+* Not have taken Statin medication at a stable dose for a minimum of 4 weeks prior to study commencement;
+* Have fasting triglyceride levels outside of study limits\[ie/ less than 1.5 mmol/L or greater than 5.7 mmol/L\];
+* Have elevated fasting blood glucose levels \[greater or equal to 7.0 mmol/L\];
+* Have high blood pressure \[greater than 140/100\]
+* Have a Body Mass Index (BMI) equal to or greater than 35.0
+* Have a pre-existing cardiovascular disease or illness, including angina, myocardial infarction, stroke, intermittent claudication or transient ischemic attack;
+* Have a known allergy to fish and/or fish oil, olive oil, soy or Vitamin E;
+* Be taking natural health products but are unwilling to cease consumption during the study period and a 4-week pre-study washout prior to study commencement;
+* Consume more than two (2) fish meals on a weekly basis
+* Consume excessive amounts of alcohol on a weekly basis \[more than 10 alcoholic drinks per week\];
+* Anticipate or have planned surgery during the course of the study.

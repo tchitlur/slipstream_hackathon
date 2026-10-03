@@ -1,0 +1,30 @@
+Title: Add-on Therapy With Low Dose Fenfluramine in Lennox Gastaut Epilepsy
+Official title: Add-on Therapy With Low Dose Fenfluramine in Lennox Gastaut Epilepsy
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Epilepsy; Lennox Gastaut Syndrome
+Interventions: Fenfluramine (DRUG)
+Summary: In this trial, the potential anti-epileptic effect of low dose fenfluramine in Lennox Gastaut epilepsy will be studied. An exploratory dose finding add-on trial is proposed. At baseline and at the end of the study, ECG and ultrasound of the heart will be performed as part of the safety follow up.
+Eligibility: Inclusion criteria
+
+Electro-clinical epilepsy syndrome compatible with Lennox Gastaut syndrome:
+
+* Minimum requirements (based on ILAE epilepsydiagnosis.org):
+
+  * Multiple seizure types including in any case tonic seizures
+  * EEG shows slow spike waves and abnormal background
+  * Abnormal cognitive development
+  * MRI compatible with Lennox Gastaut epilepsy : no progressive disease
+* Drug resistant:
+
+  * at least 4 documented seizures in the last 4 weeks before inclusion (minimum 4 seizures in at least 2 separate weeks) Seizure types eligible for inclusion are : generalized tonic-clonic seizures GTC , tonic seizures TS , atonic seizures AS or clearly recognizable focal seizures FS.
+  * on \>= 2 AEDs (including VNS) during the 4 weeks before inclusion (no changes in treatment before inclusion and during the trial)
+* Age between 3 and 18 years
+* Subject is male or non-pregnant, non-lactating female. Female subjects of childbearing potential must not be pregnant or breast-feeding. Female subjects of childbearing potential must have a negative urine pregnancy test. Subjects of childbearing or child-fathering potential must be willing to use medically acceptable forms of birth control, which includes abstinence, while being treated on this study and for 90 days after the last dose of study drug.
+
+Exclusion Criteria
+
+* Known clinical cardiovascular abnormalities (including valvular problems, shunts, pulmonary hypertension, exercise intolerance)
+* Any cardiac ultrasound/ECG abnormalities at baseline
+* Weight below percentile 3 for age at baseline
+* Subject is receiving concomitant therapy with: centrally-acting anorectic agents; monoamine oxidase inhibitors; any centrally-acting compound with clinically appreciable amount of serotonin agonist or antagonist properties, including serotonin reuptake inhibition; atomoxetine, or other centrally-acting noradrenergic agonist; cyproheptadine, and/or cytochrome P450 (CYP) 2D6/3A4/2B6 inhibitors/substrates.
+* Subject is unwilling to refrain from large or daily servings of grapefruits and/or Seville oranges, and their juices beginning with the Baseline Period and throughout the study.

@@ -1,0 +1,22 @@
+Title: Study to Assess the Long Term Safety and Efficacy of UX007 in Participants With Glucose Type 1 Deficiency Syndrome (Glut1 DS)
+Official title: An Open-label Extension Study to Assess the Long-term Safety and Efficacy of UX007 in Subjects With Glucose Transporter Type 1 Deficiency Syndrome
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Glucose Transporter Type 1 Deficiency Syndrome
+Interventions: UX007 (DRUG)
+Summary: The primary objective of the study is to evaluate the long-term safety of UX007 in Glut1 DS participants.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of Glut 1 DS confirmed by cerebrospinal fluid glucose concentration. erythrocyte 3-O-methyl-D-glucose uptake assay, or solute carrier family 2 member 1 (SLC2A1) molecular genetic testing (Information obtained from Medical Records)
+* Males and females aged at least 1 year old at the time of informed consent
+* Completion of UX007G-CL201 study (NCT01993186). Glut1 DS patients who received UX007/triheptanoin treatment as apart of clinical studies, ISTs or expanded access/compassionate use treatment programs may be eligible at the discretion of the Sponsor
+* Provide written informed consent or verbal assent (if possible) with written informed consent by a legally authorized representative after the nature of the study has been explained, and prior to any research related procedures
+* Must, in the opinion of the investigator, be willing and able to complete all aspects of the study, and comply with accurate completion of the seizure diary
+* Females of childbearing potential must have a negative urine pregnancy test at Baseline and be willing to have additional pregnancy tests during the study. Females considered not of childbearing potential include those who have not experienced menarche, are post-menopausal (defined as having no menses for at least 12 months without an alternative medical cause), or are permanently sterile due to total hysterectomy, bilateral salpingectomy, or bilateral oophorectomy.
+* Participants of child-bearing potential or fertile males with partners of child-bearing potential who are sexually active must consent to use a highly-effective method of contraception as determined by the investigator from the period following the signing of the informed consent through 30 days after last dose of study drug.
+
+Exclusion Criteria:
+
+* Any known hypersensitivity to triheptanoin, that in the judgement of the investigator, places the subject at an increased risk for adverse effects
+* History of, or current suicidal ideation, behavior and/or attempts
+* Pregnant and/or breast feeding an infant
+* Unwilling or unable to discontinue use of prohibited medication (barbiturates, pancreatic lipase inhibitors) or other substance that

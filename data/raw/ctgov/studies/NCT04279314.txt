@@ -1,0 +1,27 @@
+Title: Open-Label Extension Study of Trofinetide for the Treatment of Girls and Women With Rett Syndrome
+Official title: A 40-Week, Open-label Extension Study of Trofinetide for the Treatment of Girls and Women With Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Rett Syndrome
+Interventions: Trofinetide (DRUG)
+Summary: To investigate the safety and tolerability of long-term treatment with oral trofinetide in girls and women with Rett syndrome
+Eligibility: Inclusion Criteria:
+
+1. Has completed the Week 12/End-of-treatment visit of the antecedent study, Study ACP-2566-003
+2. Met all entry criteria for the antecedent study
+3. May benefit from long-term treatment with open-label trofinetide in the judgment of the Investigator
+4. Can still swallow the study medication provided as a liquid solution or can take it by gastrostomy tube
+5. The subject's caregiver is English-speaking and has sufficient language skills to complete the caregiver assessments
+6. Subject and caregiver(s) must reside at a location to which study drug can be delivered and have been at their present residence for at least 3 months prior to Baseline
+
+Exclusion Criteria:
+
+1. Began treatment with growth hormone during the antecedent study
+2. Began treatment with IGF-1 during the antecedent study
+3. Began treatment with insulin during the antecedent study
+4. Has developed a clinically significant cardiovascular, endocrine (such as hypo- or hyperthyroidism, Type 1 diabetes mellitus, or uncontrolled Type 2 diabetes mellitus), renal, hepatic, respiratory, or gastrointestinal disease (such as celiac disease or inflammatory bowel disease) or has major surgery planned during the study
+5. Subject is judged by the Investigator or the Medical Monitor to be inappropriate for the study due to AEs, medical condition, or noncompliance with investigational product or study procedures in the antecedent study
+6. Has a clinically significant abnormality in vital signs at Baseline
+7. Has a QTcF interval of \>450 ms on the Baseline ECG performed before the first dose of trofinetide is given in the present study
+8. Has developed a clinically significant ECG finding during the antecedent study
+
+Additional inclusion/exclusion criteria apply. Patients will be evaluated at baseline to ensure that all criteria for study participation are met. Patients may be excluded from the study based on these assessments (and specifically, if it is determined that their baseline health and condition do not meet all prespecified entry criteria).

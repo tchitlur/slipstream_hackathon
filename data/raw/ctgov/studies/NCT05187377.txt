@@ -1,0 +1,26 @@
+Title: A Controlled Trial of Growth Hormone in Phelan-McDermid Syndrome and Idiopathic Autism
+Official title: Electrophysiological Markers for Interventions in Phelan-McDermid Syndrome and Idiopathic Autism
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Phelan-McDermid Syndrome; Autism Spectrum Disorder (ASD)
+Interventions: Growth Hormone (DRUG); Saline (DRUG)
+Summary: This clinical trial will use growth hormone as a novel treatment for Phelan-McDermid syndrome (PMS) and idiopathic autism. A double-blind, placebo-controlled crossover trial design will be used in 30 children with idiopathic autism and 15 children with PMS to evaluate the the effects of growth hormone on visual evoked potentials (VEPs), socialization, language, and repetitive behaviors. The researchers expect to provide evidence for the feasibility of using VEPs in PMS, and to show support for growth hormone in ameliorating clinical symptoms of ASD.
+Eligibility: Inclusion Criteria:
+
+* Children between 2 and 12 years of age
+* Open epiphyses on bone age x ray
+* Must be on stable medication and psychosocial treatment regimens for at least three months prior to enrollment, assuming the concomitant medication is safe for use with Growth Hormone
+* No prior use of Growth Hormone or IGF-1
+* ASD group: Meet DSM-5 criteria for Autism Spectrum Disorder confirmed by the Autism Diagnostic Interview-Revised (ADI-R) and the Autism Diagnostic Observation Schedule, Second Edition (ADOS-2); absence of known pathogenic copy number variants
+* PMS group: Known pathogenic deletions or mutations in SHANK3 gene diagnosed by array CGH and/or direct sequencing
+
+Exclusion Criteria:
+
+* Closed epiphyses
+* Active or suspected neoplasia
+* Intracranial hypertension
+* Hepatic insufficiency
+* Renal insufficiency
+* Cardiomegaly/valvulopathy
+* History of allergy to growth hormone or any component of the formulation (mecasermin)
+* Patients with comorbid conditions who are deemed too medically compromised to tolerate the risk of experimental treatment with growth hormone (including severe obesity, sleep apnea, and various acute health conditions)
+* Visual problems that preclude the use of VEP

@@ -1,0 +1,28 @@
+Title: Penicillin Allergy Delabeling After a One-Dose Versus Two-Dose Graded Direct Oral Challenge
+Official title: Penicillin Allergy Delabeling After a One-Dose Versus Two-Dose Graded Direct Oral Challenge
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Penicillin Allergy
+Interventions: Amoxicillin 250 MG (DRUG); Placebo (DRUG); Amoxicillin 62.5mg (DRUG); Amoxicillin 187.5mg (DRUG)
+Summary: The goal of this clinical trial is to learn about dosing when testing to see if a penicillin allergy label can be removed from adults that had been labeled as "penicillin-allergic" previously. The main question it aims to answer is:
+
+\- In penicillin-allergic patients that are at low risk of having an allergic reaction, is a one-dose oral challenge with amoxicillin (a penicillin-based antibiotic) as safe and effective as a two-dose oral challenge?
+
+Participants will, after being identified as having a low-risk penicillin allergy, be administered oral amoxicillin in a controlled setting and then monitored for an allergic reaction. Researchers will compare participants that took one dose of amoxicillin to participants that took two doses of amoxicillin (a small dose and then a larger dose) to see if either group was more likely to develop an allergic reaction.
+Eligibility: Inclusion Criteria:
+
+* Expresses interest in participating by calling or filling out information form on study website
+* Reports an allergy to one of the following medications: penicillin VK, penicillin G, amoxicillin, ampicillin, dicloxacillin, flucloxacillin, nafcillin, oxacillin, amoxicillin- clavulanate, ampicillin-sulbactam. Subjects with an unspecified penicillin allergy are also eligible to participate.
+
+Exclusion Criteria:
+
+* Penicillin allergy deemed to be more than "low-risk" per PEN-FAST (score ≥ 3 points)
+* History of acute kidney injury (acute interstitial nephritis), severe liver impairment (drug- induced liver injury), serum sickness, or isolated drug fever attributed to a penicillin- based antibiotic
+* Anaphylaxis for any reason in the last year
+* Cognitive impairment where a collateral history could not be obtained and/or patient does not have capacity to consent for themselves
+* Pregnant (self-reported)
+* Any illness or condition that would increase the risk of participation in the study, per the evaluating clinician's judgment
+* Active treatment of or history of acute angle closure glaucoma
+* On H1- or H2-blockers (i.e. diphenhydramine, hydroxyzine, chlorpheniramine, cetirizine, levocetirizine, loratadine, fexofenadine or famotidine, ranitidine, cimetidine, nizatidine, respectively) within 72 hours of initiating direct oral challenge (will be counseled to discontinue prior to testing)
+* Actively receiving greater than stress dose steroid (hydrocortisone \>50mg four times a day or steroid equivalent)
+* Actively receiving any antibiotic
+* Relative contraindication: Patients on beta blockers and angiotensin converting enzyme inhibitors (ACE inhibitors) will have an open dialog with the study team regarding the risks and benefits of testing a low-risk penicillin allergy patient. A joint decision will be made based on the patient's preference and the physician's comfort level.

@@ -1,0 +1,24 @@
+Title: A First-in-human Study of S230815 in Pediatric Participants With KCNT1-related Developmental and Epileptic Encephalopathy
+Official title: A Phase Ib/II First-in-human, Multicentre, Open-label, Multiple Ascending Dose Study to Assess the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamic Effect of Intrathecal S230815 in Pediatric Participants With KCNT1-related Developmental and Epileptic Encephalopathy
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Epileptic Encephalopathy
+Interventions: S230815- Starting dose A (DRUG); S230815- Dose B (DRUG); S230815- Dose C (DRUG); S230815- Dose D (DRUG)
+Summary: Study CL1-230815-001 (KANDLE) is a Phase Ib/II, First In Human, multicentre, open-label, multiple ascending dose study to assess the safety, tolerability, pharmacokinetics (PK) and pharmacodynamic (PD) effect of S230815 in pediatric participants with KCNT1-related Developmental Epileptic Encephalopathy. To participate in the study, participants must have a diagnosis of Developmental Epileptic Encephalopathy due to a documented pathogenic or likely pathogenic variant in KCNT1 (to be confirmed by central genetic testing at the screening visit). The study consists of a screening period followed by two consecutive interventional parts. Part 1 will evaluate multiple ascending doses of S230815. Part 2 is a long-term treatment extension for participants who have completed Part 1. Participants will seamlessly roll-over from Part 1 to Part 2, resuming the same cohort as they were assigned in Part 1, and will receive S230815 for a maximum of 72 weeks.
+Eligibility: Inclusion Criteria:
+
+* Male or female pediatric participants aged 2-12 years old at screening, with a genetically confirmed diagnosis of Developmental Epileptic Encephalopathy (DEE) due to a pathogenic or likely pathogenic variant in KCNT1 confirmed by central genetic testing.
+* Stable dose of other regular medications and/or stable antiseizure interventions (such as ketogenic diet and vagal nerve stimulation).
+
+Exclusion Criteria:
+
+* Other clinical phenotypes associated with pathogenic or likely pathogenic variants in KCNT1 other than Epilepsy of Infancy with Migrating Focal Seizures or Early-Onset Epileptic Encephalopathy
+* Documented pathogenic or likely pathogenic variants in any other gene known to cause epilepsy identified through prior genetic testing. Variants of uncertain significance in other genes known to cause epilepsy may be considered on discussion with the sponsor.
+* Clinically significant medical history or clinical findings on physical examination, other than DEE, that in the judgment of the investigator, make the participant unsuitable for participation in the study and/or completion of the trial procedures, including, but not limited to:
+
+  * Clinically significant prior or ongoing medical conditions within 30 days of the screening visit, as per investigator judgement.
+  * Clinically significant abnormality on Electrocardiogram (ECG) at the screening visit, as per investigator judgement.
+  * Clinically significant abnormality on laboratory testing at screening, including, but not limited to:
+  * Renal insufficiency, which is defined as creatinine clearance \< 40 mL/min assessed as estimated glomerular filtration rate (eGFR) using Modification of Diet in Renal Disease (MDRD) formula
+  * Hepatic derangement defined as transaminase values more than 3 times the Upper Limit of Normal (ULN) range, or total bilirubin values more than 1.5 times the ULN.
+* Positive hepatitis B surface antigen test, positive hepatitis C antibody test, positive for human immunodeficiency virus (HIV), as reported by a laboratory test within 6 months prior to the screening visit, or on screening bloods.
+* Bone, spine, bleeding disorders, or other disorder that exposes the

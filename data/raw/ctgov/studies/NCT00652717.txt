@@ -1,0 +1,13 @@
+Title: Study To Assess The Efficacy Of A Cholesterol Lowering Drug On Top Of Statins In Patients After Myocardial Infarction (MI)(0653A-150)
+Official title: A Multicenter, Open Study To Evaluate The Efficacy Of Ezetimibe 10 Mg Added On Statin Therapy, In Reducing LDL Cholesterol To Target Levels In Patients After Acute Coronary Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Cardiovascular Disorder
+Interventions: Ezetimibe (DRUG); simvastatin (DRUG)
+Summary: Collecting local data, safety and experience trial.
+Eligibility: Inclusion Criteria:
+
+* Patients; Post Acute Coronary Syndrome
+
+Exclusion Criteria:
+
+\-

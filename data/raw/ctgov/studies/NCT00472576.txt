@@ -1,0 +1,23 @@
+Title: Antidepressant Effects of NR2B in Major Depression
+Official title: An Investigation of the Antidepressant Effects of the Selective NR2B Antagonist MK-0657 in Major Depression
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Major Depression
+Interventions: MK-0657 (DRUG); Placebo (DRUG)
+Summary: Purpose : This study will determine whether MK-0657, a selective NR2B Antagonist, can quickly improve symptoms of depressed mood, psychomotor retardation, poor motivation and reduced enjoyment of things in patients with major depression.
+
+MK-0657 decreases the activity of a brain receptor called NMDA, which the chemical glutamate binds to, possibly inducing a rapid antidepressant response. People between 18 and 55 years of age who have major depression of at least 4 weeks' duration and have not been helped by two antidepressants approved for major depression may be eligible for this study. Women who are able to have children are excluded. Participants are admitted to the NIH Clinical Center for two study phases, as follows. Phase I (1 to 2 weeks): Patients are tapered off their current medications. Phase II (7 weeks): Patients are randomly assigned to take either MK-0657 or placebo (look-alike capsules with no active ingredient) by mouth for 12 days. At some point during the second part this phase, patients who had been taking MK-0657 are switched over to placebo and those who had been taking placebo are switched to MK-0657. Participants undergo the following procedures during the 
+Eligibility: INCLUSION CRITERIA:
+
+1. Male or female (not of reproductive potential, unable to conceive) subjects, 18 to 55 years of age. A female patient not of reproductive potential is defined as one who: a) has reached menopause with: i) no menses for the past 3 or more years OR ii) no menses for greater than 1 year but less than 3 years with confirmation of FSH levels elevated into the postmenopausal range; or b) has undergone hysterectomy, bilateral oophorectomy, or bilateral tubal ligation.
+2. Each subject must have a level of understanding sufficient to agree to all required tests and examinations and sign an informed consent document.
+3. Subjects must fulfill DSM-IV criteria for Major Depression (296.3) without psychotic features, based on clinical assessment and confirmed by a structured diagnostic interview, SCID-P.
+4. Subjects must have an initial score of at least 22 on the MADRS at screen and at baseline of study phase II.
+5. Current or past history of lack of response to two adequate antidepressant trials (may be from the same chemical class) operationally defined using the Antidepressant Treatment History Form (ATHF). If subjects have only failed to respond to one adequate antidepressant trial by history, they will be permitted to receive a prospective trial of a standard antidepressant. Subjects who fail to respond to this prospective trial will meet criteria for treatment-resistance and be eligible to randomize. Subjects responding to the prospective trial will be ineligible to randomize. (A CORE representative will be present when the subject is informed as to the decision to randomize or not).
+6. Current major depressive episode of at least 4 weeks duration.
+
+EXCLUSION CRITERIA:
+
+1. Current or past history of bipolar disorder, psychotic features or a diagnosis of Schizophrenia or any other psychotic disorder as defined in the DSM-IV.
+2. Subjects with a history of DSM-IV drug or alcohol dependency or abuse (including for nicotine and caffeine) within the preceding 3 months.
+3. Subjects with a diagnosis of Obsessive Compulsive Disorder or Posttraumatic Stress Disorder as defined in the DSM-IV.
+4. Subjects with a diagnosis of Borderline or Antisocial Personal

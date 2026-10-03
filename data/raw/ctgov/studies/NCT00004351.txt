@@ -1,0 +1,20 @@
+Title: Study of Phenotype and Genotype Correlations in Patients With Contiguous Gene Deletion Syndromes
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Williams Syndrome; Angelman Syndrome; Prader-Willi Syndrome; Shprintzen Syndrome; Smith-Magenis Syndrome; DiGeorge Syndrome; Chromosome Abnormalities
+Interventions: none
+Summary: OBJECTIVES: I. Investigate phenotype and genotype correlations in patients with Smith-Magenis syndrome (SMS) associated with del(17p11.2).
+
+II. Clinically evaluate SMS patients with unusual deletions or duplication of proximal 17p.
+
+III. Clinically evaluate patients with Williams syndrome with molecular characterization of 7q11.23.
+
+IV. Perform clinical studies of Prader-Willi, Angelman, DiGeorge, and Shprintzen syndrome patients with unique molecular findings in 15q11q13 or 22q11.2.
+
+V. Perform genotype and phenotype correlations in Prader-Willi patients, particularly those with loss of expression of only some of the imprinted transcripts in 15q11-q13.
+
+VI. Evaluate putative Angelman syndrome patients who do not have classic large deletion, uniparental disomy, or imprinting mutations, and perform molecular studies of the Angelman gene, UBE3A, and identify mutations of this gene.
+
+VII. Investigate phenotype and genotype correlations in patients with terminal deletions of chromosome 1p.
+Eligibility: PROTOCOL ENTRY CRITERIA:
+
+--Disease Characteristics-- Contiguous gene deletion syndrome, e.g.: Smith-Magenis syndrome Williams syndrome DiGeorge syndrome Shprintzen syndrome (velo-cardio-facial syndrome) Prader-Willi syndrome Angelman syndrome Deletion of chromosome 1p Patient age: Any age

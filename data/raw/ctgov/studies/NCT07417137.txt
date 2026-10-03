@@ -1,0 +1,34 @@
+Title: A Natural History Study of Angelman Syndrome
+Official title: A Longitudinal Natural History Study of Adults and Children With Angelman Syndrome
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Angelman Syndrome; Neurodevelopmental Conditions
+Interventions: none
+Summary: The goal of this observational study is to learn about the natural progression of Angelman syndrome (AS) in children and adults with a confirmed genetic diagnosis of AS. The main questions it aims to answer are:
+
+* How do developmental skills, such as communication, motor abilities, and adaptive behaviors, change over a 1-year period in people with AS?
+* Are there specific patterns in brain activity or sleep that are associated with changes in AS symptoms over time?
+
+Participants will:
+
+* Attend 3 in-person and 2 virtual study visits over 1 year for assessments.
+* Complete tests and questionnaires about development, behaviors, and sleep with the help of their caregivers.
+* Undergo electroencephalograms (EEGs) to measure brain activity and wear a sleep-monitoring device at home (to collect actigraphy data).
+Eligibility: Inclusion Criteria:
+
+* The participant has a primary clinical diagnosis of Angelman syndrome with documented genetic variation(s) affecting the function of the UBE3A gene within the human 15q11.2-q13.3 locus. Co-occurring conditions (e.g., autism spectrum disorder, cerebral palsy, intellectual disability) are permitted; however, Angelman syndrome must be the primary clinical diagnosis.
+* The participant is male or female (assigned sex at birth) and aged ≥1 year at the initial study visit.
+* The participant has a study partner who meets the study partner criteria below.
+* The participant, if unable to provide informed consent, has an appropriate surrogate who is at least 18 years of age and willing and able to provide informed consent on behalf of the participant in accordance with current International Council for Harmonisation (ICH) guidelines and applicable institutional regulations.
+
+Individuals must satisfy the following criteria to be enrolled as study partners:
+
+* The study partner is a parent or primary caregiver who is at least 18 years of age.
+* The study partner has consistent contact with the participant and, in the opinion of the investigator, is sufficiently knowledgeable about the participant's ongoing condition to provide accurate and current information.
+* The study partner has sufficient English-language proficiency to complete study partner assessments.
+* The study partner is willing and able to provide informed consent on their own behalf in accordance with ICH guidelines and applicable institutional regulations.
+* The study partner is, in the opinion of the investigator, reliable and competent; willing and able to accompany the participant to all study visits and comply with study procedures; reachable by telephone or email as needed; and sufficiently knowledgeable about the participant's ongoing condition(s) to provide accurate and current information regarding the participant's health and well-being.
+
+Exclusion Criteria:
+
+* The participant has at least one additional known genetic abnormality outside the human 15q11.2-q13.3 locus causing a probable or known developmental disability.
+* At least one standard-of-care treatment (medication or a

@@ -1,0 +1,27 @@
+Title: Expanded Access for ABI-009 in Patients With Advanced PEComa and Patients With a Malignancy With Relevant Genetic Mutations or mTOR Pathway Activation
+Official title: Expanded Access for an Intermediate-size Population for ABI-009 (Sirolimus Albumin-bound Nanoparticles for Injectable Suspension) in Patients With Advanced Perivascular Epithelioid Cell Tumors (PEComa) and Patients With a Malignancy With Relevant Genetic Mutations or mTOR Pathway Activation
+Status: APPROVED_FOR_MARKETING. Type: EXPANDED_ACCESS. Phases: none.
+Conditions: PEComa, Malignant; TSC1; TSC2; mTOR Pathway Abberation
+Interventions: ABI-009 (DRUG)
+Summary: Expanded Access for an Intermediate-size Population for ABI-009 (Sirolimus Albumin-bound Nanoparticles for Injectable Suspension) in Patients with Advanced Perivascular Epithelioid Cell Tumors (PEComa) and Patients with a Malignancy with Relevant Genetic Mutations or mTOR Pathway Activation
+Eligibility: Inclusion Criteria:
+
+A patient will be eligible for inclusion in this expanded access program only if all of the following criteria are met:
+
+1. a) Diagnosis of advanced (locally advanced and inoperable or metastatic) malignant PEComa confirmed by pathology and immunohistochemistry, whether or not previously exposed to an mTOR inhibitor, or b) diagnosis of any other malignancy with activation in any mTOR pathway component as identified by immunohistochemistry or an identified relevant rare genetic mutation in mTOR pathway genes, including but not limited to TSC1, TSC2, PIK3CA, PTEN, for which there are no FDA-approved treatments or no other comparable or satisfactory alternative therapies available whether or not they been previously exposed to a mTOR inhibitor.
+2. 18 years or older, with Eastern Cooperative Oncology Group (ECOG) performance status 0, 1, or 2.
+3. Acceptable blood chemistry levels at screening (obtained ≤14 days prior to enrollment (local laboratory) including:
+
+   1. total bilirubin ≤1.5 x upper limit of normal (ULN)
+   2. AST ≤2.5 x ULN (≤5 x ULN if attributable to liver metastases)
+   3. serum creatinine ≤1.5 x ULN
+4. Adequate biological parameters as demonstrated by the following blood counts at screening (obtained ≤14 days prior to enrollment, local laboratory):
+
+   1. Absolute neutrophil count (ANC) ≥1.5 × 109/L;
+   2. Platelet count ≥100,000/mm3 (100 × 109/L);
+   3. Hemoglobin ≥8 g/dL.
+5. Fasting serum triglyceride \<300 mg/dL; fasting serum total cholesterol \<350 mg/dL.
+6. Male or non-pregnant and non-breast feeding female:
+
+   * Females of child-bearing potential must agree to use effective contraception without interruption from 28 days prior to starting IP and while on investigational medication and have a negative serum pregnancy test (β -hCG) result at screening and agree to ongoing pregnancy testing during the course of the expanded access protocol, and after the end of treatment. A second form of birth control is required even if she has had a tubal ligation.
+   * Male patients must practice abstinence or agree to use a condom during sexual contact with a pregnant female or a female of childbearing potential while participating in

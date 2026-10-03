@@ -1,0 +1,18 @@
+Title: Epigenetic Changes in Psychotherapy of Adolescents With Borderline Personality Pathology
+Official title: Epigenetic Changes in Psychotherapy of Adolescents With Borderline Personality Pathology
+Status: WITHDRAWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Borderline Personality Disorder (BPD)
+Interventions: routine psychotherapy for Borderline Personality Disorder (BPD) (OTHER)
+Summary: The link between epigenetic changes as an effect of psychotherapy has been investigated recently. Genes investigated in these studies were brain-derived neurotrophic factor (BDNF), NR3C1, FKBP51, MAOA and GLUT1. Change in methylation of these genes could be a biomolecular mechanism of psychotherapy induced changes. This study project aims at providing evidence for a biological mechanism of personality disorder interventions in adolescence by investigating the link between epigenetic changes as an effect of psychotherapy. It investigates the correlation between changes in the methylation of the FKBP5 gene and psychotherapy induced changes in symptoms and functioning.
+Eligibility: Inclusion Criteria:
+
+* adolescents presenting 3 or more criteria for BPD in the Structured clinical interview for the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) axis II personality disorders (SCID-II)
+
+Exclusion Criteria:
+
+* difficulties to understand or comply with instructions
+* psychotic disorders
+* pervasive developmental disorders
+* severe somatic or neurological disorders
+* severe and persistent substance addiction
+* elevated risk for complications related to blood sampling

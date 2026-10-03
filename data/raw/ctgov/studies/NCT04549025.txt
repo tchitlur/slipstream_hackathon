@@ -1,0 +1,27 @@
+Title: Study of PD-1 Inhibitor JTX-4014 Alone and in Combination With Vopratelimab in Biomarker-selected Subjects With Metastatic NSCLC After One Prior Platinum-containing Regimen
+Official title: Phase 2 Study of PD-1 Inhibitor JTX-4014 Alone and in Combination With Vopratelimab, an ICOS Agonist, in Biomarker-selected Subjects With Metastatic NSCLC After One Prior Platinum-containing Regimen
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: NSCLC
+Interventions: Pimivalimab (DRUG); Vopratelimab (DRUG)
+Summary: This is a Phase 2, open-label study to evaluate PD-1 inhibitor pimivalimab (JTX-4014) alone and in combination with vopratelimab (JTX-2011), an ICOS agonist, in biomarker-selected adult subjects with metastatic NSCLC who are PD-1/PD-L1 inhibitor naïve and have progressed on a platinum-based chemotherapy regimen.
+Eligibility: Inclusion Criteria:
+
+1. Able and willing to participate and comply with all study requirements and provide signed and dated informed consent prior to initiation of any study procedures;
+2. Histologically or cytologically confirmed diagnosis of NSCLC with evaluable or measurable disease according to RECIST v1.1 with at least 1 measurable lesion;
+3. Confirmed tumor RNA signature score in accordance with the study protocol;
+4. Previously treated for locally advanced or metastatic NSCLC with 1 prior systemic antineoplastic platinum-containing regimen. Regimen should consist of chemotherapy or with bevacizumab;
+5. Age of ≥18 years;
+6. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1;
+7. Predicted life expectancy of ≥ 3months;
+8. Specified laboratory values in accordance with the study protocol;
+9. If with medical history of the following, eligibility should be discussed with the Medical Monitor:
+
+   1. Prior biliary tract disorders (based on Medical Dictionary for Regulatory Activities \[MedDRA\] system organ class of Hepatobiliary disorders and MedDRA high-level terms of Obstructive bile duct disorders, Hepatic vascular disorders, and Structural and other bile duct disorders);
+   2. Portal hypertension and/or hepatic vascular disorders;
+10. For women of childbearing potential (WOCBP): negative serum pregnancy test within 72 hours prior to planned Cycle 1, Day 1 (C1D1) and a negative urine or serum pregnancy test on C1D1. In addition, the WOCBP must be willing to complete a urine or serum pregnancy test prior to each dose of either study drug;
+11. WOCBP and males whose partners are WOCBP must agree to use a highly effective method of birth control throughout their participation and for 5 months following the last study drug administration. Highly effective methods of birth control are defined as those that, alone or in combination, result in a low failure rate (i.e., less than 1% per year) when used consistently and correctly.
+
+Exclusion Criteria:
+
+1. Concurrent anticancer treatment or subject is expected to require any other form of antineoplastic therapy while on study, either approved or investigational;
+2. Current or past participation in a 

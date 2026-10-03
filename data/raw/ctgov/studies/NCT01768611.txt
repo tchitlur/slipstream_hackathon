@@ -1,0 +1,14 @@
+Title: SLC2A1 Variants and Diabetic Nephropathy
+Official title: Association of Single Nucleotide Polymorphisms in the Gene Coding GLUT-1 and Diabetic Nephropathy in Brazilian Patients With Type 1 Diabetes Mellitus
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Diabetic Nephropathy.
+Interventions: none
+Summary: Cells damaged by hyperglycemia are unable to downregulate glucose entrance in presence of high extracellular glucose resulting in intracellular activation of deleterious biochemical pathways. Expression of GLUT-1, the major glucose transporter in mesangial cells, is increased and participates in the induction of diabetic nephropathy. Variants in the gene encoding GLUT-1 (SLC2A1) have been associated to this diabetic complication. The aim of this study was to test whether polymorphisms in SLC2A1 confer susceptibility to diabetic nephropathy in Brazilian type 1 diabetes patients.
+Eligibility: Inclusion Criteria:
+
+* Overt 10 years of Diabetes Mellitus
+
+Exclusion Criteria:
+
+* Patients presenting autoimmune diseases, HIV or HCV infections
+* Patients with glomerular filtration rate \< 60 mL min-1 1.73 m2 without diabetic retinopathy

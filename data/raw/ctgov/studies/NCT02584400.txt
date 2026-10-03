@@ -1,0 +1,19 @@
+Title: Tumor Hypoxia With HX4 PET in Several Diseases
+Official title: Non-invasive Imaging of Tumor Hypoxia With [18F]HX4 Positron-Emission-Tomography (PET): A Phase II Trial
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Prostatic Neoplasms; Esophageal Neoplasms; Neoplasm Metastases, Brain; Rectal Neoplasms; Brain Neoplasm, Primary
+Interventions: Injection with the hypoxia tracer [18F]HX4, (DRUG)
+Summary: Regulation of tissue oxygen homeostasis is critical for cell function, proliferation and survival. Evidence for this continues to accumulate along with our understanding of the complex oxygen-sensing pathways present within cells. Several pathophysiological disorders are associated with a loss in oxygen homeostasis, including heart disease, stroke, and cancer. The microenvironment of tumors in particular is very oxygen heterogeneous, with hypoxic areas which may explain our difficulty treating cancer effectively. Prostate carcinomas are known to be hypoxic. Increasing levels of hypoxia within prostatic tissue is related to increasing clinical stage, patient age and a more aggressive prostate cancer. Several researches indicated that hypoxia might also play a role in esophageal cancer. In glial brain tumors, hypoxia is correlated with more rapid tumor recurrence and the hypoxic burden in newly diagnosed glioblastomas is linked to the biological aggressiveness. In brain metastases CA-IX expression (a marker for hypoxia) is correlated to the primary non-small cell lung carcinomas. Hypoxia enhances proliferation, angiogenesis, metastasis, chemoresistance and radioresistance of hepatoce
+Eligibility: Inclusion Criteria:
+
+* Histological/cytological confirmed carcinoma of de esophagus, rectum or prostate or radiological suspicion for Grade IV glioma (primary brain tumor) or brain metastases
+* WHO performance status 0 to 2.
+* Adequate renal function (calculated creatinine clearance at least 60 ml/min).
+* The patient is willing and capable to comply with study procedures
+* 18 years or older
+* Have given written informed consent before patient registration
+
+Exclusion Criteria:
+
+* Recent (\< 3 months) myocardial infarction
+* Pregnant or breast feeding and willing to take adequate contraceptive measures during the study
