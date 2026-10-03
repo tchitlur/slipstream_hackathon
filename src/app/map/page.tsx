@@ -17,7 +17,9 @@ export default function MapPage() {
       nodes.push({ id, x: p.x, y: p.y, name: c.name, gene: c.geneSymbol, roadId: c.roadId, color: roadById(c.roadId)?.color ?? "#999", depth: c.depth, clusterId: c.clusterId, href: conditionHref(id) });
     }
   }
-  const clusters: MapCluster[] = store.atlas.clusters
+  const clusters: MapCluster[] = [...store.atlas.clusters]
+    .sort((a, b) => b.memberIds.length - a.memberIds.length)
+    .slice(0, 10)
     .filter((cl) => cl.memberIds.length >= 3)
     .map((cl) => {
       const pts = cl.memberIds.map((m) => layout?.nodes[m]).filter(Boolean) as { x: number; y: number }[];
@@ -44,7 +46,7 @@ export default function MapPage() {
       <section>
         <h2 className="text-2xl mb-2">Clusters</h2>
         <ul className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3 text-sm">
-          {store.atlas.clusters.map((cl) => (
+          {store.atlas.clusters.filter((cl) => cl.memberIds.length >= 2 || cl.memberIds.some((m) => store.conditions.get(m)?.depth === "deep")).slice(0, 60).map((cl) => (
             <li key={cl.id} className="border border-line rounded-md p-3 bg-white/50">
               <div className="font-medium">{cl.label}</div>
               <div className="text-xs text-muted mb-1">

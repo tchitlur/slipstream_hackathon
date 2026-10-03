@@ -18,7 +18,7 @@ export function generateStaticParams() {
   const store = getStore();
   const out: { id: string; neighborId: string }[] = [];
   for (const c of store.atlas.conditions.filter((c) => c.depth === "deep")) {
-    for (const n of (store.similarity.neighbors[c.id] ?? []).slice(0, 8)) out.push({ id: c.id.replace(/^cond:/, ""), neighborId: n.id.replace(/^cond:/, "") });
+    for (const n of getNeighbors(c.id).filter((n) => store.conditions.get(n.id)?.depth === "deep").slice(0, 8)) out.push({ id: c.id.replace(/^cond:/, ""), neighborId: n.id.replace(/^cond:/, "") });
   }
   return out;
 }
@@ -113,7 +113,7 @@ export default async function BorrowPage({ params }: { params: Promise<{ id: str
           </div>
           <div className="flex flex-wrap items-center gap-x-5 gap-y-2 text-sm">
             <span className="flex items-center gap-2">
-              Mechanism relation <RelationChip relation={edge.relation} />
+              Mechanism relation <RelationChip relation={edge.relation} curatedRelation={edge.curatedRelation} />
             </span>
             <span className="flex items-center gap-2">
               Phenotype similarity <SimilarityBar value={edge.similarity} band={edge.band} />

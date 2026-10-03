@@ -85,9 +85,9 @@ export async function POST(req: NextRequest) {
           { role: "user", content: user },
         ],
         text: { format: zodTextFormat(BriefOutputSchema, "brief") },
-        max_output_tokens: 3000,
+        max_output_tokens: 9000,
         store: false,
-        reasoning: { effort: "medium" },
+        reasoning: { effort: "low" },
       };
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
       const res: any = await client.responses.create(body as any);

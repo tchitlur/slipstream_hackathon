@@ -9,6 +9,10 @@ export type SimBand = "high" | "medium" | "low";
 export type RuleContext = {
   simBand: SimBand;
   relation: MechanismRelation;
+  /** Relation from curated mechanisms alone (same as relation unless contested). */
+  curatedRelation?: MechanismRelation;
+  /** Gene symbol(s) whose mechanism is contested, for wording. */
+  contestedSide?: string;
   sharedInvestigator: boolean;
   /** Modalities of the neighbor's targeted trials, if any. */
   neighborModalities: string[];
@@ -65,7 +69,13 @@ export const RULES: RuleDef[] = [
       const mods = ctx.neighborModalities.length ? ctx.neighborModalities.map((m) => m.replace(/_/g, " ")).join(", ") : "no targeted trial modality recorded";
       if (ctx.relation === "same road") return { verdict: "needs_expert_review", reason: `Both conditions are on the same mechanism road, so the same therapeutic logic may apply (neighbor modality: ${mods}). An expert must confirm the individual variant behaves the same way.` };
       if (ctx.relation === "opposite direction") return { verdict: "do_not_transfer", warning: true, reason: `The mechanisms point in opposite directions: a strategy that raises protein output for one would be the wrong direction for a protein that is overactive or interfering (neighbor modality: ${mods}).` };
-      if (ctx.relation === "contested") return { verdict: "needs_expert_review", reason: "The mechanism of at least one condition is contested between curated and published claims. Which direction applies must be settled before any therapeutic logic is borrowed." };
+      if (ctx.relation === "contested") {
+        const cur = ctx.curatedRelation ?? "unknown";
+        const who = ctx.contestedSide ? ` for ${ctx.contestedSide}` : "";
+        if (cur === "opposite direction") return { verdict: "needs_expert_review", warning: true, reason: `On the curated mechanisms the two conditions point in opposite directions, which would mean do not transfer. Published claims dispute the curated direction${who}, so this is held for expert review instead of being ruled out. Until that is settled, treat the therapeutic strategy as not shared (neighbor modality: ${mods}).` };
+        if (cur === "same road") return { verdict: "needs_expert_review", reason: `On the curated mechanisms the two conditions are on the same road, but published claims dispute the curated direction${who}. Which direction applies must be settled before any therapeutic logic is borrowed (neighbor modality: ${mods}).` };
+        return { verdict: "needs_expert_review", reason: `The mechanism${who} is contested between curated and published claims. Which direction applies must be settled before any therapeutic logic is borrowed.` };
+      }
       if (ctx.relation === "different road") return { verdict: "needs_expert_review", reason: `The conditions share a direction but differ in allelic requirement, so dosage logic differs (neighbor modality: ${mods}). An expert must check whether the strategy depends on the remaining healthy copy.` };
       return { verdict: "needs_expert_review", reason: "The mechanism of at least one condition is not established in the curated source. It must be established before any therapeutic logic is borrowed." };
     },

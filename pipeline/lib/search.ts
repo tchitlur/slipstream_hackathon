@@ -15,7 +15,7 @@ export function buildSearchIndex() {
   for (const c of atlas.conditions) {
     const g = geneById.get(c.geneId);
     const road = roadById(c.roadId);
-    const syn = [...c.synonyms, ...(g?.hpoDiseaseNames.map((d) => d.name) ?? [])];
+    const syn = [...c.synonyms.slice(0, 4), ...(g?.hpoDiseaseNames.slice(0, c.depth === "deep" ? 12 : 4).map((d) => d.name) ?? [])];
     docs.push({
       id: c.id,
       type: "condition",
@@ -28,14 +28,14 @@ export function buildSearchIndex() {
     for (const s of syn) synonyms[s.toLowerCase()] = c.id;
   }
   for (const g of atlas.genes) {
-    docs.push({ id: g.id, type: "gene", title: g.symbol, subtitle: `${g.conditionIds.length} condition${g.conditionIds.length === 1 ? "" : "s"}${g.aliases.length ? " · also " + g.aliases.slice(0, 4).join(", ") : ""}`, text: [g.symbol, ...g.aliases, ...g.hpoDiseaseNames.map((d) => d.name)].join(" | "), href: `/gene/${g.symbol}`, weight: g.depth === "deep" ? 2 : 1 });
+    docs.push({ id: g.id, type: "gene", title: g.symbol, subtitle: `${g.conditionIds.length} condition${g.conditionIds.length === 1 ? "" : "s"}${g.aliases.length ? " · also " + g.aliases.slice(0, 4).join(", ") : ""}`, text: [...g.aliases.slice(0, 6), ...g.hpoDiseaseNames.slice(0, 8).map((d) => d.name)].join(" | "), href: `/gene/${g.symbol}`, weight: g.depth === "deep" ? 2 : 1 });
   }
   const direct = new Set<string>();
   for (const terms of Object.values(ph.conditionTerms)) for (const t of terms) direct.add(t);
   for (const t of direct) {
     const term = ph.terms[t];
     if (!term) continue;
-    docs.push({ id: t, type: "phenotype", title: term.label, subtitle: `${t} · information content ${term.ic.toFixed(2)}`, text: `${term.label} ${t}`, href: `/phenotype/${t.replace(":", "_")}`, weight: 1 });
+    docs.push({ id: t, type: "phenotype", title: term.label, subtitle: `${t} · information content ${term.ic.toFixed(2)}`, text: t, href: `/phenotype/${t.replace(":", "_")}`, weight: 1 });
   }
   for (const o of orgs) {
     docs.push({ id: o.id, type: "org", title: o.name, subtitle: `patient organization${o.verified ? "" : " (unverified listing)"}`, text: [o.name, ...o.conditions].join(" | "), href: o.conditionIds[0] ? `/condition/${o.conditionIds[0].replace(/^cond:/, "")}` : "/", weight: 1 });
@@ -44,7 +44,7 @@ export function buildSearchIndex() {
     if (!r.conditionIds.length) continue;
     docs.push({ id: r.id, type: "road", title: r.label, subtitle: `${r.mechanism} · ${r.conditionIds.length} conditions`, text: `${r.label} ${r.description} ${r.mechanism} haploinsufficiency`, href: `/road/${r.id.replace(/^road:/, "").replace(/:/g, "-")}`, weight: 1 });
   }
-  writeJson(files.searchIndex, { docs, synonyms }, { pretty: false });
-  log("S10", `search index: ${docs.length} docs (${docs.filter((d) => d.type === "phenotype").length} phenotypes), ${Object.keys(synonyms).length} synonyms`);
+  writeJson(files.searchIndex, { docs }, { pretty: false });
+  log("S10", `search index: ${docs.length} docs (${docs.filter((d) => d.type === "phenotype").length} phenotypes), ${Object.keys(synonyms).length} synonyms indexed`);
   return docs.length;
 }

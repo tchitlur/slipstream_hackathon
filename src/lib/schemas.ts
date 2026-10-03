@@ -180,6 +180,8 @@ export const NeighborSchema = z.object({
   /** Share of intersection IC weight from terms below the median IC. */
   lowInfoShare: z.number().min(0).max(1),
   relation: MechanismRelation.optional(),
+  /** The relation computed from curated mechanisms alone, ignoring contested flags. */
+  curatedRelation: MechanismRelation.optional(),
   aheadOn: z.array(z.number().int()).optional(),
   sharedInvestigatorIds: z.array(z.string()).optional(),
   sameGene: z.boolean().optional(),
@@ -190,10 +192,11 @@ export const NeighborSchema = z.object({
 export type Neighbor = z.infer<typeof NeighborSchema>;
 
 export const SimilarityFileSchema = z.object({
-  cutoffs: z.object({ high: z.number(), medium: z.number(), edge: z.number() }).optional(),
-  neighbors: z.record(z.string(), z.array(NeighborSchema)),
+  cutoffs: z.object({ high: z.number(), medium: z.number(), edge: z.number() }),
+  conditionIds: z.array(z.string()),
 });
 export type SimilarityFile = z.infer<typeof SimilarityFileSchema>;
+export const SimilarityConditionFileSchema = z.object({ conditionId: z.string(), neighbors: z.array(NeighborSchema) });
 
 // ---------------------------------------------------------------------------
 // Studies, literature, funding, investigators, organizations
@@ -449,8 +452,6 @@ export const SearchDocSchema = z.object({
 export type SearchDoc = z.infer<typeof SearchDocSchema>;
 export const SearchIndexFileSchema = z.object({
   docs: z.array(SearchDocSchema),
-  /** synonym -> condition id, used to explain synonym resolution */
-  synonyms: z.record(z.string(), z.string()),
 });
 
 export const DemoCandidateSchema = z.object({

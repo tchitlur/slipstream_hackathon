@@ -2,6 +2,7 @@ import path from "node:path";
 import { readValidated, readJsonOr, writeJson, log } from "./io";
 import { files, BRIEFS, TRANSFERS_DIR } from "./paths";
 import { readEvidence } from "./evidence";
+import { readNeighbors } from "./similarityStore";
 import { llmStructured, hasKey, confirmModels, BudgetExceeded } from "./llm";
 import { updateManifest } from "./manifest";
 import { AtlasSchema, SimilarityFileSchema, LaddersFileSchema, DemoCandidatesFileSchema, TransfersFocalFileSchema, OrgsFileSchema, StudiesFileSchema, type Brief } from "../../src/lib/schemas";
@@ -10,12 +11,12 @@ import { BriefOutputSchema, T4_SYSTEM, packSummary, groundingCheck, packEvidence
 export function buildPack(focalId: string, neighborId: string): EvidencePack | null {
   const atlas = readValidated(files.atlas, AtlasSchema);
   const sim = readValidated(files.similarity, SimilarityFileSchema);
+  const edge = readNeighbors(focalId).find((n) => n.id === neighborId);
   const ladders = readValidated(files.ladders, LaddersFileSchema).ladders;
   const tf = readJsonOr<unknown>(path.join(TRANSFERS_DIR, `${focalId.replace(/^cond:/, "")}.json`), null);
   const transfer = tf ? TransfersFocalFileSchema.parse(tf).pairs[`${focalId}__${neighborId}`] : undefined;
   const focal = atlas.conditions.find((c) => c.id === focalId);
   const neighbor = atlas.conditions.find((c) => c.id === neighborId);
-  const edge = sim.neighbors[focalId]?.find((n) => n.id === neighborId);
   if (!focal || !neighbor || !edge || !transfer || !ladders[focalId] || !ladders[neighborId]) return null;
   const orgsRaw = readJsonOr<unknown>(files.orgs, null);
   const orgs = orgsRaw ? Object.values(OrgsFileSchema.parse(orgsRaw).orgs).filter((o) => o.conditionIds.includes(neighborId)) : [];
@@ -36,7 +37,7 @@ export function buildPack(focalId: string, neighborId: string): EvidencePack | n
   walk([focal, neighbor, edge, ladders[focalId], ladders[neighborId], transfer, orgs, studies]);
   const evidence: EvidencePack["evidence"] = {};
   for (const id of ids) if (all[id]) evidence[id] = all[id];
-  return { focal, neighbor, neighborEdge: edge, focalLadder: ladders[focalId], neighborLadder: ladders[neighborId], transfer, neighborOrgs: orgs, neighborStudies: studies, evidence, cutoffs: { high: sim.cutoffs!.high, medium: sim.cutoffs!.medium } };
+  return { focal, neighbor, neighborEdge: edge, focalLadder: ladders[focalId], neighborLadder: ladders[neighborId], transfer, neighborOrgs: orgs, neighborStudies: studies, evidence, cutoffs: { high: sim.cutoffs.high, medium: sim.cutoffs.medium } };
 }
 
 export async function generateOneBrief(pack: EvidencePack, model: string, stage = "S10"): Promise<Brief> {
@@ -44,7 +45,7 @@ export async function generateOneBrief(pack: EvidencePack, model: string, stage 
   const user = `EVIDENCE PACK\n${packSummary(pack)}`;
   let attempt = 0;
   for (;;) {
-    const r = await llmStructured({ task: "T4", stage, model, schema: BriefOutputSchema, schemaName: "brief", system: T4_SYSTEM + (attempt ? "\nYour previous draft had too many sentences without valid evidence ids. Cite ids from the pack on every factual sentence." : ""), user, reasoning: "medium", maxOutputTokens: 3000 });
+    const r = await llmStructured({ task: "T4", stage, model, schema: BriefOutputSchema, schemaName: "brief", system: T4_SYSTEM + (attempt ? "\nYour previous draft had too many sentences without valid evidence ids. Cite ids from the pack on every factual sentence." : ""), user, reasoning: "low", maxOutputTokens: 9000 });
     const g = groundingCheck(r.data, packIds);
     if (g.total > 0 && g.dropped / g.total <= 0.2) {
       return { focalId: pack.focal.id, neighborId: pack.neighbor.id, generatedAt: new Date().toISOString(), mode: "llm", model, sections: g.sections, glossary: r.data.glossary.slice(0, 6), droppedSentences: g.dropped };

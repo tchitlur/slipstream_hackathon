@@ -33,6 +33,7 @@ type Store = {
   atlas: Atlas;
   conditions: Map<string, Condition>;
   similarity: SimilarityFile;
+  neighborCache: Map<string, Neighbor[]>;
   ladders: Record<string, Ladder>;
   evidence: Record<string, Evidence>;
   studies: Record<string, Study>;
@@ -55,7 +56,8 @@ export function getStore(): Store {
   store = {
     atlas,
     conditions: new Map(atlas.conditions.map((c) => [c.id, c])),
-    similarity: readJson<SimilarityFile>("similarity.json", { neighbors: {} }),
+    similarity: readJson<SimilarityFile>("similarity.json", { cutoffs: { high: 1, medium: 1, edge: 1 }, conditionIds: [] }),
+    neighborCache: new Map(),
     ladders: readJson<{ ladders: Record<string, Ladder> }>("ladders.json", { ladders: {} }).ladders,
     evidence: readJson<Record<string, Evidence>>("evidence.json", {}),
     studies: readJson<{ studies: Record<string, Study> }>("studies.json", { studies: {} }).studies,
@@ -93,7 +95,13 @@ export function getCondition(id: string): Condition | undefined {
 }
 
 export function getNeighbors(id: string): Neighbor[] {
-  return getStore().similarity.neighbors[id] ?? [];
+  const st = getStore();
+  const hit = st.neighborCache.get(id);
+  if (hit) return hit;
+  const p = path.join(DERIVED, "similarity", `${slugOf(id)}.json`);
+  const list = fs.existsSync(p) ? (JSON.parse(fs.readFileSync(p, "utf8")) as { neighbors: Neighbor[] }).neighbors : [];
+  st.neighborCache.set(id, list);
+  return list;
 }
 
 export function getLadder(id: string): Ladder | undefined {

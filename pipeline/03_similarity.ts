@@ -8,10 +8,13 @@ import { readValidated, writeJson, log } from "./lib/io";
 import { files } from "./lib/paths";
 import { writeEvidence } from "./lib/evidence";
 import { updateManifest } from "./lib/manifest";
-import { AtlasSchema, PhenotypesFileSchema, type Neighbor, type SimilarityFile, type Evidence } from "../src/lib/schemas";
+import { AtlasSchema, PhenotypesFileSchema, type Neighbor, type Evidence } from "../src/lib/schemas";
+import { writeSimilarity } from "./lib/similarityStore";
 import { simGIC, closureOf } from "../src/lib/similarity";
 
 const TOP_N = 20;
+const SHALLOW_TOP_N = 10;
+const SHALLOW_DEEP_N = 5;
 const EDGE_PCT = 0.9;
 const HIGH_PCT = 0.9;
 const MEDIUM_PCT = 0.7;
@@ -63,9 +66,16 @@ async function main() {
   log("S3", `pairs with sim > 0: ${sims.length} (${deepPairs.length} deep-deep); cutoffs ${JSON.stringify(cutoffs)}; median ${percentile(sorted, 0.5).toFixed(3)}`);
 
   const geneOf = new Map(atlas.conditions.map((c) => [c.id, c.geneId]));
-  const neighbors: SimilarityFile["neighbors"] = {};
+  const depthOf = new Map(atlas.conditions.map((c) => [c.id, c.depth]));
+  const neighbors: Record<string, Neighbor[]> = {};
   for (const c of conds) {
-    const list = perCond.get(c.id)!.sort((x, y) => y.s - x.s).slice(0, TOP_N);
+    // Top N overall, plus the top N among deep-slice conditions (which carry full ladders), so the
+    // atlas-wide layer never crowds the ladder's rows out of the list.
+    const all = perCond.get(c.id)!.sort((x, y) => y.s - x.s);
+    const isDeep = c.depth === "deep";
+    const list = all.slice(0, isDeep ? TOP_N : SHALLOW_TOP_N);
+    for (const n of all.filter((n) => depthOf.get(n.id) === "deep").slice(0, isDeep ? TOP_N : SHALLOW_DEEP_N)) if (!list.includes(n)) list.push(n);
+    list.sort((x, y) => y.s - x.s);
     neighbors[c.id] = list.map((n): Neighbor => {
       const sharedSorted = [...n.shared].sort((x, y) => icOf(y) - icOf(x));
       const totalW = n.shared.reduce((acc, t) => acc + icOf(t), 0);
@@ -76,7 +86,7 @@ async function main() {
         id: n.id,
         similarity: Number(n.s.toFixed(4)),
         band: n.s >= cutoffs.high ? "high" : n.s >= cutoffs.medium ? "medium" : "low",
-        sharedTop: sharedSorted.slice(0, 5).map((t) => ({ id: t, label: ph.terms[t]?.label ?? t, ic: icOf(t) })),
+        sharedTop: sharedSorted.slice(0, isDeep ? 5 : 3).map((t) => ({ id: t, label: ph.terms[t]?.label ?? t, ic: icOf(t) })),
         lowInfoShare: totalW > 0 ? Number((lowW / totalW).toFixed(3)) : 0,
         sameGene: geneOf.get(n.id) === c.geneId,
         sharedCount: n.shared.length,
@@ -86,8 +96,7 @@ async function main() {
   }
   for (const c of atlas.conditions) if (!neighbors[c.id]) neighbors[c.id] = [];
 
-  const out: SimilarityFile = { cutoffs, neighbors };
-  writeJson(files.similarity, out, { pretty: false });
+  writeSimilarity(cutoffs, neighbors);
 
   const ev: Evidence[] = [
     {

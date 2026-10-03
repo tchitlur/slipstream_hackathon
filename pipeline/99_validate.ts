@@ -10,6 +10,7 @@ import {
   AtlasSchema,
   PhenotypesFileSchema,
   SimilarityFileSchema,
+  SimilarityConditionFileSchema,
   LaddersFileSchema,
   TransfersFileSchema,
   TransfersFocalFileSchema,
@@ -104,7 +105,13 @@ function main() {
     if (c.contested) for (const cl of c.contested.claims) if (!has(cl.evidenceId)) fail(`${c.id} contested claim cites missing evidence ${cl.evidenceId}`);
   }
   // Every neighbor edge references existing evidence.
-  for (const [cid, list] of Object.entries(sim.neighbors)) {
+  const simDir = path.join(path.dirname(files.similarity), "similarity");
+  const simAll: Record<string, z.infer<typeof SimilarityConditionFileSchema>["neighbors"]> = {};
+  for (const cid of sim.conditionIds) {
+    const f = check(path.join(simDir, `${cid.replace(/^cond:/, "")}.json`), SimilarityConditionFileSchema);
+    if (f) simAll[cid] = f.neighbors;
+  }
+  for (const [cid, list] of Object.entries(simAll)) {
     if (!condIds.has(cid)) fail(`similarity has unknown condition ${cid}`);
     for (const n of list) {
       if (!condIds.has(n.id)) fail(`similarity ${cid} -> unknown ${n.id}`);
@@ -163,7 +170,8 @@ function main() {
   // Investigators link only to public records with URLs.
   if (investigators) for (const i of Object.values(investigators.investigators)) for (const r of i.records) if (!/^https?:\/\//.test(r.url)) fail(`investigator ${i.id} record without URL`);
   // Briefs: every sentence cites existing evidence.
-  for (const b of briefs) for (const s of b.sections) for (const sent of s.sentences) if (!sent.evidenceIds.length || !sent.evidenceIds.every(has)) fail(`brief ${b.focalId}__${b.neighborId}: sentence without existing evidence: "${sent.text.slice(0, 60)}"`);
+  // Same exemptions as the grounding check: the "Who we are" placeholder and a courtesy closing line carry no evidence.
+  for (const b of briefs) for (const s of b.sections) for (const sent of s.sentences) if (!((/who we are/i.test(s.heading) || /^thank you/i.test(sent.text.trim())) && sent.evidenceIds.length === 0) && (!sent.evidenceIds.length || !sent.evidenceIds.every(has))) fail(`brief ${b.focalId}__${b.neighborId}: sentence without existing evidence: "${sent.text.slice(0, 60)}"`);
   // Demo candidates reference known conditions.
   for (const d of demo ?? []) if (!condIds.has(d.conditionId) || !condIds.has(d.neighborId)) fail(`demo candidate references unknown condition`);
   // Layout covers conditions with phenotypes

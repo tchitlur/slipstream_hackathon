@@ -9,6 +9,7 @@ import louvain from "graphology-communities-louvain";
 import forceAtlas2 from "graphology-layout-forceatlas2";
 import { readValidated, readJsonOr, writeJson, log, uniq } from "./lib/io";
 import { files, TRANSFERS_DIR } from "./lib/paths";
+import { readAllNeighbors, writeSimilarity } from "./lib/similarityStore";
 import { writeEvidence, readEvidence } from "./lib/evidence";
 import { updateManifest } from "./lib/manifest";
 import {
@@ -47,7 +48,8 @@ function fiscalYearNow() {
 async function main() {
   const atlas = readValidated(files.atlas, AtlasSchema);
   const ph = readValidated(files.phenotypes, PhenotypesFileSchema);
-  const sim = readValidated(files.similarity, SimilarityFileSchema);
+  const simIndex = readValidated(files.similarity, SimilarityFileSchema);
+  const sim = { cutoffs: simIndex.cutoffs, neighbors: readAllNeighbors() };
   const studiesFile = readJsonOr<z.infer<typeof StudiesFileSchema> | null>(files.studies, null);
   const studiesParsed = studiesFile ? StudiesFileSchema.parse(studiesFile) : { genesSearched: [], studies: {} };
   const orgsFile = readJsonOr<z.infer<typeof OrgsFileSchema> | null>(files.orgs, null);
@@ -66,7 +68,8 @@ async function main() {
   const studiesByCond = new Map<string, Study[]>();
   for (const s of studies) for (const cid of s.conditionIds) (studiesByCond.get(cid) ?? studiesByCond.set(cid, []).get(cid)!).push(s);
   const grants = funding ? Object.values(funding.grants) : [];
-  const fy = fiscalYearNow();
+  // "Current" fiscal year = the latest one present in RePORTER data (a new FY starts 1 October before records exist).
+  const fy = grants.length ? Math.min(fiscalYearNow(), Math.max(...grants.flatMap((g) => g.fiscalYears))) : fiscalYearNow();
 
   // Approved therapies evidence (seed)
   const newEvidence: Evidence[] = [];
@@ -108,10 +111,11 @@ async function main() {
     for (const n of list) {
       const other = condById.get(n.id)!;
       n.relation = mechanismRelation(focal, other);
+      n.curatedRelation = mechanismRelation(focal, other, { ignoreContested: true });
       n.aheadOn = aheadOn(ladders[cid].milestones, ladders[n.id].milestones);
       const shared = (invByCond.get(cid) ?? []).filter((i) => (invByCond.get(n.id) ?? []).includes(i));
       n.sharedInvestigatorIds = shared;
-      n.band = n.similarity >= sim.cutoffs!.high ? "high" : n.similarity >= sim.cutoffs!.medium ? "medium" : "low";
+      n.band = n.similarity >= sim.cutoffs.high ? "high" : n.similarity >= sim.cutoffs.medium ? "medium" : "low";
     }
   }
 
@@ -141,6 +145,8 @@ async function main() {
       const ctx: RuleContext = {
         simBand: n.band ?? "low",
         relation: n.relation ?? "unknown",
+        curatedRelation: n.curatedRelation ?? n.relation ?? "unknown",
+        contestedSide: [focal, nb].filter((c) => c.contested).map((c) => c.geneSymbol).join(" and "),
         sharedInvestigator: (n.sharedInvestigatorIds ?? []).length > 0,
         neighborModalities: uniq(nbTargeted.map((s) => s.classification!.modality).filter((m) => m !== "none" && m !== "unclear")),
       };
@@ -203,7 +209,7 @@ async function main() {
   const graph = new Graph({ type: "undirected" });
   const withPh = atlas.conditions.filter((c) => (ph.conditionTerms[c.id] ?? []).length > 0);
   for (const c of withPh) graph.addNode(c.id);
-  const edgeT = sim.cutoffs!.edge;
+  const edgeT = sim.cutoffs.edge;
   const edges: [string, string, number][] = [];
   for (const [cid, list] of Object.entries(sim.neighbors)) {
     for (const n of list) {
@@ -242,13 +248,13 @@ async function main() {
     // Isolated nodes are laid out on a ring around the connected component layout.
     const isolated = graph.nodes().filter((n) => graph.degree(n) === 0);
     for (const n of isolated) graph.dropNode(n);
-    const positions = graph.order > 0 ? forceAtlas2(graph, { iterations: 800, settings: { gravity: 0.3, scalingRatio: 40, strongGravityMode: false, barnesHutOptimize: graph.order > 300, slowDown: 5, adjustSizes: false, outboundAttractionDistribution: true, linLogMode: false } }) : {};
+    const positions = graph.order > 0 ? forceAtlas2(graph, { iterations: 800, settings: { gravity: 0.05, scalingRatio: 150, strongGravityMode: false, barnesHutOptimize: graph.order > 300, slowDown: 3, adjustSizes: false, outboundAttractionDistribution: true, linLogMode: true, edgeWeightInfluence: 1 } }) : {};
     const nodes: Record<string, { x: number; y: number }> = {};
     const xs = Object.values(positions).map((p) => p.x);
     const ys = Object.values(positions).map((p) => p.y);
     const cx = xs.length ? (Math.min(...xs) + Math.max(...xs)) / 2 : 0;
     const cy = ys.length ? (Math.min(...ys) + Math.max(...ys)) / 2 : 0;
-    const radius = xs.length ? Math.max(Math.max(...xs) - Math.min(...xs), Math.max(...ys) - Math.min(...ys)) * 0.65 + 10 : 50;
+    const radius = xs.length ? Math.max(Math.max(...xs) - Math.min(...xs), Math.max(...ys) - Math.min(...ys)) * 0.55 + 10 : 50;
     for (const [id, p] of Object.entries(positions)) nodes[id] = { x: Number(p.x.toFixed(2)), y: Number(p.y.toFixed(2)) };
     isolated.forEach((id, i) => {
       const a = (2 * Math.PI * i) / Math.max(1, isolated.length);
@@ -277,7 +283,7 @@ async function main() {
     const lacking = [4, 5, 6, 7].filter((n) => L[n - 1].status === "not_found");
     const ns = (sim.neighbors[c.id] ?? []).filter((n) => !n.sameGene);
     const sameRoad = ns.filter((n) => n.relation === "same road" && n.band === "high" && (n.aheadOn ?? []).filter((m) => m >= 4 && m <= 7).length >= 2).sort((a, b) => (b.aheadOn!.length - a.aheadOn!.length) || b.similarity - a.similarity);
-    const opposite = ns.find((n) => n.relation === "opposite direction" && n.band === "high");
+    const opposite = ns.find((n) => (n.relation === "opposite direction" || (n.relation === "contested" && n.curatedRelation === "opposite direction")) && n.band === "high");
     if (!sameRoad.length) continue;
     const best = sameRoad[0];
     const score = lacking.length * 2 + best.aheadOn!.length * 2 + (opposite ? 3 : 0) + best.similarity;
@@ -287,20 +293,20 @@ async function main() {
       neighborId: best.id,
       counterexampleId: opposite?.id,
       score: Number(score.toFixed(2)),
-      reason: `${c.geneSymbol} lacks ${lacking.length} of milestones 4-7; ${nb.geneSymbol} (same road, similarity ${best.similarity}) is ahead on ${best.aheadOn!.map((m) => MILESTONES[m - 1].short).join(", ")}${opposite ? `; ${condById.get(opposite.id)!.geneSymbol} is a high-similarity neighbor in the opposite direction` : "; no opposite-direction counterexample above the high cutoff"}.`,
+      reason: `${c.geneSymbol} lacks ${lacking.length} of milestones 4-7; ${nb.geneSymbol} (same road, similarity ${best.similarity}) is ahead on ${best.aheadOn!.map((m) => MILESTONES[m - 1].short).join(", ")}${opposite ? `; ${condById.get(opposite.id)!.geneSymbol} is a high-similarity neighbor in the opposite direction${opposite.relation === "contested" ? " (curated; its mechanism is contested)" : ""}` : "; no opposite-direction counterexample above the high cutoff"}.`,
     });
   }
   demo.sort((a, b) => b.score - a.score);
   writeJson(files.demoCandidates, demo.slice(0, 10));
 
   writeJson(files.ladders, { ladders }, { pretty: false });
-  writeJson(files.similarity, sim, { pretty: false });
+  writeSimilarity(sim.cutoffs, sim.neighbors);
   // Transfers are split per focal condition so the app loads only what a page needs.
   const byFocal = new Map<string, Record<string, TransferPair>>();
   for (const [key, pair] of Object.entries(pairs)) (byFocal.get(pair.focalId) ?? byFocal.set(pair.focalId, {}).get(pair.focalId)!)[key] = pair;
   if (fs.existsSync(TRANSFERS_DIR)) fs.rmSync(TRANSFERS_DIR, { recursive: true });
   for (const [focalId, ps] of byFocal) writeJson(path.join(TRANSFERS_DIR, `${focalId.replace(/^cond:/, "")}.json`), { focalId, pairs: ps }, { pretty: false });
-  writeJson(files.transfers, { cutoffs: { high: sim.cutoffs!.high, medium: sim.cutoffs!.medium }, focalIds: [...byFocal.keys()], pairCount: Object.keys(pairs).length }, { pretty: false });
+  writeJson(files.transfers, { cutoffs: { high: sim.cutoffs.high, medium: sim.cutoffs.medium }, focalIds: [...byFocal.keys()], pairCount: Object.keys(pairs).length }, { pretty: false });
   writeJson(files.atlas, atlas, { pretty: false });
   writeEvidence(["ev:rule:R", "ev:seed:therapy:"], [...ruleEvidence, ...newEvidence]);
   const found = Object.values(ladders).filter((l) => l.conditionId && condById.get(l.conditionId)!.depth === "deep");

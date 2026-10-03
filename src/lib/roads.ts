@@ -108,12 +108,12 @@ export function directionOf(m: Mechanism): DirectionClass {
 export type MechanismRelation = "same road" | "different road" | "opposite direction" | "unknown" | "contested";
 
 /** Section 9.3: opposite direction means one is loss of function and the other is gain of function or dominant negative. */
-export function mechanismRelation(a: { roadId: string; mechanism: Mechanism; contested?: unknown }, b: { roadId: string; mechanism: Mechanism; contested?: unknown }): MechanismRelation {
+export function mechanismRelation(a: { roadId: string; mechanism: Mechanism; contested?: unknown }, b: { roadId: string; mechanism: Mechanism; contested?: unknown }, opts: { ignoreContested?: boolean } = {}): MechanismRelation {
   const da = directionOf(a.mechanism);
   const db = directionOf(b.mechanism);
   // Two conditions with no established mechanism share a road label but not a therapeutic logic.
   if (da === "unknown" || db === "unknown") return "unknown";
-  if (a.contested || b.contested) return "contested";
+  if (!opts.ignoreContested && (a.contested || b.contested)) return "contested";
   if (a.roadId === b.roadId) return "same road";
   if (da !== db) return "opposite direction";
   return "different road";

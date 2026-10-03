@@ -26,12 +26,14 @@ export const RELATION_TONE: Record<MechanismRelation, "info" | "stop" | "warn" |
   unknown: "neutral",
 };
 
-export function RelationChip({ relation }: { relation?: MechanismRelation }) {
+export function RelationChip({ relation, curatedRelation }: { relation?: MechanismRelation; curatedRelation?: MechanismRelation }) {
   if (!relation) return null;
   const glyph = relation === "same road" ? "=" : relation === "opposite direction" ? "⇅" : relation === "contested" ? "!" : relation === "different road" ? "≠" : "?";
+  const sub = relation === "contested" && curatedRelation && curatedRelation !== "contested" ? ` (curated: ${curatedRelation})` : "";
   return (
-    <Chip tone={RELATION_TONE[relation]} title={`Mechanism relation: ${relation}`}>
+    <Chip tone={RELATION_TONE[relation]} title={`Mechanism relation: ${relation}${sub}`}>
       <span aria-hidden>{glyph}</span> {relation}
+      {sub && <span className="opacity-80">{sub}</span>}
     </Chip>
   );
 }
@@ -110,7 +112,7 @@ export function Ladder({ rows, focalId }: { rows: LadderRow[]; focalId: string }
                       </div>
                       {row.neighbor && (
                         <div className="flex flex-wrap items-center gap-x-3 gap-y-1 mt-1">
-                          <RelationChip relation={row.neighbor.relation} />
+                          <RelationChip relation={row.neighbor.relation} curatedRelation={row.neighbor.curatedRelation} />
                           <SimilarityBar value={row.neighbor.similarity} band={row.neighbor.band} />
                         </div>
                       )}

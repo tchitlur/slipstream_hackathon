@@ -38,7 +38,10 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
   const neighborsAll = getNeighbors(c.id);
   const cutoffs = store.similarity.cutoffs ?? { high: 1, medium: 1, edge: 1 };
   const supported = neighborsAll.filter((n) => n.similarity >= cutoffs.medium);
-  const shown = (supported.length ? supported : []).slice(0, 8);
+  // Ladder rows: neighbors that carry full ladders (deep slice) first; atlas-wide look-alikes are listed separately.
+  const supportedDeep = supported.filter((n) => getCondition(n.id)?.depth === "deep");
+  const supportedShallow = supported.filter((n) => getCondition(n.id)?.depth !== "deep");
+  const shown = supportedDeep.slice(0, 8);
   const rows: LadderRow[] = [];
   const toRow = (cid: string, neighbor?: typeof neighborsAll[number]): LadderRow | null => {
     const cc = getCondition(cid);
@@ -156,11 +159,33 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
             <p className="text-sm border border-line rounded-md p-3 bg-paper-2 mb-3">This condition is in the atlas-wide layer: mechanism and symptoms only. Milestones 3 to 8 were not searched for it, so cells show “not searched”. Neighbors in the deep slice still show their full ladders.</p>
           )}
           {supported.length > 0 ? (
-            <Ladder rows={rows} focalId={c.id} />
+            <>
+              {shown.length > 0 ? <Ladder rows={rows} focalId={c.id} /> : <p className="text-sm border border-line rounded-md p-3 bg-white/50">The neighbors above the medium similarity cutoff are all in the atlas-wide layer, which has no ladder yet. They are listed below.</p>}
+              {supportedShallow.length > 0 && (
+                <p className="text-sm text-ink-2 mt-3">
+                  <span className="text-ink font-medium">Also similar, atlas-wide layer (mechanism and symptoms only, no ladder yet): </span>
+                  {supportedShallow.slice(0, 10).map((n, i) => {
+                    const nc = getCondition(n.id)!;
+                    return (
+                      <span key={n.id}>
+                        {i > 0 && "; "}
+                        <Link href={conditionHref(nc.id)} className="underline">
+                          {nc.geneSymbol}
+                        </Link>{" "}
+                        <span className="text-muted">
+                          {n.similarity.toFixed(2)}, {n.relation}
+                        </span>
+                      </span>
+                    );
+                  })}
+                  {supportedShallow.length > 10 && ` and ${supportedShallow.length - 10} more`}
+                </p>
+              )}
+            </>
           ) : (
             <NoSupportedRoute condition={c} neighborsAll={neighborsAll} cutoffs={cutoffs} />
           )}
-          {supported.length > 0 && (
+          {shown.length > 0 && (
             <div className="mt-4 space-y-2">
               <h3 className="text-base text-ink-2">Open a neighbor to see what can be borrowed</h3>
               <ul className="grid gap-2 sm:grid-cols-2">
@@ -175,7 +200,7 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
                         </Link>
                       </div>
                       <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
-                        <RelationChip relation={n.relation} />
+                        <RelationChip relation={n.relation} curatedRelation={n.curatedRelation} />
                         <SimilarityBar value={n.similarity} band={n.band} />
                       </div>
                       <div className="text-xs text-ink-2">
@@ -212,7 +237,7 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
           <p className="text-sm text-ink-2 max-w-3xl mb-3">
             Investigators linked by public records (NIH RePORTER projects, ClinicalTrials.gov officials, last authors of mechanism papers) to conditions on the road “{road?.label}”, across gene names. Bridges span more than one road or cluster.
           </p>
-          <InvestigatorList investigators={investigators.slice(0, 20)} focalConditionId={c.id} conditionNames={Object.fromEntries(store.atlas.conditions.map((x) => [x.id, `${x.geneSymbol} · ${x.name}`]))} searched={Object.keys(store.investigators).length > 0} />
+          <InvestigatorList investigators={investigators.slice(0, c.depth === "deep" ? 20 : 8)} focalConditionId={c.id} conditionNames={Object.fromEntries(store.atlas.conditions.map((x) => [x.id, `${x.geneSymbol} · ${x.name}`]))} searched={Object.keys(store.investigators).length > 0} />
         </section>
 
         <p className="text-xs text-muted">

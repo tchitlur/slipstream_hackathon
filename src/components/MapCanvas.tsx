@@ -72,10 +72,14 @@ export function MapCanvas({ nodes, edges, clusters }: { nodes: MapNode[]; edges:
       }
     }
     ctx.font = "12px ui-sans-serif, system-ui, sans-serif";
-    ctx.fillStyle = "rgba(28,26,23,0.75)";
     for (const c of clusters) {
       const { px, py } = proj(c.x, c.y);
-      ctx.fillText(c.label, px + 6, py - 6);
+      const label = c.label.length > 48 ? c.label.slice(0, 46) + "…" : c.label;
+      const w = ctx.measureText(label).width;
+      ctx.fillStyle = "rgba(250,248,244,0.85)";
+      ctx.fillRect(px + 4, py - 17, w + 6, 16);
+      ctx.fillStyle = "rgba(28,26,23,0.8)";
+      ctx.fillText(label, px + 7, py - 5);
     }
     if (nodes.length <= 400) {
       ctx.font = "10px ui-sans-serif, system-ui, sans-serif";
