@@ -15,6 +15,9 @@ import { writeEvidence } from "./lib/evidence";
 import { updateManifest } from "./lib/manifest";
 import { llmStructured, mapLimit, hasKey, confirmModels, estimateUsd, approxTokens, readLedger, BUDGET_USD } from "./lib/llm";
 import { AtlasSchema, Direction, type Evidence, type Paper, type LiteratureFile, type Condition, type Mechanism } from "../src/lib/schemas";
+import type { z as zod } from "zod";
+import type { MechanismClaimSchema } from "../src/lib/schemas";
+type MechanismClaimEntry = zod.infer<typeof MechanismClaimSchema>;
 import { verifyQuote } from "../src/lib/quotes";
 
 const MECH_N = Number(process.env.SLIPSTREAM_T1_ABSTRACTS ?? 12);
@@ -137,7 +140,10 @@ async function main() {
 
   type Claim = LiteratureFile["claims"][number];
   const claims: Claim[] = existing?.claims.filter((c) => !genes.includes(c.geneSymbol)) ?? [];
-  let discarded = existing?.discardedClaims ?? 0;
+  // Discarded counts are tracked per gene so re-runs stay idempotent.
+  const discardedByGene: Record<string, number> = { ...(existing?.discardedByGene ?? {}) };
+  for (const g of genes) discardedByGene[g] = 0;
+  let discarded = 0;
   const condsByGene = new Map<string, Condition[]>();
   for (const c of atlas.conditions) (condsByGene.get(c.geneSymbol) ?? condsByGene.set(c.geneSymbol, []).get(c.geneSymbol)!).push(c);
 
@@ -167,6 +173,7 @@ async function main() {
         const q = verifyQuote(c.quote, text);
         if (!q) {
           discarded++;
+          discardedByGene[r.symbol] = (discardedByGene[r.symbol] ?? 0) + 1;
           return;
         }
         claims.push({ pmid: r.pmid, direction: c.direction, mechanism: c.mechanism, conditionHint: c.conditionHint, evidenceId: `ev:pubmed:${r.pmid}:claim:${i}`, geneSymbol: r.symbol, quote: q.text, verified: true });
@@ -208,35 +215,60 @@ async function main() {
     });
   }
 
-  // Cross-check (SPEC 8.2)
-  let contested = 0;
+  // Cross-check (SPEC 8.2). A claim is attached to the condition of the gene whose name best matches
+  // its conditionHint; otherwise to every condition of the gene with an established mechanism. A
+  // condition is contested when at least two independent papers disagree with the curated direction;
+  // a single dissenting paper is recorded but does not raise the flag.
+  const CONTEST_MIN_PAPERS = 2;
+  const tokens = (x: string) => new Set(x.toLowerCase().replace(/[^a-z0-9 ]+/g, " ").split(/\s+/).filter((t) => t.length > 2 && !/^(related|syndrome|disorder|disorders|disease|and|with|the|type|epilepsy|epileptic|encephalopathy|developmental|neurodevelopmental|intellectual|disability)$/.test(t)));
+  const overlap = (x: string, y: string) => {
+    const a = tokens(x);
+    const b = tokens(y);
+    if (!a.size || !b.size) return 0;
+    let n = 0;
+    for (const t of a) if (b.has(t)) n++;
+    return n / Math.min(a.size, b.size);
+  };
   for (const c of atlas.conditions) {
     c.contested = undefined;
     c.supportingClaims = [];
+    c.dissentingClaims = [];
   }
+  const dissent = new Map<string, MechanismClaimEntry[]>();
   for (const [symbol, conds] of condsByGene) {
     const geneClaims = claims.filter((c) => c.geneSymbol === symbol && c.direction !== "unclear");
-    if (!geneClaims.length) continue;
     for (const claim of geneClaims) {
-      const same = conds.filter((c) => directionOfMechanism(c.mechanism) === claim.direction);
-      const entry = { pmid: claim.pmid, direction: claim.direction, mechanism: claim.mechanism, conditionHint: claim.conditionHint, evidenceId: claim.evidenceId };
-      if (same.length) {
-        for (const c of same) c.supportingClaims.push(entry);
-      } else {
-        // Different direction and no curated condition for it: contest every condition of this gene with an established mechanism.
-        for (const c of conds.filter((c) => c.mechanism !== "undetermined" && c.mechanism !== "undetermined non-loss-of-function")) {
-          c.contested ??= { curatedMechanism: c.mechanism, curatedEvidenceId: c.evidenceIds[0], claims: [] };
-          c.contested.claims.push(entry);
-        }
+      const entry: MechanismClaimEntry = { pmid: claim.pmid, direction: claim.direction, mechanism: claim.mechanism, conditionHint: claim.conditionHint, evidenceId: claim.evidenceId };
+      // 1. Hint names a specific curated condition of this gene?
+      const scored = conds.map((c) => ({ c, s: Math.max(overlap(claim.conditionHint, c.name), ...c.synonyms.map((syn) => overlap(claim.conditionHint, syn))) })).sort((x, y) => y.s - x.s);
+      let targets: Condition[];
+      if (conds.length > 1 && scored[0].s >= 0.5 && (scored.length === 1 || scored[0].s > scored[1].s)) targets = [scored[0].c];
+      else {
+        // 2. A curated condition for that direction exists: attach there.
+        const same = conds.filter((c) => directionOfMechanism(c.mechanism) === claim.direction);
+        targets = same.length ? same : conds.filter((c) => c.mechanism !== "undetermined" && c.mechanism !== "undetermined non-loss-of-function");
+      }
+      for (const c of targets) {
+        if (directionOfMechanism(c.mechanism) === claim.direction) c.supportingClaims.push(entry);
+        else if (c.mechanism !== "undetermined" && c.mechanism !== "undetermined non-loss-of-function") (dissent.get(c.id) ?? dissent.set(c.id, []).get(c.id)!).push(entry);
       }
     }
   }
+  for (const c of atlas.conditions) {
+    const d = dissent.get(c.id) ?? [];
+    const papers = new Set(d.map((x) => x.pmid));
+    if (papers.size >= CONTEST_MIN_PAPERS) c.contested = { curatedMechanism: c.mechanism, curatedEvidenceId: c.evidenceIds[0], claims: d };
+    else c.dissentingClaims = d;
+  }
+  let contested = 0;
+  for (const c of atlas.conditions) if (c.contested) contested++;
   for (const c of atlas.conditions) if (c.contested) contested++;
   // Attach contradiction links on the curated evidence.
   const curatedContra = new Map<string, string[]>();
   for (const c of atlas.conditions) if (c.contested) curatedContra.set(c.evidenceIds[0], c.contested.claims.map((cl) => cl.evidenceId));
 
-  const out: LiteratureFile = { byGene, papers, claims, discardedClaims: discarded };
+  const totalDiscarded = Object.values(discardedByGene).reduce((a, b) => a + b, 0);
+  const out: LiteratureFile = { byGene, papers, claims, discardedClaims: totalDiscarded, discardedByGene };
   writeJson(files.literature, out, { pretty: false });
   writeJson(files.atlas, atlas, { pretty: false });
   const all = writeEvidence(["ev:pubmed:"], evidence);
@@ -248,17 +280,19 @@ async function main() {
     m.counts.papers = Object.keys(papers).length;
     m.counts.t1Abstracts = jobs.length;
     m.counts.t1ClaimsVerified = claims.length;
-    m.counts.t1ClaimsDiscarded = discarded;
+    m.counts.t1ClaimsDiscarded = totalDiscarded;
     m.counts.contestedMechanisms = contested;
     m.counts.genesWithModelPapers = Object.values(byGene).filter((g) => g.modelCount > 0).length;
     m.thresholds.t1AbstractsPerGene = MECH_N;
+    m.thresholds.contestedMinPapers = CONTEST_MIN_PAPERS;
+    m.counts.conditionsWithSingleDissent = atlas.conditions.filter((c) => c.dissentingClaims.length > 0).length;
     m.llm.spendUsd = l.totalUsd;
     m.llm.byStage = Object.fromEntries(Object.entries(l.byStage).map(([k, v]) => [k, { calls: v.calls, inputTokens: v.inputTokens, outputTokens: v.outputTokens, usd: v.usd }]));
     m.llm.models = { ...m.llm.models, ...l.models, T1: t1Model };
   });
   const dirs: Record<string, number> = {};
   for (const c of claims) dirs[c.direction] = (dirs[c.direction] ?? 0) + 1;
-  log("S4", `claims verified ${claims.length} ${JSON.stringify(dirs)}; discarded ${discarded}; contested conditions ${contested}; spend $${l.totalUsd.toFixed(3)}`);
+  log("S4", `claims verified ${claims.length} ${JSON.stringify(dirs)}; discarded ${totalDiscarded} (${discarded} this run); contested conditions ${contested}; spend $${l.totalUsd.toFixed(3)}`);
   for (const c of atlas.conditions.filter((c) => c.contested)) log("S4", `  contested: ${c.geneSymbol} ${c.name} (curated ${c.mechanism}) vs ${c.contested!.claims.map((cl) => cl.direction + "@" + cl.pmid).join(", ")}`);
 }
 

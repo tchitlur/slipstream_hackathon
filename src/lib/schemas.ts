@@ -97,6 +97,8 @@ export const ConditionSchema = z.object({
   }),
   thinAnnotation: z.boolean(),
   contested: ContestedSchema.optional(),
+  /** Verified claims in a different direction that did not reach the contested threshold (fewer than two papers). */
+  dissentingClaims: z.array(MechanismClaimSchema).default([]),
   /** Other conditions on the same gene with a different mechanism. */
   sameGeneOtherMechanism: z.array(z.string()).default([]),
   /** Verified extracted claims that agree with the curated mechanism. */
@@ -283,6 +285,7 @@ export const LiteratureFileSchema = z.object({
     }),
   ),
   discardedClaims: z.number().int(),
+  discardedByGene: z.record(z.string(), z.number().int()).default({}),
 });
 export type LiteratureFile = z.infer<typeof LiteratureFileSchema>;
 

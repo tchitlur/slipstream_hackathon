@@ -101,6 +101,7 @@ async function main() {
       thinAnnotation: true,
       sameGeneOtherMechanism: [],
       supportingClaims: [],
+      dissentingClaims: [],
       lastReviewed: r["date of last review"]?.slice(0, 10) || undefined,
     };
     conditions.push(cond);

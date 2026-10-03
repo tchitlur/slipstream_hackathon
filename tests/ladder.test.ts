@@ -23,6 +23,7 @@ const cond = (over: Partial<Condition> = {}): Condition => ({
   thinAnnotation: false,
   sameGeneOtherMechanism: [],
   supportingClaims: [],
+  dissentingClaims: [],
   ...over,
 });
 

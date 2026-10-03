@@ -1,1 +1,20 @@
-[]
+[
+ {
+  "conditionId": "cond:G2P00797",
+  "neighborId": "cond:G2P00319",
+  "score": 10.31,
+  "reason": "STX1B lacks 2 of milestones 4-7; SLC6A1 (same road, similarity 0.3081) is ahead on Patient org, Registry / NHS, Targeted trial; no opposite-direction counterexample above the high cutoff."
+ },
+ {
+  "conditionId": "cond:G2P01036",
+  "neighborId": "cond:G2P00319",
+  "score": 8.31,
+  "reason": "PCDH19 lacks 2 of milestones 4-7; SLC6A1 (same road, similarity 0.3079) is ahead on Registry / NHS, Targeted trial; no opposite-direction counterexample above the high cutoff."
+ },
+ {
+  "conditionId": "cond:G2P00063",
+  "neighborId": "cond:G2P00319",
+  "score": 8.22,
+  "reason": "IQSEC2 lacks 2 of milestones 4-7; SLC6A1 (same road, similarity 0.2205) is ahead on NIH funding, Targeted trial; no opposite-direction counterexample above the high cutoff."
+ }
+]

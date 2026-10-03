@@ -63,6 +63,7 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
 
   const evidenceIds = collectEvidenceIds(c, ladder, rows, orgs, investigators, studies, relatedCommunities.map((r) => r.orgs), c.contested);
   if (c.contested) for (const cl of c.contested.claims) evidenceIds.add(cl.evidenceId);
+  for (const cl of c.dissentingClaims) evidenceIds.add(cl.evidenceId);
   const evidence = getEvidence(evidenceIds);
   const curatedEv = c.evidenceIds.filter((e) => e.startsWith("ev:g2p:"));
   const manifest = store.manifest;
@@ -100,6 +101,20 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
           </div>
           {c.synonyms.length > 0 && <p className="text-sm text-muted">Also recorded as: {c.synonyms.slice(0, 3).join("; ")}</p>}
           <VariantNotice geneSymbol={c.geneSymbol} mechanism={c.mechanism} />
+          {!c.contested && c.dissentingClaims.length > 0 && (
+            <p className="text-sm text-ink-2 max-w-3xl">
+              One published paper disagrees with the curated direction (
+              {c.dissentingClaims.filter((cl, i, arr) => arr.findIndex((x) => x.pmid === cl.pmid) === i).map((cl, i) => (
+                <span key={cl.evidenceId}>
+                  {i > 0 && ", "}
+                  <EvidenceLink ids={[cl.evidenceId]} title={`Published claim (PMID ${cl.pmid})`}>
+                    PMID {cl.pmid}: {cl.direction.replace("_", " ")}
+                  </EvidenceLink>
+                </span>
+              ))}
+              ). Below the two-paper threshold for a contested flag; shown for completeness.
+            </p>
+          )}
           {sameGeneOther.length > 0 && <SameGeneNotice conditions={sameGeneOther.map((o) => ({ id: o!.id, name: o!.name, roadLabel: roadById(o!.roadId)?.label ?? "", href: conditionHref(o!.id), roadId: o!.roadId }))} />}
           {c.contested && (
             <div className="border border-[#fdba74] bg-warn-bg rounded-md p-3 text-sm">

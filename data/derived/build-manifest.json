@@ -1,5 +1,5 @@
 {
- "builtAt": "2026-10-03T20:05:38.614Z",
+ "builtAt": "2026-10-03T20:17:58.258Z",
  "sources": {
   "g2p": {
    "url": "https://ftp.ebi.ac.uk/pub/databases/gene2phenotype/G2P_data_downloads/2026_09_28/DDG2P_2026-09-28.csv.gz",
@@ -22,16 +22,16 @@
   },
   "ctgov": {
    "url": "https://clinicaltrials.gov/api/v2/studies",
-   "retrievedAt": "2026-10-03T19:58:09.106Z"
+   "retrievedAt": "2026-10-03T20:17:47.844Z"
   },
   "pubmed": {
    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils",
-   "retrievedAt": "2026-10-03T20:05:38.613Z"
+   "retrievedAt": "2026-10-03T20:17:45.433Z"
   },
   "reporter": {
    "url": "https://api.reporter.nih.gov/v2/projects/search",
    "version": "FY2024-2027",
-   "retrievedAt": "2026-10-03T19:55:22.185Z"
+   "retrievedAt": "2026-10-03T20:17:48.780Z"
   }
  },
  "counts": {
@@ -53,40 +53,48 @@
   "studiesAboutCondition": 212,
   "studiesDiscardedNotAbout": 357,
   "studiesWithMechanismExclusion": 13,
-  "t2QuotesVerified": 634,
-  "t2QuotesDiscarded": 28,
+  "t2QuotesVerified": 979,
+  "t2QuotesDiscarded": 42,
   "ladders": 83,
   "transferPairs": 1620,
   "transferVerdicts": 11340,
-  "verdictDoNotTransfer": 3440,
-  "verdictTransferable": 2563,
-  "verdictNeedsExpertReview": 3717,
+  "verdictDoNotTransfer": 3633,
+  "verdictTransferable": 2574,
+  "verdictNeedsExpertReview": 3513,
   "clusters": 14,
   "layoutEdges": 324,
-  "demoCandidates": 0,
-  "contestedMechanisms": 36,
-  "bridges": 5,
+  "demoCandidates": 3,
+  "contestedMechanisms": 18,
+  "bridges": 67,
   "milestone1_found_deep": 79,
   "milestone2_found_deep": 61,
-  "milestone3_found_deep": 0,
-  "milestone4_found_deep": 14,
-  "milestone5_found_deep": 3,
-  "milestone6_found_deep": 3,
-  "milestone7_found_deep": 10,
+  "milestone3_found_deep": 71,
+  "milestone4_found_deep": 48,
+  "milestone5_found_deep": 83,
+  "milestone6_found_deep": 71,
+  "milestone7_found_deep": 27,
   "milestone8_found_deep": 0,
-  "searchDocs": 842,
+  "searchDocs": 897,
   "papers": 882,
   "t1Abstracts": 724,
-  "t1ClaimsVerified": 647,
-  "t1ClaimsDiscarded": 40,
+  "t1ClaimsVerified": 667,
+  "t1ClaimsDiscarded": 100,
   "genesWithModelPapers": 65,
-  "grants": 15,
-  "investigators": 99,
-  "investigatorRawMentions": 115,
+  "grants": 588,
+  "investigators": 1418,
+  "investigatorRawMentions": 1669,
   "patientOrgs": 55,
   "patientOrgsVerified": 0,
   "patientOrgsWithRegistry": 31,
-  "conditionsWithOrg": 71
+  "conditionsWithOrg": 71,
+  "reconciliationDecisions": 707,
+  "reconcile_gene": 51,
+  "reconcile_exact": 361,
+  "reconcile_normalized": 9,
+  "reconcile_none": 213,
+  "reconcile_llm": 73,
+  "studiesRefinedByReconciliation": 0,
+  "conditionsWithSingleDissent": 11
  },
  "thresholds": {
   "thinAnnotationTerms": 5,
@@ -99,27 +107,35 @@
   "similarityMediumPercentile": 0.7,
   "studiesMaxPerGene": 30,
   "lowInfoShareC1": 0.8,
-  "t1AbstractsPerGene": 12
+  "t1AbstractsPerGene": 12,
+  "contestedMinPapers": 2
  },
  "llm": {
-  "spendUsd": 6.9910925000000095,
+  "spendUsd": 3.0680169999999998,
   "byStage": {
    "S5": {
     "calls": 599,
     "inputTokens": 762654,
     "outputTokens": 105983,
-    "usd": 3.496380000000003
+    "usd": 1.0489140000000015
    },
    "S4": {
-    "calls": 796,
-    "inputTokens": 587981,
-    "outputTokens": 134984,
-    "usd": 3.494712499999998
+    "calls": 909,
+    "inputTokens": 674479,
+    "outputTokens": 162807,
+    "usd": 1.9203992500000007
+   },
+   "S6": {
+    "calls": 159,
+    "inputTokens": 56761,
+    "outputTokens": 12474,
+    "usd": 0.09870374999999998
    }
   },
   "models": {
    "T2": "gpt-5.4-mini",
-   "T1": "gpt-5.4-mini"
+   "T1": "gpt-5.4",
+   "T3": "gpt-5.4-mini"
   }
  },
  "genesRequested": [
@@ -191,5 +207,5 @@
  ],
  "genesDropped": [],
  "notes": [],
- "gitCommit": "d18a17e"
+ "gitCommit": "7bfdb26"
 }

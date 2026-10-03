@@ -1,7 +1,7 @@
 /** Runs every pipeline stage in order. Pass-through of --genes / --all / --skip-llm. */
 import { spawnSync } from "node:child_process";
 
-const stages = ["00_probe", "01_mechanism", "02_phenotypes", "03_similarity", "04_literature", "05_studies", "06_reconcile", "07_orgs", "08_funding", "09_analytics", "10_briefs", "99_validate"];
+const stages = ["00_probe", "01_mechanism", "02_phenotypes", "03_similarity", "04_literature", "05_studies", "06_reconcile", "07_orgs", "08_funding", "09_analytics", "10_briefs", "98_notes", "99_validate"];
 const args = process.argv.slice(2);
 const only = args.find((a) => a.startsWith("--from="))?.slice(7);
 let started = !only;
