@@ -262,7 +262,6 @@ async function main() {
   }
   let contested = 0;
   for (const c of atlas.conditions) if (c.contested) contested++;
-  for (const c of atlas.conditions) if (c.contested) contested++;
   // Attach contradiction links on the curated evidence.
   const curatedContra = new Map<string, string[]>();
   for (const c of atlas.conditions) if (c.contested) curatedContra.set(c.evidenceIds[0], c.contested.claims.map((cl) => cl.evidenceId));

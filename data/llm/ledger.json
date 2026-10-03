@@ -11,7 +11,7 @@
   },
   "S4": {
    "calls": 909,
-   "cachedCalls": 4322,
+   "cachedCalls": 5209,
    "inputTokens": 674479,
    "outputTokens": 162807,
    "usd": 1.9203992500000007,
@@ -27,14 +27,14 @@
   },
   "S10": {
    "calls": 6,
-   "cachedCalls": 3,
+   "cachedCalls": 6,
    "inputTokens": 22418,
    "outputTokens": 13792,
    "usd": 0.262925,
    "model": "gpt-5.4"
   }
  },
- "updatedAt": "2026-10-03T20:42:50.493Z",
+ "updatedAt": "2026-10-03T20:43:46.172Z",
  "models": {
   "T2": "gpt-5.4-mini",
   "T1": "gpt-5.4",
