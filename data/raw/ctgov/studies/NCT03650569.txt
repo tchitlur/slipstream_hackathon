@@ -1,0 +1,13 @@
+Title: Italian Angelman Syndrome Registry
+Official title: Italian Angelman Syndrome Registry Project
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Angelman Syndrome
+Interventions: none
+Summary: The Italian Angelman Registry is a national registry for patients with Angelman Syndrome. No experimental intervention is involved in participation. The data provided are stored in the registry according the EU General Data Protection Regulation (GDPR, enforced on 25 May 2018), unless participants wish to withdraw their child/ adult's information from the registry.
+Eligibility: Inclusion Criteria:
+
+* Molecular diagnosis of Angelman syndrome
+
+Exclusion Criteria:
+
+* Does not meet diagnostic criteria for Angelman Syndrome Other medical or genetic disorders (except autism)

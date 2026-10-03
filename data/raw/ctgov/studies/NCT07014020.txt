@@ -1,0 +1,29 @@
+Title: RB001 Gene Therapy Study in Children With SHANK3-related Phelan-McDermid Syndrome (PMS)
+Official title: An Open-label, Single Arm, Dose-Escalation Clinical Study to Evaluating the Safety, Tolerability and Preliminary Efficacy of a Single Intracerebroventricular Injection of RB001 for the Treatment of SHANK3-related Phelan-McDermid Syndrome.
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Phelan-McDermid Syndrome; SHANK3 Haploinsufficiency
+Interventions: RB001 (GENETIC)
+Summary: This is an open-label, dose-escalation study to evaluate the safety, tolerability, and clinical activity of a single dose of RB001 administered via intracerebroventricular (ICV) injection in pediatric with SHANK3 related Phelan-McDermid Syndrome. Clinical data will be evaluated for safety, tolerability, and preliminary efficacy of RB001 in participants with SHANK3 related PMS.
+Eligibility: Inclusion Criteria:
+
+* Age ≥3 years and \<18 years (at the time of signing informed consent), any gender
+* Genetic test and clinical confirmed diagnosis of SHANK3-related PMS
+* Meets diagnostic criteria for moderate or more severe Autism Spectrum Disorder (ASD)
+* Intelligence Quotient (IQ) score \<70 or Developmental Quotient (DQ) (excluding gross motor) average score \<70
+* Willing to provide biological samples required for the study (e.g., blood, urine)
+* Consent to hospitalization for intracerebroventricular injection surgery
+* The holders of parental authority who are able to understand and willing to comply with study requirements and procedures, voluntarily participating and signing the informed consent
+
+Exclusion Criteria:
+
+A pediatric participant who meets any of the following criteria will be excluded from this study:
+
+* Previous or current participation in other PMS drug clinical trials or other AAV gene therapy clinical studies
+* Has known allergic constitution, including allergy or hypersensitivity to prednisone acetate, other glucocorticosteroids, their excipients, or local anesthetics
+* Subjects with status epilepticus within 3 months prior to enrollment
+* Subjects requiring invasive or non-invasive ventilatory support
+* Serum anti-AAV neutralizing antibody titer \>1:200
+* Significant laboratory abnormalities: alanine aminotransferase (ALT), aspartate aminotransferase (AST), γ-glutamyl transferase (GGT) with any value above the upper limit of normal; total bilirubin above the upper limit of normal; creatinine ≥159 μmol/L; hemoglobin (Hb) \<80 g/L; prothrombin time (PT) prolonged by ≥3 seconds; activated partial thromboplastin time (APTT) prolonged by ≥10 seconds; fasting blood glucose ≥7.0 mmol/L; glycated hemoglobin (HbA1c) ≥6.5%; platelets (PLT) \<100×10\^9/L
+* Subjects with liver disease or history of heart disease that may pose drug-related risks as assessed by the investigator
+* Subjects deemed unsuitable for intracerebroventricular administration or with other special circumstances as assessed by the investigator
+* Positive for human immunodeficiency virus antibody, hepatitis B surface antigen, hepatitis C antibody, syphilis antibody, active 

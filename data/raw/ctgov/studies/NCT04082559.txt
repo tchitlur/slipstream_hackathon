@@ -1,0 +1,20 @@
+Title: Biomarker-based Multidisciplinary Team (Bio-MDT) Approach to Personalized Microbial-targeted Treatment of Pouchitis and Crohn's Disease
+Official title: Biomarker-based Multidisciplinary Team Approach to Personalized Microbial-targeted Treatment of Pouchitis and Crohn's Disease
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Inflammatory Bowel Diseases
+Interventions: Arm 1- Antibiotics treatment (OTHER); Arm 2- Antibiotics treatment (OTHER); Arm 1- Combination therapy (Antibiotics + diet) (OTHER); Arm 2- Combination therapy (Antibiotics + diet) (OTHER); Arm 1- Nutritional prevention (OTHER); Arm 2- Nutritional prevention (OTHER); Arm 3- Nutritional prevention (OTHER)
+Summary: Crohn's disease (CD) and ulcerative colitis (UC) are chronic inflammatory bowel diseases (IBD) currently affecting over 5 million patients globally, mostly young adults. These conditions are often debilitating, disabling and may markedly affect patient's quality of life. Despite important advances in research, the pathogenesis of IBD remains obscure, the incidence-rising, the condition - incurable, and drugs have a modest effect. The common denominator may be environmental factors, specifically diet and the microbiome, which remain a fundamental unmet need in IBD care as high quality randomized trials and mechanistic research are limited. Up to a quarter of patients with UC may undergo complete large bowel resection due to disease complications. In order to preserve bowel continuity, this surgery includes a restorative part with creation of a reservoir ("pouch") from normal small bowel instead of the resected rectum. The majority of these patients develop small intestinal inflammation in the previously normal small bowel creating the pouch ("pouchitis").
+
+Based on our results from previous studies, we hypothesized that personalized antibiotics and dietary interventions will modify 
+Eligibility: Inclusion Criteria:
+
+1. Patients are able and willing to sign an informed consent
+2. Patients with UC who underwent pouch surgery and have a functioning pouch
+3. Disease activity (PDAI and PGA) according to study arm 1-3 inclusion
+
+Exclusion Criteria:
+
+1. Patients with ileostomy
+2. Significant comorbidity that precludes the patient from participating according to the physicians' judgment
+3. Non-Hebrew readers
+4. Pregnant and lactating women

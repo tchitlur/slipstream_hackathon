@@ -1,0 +1,21 @@
+Title: Pharmacodynamic Comparison of Rosuvastatin Versus Atorvastatin on Platelet Reactivity in Patients With Coronary Artery Disease on Dual Antiplatelet Therapy With New P2Y12 Inhibitors (Trial gRANADa)
+Official title: Pharmacodynamic Comparison of Rosuvastatin Versus Atorvastatin on Platelet Reactivity in Patients With Coronary Artery Disease on Dual Antiplatelet Therapy With New P2Y12 Inhibitors
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Coronary Artery Disease
+Interventions: Atorvastatin (DRUG); Rosuvastatin (DRUG)
+Summary: Statin interference has been suggested among the mechanisms of reduction of the antiplatelet effect of clopidogrel. The purpose of this study is to evaluate pharmacodynamic effects of rosuvastatin and atorvastatin on platelet reactivity in patients with coronary artery disease undergone double antiplatelet therapy with new P2Y12 inhibitors. This is a single-center, prospective, randomized, crossover study conducted in the Department of Heart and Great Vessels "Attilio Reale", Sapienza University, Rome, Italy. All consecutive patients undergone PTCA in our institution in the period between July 2013 and December 2013 will be eligible to be enrolled.
+
+Patients will be offered to participate to the trial at time of 1-month post-angioplasty follow-up visit.patients receiving dual antiplatelet therapy (prasugrel 10 mg or brilique 90 mg x 2 plus aspirin 100 mg) after percutaneous coronary intervention. Patients were randomly assigned to rosuvastatin (20 mg day) or atorvastatin (40 mg day) for 30 days. After 1-week wash-out period to avoid any carryover effect, cross-over was performed, and patients were switched to the other drug which was continued for 30 days.
+
+Platelet function will b
+Eligibility: Inclusion Criteria:
+
+1. Angiographically-proven coronary artery disease;
+2. Able to understand and willing to sign the informed CF;
+3. Stable clinical condition;
+4. treatment with dual antiplatelet therapy (with P2Y12 inhibitors);
+
+Exclusion Criteria:
+
+1. Other drugs or medications that affect CYP mediated drug metabolism;
+2. Allergy or adverse reactions to administered drugs;

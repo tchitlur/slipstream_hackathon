@@ -1,0 +1,36 @@
+Title: Trial of Naproxen to Evaluate Various Methods of Measuring Analgesic Effect in Osteoarthritis Pain of the Knee
+Official title: A Randomized, Double-Blind, Placebo-controlled Cross-over, Exploratory Trial of Naproxen to Evaluate Methods of Measuring Analgesic Effect in Osteoarthritis Pain of the Knee
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Osteoarthritis, Knee
+Interventions: Naproxen (DRUG); Placebo (DRUG)
+Summary: This study aims to evaluate various methods of measuring pain relief in subjects who have chronic OA of the knee. After a 1 week of wash-out from existing therapy, subjects will be treated in a blinded fashion for 1 week with either naproxen (3 days at 250 mg twice a day followed by 4 days at 500 mg twice a day) or placebo. After the first week of treatment, subjects will have another week of wash-out followed by a second period of 1 week of the alternate treatment. Subjects will not be allowed to use oral non-steroidal anti-inflammatory drugs (NSAIDs) or other oral analgesics, or topical medications on their target knees during the study. Acetaminophen will be allowed as a rescue medication.
+Eligibility: Inclusion Criteria:
+
+1. Subject able to read, comprehend and sign written Informed Consent Form
+2. Subject is 21 years old or older
+3. If female, should be post-menopausal or has negative urine test
+4. Subject has some degree of target joint pain for the last 3 months
+5. Subject has to have 3 out of six:
+
+   ( )Age \> 50 ( )Morning stiffness \< 30 minutes ( )Crepitus on active motion ( )Bony enlargement ( )No palpable warmth of synovium
+6. Subject had an X-ray of the target knee showing evidence of OA within the past 3 years
+7. Target joint does not contain any type of orthopedic and/or prosthetic device
+8. Subject is ambulatory
+9. Subject is in good general medical and psychological health, and is capable of completing study assessments and procedures.
+
+Exclusion Criteria:
+
+1. Subject had an x-ray of the target knee showing Kellgren-Lawrence grade 4
+2. Subject has any pain syndrome that has the potential to confound the assessment of the target knee.
+3. the subject has a documented history of an adverse reaction to NSAIDs or acetaminophen
+4. Subject is pregnant or breast feeding
+5. Subject has sitting systolic pressure \> 180 mmHg or \< 90mmHg, and/or a sitting diastolic pressure \> 100 mmHg or \< 50 mmHg at screening
+6. Subject has mass body index (BMI) \> 35 kg/m2.
+7. Subject has a Hospital Anxiety and Depression Scale (HADS) score \> 12 on either subscale or has an established history of major depressive disorder not controlled with medication
+8. Subject has had an introduction of physiotherapy, acupuncture, or transcutaneous electrical nerve stimulation within 4 weeks before screening, or has no stable regimen of these modalities.
+9. Subject has a clinically significant abnormalities in clinical chemistry, hematology, coagulation, or urinalysis.
+10. Subject has a significant history or renal impairment
+11. Subject has a positive urine drug screen for alcohol, illicit drugs or nonprescribed controlled substances
+12. Subject has dermatological lesions of the target knee or ipsilateral elbow at the time of screening.
+13. Subject is unable to discontinue all formulations of prior analgesics
+14. Subject has received any investigational drug within 30 days prior 

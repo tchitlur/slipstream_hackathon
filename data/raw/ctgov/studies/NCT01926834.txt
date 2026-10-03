@@ -1,0 +1,23 @@
+Title: The Effect of Erigeron Injection on Acute Cerebral Infarction Serum VEGF, MMP-9 and EPC Levels
+Official title: The Effect of Erigeron Injection on Acute Cerebral Infarction Serum VEGF, MMP-9 and EPC Levels
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Cerebral Infarction
+Interventions: Erigeron Injection (DRUG); placebo (DRUG)
+Summary: To study the effects of Erigeron Injection on human serum VEGF, MMP-9 and EPC levels after acute cerebral infarction,test is made by random double-blind controlled.patients with acute cerebral infarction were divided randomly into erigeron injection+aspirin group,aspirin group,and health people. The main indexes are the serum level of VEGF, MMP-9 and EPC.The review is made by the reference to NIHSS and so on. So, Erigeron Injection have the function of promoting angiogenesis in multiple targets through this test.
+Eligibility: Inclusion Criteria:
+
+* patients aged no younger than 18yrs
+* attack within 72 hours
+* NIHSS score in the 2-25 points
+* Ischemic Stroke occurred for the first time, or with a history of stroke disease but without sequelae
+* Signed the informed consents
+
+Exclusion Criteria:
+
+* patients aged younger than 18yrs
+* Patients with tumor, coronary heart disease, valvular heart disease, psoriasis, rheumatism, hematologic diseases, infertility, varieties of acute inflammation
+* Patients with severe cognitive impairment
+* Refused to cooperate or been unable to cooperation for neurological disorders
+* Cerebral hemorrhage or hemorrhagic cerebral infarction
+* Unstable vital signs dued to massive cerebral infarction
+* Patients with serious heart, liver and renal insufficiency

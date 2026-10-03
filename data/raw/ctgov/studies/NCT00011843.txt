@@ -1,0 +1,28 @@
+Title: Molecular Analysis of Microphthalmia/Anophthalmia
+Official title: Molecular Analysis of Microphthalmia/Anophthalmia and Related Disorders
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Anophthalmos
+Interventions: none
+Summary: This study will try to learn more about the genetic cause and symptoms of microphthalmia (small eyes) or anophthalmia (absence of one or both eyes).
+
+Patients with microphthalmia or anophthalmia with mental retardation may be eligible for this study. Patients' parents and siblings will also be included for genetic studies. Patients may participate in both the clinical and laboratory parts of the study or just the laboratory part, as described below:
+
+Laboratory
+
+The laboratory study consists of DNA analysis to determine the genetic cause of microphthalmia/anophthalmia. The DNA sample is obtained using one of the following methods:
+
+* Blood draw - for young children, a numbing cream is applied to the skin before the needlestick to decrease the pain
+* Skin biopsy - a small piece of skin (about 1/8-inch in diameter) is removed surgically after the area has been numbed with an anesthetic
+* Cotton swab - a specimen is collected from inside the cheek using a cotton swab. This is done only for patients who cannot provide a blood or skin sample.
+* Prenatal sample - If, in the case of newborns, specimens are left from prenatal testing, these can be used instead of a blood sample.
+
+Some pati
+Eligibility: * INCLUSION CRITERIA:
+
+Inclusion criteria will consist of affected individuals with unilateral or bilateral microphthalmia/anophthalmia from families with an X-linked mode of transmission. In addition, we may analyze patients with mental retardation with or without eye defects to allow genotype phenotype correlation studies. Parents and siblings will be included for linkage analysis. Unaffected non-transmitting parents may be included to clarify haplotype status. In addition, families with X-linked microphthalmia/anophthalmia with associated anomalies such as Lenz dysplasia and other X-linked microphthalmia/anophthalmia syndromes will be analyzed to determine if these conditions are allelic. Sporadic cases of microphthalmia with or without mental retardation may be considered for study, along with parents and unaffected siblings. Unaffected subjects may also be enrolled if needed for controls.
+
+Specimens from patients collected at outside institutions may be accepted into the study if they were collected under an IRB-approved protocol at a multiple project assurance (FWA) institution or if the IRB waives review of the study and allows usage of the NIH consent. Some of these patient samples may represent overlapping phenotypes (e.g., laterality defects) and not microphthalmia. Inheritance patterns may not be known for these.
+
+EXCLUSION CRITERIA:
+
+If the patient has microphthalmia/anophthalmia with autosomal recessive, autosomal dominant pattern of inheritance, the family will be excluded. While this criterion should enrich for X-linked syndromic microphthalmia, the rarity of the disorder necessitates that we will accept small families and even sporadic cases if they have substantial clinical overlap with Lenz or OFCD.

@@ -1,0 +1,28 @@
+Title: Phase 2 Basket Trial of Nab-sirolimus in Patients With Malignant Solid Tumors With Pathogenic Alterations in TSC1/TSC2 Genes (PRECISION 1)
+Official title: A Phase 2 Multi-center Open-label Basket Trial of Nab-sirolimus for Adult and Adolescent Patients With Malignant Solid Tumors Harboring Pathogenic Inactivating Alterations in TSC1 or TSC2 Genes.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Tumor; Tumor, Solid; Metastasis; Metastatic Cancer; Cancer; Cancer Metastatic; Tumors; Neoplasms; Neoplasm Metastasis; Solid Tumor; Advanced Solid Tumor; Advanced Cancer; Malignant Solid Tumor; Malignant Solid Neoplasm; Malignant Neoplasm; Malignant Tumor; TSC; TSC1; TSC2; Metastatic Solid Tumor; Metastatic Neoplasm
+Interventions: nab-sirolimus (DRUG)
+Summary: A Phase 2 multi-center open-label basket trial of nab-sirolimus for adult and adolescent patients with malignant solid tumors harboring pathogenic inactivating alterations in TSC1 or TSC2 genes
+Eligibility: Inclusion Criteria:
+
+1. Patients must have a malignant solid tumor with a pathogenic inactivating TSC1 or TSC2 alteration. Genetic alterations should be identified using NGS in tumor tissue or liquid biopsy).
+
+   • Patients will be enrolled after the central evaluation of NGS report confirms eligibility.
+2. Patients must have solid tumors that are metastatic or locally advanced where surgical resection is not an option or likely to result in severe morbidity.
+3. Patients must have received all standard therapies appropriate for their tumor type and stage of disease or, in the opinion of the Investigator, the patient would be unlikely to tolerate or derive clinically meaningful benefit from appropriate standard of care therapy, or the patient has no satisfactory alternative treatments.
+4. Patients must have 1 or more measurable target lesions by computed tomography (CT) scan or magnetic resonance imaging (MRI) (RECIST v1.1).
+5. Age: 12 years or older.
+6. Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 or Karnofsky Performance Status (KPS) ≥80 or Lansky play-performance scale for pediatric patients ≥80.
+7. Adequate liver function:
+
+   1. Total bilirubin ≤1.5 × upper limit of normal (ULN) (unless due to Gilbert's syndrome, then ≤3 × ULN)
+   2. Aspartate aminotransferase (AST) ≤2.5 × ULN (≤5 × ULN if attributable to liver metastases)
+8. Adequate renal function: creatinine clearance ≥30 mL/min, Cockcroft-Gault CCr = ((140-age) × weight\[kg\]) / (72 × SCr\[mL/min\]) × 0.85, if female
+9. Adequate hematologic parameters:
+
+   1. Absolute neutrophil count (ANC) ≥1.0 × 109/L (growth factor support allowed)
+   2. Platelet count ≥100,000/mm3 (100 × 109/L) (transfusion and/or growth factor support allowed)
+   3. Hemoglobin ≥8.0 g/dL (transfusion and/or growth factor support allowed)
+10. Fasting serum triglyceride must be ≤300 mg/dL; fasting serum cholesterol must be ≤350 mg/dL.
+11. Minimum of 4 weeks since any major surgery, completion of radiation, or completion of prior systemic anticancer therapy, or at least 5 half-lives if the prior therapy is a single agent small-molecule therapeutic, and adequately recovered from the acute toxicities of any prior th

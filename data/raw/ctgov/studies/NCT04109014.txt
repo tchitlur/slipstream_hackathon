@@ -1,0 +1,27 @@
+Title: FASTLANE II: Reducing Sex, Drug, and Mental Health Risk
+Official title: Depression, Meth Use, and Safe Sex Behaviors: Assessing the Feasibility and Acceptability of an HIV Cognitive Behavioral Intervention for Young Adult Latina Women
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Methamphetamine Abuse; HIV/AIDS; Depression; Sex, Unsafe
+Interventions: FASTLANE II (OTHER)
+Summary: The study uses a repeated measures, single group pretest-posttest design methodology to examine the feasibility, acceptability, and preliminary effectiveness of the FASTLANE II intervention aimed at decreasing risky sex behaviors among active methamphetamine using women. The study's methodology consists of two phases: 1) The feasibility and evaluation of recruitment capability and intervention effectiveness, and 2) qualitative acceptability interviews.
+Eligibility: Inclusion Criteria:
+
+* Resident of San Antonio, Texas
+* Female
+* Mexican-American
+* HIV-negative
+* 18 years of age or older
+* Self-identify as heterosexual
+* Have had unprotected sex with at least one opposite sex partner during the previous 2 months
+* Indicate that they have snorted or smoked methamphetamine at least once during the previous 2 months
+
+Exclusion Criteria:
+
+* Not a resident of San Antonio, Texas
+* Male
+* Not Mexican-American
+* HIV-positive
+* Younger than 18 years of age
+* Do not self-identify as heterosexual
+* Have not had unprotected sex with at least one opposite sex partner during the previous 2 months
+* Indicate that they have not snorted or smoked methamphetamine at least once during the previous 2 months

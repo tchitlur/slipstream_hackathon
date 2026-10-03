@@ -1,0 +1,23 @@
+Title: Clinical Trial in 22q13 Deletion Syndrome(Phelan-McDermid Syndrome)
+Official title: A Double-Blind Placebo-Controlled Crossover Trial of Insulin-Like Growth Factor-1 (IGF-1) in Children and Adolescents With 22q13 Deletion Syndrome(Phelan-McDermid Syndrome)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: 22q13 Deletion Syndrome; Phelan-McDermid Syndrome
+Interventions: Insulin-Like Growth Factor-1 (IGF-1) (DRUG); Normal saline (DRUG)
+Summary: The purpose of this study is to pilot the use of Insulin-Like Growth Factor-1 (IGF-1) treatment in 22q13 Deletion Syndrome (Phelan-McDermid Syndrome) caused by SHANK3 gene deficiency in order to evaluate safety, tolerability, and efficacy. IGF-1 is an injection under the skin that contains human IGF-1. IGF-1 is approved by the FDA under the brand name Increlex for the treatment of children with short stature due to primary IGF-1 deficiency. It is being used off-label in the current study and is not FDA approved, nor has it yet been studied in humans for the treatment of SHANK3 deficiency.
+Eligibility: Inclusion Criteria:
+
+* 5 to 12 years old
+* pathogenic deletions or mutations of the SHANK3 gene
+* stable medication regimens for at least three months prior to enrollment
+
+Exclusion Criteria:
+
+* closed epiphyses
+* active or suspected neoplasia
+* intracranial hypertension
+* hepatic insufficiency
+* renal insufficiency
+* cardiomegaly / valvulopathy
+* history of allergy to IGF-1 or any component of the formulation (mecasermin)
+* history of extreme prematurity (\<1000 grams) with associated early neo-natal complications, e.g. intra-cerebral hemorrhage, prolonged hypoxia, prolonged hypoglycemia
+* patients with comorbid conditions deemed too medically compromised to tolerate the risk of experimental treatment with IGF-1

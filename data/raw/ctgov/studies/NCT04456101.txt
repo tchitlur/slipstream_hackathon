@@ -1,0 +1,19 @@
+Title: Study on the Recovery of Pulmonary Function, Chest CT, Airway Microbiota, Hematologic, and Immune & Inflammatory Conditions in COVID-19 Rehabilitation Patients
+Official title: Union Hospital, Tongji Medical College, Huazhong University of Science and Technology
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: COVID-19
+Interventions: none
+Summary: The intent of this study was to examine the health status of individuals who had been confirmed with COVID-19 in the year after their recovery. Parameters studied included serum levels of SARS coronavirus 2 (SARS-CoV 2) IgG antibody, SARS-CoV-2 nucleic acid test, hematology indicators (blood routine, liver function, kidney function, myocardial enzymes, coagulation function, etc), lung function test, imaging data and airway microbiota data. In addition, we explored the systematic Immune \& Inflammation in some of the individuals recovering from COVID-19.
+Eligibility: Inclusion Criteria:
+
+1. Individuals recovering from COVID-19, or asymptomatic COVID-19 patients with laboratory test for SRARS-COV2 turning negative, or healthy volunteers without COVID-19.
+2. The age range is 18-80 years.
+3. Subjects or their family members agree to participate in the study and sign informed consent.
+4. The previously diagnosed individuals have been cured for about 1 month.
+
+Exclusion Criteria:
+
+1. Woman who is breastfeeding, pregnant, or preparing to become pregnant.
+2. Patients with cognitive impairment or poor compliance as determined by the investigator.
+3. Participants in other clinical trials.
+4. Subjects who were not suitable for clinical trials determined by the investigator.

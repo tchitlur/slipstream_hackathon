@@ -1,0 +1,18 @@
+Title: Sealing Microcavitated Carious Lesions
+Official title: Randomized Controlled Clinical Trial on the Treatment of Caries Lesions Using Resin or Glass Ionomer Sealants in Permanent Teeth
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Dental Caries
+Interventions: Sealants to arrest microcavitated caries. (DRUG)
+Summary: This study aimed to test whether sealing microcavitated ICDAS 3 carious lesions in permanent molars may be arrested by sealing using two different types of materials; a glass ionomer and a resin sealant. A Randomized controlled clinical trial was designed. Children between 6 and 12 years old were recruited and a total of 150 ICDAS 3 lesions in first permanent molars were allocated to one of the two arms of the study. Clinical and radiographic lesion progression were the main outcome. Integrity of the material and retention were secondary outcomes. A follow up period of 24 months with check-ups at 6 and 12 months was considered.
+Eligibility: Inclusion Criteria:
+
+* To have at least one ICDAS 3 lesion in first permanent molars
+* To be systemically healthy
+
+Exclusion Criteria:
+
+* Not fully erupted first molars
+* Structural defects in first molars, i.e., hypoplasia, fluorosis, MIH.
+* Periodontal disease
+* Orthodontic appliances
+* Medication use

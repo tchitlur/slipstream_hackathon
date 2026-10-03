@@ -1,0 +1,33 @@
+Title: Study of Carfilzomib in Combination With Induction Chemotherapy in Children With Relapsed or Refractory Acute Lymphoblastic Leukemia
+Official title: Phase 1b/2 Study of Carfilzomib in Combination With Induction Chemotherapy in Children With Relapsed or Refractory Acute Lymphoblastic Leukemia
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Acute Lymphoblastic Leukemia (ALL)
+Interventions: Carfilzomib (DRUG); Dexamethasone (DRUG); Mitoxantrone (DRUG); PEG-asparaginase (DRUG); Vincristine (DRUG); Intrathecal (IT) Methotrexate (DRUG); Intrathecal Triple Therapy (Intrathecal Cytarabine, Hydrocortisone, and Methotrexate) (DRUG); 6-Mercaptopurine (DRUG); Cyclophosphamide (DRUG); Cytarabine (DRUG); Daunorubicin (DRUG)
+Summary: The purpose of Phase 1b of this study is to:
+
+* Asses the safety, tolerability and activity of carfilzomib, alone and in combination with induction chemotherapy, in children with relapsed or refractory acute lymphoblastic leukemia (ALL).
+* Determine the maximum tolerated dose (MTD) and to recommend a phase 2 dose of carfilzomib in combination with induction chemotherapy.
+
+The purpose of Phase 2 of this study is to compare the rate of complete remission (CR) of carfilzomib in combination with vincristine, dexamethasone, PEG asparaginase, daunorubicin (VXLD) at the end of induction therapy to an appropriate external control.
+Eligibility: Phase 1b Key Inclusion Criteria:
+
+1. Age 21 years or younger at the time of initial ALL diagnosis and age \> 1 year at the time of study treatment initiation.
+2. Subjects must have a diagnosis of relapsed or refractory ALL with ≥ 5% blasts in the bone marrow (M2 or M3 disease), with or without extramedullary disease.
+
+   -To be eligible, subjects must have had 1 or more prior therapeutic attempts, defined as:
+   * Early first relapse (\< 36 months from original diagnosis) after achieving a CR (B-ALL) or first relapse any time following the original diagnosis after achieving a CR (T-ALL)
+   * First refractory bone marrow relapse occurring any time after original diagnosis after achieving a CR (ie, ≥1 failed attempt to induce a second remission) OR
+   * Relapse after achieving a CR following the first or subsequent relapse (i.e., ≥ 2 relapses) OR
+   * Failing to achieve a CR from original diagnosis after at least 1 induction attempt
+3. Subjects must have fully recovered from the acute toxic effects of all previous chemotherapy, immunotherapy, or radiotherapy treatment before enrollment.
+4. Subjects must have a serum creatinine level that is ≤ 1.5 × institutional upper limit of normal (ULN) according to age. If serum creatinine level is \> 1.5 × ULN, the subject must have a calculated creatinine clearance or radioisotope glomerular filtration rate (GFR) ≥ 70 mL/min/1.73 m2.
+5. Adequate liver function, defined as both of the following:
+
+   * Total bilirubin ≤ 1.5 × institutional ULN except in the presence of Gilbert Syndrome
+   * Alanine aminotransferase (ALT) ≤ 5 × institutional ULN
+6. Performance status: Karnofsky or Lansky scores ≥ 50 for subjects \> 16 years old or ≤ 16 years old, respectively.
+
+Phase 2 Inclusion Criteria:
+
+1. Subject's legally acceptable representative has provided informed consent when the subject is legally too young to provide informed consent and the subject has provided written assent based on local regulations and/or guidelines prior to any study-specific activities/procedures being initiated, except for standard of care local testing as permitted per protocol.
+2. Age greater than or equal to 1 month to less than 21 years. Subjects greate

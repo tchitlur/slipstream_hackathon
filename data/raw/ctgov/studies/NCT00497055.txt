@@ -1,0 +1,30 @@
+Title: Aripiprazole Treatment for Methamphetamine Dependence Among High-risk Individuals
+Official title: Aripiprazole Treatment for Methamphetamine Dependence Among High-risk Individuals
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Substance Abuse; HIV Infections
+Interventions: Aripiprazole (DRUG); Placebo (DRUG)
+Summary: Studies demonstrate that methamphetamine (meth) use is associated with high-risk sexual behavior among men who have sex with men (MSM), putting meth-using MSM at extraordinarily high risk for transmitting or acquiring HIV. This study is a randomized, double-blind, placebo-controlled trial of the medication aripiprazole for methamphetamine-using individuals, including MSM, and will assess efficacy, acceptability, tolerability, safety, and adherence to study medication.
+Eligibility: A total of 90 high-risk individuals with methamphetamine dependence will be enrolled in the study. Subjects will be San Francisco Bay Area residents between 18-60 years of age and in good health. The project is designed specifically for those at high risk for HIV transmission or acquisition.
+
+Inclusion Criteria:
+
+1. HIV-negative by rapid test, or documentation of HIV infection with a laboratory result of a positive HIV test;
+2. diagnosed with methamphetamine dependence as determined by SCID;
+3. interested in stopping or reducing methamphetamine use;
+4. at least one methamphetamine-positive urine during screening and run-in period;
+5. no current acute illnesses requiring prolonged medical care;
+6. no chronic illnesses that are likely to progress clinically during trial participation;
+7. able and willing to provide informed consent and to be followed over trial period;
+8. age 18-60 years;
+9. baseline CBC, total protein, albumin, glucose, lipid panel, alk phos, creatinine, BUN, and electrolytes without clinically significant abnormalities as determined by investigator in conjunction with symptoms, physical exam, and medical history.
+10. if sex assigned at birth was female and able to become pregnant: agrees to use birth control by any of the following methods - hormonal patch, pills, or injections; IUD; diaphragm; condoms; or abstinence.
+
+Exclusion Criteria:
+
+1. has a psychiatric disorder as assessed by SCID that in the opinion of evaluating clinician would make the study participation unsafe, or make adherence to study protocol untenable. Conditions include current major depression, current suicidal ideation, bipolar disorder, dementia, or acute psychosis;
+2. taking psychotropic medication within the last 30 days, including aripiprazole;
+3. known allergy to aripiprazole, or known adverse reaction to antipsychotics;
+4. currently using or unwilling not to use phenylephrine or ephedrine-containing products for trial duration (can cause false positive urines for methamphetamine use);
+5. current CD4 count \< 200 cells/mm3;
+6. using other medications known to interact with aripiprazole, including ketoconazole and carbamazepine;
+7. measured moderate or severe liver disea

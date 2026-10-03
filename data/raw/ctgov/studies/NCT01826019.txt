@@ -1,0 +1,23 @@
+Title: Heart Outcomes Prevention and Evaluation 4
+Official title: Heart Outcomes Prevention and Evaluation 4 (HOPE-4)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Hypertension; Cardiovascular Disease
+Interventions: Intervention (OTHER); Usual Care (OTHER)
+Summary: The overall objective of the HOPE-4 Phases (HT and CVD) is to develop, implement and evaluate an evidence-based, contextually appropriate programme for cardiovascular disease (CVD) risk assessment, treatment and control involving: (1) simplified algorithms implemented by non-physician health workers (NPHW) and supported by e-health technologies (tablets programmed with decision and counselling support software); (2) initiation of evidence-based cardiovascular (CV) medications and (3) treatment supporters to optimize long-term medication and lifestyle adherence.
+Eligibility: Inclusion Criteria:
+
+Individuals (≥ 50 years) with at least ONE of the following criteria:
+
+1. SBP ≥160 mmHg in one visit
+2. SBP 140-159 mmHg in one visit AND participant-reported medical diagnosis of hypertension
+3. SBP 140-159 mmHg in one visit AND participant taking anti-HT medication
+4. SBP ≥130 mmHg in one visit AND participant-reported medical diagnosis of diabetes
+5. SBP ≥130 mmHg in one visit AND participant taking medication for diabetes
+6. Participants that do not meet criteria 1-5 AND SBP 140-159 mmHg in one visit AND SBP ≥140 mmHg in a second visit ≥24 hours apart
+
+Exclusion Criteria:
+
+1. Refusal to Consent
+2. Actively involved in any study or heart health program that would compromise the protocol of HOPE-4
+3. Severe co-morbid condition with life expectancy \< 1 year
+4. Other serious condition(s) or logistic factors likely to interfere with study participation or with the ability to complete the trial, as appropriate to country or region.

@@ -1,0 +1,24 @@
+Title: Effects of Early Statin Treatment After Acute Myocardial Infarction (AMI) in Japanese Patients
+Official title: Effects of Early Statin Treatment on Symptomatic Heart Failure and Ischemic Events After Acute Myocardial Infarction. The MUSASHI-AMI: A Multicenter Randomized Controlled Trial
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Myocardial Infarction
+Interventions: lipid-lowering treatment (DRUG)
+Summary: Statins have been shown to prevent coronary artery disease and to preserve left ventricular function in dilated cardiomyopathy. The investigators hypothesized that the early use of statins would reduce cardiovascular events including heart failure in acute myocardial infarction patients. The purpose of this study is to determine whether early (within 96 hours after onset) use of any available statins are effective to prevent cardiovascular events including heart failure after acute myocardial infarction in Japanese patients.
+Eligibility: Inclusion Criteria:
+
+* Clinical diagnosis of acute myocardial infarction
+* Serum total cholesterol levels on admission ranges ≥180 mg/dL and \<240 mg/dL
+
+Exclusion Criteria:
+
+* Age \< 18 years
+* Time from symptom onset to admission \> 96 hours
+* Use of lipid-lowering agents within the previous 3 months
+* Known familial dyslipidemia
+* Severe renal failure
+* Known hepatic disease
+* Signs and symptoms of severe heart failure (Killip class III or IV)
+* A scheduled PCI or coronary artery bypass grafting (CABG)
+* A history of previous PCI (within 6 months) or CABG (within 3 months)
+* The presence of malignant disease
+* The presence of allergy to statins.

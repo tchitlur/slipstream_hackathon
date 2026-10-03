@@ -1,0 +1,21 @@
+Title: A IB/II Phase Clinical Study on the Safety, Tolerability, and Efficacy of SHR-9839(sc) in Combination Anti-tumor Therapy in Patients With Solid Tumors
+Official title: An Open-label, Multicenter Phase IB/II Clinical Study on the Safety, Tolerability, and Efficacy of SHR-9839(sc) in Combination Anti-tumor Therapy in Patients With Solid Tumors
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Solid Tumor
+Interventions: SHR-9839(sc) For Injection (DRUG)
+Summary: This study is an open-label, multi-center Phase IB/II clinical trial of SHR-9839(sc) combined with anti-tumor therapy in patients with advanced solid tumors, aimed at evaluating the safety, tolerability, and efficacy of SHR-9839(sc) in combination with anti-tumor therapy in patients with advanced solid tumors.
+Eligibility: Inclusion Criteria:
+
+1. Able to provide informed consent, has signed the IRB/EC-approved informed consent form with the date indicated, and is willing and able to comply with treatment plan visits, examinations, and other procedural requirements;
+2. Age 18-70 years (inclusive) at the time of signing the informed consent form, no gender restriction;
+3. ECOG performance status of 0 or 1;
+4. Expected survival ≥12 weeks;
+5. At least one measurable lesion according to RECIST v1.1 criteria;
+6. Subjects must provide formalin-fixed, paraffin-embedded tumor tissue blocks or unstained tumor specimens. For subjects unable to provide tumor tissue as required, enrollment should be determined after discussion with the sponsor;
+7. Major organ function must meet standards (no use of blood components or growth factors within 14 days before the first dose to correct abnormalities); test results must be completed within 7 days prior to the first study treatment;
+8. Female subjects of reproductive potential must agree to use highly effective contraception starting from the signing of the informed consent form, throughout the study treatment period, and for 9 months after the last administration of the investigational product, and must avoid donating eggs during this period. Male subjects with partners of reproductive potential must agree to use highly effective contraception starting from the first dose of the investigational product, throughout the study treatment period, and for 6 months after the last administration of the investigational product, and must avoid donating sperm during this period. Female subjects must not be breastfeeding and must have a negative serum human chorionic gonadotropin (HCG) test within 7 days before the first dose (if the serum pregnancy test is positive, pregnancy must be excluded and enrollment confirmed after discussion with the sponsor).
+
+Exclusion Criteria:
+
+1. Patients with active central nervous system (CNS) metastases or leptomeningeal metastases (including a history of such);
+2. Patients with other malignancies within 3 years before the first dose, except for adequately treated cervical carcinoma in situ, basal cell or squamous cell skin can

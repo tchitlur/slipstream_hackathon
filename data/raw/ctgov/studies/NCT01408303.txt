@@ -1,0 +1,36 @@
+Title: [E]PANOVA Combined With a [S]TATIN in [P]ATIENTS With HYPERT[R]IGLYCER[I]DEMIA to Reduce Non-HDL CHOLES[T]EROL
+Official title: A 6-Week, Randomized, Double-Blind, Placebo(Olive Oil)-Controlled Study to Assess the Efficacy and Safety of Add-On Epanova® to Statin Therapy in Subjects With Persistent Hypertriglyceridemia and High Risk for Cardiovascular Disease
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Hypertriglyceridemia; Cardiovascular Disease
+Interventions: Olive oil, 4g (DRUG); omega-3-carboxylic acids, 2g (DRUG); omega-3-carboxylic acids, 4g (DRUG)
+Summary: The primary objective is to evaluate the efficacy of adding Epanova (2 g or 4 g daily) to an optimal statin monotherapy for lowering non-high-density lipoprotein (non-HDL) cholesterol in subjects with persistent hypertriglyceridemia and high risk for cardiovascular disease.
+Eligibility: Inclusion Criteria:
+
+1. Men or women, ≥18 years of age.
+2. Fasting triglyceride (TG) level ≥200 mg/dL and \<500 mg/dL.
+3. The subject is a high risk for a future cardiovascular event.
+4. The subject is treated with a statin and at or near LDL-C goal.
+
+Exclusion Criteria:
+
+1. Allergy or intolerance to omega-3 fatty acids and omega-3-acid ethyl esters.
+2. Use of fibrates, bile acid sequestrants, or niacin or its analogues (greater than 200 mg/d) during screening.
+3. Use of simvastatin 80 mg or Vytorin10/80 mg during screening.
+4. Use of any eicosapentaenoic acid (EPA) or docosahexaenoic acid (DHA) products.
+5. Use of any supplement for the purpose of lowering plasma cholesterol during screening.
+6. Use of weight loss drugs or programs during screening.
+7. Use of erythromycin, telithromycin, clarithromycin, cyclosporine, itraconazole, ketoconazole, protease inhibitors, or nefazodone during screening.
+8. Use of anticoagulants during screening.
+9. Use of oral or injected corticosteroids during screening.
+10. Use of tamoxifen, estrogens, progestins, or testosterone, that has not been stable for \>4 weeks at Visit 1, or is unstable during screening.
+11. Use of \>750 mL/d grapefruit juice during screening.
+12. Known lipoprotein lipase impairment or deficiency, or apolipoprotein C-II deficiency or familial dysbetalipoproteinemia.
+13. History of pancreatitis.
+14. Type I diabetes mellitus, use of insulin, or HbA1c \>10% at Visit 1.
+15. Poorly controlled hypertension
+16. Uncontrolled hypothyroidism, or thyroid stimulating hormone (TSH) \>1.5xULN at Visit 2.
+17. Recent history or current significant nephrotic syndrome, pulmonary, hepatic, biliary, gastrointestinal or immunologic disease.
+18. History of cancer (except non-melanoma skin cancer, or carcinoma in situ of cervix) within the previous two years.
+19. Females who are pregnant, planning to be pregnant during the study period, lactating, or women of childbearing potential who are not using an acceptable method of contraception.
+20. Creatine kinase \>5.0 times upper limit of normal (ULN); aspartate aminotransferase (AST) or alanine aminotransferase (ALT) \>2.5 times ULN at Visit 2.
+21. Current or recent history (past 12 

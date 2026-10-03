@@ -1,0 +1,25 @@
+Title: Personalized Text Messages to Improve Antiretroviral Treatment (ART) Adherence in HIV+ Methamphetamine Users
+Official title: Personalized Text Messages to Improve ART Adherence in HIV+ Methamphetamine Users
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: HIV; AIDS
+Interventions: individualized Texting for Adherence Building (iTAB) (BEHAVIORAL); Psychoeducation (BEHAVIORAL)
+Summary: Methamphetamine (METH) is a debilitating and frequently abused substance that is often comorbid with HIV infection. HIV+ persons with current METH abuse or dependence (HIV+/METH+) have several characteristics, in addition to their substance use, that make them particularly susceptible to nonadherence to antiretroviral treatment (ART) including elevated rates of neurocognitive impairment, co-occurrence of psychiatric disorders, and unstable living situations. The investigators propose an intervention development study designed to address these potential mechanisms of nonadherence with the following Specific Aims: 1) To further develop and refine a personalized, automated, real-time, mobile phone, text messaging intervention (iTAB) designed to improve adherence to ART medications among HIV+/METH+ persons; 2) To evaluate the acceptability and effectiveness of a brief psychoeducation plus text messaging intervention (iTAB) as compared to psychoeducation alone (CTRL) for the improvement of objectively measured medication adherence among HIV+/METH+ persons; and 3) To examine predictors of within-person trajectories of nonadherence using the longitudinal data collected over the study. In 
+Eligibility: Inclusion/exclusion criteria are generally lenient in order to ensure that our sample is as representative as possible of the overall HIV+/METH+ population.
+
+Inclusion Criteria:
+
+* Ability to provide informed consent
+* 18 years or older at the time of enrollment
+* HIV-infected
+* DSM-IV diagnosis of methamphetamine abuse or dependence in the past 30 days
+* Taking at least one medication to treat HIV illness
+* Indication of less than 100% adherence to antiretroviral (ART) medication
+* Willingness to use electronic monitoring caps to track ART medication
+* Willingness to respond to text messages
+
+Exclusion Criteria:
+
+* Axis I psychiatric diagnosis of psychotic disorder or mood disorder with psychotic features
+* Presence of a neurological condition (beyond HIV infection) known to impact cognitive functioning (e.g., Huntington's Disease, Stroke)
+* Unwillingness or inability to use electronic medication monitoring technology
+* Unwillingness or inability to use daily text messaging

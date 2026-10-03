@@ -1,0 +1,21 @@
+Title: Pilot Study of Triheptanoin in Patients With Glucose Transporter 1 Deficiency Syndrome
+Official title: A Controlled N-of-1 Before-and-after Study to Determine Safety and Efficacy Triheptanoin in Patients With Glucose Transporter 1 Deficiency Syndrome
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Glucose Transporter Type 1 Deficiency Syndrome
+Interventions: Triheptanoin (DRUG)
+Summary: Glucose transporter deficiency syndrome (Glut1-DS) is a form of pediatric epilepsy caused by a genetic mutation that disrupts the body's ability to process food from the child's diet into sugar (energy) needed to support brain function. Children with Glut1-DS experience seizures that are not controlled by anticonvulsant medications, as well as delays in cognitive and motor development. Currently, Glut1-DS is treated with the ketogenic diet, a high-fat, low-sugar diet that provides the brain with an alternate source of energy. Despite the significant improvement of seizures upon this diet, seizure control is incomplete in a majority of children, and they continue to experience problems with brain development. Our team of researchers and clinicians with expertise in metabolic diseases, neurology, pediatrics, biochemistry, and genetics believes that there is an opportunity to achieve CURE's goal of "No Seizures/No Side Effects" for children with Glut1-DS by investigating the use of a new treatment option that is designed to compensate for the underlying biochemical deficiency thought to contribute both to the seizures and to the impaired brain development associated with Glut1-DS. The
+Eligibility: Inclusion Criteria:
+
+* Confirmed diagnosis of Glut1-DS with mutation(s) in SLC2A1 gene.
+* Male or female age 1-18 years.
+* Glut1-DS is currently managed with ketogenic diet for a minimum of 4 months prior to baseline visit and patient is willing to maintain this diet for the study duration..
+* Inadequate response to ketogenic diet defined by clinical 'breakthrough seizures', confirmed by EEG and at least 1 clinical seizure episode documented in the seizure logbook during the baseline period.
+* For participants taking anticonvulsants for their seizures, anti-seizure medication should not be changed at least 4 weeks prior to starting triheptanoin treatment and the participant is willing to maintain the same dosing of all medication(s) during study participation.
+* Willing and able to provide written informed consent by parent(s) or guardian(s) or assent by the participant, depending on the age, after the nature of the study has been explained, and prior to any research related-procedures.
+
+Exclusion Criteria:
+
+* Participants with medium chain acyl-CoA dehydrogenase (MCAD) and propionyl CoA carboxylase (PCC) deficiency will be excluded from the study as MCAD and PCC are required for triheptanoin metabolism.
+* A known allergy or sensitivity to any component of triheptanoin.
+* The participant is using valproate for controlling his/her seizures. They are eligible for the study, if they had not taken valproate within 3 weeks prior to baseline visit and willing to not take it for the entire study duration. Valproate is an AED that partially inhibits the TCA cycle via alpha-ketoglutarate dehydrogenase, and should not be administered to subjects taking triheptanoin.
+* Participant has any condition or situation which, in the investigator's opinion, places the patient at significant risk of adverse events, or may interfere significantly with their participation and compliance in the study.

@@ -1,0 +1,15 @@
+Title: LVAD Conditioning for Cardiac Recovery
+Official title: Sequential Left Ventricular Assist Device (LVAD) Unloading and Conditioning to Induce Sustained Cardiac Recovery
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Heart Failure
+Interventions: Controlled Cardiac Reloading through LVAD Speed Adjustment (DEVICE)
+Summary: The purpose of this study is to investigate the potential recovery of heart function in end-stage heart failure patients supported with a Left Ventricular Assist Device (LVAD) through applying a myocardial conditioning protocol. During myocardial conditioning, LVAD speed is reduced gradually in order to increase the work load of the heart. Multiple previous studies have shown that interventions like this may improve heart function and give patients the opportunity for a better quality of life.
+Eligibility: Inclusion Criteria:
+
+* Diagnosed with heart failure undergoing LVAD implantation as a bridge to transplant
+* Enrolled in the Effects of Mechanical Unloading on Myocardial Function and Structure study (IRB 30622)
+
+Exclusion Criteria:
+
+* Neither the subject nor the subject's representative is willing to provide written consent for participation
+* Subjects with adverse events leading to hospitalization during the optimum unloading phase are excluded from participation in the controlled reloading phase

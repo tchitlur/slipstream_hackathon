@@ -1,0 +1,25 @@
+Title: Safety and Efficacy of LOw DOse COlchicine in Patients With STatin INTolerance: the LODOCO STINT Pilot Study
+Official title: Safety and Efficacy of LOw DOse COlchicine in Patients With STatin INTolerance: the LODOCO STINT Pilot Study
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Statin Adverse Reaction
+Interventions: Low-dose colchicine at 0.5mg daily (DRUG); Placebo (OTHER)
+Summary: Statins are a class of cholesterol lowering medications that contribute to reducing a person's risk of experiencing a cardiovascular event like heart attack. Along with the ability to lower cholesterol, statins also possess anti-inflammatory properties which contribute to their cardioprotective effects. Some people experience side effects while taking statins and are unable to continue treatment with them,which can then increase a person's risk of having cardiovascular issues due to untreated high cholesterol levels. Prior studies have shown that inflammation in the body may lead to an increased risk of a future cardiovascular events. Low dose colchicine (LODOCO), an anti-inflammatory agent, has been shown to reduce cardiovascular events by inhibiting inflammation, a major cause of cardiovascular disease. The United States Food and Drug Administration (FDA) has approved LODOCO to reduce the risk of a future cardiac events for those who have existing heart disease or possess multiple risk factors for heart disease.
+Eligibility: Inclusion Criteria:
+
+* History of statin intolerance (As defined by the NLA 2023 guidelines) Patients who have experienced one or more adverse effects associated with statin therapy, which resolves or improves with dose continuation or reduction
+* Stable dose of lipid-lowering regimen (statin or non-statin) for at least one month
+* Patients able to provide informed consent.
+* Aged 18 to 80 will be enrolled in the study.
+
+Exclusion Criteria:
+
+* Known hypersensitivity to colchicine, current use of colchicine or other anti-inflammatory medications.
+* Renal impairment (eGFR \<45 mL/min/1.73 m2)
+* Transaminitis (ALT or AST \>3 times upper limit of normal)
+* Cirrhosis
+* Severe Heart Failure
+* Active cancer or currently on chemotherapy
+* Irritable Bowel Syndrome, Inflammatory Bowel Disease (Crohn's or Ulcerative Colitis) or other diarrheal related GI pathologies
+* Active infection
+* Autoimmune or inflammatory condition
+* Pregnancy or breastfeeding.

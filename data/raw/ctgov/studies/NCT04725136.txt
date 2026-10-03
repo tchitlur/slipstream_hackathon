@@ -1,0 +1,31 @@
+Title: Safety and Explore the Efficacy of Multiple Doses of FURESTEM-AD Inj. for Moderate to Severe Chronic Atopic Dermatitis
+Official title: A Phase I/IIa Clinical Trial to Evaluate the Safety and Explore the Efficacy of Multiple Doses of FURESTEM-AD Inj. for Moderate to Severe Chronic Atopic Dermatitis
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Atopic Dermatitis
+Interventions: FURESTEM-AD inj (BIOLOGICAL)
+Summary: A Phase I/IIa Clinical Trial to Evaluate the Safety and Explore the Efficacy of Multiple Doses of FURESTEM-AD inj. for Moderate to Severe Chronic Atopic Dermatitis
+Eligibility: Inclusion Criteria:
+
+1. Of either gender, aged \>=19
+2. Atopic Dermatitis subjects who are coincident with Hanifin and Rajka diagnosis criteria
+3. Chronic Atopic Dermatitis that has been present for at least 3 years
+4. EASI\>=16 at screening and baseline visit
+5. IGA\>=3, SCORAD index\>=25, BSA \>=10% of AD involvement at screegning and baseline visit
+6. Subjects with documented record of inadequate response to the stable use of topical atopic dermatitis treatment within 24 weeks before participating in the study, or whom are inadvisable due to safety risks
+7. Subjects who understand and voluntarily sign an informed consent form
+
+Exclusion Criteria:
+
+1. Subjects with medical history or surgery/procedure history
+2. Subjects with diseases at the time of participation in this study (systemic infection, other serious skin disorders, pigmentation or extensive scarring in atopic dermatitis symptom region)
+3. Renal dysfunction with creatinine \>2.0 mg/dL at screening
+4. Hepatic dysfunction with ALT or AST levels 2.5 times higher than the normal range at screening
+5. ALC\<800/mm3 at screening
+6. Subjects with live vaccine administration within 12 weeks before baseline
+7. Receipt of leukotriene receptor antagonists, systemic steroids, systemic or topical antihistamines, phototherapy, or systemic immunosuppressants/modulators including janus kinase (JAK) inhibitors, and/or any other systemic therapy within 4 weeks before Baseline
+8. Receipt of topical steroids(class1\~6), topical tacrolimus or pimecrolimus within 2 weeks before Baseline
+9. Subjects who need prohibited medication during clinical period
+10. Pregnant, breast-feeding women or women who plan to become pregnant during this study
+11. Subjects who currently participate in other clinical trial or participated in other clinical trial within 4 weeks
+12. Subjects with experience of administering FURESTEM-AD inj.
+13. Any other condition which the investigator judges would make patient unsuitable for study participation

@@ -1,0 +1,36 @@
+Title: Metformin Combined With Chemotherapy for Pancreatic Cancer
+Official title: A Phase II, Randomized, Placebo Controlled Study to Evaluate the Efficacy of the Combination of Gemcitabine, Erlotinib and Metformin in Patients With Locally Advanced and Metastatic Pancreatic Cancer
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Locally Advanced Pancreatic Cancer; Metastatic Pancreatic Cancer
+Interventions: gemcitabine (DRUG); erlotinib (DRUG); metformin (DRUG); placebo (DRUG)
+Summary: Pancreatic cancer patients have one of the worst prognoses among all cancer types with a 5 year survival rate of less than 5%. Despite significant changes during the last decade in our molecular knowledge on this disease, the prognosis and management of pancreatic cancer have remained unchanged. With the advances in molecular biology, newer biologic agents such as erlotinib, are adding some benefit to the conventional cytotoxic agents. There is a growing body of literature suggesting that type 2 diabetes mellitus (DM) may be associated with the development of pancreatic cancer, but this association is complex. Because various DM medications can affect directly the key factors mediating the association between DM and pancreatic cancer, understanding the effect of anti-diabetic therapies on pancreatic cancer is a critical step in fully characterizing the role of type 2 DM in the development of pancreatic cancer. Indeed, two epidemiologic studies have found that diabetic patients treated with metformin were less likely to develop cancer, but those treated with insulin were more likely to die of various kinds cancer. Not only does metformin ameliorate hyperglycemia and hyperinsulinemia
+Eligibility: Inclusion Criteria:
+
+* Signed informed content obtained prior to treatment
+* Cytological or histological confirmed carcinoma of the pancreas
+* Metastatic cancer
+* Measurable lesion according to RECIST criteria
+* ECOG/ WHO performance 0-2
+* Age \> 18 years
+* Adequate renal function (creatinine \< 150 µmol/L and/ or a creatinine clearance \> 60 ml/ L)
+* Adequate liver function (bilirubin \< 1.5 times upper limit of normal, ALAT or ASAT \< 5.0 times upper limit of normal in case of liver metastases and \< 2.5 the upper limit of normal in absence of liver metastases).
+* Adequate bone marrow function (WBC \> 3.0 x 10 9/L, platelets \> 100 x 10 9/L)
+* Mentally, physically, and geographically able to undergo treatment and follow up
+
+Exclusion Criteria:
+
+* Clinical or radiological evidence of CNS metastases
+* Pregnancy (positive serum pregnancy test) and lactation
+* Serious concomitant systemic disorder that would compromise the safety of the patient, at the discretion of the investigator
+* Patients who have any severe and/or uncontrolled medical conditions:
+
+  * unstable angina pectoris, symptomatic congestive heart failure, myocardial infarction ≤ 6 months prior to randomization, serious uncontrolled cardiac arrhythmia
+  * uncontrolled diabetes as defined by fasting serum glucose \>2X ULN.
+  * active or uncontrolled severe infection.
+  * cirrhosis, chronic active hepatitis or chronic persistent hepatitis
+  * severely impaired lung function
+* Previous treatment with erlotinib
+* Previous treatment with gemcitabine for metastatic disease
+* Previous treatment with gemcitabine combined with radiotherapy for locally advanced pancreatic cancer within 6 months prior to study entry
+* Patients with a known hypersensitivity to metformin
+* Use of metformin in the previous 6 months

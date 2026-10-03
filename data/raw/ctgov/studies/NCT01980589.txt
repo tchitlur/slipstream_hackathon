@@ -1,0 +1,33 @@
+Title: A Multicenter, Open-label, Phase 1b Study of Carfilzomib, Cyclophosphamide and Dexamethasone in Newly Diagnosed Multiple Myeloma Subjects
+Official title: A Multicenter, Open-label, Phase 1b Study of Carfilzomib, Cyclophosphamide and Dexamethasone in Newly Diagnosed Multiple Myeloma Subjects
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Multiple Myeloma
+Interventions: Carfilzomib (DRUG); Cyclophosphamide (DRUG); Dexamethasone (DRUG)
+Summary: The primary objective was to determine the maximum tolerated dose of carfilzomib given twice weekly in combination with cyclophosphamide and dexamethasone for patients with newly diagnosed multiple myeloma.
+Eligibility: Inclusion Criteria:
+
+1. Newly diagnosed multiple myeloma
+2. Measurable disease, as defined by 1 or more of the following
+
+   * Serum M-protein ≥ 0.5 g/dL, or
+   * Urine M-protein ≥ 200 mg/24 hours, or
+   * In subjects without detectable serum or urine M-protein, serum free light chain (SFLC) \> 100 mg/L (involved light chain) and an abnormal kappa lambda ( κ/λ) ratio
+3. Males and females ≥ 18 years of age
+4. Eastern Cooperative Oncology Group (ECOG) performance status 0-2
+5. Adequate hepatic function
+6. Left ventricular ejection fraction (LVEF) ≥ 40%
+7. Absolute neutrophil count (ANC) ≥ 1.0 × 10\^9/L
+8. Platelet count ≥ 50 × 10\^9/L
+9. Calculated or measured creatinine clearance (CrCl) of ≥ 15 mL/min
+
+Exclusion Criteria:
+
+1. Planned autologous hematopoietic stem cell transplantation (HSCT) for the initial therapy of newly diagnosed multiple myeloma
+2. Multiple myeloma of immunoglobulin M (IgM) subtype
+3. Prior systemic treatment for multiple myeloma
+4. Glucocorticoid therapy within 14 days prior to enrollment that equals or exceeds the equivalent of dexamethasone 160 mg
+5. Known amyloidosis
+6. Active congestive heart failure (New York Heart Association \[NYHA\] Class III to IV), symptomatic ischemia, or conduction abnormalities uncontrolled by conventional intervention. Myocardial infarction within 6 months prior to enrollment.
+7. Known human immunodeficiency virus (HIV) seropositive, hepatitis C infection, and/or hepatitis B (subjects with hepatitis B surface antigen \[SAg\] or core antibody receiving and responding to antiviral therapy directed at hepatitis B are allowed)
+8. Significant neuropathy (Grades ≥ 2) within 14 days prior to enrollment
+9. Any other clinically significant medical disease or condition that, in the investigator's opinion, may interfere with protocol adherence or a subject's ability to give informed consent

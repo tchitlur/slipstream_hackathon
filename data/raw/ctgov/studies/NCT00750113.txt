@@ -1,0 +1,28 @@
+Title: Study Evaluating the Efficacy of Nifedipine GITS - Telmisartan Combination in Blood Pressure Control.
+Official title: A Multicenter Study Evaluating the Efficacy of Nifedipine GITS - Telmisartan Combination in Blood Pressure Control and Beyond: Comparison of Two Treatment Strategies.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Hypertension
+Interventions: Nifidipine (DRUG); Telmisartan (DRUG); Nifedipine/Telmisartan (DRUG)
+Summary: Patients having uncontrolled or poorly controlled hypertension are at risk of experiencing cardiovascular events such as myocardial infarction or stroke. To reduce this risk an appropriate antihypertensive therapy should allow to reach a target blood pressure of less than 130/80 mmHg in order to maximise cardiovascular protection.The purpose of this study is to evaluate the efficacy in blood pressure control when anti-hypertensive therapy is initiated with a combination of low dose Nifedipine GITS and Telmisartan compared to a regimen starting with monotherapy before adding the other drug.The primary efficacy parameter will be the 24 hour mean systolic Blood Pressure on Ambulatory Blood Pressure Monitoring (ABPM) at 16 weeks of treatment compared to baseline
+Eligibility: Inclusion Criteria:
+
+* Hypertension (office systolic blood pressure \> 135 mmHg), untreated or poorly controlled but stable antihypertensive regimen for \>/= 4 weeks
+* Presence of type 2 diabetes mellitus or target organ damage (echocardiographic or electrocardiographic left ventricular hypertrophy or microalbuminuria)
+* Presence of a metabolic syndrome, i.e at least two of the following \[(from letter (a) to letter(d)\] in patients with organ damage or at least one of the following \[from letter (b) to letter (d)\] in patients with diabetes mellitus: (a) impaired glucose tolerance (fasting plasma glucose 110 -125 mg/dl) (b )raised serum triglycerides (\>/= 150 mg/dl) or comitant use of statins for this indication(c) low HDL cholesterol (males: \< 40 mg/dl, females: \< 50 mg/dl)(d) waist circumference \>102 cm in men and \>88 cm in women
+* Age: 18-75 years
+* Negative pregnancy test in females
+* Written informed consent
+
+Exclusion Criteria:
+
+* Concomitant treatment with AT1-antagonists e.g. losartan, eprosartan, telmisartan) or calcium-antagonists (e.g. amlodipine, felodipine, isradipine, nifedipine, nimodipine).
+* Concomitant treatment with any other antihypertensive medication that cannot be safely withdrawn at entry (i.e taken on a stable regimen for \>/= 4 week) and that won't possibly be kept stable over the whole duration of the study.
+* Concomitant treatment with known cytochrome P450-3A4 inhibitors (e.g cimetidine, anti-HIV protease inhibitors e.g. ritonavir, azole anti-mycotics eg. Ketoconazole, digoxin, quinidine, tacrolimus) or inducers such as anti-epileptic drugs (eg. phenytoin, carbamazepine and phenobarbitone) or rifampicin
+* Concomitant treatment with potassium sparingdiuretics.
+* Malignant, severe or labile essential hypertension, orthostatic hypotension
+* Cardiovascular shock
+* Evidence of secondary form of hypertension, including coarctation of the aorta, hyperaldosteronism, renal artery stenosis or pheochromocytoma
+* Myocardial infarction or unstable angina within the previous 12 months
+* Severe cardiac valve disease
+* Severe rhythm or conduction disorder:
+* Cerebrovascular ischaemic event (stroke, transient ischaemic attack) within the previo

@@ -1,0 +1,17 @@
+Title: Evaluation of Autonomic Function in Individuals With Cornelia de Lange Syndrome (CdLS)
+Official title: Evaluation of Autonomic Function in Individuals With Cornelia de Lange Syndrome (CdLS), a Pilot Study.
+Status: TERMINATED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Cornelia de Lange Syndrome
+Interventions: Autonomic Dysfunction Testing (OTHER)
+Summary: Based on survey data, individuals with Cornelia de Lange Syndrome (CdLS) often experience symptoms of autonomic dysfunction however there are no reported studies in which these patients have had objective testing of the autonomic nervous system. This is a pilot study in which patients with CdLS will undergo the standard clinical testing for autonomic dysfunction with a autonomic reflex screen and thermoregulatory sweat test.
+Eligibility: Inclusion Criteria:
+
+* Pediatric patients (aged 8-17 years of age) with Cornelia de Lange syndrome.
+* Consent obtained from responsible guardian.
+
+Exclusion Criteria:
+
+* Patients less than age 8 or 18 and older
+* Female patients known to be pregnant
+* Individuals not thought to be able to tolerate the testing.
+* Concomitant therapy with anticholinergic, alpha-adrenergic antagonists, beta-adrenergic antagonists or other medications which could interfere with autonomic testing. Patients may participate if the potentially interfering medication is held for five half-lives prior to the study

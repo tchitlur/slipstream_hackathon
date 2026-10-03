@@ -1,0 +1,19 @@
+Title: RCT of an Integrative Intervention for Non-Treatment-Seeking Meth Users
+Official title: Randomized Controlled Trial of an Integrative Intervention for Non-Treatment-Seeking Meth Users
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: HIV/AIDS; Stimulant Use Disorders
+Interventions: Affect Regulation Treatment to Enhance Meth Intervention Success (ARTEMIS) (BEHAVIORAL); Contingency Management (CM) (BEHAVIORAL)
+Summary: In the era of HIV treatment as prevention (TasP), efforts are needed to identify evidence-based combination prevention approaches that achieve greater decreases HIV viral load among populations that are more likely to engage in HIV transmission risk behavior. Because methamphetamine-using men who have sex with men (MSM) are at greater risk for acquiring and transmitting HIV, interventions targeting stimulant use in this population of high-risk men could boost the effectiveness of TasP. At present, only conditional cash transfer approaches such as contingency management (CM) have demonstrated short- term efficacy in reducing stimulant use among substance-using MSM who are not actively seeking formal treatment. The proposed RCT will examine the efficacy of a positive affect intervention that is designed to optimize the effectiveness of CM to achieve long-term reductions in stimulant use and HIV viral load in this population. the team will examine the efficacy of this integrative intervention in a randomized controlled trial (RCT) with 110 HIV-positive, methamphetamine-using MSM. After enrolling in CM, participants will be randomized to receive either: 1) the positive affect intervent
+Eligibility: Inclusion Criteria:
+
+* At least 18 years old
+* Documentation of HIV-positive serostatus
+* Speak English
+* Biological verification of recent methamphetamine use
+* Completion of at least three contingency management (CM) visits
+* Self reported anal sex with a man (MSM) in the past 12 months
+
+Exclusion Criteria:
+
+* Inability to provide informed consent, evidenced by cognitive impairment
+* HIV negative serostatus

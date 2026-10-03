@@ -1,0 +1,37 @@
+Title: Dual PCSK9 Inhibition With Inclisiran and Alirocumab in Secondary Prevention
+Official title: PCSK9-DUO Trial: Dual PCSK9 Inhibition With Inclisiran and Alirocumab in Patients With High Cardiovascular Risk in Secondary Prevention
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Hypercholesterolemia; Atherosclerotic Cardiovascular Disease (ASCVD)
+Interventions: Inclisiran (DRUG); Alirocumab (DRUG)
+Summary: This study will evaluate the effectiveness and safety of combining two different types of PCSK9 inhibitors, inclisiran and alirocumab, in patients with high cardiovascular risk who are unable to tolerate statins.
+
+Lowering low-density lipoprotein cholesterol (LDL-C) is essential to reduce the risk of cardiovascular events. While PCSK9 inhibitors are effective, many patients treated with a single agent do not reach recommended LDL-C targets, especially those who cannot take statins.
+
+Inclisiran and alirocumab reduce LDL-C through different mechanisms. Inclisiran decreases the production of PCSK9 in the liver, while alirocumab binds circulating PCSK9 in the blood. Combining these therapies may lead to a greater reduction in LDL-C levels.
+
+In this randomized, open-label clinical trial, approximately 60 patients in secondary prevention will be assigned to one of three groups: inclisiran alone, alirocumab alone, or a combination of both treatments. Patients will be followed for 9 months with regular clinical and laboratory assessments.
+
+The main goal of the study is to determine whether combination therapy leads to greater LDL-C reduction compared to each treatment alone. Secondary obje
+Eligibility: Inclusion Criteria:
+
+* Adults aged ≥18 years
+* Established atherosclerotic cardiovascular disease (secondary prevention), defined as prior cardiovascular events or imaging-confirmed atherosclerosis (e.g., coronary artery disease on angiography or CT, carotid plaque on ultrasound, or peripheral arterial disease).
+* Eligible for PCSK9 inhibitor therapy according to national clinical criteria
+* Fasting LDL cholesterol ≥2.5 mmol/L and ≤5.0 mmol/L at screening
+* Documented statin intolerance or contraindication to statin therapy
+* On stable background lipid-lowering therapy (including ezetimibe if applicable) for at least 4 weeks prior to enrollment
+* Able and willing to provide written informed consent
+
+Exclusion Criteria:
+
+* Eligibility for PCSK9 inhibitor therapy solely based on elevated lipoprotein(a) \>1000 mg/L with LDL-C below inclusion threshold
+* Prior use of any PCSK9 inhibitor (alirocumab, evolocumab or inclisiran) before enrollment
+* Planned initiation or modification of lipid-lowering therapy during the study period
+* Known homozygous familial hypercholesterolemia
+* Active liver disease or alanine aminotransferase (ALT) or aspartate aminotransferase (AST) \>3× upper limit of normal
+* Severe renal impairment (eGFR \<30 mL/min/1.73 m²)
+* Active malignancy or life expectancy \<1 year
+* Pregnancy, breastfeeding, or women of childbearing potential not using effective contraception
+* Known hypersensitivity to inclisiran, alirocumab, or any of their excipients
+* Participation in another interventional clinical trial within 30 days prior to enrollment
+* Any condition that, in the opinion of the investigator, would interfere with study participation or interpretation of results

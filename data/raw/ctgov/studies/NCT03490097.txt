@@ -1,0 +1,28 @@
+Title: Statins in Chronic Hepatitis C Patients Receiving Sofosbuvir/Daclatasvir Combination
+Official title: Benefits of Statins in Chronic Hepatitis C Patients Receiving Sofosbuvir/Daclatasvir Combination
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: Chronic Hepatitis c; Metabolic Syndrome
+Interventions: Simvastatin 10mg (DRUG); sofosbuvir plus daclatasvir (DRUG)
+Summary: The purpose of the study is to determine if statin can affect the clinical outcome of chronic hepatitis C patients receiving Sofosbuvir/Daclatasvir/Ribavirin combination
+Eligibility: Inclusion Criteria:
+
+1. Male patients age 18 to 70 years old.
+2. Easy to treat group: treatment naïve patients with serum HCV RNA positivity by PCR.
+3. Clinically stable condition outpatients.
+4. Platelet count ≥ 150,000/mm³.
+5. INR ≤ 1.2.
+6. Serum albumin ≥ 3.5 g/dl.
+7. Total serum bilirubin ≤ 1.2 mg/dl.
+
+Exclusion Criteria:
+
+1. Inadequately controlled diabetes mellitus (HbA1c \> 9%) .
+2. Total serum bilirubin \> 3mg/dl.
+3. HCV-HIV co infection.
+4. HBV-HCV co infection.
+5. Any cause for chronic liver disease other than hepatitis C
+6. Uncontrolled hypothyroidism.
+7. Hepatocellular carcinoma, except 4 weeks after intervention aiming at cure with no evidence of activity by dynamic imaging (CT or MRI).
+8. Extra-hepatic malignancy except after two years of disease-free interval.
+9. Child's C cirrhotic patients.
+10. Creatinine kinase \> 350 u/l

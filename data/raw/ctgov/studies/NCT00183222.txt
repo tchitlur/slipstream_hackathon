@@ -1,0 +1,39 @@
+Title: Effectiveness of Naltrexone and/or Ondansetron to Reduce Craving for Alcohol and Drinking
+Official title: Alcohol Research Center Grant. Component #1. COMBINING MEDICATIONS: ALCOHOL REACTIVITY AND CONSUMPTION
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Alcohol Dependence
+Interventions: naltrexone (up to 50 mg/day) for 8 days; ondansetron (0.25 mg twice a day) for 8 days (DRUG)
+Summary: The purpose of this study is to determine whether naltrexone (an opiate blocking agent approved for the treatment of alcohol dependence), ondansetron a serotonin 3 antagonist medication approved to treat nausea) or their combination are effective in the reduction of alcohol craving and drinking compared to placebo.
+Eligibility: Inclusion Criteria:
+
+Inclusion Criteria (alcohol dependent group):
+
+1. Age 21 65
+2. Meets the DSM IV criterion for current alcohol dependence including "loss of control over drinking" (criterion 4) but does not necessarily have signs of physiologic dependence as expressed in criterion for tolerance development (criterion 1) and withdrawal symptoms or use to avoid withdrawal symptoms (criterion 2).
+3. Currently is not engaged in, and does not want treatment for, alcohol related problems.
+4. Able to read and understand questionnaires and informed consent.
+5. Lives within 50 miles of the study site.
+6. Able to maintain abstinence for up to three days (without the aid of detox medications) as determined by self report and breathalyzer measurements.
+
+Inclusion Criteria (social drinker group):
+
+1. Age 21 65
+2. Does not meet the DSM IV criterion for lifetime or current alcohol abuse or dependence.
+3. Consumes, on average, less than 14 standard drinks per week. But has consumed at least 2 standard drinks on at least one occasion in the last month.
+4. Currently is not engaged in, and does not want, treatment for alcohol related problems.
+5. Able to read and understand questionnaires and informed consent.
+6. Able to maintain abstinence for three days.
+
+Inclusion for fMRI imaging sub-study (see methodology section for rationale):
+
+1. Does not have metal objects in the head/neck.
+2. Does not have a history of claustrophobia leading to significant clinical anxiety symptoms.
+3. Between the age of 25-45 years.
+4. Does not currently smoke (note: 62% of our current sample are non-smokers).
+
+Exclusion Criteria:
+
+1. Currently meets DSM IV criteria for any other psychoactive substance dependence disorder.
+2. History of opiate abuse or a positive urine drug screen for opiates.
+3. Any psychoactive substance use (except marijuana and nicotine) within the last 30 days as evidenced by self-report and urine drug screen. For marijuana -no use within the last seven days.
+4. Meets DSM IV criteria for current axis I disorders of major depression, panic disorder, obsessive compulsive disorder, post traumatic stress syndrome, bipolar affective disorder, schizophrenia, dissociate disorders and 

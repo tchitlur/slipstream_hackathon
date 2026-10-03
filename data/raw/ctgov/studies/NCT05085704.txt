@@ -1,0 +1,22 @@
+Title: Brain Metabolism Observed at 3 Tesla or 7 Tesla in Health and Metabolic Disease
+Official title: Brain Metabolism Observed at 3 Tesla or 7 Tesla in Health and Metabolic Disease
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Glut1 Deficiency Syndrome 1; Glucose Metabolism Disorders; Epilepsy; Glut1 Deficiency Syndrome 1, Autosomal Recessive; Glucose Transporter Type 1 Deficiency Syndrome; Glucose Transporter Protein Type 1 Deficiency Syndrome; Glucose Transport Defect
+Interventions: Magnetic resonance imaging (DEVICE)
+Summary: The goal is to develop methodology to monitor flux in the citric acid cycle in brain via 13C nuclear magnetic resonance (NMR) spectroscopy at 7 Tesla or 3 Tesla.
+Eligibility: Inclusion Criteria:
+
+1. Subjects will be adolescents or adults, age 16-80 years in good general health (evidenced by normal vital signs and no acute signs or symptoms of illness) or with previously (not for this study) documented G1D (genetically confirmed).
+2. Ages 16 to 80
+3. Persons with dental fillings, dental crowns, and short (max.4 cm) dental retainer wires can be included.
+
+Exclusion Criteria:
+
+1. People or patients with uncontrolled seizure disorder, defined as grand mal (not absence) seizure in the preceding 3 months.
+2. Pregnant females will be excluded. A serum or urine pregnancy test will be administered to all females of child bearing potential within 24 hours of administration of the tracer and MRI scan. The pregnancy test will be communicated in person by the study PI. Positive results in subjects 17 years old or younger will be disclosed to parent/guardian only.
+3. Subjects with typical implanted orthopedic metal in bone may be considered for inclusion in a 7T scan providing the implant is not within the volume of the radio frequency coil. The PI and the AIRC Medical Director will discuss each case and determine eligibility.
+4. Persons with ICD, pacemakers, neurostimulators and other such devices will be excluded.
+5. Persons with claustrophobia are excluded.
+6. Persons with questionable ferrous implants, bullets, BB's, and shrapnel will be excluded.
+7. Subjects who are not fluent in English will be excluded because immediate cooperation and the ability to respond to instructions from the investigators are necessary.
+8. People following a ketogenic diet

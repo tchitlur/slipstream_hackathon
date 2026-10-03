@@ -1,0 +1,35 @@
+Title: Activity and Safety of Everolimus+Octreotide LAR+Metformin in Advanced Pancreatic Well-differentiated NETs
+Official title: Activity and Safety of Everolimus in Combination With Octreotide LAR and Metformin in Patients With Advanced Pancreatic Well-differentiated Neuroendocrine Tumors (pWDNETs): a Phase II, Open, Monocentric, Prospective Study
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Well Differentiated Pancreatic Endocrine Tumor
+Interventions: Everolimus plus Octreotide LAR plus Metformin (DRUG)
+Summary: Abnormal PI3K-Akt-mTOR (mammalian target of rapamycin) pathway signaling and autocrine activation of the mTOR pathway, mediated through insulin-like growth factor 1 (IGF1), has been implicated in the proliferation of pNET ( primitive neuroectodermal tumor) cells. Everolimus ,an mTOR inhibitor (a central regulator of growth/proliferation, cellular metabolism and angiogenesis) has shown antitumor benefit in pNETs alone and in combination with Octreotide LAR in RADIANT-1 and RADIANT-3 studies.
+
+Despite EVE-based phase II/III trials improve progression-free survival (PFS) for pNETs, they are limited to significantly prolong overall survival (OS). Metformin has recently shown some anti-cancer activity, both in vitro and in vivo studies by antisecretory properties to decrease insulin and IGF1 levels; and by antitumor effect due to AMPK (adenosine monophosphate kinase) activation and consequently inhibition to TSC1(tuberous sclerosis complex 1) -2/mTOR complex, mediated to LKB1 oncogene expression. The investigators retrospective experience, despite in a limited group of pWDNET, highlights the role of MET to improve clinical benefit in diabetic pts receiving EVE-OCT (octreotide) combinati
+Eligibility: Inclusion Criteria:
+
+1. Signature of written informed consent (approved by the Institutional Ethics Committee Independent ) obtained after a careful study of screening procedures
+2. Age \>= 18 years old.
+3. Patients with histological evidence of pNET well-differentiated G1 -G2
+4. Configurable tumor disease (according to RECIST (Response Evaluation Criteria In Solid Tumors) ) .
+5. Karnofsky Performance Status \>= 60%.
+6. Life expectancy greater than 6 months.
+7. Is permitted to enroll patients who have not received any treatment for advanced disease or patients pretreated with surgery , chemotherapy or somatostatin analogues .
+8. Basal blood tests :
+
+   * Counts of neutrophils in absolute value \> 1.5 x 109 / L.
+   * Platelet count \> 100 x 109 / L.
+   * Hemoglobin \> 9 g / dl .
+   * Total Bilirubin \< 1.5 times the upper limit of normal .
+   * AST( aspartate aminotransferase), ALT (alanine aminotransferase)\<2.5 times the upper limit of normal in patients without evidence of liver metastases.
+   * AST, ALT \<2.5 times the upper limit of normal in patients with evidence of liver metastases.
+   * Alkaline phosphatase \<2.5 times the upper limit of normal in patients with evidence of hepatic metastases
+   * Values of serum creatinine \< 1.5 mg / dl. - CCr ( Creatinine Clearance rate) ≥ 60 mL / min 9 . During the study of male and female patients must use adequate contraceptive methods .
+
+Exclusion Criteria:
+
+1. Patients with histological evidence of malignant insulinoma ( pNET )
+2. Surgeries performed within 28 days prior to the start of treatment.
+3. Evidence of metastasis at the level of the central nervous system or spinal cord compression . Patients should be subjected to a recent study MRI or CT scan at least 28 days from the date of randomization.
+4. Clinically significant cardiovascular disease , such as cardiovascular accidents occurred in less than 6 months, unstable angina , congestive heart failure grade greater than or equal to II according to the classification of the New York Heart Association (NYHA) series cardiac arrhythmias that require treatment.
+5. Important comorbidities , metabolic disorders , clinical examination or laboratory investigations ,

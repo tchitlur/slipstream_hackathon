@@ -1,0 +1,31 @@
+Title: Acceptability of Pharmacologic Treatment for Methamphetamine Dependence Among MSM
+Official title: Pilot Study of Acceptability of Bupropion Treatment for Methamphetamine Dependence Among Men Who Have Sex With Men.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Substance Abuse; HIV Infections
+Interventions: Bupropion (DRUG); Placebo (DRUG)
+Summary: Studies demonstrate that methamphetamine (meth) use is associated with high-risk sexual behavior among MSM, putting meth-using MSM at extraordinarily high risk for transmitting or acquiring HIV. No studies have tested the feasibility and acceptability of conducting pharmacologic interventions to reduce meth use and meth-associated sexual risk behavior among MSM. The purpose of this pilot study is to determine the feasibility enrolling and retaining meth-dependent MSM into a pharmacologic study of bupropion vs. placebo and measuring the tolerability of and adherence to medication among these participants.
+Eligibility: Inclusion Criteria:
+
+* HIV-negative by rapid test or able to document HIV infection through healthcare provider's note or documentation of laboratory test;
+* Reports anal sex with men in prior 3 months while using meth
+* Diagnosed with meth dependence as determined by SCID
+* Interested in stopping or reducing meth use
+* Meth-positive urine on screening
+* No known allergies to bupropion
+* No current acute illnesses
+* Able and willing to provide informed consent and to be followed over a 3-month period
+* Baseline CBC and electrolytes within institutional limits.
+
+Exclusion Criteria:
+
+* History of seizure
+* High risk for seizure, including: recent (last 24 months) head trauma, brain injury or surgery; using theophylline or systemic steroids; prior or current history of anorexia or bulimia; prior or current history of alcohol withdrawal symptoms
+* Measured moderate or severe liver disease (LFTs \> 3 times normal) or history of chronic liver disease
+* Impaired renal function (creatinine clearance \< 90 ml/min)
+* Evidence of current major depression, as determined by SCID
+* Taking anti-depressant medication within last 30 days
+* Currently on any bupropion-containing regimen
+* Currently using or unwilling not to use pseudoephedrine-containing products (causes false + urines for meth use) for trial duration
+* Currently taking antiretroviral therapy (ART)
+* CD4 count \< 200 cells/mm3
+* Any condition that, in the principal investigator's judgment, interferes with safe study participation.

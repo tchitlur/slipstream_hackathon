@@ -1,0 +1,23 @@
+Title: Gut Microbiome, Adverse Effects, and Markers Through MEtabolic Reprogramming
+Official title: Gut Microbiome, Adverse Effects, and Markers Through MEtabolic Reprogramming (GAMMER) Study in Early Stage Breast Cancer Receiving Chemotherapy
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Breast Cancer; Early-stage Breast Cancer
+Interventions: Fasting (BEHAVIORAL)
+Summary: This research is being done to test the feasibility of 24-48 hours of water-only fasting to improve delivery of 4 cycles of chemotherapy in those receiving breast cancer treatment either before or after surgery.
+Eligibility: Inclusion Criteria:
+
+* Diagnosed with histologically-confirmed stage I-III invasive carcinoma of the breast
+* Planning for standard neoadjuvant or adjuvant chemotherapy ddAC or TC for 4 cycles (concurrent anti-HER2 therapy is permitted)
+* Provider physical exam within 4 weeks of consent
+* Eastern Cooperative Oncology Group (ECOG) 0-1 (as per recent provider note or direct confirmation with provider)
+* BMI ≥ 19.5 kg/m2 (as per most recent visit documented in medical record)
+* Willingness to change diet, and provide fecal sample 3 times during study
+
+Exclusion Criteria:
+
+* BMI \<19.5 kg/m2
+* Diabetes
+* History of eating disorder
+* Serious/uncontrolled medical condition (e.g. end stage renal disease on dialysis, cirrhosis, uncontrolled hypertension, seizure disorder, history of bariatric surgery)
+* Pregnant or nursing
+* Use of medications that must be taken with food: allopurinol, aspirin, amiodarone, baclofen, bromocriptine, carvedilol, carbamezpine, cimetidine, diclofenac, doxycycline, fenofibrate, fludrocortisone, glyburide, hydrocortisone, iron supplements, ketorolac, lithium, methylprednisolone, naproxen, niacin, potassium salts, prednisone, procainamide, sevelamer, sulfasalazine, trazodone, valproic acid

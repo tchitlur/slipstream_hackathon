@@ -1,0 +1,21 @@
+Title: Study Comparing Veliparib Plus Carboplatin and Paclitaxel Versus Placebo Plus Carboplatin and Paclitaxel in Previously Untreated Advanced or Metastatic Squamous Non-Small Cell Lung Cancer
+Official title: Randomized, Double-Blind, Multicenter, Phase 3 Study Comparing Veliparib Plus Carboplatin and Paclitaxel Versus Placebo Plus Carboplatin and Paclitaxel in Previously Untreated Advanced or Metastatic Squamous Non-Small Cell Lung Cancer (NSCLC)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Squamous Non-Small Cell Lung Cancer
+Interventions: Carboplatin (DRUG); Veliparib (DRUG); Paclitaxel (DRUG); Placebo to veliparib (DRUG)
+Summary: The purpose of this study is to evaluate the safety and efficacy of the addition of veliparib plus carboplatin and paclitaxel versus the addition of placebo plus carboplatin and paclitaxel in adults with advanced or metastatic squamous non-small cell lung cancer (NSCLC).
+Eligibility: Inclusion Criteria:
+
+1. Life expectancy \> 12 weeks
+2. Subject must have cytologically or histologically confirmed squamous NSCLC.
+3. Subject must have advanced or metastatic squamous NSCLC that is not amenable to surgical resection or radiation with curative intent at time of study Screening.
+4. Subjects with recurrent squamous NSCLC after surgical treatment that is not amenable to surgical resection or radiation with curative intent are eligible.
+5. Subject must have at least 1 unidimensional measurable NSCLC lesion on a computerized tomography (CT) scan as defined by Response Evaluation Criteria In Solid Tumors (RECIST - version 1.1).
+
+Exclusion Criteria:
+
+1. Subject has a known hypersensitivity to paclitaxel or to other drugs formulated with polyethoxylated castor oil (Cremophor).
+2. Subject has a known hypersensitivity to platinum compounds.
+3. Subject has peripheral neuropathy \>= grade 2.
+4. Subject has non-squamous NSCLC, or a known epidermal growth factor receptor (EGFR) mutation of exon 19 deletion or L858R mutation in exon 21, or a known anaplastic lymphoma kinase (ALK) gene rearrangement.
+5. Subject has received prior cytotoxic chemotherapy (including definitive chemoradiotherapy) for NSCLC, except for adjuvant or neoadjuvant therapy.

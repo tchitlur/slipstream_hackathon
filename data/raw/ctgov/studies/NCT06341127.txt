@@ -1,0 +1,20 @@
+Title: Fluoxetine in KCNC1-related Disorder
+Official title: A Single Patient Trial of Fluoxetine in KCNC1-related Disorder
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: KCNC1 Related Disorder; Genetic Disease; Rare Diseases
+Interventions: Fluoxetine (DRUG)
+Summary: This is a single patient study of oral powdered fluoxetine to target developmental outcomes in a child with KCNC1-related disorder. This trial will be conducted at Holland Bloorview Kids Rehabilitation Hospital over 32 to 42 weeks, using a quasi experimental ABA phase design (placebo-fluoxetine-placebo) with randomized and blinded active treatment start and stop moments.
+Eligibility: Inclusion Criteria:
+
+1. Consent provided by substitute decision maker.
+2. In good general health as evidenced by medical history
+3. Screening baseline bloodwork (or availability of clinical bloodwork within 3 months of trial start) with values below relevant cut-offs for adequate hepatic and renal function, and baseline electrolytes including potassium within normal range.
+4. Ability to take oral medication and be willing to adhere to the daily oral medication regimen
+
+Exclusion Criteria:
+
+1. Current use of monoamine oxidase inhibitors, other selective serotonin reuptake inhibitors, tricyclic antidepressants, or agents that strongly affect metabolism via CYP2D6, CYP2C9 or CYP3A4.
+2. Hypersensitivity to fluoxetine or to any ingredient in the formulation, including any non-medicinal ingredient, or component of the container
+3. Treatment with another investigational drug or other medication intervention within 8 weeks of starting the trial.
+4. Any condition or diagnosis, that could in the opinion of the Principal Investigator or delegate interfere with the participant's ability to comply with study instructions, might confound the interpretation of the study results, or put the participant at risk.
+5. Long QT syndrome including acquired long QT syndrome (e.g., due to concomitant use of a drug that prolongs the QT); a family history of QT prolongation; or other clinical conditions that predispose to arrhythmias.

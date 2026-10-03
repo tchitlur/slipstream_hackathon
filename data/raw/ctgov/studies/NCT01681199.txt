@@ -1,0 +1,24 @@
+Title: Fluvastatin AmelIorates aTHerosclerosis Study
+Official title: The Efficacy of Lescol XL(Fluvastatin Extended Release 80 mg) on Atherosclerosis Progression in Patients With Newly Diagnosed Coronary Heart Disease
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Coronary Heart Disease; Atherosclerosis
+Interventions: Fluvastatin extended release tablet (DRUG)
+Summary: The study is designed to assess the effect of statin on atherosclesrosis progression as well as to explore its potential mechanism besides lipid modifying , such as effect on inflammation and vascular calcification.
+Eligibility: Inclusion Criteria:
+
+1. Newly diagnosed coronary heart disease
+2. One or more maximum IMT measurements of ≥1.1mm.
+3. Age 45 to 70 years old
+4. LDL-C≥130mg/dL
+5. Not receiving regular lipid lowering treatment
+6. Written Informed Consent
+
+Exclusion Criteria:
+
+1. Myocardial infarction as the first symptoms of coronary heart disease
+2. Patients with known hypersensitivity to fluvastatin or any of the excipients
+3. Pregnancy or lactation, or women of childbearing potential not using effective contraception
+4. Known muscle disease or history of muscle disease (e.g. myopathy, myositis, rhabdomyolysis) and/or serum CK levels greater than 2 x upper limit of normal (ULN)
+5. renal dysfunction
+6. Active liver disease and/or serum transaminase levels (ALT, AST) greater than 2x ULN
+7. Any conditions the investigator consider not suitable for long-term follow up

@@ -1,0 +1,17 @@
+Title: BIOchemical Urine Analysis of Adherence to Statins and Associated FACTorS in Coronary Artery Disease
+Official title: Feasibility of BIOchemical Urine Analysis of Adherence to Statins and Associated FACTorS in Coronary Artery Disease: The BIO-FACTS Pilot Study
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Coronary Heart Disease
+Interventions: blood and urine samples (DIAGNOSTIC_TEST)
+Summary: Feasibilty study of biochemical urine analysis of adherence to high intensity statin therapy in outpatients with coronary artery disease
+Eligibility: Inclusion Criteria:
+
+* patients with coronary artery disease
+* prescription of atorvastatin or rosuvastatin
+
+Exclusion Criteria:
+
+* \< 18 years
+* impairment (e.g. dementia)
+* language barrier (German)
+* end-stage kidney disease with hemodialysis

@@ -1,0 +1,19 @@
+Title: Annatto-derived GG for Statin-associated Myopathy
+Official title: Effect of Annatto-derived Geranylgeraniol (GG) on Statin-associated Myopathy
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Myopathy; Primary
+Interventions: Placebo (DIETARY_SUPPLEMENT); Low GG (DIETARY_SUPPLEMENT); High GG (DIETARY_SUPPLEMENT)
+Summary: To evaluate the effects of 3-months annatto-derived geranylgeraniol (GG) supplementation on statin-associated skeletal muscle health.
+Eligibility: Inclusion Criteria:
+
+* Age ≥40 of either sex
+* Statin-treated patients with muscle pain alone or accompanied by other symptoms.
+* Patients currently receiving a statin who developed new-onset myalgias in within 90 day of initiation or a dosage increase
+
+Exclusion Criteria:
+
+* Malignancy or significant neurological or psychiatric disturbances, including alcohol or drug abuse.
+* Woman who is pregnant, breastfeeding, or of childbearing potential and not taking adequate contraceptive precautions.
+* Had CoQ10 supplement one month before starting the study.
+* Genetic musculoskeletal and neurologic disorder known to affect skeletal muscle metabolism
+* Had steroid medication one month before starting the study.

@@ -1,0 +1,20 @@
+Title: A Phase I Trial of Combination Gemcitabine and Nab-Sirolimus in Advanced Leiomyosarcomas or Advanced Soft-Tissue Sarcomas With TSC2 or TSC1 Loss-of-function Mutations or Deletions
+Official title: A Phase I Trial of Combination Gemcitabine and Nab-Sirolimus in Advanced Leiomyosarcomas or Advanced Soft-Tissue Sarcomas With TSC2 or TSC1 Loss-of-function Mutations or Deletions
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Leiomyosarcoma; Soft-tissue Sarcomas
+Interventions: Gemcitabine (DRUG); Nab-Sirolimus (DRUG)
+Summary: To find a recommended dose of gemcitabine and nab-sirolimus that can be given in combination to participants with advanced leiomyosarcomas or soft-tissue sarcomas.
+Eligibility: Inclusion Criteria:
+
+1. Patients must have histologically confirmed leiomyosarcoma or sarcoma with TSC2 or TSC1 loss-of-function mutations or deletions based on standard-of-care genomic testing.
+2. Sarcoma that is metastatic or unresectable and for which standard curative measures do not exist or are no longer effective. One prior standard systemic therapy is required for leiomyosarcoma (LMS) Patients.
+3. Prior gemcitabine-based chemotherapy is allowed if the last dose of gemcitabine was given more than 12 months prior to the first dose of treatment on trial, there was no progression of disease while on treatment with gemcitabine, and there was intolerable toxicity.
+4. Patients must have measurable disease, defined as at least one lesion that can be accurately measured in at least one dimension (longest diameter to be recorded for non-nodal lesions and short axis for nodal lesions) as ≥20 mm (≥2 cm) by chest x-ray or as ≥10 mm (≥1 cm) with CT scan, MRI, or calipers by clinical exam.
+5. Age ≥18 years. Because no dosing or adverse event data are currently available on the use of nab-sirolimus in combination with gemcitabine in patients \<18 years of age, children are excluded from this study.
+6. ECOG performance status ≤2 (Karnofsky ≥60%,).
+7. Life expectancy of \>3 months, as determined by the investigator.
+8. Patients must have adequate organ and marrow function as defined below:
+
+   i. absolute neutrophil count ≥1,500/mcL ii. platelets ≥100,000/mcL iii. hemoglobin ≥9 gm/dL iv. total bilirubin ≤ 2 x institutional upper limit of normal (ULN) (except patients with Gilbert's syndrome, who must have total bilirubin \< 3.0 mg/dL) v. AST(SGOT)/ALT(SGPT) ≤2 × institutional ULN vi. eGFR (calculated by CKD-EPI) ≥ 60 mL/min vii. Serum triglyceride \<300 mg/dL viii. Serum cholesterol \<350 mg/dL
+9. For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated.
+10. Patients with a history of hepatitis C virus (HCV) infection must have been treated and cured. For Participants with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load.

@@ -1,0 +1,27 @@
+Title: First-line Treatment of Patients With Stage IV Nonsquamous Non-Small Cell Lung Cancer With Necitumumab (IMC-11F8) and Pemetrexed-Cisplatin
+Official title: A Randomized, Multicenter, Open-Label Phase 3 Study of Pemetrexed-Cisplatin Chemotherapy Plus Necitumumab (IMC-11F8) Versus Pemetrexed-Cisplatin Chemotherapy Alone in the First-Line Treatment of Patients With Stage IV Nonsquamous Non-Small Cell Lung Cancer (NSCLC)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Non Small Cell Lung Cancer
+Interventions: Pemetrexed (DRUG); Cisplatin (DRUG); Necitumumab (BIOLOGICAL)
+Summary: The research study is testing the investigational drug necitumumab in the treatment of advanced non-small cell lung cancer. The aim of this study is to determine if necitumumab, given together with a standard chemotherapy combination consisting of cisplatin and pemetrexed will be more effective in improving participant disease than the standard chemotherapy combination alone.
+Eligibility: Inclusion Criteria:
+
+* Has histologically or cytologically confirmed nonsquamous (adenocarcinoma/large cell or other) non small cell lung cancer
+* Has Stage IV disease at the time of study entry
+* Measurable or nonmeasurable disease (as defined by the Response Evaluation Criteria in Solid Tumors RECIST 1.0) at the time of study entry (participants with only truly nonmeasurable disease are not eligible)
+* Has resolution to Grade ≤ 1 of all clinically significant toxic effects of prior chemotherapy, surgery, radiotherapy, or hormonal therapy (with the exception of alopecia)
+* Has an Eastern Cooperative Oncology Group performance status score of 0-2
+* Has adequate hepatic function
+* Has adequate renal function
+* Has adequate hematologic function
+* If female, is surgically sterile, postmenopausal, or compliant with a highly effective contraceptive method during and for 6 months after the treatment period (oral hormonal contraception alone is not considered highly effective and must be used in combination with a barrier method). If male, the participants surgically sterile or compliant with a highly effective contraceptive regimen during and for 6 months after the treatment period
+* Female participants of childbearing potential must have a negative serum
+
+Exclusion Criteria:
+
+* Has squamous non small cell lung cancer
+* Has received prior anticancer therapy with monoclonal antibodies, signal transduction inhibitors, or any therapies targeting the Epidermal Growth Factor Hormone (EGFR), vascular endothelial growth factor (VEGF), or VEGF receptor
+* Received previous chemotherapy for advanced NSCLC (participants who have received adjuvant chemotherapy are eligible if the last administration of the prior adjuvant regimen occurred at least 1 year prior to randomization)
+* Undergone major surgery or received any investigational therapy in the 4 weeks prior to randomization
+* Undergone chest irradiation within 12 weeks prior to randomization (except palliative irradiation of bone lesions, which is allowed)
+* Has brain metastases that are symptomatic or require ongoing treatment with steroids or anticonvulsants. Participants who have undergone previous radiotherapy for brain 

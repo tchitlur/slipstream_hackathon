@@ -1,0 +1,24 @@
+Title: Fibroblast Growth Factors 19 and 21 in Gestational Diabetes Mellitus
+Official title: Endocrine Fibroblast Growth Factor 19 and 21 Regulate the Insulin Resistance State in Gestational Diabetes Mellitus
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Gestational Diabetes Mellitus
+Interventions: biachemical detection (DIAGNOSTIC_TEST)
+Summary: Gestational diabetes mellitus (GDM) is the most common complication in pregnancy. Both mother and offspring have a significantly increased future risk for metabolic and cardiovascular disease as a consequence of GDM. Pathological insulin resistance and the pancreatic β-cell dysfunction may contribute to the development and adverse outcomes of GDM.
+
+Recently, fibroblast growth factor 19 (FGF19) and FGF21 have emerged as key endocrine regulators of glucose, lipid and energy metabolism. Both factors activate FGFRs in the context of co-receptor βKlotho(KLB) expression. After that, both proteins alter ERK phosphorylation and stimulate glucose uptake. Furthermore, these two factors ameliorate insulin resistance through various ways including up-regulating insulin mRNA, IRS-1, GLUT-1 expressions, down-regulating GH-IGF-1 levels in different tissues and blood circulation and also improving dyslipidemia.
+
+Our previous studies showed that several factors which involved in insulin resistance and FGF19/FGF21 signaling pathway had differential expression in placenta from GDM and normal glucose tolerance pregnancy. Those led us to hypothesize that FGF19/FGF21 signaling pathway could play an impo
+Eligibility: Inclusion Criteria:
+
+* Women with singleton pregnancy;
+* Regular antenatal examination from the first trimester;
+* Give birth in the university hospital (The 1st affiliated hospital of Sun Yat-sen University)
+
+Exclusion Criteria:
+
+* Younger than 18 years old;
+* Older than 40 years old;
+* Multiple pregnancy;
+* Diagnosed DM before pregnancy;
+* Complicated with other diseases such as hypertension, eclampsia, thyroid diseases, etc.;
+* Taking any drug that affect glucose and lipid metabolism and insulin sensitivity.

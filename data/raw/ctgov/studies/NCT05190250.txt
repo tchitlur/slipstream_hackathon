@@ -1,0 +1,47 @@
+Title: Pro-inflammatory Cytokines and Implantation Process in Women With Primary Idiopathic Infertility
+Official title: Pro-inflammatory Cytokines and Implantation Process in Women With Primary Idiopathic Infertility
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Infertility, Female; Infertility Unexplained; Inflammatory Response
+Interventions: Pipelle biopsy (DIAGNOSTIC_TEST)
+Summary: Infertility is a common, worldwide problem. In about 20% of couples, the causative agent of infertility cannot be identified after routine diagnostic tests. One of the causes of idiopathic infertility may be implantation disorders.
+
+Implantation can take place at a strictly defined moment in the menstrual cycle, when the capacity of the blastocyst to implant is overlapped with readiness for its acceptance by the endometrium, the so-called endometrial receptivity.The time interval in which the endometrium exhibits this property is called the implantation window.
+
+The acquisition of receptivity by the endometrium is reflected in cellular and structural changes.The changes taking place at the cellular and molecular levels within the endometrium are compared to processes such as wound healing and degradation of the matrix during the neoplastic process.In considering the role of local inflammation in fertility, it is essential to distinguish between acute and chronic inflammation of moderate or low intensity.The profile of the molecules seen in a given inflammation depends on the severity, duration and mechanisms involved in the inflammation process, as well as the ability of the body's
+Eligibility: Study group
+
+Inclusion criteria:
+
+* primary infertility (unsuccessfully trying to become pregnant for more than a year)
+* regular menstruation
+
+Exclusion criteria:
+
+* female homronal therapy
+* established male factor of infertility
+* tubal factor
+* endometriosis
+* inflammation in the pelvic area - currently and in the history
+* hormonal background of infertility
+* obesity
+* insulin resistance
+* status post at least one miscarriage
+* chronic autoimmune diseases.
+
+Control group
+
+Inclusion criteria:
+
+* naturally conceived offspring up to three years of age
+* regular menstruation
+
+Exclusion criteria were:
+
+* status post surgery on the uterus, including curettage of the uterine cavity
+* endometriosis
+* pelvic inflammation - present and in the history
+* at least one miscarriage
+* obesity
+* insulin resistance
+* chronic autoimmune diseases
+* breastfeeding.

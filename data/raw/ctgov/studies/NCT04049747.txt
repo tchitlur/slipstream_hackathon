@@ -1,0 +1,25 @@
+Title: Comparative Health Research Outcomes of NOvel Surgery in Prostate Cancer
+Official title: Imperial Prostate 4: Comparative Health Research Outcomes of NOvel Surgery in Prostate Cancer
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Prostate Cancer; Non-metastatic Prostate Cancer; Prostate Adenocarcinoma
+Interventions: Radical therapy (radiotherapy or prostatectomy [radiotherapy can be external beam or brachytherapy] (PROCEDURE); Focal therapy (PROCEDURE); Focal therapy after Finasteride 5Mg tablets for 12 weeks (PROCEDURE); Focal therapy after Bicalutamide 50Mg tablets for 12 weeks (PROCEDURE)
+Summary: Men diagnosed with significant cancer confined to the prostate currently undergo radical therapy directed to the whole prostate (radiotherapy or prostatectomy). These provide good cancer control but can cause significant side effects.
+
+Focal Therapy involves targeting the cancer alone, whilst leaving healthy prostate gland alone. Case series have shown similar cancer control over 5 years with a much better side effect profile. However, there have been no randomised control trials (RCTs) comparing the success in cancer control and the quality of life in patients that undergo radical therapy vs those that undergo focal therapy. Further, there is a need to assess the use of additional therapies that may improve the cancer control outcomes following focal therapy. By having a trials platform with two RCTs (CHRONOS-A and CHRONOS-B) that reflect best patient and physician preferences/ equipoise, the investigators aim to answer these questions.
+
+To improve acceptability, recruitment and compliance, the investigators have an embedded study aimed at reviewing clinician and patient perspectives and trial acceptability. CHRONOS-A will compare radical therapy to focal therapy, whilst CHRONOS-B
+Eligibility: Inclusion Criteria:
+
+* PSA \</=20ng/ml
+* Patients must have undergone a diagnostic pre-biopsy MRI compliant with national uro-radiology consensus guidelines. Dynamic contrast enhancement using gadolinium is not required at diagnostic stage. However, contrast enhancement MRI will be required in those men who undergo focal therapy prior to focal therapy as a baseline for comparison during follow-up. In the absence of a compliant MRI (for clinical or other reasons), a transperineal template mapping biopsy using a 5-10 mm sampling frame will be required
+* Histologically proven prostate adenocarcinoma
+* Overall Gleason score of 7 (either 3+4=7 or 4+3=7) of any length or Gleason 3+3=6 provided \>/=6mm cancer core length in any one core. Patients with Gleason 4+4=8 in some cores but where the overall Gleason score is 7 will be included.
+* Bilateral histologically proven prostate cancer is permissible provided the following criteria are met:
+
+  * The index lesion to be treated if focal therapy is used meets the above histological criteria.
+  * The patient may have a PIRADS or Likert score 3, 4, 5 mpMRI lesion on the same hemi-gland (either right/left or anterior/posterior) as the histological index lesion
+  * Secondary areas of Gleason 3+3=6 of \</=5mm cancer outside of the treatment field can be monitored, if present, and patient undergoes focal therapy.
+  * If a Likert or PIRADS score 3,4 or 5 mpMRI lesion is present in an area outside of the treatment field with a negative biopsy for cancer then pathology must be reviewed and confirm the presence of inflammation or atrophy if the patient is to undergo focal therapy\*
+* Radiological stage T2b/T3a will require central review regarding suitability for focal therapy.
+* Index tumour volume, as seen on mpMRI if carried out, will be restricted to 50% of one lobe for either unilateral or bilateral ablation, patients with tumour volume \>/=50% of one lobe will require central review prior to enrolment. Final decisions on suitability of focal therapy will lie with the trial central review in these cases.
+* No restriction exists in CHRONOS-A on previous or current use of 5-alpha reductase inhibitors or anti-androgens or LHRH ag

@@ -1,0 +1,17 @@
+Title: Evaluation of Clinical Signs and Symptoms of Chronic Heart Failure in Patients Treated With Candesartan Cilexetil in Croatia
+Official title: Evaluation of Clinical Signs and Symptoms of Chronic Heart Failure in Patients Treated With Candesartan Cilexetil in Croatia
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Chronic Heart Failure
+Interventions: none
+Summary: The purpose of this study is to determine whether treatment with candesartan cilexetil for at least 6 months in patients with chronic heart failure improves clinical signs and symptoms of chronic heart failure.
+Eligibility: Inclusion Criteria:
+
+* Patients with diagnosed chronic heart failure
+* Patients treated for at least 6 months with candesartan cilexetil
+* Signed Informed consent
+
+Exclusion Criteria:
+
+* Hypersensitivity to candesartan cilexetil
+* Pregnancy / lactation
+* Severe hepatic impairment

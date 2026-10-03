@@ -1,0 +1,26 @@
+Title: High-dose Simvastatin for Aneurysmal Subarachnoid Haemorrhage
+Official title: High-dose Simvastatin for Aneurysmal Subarachnoid Haemorrhage: Is it Better?
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: Subarachnoid Hemorrhage
+Interventions: Simvastatin (DRUG)
+Summary: Experimental evidences supported the benefit of Simvastatin in subarachnoid haemorrhage. Moreover, Simvastatin is a potent agent in achieving low-density lipoprotein (LDL) reduction with a proven safety profile. However, there is no clinical data to compare the efficacy of different dosage regimens (namely whether high-dose regimen is better) and related cost-effectiveness analysis, although biochemical actions and related neuroprotective mechanisms were thought to be dosage-related. This gap in knowledge is important, on how to implement the use of statin and interpret different trial results. With these in mind, the investigators designed the current study.
+
+Hypothesis:
+
+Daily Simvastatin 80mg (high dose) treatment given within 96 hours of the ictus over three weeks will reduce incidence and duration of delayed ischemic deficits following subarachnoid haemorrhage when compared to daily Simvastatin 40mg (normal dose) treatment, leading to improvement in clinical outcome, which translates into advantage in terms of cost-effectiveness.
+Eligibility: Inclusion criteria:
+
+1. Patients (age 18-70 years) in which the admitting neurosurgeon has a high index of suspicion of a spontaneous aneurysmal subarachnoid haemorrhage with a convincing CT scan findings.
+2. Any clinical grade accepted provided a reasonable prospect of survival.
+3. Delay to randomization and initiation of trial medication from the time of the presenting ictus does not exceed 96 hours.
+
+Exclusion criteria:
+
+1. Unsalvageable patients: Fixed and dilated pupils after resuscitation, and/or a devastating scan, which preludes definitive therapy.
+2. Already taking statin therapy.
+3. Those taking Warfarin-type drugs.
+4. Pregnancy.
+5. Known renal or hepatic impairment.
+6. Suspected or known additional disease process, which threatens life expectancy (e.g. malignancy).
+7. Known or strong suspicion of drug abuse, alcoholism, or those who are likely to be amendable to 3 month follow up.
+8. Those already taking amiodarone, verapamil or potent CYP3A4 inhibitors.

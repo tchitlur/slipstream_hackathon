@@ -1,0 +1,24 @@
+Title: Intensive Lipid Lowering Treatment in Non-ST-elevation Acute Coronary Syndrome (NSTE-ACS) Patients
+Official title: Intensive Lipid Lowering Treatment in Patients With Non-ST-elevation ACS Undergoing Percutaneous Coronary Intervention
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Acute Coronary Syndrome
+Interventions: Atorvastatin (DRUG); Atorvastatin (DRUG)
+Summary: PCI has been one of the most common choice of treatments for patients with coronary artery disease, and studies indicated that intensive statin treatment before PCI could reduce adverse events as comparing to the placebo. In China, statin with regular dose is currently applied to the patients admitted for Non-ST-elevation acute coronary syndrome (ACS). Here we hypothesize that intensive statin treatment with arovastatin before PCI could further reduce clinical adverse events.
+Eligibility: Inclusion Criteria:
+
+* finish informed consent
+* age≥18y and under 75y
+* diagnosed as non-ST elevation acute coronary syndrome, including unstable angina and non-ST elevation myocardial infarction
+* willing to receive the coronary angiography and potential PCI therapy
+
+Exclusion Criteria:
+
+* patient was treated by statins before randomization
+* stable angina or ST elevation myocardial infarction
+* without informed consent
+* abnormal liver function before randomization, (AST，ALT≥3ULN)
+* active hepatitis or muscular disease
+* impaired renal function with serum creatinine level \> 3mg/dl
+* impaired left ventricular systolic function with LVEF\< 30%
+* participating in other studies
+* non-PCI treated patients after coronary angiography will be washed out

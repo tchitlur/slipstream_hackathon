@@ -1,0 +1,76 @@
+Title: Observation or Radiation Therapy and/or Chemotherapy and Second Surgery in Treating Children Who Have Undergone Surgery for Ependymoma
+Official title: A Phase II Trial of Conformal Radiation Therapy for Pediatric Patients With Localized Ependymoma, Chemotherapy Prior to Second Surgery for Incompletely Resected Ependymoma and Observation for Completely Resected, Differentiated, Supratentorial Ependymoma
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Brain Tumor; Central Nervous System Tumor
+Interventions: filgrastim (BIOLOGICAL); carboplatin (DRUG); cyclophosphamide (DRUG); etoposide (DRUG); vincristine sulfate (DRUG); radiation therapy (RADIATION); Mesna (DRUG); therapeutic conventional surgery (PROCEDURE)
+Summary: RATIONALE: Specialized radiation therapy that delivers a high dose of radiation directly to the tumor may kill more tumor cells and cause less damage to normal tissue. Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Giving chemotherapy before surgery may shrink the tumor so that it can be removed during surgery.
+
+PURPOSE: Phase II trial to determine the effectiveness of specialized radiation therapy either alone or after chemotherapy and second surgery in treating children who have undergone surgery for localized ependymoma.
+Eligibility: DISEASE CHARACTERISTICS:
+
+* Histologically confirmed intracranial ependymoma
+
+  * Differentiated ependymoma or anaplastic ependymoma
+* No primary spinal cord ependymoma, myxopapillary ependymoma, subependymoma, ependymoblastoma, or mixed glioma
+* No evidence of noncontiguous spread beyond primary site
+* Initial surgical resection within the past 56 days
+
+PATIENT CHARACTERISTICS:
+
+Age:
+
+* 1 to 21
+
+Performance status:
+
+* No restrictions
+
+Life expectancy:
+
+* At least 2 months
+
+Hematopoietic:
+
+* Not specified
+
+Hepatic:
+
+* Not specified
+
+Renal:
+
+* Not specified
+
+Other:
+
+* Able to undergo MRI
+* Not pregnant or nursing
+* Negative pregnancy test
+* Fertile patients must use effective contraception
+
+PRIOR CONCURRENT THERAPY:
+
+Biologic therapy:
+
+* Not specified
+
+Chemotherapy:
+
+* No prior chemotherapy
+
+Endocrine therapy:
+
+* Prior or concurrent corticosteroids allowed
+
+Radiotherapy:
+
+* No prior radiotherapy
+
+Surgery:
+
+* See Disease Characteristics
+* More than 1 prior surgery allowed
+
+Other:
+
+* No other prior treatment for ependymoma

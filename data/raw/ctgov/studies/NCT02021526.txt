@@ -1,0 +1,25 @@
+Title: Triheptanoin (C7 Oil), a Food Supplement, for Glucose Transporter Type I Deficiency (G1D)
+Official title: Treatment Development of Triheptanoin for Glucose Transporter Type I Deficiency
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Glucose Transporter Type 1 Deficiency Syndrome; Glut1 Deficiency Syndrome
+Interventions: Triheptanoin (DRUG)
+Summary: This is a single-site, open-label, phase II trial of C7, a food supplement or medical food, for the development of treatment outcome measures for glucose transporter type I deficiency (G1D). The primary outcome measures are: 1. Safety and tolerability of C7 as measured by changes in comprehensive blood work, including lipid and free fatty acid panels, self-reported side effects and clinical exam; 2. Changes in brain metabolic rate by MRI and EEG measurements during C7 treatment; and 3. Maintenance of ketosis in G1D patients on ketogenic diet, as measured by serial ketone levels during treatment initiation.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis or suspected diagnosis of glucose transporter type I deficiency (G1D).
+* On stable ketogenic diet at a ratio between 1:2.5 and 1:4 OR Stable on no dietary therapy
+* Males and females 30 months to 55 years old, inclusive.
+
+Exclusion Criteria:
+
+* Subjects with a history of life-threatening seizure episodes, including but not limited to status epilepticus and cardiac arrest.
+* Subjects with a BMI (body mass index) greater than or equal to 30 will be excluded.
+* Subjects currently on dietary therapy other than ketogenic diet (i.e., medium chain triglyceride-supplemented diets, Atkins diet, low glycemic index diet, etc.).
+* Women who are pregnant or breast-feeding may not participate. Women who plan to become pregnant during the course of the study, or who are unwilling to use birth control to prevent pregnancy (including abstinence) may not participate.
+* Allergy/sensitivity to triheptanoin.
+* Previous treatment with triheptanoin.
+* Treatment with medium chain triglycerides in the last 30 days.
+* Subjects exhibiting signs of dementia, or diagnosed with any degenerative brain disorder (such as Alzheimer's disease) that would confound assessment of cognitive changes, in the opinion of the investigator.
+* Active drug or alcohol use or dependence that, in the opinion of the investigator, would interfere with adherence to study requirements.
+* Patients with metal implants, experience claustrophobia, or who are behaviorally unable to be still for MRS (magnetic resonance spectroscopy) imaging (not due to seizures) will be excluded from the imaging portion of the research.
+* Inability or unwillingness of subject or legal guardian/representative to give written informed consent, or assent for children age 10-17.

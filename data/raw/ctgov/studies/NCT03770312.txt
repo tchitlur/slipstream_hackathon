@@ -1,0 +1,34 @@
+Title: Low- and Moderate-intensity Statin and Clinical Outcome of Primary Prevention in Individuals Aged >70 Years: the SCOPE-70 RCT Study
+Official title: Low- and Moderate-intensity Statin and Clinical Outcome of Primary Prevention in Individuals Aged >70 Years: the SCOPE-70 RCT Study
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Healthy Elderly Individuals With High LDL-cholesterol or Risk of Cardiovascular Disease
+Interventions: Low intensity statin (DRUG); Moderate intensity statin (DRUG)
+Summary: One of the most effective drug in the primary prevention of cardiovascular disease is statins. The protective effects of statin on developement of cardiovascular disease has been demonstrated in elderly individuals. Since side effects of statin are more common in elderly individuals than in younger individuals, clinical guidelines recommend that use of low intensity statin is considered in elderly individuals. However, there are few randomized clinical trials evaluating the safety and efficacy of different intensity statins in elderly individuals.
+
+This is a multicenter, prospective, randomized clinical trial to compare efficacy and safety between low and high intensity statin for primary prevention of cardiovacsular disease in elderly individuals.
+Eligibility: "Inclusion criteria
+
+1. Adults aged 70 years or older as of the date of written consent, meeting one of the criteria in items 2-5)
+2. Patients with no prior statin use or who have discontinued statin therapy for at least 4 weeks, with no cardiovascular risk factors\* and LDL-cholesterol levels of 160-189 mg/dL
+3. Patients with no prior statin use or who have discontinued statins for at least 4 weeks, with one or more cardiovascular disease risk factors\* and LDL-cholesterol levels of 80-189 mg/dL
+4. For patients currently taking statins, with 0 cardiovascular disease risk factors\* and LDL-cholesterol levels of 95-114 mg/dL
+5. For patients currently taking statins, with 1 or more cardiovascular disease risk factors\* and LDL-cholesterol levels of 50-114 mg/dL
+
+   * Cardiovascular Disease Risk Factors
+
+     * Male
+     * Family history of early cardiovascular disease: myocardial infarction, angina, peripheral vascular disease, ischemic stroke; men \<55 years, women \<65 years
+     * Diabetes: One or more of the following five criteria: HbA1c ≥6.5%, fasting blood glucose ≥126 mg/dL, postprandial 2-hour blood glucose ≥200 mg/dL, random blood glucose ≥200 mg/dL with typical symptoms like polyuria, or the use of antidiabetic medication
+     * Hypertension: Systolic blood pressure ≥140 mmHg or diastolic blood pressure ≥90 mmHg, or use of antihypertensive medication
+     * Current smoker
+     * HDL-cholesterol \<40 mg/dL
+
+Exclusion criteria (any):
+
+1. Individuals who have been diagnosed with cancer within the last 5 years.
+2. Individuals who have high level of serum ALT (\>2 upper normal limit).
+3. Individuals who have serum creatinine ≥2 mg/dL.
+4. Individuals who have been diagnosed with cardiovascular disease (\>50% stenosis of coronary artery on imaging study, percutaneous transluminal coronary angioplasty, coronary artery bypass graft, or myocardial infarction).
+5. Individuals who have been diagnosed with peripheral artery disease (\>50% stenosis of peripheral artery on imaging study, or ankle brachial index \<0.9 or ≥1.3).
+6. Individuals who have been diagnosed with uncontrolled hyperthyrodism or hypothyroidism.
+7. Individuals who are taking drug that can interact

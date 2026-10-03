@@ -1,0 +1,33 @@
+Title: Novel Personalized Non Invasive Combined Magnetic and Electrical Stimulation of the DMN in Mild AD Patients
+Official title: Novel Personalized Non Invasive Combined Magnetic and Electrical Stimulation of the Default Mode Network in Mild AD Patients (CMES-AD)
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Alzheimer Disease
+Interventions: Combined iTBS-tACS (DEVICE); iTBS-sham tACS (DEVICE); sham iTBS- sham tACS (DEVICE)
+Summary: Alzheimer's disease (AD) is increasingly recognized as a disorder marked by early synaptic dysfunction and disrupted brain network connectivity, beyond the traditional focus on amyloid pathology. Synaptic plasticity (crucial for learning and memory) is compromised in AD and represents a promising therapeutic target. In particular, alterations in the Default Mode Network (DMN), especially in regions like the precuneus, suggest that restoring connectivity and enhancing plasticity may improve cognitive outcomes. This project proposes a novel, precision-delivered non-invasive brain stimulation protocol that combines repetitive transcranial magnetic stimulation (rTMS) and transcranial alternating current stimulation (tACS) over the DMN. The intervention will be evaluated through cognitive testing, blood-based biomarkers, MRI and TMS-EEG, alongside immersive virtual environments to assess sensorimotor and cognitive function. This approach aims to test neuromodulation strategies capable of slowing neurodegeneration and supporting early detection and rehabilitation in AD.
+Eligibility: Inclusion Criteria:
+
+* Patients with a diagnosis of AD according to IWG criteria
+* 20 \> MMSE \< 28
+* Patients with CSF specific biomarker profile or with a positive Amyloid Pet Scan consistent with the presence of amyloid pathology
+* Global Clinical Dementia Rating (CDR) ≤1
+* Previous decline in cognition for more than six months as documented in patient medical records
+* A caregiver available and living in the same household or interacting with the patient and available
+* Patients living at home or nursing home setting without continuous nursing care
+* General health status acceptable for a participation in a 6-month clinical trial
+* Stable pharmacological treatment for at least one month prior to screening
+* No regular intake of prohibited medications.
+* Signed informed consent by the patient. If there are any doubts that the patient is mentally capable of giving informed consent, the patient will be examined and verified to be mentally capable by an independent physician/ neurologist, prior to the initiation of any study specific procedure. Signed consent of the caregiver
+
+Exclusion Criteria:
+
+* Failure to undergo screening or baseline exams
+* Hospitalization or change in chronic concomitant medications one month before the screening or during the screening period
+* Clinical, laboratory, or neuroimaging results consistent with:
+
+  1. other primary degenerative dementia (Lewy body dementia, frontotemporal dementia, Huntington's disease, Creutzfeldt-Jakob disease, Down syndrome, etc.);
+  2. other neurodegenerative conditions (Parkinson's disease, amyotrophic lateral sclerosis, etc.);
+  3. orthostatic hypotension and autonomic disorders
+  4. cerebrovascular disease (major infarction, a strategic infarction or multiple lacunar infarctions, extensive white matter lesions \> one quarter of total white matter);
+  5. other central nervous system diseases (severe traumatic brain injury, tumors, subdural hematoma, or other space-occupying processes, etc.);
+  6. seizure disorder.
+  7. Other infectious, metabolic, or systemic diseases affecting the central nervous system (syphilis, existing hypothyroidism, current vitamin B12 or folate deficiency, serum electrolytes out

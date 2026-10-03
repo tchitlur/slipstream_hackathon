@@ -1,0 +1,24 @@
+Title: Virtual Reality-Based Cognitive Remediation in Schizophrenia and Bipolar Disorder
+Official title: FULL-MINDSET- Fully Immersive Virtual Reality-based Cognitive Training in Schizophrenia and Bipolar Disorder: a Single Blind Randomized Controlled Trial in a Real-world Setting
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Bipolar Disorder (BD); Schizophrenia Spectrum Disorders (SSD)
+Interventions: Virtual Reality Cognitive Remediation (VRCR) (BEHAVIORAL); Treatment as Usual (TAU) (OTHER)
+Summary: This randomized controlled trial aims to evaluate the effectiveness of a virtual reality-based cognitive remediation (VRCR) intervention in improving cognitive performance and psychosocial functioning in individuals with schizophrenia spectrum disorders (SSD) and bipolar disorder (BD).
+
+A total of 80 participants (40 with SSD and 40 with BD) will be randomly assigned in a 1:1 ratio to receive either VRCR or treatment as usual (TAU). The VRCR intervention will be delivered using the CEREBRUM platform and will consist of 45-minute sessions administered twice weekly for 12 weeks under the supervision of trained therapists.
+
+The primary outcomes are changes in cognitive performance and psychosocial functioning, assessed using the MATRICS Consensus Cognitive Battery (MCCB) and the Personal and Social Performance (PSP) scale, respectively. Secondary outcomes include clinical symptom severity, assessed with validated rating scales, and neurobiological correlates, including functional magnetic resonance imaging (fMRI) and genetic biomarkers.
+
+Assessments will be conducted at baseline, at 3 months (post-intervention), and at 6 months (follow-up). fMRI assessments will be conducted at baseli
+Eligibility: Inclusion Criteria:
+
+* Age ≥ 18 years
+* Diagnosis of schizophrenia spectrum disorder or bipolar disorder (DSM-5)
+* Clinical stability for at least 3 months
+* Ability to provide informed consent
+
+Exclusion Criteria:
+
+* neurological disorders
+* intellectual disability
+* inability to participate in VR-based interventions due to medical or sensory limitations.

@@ -1,0 +1,26 @@
+Title: CSF/Serum Biomarkers in Predicting PND/Persistent Pain After Cesarean
+Official title: The Role of Cerebrospinal Fluid and Serum Inflammatory Biomarkers in Predicting Perinatal Depression and Persistent Pain After Cesarean Delivery
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Perinatal Depression; Chronic Pain
+Interventions: No intervention (OTHER)
+Summary: The aim is to investigate if inflammatory biomarkers in the blood and cerebrospinal fluid (CSF) are associated with the development of perinatal depression and/or persistent pain after cesarean delivery.
+
+This study will obtain CSF and blood samples in 70 parturients. All parturients will be assessed for perinatal depression and persistent pain, and the presence/absence of these outcomes will be correlated to changes in the inflammatory biomarkers within the samples collected. If present, consistent changes in biomarkers correlating with perinatal depression or persistent pain may be utilised as a predictive tool and facilitate early treatment for these conditions.
+Eligibility: Inclusion Criteria:
+
+* American Society of Anesthesiologists (ASA) class 2 and 3
+* English speaking
+* 18 years or older
+* Singleton pregnancy
+* Gestational age \> 37 weeks
+* Scheduled cesarean delivery under spinal or combined spinal epidural anesthesia
+
+Exclusion Criteria:
+
+* Intravenous drug or chronic opioid use
+* Anti-depressant or anxiolytic drug use
+* Allergy to standard of care drugs
+* Cesarean delivery under general anesthesia or epidural anesthesia
+* Pre-eclampsia needing magnesium sulfate
+* Chronic PO/IV analgesic or glucocorticoids
+* History of chronic pain syndromes

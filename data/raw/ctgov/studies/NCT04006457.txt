@@ -1,0 +1,30 @@
+Title: Long-Term PF-06651600 for the Treatment of Alopecia Areata
+Official title: A PHASE 3 OPEN-LABEL, MULTI-CENTER, LONG-TERM STUDY INVESTIGATING THE SAFETY AND EFFICACY OF PF-06651600 IN ADULT AND ADOLESCENT PARTICIPANTS WITH ALOPECIA AREATA
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Alopecia Areata
+Interventions: PF-06651600 (DRUG); Tetanus and diphtheria toxoids and acellular pertussis (Tdap) vaccine (BIOLOGICAL); Meningococcal (groups A, C, W-135 and Y [ACWY]) oligosaccharide diphtheria CRM197 conjugate vaccine (BIOLOGICAL)
+Summary: This is a global Phase 3 study to evaluate the safety and effectiveness of an investigational study drug (called PF-06651600) in adults and adolescents (12 years and older) who have alopecia areata. Eligible patients from the prior studies B7931005 (NCT02974868) and B7981015 (NCT03732807) will have an opportunity to enroll as well as patients who have not previously participated in either of these studies. The study is open-label and all patients entering the study will receive active study drug.
+
+A sub-study of approximately 60 adult patients who are participating in the B7981032 study will be conducted at select sites in the US, Australia and Canada. The sub-study will evaluate the immune response to tetanus and meningococcal vaccines in patients who have received a minimum of 6 months of 50 mg PF-06651600.
+Eligibility: Inclusion Criteria-
+
+For de novo participants and participants from Study B7931005 and B7981015 with \>30 days between first visit in B7981032 and last dose in the prior study:
+
+* Clinical diagnosis of alopecia areata (AA) with no other cause of hair loss. Androgenetic alopecia coexistent with AA is allowed.
+* De novo participants \>=12 to \<18 years of age: \>=50% terminal hair loss of the scalp due to AA, including alopecia totalis and alopecia universalis
+* De novo participants \>=18 years of age and participants from Study B7931005 or B7981015 with \>30 days between first visit in B7981032 and last dose in the prior study: \>=25% terminal hair loss of the scalp due to AA, including alopecia totalis and alopecia universalis
+* No evidence of terminal scalp hair regrowth within 6 months (de novo only)
+* Current episode of terminal scalp hair loss \<=10 years (de novo only)
+
+Exclusion Criteria-
+
+For de novo participants and participants from Study B7931005 and B7981015 with \>30 days between first visit in B7981032 and last dose in the prior study:
+
+* Hearing loss with progression over previous 5 years, or sudden hearing loss, or middle or inner ear disease, or other auditory condition that is considered acute, fluctuating or progressive
+* History of or current malignancies with the exception of adequately treated or excised non metastatic basal cell or squamous cell cancer of the skin or cervical carcinoma in situ
+* History of a single episode of disseminated herpes zoster or disseminated herpes simplex, or a history of more than one episode of localized, dermatomal herpes zoster
+* Infection requiring hospitalization, or parenteral antimicrobial therapy within 6 months prior to Day 1
+
+Exclusion criteria for all participants:
+
+\- Participants who have previously taken Janus kinase (JAK) inhibitors other than PF-06651600 must have received the last dose \>12 weeks prior to the screening visit

@@ -1,0 +1,31 @@
+Title: A Multicenter, Prospective, Randomized Controlled Trial to Evaluate the Efficacy of PCSK-9 Inhibitors in Delaying the Progression of Calcified Aortic Valve Disease
+Official title: A Multicenter, Prospective, Randomized Controlled Trial to Evaluate the Efficacy of PCSK-9 Inhibitors in Delaying the Progression of Calcified Aortic Valve Disease
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: EARLY_PHASE1.
+Conditions: Aortic Stenosis; PCSK9 Inhibitor; Calcified Aortic Valve Disease
+Interventions: The Group A received PCSK9 inhibitor plus statin therapy (DRUG)
+Summary: The aim of this clinical trial is to understand whether the drug PCSK9 inhibitor can slow the progression of calcific aortic valve disease and to understand the safety of the drug.
+
+The primary objective of the study was to evaluate whether PCSK9 inhibitors could delay the progression of aortic stenosis in patients with aortic stenosis.
+
+Secondary objectives: 1) To evaluate whether PCSK9 inhibitors can delay the progression of valve calcification in patients with aortic stenosis;2) To evaluate whether PCSK9 inhibitors can reduce long-term adverse events in patients with aortic stenosis;3) To evaluate the effect of PCSK9 inhibitors on circulating Lp(a) levels in patients with aortic stenosis.
+Eligibility: Inclusion Criteria:
+
+* Voluntarily sign informed consent;
+* Age ≥18 years old, gender unlimited;
+* Patients with aortic stenosis diagnosed by echocardiography;
+* Combined with atherosclerotic cardiovascular disease or
+* hypercholesterolemia LDL-C≥4.9mmol/L;
+* The blood lipids were not up to standard after the maximum tolerated dose of statins;
+
+Exclusion Criteria:
+
+* Rheumatic aortic stenosis;
+* Previous use of PCSK9 inhibitors or allergy to PCSK9 inhibitors;
+* Left ventricular ejection fraction ≤35%;
+* Patients planned to undergo aortic valve replacement or TAVR in the near future;
+* Complicated with other severe valvular diseases;
+* Poor adherence to treatment and inability to take medication according to the trial protocol;
+* Pregnant and lactating women;
+* Combined with active malignant tumors, severe liver and kidney dysfunction and other life expectancy of less than 1 year;
+* Participants who are participating in other interventional clinical studies;
+* Patients who were judged by the investigator to be ineligible for participation in the trial

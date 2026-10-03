@@ -1,0 +1,30 @@
+Title: A Study of Sirolimus for Injection (Albumin Bound) in Patients With Advanced Solid Tumors
+Official title: A Phase 1 Study to Assess the Safety, Tolerability, Pharmacokinetics (PK) and Antitumor Activity of Sirolimus for Injection (Albumin Bound) in Patients With Advanced Solid Tumors
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Advanced Solid Tumors
+Interventions: Sirolimus for Injection (Albumin Bound) (DRUG)
+Summary: The purpose of this study is to estimate the safety, tolerability, pharmacokinetics (PK), and antitumor activity of Sirolimus for Injection (Albumin Bound) in patients with solid malignancies.
+Eligibility: Inclusion Criteria:
+
+1. Age 18-75 years (inclusive), no gender limitation.
+2. Patients must have a histologically or cytologically confirmed advanced or metastatic tumor for which no effective standard therapy is available, or have failed or been intolerant to standard therapies.
+3. At least one measurable lesion per RECIST version 1.1.
+4. Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) of 0 to 2.
+5. Life expectancy of ≥3 months.
+6. Suitable organs and hematopoietic function should be available. Laboratory tests during screening should meet the appropriate criteria.
+7. Signed informed consent form.
+
+Exclusion Criteria:
+
+1. Prior anticancer treatment or participation in another clinical study within 4 weeks (or 5 half-lives of the treated drug, whichever is longer) prior to the first dose of study drugs.
+2. Patients who have undergone major surgery within 4 weeks prior to starting study treatment, or who have not fully recovered from previous surgery.
+3. Unresolved toxicities from prior therapy greater than Grade 1 as per Common Terminology Criteria for Adverse Events (CTCAE) (except alopecia or any other toxicity without safety risks as judged by the investigator).
+4. History of serious cardiovascular disease.
+5. Central nervous system metastasis or meningeal metastasis with clinical symptoms, or other evidence that the patient's central nervous system metastasis or meningeal metastasis has not been controlled, and the investigator judges it to be unsuitable for inclusion.
+6. Known prior hypersensitivity to study drugs or any component in their formulations.
+7. Prior treatment with any mTOR inhibitor.
+8. Has received a live or live-attenuated virus vaccine within 30 days prior to consent.
+9. Uncontrollable active infection (CTCAE v5.0 ≥grade 2).
+10. Use of strong inhibitors and inducers of CYP3A4 within 2 weeks prior to receiving the first dose of study drug and still need to continue using this class of drug.
+11. History of autoimmune diseases, immunodeficiency, including HIV positive, or other acquired, congenital immunodeficiency, or organ transplant history.
+12. HBsAg-positive with HBV viral load (VL) ≥1000 IU/mL; Hepatitis C Virus (HCV)-po

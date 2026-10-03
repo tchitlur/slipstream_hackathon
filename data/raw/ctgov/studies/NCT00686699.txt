@@ -1,0 +1,27 @@
+Title: Study of Preladenant for the Treatment of Antipsychotic Induced Movement Disorders in Participants With Schizophrenia (Study P04628)
+Official title: A Phase 2a, Multiple Dose, Placebo Controlled, Randomized, Two Way Crossover Study to Assess the Efficacy of SCH 420814 in Reducing Anti Psychotic-Induced Extra Pyramidal Symptoms Among Subjects With Schizophrenia and Schizoaffective Disorders
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Akathisia, Drug-Induced; Dyskinesia, Drug-Induced; Parkinsonian Disorders
+Interventions: Preladenant (DRUG); Placebo (DRUG)
+Summary: This study was designed to determine if preladenant (SCH 420814, MK-3814) can reduce drug-induced involuntary movements in participants with schizophrenia or schizoaffective disorder. Participants were to be evaluated for two 14-day treatment periods with a 3-week washout period between treatment periods. The primary outcome measure, Extrapyramidal Symptom Rating Score (ESRS), was to be evaluated frequently during the treatment periods.
+Eligibility: Inclusion Criteria:
+
+* Males or females \>=18 and \<=65 years old with a body mass index of 17-31 kg/m\^2.
+* Diagnosed with Diagnostic and Statistical Manual of Mental Disorders, 4th Ed. (DSM-IV) criteria for schizophrenia/schizoaffective (depressive type) disorder with antipsychotic-induced extrapyramidal symptoms (parkinsonism, akathisia, dystonia, or tardive dyskinesia \[TD\]) based on the following ESRS criteria:
+
+  * parkinsonism, dystonia, or TD - ESRS score \>=2 on 2 items or \>=3 on one item,
+  * akathisia - ESRS score \>=3 on two items,
+* Has total ESRS score \>8.
+* Must be receiving neuroleptics at a stable dosage for at least 7 days prior to enrollment.
+* Clinical laboratory tests, physical exam, and electrocardiogram must be within normal limits or clinically acceptable to the investigator/sponsor (except signs and symptoms of Schizophrenia/Schizoaffective disorder).
+* Liver function tests must be within normal limits at screening.
+* Participant screening for drugs with a high potential for abuse must be negative.
+* Must be free of any clinically significant disease other than schizophrenia/schizoaffective disorder that would interfere with the study evaluations or procedures.
+* Must have a level of understanding sufficient to communicate with research staff, cooperate with all protocol required tests and examinations, and be able to adhere to protocol restrictions and schedules.
+* Must be able to understand the nature of the study and must be willing to sign an informed consent (required for each patient or the patient's authorized legal representative) prior to study enrollment.
+* Females must have a follicle stimulating hormone (FSH) \>=40 lU/L and be greater than 12 months since last menses or surgically sterilized.
+
+Exclusion Criteria:
+
+* Has a history of clinically significant local or systemic infectious disease within 4 weeks prior to initial treatment administration, clinically significant food or drug allergy, seizures, alcohol/drug dependence, previous neurosurgery, or coronary artery disease (including myocardial infarction \[MI\], cerebrovascular disease \[stroke, transient ischemic attack (TIA)\], or peripheral arterial disease).
+* Has 

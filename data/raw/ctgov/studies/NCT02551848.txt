@@ -1,0 +1,25 @@
+Title: Kinematic-based BoNT-A Injections for Bilateral ET
+Official title: Botulinum Toxin Type A for Injection of Bilateral Upper Extremity Tremor in Patients With Essential Tremor Using Kinematic Assessment
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Essential Tremor
+Interventions: Botulinum toxin type A (DRUG)
+Summary: The primary objective is to study the efficacy of botulinum toxin type A (Xeomin®) injected utilizing kinematically-based injection parameters for the treatment of upper extremity essential tremor (ET). Additional objectives are to study the benefit of kinematic assessment tools in determining injection parameters and to study the composition of tremor using kinematics.
+Eligibility: Inclusion Criteria:
+
+* Consenting male and female participants
+* Diagnosis of 'definite essential tremor' in accordance with the TRIG criteria including: ET individuals diagnosed with upper limb tremor in their motor dominant and non-dominant hands
+* Stable ET medication management for the 3 month duration prior to their enrollment in the study
+* Participants who are botulinum toxin naïve for tremor management
+* Patients will be screened for pregnancy by the physician
+
+Exclusion Criteria:
+
+* History of stroke
+* Muscle weakness or any related compartmental muscle syndrome
+* Smoking
+* History of ALS or Myasthenia Gravis
+* Offending medications (Lithium, valproate, steroids, amiodarone, beta-adrenergic agonists (e.g. salbutamol)
+* Persons prescribed zonisamide
+* History of allergic or side effect reaction to botulinum toxin
+* Contraindications per the Xeomin® drug monograph
+* Women reporting that they are pregnant

@@ -1,0 +1,24 @@
+Title: Exercise, Statins, and the Metabolic Syndrome
+Official title: Exercise, Statins, and the Metabolic Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Metabolic Syndrome; Obese; Sedentary
+Interventions: Statin (DRUG); Exercise only (OTHER); Statins + Exercise (OTHER)
+Summary: Here we tested if statins or exercise plus statins had a greater capacity to lower metabolic syndrome risk factors in sedentary individuals with at least 2 metabolic syndrome risk factors. We also examined if statins impacted exercise response for mitochondrial content in muscle or aerobic fitness.
+Eligibility: Inclusion Criteria:
+
+* Sedentary metabolic syndrome subjects will be 25-59 y of age
+* overweight to Class I or II obese (BMI 25-39 kg/m2) men and women
+* 2 of 4 other characteristics of the metabolic syndrome including fasting glucose of 100 to 125 mg/dl; waist circumference greater than 102 cm in men and 88 cm in women, serum triglyceride concentration greater than 150 mg/dl, HDL-C concentrations less than 40 mg/dl in men and 50 mg/dl in women, and blood pressure greater than 130/85 mmHG
+* Women must be taking birth control or be postmenopausal.
+
+Exclusion Criteria:
+
+* Diagnosed cardiovascular disease or diabetes or disease
+* Symptoms that could alter their ability to perform exercise
+* Fasting blood glucose of greater than 126 mg/dl
+* Smoking
+* Taking any medications or supplements (e.g., statins, fibrates, metformin, thiazolidenediones, anti-hypertensives (ACE-inhibitors and angiotensin blockers) which could affect blood lipids or insulin sensitivity.
+* Women who are pregnant or plan to become pregnant during the duration of the study
+* Individuals exercising regularly (more than one 30 min session per week)
+* Individuals with an orthopedic limitations for walking.
+* Report any allergies to the medications (statins, lidocaine)

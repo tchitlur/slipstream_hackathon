@@ -1,0 +1,30 @@
+Title: A Study of the Safety and Efficacy of Anacetrapib (MK-0859) When Added to Ongoing Statin Therapy (MK-0859-021)
+Official title: A 24-Week, Worldwide, Multicenter, Double-Blind, Randomized, Parallel, Placebo-Controlled Study to Assess the Efficacy and Tolerability of Anacetrapib When Added to Ongoing Statin Therapy With or Without Other Lipid Modifying Medication(s) in Patients With Hypercholesterolemia or Low HDL-C
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Hypercholesterolemia
+Interventions: Anacetrapib 100 mg (DRUG); Placebo for anacetrapib 100 mg (DRUG); Anacetrapib 25 mg (DRUG); Placebo for anacetrapib 25 mg (DRUG)
+Summary: This study will evaluate the effects of 2 different dose levels of anacetrapib on low-density lipoprotein-cholesterol (LDL-C) and high-density lipoprotein cholesterol (HDL-C) in participants with hypercholesterolemia when added to an existing statin-modifying therapy.
+Eligibility: Inclusion Criteria:
+
+* If female, cannot be of reproductive potential
+* Have been treated with an optimal dose of statin for at least 6 weeks
+* Coronary heart disease (CHD) or other atherosclerotic vascular disease with multiple risk factors (including diabetes, metabolic syndrome) and/or high LDL-C/low HDL-C, or needing to meet a specific LDL-C/HDL-C goal
+
+Exclusion Criteria:
+
+* Previously participated in a study with a cholesteryl ester transfer protein (CETP) inhibitor
+* Homozygous familial hypercholesterolemia
+* Severe chronic heart failure
+* Uncontrolled cardiac arrhythmias, myocardial infarction (MI), percutaneous coronary intervention (PCI), coronary artery by-pass graft (CABG), unstable angina, or stroke within 3 months
+* Uncontrolled hypertension
+* Uncontrolled endocrine or metabolic disease known to influence serum lipids or lipoproteins
+* Active or chronic hepatobiliary, hepatic, or gall bladder disease
+* History of mental instability, drug/alcohol abuse within the past five years or major psychiatric illness inadequately controlled and unstable
+* History of ileal bypass, gastric bypass, or other significant condition associated with malabsorption
+* Human immunodeficiency virus (HIV) positive
+* History of malignancy ≤5 years
+* Donated blood products or has had phlebotomy of \>300 mL within 8 weeks or intends to donate 250 mL of blood products or receive blood products within the projected duration of the study
+* Currently taking medications that are potent inhibitors or inducers of cytochrome P450 3A4 (CYP3A) (including but not limited to cyclosporine, systemic itraconazole or ketoconazole, erythromycin, clarithromycin, or telithromycin, nefazodone, protease inhibitors, carbamazepine, phenobarbital, phenytoin, rifabutin, rifampin, St John's wort) or has discontinued treatment \<3 weeks prior
+* Consumes more than 2 alcoholic drinks per day
+* Currently participating or has participated in a study with an investigational compound or device within 3 months
+* Receiving treatment with systemic corticosteroids or taking systemic anabolic agents

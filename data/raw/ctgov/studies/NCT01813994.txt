@@ -1,0 +1,28 @@
+Title: Role of Statin on the Gastric Inflammation in Patients at High Risk of Gastric Cancer
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Early Gastric Cancer or Gastric Adenoma
+Interventions: Arm1: Statin (DRUG); Arm2: Placebo (DRUG)
+Summary: Statins are commonly used as cholesterol-lowering medications and have shown effectiveness in the primary and secondary prevention of heart attack and stroke. In addition, several recent studies of human cancer cell lines and animal tumor models indicate that statins may have chemopreventive properties through the arresting of cell-cycle progression. The chemopreventive effect of statins was demonstrated in some kind of human tumors including colorectal cancer. In addition, recent one large epidemiologic study showed that statins decreased risk of gastric cancer. On the other hands, it has been well known that Helicobacter pylori infection induces gastric atrophy and intestinal metaplasia, which are premalignant lesions of gastric cancer. Progression of these premalignant lesions could be limited by H. pylori eradication. In addition, a recent double blind randomization study revealed that simvastatin as adjuvant to standard therapy improves significantly the H. pylori eradication rate. Therefore, investigators conjecture that statins may have an adjuvant role for inhibition of gastric carcinogenesis. investigators aim to evaluate the role of statins in gastric carcinogenesis by ob
+Eligibility: Inclusion Criteria:
+
+1. Age, between 20 and 70
+2. Early gastric cancer or adenoma which is achieved curative resection by endoscopic submucosal dissection
+3. ECOG performance status 0 or 1
+
+Exclusion Criteria:
+
+1. Previous subtotal gastrectomy or gastrostomy
+2. Repeated endoscopic submucosal dissection
+3. Two or more synchronous lesions
+4. Presence of gastric or duodenal ulcer except artificial ulcer due to endoscopic submucosal dissection
+5. History of drugs which are able to induce gastric ulcer including aspirin, NSAIDs, and steroid (30 days or more, within 1 year at the time of screening
+6. Indication of statins, including dyslipidemia, myocardial infarction, and heart failure.
+7. Develop of complications caused by endoscopic submucosal dissection, including bleeding, perforation, and pneumonia
+8. LDL \< 70 mg/dL
+9. Allergy to statins
+10. Pregnancy or breast milk feeding
+11. Active infection
+12. Significant cardiopulmonary disease
+13. Active hepatitis or severe hepatic dysfunction
+14. Severe renal dysfunction
+15. Severe bone marrow dysfunction

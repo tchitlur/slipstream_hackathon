@@ -1,0 +1,26 @@
+Title: A Randomized, Open-label Study on Helicobacter Pylori Eradication With Standard Triple Regimen Plus Acetazolamide
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: H. Pylori Infection
+Interventions: Acetazolamide group (DRUG); Standard regimen group (DRUG)
+Summary: Helicobacter pylori infection is associated with several gastric diseases, including gastritis, peptic and duodenal ulcers, gastric carcinoma and MALToma. In 1994, the WHO classified the organism as a type 1 carcinogen. In order to eradicate H. pylori, at least two antibiotics and a proton pump inhibitor are used as a standard therapy regimen. Emerging antibiotic resistance to metronidazole or clarithromycin, however, has made successful treatment of infection progressively more difficult, with the success rate of standard triple therapy now at 70%, well below the 80% required for treatment of infectious diseases. Therefore, new treatment regimen is required for successful H. pylori eradication.
+
+On the other hands, many in vitro studies revealed that bacterial carbonic anhydrase in H. pylori has an important role for surviving of H. pylori in the stomach. It was demonstrated that mutation of carbonic anhydrase affected survival of H. pylori. The investigators therefore expected that administration of carbonic anhydrase inhibitor (acetazolamide) with standard H. pylori eradication regimen would increase the eradication rate. Here, the investigators aim to evaluate the efficacy of s
+Eligibility: Inclusion Criteria:
+
+1. Age, between 19 and 70
+2. H. pylori infected patients
+
+Exclusion Criteria:
+
+1. Previous history of H. pylori eradication
+2. Previous history of gastrectomy
+3. Administration of PPI, H2 blocker, antibiotics, or bismuth within 1 month prior to enrollment
+4. Allergy to sulfonamide
+5. Electrolyte imbalance
+6. Adrenal insufficiency
+7. Pregnancy or breast milk feeding
+8. Active infection
+9. Severe hepatic dysfunction
+10. Severe renal dysfunction
+11. Severe bone marrow dysfunction
+12. Significant neurologic or psychologic disease

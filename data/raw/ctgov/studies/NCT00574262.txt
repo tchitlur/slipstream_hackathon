@@ -1,0 +1,17 @@
+Title: Quality Assessment in Acute Stroke Care
+Official title: Quality of Acute Stroke Care Evaluated With a Clinical Pathway on a 16 Bed Stroke Unit - a Prospective Trial
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Acute Ischemic Stroke
+Interventions: none
+Summary: The purpose of the study is to evaluate the quality of care on a 16 bed stroke unit by using a new developed clinical pathway.
+Eligibility: Inclusion Criteria:
+
+* admission to the stroke unit of the university hospital in Muenster, Germany
+* acute ischemic stroke or transient ischemic attack
+
+Exclusion Criteria:
+
+* intracerebral haemorrhage
+* neurological symptoms due to other pathology than acute ischemic stroke or transient ischemic attack
+* intraarterial thrombolysis
+* necessity of artificial ventilation

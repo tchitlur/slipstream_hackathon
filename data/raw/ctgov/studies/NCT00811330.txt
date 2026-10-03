@@ -1,0 +1,21 @@
+Title: Effects of High Dose Atorvastatin in Patients With Surgical Aortic Stenosis
+Official title: Interest of Statin in Surgical Aortic Stenosis: From Myocardial Preconditioning to Ventricular Reverse Remodeling.
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Aortic Valve Stenosis; Ventricular Hypertrophy
+Interventions: Atorvastatin 80 mg (DRUG)
+Summary: The purpose of the study is to see if statin therapy will optimize myocardial response to cardiopulmonary bypass during aortic valve replacement (AVR) for aortic valve stenosis (AVS) (Phase I) and optimize left ventricular reverse remodeling following AVR (Phase II). Preliminary evidence indicates that perioperative statin therapy reduce mortality and morbidity following cardiac surgery. Pleiotropic effects of statins may induce myocardial preconditioning and optimize myocardial and systemic responses to cardiopulmonary bypass during AVR. Furthermore statin therapy after AVR may contribute to an optimal left ventricular reverse remodeling.
+Eligibility: Inclusion Criteria:
+
+* Age \> or = 70 years and \< 80 years
+* Severe aortic valve stenosis
+* Indication for aortic valve replacement by bioprothesis
+* Ejection fraction \> or = 50%
+* Without treatment with statin- No renal failure
+* Informed consent signed
+
+Exclusion Criteria:
+
+* Ischemic heart disaese
+* Concomitant surgery to aortic valve replacement
+* Emergency surgery- Known intolerance for statin
+* Pregnant woman

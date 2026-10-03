@@ -1,0 +1,27 @@
+Title: Safety and Efficacy Study of Antioxidants for the Treatment of the Fragile X Syndrome
+Official title: Phase II Double-blind Randomized Placebo-controlled 1-way Crossover Trial to Investigate Safety and Efficacy of the Ascorbic Acid and Tocopherol for the Treatment of the Fragile X Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Fragile X Syndrome
+Interventions: Ascorbic Acid (Vitamin C) and Alpha-tocopherol (Vitamin E) (DIETARY_SUPPLEMENT); Placebo (DIETARY_SUPPLEMENT)
+Summary: The Fragile X syndrome (FXS) was first described by Dr. Martin and Dr. Bell in 1943, in families with several patients affected by sex-linked mental disability. This disorder is the most common cause of inherited mental disability. The prevalence of the Fragile X syndrome has been established at 1 in 2,500 males and 1 in 4000 females.
+
+Despite moderate to severe mental retardation, fragile X patients exhibit macroorchidism, an elongated face, long ears, connective tissue dysplasia, hyperactivity, autistic-like and stereotypical behaviours, speech delay and increased sensory sensitivity.
+
+Objective: To evaluate the effect of the combination of the antioxidant Ascorbic acid and tocopherol, as therapy of the Fragile X Syndrome in young males.
+
+Hypothesis: It is proposed that part of the pathophysiology of the central nervous system in the animal model of the fragile X syndrome may be determined by oxidative stress. In addition, Fragile X patients showed a significantly low level of ascorbic acid in plasma. The biochemical characteristics of oxidative stress may be reversed in the FMR1-KO mice, by a chronic treatment with antioxidant compounds such as tocopherol or melatonin, it may al
+Eligibility: Inclusion Criteria:
+
+* Molecular genetics diagnosis of the syndrome (number of CGG repeats in the FMR1 gene over 200).
+* Presenting characteristic symptoms of fragile X syndrome.
+* Patients older than 6 years and younger that 19 years.
+* Signed informed consent by parents and/or legal tutor prior to enrolment in the trial.
+* Both parents and patients must commit to participate for the duration of the 30 week trial.
+
+Exclusion Criteria:
+
+* The study excludes individuals with other neurological disorders not linked to the syndrome.
+* Patients that have had serious medical problems in the previous 12 months.
+* Are taking more than 100mg of vitamin E or vitamin C daily for the past 4 months.
+* Have physical problems, mental or sensory impairments that preclude the assessment of effectiveness.
+* Hypersensitivity to any component of the preparation.

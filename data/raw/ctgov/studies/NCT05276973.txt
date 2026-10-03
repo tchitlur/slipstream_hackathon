@@ -1,0 +1,25 @@
+Title: Testing the Addition of Ipatasertib to the Usual Chemotherapy Treatment (Paclitaxel and Carboplatin) for Stage III or IV Epithelial Ovarian Cancer
+Official title: Phase I/IB Safety and Pharmacodynamic Study of Neoadjuvant (NACT) Paclitaxel and Carboplatin With Ipatasertib as Initial Therapy of Ovarian Cancer PTMA 100805
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Fallopian Tube Endometrioid Adenocarcinoma; Fallopian Tube High Grade Serous Adenocarcinoma; Ovarian Endometrioid Adenocarcinoma; Ovarian High Grade Serous Adenocarcinoma; Primary Peritoneal Endometrioid Adenocarcinoma; Primary Peritoneal High Grade Serous Adenocarcinoma; Stage III Fallopian Tube Cancer AJCC v8; Stage III Ovarian Cancer AJCC v8; Stage III Primary Peritoneal Cancer AJCC v8; Stage IV Fallopian Tube Cancer AJCC v8; Stage IV Ovarian Cancer AJCC v8; Stage IV Primary Peritoneal Cancer AJCC v8; Unresectable Fallopian Tube Endometrioid Adenocarcinoma; Unresectable Fallopian Tube High Grade Serous Adenocarcinoma; Unresectable Ovarian Endometrioid Adenocarcinoma; Unresectable Ovarian High Grade Serous Adenocarcinoma; Unresectable Primary Peritoneal Endometrioid Adenocarcinoma; Unresectable Primary Peritoneal High Grade Serous Adenocarcinoma
+Interventions: Biopsy Procedure (PROCEDURE); Carboplatin (DRUG); Ipatasertib (DRUG); Paclitaxel (DRUG)
+Summary: This phase I/IB trial tests the safety, side effects, and best dose of ipatasertib in combination with paclitaxel and carboplatin in treating patients with stage III or IV epithelial ovarian cancer. Ipatasertib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Paclitaxel is in a class of medications called taxanes. It stops tumor cells from growing and dividing and may kill them. Carboplatin is in a class of medications known as platinum-containing compounds. It works in a way similar to the anticancer drug cisplatin, but may be better tolerated than cisplatin. Carboplatin works by killing, stopping or slowing the growth of tumor cells. Giving ipatasertib in combination with paclitaxel and carboplatin may lower the chance of the tumor growing or spreading for longer than the paclitaxel and carboplatin alone.
+Eligibility: Inclusion Criteria:
+
+* Pathologically proven diagnosis of ovarian cancer (ovarian cancer = fallopian tube cancer, ovarian cancer, primary peritoneal cancer). Required data element: submission of pathology report. Patients with the following histologic cell types are eligible:
+
+  * High grade serous
+  * Endometrioid adenocarcinoma, grade 3 Genomic/genetic testing results will be a data collection element if performed as part of usual care (germline genetic testing, tumor genomic testing, homologous recombination deficiency \[HRD\] testing). Genetic/genomic testing results should be uploaded if they become available anytime during conduct of the study
+* Appropriate stage for study entry defined as stage III or stage IV based on the following diagnostic workup:
+
+  * History/physical examination within 14 days prior to registration
+  * Imaging with computed tomography (CT) chest/abdomen/pelvis (C/A/P) within 28 days prior to registration
+* Patients must have evaluable disease or measurable disease defined by RECIST version (v) 1.1. Measurable disease is defined as at least one lesion that can be accurately measured in at least one dimension (longest diameter to be recorded). Each lesion must be \>= 10 mm when measured by CT or magnetic resonance imaging (MRI). Lymph nodes must be \>= 15 mm in short axis when measured by CT or MRI
+* Pre-treatment formalin-fixed, paraffin-embedded (FFPE) tumor block collected from laparoscopy (preferred) or five 18G cores by radiology/interventional radiology (acceptable) must be available for submission
+* Disease must be considered unresectable via primary debulking surgery and in need of neoadjuvant chemotherapy (NACT) prior to debulking surgery. This assessment of unresectability can be made via imaging or laparoscopic scoring
+* No prior therapy directed at ovarian cancer
+* Age \>= 18 years
+* Eastern Cooperative Oncology Group (ECOG) performance status =\< 2 within 14 days prior to registration
+* Absolute neutrophil count \>= 1,000/mcl (within 14 days prior to registration)
+* Platelets \>= 100,000/mcl (within 14 days prior to registration)
+* Creatinine =\< institutional/laboratory upper limit of normal (ULN) or creatinine clearance

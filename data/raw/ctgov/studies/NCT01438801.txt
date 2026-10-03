@@ -1,0 +1,19 @@
+Title: Predictive Value of the Insulin-like Growth Factor-1 (IGF-1) Generation Test for the Growth Response to Growth Hormone Treatment (PRED-IGF)
+Official title: Predictive Value of Baseline and Stimulated Serum IGF-1 and IGFBP-3 During a Dose-escalation IGF-1 Generation Test for the 1 Year Growth Response to Growth Hormone (GH) Therapy in Short Children With Low IGF-1 and a Normal GH Peak in a Provocation Test
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Idiopathic Short Stature
+Interventions: Nutropin [Somatropin (rDNA origin) for injection] (DRUG)
+Summary: The evaluation of a standardized diagnostic test to predict the growth response in a 1 year trial with Growth Hormone (GH) treatment (carried out in the context of regular patient care) in non GH deficient short children with low serum insulin-like growth factor-1 (IGF-1).
+Eligibility: Inclusion Criteria:
+
+* Age 2.0 - 9.0 years for females, 2.0 - 10.0 yrs for males.
+* Prepubertal stage (Tanner 1 for breast (B1) in females, or Tanner 1 for genitals (G1) for males).
+* Bone age \< 10 'years' (males) or \< 9 'years' (females) according to Greulich and Pyle. The bone age will be read by the pediatric endocrinologist responsible for the pre-study screening visit.
+* Height SDS \< -2.5 for ethnically adequate references. For children of Dutch or Western European origin the 1997 nation-wide references for Dutch children will be used. For children of Moroccan or Turkish origin, the respective reference charts will be used. For children of other ethnicities, the 1977 North American (NCHS/WHO) reference will be used, as these charts have been accepted by WHO as world-wide standard from the age of 5 years.
+
+Exclusion Criteria:
+
+* Has a history of hypersensitivity to growth hormone or phenol (conservative added to GH in NutropinAq), or drugs with a similar chemical structure.
+* Has abnormal baseline findings, any other medical condition(s) or laboratory findings that, in the opinion of the Investigator, might jeopardise the subject's safety or decrease the chance of obtaining satisfactory data needed to achieve the objective(s) of the study.
+* Has a birth weight and/or length below -2 SDS for Swedish reference charts. Patients will not be excluded due to an unknown birth weight or length.
+* Has a known cause of short stature, or any significant concomitant disease that is likely to interfere with growth or with the study schedule/objectives, or is a known contraindication to GH treatment.

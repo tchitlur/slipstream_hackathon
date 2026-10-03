@@ -1,0 +1,28 @@
+Title: Rosuvastatin in Treating Patients With Stage I or Stage II Colon Cancer That Was Removed By Surgery
+Official title: Statin Polyp Prevention Trial in Patients With Resected Colon Cancer
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Colorectal Cancer; Precancerous Condition
+Interventions: rosuvastatin (DRUG); placebo (OTHER)
+Summary: RATIONALE: Rosuvastatin may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving rosuvastatin after surgery may kill any tumor cells that remain after surgery. It may also keep polyps from forming or colon cancer from coming back. It is not yet known whether rosuvastatin is more effective than a placebo in treating colon cancer that was removed by surgery.
+
+PURPOSE: This randomized phase III trial is studying rosuvastatin to see how well it works compared with placebo in treating patients with stage I or stage II colon cancer that was removed by surgery.
+Eligibility: Inclusion Criteria
+
+* Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.
+* Patients must have the ability to swallow oral medication.
+* Patients must have resected adenocarcinoma of the colon staged as American Joint Committee on Cancer (AJCC) Stage 0, I, II, or III.
+* Patients must have had surgical resection of the colon adenocarcinoma with curative intent within 1 year prior to randomization. (Laparoscopically-assisted colectomy is permitted.)
+* Patients must have completed any adjuvant therapy prior to randomization.
+* Patients who are taking cardioprotective low-dose aspirin at study entry must not have clinically significant toxicity, as determined by the investigator, that precludes continuation of aspirin, and the patient must be willing to continue aspirin therapy (81 mg or 325 mg) throughout study therapy.
+* Colonoscopy requirements within 180 days prior to randomization:
+* The patient must have either undergone a preoperative or postoperative documented colonoscopy to the cecum (or small bowel anastomosis) with adequate bowel preparation.
+* All observed polyps must have been removed. (Polyps can be removed during colonoscopy or surgery performed prior to randomization.)
+* Postoperative serum creatinine performed within 90 days prior to randomization must be less than or equal to 1.5 x upper limit of normal (ULN) for the lab.
+* The following criteria for evidence of adequate hepatic function based on postoperative testing performed within 90 days prior to randomization must be met: aspartate aminotransferase (AST) or alanine aminotransferase (ALT) less than or equal to 3.0 x ULN for the lab, and Total bilirubin less than or equal to 1.5 x ULN for the lab
+
+Exclusion Criteria
+
+* Tumor with the distal border located less than 12 cm from the anal verge.
+* Total colectomy or total proctocolectomy.
+* Classic Familial Adenomatous Polyposis, Attenuated Familial Adenomatous Polyposis (i.e., 20 or more adenomas, either synchronous or metachronous), or Hereditary Nonpolyposis Colorectal Cancer (Lynch Syndrome).
+* Malabsorption syndrome, ulcerative colitis, inflammatory bowel disease, resection of the stomach or small bow

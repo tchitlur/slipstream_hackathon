@@ -1,0 +1,21 @@
+Title: Use of Eye Tracking to Study Social Perception Abnormalities in Children With Angelman Syndrome
+Official title: Use of Eye Tracking to Study Social Perception Abnormalities in Children With Angelman Syndrome
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Angelman Syndrome
+Interventions: Eye tracking (OTHER); Data collection from patients' medical files (OTHER); questionnaires (OTHER)
+Summary: Angelman syndrome (AS) is a rare neurogenetic disorder that affects approximately 1 in 15,000 children - approximately 500,000 people worldwide. It is a major neurodevelopmental disorder characterized by severe developmental delay with significant intellectual disability, lack of oral language, motor, balance, and sensory impairments.
+
+While basic research and clinical trials are progressing, the scientific community is still searching for key biomarkers to assess significant improvements in individuals participating in clinical trials.
+
+Eye tracking has been widely used in the diagnosis of social perception abnormalities in children with autism spectrum disorder, as has already been the case for other rare neurodevelopmental diseases. However, few studies have highlighted the usefulness of eye tracking as a diagnostic tool for social behavioral disorders in individuals with Angelman syndrome. Given the prevalence of autistic-like symptoms in patients with AS, if eye-tracking can identify abnormalities in social perception in children with Angelman syndrome, these measurements could become a biomarker for therapeutic studies in these patients.
+Eligibility: Inclusion Criteria:
+
+* 40 children with Angelman syndrome diagnosed by genetic assessment or EEG.
+* 20 healthy volunteer control children with no known genetic or psychiatric neurological pathology.
+* Aged between 3 - 17 years.
+* Male or female.
+* Holders of parental authority and minors informed and not opposed to participation in the research.
+
+Exclusion Criteria:
+
+* Refusal to participate in the study.

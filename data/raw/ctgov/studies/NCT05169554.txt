@@ -1,0 +1,31 @@
+Title: Beta-Lactam Containing Regimen for the Shortening of Buruli Ulcer Disease Therapy
+Official title: Beta-Lactam Containing Regimen for the Shortening of Buruli Ulcer Disease Therapy: Comparison of 8 Weeks Standard Therapy (Rifampicin Plus Clarithromycin) vs. 4 Weeks Standard Plus Amoxicillin/Clavulanate Therapy [RC8 vs. RCA4]
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Buruli Ulcer
+Interventions: Standard [RC8]: rifampicin plus clarithromycin (RC) therapy for 8 weeks. (DRUG); Investigational [RCA4]: standard (RC) plus amoxicillin/clavulanate (A) for 4 weeks. (DRUG)
+Summary: Buruli ulcer (BU) is a skin Neglected Tropical Disease (NTD) that is caused by Mycobacterium ulcerans. It affects skin, soft tissues and bones causing long-term morbidity, stigma and disability. The greatest burden falls on children in sub-Saharan Africa. Treating BU requires 8-weeks with daily rifampicin and clarithromycin, wound care, and sometimes tissue grafting and surgery. Healing can take up to one year. Compliance is challenging due to socioeconomic determinants and may pose an unbearable financial burden to the household.
+
+Recent studies led by members of this Consortium demonstrated that beta-lactams combined with rifampicin and clarithromycin are synergistic against M. ulcerans in vitro. Amoxicillin/clavulanate is oral, suitable for treatment in adults and children, and readily available with an established clinical pedigree. Its inclusion in a triple oral BU therapy has the potential of improving healing and shortening BU therapy.
+
+The investigators propose a single blinded, randomized, controlled open label non-inferiority phase II, multi-centre trial in Benin with participants stratified according to BU category lesions and randomized in two oral regimens: (i) Standar
+Eligibility: Inclusion Criteria:
+
+All patients (both genders) with a new very likely or likely (WHO scoring criteria) clinical diagnosis of BU (all categories: I, II, III) and normal electrocardiogram (ECG) at baseline giving informed consent will be included in the study, as agreed by study site treatment team led by the lead clinicians.
+
+Exclusion Criteria:
+
+* Children \< 5 years and adults \>70 years.
+* Children in foster care.
+* Patients weighing less than 11 kilograms.
+* Pregnancy positive (urine test: beta-HCG positive).
+* Previous treatment of Buruli ulcer, tuberculosis or leprosy with at least one of the study drugs.
+* Patients with diagnose leprosy or tuberculosis disease.
+* Hypersensitivity to at least one of the study drugs or to any of the excipients.
+* History of a severe immediate hypersensitivity reaction (e.g. anaphylaxis) to another beta-lactam agent (e.g. a cephalosporin, carbapenem or monobactam).
+* History of jaundice/hepatic impairment due to amoxicillin/clavulanic acid or rifampicin.
+* Patients with history of treatment with macrolide or quinolone antibiotics, anti-tuberculosis medication, or immuno-modulatory drugs including corticosteroids within one month.
+* Patients currently receiving treatment with any drugs likely to interact with the study medications, i.e. anticoagulants, cyclosporine, phenytoin or phenobarbitone. Users of oral contraceptives should be notified that such contraceptive is less reliable if taken with rifampicin; additional (mechanical) contraceptive methods will be discussed with the study participant (Appendix 5).
+* Patients with HIV co-infection.
+* Patients with QTc prolongation \>450 ms on ECG or on other medication known to prolong the QTc interval. In this case, if suspected of BU disease, patients will be offered 8-weeks rifampicin plus streptomycin therapy.
+* Patients unable to take oral medication or having gastrointestinal disease likely to interfere with drug absorption.
+* Patients with history or having current clinical signs of ascites, jaundice, myasthenia gravis, renal dysfunction (known or suspected), diabetes mellitus, and severe immune compromise, or evidence of tuberculosis, or leprosy; terminal illness (e.g., m

@@ -1,0 +1,43 @@
+Title: Neoadjuvant Letrozole in Postmenopausal Women With Hormone Receptor-Positive, HER2-Negative, Node Positive, Early-Stage Breast Cancer.
+Official title: Neo-Adjuvant Endocrine Therapy in Post-Menopausal Hormone Receptor Positive HER 2 Neu Negative Node Positive Early-Stage Breast Cancer Patients With One Year of Letrozole.
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Hormone Receptor-Positive, HER2-Negative, Node Positive Breast Cancer
+Interventions: Letrozole (DRUG)
+Summary: The goal of this clinical trial is to learn whether letrozole, a hormone therapy drug, is effective in treating early-stage, hormone receptor-positive, HER2-negative breast cancer that has spread to nearby lymph nodes in postmenopausal women. The study will also evaluate the safety of taking letrozole for one year before surgery.
+
+The main questions this study aims to answer are:
+
+Can one year of letrozole eliminate cancer from the underarm (axillary) lymph nodes?
+
+Can treatment with letrozole reduce the need for extensive lymph node surgery?
+
+How safe and tolerable is long-term letrozole treatment?
+
+This is a single-arm study, meaning all participants will receive letrozole. There is no placebo or comparison group.
+
+Participants will:
+
+Take letrozole 2.5 mg by mouth once daily for one year
+
+Attend regular clinic visits for physical exams, blood tests, and imaging studies
+
+Undergo surgery after completing treatment
+
+Be followed for up to two years to monitor cancer recurrence and survival
+Eligibility: Inclusion Criteria:
+
+1. Age: Patients aged 18 to 69 years.
+2. Menopausal Status: All patients must be postmenopausal, confirmed by serum estradiol levels or other clinical criteria.
+3. Diagnosis: Histologically confirmed infiltrating ductal carcinoma of any grade.
+4. Tumor Size: Primary tumor (T) category of T1 or T2 according to AJCC 8th edition, as measured by ultrasonography (USG) and mammography.
+5. Node Involvement: N1 disease documented by clinical examination and USG, with histopathology confirmed by fine-needle aspiration cytology (FNAC) or core needle biopsy.
+6. Hormone Receptor Status: Patients must be estrogen receptor (ER) positive and progesterone receptor (PR) positive/negative, with HER2 status negative.
+
+Exclusion Criteria:
+
+1. Age: Patients aged under 18 or over 69 years.
+2. Tumor Size: Patients with a primary tumor larger than T2 \>5cm or with N2 disease.
+3. Histological Type: Infiltrating lobular carcinoma or other non-invasive breast cancer types.
+4. Prior Treatments: Previous treatment with neoadjuvant endocrine therapy (NET) or neoadjuvant chemotherapy (NACT).
+5. Comorbidities: Significant comorbidities that preclude administration of anesthesia or compromise patient safety.
+6. Disease Characteristics: Patients with multicentric or multifocal disease, as defined by imaging or histopathological findings.

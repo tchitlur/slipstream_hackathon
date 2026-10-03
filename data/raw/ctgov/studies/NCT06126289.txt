@@ -1,0 +1,18 @@
+Title: CSF Single-cell Sequencing and Proteomics of Chronic Postsurgical Pain in Patients With Lower Limb Fractures
+Official title: Cerebrospinal Fluid Single-cell Sequencing and Proteomics Analysis of the Chronic Postsurgical Pain in Patients Following Open Reduction Internal Fixation of Lower Limb Fractures
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Chronic Postsurgical Pain
+Interventions: none
+Summary: The purpose of this study is to assess the proteomics and transcriptomic differences between pain-free control subjects and patients with chronic postoperative pain through single-cell sequencing technology.
+Eligibility: Inclusion Criteria:
+
+1. ASA physical status 1 to 3 (males and females)
+2. Undergone open reduction and internal fixation of the lower limbs and plan to take out the internal fixation under spinal anesthesia
+
+Exclusion Criteria:
+
+1. Absence of written consent
+2. Contraindication to regional anaesthesia
+3. Known dementia at time of operation
+4. History or opioid abuse
+5. Unexpected conversion of general anesthesia or surgery is not carried out

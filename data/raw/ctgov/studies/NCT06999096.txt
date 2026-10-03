@@ -1,0 +1,27 @@
+Title: Long-read Genome Sequencing for the Molecular Diagnosis of Dystonia
+Official title: Evaluation of the Value of Long-read Genome Sequencing for the Molecular Diagnosis of Dystonia: a Prospective Multicenter Study
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Dystonia; Movement Disorders; Combined Dystonia; Complex Dystonia
+Interventions: Long-read whole genome sequencing (DIAGNOSTIC_TEST)
+Summary: Dystonia is a motor disorder caused by involuntary, intermittent, or sustained muscle contractions, leading to abnormal movements or postures. It can affect any body region and often results in significant functional disability and healthcare burden. Although its familial nature was recognized early on, the advent of high-throughput DNA sequencing has dramatically increased the identification of dystonia-associated genes. Dystonia now encompasses all modes of inheritance-autosomal dominant (e.g., TOR1A, KMT2B), autosomal recessive, X-linked, and mitochondrial-and over 100 genes have been implicated. Many forms involve structural variants (SVs) or copy number variations (CNVs), which are challenging to detect using standard short-read sequencing (srWGS).
+
+Molecular diagnosis is essential, ending the diagnostic odyssey and enabling genetic counseling, prognosis, reproductive planning, and-in some cases-targeted therapies. For instance, GNAO1-related dystonia may respond to deep brain stimulation, while dopa-responsive dystonia benefits from levodopa.
+
+Despite advances, srWGS has key limitations, especially for detecting repeat expansions, SVs, and phasing alleles. This likely explain
+Eligibility: Inclusion criteria - Index case:
+
+* Index case affected by familial dystonia (≥1 first-degree relative affected) and/or sporadic early-onset dystonia (symptom onset before age 50), meeting the criteria of the PFMG-2025 program.
+* Index case who has undergone short-read genome sequencing, which did not lead to a molecular diagnosis.
+* Ability to understand and sign informed consent by the index case and/or their parents or legal guardians for patients under 18 years of age.
+* Availability of a blood sample from the index case and at least two relatives, either affected or unaffected.
+
+Inclusion criteria - Relatives:
+
+* Symptomatic or asymptomatic relative of an index case, who has also undergone short-read genome sequencing without a conclusive molecular diagnosis.
+* Ability to understand and sign informed consent.
+
+Exclusion criteria:
+
+* Index case or relatives who are not affiliated with or not beneficiaries of a social security scheme.
+* Index case and their parents presenting with a condition that, in the opinion of the investigator, would contraindicate participation in the study.
+* Suspected non-genetic etiology (e.g., perinatal hypoxic-ischemic injury, kernicterus, history of severe head trauma or central nervous system infection).

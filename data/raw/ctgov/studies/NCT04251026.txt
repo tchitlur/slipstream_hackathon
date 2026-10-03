@@ -1,0 +1,27 @@
+Title: A Study of Tividenofusp Alfa (DNL310) in Pediatric Participants With Hunter Syndrome
+Official title: A Phase 1/2, Multicenter, Open-Label Study to Determine the Safety, Pharmacokinetics, and Pharmacodynamics of DNL310 in Pediatric Participants With Hunter Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Mucopolysaccharidosis II
+Interventions: tividenofusp alfa (DRUG)
+Summary: This is a multicenter, multiregional, open-label study to assess the safety, pharmacokinetics (PK), and pharmacodynamics (PD) of tividenofusp alfa (DNL310), an investigational central nervous system (CNS)-penetrant enzyme replacement therapy (ERT), designed to treat both the peripheral and CNS manifestations of Mucopolysaccharidosis type II (MPS II; Hunter syndrome).
+
+Participants, whose physicians feel they are deriving benefit, will have the opportunity to be reconsented into a safety extension and then an open-label extension for continued evaluation.
+Eligibility: Key Inclusion Criteria:
+
+* Confirmed diagnosis of MPS II
+* Cohort A: Participants aged ≥5 to ≤10 years with neuronopathic MPS II
+* Cohort B: Participants aged ≥1 to ≤18 years with non-neuronopathic MPS II, neuronopathic MPS II, or unknown phenotype
+* Cohort C: Participants aged \<4 years with neuronopathic MPS II (this cohort can include participants ≥4 to ≤18 years of age if participant is a blood relative of a participant \<4 years of age)
+* Cohort D: Participants aged ≤18 years with non-neuronopathic MPS II or neuronopathic MPS II with preexisting hepatomegaly who have never taken standard-of-care ERT
+* Cohort E: neuronopathic MPS II participants aged ≥6 years at screening, non-neuronopathic MPS II participants \<6 or ≥17 years at screening, and neuronopathic MPS II participants ≥1 to ≤18 years at screening with a history of prior haematopoietic stem cell transplantation or gene therapy who have completed at least 48 weeks in Study DNLI-E-0001
+* For participants receiving intravenous iduronate 2-sulfatase (IDS) ERT, tolerated a minimum of 4 months of therapy during the period immediately prior to screening.
+
+Key Exclusion Criteria:
+
+* Unstable or poorly controlled medical condition(s) or significant medical or psychological comorbidity or comorbidities that, in the opinion of the investigator, would interfere with safe participation in the trial or interpretation of study assessments
+* Use of any CNS-targeted MPS II ERT within 3 months before study start for participants aged ≥5 years, and within 6 months before study start for participants aged \<5 years
+* Use of IDS gene therapy or stem cell therapy at any time (except for participants in Cohort E)
+* Clinically significant thrombocytopenia, other clinically significant coagulation abnormality, or significant active bleeding, or required treatment with an anticoagulant or more than two antiplatelet agents
+* Contraindication for lumbar punctures
+* Have a clinically significant history of stroke, status epilepticus, head trauma with loss of consciousness, or any CNS disease that is not MPS II-related within 1 year of screening
+* Have had a ventriculoperitoneal (VP) shunt placed, or any other brain surgery, or 

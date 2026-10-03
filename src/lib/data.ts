@@ -39,7 +39,7 @@ type Store = {
   orgs: Record<string, PatientOrg>;
   grants: Record<string, Grant>;
   investigators: Record<string, Investigator>;
-  transfers: { cutoffs: { high: number; medium: number }; pairs: Record<string, TransferPair> };
+  transfers: { cutoffs: { high: number; medium: number }; focalIds: string[]; pairCount: number };
   manifest: BuildManifest | null;
   demo: DemoCandidate[];
   phenotypes: PhenotypesFile | null;
@@ -62,7 +62,7 @@ export function getStore(): Store {
     orgs: readJson<{ orgs: Record<string, PatientOrg> }>("orgs.json", { orgs: {} }).orgs,
     grants: readJson<{ grants: Record<string, Grant> }>("funding.json", { grants: {} }).grants,
     investigators: readJson<{ investigators: Record<string, Investigator> }>("investigators.json", { investigators: {} }).investigators,
-    transfers: readJson("transfers.json", { cutoffs: { high: 1, medium: 1 }, pairs: {} }),
+    transfers: readJson("transfers.json", { cutoffs: { high: 1, medium: 1 }, focalIds: [], pairCount: 0 }),
     manifest: readJson<BuildManifest | null>("build-manifest.json", null),
     demo: readJson<DemoCandidate[]>("demo_candidates.json", []),
     phenotypes: readJson<PhenotypesFile | null>("phenotypes.json", null),
@@ -124,8 +124,17 @@ export function getInvestigatorsFor(conditionIds: string[]): Investigator[] {
   return Object.values(getStore().investigators).filter((i) => i.conditionIds.some((c) => set.has(c)));
 }
 
+const transferCache = new Map<string, Record<string, TransferPair>>();
+export function getTransferPairsFor(focalId: string): Record<string, TransferPair> {
+  const hit = transferCache.get(focalId);
+  if (hit && process.env.NODE_ENV === "production") return hit;
+  const p = path.join(DERIVED, "transfers", `${slugOf(focalId)}.json`);
+  const data = fs.existsSync(p) ? (JSON.parse(fs.readFileSync(p, "utf8")) as { pairs: Record<string, TransferPair> }).pairs : {};
+  transferCache.set(focalId, data);
+  return data;
+}
 export function getTransferPair(focalId: string, neighborId: string): TransferPair | undefined {
-  return getStore().transfers.pairs[`${focalId}__${neighborId}`];
+  return getTransferPairsFor(focalId)[`${focalId}__${neighborId}`];
 }
 
 export function getBrief(focalId: string, neighborId: string): Brief | null {

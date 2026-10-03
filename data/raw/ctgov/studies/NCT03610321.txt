@@ -1,0 +1,21 @@
+Title: Lipid-lowering Effects of Gefarnate in Statin-treated Coronary Heart Disease Patients With Residual Hypertriglyceridemia
+Official title: Lipid-lowering Effects of Gefarnate in Statin-treated Coronary Heart Disease Patients With Residual Hypertriglyceridemia
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: Coronary Artery Disease
+Interventions: Gefarnate (DRUG); Statin (DRUG)
+Summary: Dyslipidemia is an independent risk factor for cardiovascular events. Statins have become the cornerstone for the prevention and treatment of atherosclerotic vascular diseases. However, after the comprehensive control of the traditional risk factors, including unhealthy lifestyle, hypercholesterolemia, hypertension, hyperglycemia and obesity, there is still a high risk of residual cardiovascular disease in patients with dyslipidemia. Triglyceride elevation is the most common type of dyslipidemia and constitutes an important component of cardiovascular residual risk.
+
+The geraniol has a variety of pharmacological effects, such as anti-inflammatory, antioxidant, regulating cell apoptosis. Recent studies have confirmed that geraniol plays an important role in regulating glucose and lipid metabolism, and may have a synergistic role with statins. Gefarnate Tablets is a kind of anti-ulcer and gastritis treatment. It can increase the defense ability of gastric mucosa by improving the prostaglandin level and the concentration of amino hexose in the gastric mucosa. Geraniol is the main components of Gefarnate Tablets. In the previous study, the investigators found that geraniol induced auto
+Eligibility: Inclusion Criteria:
+
+* Coronary artery disease
+* Treatment with statins for more than 1 month
+* Plasma triglyceride level more than 1.7mmol/L
+
+Exclusion Criteria:
+
+* Atherosclerotic cardiovascular disease (ASCVD) patients with high risk
+* Patients with active liver disease or unexplained elevated levels of aminotransferase
+* Patients with prostatic hypertrophy or those with prostaglandin drugs such as glaucoma
+* Creatinine clearance \< 30ml/min
+* an allergy to any component of Gefarnate Tablets or statin

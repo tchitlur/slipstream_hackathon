@@ -1,0 +1,22 @@
+Title: Maintenance Chemotherapy or Observation Following Induction Chemotherapy and Radiation Therapy in Treating Patients With Newly Diagnosed Ependymoma
+Official title: Phase III Randomized Trial of Post-Radiation Chemotherapy in Patients With Newly Diagnosed Ependymoma Ages 1 to 21 Years
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Anaplastic Ependymoma; Brain Ependymoma; Cellular Ependymoma; Clear Cell Ependymoma; Ependymoma; Papillary Ependymoma
+Interventions: 3-Dimensional Conformal Radiation Therapy (RADIATION); Carboplatin (DRUG); Cisplatin (DRUG); Clinical Observation (OTHER); Cyclophosphamide (DRUG); Etoposide (DRUG); Filgrastim (BIOLOGICAL); Laboratory Biomarker Analysis (OTHER); Mesna (DRUG); Vincristine (DRUG)
+Summary: The primary aim of this randomized phase III trial was to study whether the addition of maintenance chemotherapy delivered after surgical resection and focal radiation would be better than surgery and focal radiation alone. The trial also studied if patients who received induction chemotherapy and then either achieved a complete response or went on to have a complete resection would also benefit from maintenance chemotherapy. Children ages 1-21 years with newly diagnosed intracranial ependymoma were included. There were 2 arms that were not randomized. One arm studied patients with Grade II tumors located in the supratentorial compartment that were completely resected. One arm studied patients with residual tumor and those patients all received maintenance chemotherapy after focal radiation. Chemotherapy drugs, such as vincristine sulfate, carboplatin, cyclophosphamide, etoposide, and cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving more than one drug (combination chemotherapy) may kill more tumor cells. Radiation therapy uses high-energy x-rays to kill tumor 
+Eligibility: Inclusion Criteria:
+
+* Patients must be newly diagnosed with histologically confirmed intracranial ependymoma; patients with classic ependymoma (WHO II) or anaplastic ependymoma (WHO III) are eligible, as are various subtypes described as clear cell, papillary, cellular or a combination of the above
+* There is no minimum performance level; children with ependymoma may suffer neurologic sequelae as a result of their tumor or surgical measures taken to establish a diagnosis and resect the tumor; in the majority of cases, there is neurologic recovery; neurologic recovery is not likely to be impeded by protocol therapy
+* REGULATORY: All patients and/or their parents or legal guardians must sign a written informed consent
+* REGULATORY: All institutional, Food and Drug Administration (FDA), and National Cancer Institute (NCI) requirements for human studies must be met
+
+Exclusion Criteria:
+
+* Patients with evidence of metastatic disease will be excluded; any evidence of non-contiguous spread beyond the primary site as determined by pre or post-operative magnetic resonance (MR) imaging of brain, pre or post-operative MR imaging of the spine, and post-operative cerebrospinal fluid (CSF) cytology obtained from the lumbar CSF space (the requirement for lumbar CSF examination may be waived if deemed to be medically contraindicated); CSF cytology from a ventriculostomy or permanent ventriculoperitoneal (VP) shunt that reveals the presence of tumor cells is indicative of metastatic disease
+* Patients with a diagnosis of spinal cord ependymoma, myxopapillary ependymoma, subependymoma, ependymoblastoma, or mixed glioma are NOT eligible
+* No prior treatment other than surgical intervention and corticosteroids; patients are allowed to have had more than one attempt at resection prior to enrollment
+* Pregnant female patients are not eligible for this study
+* Post-menarchal females may not participate unless a pregnancy test with a negative result has been obtained
+* Males and females of reproductive potential may not participate unless they have agreed to use an effective contraceptive method
+* Lactating females may not participate unless they have agreed not to breastfeed a child

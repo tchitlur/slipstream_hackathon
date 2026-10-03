@@ -1,0 +1,40 @@
+Title: Evaluation of the Efficacy and Safety of Entelon Tab. 150mg in Patients With Osteoarthritis of Knee
+Official title: For 12 Weeks, the Multi-center, Randomized, Double-blinded, Clinical Study to Evaluate the Efficacy and Safety of Entelon Tab. 150mg Compared With Celebrex Capsule in Patients With Osteoarthritis of Knee (Phase III)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Knee Osteoarthritis
+Interventions: Enteron tab. 150mg(vitis vinifera extract 150mg) : twice daily for 12 weeks (DRUG); Celebrex cap. (celecoxib 200mg) : once daily, for 12 weeks (DRUG); Placebo (DRUG)
+Summary: This clinical trial is planned to prove Entelon tab. arm is not inferior to Celebrex cap. arm in terms of the efficacy and safety through the change of K-WOMAC's total score sum in patients with osteoarthritis of knee.
+Eligibility: Inclusion Criteria:
+
+1. both gender,35 years ≤ age ≤ 75 years
+2. patients with a diagnosis of OA(osteoarthritis) of the knee within 3 months prior to study participation, as determined by the American College of Rheumatology clinical and radiographic criteria as follows.
+
+   1. knee arthralgia
+   2. more than one case among
+
+      * 50 years or over
+
+        * morning stiffness less than 30 min
+
+          * friction sound
+   3. osteophyte in radiography
+3. Kellgren and Lawrence Scale Grade II\~III
+4. total sum of K-WOMAC Scale more than 30
+5. negative results in pregnancy test of urine in screening period
+6. if women in childbearing age, medically reliable contraception or menopause
+7. patients who give written consent of agreement to voluntarily participate in the clinical study
+8. patients who can read and understand written instructions
+
+Exclusion Criteria:
+
+1. patients whose total sum of K-WOMAC in visit 2 is less than that in visit 1
+2. fibromyalgic, anserine bursitis, infectious arthritis, rheumatoid arthritis, ankylosing spondylitis, gout or pseudogout
+3. knee OA with secondary causes including major dysplastic or congenital malformation, ochronosis, acromegaly, Hemochromatosis, Wilson's disease or primary osteochondromatosis
+4. anatomical malformation, disease of vertebra or other lower extremities or other disease of orthopedics which can disturb the evaluation of the target joint
+5. wound, inflammation or avascular necrosis of the target joint or arthroscopy within 6 months prior to study participation
+6. patients with administration of injectable hyaluronic acid to the target joint within 6 months prior to study participation
+7. severe ischaemic heart diseases, peripheral artery disease and/or cerebrovascular disease, congestive heart failure, active bronchial asthma
+8. medical history of malignant tumor
+9. active peptic ulcer, gastrointestinal tract bleeding or inflammatory bowel disease
+10. hypersensitivity with aspirin, celecoxib, corticosteroid, acetaminophen, sulfonamide derivatives or vitis vinifera or intolerance with fructose, glucose or galactose
+11. continuously(1 week or more) oral or intraarticular administration of corticosteroids within 

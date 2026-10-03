@@ -1,0 +1,20 @@
+Title: Targeting GLUT1 to Control Autoimmunity in Type 1 Diabetes
+Official title: Targeting GLUT1 to Control Autoimmunity in Type 1 Diabetes
+Status: NOT_YET_RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Type 1 Diabetes; Autoimmunity
+Interventions: none
+Summary: Type 1 Diabetes is an autoimmune disease in which immune cells contribute to the destruction of insulin-producing pancreatic beta cells. This study investigates whether targeting glucose transporter 1 (GLUT1), a transporter involved in immune cell metabolism, may help modulate autoimmune responses associated with Type 1 Diabetes.
+
+The study uses previously collected and biobanked peripheral blood mononuclear cells (PBMCs) from individuals with Type 1 Diabetes. No additional visits, blood draws, or study-specific procedures will be performed on human participants.
+Eligibility: Inclusion Criteria:
+
+* PBMC samples obtained from adult subjects aged 18 years or older at the time of sample collection.
+* Documented diagnosis of Type 1 Diabetes.
+* PBMC samples already collected and stored in the institutional Biobank of IRCCS Ospedale San Raffaele.
+* PBMC samples obtained from subjects who had previously provided written informed consent for the collection, storage, and research use of biological material and associated data.
+
+Exclusion Criteria:
+
+* PBMC samples obtained from subjects younger than 18 years at the time of sample collection.
+* Presence of relevant concomitant diseases or clinical conditions that, in the Investigator's judgment and based on available records, may interfere with the interpretation of immunological analyses or with the study objectives.
+* Insufficient sample availability, inadequate sample quality, or missing essential sample-related information preventing use of the PBMC sample for the planned research activities.

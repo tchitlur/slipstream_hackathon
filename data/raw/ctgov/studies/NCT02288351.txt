@@ -1,0 +1,21 @@
+Title: Intestinal Remodeling And Reprogramming of Glucose Metabolism Following Laparoscopic Roux-en-Y Gastric Bypass
+Official title: Intestinal Remodeling And Reprogramming of Glucose Metabolism Following Laparoscopic Roux-en-Y Gastric Bypass
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Type 2 Diabetes; Obesity
+Interventions: Mix Nutrient Meal (OTHER); labs (OTHER); Biopsy (OTHER); Second Mix Nutrient Meal (OTHER); Second biopsy (OTHER); PET/CT (DEVICE)
+Summary: The purpose of this study is to investigate small intestinal remodeling and reprogramming of glucose metabolism in patients with Type 2 Diabetes Mellitus (T2DM) who undergo laparoscopic Roux-en-Y Gastric Bypass (RYGB). Our specific goal is to determine if the gene and protein expression levels of GLUT-1 are up regulated in the Roux limb and whether this is a major mechanism for the remission of T2DM following RYGB.
+
+The two aims of the study are: 1) to demonstrate that the basement membrane glucose transporter 1 (GLUT-1) is upregulated in the Roux limb following RYGB, and 2) to demonstrate that the upregulation of GLUT-1 is a major mechanism for the improvement in glycemic control observed in T2DM patients undergoing RYGB.
+Eligibility: Inclusion Criteria:
+
+1. Diagnosis of Type 2 Diabetes Mellitus
+2. Age between 18 and 65 years of age
+3. BMI \> 35kg/m²
+4. Diagnosis of gastritis, esophagitis, ulcer, or other mucosal abnormality discovered at routine preoperative upper endoscopy, requiring follow-up endoscopy in the post-operative period.
+
+Exclusion Criteria:
+
+1. Patients undergoing revision from another bariatric procedure to RYGB
+2. Presence of a seizure disorder (GLUT-1 deficiency syndrome)
+3. Use of Tricyclic antidepressants
+4. Use of tobacco products

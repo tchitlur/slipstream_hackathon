@@ -1,0 +1,25 @@
+Title: 4-Aminopyridine in Episodic Ataxia Type 2
+Official title: Phase 2 Study of 4-Aminopyridine for the Treatment of Episodic Ataxia Type 2
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Episodic Ataxia Type 2
+Interventions: 4-Aminopyridine (DRUG); Placebo (DRUG)
+Summary: Episodic ataxia type 2 (EA2) is a rare familial neurological condition characterized by debilitating episodes of vertigo and imbalance. Since the serendipitous discovery of dramatic response of EA2 to acetazolamide, acetazolamide has been the first-line treatment for EA2. Yet, for those patients who do not respond to or cannot tolerate acetazolamide, there is no alternative treatment. The purpose of this randomized trial is to test whether 4-aminopyridine may reduce the ataxia episodes in EA2 as an alternative to acetazolamide. Funding Source - FDA OOPD
+Eligibility: Inclusion Criteria:
+
+Patients will be included if they:
+
+* Have EA2 genetically confirmed to harbor mutations in CACNA1A
+* Are ≥ 18 years of age
+* Are not taking acetazolamide (because of intolerance, poor response, or allergy)
+* Are able to maintain a daily log of ataxia episode(s) and report daily by using an Interactive Voice Recording System (IVR) throughout the study
+* Experience ≥ 3 ataxia episodes per month during the two-month screening period to qualify for randomization
+
+Exclusion Criteria:
+
+Patients will be excluded if they:
+
+* Have seizures or a history of seizures
+* Have first-degree relatives with EA2 and seizures
+* Have renal disease with impaired function (Creatinine clearance CrCl≤50ml/min)
+* Are pregnant or breast feeding (women of childbearing age will be tested for pregnancy and must be using birth control)
+* Are unable to comply with the study requirement

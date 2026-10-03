@@ -1,0 +1,19 @@
+Title: 18F-FDG PET/MR Imaging for Differentiation of Serous From Non-Serous Pancreatic Cystic Neoplasms: A Pilot Study
+Official title: 18F-FDG PET/MR Imaging for Differentiation of Serous From Non-Serous Pancreatic Cystic Neoplasms: A Pilot Study
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Pancreatic Cystic Neoplasms
+Interventions: PET scan (DIAGNOSTIC_TEST)
+Summary: The overlap of morphological imaging features results in many incidentally detected pancreatic cystic neoplasms going undiagnosed, including benign serous cystic neoplasms (SCN) and potentially malignant mucinous lesions (nonserous). The diagnostic ambiguity then lead to invasive procedures such as endoscopic ultrasonography (EUS), unwarranted surgical resection on SCN lesions or the need for long term periodic surveillance with delayed diagnosis of potentially malignant nonserous lesions. Therefore, precise differentiation of SCN from nonserous cystic neoplasms is highly desirable.
+
+The 18F-fluorodeoxyglucose (FDG) accumulation in tumor cells, which is induced by high expression of glucose transporter proteins (mainly include GLUT-1 and -3), can be used to discriminate malignant and benign pancreatic cystic tumors in positron emission tomography (PET) imaging. GLUT-1 expression has also been documented in benign SCN while no such evidence exists in potentially malignant nonserous cystic neoplasms. Based on this evidence, investigators will conduct a pilot study to evaluate if integrated 18F-FDG PET/MR imaging with simultaneous MR and PET acquisition is helpful in differentiation o
+Eligibility: Inclusion Criteria:
+
+-Patients with known pancreatic cystic lesions, including suspected pancreatic serous cystic neoplasms and non-serous cystic neoplasms
+
+Exclusion criteria:
+
+* General Contraindications to MRI such as pacemaker, brain aneurysm clip etc. -
+* Pregnancy
+* Age below 18 years
+* Estimated GFR (eGFR \< 30 mL/min)
+* MRI contrast allergy;

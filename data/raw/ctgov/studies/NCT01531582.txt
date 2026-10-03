@@ -1,0 +1,29 @@
+Title: Minocycline in the Treatment of Angelman Syndrome
+Official title: The Efficacy of Minocycline in the Treatment of Angelman Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Angelman Syndrome
+Interventions: minocycline (DRUG)
+Summary: There is mounting evidence to suggest that a treatment for Angelman syndrome is not just possible, but probable. The lack of known molecular targets associated with AS has hampered the development of specific therapeutics. However, a recent surge of potential therapeutics for other disorders associated with cognitive disruption has begun to be used in human clinical trials. The molecular modes of action for many of these new therapeutic agents have correlates to counter the molecular defects observed in AS. One such agent is minocycline (MC), a drug traditionally used as an antibiotic. This compound administered to a mouse model of AS showed a significant decrease in motor deficit and an increase in long term potentiation. The investigators believe a similar result will be observed when minocycline is administered to the AS patient and may lead to the development of an effective AS therapeutic.
+Eligibility: Inclusion Criteria:
+
+1. The participant is between the ages of 4 to 12 years old.
+2. The participant has been previously diagnosed with AS by clinical evaluation.
+3. The participant's diagnosis has molecular confirmation (e.g. karyotyping, fluorescent in situ hybridization (FISH), DNA methylation test or sequencing of the ubiquitin-protein ligase E3A gene) of the diagnosis.
+4. The participant has a CGI-Severity Score of at least 4 indicating a moderate level of behavioral difficulty.
+5. The participant is male or female.
+6. The participant has an acceptable surrogate capable of giving consent on the participant's behalf.
+
+Exclusion Criteria:
+
+1. The participant was diagnosed with AS with no identifiable molecular abnormality.
+2. The participant has a known allergy to MC or tetracycline.
+3. The participant is currently enrolled in a study in which a drug, vitamin or dietary manipulation is used in the treatment of AS.
+4. The participant suffers from severe or uncontrolled seizures or any other medical condition rendering the patient unstable.
+5. The participant suffers from cardiovascular, respiratory, liver, kidney or hematologic disease.
+6. The participant suffers from liver disease or elevated liver function tests.
+7. The participant has a history of neutropenia, anemia or thrombocytopenia.
+8. The participant has a history of systemic lupus erythematosus or an anti-nuclear antibody (ANA) titer or \>1:40.
+9. The participant is pregnant or at risk of becoming pregnant (sexually active females).
+10. The participant experiences persistent psychotic symptoms.
+11. The participant (or a parent/caregiver) is not willing to participate in clinic visits.
+12. The participant experiences severe symptoms judged to likely to endanger the participant's safety or the safety of others.

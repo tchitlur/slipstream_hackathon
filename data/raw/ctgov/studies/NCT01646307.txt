@@ -1,0 +1,25 @@
+Title: Effect of Atorvastatin Versus Rosuvastatin Intensive Statin Regimens on Chinese Elderly Patients Undergoing PCI
+Official title: Effect of Atorvastatin Versus Rosuvastatin Intensive Statin Regimens on Chinese Elderly Patients Undergoing Percutaneous Coronary Intervention
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Focus of Study
+Interventions: Atorvastatin (DRUG); Rosuvastatin (DRUG)
+Summary: This randomized, open label, parallel-group study is designed to investigate whether periprocedural intensive statin therapy with atorvastatin versus rosuvastatin administration before PCI and 30-day continuous intensive treatment is superior to usual care, in terms of cardiovascular events for Chinese elderly patients.
+Eligibility: Inclusion Criteria:
+
+65-80 years old Patients undergoing for elective percutaneous coronary intervention Evidence of a personally signed and dated informed consent document
+
+Exclusion Criteria:
+
+* Patients undergoing emergency percutaneous coronary intervention
+* Taking or, needing to take atorvastatin over than 20mg/d or any other equivalent statin (such as simvastatin 20mg/d, pruvastatin 40mg/d, fluvastatin 80mg/d or rovastatin 5mg/d ) in the next 6 months, or needing to take fibrates or niacins simultaneously according to investigators' judgment.
+* LDL-C \< 1.8mmol/L in patients without statin therapy
+* Endstage congestive heart failure, or LVEF \< 30%
+* Active hepatic disease or hepatic dysfunction, or AST/ALT \> 1.5UNL
+* Myopathy or increased creatine kinase (CK\>2 UNL)
+* WBC \< 4×109/L or PLT \< 100×109/L
+* Severe renal dysfunction(Scr \> 3 mg/dl or 264μmol/L)
+* Allergic or experienced serious adverse reaction to HMG-CoA reductase, or ineligible to take statin as investigator's judgment
+* Severe aortic valve stenosis or severe mitral stenosis, Obstructive hypertrophic cardiomyopathy, pericardial diseases
+* Accompanied with malignant disease or other disease, which cause life expectancy \< 6 months
+* Participating in other interventional clinical trials using drugs or devices
+* Patients with any condition which, in the investigator's judgment, might increase the risk to the subject for any adverse event or abnormal laboratory finding

@@ -1,0 +1,31 @@
+Title: The Effect of Early Administration of PCSK9 Inhibitor to Acute Ischemic Stroke Patients Associated With Atherosclerosis on the Stroke Prognosis and Lipid Profile
+Official title: The Effect of Early Administration of PCSK9 Inhibitor, Alirocumab to Acute Ischemic Stroke Patients Associated With Atherosclerosis on the Stroke Prognosis and Lipid Profile, a Single Center Study, Registry Based, Pragmatic, Prospective Trial
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Stroke, Acute Ischemic; PCSK9 Inhibitor
+Interventions: Alirocumab (DRUG)
+Summary: The goal of this clinical trial is to test the effect of proprotein convertase subtilisin/kexin type 9 (PCSK9 inhibitors) in acute ischemic stroke patients associated with atherosclerosis by investigating
+
+1. the change in lipid profile compared to baseline results
+2. the effects on prognosis of stroke The participants will be given PCSK9 inhibitor right after confirmation of acute ischemic stroke, and the investigators will compare the results to the control group, whom are acute ischemic stroke patients treated with conventional lipid lowering therapy, statin and/or ezetimibe.
+Eligibility: Inclusion Criteria:
+
+* Non-cardioembolic Stroke
+* Acute Ischemic stroke within 7 days of symptom onset (confirmed by CT or MRI)
+* Age 19 and above
+* Significant stenosis associated with atherosclerosis in major intracranial / extracranial vessels.
+* National Institutes of Health Stroke Scale(NIHSS) score of 15 or less at admission
+* Patients with the capacity to consent for participation in the clinical trial.
+
+Exclusion Criteria:
+
+* Presence of high-risk factors for cardioembolism
+* Risk of ischemic stroke due to thrombosis from other causes
+* Patients with hemorrhagic stroke, brain tumors, or brain abscesses
+* Patients unable to take statins or PCSK9 inhibitors
+* Pre-stroke mRS score of 3 or higher
+* Severe liver failure (liver enzyme \> 3 times the upper normal limit) or renal failure (serum Creatinine \> 2mg/dL or estimated glomerular filtration rate \< 30 mL/min/1.73m2)
+* Anemia (hemoglobin \< 8mg/dL) or thrombocytopenia (platelet count \< 100K)
+* Uncontrolled diabetes not managed by medication or insulin
+* Pregnant or breastfeeding patients
+* Patients already receiving PCSK-9 inhibitors
+* Patients deemed inappropriate for participation in the clinical trial by the investigator for other reasons.

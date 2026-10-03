@@ -1,0 +1,13 @@
+Title: Characterization of Patients With Tuberous Sclerosis Complex, Lymphangioleiomyomatosis and Angiomyolipoma
+Official title: Clinical Profile Characterization of Patients With Tuberous Sclerosis Complex, Lymphangioleiomyomatosis and Angiomyolipoma Followed at Hospital Das Clínicas, University of Sao Paulo Medical School
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Tuberous Sclerosis; Lymphangioleiomyomatosis; Angiomyolipoma
+Interventions: none
+Summary: Tuberous Sclerosis Complex (TSC) is a multisystemic autosomal dominant disease that is characterized by the development of benign neoplasms in brain, kidney, lung, skin and heart. TSC is caused by mutations in TSC1 and/or TSC2 genes, which encode, respectively, hamartin and tuberin, that are involved in the regulation of cell proliferation, cell cycle and protein synthesis. Most patients exhibit dermatological, renal, neurological and pulmonary (lymphangioleiomyomatosis, LAM) manifestations. Neurological involvement include subependymal nodules, subependymal giant cell astrocytomas and cortical tubers. LAM is characterized by the proliferation of LAM cells around the airways, blood vessels and lymphatics, which result in vascular and airway obstruction and cyst formation. The most frequent TSC manifestation in the kidney is the development of angiomyolipomas (AML). Dermatologic lesions represent the most common manifestations of TSC, mainly hypomelanotic macules and facial angiofibromas. The most significant functional implication of the tuberin-hamartin complex is its regulatory role upon the mammalian target of rapamycin (mTOR) pathway. Mutations in TSC1 or TSC2 lead to increased
+Eligibility: Inclusion Criteria:
+
+* All patients with TSC, LAM (sporadic or associated with TSC) or AML (sporadic or associated with TSC or with LAM) followed at Hospital das Clínicas, University of São Paulo Medical School will be included in the proposed study. Patients of all ages will participate in the study.
+
+Exclusion Criteria:
+
+* There is no exclusion criteria.

@@ -1,0 +1,63 @@
+Title: Behavioral Assessment and Treatment of Problem Behavior in Children With Cornelia de Lange Syndrome
+Official title: Behavioral Assessment and Treatment of Problem Behavior in Children With Cornelia de Lange Syndrome
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Cornelia de Lange Syndrome
+Interventions: ABA-based functional analysis and treatment (BEHAVIORAL)
+Summary: The goals of this clinical trial are to identify factors associated with the development of problem behavior in Cornelia de Lange syndrome (CdLS) and to develop an effective behavioral assessment and treatment model for problem behavior in children with CdLS.
+
+The hypotheses are as follows:
+
+1. Based on pilot data, the investigators hypothesize that individuals with CdLS will exhibit preferences for auditory stimuli relative to other categories (e.g., visual, tactile) of stimuli.
+2. Based on pilot data, the investigators hypothesize that individuals with CdLS will exhibit problem behavior to obtain adult attention or to escape task demands relative to tangible and control conditions, as measured by functional analysis results.
+3. Function-based behavioral treatments will reduce problem behavior in individuals with CdLS by 80% or greater relative to baseline rates.
+4. Individuals with CdLS and problem behavior will exhibit more impaired communication, demonstrate increased emotion dysregulation, and exhibit more severe symptoms of Autism Spectrum Disorder (ASD) relative to those with CdLS and no problem behavior.
+
+Participants in the intervention group (families of children with CdL
+Eligibility: Inclusion Criteria for treatment group:
+
+1. Child with CdLS and problem behavior:
+
+   1. clinical diagnosis of CdLS confirmed;
+   2. age 3 to 15 years;
+   3. is English-speaking;
+   4. exhibits SIB, aggression, and/or disruptive behavior; and
+   5. is able to participate in several hours of assessment/treatment.
+2. Parent of child with CdLS is English-speaking and is willing to:
+
+   1. attend 2 full-day and one half-day clinic visits;
+   2. complete and return study measures; and
+   3. implement a behavior plan.
+
+Inclusion Criteria for control group:
+
+1. Child with CdLS without problem behavior:
+
+   1. clinical diagnosis of CdLS confirmed;
+   2. is English-speaking
+   3. age 3 to 15 years; and
+   4. child's age and adaptive functioning level matches that of a child in the treatment group
+2. Parent of child with CdLS is English-speaking and willing to:
+
+   1. complete and return study measures.
+
+Exclusion Criteria for treatment group:
+
+1. Child with CdLS:
+
+   1. does not exhibit SIB, aggression, or disruptive behavior;
+   2. child is younger than 3 years or older than 15 years;
+   3. is not English-speaking;
+   4. has severe SIB that produces significant tissue damage or requires protective equipment;
+   5. has uncontrolled seizures; or
+   6. has medical conditions or requires time-intensive medical care that limits attendance or participation.
+2. Parent of child with CdLS is not English-speaking or is not willing to complete study procedures.
+
+Exclusion Criteria for the control group:
+
+1. Child with CdLS:
+
+   1. exhibits SIB, aggression, or disruptive behavior;
+   2. is younger than 3 years or older than 15 years;
+   3. is not English-speaking;
+   4. age and adaptive functioning level do not match that of a child in the treatment group.
+2. Parent of child with CdLS is not English-speaking or willing to complete study procedures.

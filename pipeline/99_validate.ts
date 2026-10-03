@@ -4,7 +4,7 @@
  */
 import fs from "node:fs";
 import path from "node:path";
-import { files, DERIVED, BRIEFS, RAW } from "./lib/paths";
+import { files, BRIEFS, RAW, TRANSFERS_DIR } from "./lib/paths";
 import { readJson, exists, log, readText } from "./lib/io";
 import {
   AtlasSchema,
@@ -12,6 +12,7 @@ import {
   SimilarityFileSchema,
   LaddersFileSchema,
   TransfersFileSchema,
+  TransfersFocalFileSchema,
   InvestigatorsFileSchema,
   OrgsFileSchema,
   EvidenceFileSchema,
@@ -138,7 +139,15 @@ function main() {
     }
   }
   // Transfers: every verdict cites a rule id and at least one counter-reason, and existing evidence.
-  for (const [key, pair] of Object.entries(transfers.pairs)) {
+  const allPairs: Record<string, z.infer<typeof TransfersFocalFileSchema>["pairs"][string]> = {};
+  if (fs.existsSync(TRANSFERS_DIR)) {
+    for (const f of fs.readdirSync(TRANSFERS_DIR).filter((f) => f.endsWith(".json"))) {
+      const t = check(path.join(TRANSFERS_DIR, f), TransfersFocalFileSchema);
+      if (t) Object.assign(allPairs, t.pairs);
+    }
+  }
+  if (Object.keys(allPairs).length !== transfers.pairCount) fail(`transfers index says ${transfers.pairCount} pairs but ${Object.keys(allPairs).length} were found in per-condition files`);
+  for (const [key, pair] of Object.entries(allPairs)) {
     for (const v of pair.verdicts) {
       if (!/^R[1-7]$/.test(v.ruleId)) fail(`${key} verdict without rule id`);
       if (!v.counterReasons.length) fail(`${key} ${v.ruleId} has no counter-reason`);
@@ -160,7 +169,7 @@ function main() {
   // Layout covers conditions with phenotypes
   if (layout) for (const id of Object.keys(layout.nodes)) if (!condIds.has(id)) fail(`layout has unknown node ${id}`);
 
-  log("validate", `conditions ${atlas.conditions.length}, evidence ${evIds.size}, extracted ${extracted} (offsets re-checked ${extractedChecked}), ladders ${Object.keys(ladders.ladders).length}, transfer pairs ${Object.keys(transfers.pairs).length}, briefs ${briefs.length}, manifest spend $${manifest?.llm.spendUsd.toFixed(3)}`);
+  log("validate", `conditions ${atlas.conditions.length}, evidence ${evIds.size}, extracted ${extracted} (offsets re-checked ${extractedChecked}), ladders ${Object.keys(ladders.ladders).length}, transfer pairs ${Object.keys(allPairs).length}, briefs ${briefs.length}, manifest spend $${manifest?.llm.spendUsd.toFixed(3)}`);
   finish();
 }
 

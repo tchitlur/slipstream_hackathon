@@ -1,0 +1,23 @@
+Title: Effect of Rosuvastatin on Cytokines After Traumatic Brain Injury
+Official title: Effect of Rosuvastatin on Immunological Markers After Traumatic Brain Injury: Clinical Randomized Double Blind Study Phase 2
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Head Injury
+Interventions: Rosuvastatin (DRUG); Placebo (DRUG)
+Summary: The purpose of this study is to determine whether rosuvastatin could alter the immunological response after head injury by modulating TNF-alpha,IL6,IL-1.
+Eligibility: Inclusion Criteria:
+
+* Man or woman \> 16 and \< 60 years old with HI less 24 hours in progression and Glasgow between \< 13
+* Acceptance of family to participate (first grade)
+
+Exclusion Criteria:
+
+* Previous head injury with severe disability
+* History of neurological or psychiatric disease with severe disability
+* Administration 24 hrs previous of: fibrates, niacin, ciclosporin, azoles, macrolides, inhibitors of protease, nefazodone, verapamil, diltiazem,amiodarone
+* Very poor possibilities for survival
+* Use of Administration of THAM, mannitol, barbiturates, corticosteroids, scavengers of free radicals, inhibitors of lipidic peroxidation, indometacin, calcium antagonist, antagonists of neurotransmitters before randomization
+* isolated lesions in brain stem
+* Allergy to the drug
+* Hepatopathy or myopathy (or) history of this, or clinical data of hepatic disease
+* Management previous in other Hospital
+* Pregnancy

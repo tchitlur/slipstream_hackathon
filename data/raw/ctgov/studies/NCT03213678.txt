@@ -1,0 +1,22 @@
+Title: Samotolisib in Treating Patients With Relapsed or Refractory Advanced Solid Tumors, Non-Hodgkin Lymphoma, or Histiocytic Disorders With TSC or PI3K/MTOR Mutations (A Pediatric MATCH Treatment Trial)
+Official title: NCI-COG Pediatric MATCH (Molecular Analysis For Therapy Choice)- Phase 2 Subprotocol of LY3023414 in Patients With Solid Tumors
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Advanced Malignant Solid Neoplasm; Ann Arbor Stage III Non-Hodgkin Lymphoma; Ann Arbor Stage IV Non-Hodgkin Lymphoma; Malignant Glioma; Recurrent Ependymoma; Recurrent Ewing Sarcoma; Recurrent Glioma; Recurrent Hepatoblastoma; Recurrent Langerhans Cell Histiocytosis; Recurrent Malignant Germ Cell Tumor; Recurrent Malignant Solid Neoplasm; Recurrent Medulloblastoma; Recurrent Neuroblastoma; Recurrent Non-Hodgkin Lymphoma; Recurrent Osteosarcoma; Recurrent Peripheral Primitive Neuroectodermal Tumor; Recurrent Primary Central Nervous System Neoplasm; Recurrent Rhabdomyosarcoma; Recurrent Soft Tissue Sarcoma; Refractory Langerhans Cell Histiocytosis; Refractory Malignant Germ Cell Tumor; Refractory Malignant Solid Neoplasm; Refractory Neuroblastoma; Refractory Non-Hodgkin Lymphoma; Refractory Primary Central Nervous System Neoplasm; Rhabdoid Tumor; Stage III Osteosarcoma AJCC v7; Stage III Soft Tissue Sarcoma AJCC v7; Stage IV Osteosarcoma AJCC v7; Stage IV Soft Tissue Sarcoma AJCC v7; Stage IVA Osteosarcoma AJCC v7; Stage IVB Osteosarcoma AJCC v7; Wilms Tumor
+Interventions: Biospecimen Collection (PROCEDURE); Computed Tomography (PROCEDURE); FDG-Positron Emission Tomography (PROCEDURE); Magnetic Resonance Imaging (PROCEDURE); Samotolisib (DRUG); X-Ray Imaging (PROCEDURE)
+Summary: This phase II Pediatric MATCH trial studies how well samotolisib works in treating patients with solid tumors, non-Hodgkin lymphoma, or histiocytic disorders with TSC or PI3K/MTOR mutations that have spread to other places in the body (metastatic) and have come back (recurrent) or do not respond to treatment (refractory). Samotolisib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth.
+Eligibility: Inclusion Criteria:
+
+* Patient must have enrolled onto APEC1621SC/NCI-2017-01251/ NCT03155620 and must have been given a treatment assignment to Molecular Analysis for Therapy Choice (MATCH) to APEC1621D based on the presence of an actionable mutation as defined in APEC1621SC; note that treatment assignment may be to primary cohort A for patients with TSC1 or TSC2 loss of function mutations or primary cohort B for patients with other PI3K/MTOR pathway mutations
+* Patients accruing to dose level 1 must have a body surface area \>= 0.52 m\^2 at the time of study enrollment; patients accruing to dose level 2 must have a body surface area \>= 0.37 m\^2 at the time of study enrollment; patients accruing to dose level -1 must have a body surface area \>= 0.75 m\^2 at the time of study enrollment
+* Patients must have radiographically measurable disease at the time of study enrollment; patients with neuroblastoma who do not have measurable disease but have metaiodobenzylguanidine (MIBG) positive (+) evaluable disease are eligible; measurable disease in patients with CNS involvement is defined as any lesion that is at minimum 10 mm in one dimension on standard magnetic resonance imaging (MRI) or computed tomography (CT)
+
+  * Note: The following do not qualify as measurable disease:
+
+    * Malignant fluid collections (e.g., ascites, pleural effusions)
+    * Bone marrow infiltration except that detected by MIBG scan for neuroblastoma
+    * Lesions only detected by nuclear medicine studies (e.g., bone, gallium or positron emission tomography \[PET\] scans) except as noted for neuroblastoma
+    * Elevated tumor markers in plasma or cerebrospinal fluid (CSF)
+    * Previously radiated lesions that have not demonstrated clear progression post radiation
+    * Leptomeningeal lesions that do not meet the measurement requirements for Response Evaluation Criteria in Solid Tumors (RECIST) 1.1
+    * Bone lesions without an associated soft tissue mass \>= 10 mm in greatest diameter; bone lesions with an associated soft tissue mass \>= 10 mm in greatest diameter imaged by CT or MRI are considered measurable
+* Karnofsky \>= 50% for patients \> 16 years of age and Lansky \>= 50 for patien

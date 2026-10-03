@@ -1,0 +1,21 @@
+Title: Statin Contrast Induced Nephropathy Prevention
+Official title: Protective Effect of Rosuvastatin and Antiplatelet Therapy On Contrast-induced Nephropathy and Myocardial Damage in Patients With Acute Coronary Syndrome Undergoing Coronary Intervention; PRATO-ACS Trial
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Acute Coronary Syndrome
+Interventions: Rosuvastatin (DRUG)
+Summary: This open-label study, prospective, randomized trial evaluating the acute (in-hospital) pleiotropic and clinical effects of a hydrophilic statin (rosuvastatin) in patients with acute coronary syndrome
+Eligibility: Inclusion Criteria:
+
+Are eligible for the study all patients admitted to CCU for Acute Coronary Syndrome without ST elevation (NSTEMI) candidates for early invasive strategy (coronary angiography within 48 hours from the admission) and without previous therapy with statins.
+
+Exclusion Criteria:
+
+1. inability to provide consent
+2. pregnancy or lactation
+3. intolerance to statins
+4. therapy with other lipid lowering drugs
+5. acute or chronic liver disease
+6. chronic muscle disease
+7. acute renal failure or chronic renal failure stage IV
+8. neoplastic
+9. exposure to iodinated contrast medium in the previous 10 days

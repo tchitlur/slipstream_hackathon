@@ -1,0 +1,30 @@
+Title: Impact of Dietary Intervention on Tumor Immunity: the DigesT Trial
+Official title: Impact of Dietary Intervention on Tumor Immunity: the DigesT Trial.
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Breast Cancer; Melanoma, Malignant
+Interventions: FMD (OTHER)
+Summary: This trial aims to assess the immunological and metabolic changes induced by the Fasting Mimicking Diet (FMD) in the pre-operative and post-operative setting in breast cancer and melanoma patients. Three cohorts of patients will be enrolled: 1) Cohort A: patients with resectable breast cancer (cT1N0M0 stage or cT1cN1M0-cT2cN0M0 stages not requiring pre-operative systemic treatment at the judgment of the investigator) who are candidate to curative surgery; 2) Cohort B: patients with malignant melanoma patients candidate to dissection of the lymph node basin because of a positive sentinel lymph node (stage IIIA-IIIB-IIIC); 3) Cohort C: patients with resected malignant melanoma (including radicalization and, in case, lymph node dissection) who are not candidate to any adjuvant treatment, but only to clinical and radiological follow-up (stage IIB-IIC). Patients in cohorts A and B will undergo one 5-days FMD cycle about 13-15 days before surgical removal of primary tumor (breast) or lymph nodes (breast, melanoma). Patients in cohort C will undergo 4 consecutive FMD cycles every 28 days, starting one month after surgery.
+Eligibility: Inclusion Criteria:
+
+1. Age ≥ 18 and ≤ 75 years.
+2. Evidence of a personally signed and dated informed consent document (ICD) indicating that the patient has been informed of all pertinent aspects of the study before enrollment and FMD prescription.
+3. Willingness and ability to comply with the FMD protocol, the scheduled visits, treatment plans, laboratory tests and other procedures.
+4. Histologically confirmed diagnosis of invasive breast cancer candidate to curative surgery (Cohort A), or resected malignant melanoma requiring dissection of the regional lymph node basin for sentinel lymph node involvement (Cohort B), or malignant melanoma treated with curative surgery (including, in case, lymph node removal and lymph node dissection) (Cohort C). For breast cancer patients, any biological subgroup (including estrogen receptor-positive, HER2-positive, triple-negative breast cancer) will be admitted; HER2-positive tumors will be defined on the basis of an IHC score of 3, or a score of 2 with ISH evaluation indicative of gene amplification.
+5. Availability of archival FFPE tissue blocks of primary breast cancer (Cohort A) or melanoma (Cohort B, Cohort C).
+6. Presence of an Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1.
+7. Presence of adequate bone marrow and organ function as defined by the following laboratory values:
+
+   * ANC ≥ 1.5 x 109/l
+   * platelets ≥ 100 x 109/l
+   * hemoglobin ≥ 9.0 g/dl
+   * calcium (corrected for serum albumin) within normal limits or ≤ grade 1 according to NCI-CTCAE version 4.03 if not clinically significant
+   * potassium within the normal limits, or corrected with supplements
+   * creatinine \< 1.5 ULN
+   * blood uric acid \< 10 mg/dl
+   * ALT and AST ≤ 2.5 x ULN
+   * total bilirubin \< ULN except for patients with Gilbert syndrome who may only be included in the total bilirubin is \< 3.0 x ULN or direct bilirubin \< 1.5 x ULN
+   * Albumin \> 3 g/dL
+8. Fasting glucose ≤ 200 mg/dl.
+9. Total Cholesterol ≤ 300 mg/dl.
+10. Triglycerides ≤ 300 mg/dl.
+11. Female patients of childbearing potential must agree to sexual abstinence or to use two highly effective method of contraception throughout the study and for at leas

@@ -1,0 +1,25 @@
+Title: A Study Evaluating the Effects of Lebrikizumab on Airway Eosinophilic Inflammation in Participants With Uncontrolled Asthma
+Official title: A Phase II, Randomized, Double-Blind, Placebo-Controlled Bronchoscopy Study to Evaluate the Effects of Lebrikizumab on Airway Eosinophilic Inflammation in Patients With Uncontrolled Asthma on Inhaled Corticosteroids and a Second Controller Medication
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Asthma
+Interventions: Lebrikizumab (DRUG); Placebo (DRUG); Inhaled corticposteroids (ICS) (DRUG); Second Asthma Controller Medication (DRUG)
+Summary: This Phase II, randomized, double-blind, placebo-controlled, multicenter study will evaluate the effects of lebrikizumab on airway eosinophilic inflammation in participants with uncontrolled asthma who are using inhaled corticosteroid (ICS) treatment and a second controller medication. Enrolled participants will undergo a 3-week screening period during which assessments, including a bronchoscopy procedure, will be made. Participants will subsequently be randomized to receive lebrikizumab or placebo by subcutaneous (SC) injection on Day 1, Day 8, Week 4, and Week 8. Participants will continue their standard of care therapy throughout the study. End of treatment assessments will be taken at Week 12. Total study period, including screening and follow-up, is expected to last 23 weeks.
+Eligibility: Inclusion Criteria:
+
+* Asthma diagnosis for greater than or equal to (\>/=) 12 months prior to Visit 1
+* Bronchodilator response demonstrated within the 12 months before Visit 1 or at Visit 1, 2, or 3 of screening
+* Pre-bronchodilator FEV1 of 40 percent (%) - 80% predicted at both Visits 2 and 3
+* On ICS therapy at a total daily dose of 500-2000 mcg of fluticasone propionate dry powder inhaler (DPI) or equivalent for \>/= 6 months prior to Visit 1, with no changes within 4 weeks prior to Visit 1, and no anticipated changes throughout the study
+* On an eligible second controller medication (long-acting Beta-agonist \[LABA), leukotriene receptor antagonist \[LTRA\], long-acting muscarinic antagonists \[LAMAs\] or theophylline) for 6 months prior to Visit 1, with no changes within 4 weeks prior to Visit 1, and no anticipated changes throughout the study
+* Uncontrolled asthma at Visit 1 and/or 2 and at Visit 3
+* Chest X-ray or computed tomography (CT) scan within 12 months prior to Visit 1 or chest X-ray during the screening period (prior to Visit 3) that confirms the absence of other clinically significant lung disease
+* Demonstrated adherence with controller medication during the screening period
+
+Exclusion Criteria:
+
+* Maintenance oral corticosteroid therapy, defined as daily alternate-day oral corticosteroid maintenance therapy within 3 months prior to Visit 1
+* Treatment with systemic corticosteroids within 4 weeks prior to Visit 1 or during the screening period for any reason, including an acute exacerbation event
+* Any infection requiring hospital, intravenous (IV) or intramuscular (IM) antibiotic treatment or any respiratory infection within 4 weeks prior to Visit 1 or during screening. Any infection requiring oral antibiotic treatment with 2 weeks prior to Visit 1 or during screening, or any parasitic infection within 6 months prior to Visit 1 or during screening
+* Active tuberculosis requiring treatment within 12 months prior to Visit 1
+* Known immunodeficiency, including, but not limited to, human immunodeficiency virus (HIV) infection
+* History of interstitial lung disease, chronic obstructive pulmonary disease (COPD), or other clinically significant lun

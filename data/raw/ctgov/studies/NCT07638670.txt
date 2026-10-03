@@ -1,0 +1,27 @@
+Title: Effect of Mycobacterial Infection on Immune Status
+Official title: Effect of Mycobacterial Infection on Immune Status
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Tuberculosis
+Interventions: none
+Summary: This study, titled "Effect of Mycobacterial Infection on Immune Status" (EMIIS), investigates the immune-driven mechanisms of mycobacterial infections, focusing on the dynamic immune characteristics of multidrug-resistant tuberculosis (MDR-TB), nontuberculous mycobacterial (NTM) infections, and tuberculous pleurisy. Mycobacterial infections (including the Mycobacterium tuberculosis complex and nontuberculous mycobacteria) remain a major global public health threat. EMIIS is a single-center, randomized, single-blind,prospective study. The study recruited 120 participants, divided into groups of healthy individuals/community-acquired pneumonia patients, active pulmonary tuberculosis patients, latent tuberculosis infection patients, tuberculous pleurisy patients, and nontuberculous mycobacteria patients. Blood samples were collected from all groups within 3 days before treatment and 2-3 months after treatment. Pleural effusion samples were additionally collected from the tuberculous pleurisy group within 3 days before treatment and 2 months after treatment. Exhaled breath condensate (EBC) was collected from the nontuberculous mycobacteria group. Utilizing mass cytometry (CyTOF) and mu
+Eligibility: Inclusion Criteria and Exclusion Criteria:
+
+Inclusion Criteria：
+
+1. Age ≥ 18 years, all genders and races accepted.
+2. Patients with active pulmonary tuberculosis diagnosed clinically or by bronchoscopy within less than 1 week.
+3. Patients with latent tuberculosis infection (positive T-SPOT test but no evidence of active tuberculosis infection).
+4. Patients with tuberculous pleurisy with onset within less than 1 week.
+5. Voluntarily join this study and sign the informed consent form.
+6. Patients whose drug susceptibility test or NGS results indicate resistance to at least isoniazid and rifampicin (MDR-TB).
+7. Patients whose drug susceptibility test or NGS results indicate sensitivity to first-line anti-tuberculosis drugs.
+8. Patients whose drug susceptibility test or NGS results indicate resistance to only one anti-tuberculosis drug.
+9. Patients with newly identified nontuberculous mycobacterial infection (within less than 1 week) by sputum culture or NGS.
+
+Exclusion Criteria：
+
+1. Immunosuppressive conditions including HIV infection, long-term use (\>1 month) of immunosuppressive agents or corticosteroids, severe malnutrition, etc.
+2. Concurrent other lung diseases, severe liver or kidney dysfunction, severe endocrine diseases, hematological diseases, or malignant tumors that may affect the study outcomes.
+3. Patients with diabetes mellitus.
+4. Pregnant or lactating women.
+5. Patients unable or unwilling to provide informed consent, or with poor compliance.

@@ -1,0 +1,21 @@
+Title: Evaluation of an Electronic Health Record-based Screening Tool for Peripheral Artery Disease
+Official title: A Randomized Controlled Trial to Evaluate an EHR-based PAD Screening Tool
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Peripheral Artery Disease; Peripheral Vascular Disease
+Interventions: High PAD risk Alert (OTHER)
+Summary: This protocol represents a pilot randomized-controlled trial evaluating the effect of an electronic health record (EHR)-based peripheral artery disease (PAD) screening tool on rates of new non-invasive testing, diagnosis and treatment of PAD over a 6-month period. An EHR-based PAD screening tool will be applied to the Stanford EHR, which will generate a group of patients of varying risks of having undiagnosed PAD. Patients with the highest risk of having undiagnosed PAD will then be evaluated for inclusion in this study. 1:1 randomization will be performed on a consecutive basis until study enrollment is completed (25 patients per arm).
+
+Physicians of patients randomized to the intervention arm will be sent notification via an EHR message detailing the patient's risk of undiagnosed PAD and suggestions for referral to vascular medicine for risk assessment and/or non-invasive ankle brachial index (ABI) testing. The primary outcome is number of patients receiving ABI testing for PAD at 6 months, with secondary outcomes including number of new PAD diagnoses, number of new referrals to cardiovascular specialists (vascular medicine, vascular surgery, and/or cardiology) and number of pati
+Eligibility: Inclusion Criteria:
+
+* Are 50-85 years old
+* Currently an outpatient, actively obtaining care at Stanford
+* Have at least 1 year of data within the Stanford EHR (including at least 2 clinical visits)
+* Have no prior diagnosis of peripheral artery disease as determined by no chart term mentions or ICD-9/10 codes in their EHR data
+
+Exclusion Criteria:
+
+* Have less than 1 year of data available or less than 2 clinical visits at Stanford
+* Enrolled in a previous related study
+* Receiving treatment for a potentially terminal condition
+* Prior diagnosis of peripheral artery disease by ICD code or term mention in their EHR data.

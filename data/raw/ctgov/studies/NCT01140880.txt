@@ -1,0 +1,35 @@
+Title: Biobehavioral Interventions for HIV-negative, Stimulant Using Men Who Have Sex With Men
+Official title: Optimizing Access to Non-occupational Post Exposure Prophylaxis for HIV Using Contingency Management in Stimulant-Using Men Who Have Sex With Men
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: HIV Seroconversion; Stimulant Abuse
+Interventions: Truvada (DRUG)
+Summary: This study seeks to evaluate the efficacy of a contingency management (CM) intervention compared to a yoked control condition for eliminating illicit stimulant use and for decreasing time to initiating post exposure prophylaxis (PEP), for improving adherence to PEP, and for completing PEP following a potential HIV-exposure event. Men who have sex with men who use cocaine amphetamine or methamphetamine frequently also have high risk sexual behaviors during or after their drug use. The objective of this study evaluates whether the use of CM that targets stimulant use significantly aids men who have sex with men who use stimulants and also engage in high-risk sexual transmission behaviors to be able to initiate, adhere to and complete PEP, thereby optimizing the utility of a biomedical HIV prevention intervention for reducing HIV incidence in this very high-risk group of MSM.
+Eligibility: Inclusion Criteria:
+
+* Male who has sex with other men (MSM) by self-report
+* At least 18 years of age
+* HIV-negative serostatus on baseline rapid oral HIV antibody test, and no signs or symptoms consistent with primary HIV infection (PHI)
+* Self-reported stimulant use within the previous 30 days
+* Self-report of unprotected anal intercourse (either receptive or insertive) with an HIV-positive or status unknown partner within the previous 3 months
+* Self-report of no previous hypersensitivity to any of the components of Truvada (tenofovir disoproxil fumarate or emtricitabine)
+* In the opinion of the study medical provider, no contraindication to PEP medication treatment (laboratory testing, medical/drug interaction, or other)
+* Has not used PEP in the previous 6 months
+* A current resident of Los Angeles County
+* Does not have a plan to move away from Los Angeles County in the next 6 months
+* Willing and able to provide informed consent
+* Willing and able to comply with study requirements
+
+Exclusion Criteria:
+
+* Does not identify as a male who has sex with other men
+* Under 18 years of age
+* HIV positive by self-report or as indicated by the results on baseline rapid oral HIV antibody testing
+* Has not used a stimulant in the previous 30 days by self-report
+* Has not had unprotected anal intercourse (either receptive or insertive) with an HIV-positive or status unknown partner within the previous 3 months
+* Creatinine clearance \<30 ml/min and not on dialysis
+* Self-reports any previous hypersensitivity to any of the components of Truvada (tenofovir disoproxil fumarate or emtricitabine);
+* In the opinion of the study medical provider, there exists a contraindication to administering Truvada-based post-exposure prophylaxis (laboratory testing, medical/drug interaction, or other)
+* Has used PEP in the previous six months
+* Not a current resident of Los Angeles County
+* Unwilling or unable to provide informed consent
+* Unwilling or unable to comply with study requirements

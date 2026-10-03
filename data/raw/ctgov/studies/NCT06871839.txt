@@ -1,0 +1,28 @@
+Title: The Clinical Study of Synaptic Plasticity-based Lencanumab for the Treatment of Early Alzheimer's Disease
+Official title: The Clinical Study of Synaptic Plasticity-based Lencanumab for the Treatment of Early Alzheimer's Disease
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Alzheimer&#39;s Disease; Lecanemab; Functional Magnetic Resonance Imaging
+Interventions: Lecanemab treatment group (DRUG); Conventional anti-dementia treatment group (DRUG)
+Summary: Alzheimer's disease (AD) manifests itself in cognitive decline, impaired ability to perform daily life, and a variety of behavioral and psychiatric symptoms, seriously endangering the health of the elderly. The prevalence and disability rates of AD in China remain high, and the lack of effective treatment options has brought a heavy burden to patients and their families. Early intervention is regarded as an effective strategy to improve clinical symptoms, delay disease progression and maintain current quality of life. The humanized monoclonal antibody lencanemab (Lecanemab) was approved by the U.S. FDA in July 2023 for the treatment of mild cognitive impairment or mild dementia caused by AD, and was officially approved in January 2024 in China. Lencanemab highly targets soluble and insoluble neurotoxic β-amyloid (Aβ) proteins, reducing pathogenic Aβ plaque deposition and preventing its formation in the brains of AD patients, thus reducing neurotoxicity and improving patients' cognitive functions. In addition, lencanumab may also play a neuroprotective role by modulating synaptic plasticity and regulating neural network activity in brain neurons. However, there is a lack of clinical
+Eligibility: Inclusion Criteria:
+
+1. Age between 50 and 90 years.
+2. Male or female patients.
+3. Patients with MCI and mild AD.
+4. MMSE score ≥20, CDR overall score of 0.5 or 1.
+5. Amyloid-positive confirmed by Amyloid-PET or CSF.
+6. Have a reliable caregiver to accompany the patient during study visits and supervise the use of study medication during the trial.
+7. Agree to participate in the study and sign the informed consent form.
+
+Exclusion Criteria:
+
+1. Patients with cognitive impairment due to reasons other than AD.
+2. A history of transient ischemic attack (TIA), stroke, cerebral hemorrhage, or seizure within the 12 months prior to screening.
+3. A score of \>17 on the Hamilton Depression Scale at screening, or any suicidal behavior within 6 months prior to screening, at screening, or at the baseline visit, as well as any psychiatric diagnosis or symptoms that interfere with the study procedure (such as hallucinations, anxiety disorder, or paranoia).
+4. Patients with a bleeding disorder or receiving anticoagulant therapy, as well as any with malignant tumors, severe gastrointestinal, kidney, liver, respiratory, immune, endocrine, and cardiovascular system diseases that affect this study.
+5. A hypersensitivity reaction to ranucimab or any other ingredient in the injection solution, or to any monoclonal antibody treatment.
+6. Contraindications to MRI scanning, including those with a pacemaker/defibrillator or ferromagnetic metal implants (except for skull and cardiac devices approved as safe for MRI scanning).
+7. A known or suspected history of drug or alcohol abuse or dependence within the 2 years prior to screening.
+8. Participation in a clinical study involving any therapeutic monoclonal antibody or novel compounds for the treatment of AD within the 6 months prior to screening, unless it can be proven that the subject was in the placebo treatment group.
+9. Planning to undergo surgery requiring general anesthesia during the study period.
+10. A positive pregnancy test result, lactation, or pregnancy in females at screening or baseline.

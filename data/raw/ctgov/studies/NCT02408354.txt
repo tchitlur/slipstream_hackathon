@@ -1,0 +1,28 @@
+Title: Pilot Study, Comparative, Single-center, Randomized, Crossover, Double-blind, Against Placebo, Testing the Effectiveness of Triheptanoin Oil in Alternating Hemiplegia of Childhood
+Official title: "Etude Pilote, Comparative, Monocentrique, randomisée, en Cross Over, en Double Aveugle, Contre Placebo, Testant l'efficacité de l'Huile triheptanoïne Dans Les Hémiplégies Alternantes de l'Enfant" HEMIHEP
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Alternating Hemiplegia of Childhood
+Interventions: Triheptanoin (DRUG); Placebo (DRUG)
+Summary: The purpose of this project is to study the efficacy of triheptanoin oil in patients with Alternating Hemiplegia of Childhood (AHC) due to ATP1A3 gene mutation.
+Eligibility: Inclusion Criteria:
+
+* AHC with mutation in ATP1A3 gene
+* Age ≥ 15 years and 3 months
+* ≥ 6 neurological paroxystic events during the last 3 months prior to the beginning of the study
+* No specific diet
+* Covered by french social security
+* Patients who freely agree to participate in this study and understand the nature, risks and benefits of this study and give their written informed consent. (In addition to the requirement for the consent of parents or the legal representative, adolescents can provide additional informed consent to participate in clinical trials)
+
+Exclusion Criteria:
+
+* Age \< 15 years and 3 months
+* Evidence of psychiatric disorder
+* Comorbid medical condition that would render them unsuitable for the study, e.g. HIV, diabetes
+* Pregnant or parturient or lactating women
+* Absence of double effective contraception at the women old enough to procreate
+* Unwillingness to be informed in case of abnormal MRI
+* Absence of signed informed consent
+* No covered by french social security
+* Persons deprived of their liberty by judicial or administrative decision
+* Person subject to an exclusion period for another research
+* Subjects with exclusion criteria required by french law

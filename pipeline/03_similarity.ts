@@ -50,13 +50,17 @@ async function main() {
       perCond.get(b.id)!.push({ id: a.id, s: sim, shared });
     }
   }
-  const sorted = sims.map((x) => x.s).sort((x, y) => x - y);
+  // Cutoffs are percentiles of the distribution among deep-slice pairs, so they stay stable when the
+  // atlas-wide shallow layer (phase 4) is added; the shallow layer would otherwise drag them down.
+  const deepIds = new Set(conds.filter((c) => c.depth === "deep").map((c) => c.id));
+  const deepPairs = sims.filter((x) => deepIds.has(x.a) && deepIds.has(x.b));
+  const sorted = (deepPairs.length >= 100 ? deepPairs : sims).map((x) => x.s).sort((x, y) => x - y);
   const cutoffs = {
     edge: Number(percentile(sorted, EDGE_PCT).toFixed(4)),
     high: Number(percentile(sorted, HIGH_PCT).toFixed(4)),
     medium: Number(percentile(sorted, MEDIUM_PCT).toFixed(4)),
   };
-  log("S3", `pairs with sim > 0: ${sims.length}; cutoffs ${JSON.stringify(cutoffs)}; median ${percentile(sorted, 0.5).toFixed(3)}`);
+  log("S3", `pairs with sim > 0: ${sims.length} (${deepPairs.length} deep-deep); cutoffs ${JSON.stringify(cutoffs)}; median ${percentile(sorted, 0.5).toFixed(3)}`);
 
   const geneOf = new Map(atlas.conditions.map((c) => [c.id, c.geneId]));
   const neighbors: SimilarityFile["neighbors"] = {};

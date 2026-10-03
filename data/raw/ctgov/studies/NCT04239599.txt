@@ -1,0 +1,24 @@
+Title: Trial of Hypofractionated IMRT Boost Versus Conventional IMRT Boost for Localized High Risk Prostate Cancer
+Official title: Randomized Trial of Concomitant Hypofractionated IMRT Boost Versus Conventional Fractionated IMRT Boost for Localized High Risk Prostate Cancer
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Prostate Cancer
+Interventions: Hypofractionated IMRT Radiation treatment (RADIATION)
+Summary: Hypofractionation: 48 Gy in 25 fractions to pelvic lymph nodes while the prostate receives 68 Gy in 25 fractions concomitantly.
+
+Standard Fractionation: pelvic lymph nodes and prostate will initially be treated to 46 Gy in 23 fractions, followed by a subsequent boost to the prostate to a total dose of 78 Gy over 39 fractions.
+Eligibility: Inclusion Criteria:
+
+* Written informed consent obtained.
+* Histologically confirmed diagnosis of adenocarcinoma of the prostate.
+* Clinical stage T1-2 N0 M0, Gleason Score ≤ 7, PSA 20 - 100
+* T1-2 N0 M0, Gleason Score 8 - 10, PSA ≤ 100
+* T3 N0 M0, any Gleason Score, PSA ≤ 100
+
+Exclusion Criteria:
+
+* Patients with unilateral or bilateral hip replacement.
+* Patients with active collagen vascular disease.
+* Patients with active inflammatory bowel disease.
+* Patients with previous radiotherapy to the pelvis.
+* Patients with ataxia telangiectasia.
+* Patients with nodal or distant metastases

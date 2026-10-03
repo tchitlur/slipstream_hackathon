@@ -1,0 +1,61 @@
+Title: Simvastatin Nasal Rinses for the Treatment of COVID-19 Mediated Dysomsia
+Official title: Simvastatin Nasal Rinses for the Treatment of COVID-19 Mediated Dysomsia
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Olfactory Disorder; COVID-19
+Interventions: Simvastatin (DRUG)
+Summary: Olfactory dysfunction (OD) or changes in smell and/or taste is one of the cardinal presenting symptoms of COVID-19. Despite the prevalence of COVID and resultant OD, the pathophysiology of COVID-mediated OD is not fully understood, but recent evidence indicates that local inflammatory and oxidative injury play a major role.
+
+This phase 1 safety trial evaluates the use of simvastatin nasal irrigations for the management of COVID-mediated OD. We will determine the maximum tolerable dose and evaluate the safety and tolerability of high-volume simvastatin nasal irrigations in subjects with persistent COVID-mediated OD.
+
+Each subject will complete bloodwork at baseline and then at the completion of their participation in the study. During this trial, we will observe olfactory function for each participant at baseline and completion of this study via the University of Pennsylvania Smell Identification Test (UPSIT). Investigational product will be shipped directly to the subject for daily irrigation each day for 4 weeks. Weekly throughout the study for a total of 4 weeks, subjects will complete the Sino-Nasal Outcome Test-22.
+
+The current study would provide the support for Phase II and I
+Eligibility: Inclusion Criteria:
+
+1. Males and females age 18-70 years old
+2. Diagnosis of COVID-19 at least 3 months prior to study enrollment, but no greater than 12 months prior to study.
+3. Objective olfactory dysfunction, believed to be due to COVID-19, that has persisted despite viral recovery otherwise (initial score on the UPSIT consistent with decreased olfactory function (\<= 34 in women, \<=33 in men)
+4. Not currently using concomitant therapies specifically for the treamtment of OD, or willing to discontinue other therapies for the treatment of OD for the duration of the trial
+5. Ability to read, write, and understand English
+
+Exclusion Criteria:
+
+1. Olfactory loss prior to COVID-19 infection
+2. History of conditions that impact olfactory function
+
+   1. Chronic rhinosinusitis
+   2. History of prior sinonasal or skullbase surgery
+   3. Neurodegenerative disorders (Parkinson's disease, Huntington's disease, Amyotrophic lateral sclerosis, Lewy body dementia, frontotemporal dementia)
+3. Current or recent (within 8 weeks of study enrollment) oral statin use
+4. History of conditions that increase risks of statin intolerance
+
+   1. Untreated hypothyroidism
+   2. History of chronic kidney disease or abnormal renal function at the time of enrollment
+   3. Personal or family history of myositis or elevated creatine kinase at the time of enrollment
+   4. Alcohol consumption greater than 7 drinks per week (female) or 14 drinks per week (male)
+   5. History of liver disease or elevated liver enzymes at the time of enrollment
+   6. History of statin intolerance
+   7. Human immunodeficiency virus
+   8. Viral hepatitis
+5. History indicating that the subject should receive oral statins
+
+   1. Angina
+   2. Myocardialinfarction
+   3. Cardiac surgery in the last 2 years
+   4. Elevated total cholesterol at baseline
+6. History of malignancy
+7. History of statin intolerance
+8. Currently pregnant or nursing
+9. Use of any medications contraindicated with statins
+
+   1. Antiviral protease inhibitors
+   2. Macrolides
+   3. Antifungals
+   4. Cyclosporine
+   5. Calcium channel blockers
+   6. Diltiazem
+   7. Danazole
+   8. Amiodarone
+   9. Gemfibrozil
+   10. Nefazodone
+   11. Ingestion of \>

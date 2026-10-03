@@ -1,0 +1,28 @@
+Title: Interactions Between Striatum and Cerebellum in ADCY5 and PRRT2 Dystonias
+Official title: Interactions Between Striatum and Cerebellum in ADCY5 and PRRT2 Dystonias
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Dystonia
+Interventions: transcranial magnetic stimulation of the cerebellum (OTHER)
+Summary: The investigators will study the relationship between the basal ganglia and the cerebellum in dystonia by associating cerebellar stimulations with functional magnetic resonance imaging analysis.
+Eligibility: Inclusion Criteria:
+
+* clinical diagnosis of Dystonia
+* characterized ADCY5 or PRRT2 mutation
+* must have a European Social Security card or a parent having an European Social Security card
+* must be older than \> 15 years 3 months
+* must be able to give informed consent or, for minor patients, parents must be able to give informed consent
+* must be able to comply with all study procedures, based on the judgment by the investigator(s).
+
+Exclusion Criteria:
+
+* major depression or any major mental disorders (axis I disorders)
+* neurologic disorder other than dystonia
+* presence of pacemaker, intracardiac lines, implanted pumps or stimulators, or metal objects inside the eye or skull, cochlear implant
+* Permanent makeup of lips or eyelids
+* Black large tattoo close to the head
+* Severe claustrophobia
+* Current pregnancy or breast feeding
+* Copper intrauterine device Subjects with one of the following exclusion criteria will not receive cerebellar stimulation
+* Open scalp wounds or scalp infection,
+* epilepsy or seizures
+* Taking at the time of the study: ketamine, antidepressants, ganciclovir, ritonavir, amphetamines, antiemetic.

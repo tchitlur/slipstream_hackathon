@@ -1,0 +1,21 @@
+Title: Interventions to Improve the HIV PrEP Cascade Among Methamphetamine Users
+Official title: Interventions to Improve the HIV PrEP Cascade Among Methamphetamine Users
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: HIV/AIDS; Adherence, Medication; Drug Use
+Interventions: Text Messaging (BEHAVIORAL); Peer Navigation (BEHAVIORAL)
+Summary: Despite increasing knowledge about and use of PrEP nationally, HIV continues to have disproportionate impact among cisgender men and transgender persons who have sex with men and transgender persons (MSM/TG), with methamphetamine (meth)-users being at particularly high risk. Building on their preliminary work, the investigators will pilot text messaging and peer navigation interventions to support PrEP use among meth-using MSM/TG with potential to be cost-effective, scalable, and easily adaptable.
+Eligibility: Inclusion Criteria:
+
+* Meets the clinic's eligibility criteria for PrEP
+* 18 years of age or older
+* HIV-negative
+* Cisgender man or individual on the trans gender variant spectrum who has sex with men
+* Ability to understand, read, and speak English
+* Reports meth use in the past 3 months
+* Has a cell phone able to send and receive text messages
+
+Exclusion Criteria:
+
+* PrEP use in the prior month,
+* Discomfort or anxiety with regards to text messaging.
+* Has any circumstances that, based on the study staff's opinion, would preclude provision of informed consent, make participation unsafe, or make it unlikely the participant would be able to participate for 6 months.

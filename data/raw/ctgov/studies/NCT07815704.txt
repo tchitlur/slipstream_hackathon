@@ -1,0 +1,42 @@
+Title: Targeting Immune Modulation in High Grade Serous Carcinoma: Combined Effects of Chemotherapy and Atorvastatin
+Official title: Targeting Immune Modulation in High Grade Serous Carcinoma: Combined Effects of Chemotherapy and Atorvastatin
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Ovarian Cancer; Fallopian Tube Cancers; Primary Peritoneal Cancer; High Grade Serous Adenocarcinoma of Ovary
+Interventions: Standard of Care + atorvastatin (DRUG); Standard of Care (SOC) (DRUG)
+Summary: The goal of this clinical trial is to learn how atorvastatin in patients with advanced high grade serous cancer of the ovary, fallopian tube, or peritoneum changes the tumor immune environment. The main question it aims to answer is:
+
+* Does atorvastatin combined with standard of care chemotherapy and surgery changes the number of tumor-promoting macrophages in the tumor microenvironment
+* Researchers will compare standard of care chemotherapy and surgery to see if there is a difference in tumor promoting macrophages.
+* Participants will take atorvastatin (daily pill) alongside their standard treatment.
+Eligibility: Inclusion Criteria:
+
+* Be a patient with ovarian cancer aged 18-89
+* Diagnosed via tissue biopsy not ascites
+* For persons of reproductive potential, use of highly effective method(s) of contraception.
+* Patients with primary Stage III/IV high-grade serous ovarian/fallopian tube/primary peritoneal cancer not amenable to upfront cytoreductive surgery.
+* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0, 1 or 2.
+* Absolute Neutrophil Count 1500 cells/mL
+* Platelet count \> 100,000 mL.
+* Hemoglobin 9.0 g/dL
+* Serum albumin ³ 2.5 g/dL.
+* Total bilirubin ≤ 1.5 x upper limit of normal (ULN).
+* aspartate aminotransferase (AST )and alanine aminotransferase (ALT) ≤ 3.0 x ULN.
+* Serum creatinine ≤ 1.5x ULN
+
+Exclusion Criteria:
+
+* Inability to comply with study and follow-up procedures.
+* Significant cardiovascular disease, such as New York Heart Association cardiac disease (class II or greater), myocardial infarction within the past 3 months, unstable arrhythmia, or unstable angina.
+* Known clinically significant liver disease defined as AST and ALT \> 3.0 x ULN and/or total bilirubin ≥ 1.5 x ULN, or documented history of active viral, alcoholic, or other hepatitis, cirrhosis, and inherited liver disease.
+* Participation in investigational clinical trial within last 30 days.
+* Medical history of untreated HIV infection. Patients with medical history of HIV infection are eligible provided they meet following criteria
+
+  * Are stable on antiretroviral therapy for ≥4 weeks before randomization
+  * Agree to adhere to antiretroviral therapy per World Health Organization (WHO) guidelines
+  * Have no documented multi-drug resistance that would prevent effective antiretroviral therapy
+  * Have a viral load of \<400 copies per mL at screening
+  * Have CD4+ T cell count at ≥ 350 cells per μL
+  * Have no history of acquired immunodeficiency syndrome (AIDS) -defining opportunistic infection ≤ 12 months before randomization.
+* Inability to provide informed consent.
+* Known central nervous system (CNS) malignancy or CNS metastases.
+* Patients with previous malignancy within the past 2 years from cycle 1, day 1, except those with negligible risk of metastasis or death, s

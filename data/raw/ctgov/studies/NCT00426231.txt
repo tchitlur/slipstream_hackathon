@@ -1,0 +1,31 @@
+Title: Culturally-Tailored Approach to Improve Medication Use in Patients With Heart Attacks
+Official title: Culturally-Tailored Hospital-based Model to Improve Statin Use and Outcomes in Patients With Coronary Disease
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Coronary Arteriosclerosis; Myocardial Infarction
+Interventions: Navigation by a health worker (BEHAVIORAL); Information control (BEHAVIORAL)
+Summary: Our research aims to improve the use of medicines known to prevent recurrent heart attacks. In particular, we know that statin treatment is useful after heart attacks, but many patients do not use it. There are a few possible reasons for this. Patients cannot find affordable medicine. Their doctor may not prescribe the medicine after they leave the hospital. Some people may culturally mistrust using the medicine. So they may decide not to take it even if it is prescribed. We are developing a hospital based culturally attuned program to target this problem. In this program, a community health worker counsels and helps patients in accessing pharmacy assistance programs. We will test whether this program can improve appropriate statin use.
+
+We will enroll patients who have heart attacks. We will compare patients who are counseled by the community health worker with those who get the usual care at baseline and at 6 and 12 months (participants enrolled during the early phase of the recruitment will have an additional study visit at 24 months). We will test if their "bad" cholesterol levels are controlled. We will find out how regularly they have filled their questionnaire and taken the 
+Eligibility: Inclusion Criteria:
+
+* Admitted to Johns Hopkins Hospital or Johns Hopkins Bayview Medical Center
+* Diagnoses of Myocardial Infarction, unstable angina, percutaneous intervention, coronary artery bypass surgery
+* One of the following:
+
+  * Less than a high school education (defined as completion of the 12th grade)
+  * No insurance for medications with a household income of $50,000. or less
+  * Any difficulty in co-pay even with a household income of \>$50,000.
+
+Exclusion Criteria:
+
+* physician contraindicates statin use
+* chronic glucocorticosteroid therapy
+* autoimmune disease (i.e. lupus erythematosus)
+* current chemotherapy or radiation
+* immediate life-threatening comorbidity (i.e. HIV-AIDS, end-stage renal disease, or cancer)
+* history of hepatic or renal failure
+* myositis with creatine kinase (CK) elevations
+* any prior adverse response to statin therapy
+* statin allergy
+* rhabdomyolysis
+* pregnant women

@@ -1,0 +1,26 @@
+Title: A Non-invasive Diagnostic Model for Intestinal Fibrosis in Crohn's Disease Based on 18F-FAPI PET Imaging
+Official title: A Non-invasive Diagnostic Model for Intestinal Fibrosis in Crohn's Disease Based on 18F-FAPI PET Imaging
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Crohn Disease
+Interventions: none
+Summary: Crohn's disease (CD) is a chronic transmural inflammatory bowel disease. Prolonged episodes of inflammation can lead to intestinal fibrosis, leading to intestinal stenosis and obstruction. Inflammatory stenosis can be alleviated through anti-inflammatory treatment, while fibrotic stenosis requires endoscopic dilation or surgical treatment. Early detection of the presence and severity of intestinal fibrosis in CD is the key to treatment strategies. Currently, there are certain limitations in the non-invasive evaluation methods for intestinal fibrosis, and it is urgent to develop a new imaging method to achieve non-invasive diagnosis of the degree of fibrosis.
+
+Fibroblast activation protein (FAP) is a marker of intestinal fibrosis in CD. Based on the principle that fibroblast activation protein inhibitor (FAPI) can specifically bind to FAP, FAPI radioactive tracers can achieve targeted tracing and quantification of FAP in vivo. Therefore, 18F-FAPI positron emission tomography (PET) imaging technology has a good application prospect in the noninvasive diagnosis and evaluation of CD intestinal fibrosis.
+
+Based on the successful testing of 18F-FAPI PET imaging in the early stage of the 
+Eligibility: Inclusion Criteria:
+
+1. Patients diagnosed with CD based on clinical, imaging, endoscopic, and histopathological criteria;
+2. Patient age ≥ 18 years old;
+3. Within 15 days before surgery, 18F-FAPI, 18F-FDG PET/CT intestinal imaging, and routine CTE imaging were performed;
+4. Surgical resection of intestinal segments and imaging evaluation of intestinal segment matching;
+5. The pathological analysis of surgical specimens includes H\&E, Masson, GLUT1 and FAP immunohistochemical staining;
+6. The patient voluntarily participates and signs an informed consent form.
+
+Exclusion Criteria:
+
+1. Pregnant or lactating patients;
+2. The quality of imaging images is poor and cannot be used for diagnosis and evaluation;
+3. If the pathological section of the specimen does not cover the entire intestinal wall;
+4. The fasting blood glucose level is higher than 11.1mmol/L;
+5. Patients with contraindications for CTE examination.

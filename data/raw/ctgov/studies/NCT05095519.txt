@@ -1,0 +1,25 @@
+Title: Hepatocellular Carcinoma Imaging Using PSMA PET/CT
+Official title: Hepatocellular Carcinoma Imaging Using PSMA PET/CT - a Prospective Pilot Trial
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Hepatocellular Carcinoma
+Interventions: 18F-DCFPyL (DRUG)
+Summary: The purpose of the research is to evaluate the use of a PSMA PET/CT (Prostate Specific Membrane Antigen Positron Emission Tomography/Computerized Tomography) scan in the diagnosis of HCC (hepatocellular carcinoma) and comparing it to standard scanning techniques with CT (Computed Tomography) or MRI (Magnetic Resonance Imaging).
+Eligibility: Inclusion Criteria:
+
+* Male or female aged 18 years or older at screening
+* Has provided written informed consent for participation in the study
+* Must have risk factors for HCC e.g. cirrhosis, chronic hepatitis B infection with or without cirrhosis
+* Patients with liver lesions ≥1 cm suspicious for HCC but with indeterminate features on CT and MRI meeting LI-RADS 3 or 4 criteria planned for biopsy, OR patients with liver lesions diagnostic of HCC based on CT or MRI meeting LI-RADS 5 criteria planned for surgical resection
+* Patients must be willing and able to comply with the protocol and procedures for the duration of the study
+* Patients must be available for follow-up
+
+Exclusion Criteria:
+
+* Abdominal surgery or radiotherapy to the abdomen within \<4 weeks of registration. Patients must have recovered from any effects of any major surgery
+* Uncontrolled intercurrent illness that is likely to impede participation and or compliance
+* Any history of prostate cancer or elevated PSA level for male patients
+* Other malignancies unless curatively treated with no evidence of disease within previous 3-years other than adequately treated non-melanoma skin cancer or melanoma in situ
+* Participation in another clinical study with an investigational product or another systemic cancer therapy administered in the last 4 weeks
+* Has known psychiatric or substance abuse disorders that would interfere with cooperation with requirements of the study
+* Women who are pregnant or lactating
+* Cirrhosis due to congenital hepatic fibrosis, vascular disorders (e.g. Budd-Chiari syndrome) or cardiac cirrhosis

@@ -1,0 +1,27 @@
+Title: Safety, Tolerability, Pharmacokinetics and Antiviral Activity of GS-9669 in Subjects With Chronic Hepatitis C Virus Infection
+Official title: A Phase 1b, Randomized, Single-Blind, Multiple-Dose Ranging Study Evaluating the Safety, Tolerability, Pharmacokinetics and Antiviral Activity of GS-9669 in Subjects With Chronic Hepatitis C Virus Infection
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Hepatitis C
+Interventions: GS-9669 tablets (DRUG); Placebo to Match GS-9669 tablet (DRUG)
+Summary: This is a research study to evaluate the safety, tolerability and anti-viral activity of GS-9669 in patients with Hepatitis C infection.
+Eligibility: Inclusion Criteria:
+
+* Adult subjects 18-65 years of old, inclusive
+* Documented chronic HCV infection to be of at least 6 months duration and plasma HCV RNA ≥ 5 log10 IU/mL at screening.
+* HCV treatment naïve or PEG-IFN, IFN, and/or RBV experienced (treatment must have ceased at least 3 months prior to screening). Treatment experienced subjects should not exceed 40% of the subjects enrolled in each cohort
+* Mono-infection with HCV genotype 1a for Cohorts 1, 2, 3, 4, and 5 and mono-infection with HCV genotype 1b for Cohort 6 and 7.
+* Estimated creatinine clearance ≥ 70 mL/min,
+* QTcF interval ≤ 450 msec for males and ≤ 470 msec for females, QRS duration \< 120 msec, PR interval \< 220 msec,
+* Body mass index (BMI) of 19.0 to 34.0 kg/m\^2, inclusive.
+
+Exclusion Criteria:
+
+* Urine drug screen positive for illicit/illegal drugs
+* ALT and AST levels \> 5 times the upper limit of the normal range (ULN)
+* Direct bilirubin \> ULN, clinical or other laboratory evidence of hepatic decompensation (i.e., platelets \< 90,000/mm\^3, prothrombin time ≥ 1.5 × ULN and albumin \< 3.5 g/dL) are not eligible for study participation.
+* Subjects with an absolute neutrophil count (ANC) \< 1,000 cells/mm\^3 (\< 750 cells/mm\^3 for black or African-American subjects), hemoglobin (Hb) \< 11 g/dL,
+* Coinfected with hepatitis B virus (HBV), human immunodeficiency virus (HIV), or another HCV genotype other than genotype 1a/b are not eligible for study participation.
+* Evidence of hepatocellular carcinoma (e.g., a-fetoprotein \> 50 ng/mL or as indicated by recent ultrasound or other standard of care measure)
+* History of significant cardiac disease. The following ECG abnormalities at screening are exclusionary: QTcF (QT corrected using Fridericia's formula=QT/RR\^0.333) \> 450 msec for males and \> 470 for females; QRS \> 120 msec (left or right hemiblock is not exclusionary); PR interval \> 220 msec; bradycardia (\< 45 beats per minute); second or third degree heart block.
+* History of clinically-significant illness or any other major medical disorder that may interfere with subject treatment, assessment or compliance with the protocol
+* History of a primary gastrointestinal disorder that 

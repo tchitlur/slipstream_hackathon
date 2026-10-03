@@ -1,0 +1,20 @@
+Title: Behavior Change and Maintenance Intervention for HIV+ MSM Methamphetamine Users
+Official title: Behavior Change and Maintenance Intervention for HIV+ MSM Methamphetamine Users
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: HIV Infections; Substance Abuse; Sexually Transmitted Diseases
+Interventions: EDGE counseling, no maintenance (BEHAVIORAL); EDGE counseling, plus maintenance (BEHAVIORAL); Attention control (BEHAVIORAL)
+Summary: This study tests the effectiveness of a behavioral intervention to reduce sexual risk behavior in HIV-positive, methamphetamine-using men who have sex with men (MSM). It builds on the findings of a previous study (R01 DA012116, "Promoting safer sex in HIV+ homosexual and bisexual men who use methamphetamine"). That study achieved significant short-term results that eroded over time. Accordingly, this study hypothesizes that the addition of a maintenance component to the already proven counseling and educational components of the treatment model will result in longer-lasting positive effects.
+Eligibility: Inclusion Criteria:
+
+* HIV+
+* Used methamphetamine at least twice in last two months
+* At least some recent sexual partners were male
+* At least some recent sexual activity has been high-risk for transmission of HIV
+
+Exclusion Criteria:
+
+* Current major psychiatric diagnosis
+* Only HIV+ sex partners in past two months
+* Consistently protected sex with HIV- or serostatus-unknown partners in last two months
+* Sexually inactive in last two months
+* Found out about HIV+ status less than two months ago

@@ -1,0 +1,18 @@
+Title: Ezetimibe Versus Nutraceuticals in Statin-intolerant Patients
+Official title: Randomized Trial of Ezetimibe Versus nutraCeuticals in Statin-intoLerant patIents Treated With PercutaneouS Coronary Intervention
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Coronary Artery Disease
+Interventions: Ezetimibe (DRUG); Nutraceuticals (DRUG)
+Summary: Pharmacologic alternatives in statin-intolerant patients include ezetimibe and nutraceuticals (i.e. compounds derived from foods with cholesterol lowering actions). The investigators will compare the efficacy and tolerability of ezetimibe versus a nutraceutical-based protocol in statin-intolerant patients treated with percutaneous coronary intervention.
+Eligibility: Inclusion Criteria:
+
+* Angiographically-proven coronary artery disease
+* Recent (\< 12 months) percutaneous coronary intervention
+* Class I indication to receive statin treatment
+* Previous (\< 12 months) withdrawn of a statin due to side effects
+* Unwilling to receive treatment with an alternative statin
+* Able to understand and willing to sign the informed consent form
+
+Exclusion Criteria:
+
+• Women of child bearing potential patients must demonstrate a negative pregnancy test performed within 24 hours before

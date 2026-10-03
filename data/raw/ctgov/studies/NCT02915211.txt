@@ -1,0 +1,16 @@
+Title: Evaluation of Keyo in Children With Epilepsy
+Official title: A Feasibility Study to Evaluate the Acceptability of Keyo, a Food for Special Medical Purposes (FSMP) for Use in the Ketogenic Diet (KD) With Regard to Product Tolerance, Compliance and Acceptability
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Intractable Epilepsy; Glucose Transporter Type 1 Deficiency Syndrome; Ketogenic Dieting
+Interventions: Keyo (DIETARY_SUPPLEMENT)
+Summary: To evaluate the tolerance, acceptability and compliance of Keyo in 20 subjects aged 3 years and over, with intractable epilepsy or Glut-1 DS on a KD.
+Eligibility: Inclusion Criteria:
+
+* 3 years and over
+* Confirmed diagnosis of intractable epilepsy or Glut-1 DS
+* Children must be currently established on a KD for at least 3 months, taken orally
+* Written, informed consent by participant/carer
+
+Exclusion Criteria:
+
+\-

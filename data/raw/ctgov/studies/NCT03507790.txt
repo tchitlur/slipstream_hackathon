@@ -1,0 +1,20 @@
+Title: A Study to Evaluate the Safety and Efficacy of CT1812 in Subjects With Mild to Moderate Alzheimer's Disease.
+Official title: A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Phase 2 Study to Evaluate the Safety and Efficacy of CT1812 in Subjects With Mild to Moderate Alzheimer's Disease.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Mild to Moderate Alzheimer's Disease
+Interventions: CT1812 (DRUG); Placebo (DRUG)
+Summary: This is a multi-center, randomized, double-blind, placebo-controlled, parallel group 36 week multicenter Phase 2 study of two doses of CT1812 in adults with mild to moderate Alzheimer's Disease (AD).
+Eligibility: Inclusion Criteria:
+
+1. Men, and women of non-childbearing potential, 50-85 years of age inclusively, with a diagnosis of mild to moderate Alzheimer's disease according to the 2011 NIA-AA criteria and at least a 6 month decline in cognitive function documented in the medical record.
+
+   i) Non-childbearing potential for women is defined as postmenopausal (last natural menses greater than 24 months) or undergone a documented bilateral tubal ligation or hysterectomy. If last natural menses less than 24 months, a serum FSH value confirming post-menopausal status can be employed.
+
+   ii) Male participants who are sexually active with a woman of child-bearing potential must agree to use condoms during the trial and for 3 months after last dose unless the woman is using an acceptable means of birth control. Acceptable forms of birth control include abstinence, birth control pills, or any double combination of: intrauterine device (IUD), male or female condom, diaphragm, sponge, and cervical cap.
+2. Diagnostic confirmation by amyloid PET with florbetaben or another approved amyloid PET ligand. Previous amyloid imaging study with a positive result will be accepted. If none is available, then amyloid PET will be conducted during screening. Diagnostic confirmation by a CSF sample collected at the screening visit lumbar puncture in place of amyloid PET will also be acceptable
+3. Neuroimaging (MRI) obtained during screening consistent with the clinical diagnosis of Alzheimer's disease and without findings of significant exclusionary abnormalities (see exclusion criteria, number 4). An historical MRI, up to 1 year prior to screening, may be used as long as there is no history of intervening neurologic disease or clinical events (such as a stroke, head trauma etc.) and the subject is without clinical symptoms or signs suggestive of such intervening events.).
+4. MMSE 18-26 inclusive.
+
+Exclusion Criteria:
+
+1. Screening MRI (or historical MRI, if applicable) of the brain indicative of significant abnormality, including, but not limited to, prior hemorrhage or infarct \>1 cm3, \>3 lacunar infarcts, cerebral contusion, encephalomalacia, aneurysm, vascular malformation, subdural he

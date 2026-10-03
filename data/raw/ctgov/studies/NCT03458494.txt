@@ -1,0 +1,31 @@
+Title: The TCF7L2 Gene: Dietary Prevention of T2DM
+Official title: The TCF7L2 Gene: Nutrigenomics and Dietary Prevention of Type 2 Diabetes
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Type2 Diabetes; Glucose, High Blood
+Interventions: Mediterranean Diet (OTHER); Low-fat diet (OTHER)
+Summary: Nutrients and chemicals in food are able to regulate expression of genetic elements. Gene-nutrient interaction in response specific diets can increase an individual's risk, shifting the individual from health toward the development of chronic disease. The Transcription Factor 7 Like 2 (TCF7L2) gene may either put individuals at risk for or protect from Type 2 diabetes mellitus in the presence of certain foods. The main purpose of this four-week study is to examine diet-induced gene-nutrient interaction, with a focus on glucose, insulin, inflammation (CRP) and the plasma metabolome in individuals who have either the CC or the TT form of the rs7903146 single nucleotide polymorphism (SNP) (C/T) within the TCF7L2 gene. The (2) one-week study diets, one Mediterranean diet (MedDiet) based and the other low-fat based will be separated by a (1) week return to a regular habitual diet.
+Eligibility: Inclusion Criteria:
+
+* Men and women.
+* 18 years or older.
+* Women who are not pregnant.
+* A BMI ranging between 27 and 34
+
+Exclusion Criteria:
+
+* Unexplained elevation in serum transaminases (i.e. \>1.5 times the upper limit of normal) or with evidence of active liver disease, including primary biliary cirrhosis or pre-existing gallbladder disease.
+* Severe renal dysfunction (serum creatinine \>2.0mg/dL).
+* Excessive alcohol consumption (\>2 drinks/day).
+* Preexisting CVD.
+* Stable exertional angina pectoris requiring sublingual nitroglycerin within the prior 3 months.
+* Uncontrolled T2D (fasting glucose \>126 mg/dl) or other significant endocrine disease.
+* Uncontrolled hypertension (systolic blood pressure \>180 mmHg or diastolic blood pressure \>100 mmHg).
+* History of pancreatitis within 1 yr. prior to screening.
+* Subjects on lipid-lowering or diabetes medications.
+* Smoking.
+* Pregnancy.
+* Body mass index (BMI) below 27 or greater than 34 kg/m2
+* Participants will also be excluded for drug abuse, extreme dietary habits, multiple food allergies, extreme levels of physical or athletic activity, or by changes in body weight \>20 lbs. during the last 6 months.
+* Inability to follow any of the experimental diets or to perform the sampling required for this study.
+* Thyroid diseases.
+* Use of omega-3 supplements (unless it is discontinued one month prior to the beginning of the study).

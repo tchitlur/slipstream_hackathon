@@ -1,0 +1,19 @@
+Title: EASEGO Study: Doubling of Atorvastatin/Simvastatin or INEGY in Patients With Hypercholesterolemia and Coronary Artery Disease(CAD)(0653A-089)
+Official title: A Prospective Randomized Open Label Blinded Endpoint Multicenter Study in Patients With Coronary Artery Disease to Assess the LDL Lowering Effect of Switching to Ezetimibe (+) Simvastatin for Cholesterol Lowering, Compared the Dose of the Statin Used.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Atherosclerosis
+Interventions: ezetimibe (+) simvastatin (DRUG); simvastatin (DRUG); atorvastatin (DRUG)
+Summary: In patients with coronary artery disease and a LDL-C level between 2.5 mmol/L and 5.0 mmol/L on a stable (\> 4 weeks) statin starting dose (simvastatin 20 mg or atorvastatin 10 mg), investigate what the LCL-C lowering efficacy is of doubling the statin dose (to 40 mg simvastatin or 20 mg atorvastatin) versus a combination tablet of ezetimibe 10 mg plus simvastatin 20 mg once daily for 12 weeks. It is postulated that more patients reach their LDL-C treatment goal with the combination tablet compared to doubling the starting dose. Furthermore, the effect of both treatment regimens on other lipid parameters, safety and LDL-subfractions will be measured.
+Eligibility: Inclusion Criteria:
+
+* Patient is male or female 18 years of age.
+* Patient is on a stable daily statin starting dose for the past 4 weeks of either: atorvastatin 10 mg or; simvastatin 20 mg
+* lipid values while on statin monotherapy treatment: LDL-C level of \> 2.5 mmol/L to \* 5.0 mmol/L, triglycerides \< 4.0 mmol/L and total cholesterol \< 7.0 mmol/L.
+* Patient with established coronary artery disease such as stable angina; history of myocardial infarction; history of percutaneous coronary intervention (PTCA with or without stent placement); coronary stenosis on angiography; history of unstable angina or non-Q wave myocardial infarction; history of coronary artery bypass graft surgery (CABG); positive MIBI scan. Patients have to be in a stable medical condition.
+
+Exclusion Criteria:
+
+* Patients in whom cholesterol lowering medication regime has changed in the previous 4 weeks.
+* Patients who have been treated with any other investigational drug within 3 months of Visit 1.
+* Patients who are pregnant or lactating.
+* Any condition or situation which, in the opinion of the investigator, might pose a risk to the patient or interfere with participation in the study.

@@ -1,0 +1,24 @@
+Title: Clinical and Kinematic Assessment for Determination of Botox® Injection Parameters in Cervical Dystonia
+Official title: Comparison of Clinical and Kinematic Assessment in the Determination of Botox® Injection Parameters in Cervical Dystonia Patients
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Cervical Dystonia
+Interventions: Botulinum Toxin Type A (DRUG)
+Summary: This study investigates the use of a kinematic measurement device to quantify the abnormal head movements and postures in patients with cervical dystonia (CD) in order to individualize and optimize botulinum toxin type A (BoNT-A) injection therapy. A single sensor captures five degrees of freedom of the neck and head that distinguish which muscle(s) contribute to CD and the amount of BoNT-A to inject into these muscle(s). The efficacy, relief and improvements in social, occupation and function by injections will be investigated. The efficacy of BoNT-A therapy using either BoNT-A injection parameters from clinical-based assessments and kinematically-based assessments will be investigated in CD patients. Individuals clinically diagnosed with CD will be randomized for two treatment conditions: A) injection parameters from a kinematic assessment only, or B) injection parameters from a clinical assessment only.
+Eligibility: Inclusion Criteria:
+
+* Consenting male and female individuals between the ages of 18 and 80
+* Diagnosed with idiopathic spasmodic torticollis (also called cervical dystonia) by neurologist
+* Botulinum neurotoxin type A injection(BoNT A; Botox®) naïve individuals will be randomized into either clinical-assessment arm or kinematic-assessment arm and the participants will be blinded to which arm they are a part of
+* CD individuals who are receiving suboptimal BoNT-A effects will be recruited to receive kinematic-based injections. These participants will have to wait a minimum of 4 months before participating in this study
+* Able to attend all study sessions
+* Able to provide written consent
+
+Exclusion Criteria:
+
+* Pregnant individuals
+* Women who are nursing
+* Individuals with a known Botox® allergy
+* Individuals with a known or suspected traumatic cause for the torticollis, a prior thalamotomy, or peripheral (nerve or muscle) operation
+* Individuals with cervical contractures that limit passive range of motion
+* Motor/nerve diseases such as myasthenia gravis, other diseases of the neuromuscular junction and/or Amyotrophic Lateral Sclerosis
+* Myotomy or denervation surgery involving the neck or shoulder region

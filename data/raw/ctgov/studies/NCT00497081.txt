@@ -1,0 +1,32 @@
+Title: Mirtazapine to Reduce Methamphetamine Use Among MSM With High-risk HIV Behaviors
+Official title: Mirtazapine to Reduce Methamphetamine Use Among MSM With High-risk HIV Behaviors
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Substance Abuse; HIV Infections
+Interventions: mirtazapine (DRUG); placebo (DRUG)
+Summary: Studies demonstrate that methamphetamine (meth) use is associated with high-risk sexual behavior among MSM, putting meth-using MSM at extraordinarily high risk for transmitting or acquiring HIV. This study of intermediate size (60 participants) and length (3 months of follow-up) will assess the efficacy of mirtazapine in reducing methamphetamine use among high-risk MSM.
+Eligibility: Inclusion Criteria:
+
+1. HIV-negative by rapid test, or documentation of HIV infection with a laboratory result of a positive HIV test;
+2. male gender;
+3. reports having anal sex with men in the prior 3 months while using methamphetamine;
+4. diagnosed with methamphetamine dependence as determined by SCID;
+5. interested in stopping or reducing methamphetamine use;
+6. at least one methamphetamine-positive urine at screening and run-in period;
+7. no known allergies to mirtazapine;
+8. no current acute illnesses requiring prolonged medical care;
+9. no chronic illnesses that are likely to progress clinically during trial participation;
+10. able and willing to provide informed consent and to be followed over a 3-month period;
+11. age 18-60 years;
+12. baseline CBC, total protein, albumin, glucose, alk phos, creatinine, BUN and electrolytes without clinically significant abnormalities as determined by investigator in conjunction with symptoms, physical exam, and medical history.
+
+Exclusion Criteria:
+
+1. evidence of current major depression, as determined by SCID;70
+2. history of bipolar disorder or psychosis, as determined by SCID;
+3. taking anti-depressant or other psychotropic medication within the last 30 days, including mirtazapine or a monoamine oxidase (MAO) inhibitor;
+4. currently using or unwilling not to use pseudoephedrine-containing products for trial duration (causes false positive urines for methamphetamine use);
+5. current CD4 count \< 200 cells/mm3;
+6. measured moderate or severe liver disease (AST, ALT, and total bilirubin \> 3 times upper limit of normal) and/or any symptoms of current liver disease;
+7. impaired renal function (creatinine clearance \< 60 ml/min);
+8. currently participating in another research study;
+9. any condition that, in the principal investigator's judgment, interferes with safe study participation or adherence to study procedures.

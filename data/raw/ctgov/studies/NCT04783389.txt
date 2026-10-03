@@ -1,0 +1,16 @@
+Title: A Study to Evaluate CBP-201, Rademikibart, in Adult Patients With Chronic Rhinosinusitis With Nasal Polyps
+Official title: A Multicenter, Randomized, Double-blind, Placebo-controlled Study to Evaluate CBP-201 in Adult Patients With Chronic Rhinosinusitis With Nasal Polyps
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Chronic Rhinosinusitis With Nasal Polyps
+Interventions: CBP-201 (DRUG); Placebo (DRUG)
+Summary: This study will evaluate the effect of CBP-201, rademikibart, in adult patients with Chronic Rhinosinusitis with Nasal Polyps (CRSwNP).
+Eligibility: Inclusion Criteria:
+
+1. Female and male patients aged ≥ 18 and ≤ 75 years at the time of screening.
+2. Patients who are diagnosed with chronic rhinosinusitis with bilateral polyps despite treatment with systemic corticosteroid within the past 2 years and/or medical contraindication/intolerance to systemic corticosteroids. The polyps have a minimum bilateral nasal polyps score (NPS) of 5 out of a maximum score of 8 with at least a score of 2 for each nostril at screening and baseline evaluated by endoscopy.
+3. Nasal congestion/blockade/obstruction with moderate or severe symptom severity (Nasal Congestion Score of \> 2) at screening and a weekly average severity of \> 1 at time of randomization.
+4. Patients using a documented stable dose of nasal mometasone at least 200 mcg/day, or an equivalent daily dose of another inhaled nasal corticosteroid (INCS), for at least 28 days before randomization and willing to continue the dose for the duration of the study. Note: For patients who are using an alternative INCS product other than mometasone furoate nasal spray (MFNS) prior to the screening visit, the investigator must switch the patient to MFNS at V1.
+5. Patients willing to enter Patient Diary daily symptom assessments and maintain stable dosing with MFNS with a compliance of at least 70% in the 7 days preceding randomization. Note: Patients must use nasal mometasone at least 200 mcg/day, or equivalent, for at least 28 days before randomization, which can include days prior to screening with supportive documentation. Run-in can be 7-31 days with the compliance determined in the week prior to dosing.
+6. Male patients who are non-sterilized and sexually active with a female partner of childbearing potential agree to use highly effective contraception from randomization until 8 weeks after last dose.
+7. Female patients of childbearing potential who are sexually active with a nonsterilized male partner should have a confirmed negative serum beta-human chorionic gonadotropin test at Visit 1 and agrees to use highly effective contraception from signing of informed consent throughout the duration of the study and for 8 weeks after last dose.
+8. Patient is able to understa

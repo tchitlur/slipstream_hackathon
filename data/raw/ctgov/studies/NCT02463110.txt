@@ -1,0 +1,54 @@
+Title: Acute Myocardial Necrosis and Depression: Antiplatelet Effect of Reuptake Inhibition of Serotonin
+Official title: Acute Myocardial Necrosis and Depression: Antiplatelet Effect of Reuptake Inhibition of Serotonin: The ANDROS Study
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Depression; Coronary Artery Disease
+Interventions: Sertraline (DRUG); No treatment (DRUG); Placebo (DRUG)
+Summary: Primary purpose:
+
+To evaluate the evolution in time of the antiaggregant platelet effect of sertraline (SSRI) compared to placebo in depressive patients with ACS (Acute Coronary Syndrome) and treated as recommended by a double antiplatelet therapy, aspirin and clopidogrel.
+
+Hypothesis:
+
+The benefits of SSRIs observed in depressive patients with ACS are related to an antiplatelet effect.
+Eligibility: Inclusion Criteria:
+
+* Patient Aged 18 years and older
+* Patient Depressive without antidepressant therapy for three months (valid only for the sertraline and placebo groups)
+* Patient With ACS with elevated cardiac enzymes (above the 99th percentile of the upper limit of normal of the laboratory)
+* Patient That assessed depressive symptoms : Test Beck (13 items)
+* Patient Affiliated to a social security scheme (beneficiary or assignee)
+* Patient Having signed a free and informed consent
+
+Exclusion Criteria:
+
+* Cardiovascular
+
+  * History of serious bleeding (recent hemoglobin fall 5g / dl ( \<3 months ), intracranial hemorrhage or hemorrhagic tamponade)
+  * Uncontrolled hypertension (SBP \> 180 mmHg or DBP \> 100 mmHg)
+  * Stroke \<3 months
+  * Treatment with ticagrelor or prasugrel for the duration of the study.
+* Psychiatric
+
+  * Psychosis, bipolar illness
+  * Dementia (Mini- Mental State Examination score \< 23)
+  * Uncontrolled epilepsy
+  * Severe depression (score \> 15) with suicidal risk identified by a psychiatrist (urgent treatment for depression needed)
+  * Patient experienced depression and treated in the last three months or currently receiving treatment
+  * Treatment with selective and non-selective monoamine oxidase inhibitors of the group A within 14 days prior to the introduction of sertraline
+* Clinical and Biological
+
+  * Prothrombin time \> 1.5 second
+  * Platelet rate \< 100 000 / mm3
+  * Hematocrit rate \< 25%
+  * Serum creatinine \> 4.0 mg / dl
+  * Severe hepatic impairment (Child Pugh stage C)
+* Contraindications to sertraline (placebo / sertraline group)
+
+  * Hypersensitivity to the active substance or to any of the excipients (anhydrous lactose, pregelatinized corn starch, sodium laurilsulfate , magnesium stearate)
+  * Treatment with pimozide
+  * Genetic galactose intolerance, malabsorption of glucose and galactose, lactase deficiency
+* Regulatory
+
+  * Women without effective contraception or pregnant or lactating or desiring pregnancy or within 6 months after randomization
+  * Participation in biomedical research on other drugs during the period of participation
+  * Patients unable to follow the treatment

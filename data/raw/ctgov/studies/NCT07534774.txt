@@ -1,0 +1,25 @@
+Title: Pilot Study of Real-Time Blood Pressure Decision Support During Cesarean Delivery Under Spinal Anesthesia
+Official title: Open-Label Pilot Study of a Clinician-Facing Decision-Support Algorithm for Blood Pressure Forecasting During Cesarean Delivery Under Spinal Anesthesia
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Spinal Hypotension
+Interventions: ARX Decision-Support Display (OTHER)
+Summary: This single-center, open-label pilot study evaluates a clinician-facing decision-support algorithm that displays real-time forecasts of maternal mean arterial pressure (MAP), a measure of blood pressure, during elective cesarean delivery under spinal anesthesia. The display provides 1-, 2-, and 3-minute MAP forecasts from the time of spinal anesthesia administration until delivery or up to 20 minutes, whichever occurs first. Clinicians continue to manage blood pressure according to usual institutional practice, including phenylephrine infusion and bolus dosing, and retain full autonomy over treatment decisions; the study display does not provide dosing recommendations. The primary objective is to assess the prospective accuracy of short-horizon MAP forecasts. Secondary outcomes assess intraoperative hypotension burden and phenylephrine exposure during the observation window, including exploratory comparison with matched nonconcurrent controls.
+Eligibility: Inclusion Criteria:
+
+1. Adult pregnant individuals (≥18 years old) presenting for elective or scheduled cesarean delivery.
+2. ASA physical status 2 or 3 (obstetric patients without severe comorbidities).
+3. Singleton pregnancy at term (≥37 weeks gestation).
+4. Planned spinal anesthesia for cesarean delivery with phenylephrine infusion (and/or boluses) as the primary vasopressor.
+5. Able to provide informed consent.
+6. No known fetal anomalies or intrauterine demise.
+
+Exclusion Criteria:
+
+1. Pre-existing or gestational hypertensive disorders (e.g., chronic hypertension, preeclampsia, eclampsia) or use of cardiovascular medications that can affect blood pressure or heart rate (e.g.
+
+   propranolol for migraine)
+2. Known major cardiovascular disease or arrhythmias requiring treatment (e.g., heart failure, significant valvular disease).
+3. Planned use of non-phenylephrine vasopressors (e.g., ephedrine, norepinephrine) for routine BP management.
+4. Allergy or contraindication to bupivacaine or phenylephrine.
+5. Urgent or emergent cesarean delivery (where time constraints may not allow for adequate data collection or informed consent).
+6. Inability to cooperate with protocol procedures.

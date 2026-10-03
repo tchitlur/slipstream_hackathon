@@ -1,0 +1,24 @@
+Title: Pivotal Study of N-acetyl-L-leucine for CACNA1A
+Official title: Effects of N-Acetyl-L-Leucine on CACNA1A Disorders: A Phase III, Randomized, Placebo-controlled, Double-blind, Crossover Study
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: CACNA1A; Spinocerebellar Ataxia Type 6; Episodic Ataxia Type 2; Familial Hemiplegic Migraine-1
+Interventions: N-Acetyl-L-Leucine (DRUG); Placebo (OTHER)
+Summary: A pivotal, randomized, double-blind, placebo-controlled, multi-center therapeutic study for patients age 4 and older with a confirmed diagnosis of CACNA1A. The objective of this study is to evaluate the safety, tolerability and efficacy of N-acetyl-L-leucine (IB1001) compared to standard of care.
+Eligibility: Inclusion Criteria: Individuals who meet all of the following criteria are eligible to participate in the study:
+
+1. Written informed consent signed by the patient and/or their legal representative / parent/ impartial witness.
+2. Male or female aged ≥4 years with a genetically-confirmed diagnosis of a CACNA1A Disorder (including patients with loss-of-function and fain-of-function mutations, e.g. Episodic Ataxia Type 2 (EA2), Familial Hemiplegic Migraine Type 1, Spinocerebellar Ataxia type C (SCA6), Developmental and Epileptic encephalopathy 42 (DEE42), Congenital ataxia or cerebellar hypoplasia due to a CACNA1A mutation) at the time of signing informed consent.
+3. Females of childbearing potential, defined as a premenopausal female capable of becoming pregnant, will be included if they are either sexually inactive (sexually abstinent for 14 days prior to the first dose and confirm to continue through 28 days after the last dose) or using one of the following highly effective contraceptives (i.e. results in \<1% failure rate when used consistently and correctly) 14 days prior to the first dose continuing through 28 days after the last dose:
+
+   1. intrauterine device (IUD);
+   2. surgical sterilization of the partner (vasectomy for 6 months minimum);
+   3. combined (estrogen or progestogen containing) hormonal contraception associated with the inhibition of ovulation (either oral, intravaginal, or transdermal);
+   4. progestogen only hormonal contraception associated with the inhibition of ovulation (either oral, injectable, or implantable);
+   5. intrauterine hormone releasing system (IUS);
+   6. bilateral tubal occlusion.
+4. Females of non-childbearing potential who have undergone one of the following sterilization procedures at least 6 months prior to the first dose:
+
+   1. hysteroscopic sterilization;
+   2. bilateral salpingectomy;
+   3. hysterectomy;
+   4. bilateral oophorectomy; OR be postmenopausal with amenorrhea for at least 1 year prior to the first dose and follicle stimulating hormone (FSH) serum levels consistent with postmenopausal status. FSH analysis for postmenopausal women will be done at screening. FSH levels should be in the postmenopausal ran

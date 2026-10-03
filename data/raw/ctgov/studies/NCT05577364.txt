@@ -1,0 +1,30 @@
+Title: Selinexor in Combination With R-CHOP Followed by Selinexor Maintenance for Untreated EBV-positive DLBCL Patients
+Official title: A Single-arm, Multi-center, Phase Ib/II Study of Selinexor in Combination With R-CHOP Followed by Selinexor Maintenance for Untreated EBV-positive DLBCL Patients (Xplore Trial)
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: EBV-Positive Diffuse Large B-Cell Lymphoma, Nos
+Interventions: Selinexor (DRUG); R-CHOP Protocol (DRUG)
+Summary: This is a prospective, single-arm, multi-center, phase Ib/II clinical trial to evaluate the safety, tolerability, and efficacy of selinexor in combination with R-CHOP (rituximab, cyclophosphamide, vincristine, doxorubicin, and prednisone) followed by selinexor maintenance for untreated EBV-positive diffuse large B-cell lymphoma (DLBCL) patients.
+Eligibility: Inclusion Criteria:
+
+1. Subjects fully understand and voluntarily participate in this study and sign informed consent
+2. Age ≥18, ≤70 years, no gender limitation.
+3. Histologically confirmed diagnosis of EBV-positive diffuse large B-cell lymphoma (DLBCL) (more than 50% of tumor cells are positive with EBV encoded small RNAs (EBERs) in situ hybridization were considered EBERs positive).
+4. Untreated patients, except for the short-time use of prednisone for controlling tumor-induced symptoms (no more than 30mg/d (or other equivalent amounts of other glucocorticoids), no more than 7 days).
+5. There must be at least one measurable or evaluable lesion that meets the evaluation criteria for Lugano 2014 lymphoma: measurable lesion: Positron emission tomography/computed tomography (PET/CT) or CT and/or MRI, intranodal lesions with long diameter \>1.5cm, and short diameter \>1.0cm, or extranodal lesions with long diameter \> 1.0 cm.
+6. Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) 0-2.
+7. Expected survival ≥ 3 months.
+8. Adequate function of bone marrow:
+
+   White blood cell ≥3.0×10E9/L, absolute neutrophil count ≥1.5×10E9/L Platelet ≥100×10E9/L (Bone marrow invasive patient≥75×109/L) Hemoglobin≥ 90g/L No granulocyte growth factor, platelet, or red blood cell transfusions were received within 14 days prior to examination.
+9. Adequate function of the liver and renal:
+
+   Total bilirubin≤2×upper limit of normal (ULN) (patients with liver invasion or Gilbert syndrome ≤5×ULN) Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤2.5×ULN (patients with liver invasion ≤5×ULN) Serum creatinine ≤1.5×ULN or creatinine clearance rate ≥60 mL/min
+10. The patients agree to take effective contraceptive measures during the study period and till 12 months after the last administration of the study treatment.
+
+Exclusion Criteria:
+
+1. EBV-positive DLBCL combined with other types of lymphoma. Transformed DLBCL.
+2. EBV-positive DLBCL with central nervous system invasion.
+3. The patients had previously received XPO1 inhibitors, such as selinexor and so on.
+4. The patients have contraindications to any drug in the combined treatment.
+5. The major surgery is 

@@ -1,0 +1,25 @@
+Title: Observe Alternating Hemiplegia of Childhood (OBSERV-AHC) Study
+Official title: Observe Alternating Hemiplegia of Childhood (OBSERV-AHC) Prospective Observational Natural History and Therapy Study
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Alternating Hemiplegia
+Interventions: Review of past medical history, clinical exam, and electroencephalogram, polysomnography and urine samples of melatonin and pupillometry. (OTHER); The patients' parents have to complete the VINELAND II adaptive behavior scales scoring, The Sleep Disturbance Scale for Children (SDSC) and Horne & Ostberg Circadian Typology Questionnaire (OTHER)
+Summary: Alternating Hemiplegia of Childhood (AHC) is a rare and serious disease that is in need of effective, and hopefully even curative, therapies. Afflicted patients suffer from severe paralyzing crises, often excruciatingly painful muscle spasms, severe often life threatening epileptic seizures, and frequently severe developmental and psychiatric/psychological disabilities. Based on the repeated input from family organizations and from professionals, as expressed at the London 2016 ATP1A3 in Disease meeting, there are urgent clinical research needs for AHC that are essential to better understand the disease, evaluate its treatment options and plan for future controlled clinical trials.
+
+The goal of the study is to evaluate different parameters involved in the evolution of the AHC. The investigating team's hypothesis is that the evolution is variable so it aims to evaluate the factors which could contribute to the progression of the disease.
+Eligibility: Inclusion Criteria:
+
+\- Patients who fit the Aicardi Alternating Hemiplegia of Childhood clinical criteria of any age. The Aicardi Criteria are six :
+
+* Paroxysmal hemiplegia episodes.
+* Bilateral hemiplegia or quadriplegia episodes.
+* Other paroxysmal manifestations, such as abnormal eye movements, nystagmus, strabismus, ataxia, dystonia, choreoathetosis, tonic spells, or autonomic disturbances.
+* Evidence of permanent neurological dysfunction, which can manifest as cognitive impairment, developmental delay, and/or persistent motor deficits such as spastic diplegia/quadriplegia, hypotonia, ataxia, choreoathetosis, or dystonia.
+* Sleep relieves symptoms, although attacks may resume soon after awakening.
+* First signs of dysfunction occur prior to the age of 18 months.
+
+Exclusion Criteria:
+
+* Patients who do not have a mutation of the ATP1A3 gene and having only some of the above criteria
+* Patients and / or their parents / legal guardian having provided their opposition to the study.
+* Incapacity of patient / parent or other referent adult to participate in the prospective phase of observation of different paroxysmal events of the disease and in the scoring of the Vineland II adaptive behavior scales.
+* Diagnosis of another disease, which could explain the presence of symptoms mentioned in the criteria of Aicardi.

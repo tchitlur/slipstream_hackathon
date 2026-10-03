@@ -1,0 +1,13 @@
+Title: Post Study Continuation of C7 for G1D
+Official title: Post Study Continuation of C7 for G1D
+Status: NO_LONGER_AVAILABLE. Type: EXPANDED_ACCESS. Phases: none.
+Conditions: Glut1 Deficiency Syndrome; Glucose Transporter Type 1 Deficiency Syndrome
+Interventions: Triheptanoin (DRUG)
+Summary: This protocol provides ongoing access to triheptanoin for patients who did complete an initial pilot protocol, and provides the opportunity to collect long-term safety data from patients treated with triheptanoin.
+Eligibility: Inclusion Criteria:
+
+* Patients enrolled in the pilot trial (UTSW 122010-186)
+
+Exclusion Criteria:
+
+* Subjects who did not complete the pilot trial (UTSW 122010-186)

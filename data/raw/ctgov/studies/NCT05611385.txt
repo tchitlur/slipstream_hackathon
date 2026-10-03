@@ -1,0 +1,14 @@
+Title: Amphetamine Induced Adult Respiratory Distress Syndrome
+Official title: High Incidence of Adult Respiratory Distress Syndrome Associated With Amphetamine Use in the Burn Population
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Burns; Acute Lung Injury; Acute Respiratory Distress Syndrome; Methamphetamine Abuse
+Interventions: Difference in development of Acute Lung Injury in Amphetamine positive and negative patients (OTHER)
+Summary: Methamphetamine and amphetamine has various cardiovascular and central nervous system effects. Long-term use is associated with many adverse health effects including cardiomyopathy, hemorrhagic, and ischemic stroke. Death is usually caused by cardiovascular collapse and while amphetamine abuse has been considered as a potential cause of acute respiratory distress syndrome, the reports are usually anecdotal. This investigation considers reviewing individuals with few to zero medical conditions who develop acute respiratory distress syndrome and are methamphetamine positive
+Eligibility: Inclusion Criteria:
+
+* Total body surface area burns between 20% and 60% admitted to the burn unit
+
+Exclusion Criteria:
+
+* Under 18 years of age
+* Burns outside of the inclusion ratio

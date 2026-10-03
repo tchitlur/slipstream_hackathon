@@ -1,0 +1,31 @@
+Title: Efficacy and Safety of Statin on the Course of Progressive Smoldering Multiple Myeloma
+Official title: Open -Label Phase IIa Trial of the Efficacy and Safety of Statin on the Course of Progressive Smoldering Multiple Myeloma
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Smoldering Multiple Myeloma
+Interventions: Simvastatin (DRUG)
+Summary: The aim of the study is to evaluate the effect of statin administration on the course of progressive Smoldering Multiple Myeloma.
+Eligibility: Inclusion Criteria:
+
+1. Patients fulfilling the criteria of SMM. (see Appendix I)
+2. Patients with progressive smoldering Myeloma. (see Appendix II)
+3. Age 18-80 years.
+4. Signed informed consent prior to patient recruitment.
+
+Exclusion Criteria:
+
+1. Patients fulfilling diagnostic criteria of active MM .(see Appendix I)
+2. Patients fulfilling diagnostic criteria of: solitary myeloma or non secreting myeloma or oligosecretory myeloma or light chain myeloma.
+3. Patients on statin treatment on the day of recruitment.
+4. Patients on chemotherapy or receiving steroids.
+5. Patients with any contraindication to statin treatment:
+
+   * Known intolerance or hypersensitivity to statin.
+   * SGOT or SGPT above 1.5 times of upper normal level (UNL).
+   * CPK above UNL
+   * Concomitant treatment with macrolides and or antifungal agents (ketoconazole)
+   * Creatinine level above 1.5 mg%
+   * Any severe and/or uncontrolled medical disease (i.e., uncontrolled diabetes, chronic renal disease, or active uncontrolled infection).
+6. Patients with second primary malignancy (except for non melanoma skin malignancy) unless they have been disease free for at least five years.
+7. Patients who have a history of alcohol or drug abuse.
+8. Patients who are mentally or physically unable to comply with all aspects of the study.
+9. Participation to an investigational drug trial

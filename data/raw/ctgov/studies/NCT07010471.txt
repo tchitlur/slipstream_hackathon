@@ -1,0 +1,20 @@
+Title: A Clinical Trial for Participants With DEE to Assess Efficacy, Safety, Tolerability, and PK of Relutrigine
+Official title: A Phase 3, Randomized, Multi-Center, Double-Blind, Placebo-Controlled Clinical Trial to Evaluate the Efficacy, Safety, Tolerability, and Pharmacokinetics of Relutrigine in Participants With DEE Followed by an Open-Label Extension
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Developmental and Epileptic Encephalopathy 1
+Interventions: 1.0mg/kg/day PRAX-562 (DRUG); 1.5mg/kg/day PRAX-562 (DRUG); Placebo (DRUG)
+Summary: A Phase 3, Randomized, Multi-Center, Double-Blind, Placebo-Controlled Clinical Trial to Evaluate the Efficacy, Safety, Tolerability, and Pharmacokinetics of Relutrigine in Participants with Developmental and Epileptic Encephalopathies Followed by an Open-Label Extension
+Eligibility: Inclusion Criteria:
+
+* Has a documented diagnosis of a developmental and epileptic encephalopathy.
+* Onset of seizures \<12 years old.
+* Has a weight \>7 kg at the time of signing consent/assent.
+
+Exclusion Criteria:
+
+* Has a history of left bundle branch block, arrhythmias, Brugada syndrome, congenital heart disease, familial short QT syndrome, or family history of sudden death or ventricular arrhythmias, including idiopathic ventricular fibrillation.
+* Had 2 or more episodes of convulsive status epilepticus requiring hospitalization and intubation in the 6 months prior to Screening.
+* Has an abnormal ECG reading, including a QT interval corrected for heart rate using Bazett's method (QTcB) \<350 and \>450 ms (males), or \<360 and \>460 ms (females) at Screening and/or on Day 1.
+* Any nerve stimulation must have been placed at least 3 months prior to Screening with at least 1 month of stable settings prior to Screening.
+* Has received any other experimental or investigational drug, device, or other therapy within 30 days or 5 half-lives (whichever is longer) prior to Screening, including any prior use of gene therapy.
+* Is currently pregnant or breastfeeding or is planning to become pregnant during the clinical trial or within 5 half-lives of the last study drug dose.

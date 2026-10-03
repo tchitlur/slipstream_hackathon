@@ -1,0 +1,31 @@
+Title: Pentoxifylline, Atorvastatin, and Vitamin E in Treating Patients With Erectile Dysfunction After Radiation Therapy for Prostate Cancer
+Official title: Pentoxifylline, Atorvastatin, and Vitamin E (PAVE) as Treatment for Radiation-Induced Erectile Dysfunction
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Male Erectile Disorder; Prostate Adenocarcinoma; Erectile Dysfunction, CTCAE; Impotence
+Interventions: Atorvastatin (DRUG); Pentoxifylline (DRUG); Vitamin E Compound (DIETARY_SUPPLEMENT)
+Summary: This phase II trial studies how well pentoxifylline, atorvastatin, and vitamin E (PAVE) work in treating patients with erectile dysfunction after radiation therapy for prostate cancer. Atorvastatin may reduce high cholesterol. Pentoxifylline and vitamin E may enhance blood flow. Giving PAVE may work better in treating prostate cancer patients with post-radiation therapy erectile dysfunction.
+Eligibility: Inclusion Criteria:
+
+* Histologically or cytologically confirmed diagnosis of adenocarcinoma of the prostate
+* Previous radiation therapy (any form) with curative intent for prostate cancer
+* Erectile dysfunction, as determined by an International Index of Erectile Function (IIEF)-5 score of \< 22
+* Normal testosterone (including men on testosterone replacement), defined as testosterone \> 150 ng/dl at the time of screening
+* Karnofsky Performance Status (KPS) \>= 70, or Eastern Cooperative Oncology Group (ECOG) 0-2
+* Patients may be taking an HMG-coA-reductase inhibitor
+* Serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST) =\< 3 X upper limits of normal (ULN)
+* Creatinine kinase \< 5 times ULN
+* Normal renal function is defined as creatinine clearance \>= 30 ml/min via the Cockcroft Gault formula
+
+Exclusion Criteria:
+
+* No androgen deprivation therapy within the past 12 months
+* No contraindication to an HMG-coA-reductase inhibitor, vitamin E or pentoxifylline
+* Not currently taking cyclosporine, the human immunodeficiency virus (HIV) protease inhibitors, hepatitis C protease inhibitors, gemfibrozil, other fibrates, clarithromycin, itraconazole or strong inhibitors of CYP3A4
+* No recent cerebral or retinal hemorrhage that in the opinion of the treating physician would make PAVE unsafe (within 6 months)
+* No current chemotherapy during study participation
+* No active liver or muscle disease that in the opinion of the treating physician would make PAVE unsafe
+* No prior radical prostatectomy, cystoprostatectomy, abdominoperineal resection or retroperitoneal lymph node dissection
+* Not currently taking a 5PDE inhibitor nor have used one within 30 days of enrolling in the study
+* No recent deep venous thrombosis, myocardial infarction or pulmonary embolism (within 6 months) requiring continued anticoagulation other than aspirin (acetylsalicylic acid \[ASA\])
+* No cardiac arrhythmias or artificial heart valves requiring anticoagulation other than ASA
+* No concurrent drugs with anti-platelet therapy properties (e.g., P2Y12 inhibitors, non-steroidal anti-inflammatory agents, selective serotonin reuptake inhibitors) other than low dose ASA (81 mg/

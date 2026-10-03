@@ -1,0 +1,17 @@
+Title: Off Label Use of Infliximab in Adult Patients With Severe Eosinophilic Esophagitis
+Official title: Phase 2 Proof-of-Concept Study to Analyze the Efficacy of in TNF-Alpha Blockade in Adult Patients With Severe, Corticosteroid-Dependent Eosinophilic Esophagitis
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Esophagitis
+Interventions: Infliximab (DRUG)
+Summary: Eosinophilic Esophagitis (EE) is a chronic inflammatory disorder of the esophagus with a constantly increasing prevalence. It has been demonstrated that the expression of the cytokine TNF-α is up regulated in EE and that this pro-inflammatory cytokine is highly expressed by the keratinocytes of the esophageal epithelium in patients with active EE. Furthermore, it has been shown that TNF-α is capable to induce eotaxin-3 production in keratinocytes. These results suggest that TNF-α plays a crucial role in the pathogenesis of EE. Based on these findings, the investigators plan a prospective T1 translational study with the purpose to evaluate the efficacy of an Infliximab monotherapy in adult patients with severe, corticosteroid-dependent EE.
+Eligibility: Inclusion Criteria:
+
+* Adult patients with severe, corticosteroid-dependent eosinophilic esophagitis
+
+Exclusion Criteria:
+
+* Pregnancy
+* Evidence of latent or active tuberculosis
+* Other contra-indications for TNF-alpha blockers
+* Unstable medical conditions
+* Malignancies

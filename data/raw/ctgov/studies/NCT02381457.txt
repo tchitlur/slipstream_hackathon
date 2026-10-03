@@ -1,0 +1,19 @@
+Title: SNP-based Microdeletion and Aneuploidy RegisTry (SMART)
+Official title: SNP-based Microdeletion and Aneuploidy RegisTry
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: 22q11 Deletion Syndrome; DiGeorge Syndrome; Trisomy 21; Trisomy 18; Trisomy 13; Monosomy X; Sex Chromosome Abnormalities; Cri-du-Chat Syndrome; Angelman Syndrome; Prader-Willi Syndrome; 1p36 Deletion Syndrome
+Interventions: none
+Summary: This multi-center prospective observational study is designed to track birth outcomes and perinatal correlates to the Panorama prenatal screening test in the general population among ten thousand women who present clinically and elect Panorama microdeletion and aneuploidy screening as part of their routine care. The primary objective is to evaluate the performance of Single Nucleotide Polymorphism (SNP)-based Non Invasive Prenatal Testing (NIPT) for 22q11.2 microdeletion (DiGeorge syndrome) in this large cohort of pregnant women. This will be done by performing a review of perinatal medical records and obtaining biospecimens after birth to perform genetic diagnostic testing for 22q11.2 deletion. Results from the follow-up specimens will be compared to those obtained by the Panorama screening test to determine test performance. Specific test performance parameters will include: PPV, specificity, and sensitivity.
+Eligibility: Inclusion Criteria:
+
+* Singleton pregnancy
+* Receiving Panorama prenatal screening test for both microdeletions (at least 22q11.2) and aneuploidy
+* Planned hospital delivery
+* Gestational age of ≥ 9 weeks, 0 days based on clinical information and evaluation.
+* Able to provide informed consent
+
+Exclusion Criteria:
+
+* Received results of the Panorama test prior to enrollment
+* Organ transplant recipient
+* Egg donor used

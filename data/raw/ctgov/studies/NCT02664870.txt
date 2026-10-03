@@ -1,0 +1,19 @@
+Title: Evaluation of Biomarkers in Human Synovial Fluid
+Official title: Prospective Biological and Clinical Databank for the Evaluation of Biomarkers in Human Synovial Fluid
+Status: ACTIVE_NOT_RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Osteoarthritis
+Interventions: Arthroscopy (PROCEDURE); Arthroplasty (PROCEDURE)
+Summary: Osteoarthritis is a condition that causes joints in the human body to deteriorate over time. This condition affects more than 250 million people around the globe. Currently, the goal of treating osteoarthritis involves reducing the severity and pain that results from the disease. The ultimate goal of this study is to identify patients with pre-arthritic joints (before symptoms or disease characteristics appear) in an effort to find and use treatments that stop or slow the disease. Joints are filled with a naturally occurring liquid known as synovial fluid. Molecules (biomarkers) and genetic expression of various cell types within synovial joint fluid may serve as measures of onset and progression of osteoarthritis. These samples have the potential to improve diagnosis, classification, and treatment, possibly changing the natural history of this debilitating disease. The purpose of this study is to develop a collection of synovial fluid samples from the shoulder, hip and knee for the analysis of biomarkers and cellular and genetic components therein to better understand the pre-arthritic joint, progression to disease, and response to interventions.
+Eligibility: Inclusion Criteria:
+
+1. Adult patients ( \> 18 years old)
+2. Patient is eligible for general anesthesia and either arthroscopy or arthroplasty.
+3. Patient needs standard of care arthroscopy or arthroplasty of either shoulder, hip or knee joint for osteoarthritis or prearthritic conditions.
+4. Patient must have signed an IRB approved informed consent document for the arthrocentesis procedure which will be performed during the arthroscopic or arthroplastic procedure.
+
+Exclusion Criteria:
+
+1. Active Joint Infection within last 6 months.
+2. Previous arthroplasty in the joint undergoing arthroplasty
+3. History of auto-immune arthropathies.
+4. History of HIV or Hepatitis C

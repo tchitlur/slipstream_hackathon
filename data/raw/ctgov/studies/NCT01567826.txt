@@ -1,0 +1,28 @@
+Title: Reduction in YEllow Plaque by Aggressive Lipid LOWering Therapy
+Official title: Reduction in YEllow Plaque by Aggressive Lipid LOWering Therapy. (YELLOW Trial)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Coronary Artery Disease
+Interventions: standard of care lipid therapy (DRUG); Aggressive lipid therapy (DRUG)
+Summary: The study will assess the regression of yellow plaque content of the lipid pool after aggressive lipid therapy by utilizing NIR spectroscopy. Statin therapy using Rosuvastatin 10-40 mg will be compared to the statin therapy of either Atorvastatin or Simvastatin. This is a single site study. A total of 100 subjects will randomized, of which 40 will receive intensive lipid therapy (Rosuvastatin 40mg) and 40 will receive standard care lipid lowering therapy.
+Eligibility: Inclusion Criteria:
+
+* Patient \> 18 years of age and willing to participate
+* Stable patients who will undergo cardiac catheterization and PCI (intent to stent)
+* Patient is willing to go on a cholesterol lowering medication for the duration of the study and willing to change statin therapy to the randomized statin therapy regardless of previous statin therapy and dose (e.g. Atorvastatin 80 mg) Patients that are screened for this study and are receiving another Statin such as Pravachol will be required to be willing to change their therapy to Rosuvastatin as per is randomization. If patients are receiving another statin, such as pravachol, or any other agent, and are at appropriate Lipid levels, they will be permitted to continue this therapy (if randomized to the standard therapy arm). There are a virtually unlimited number of possible scenarios for potential combination of all Lipid lowering agents at the time of enrollment that patients may be taking.
+* Signed written Informed Consent
+* Women of childbearing potential must agree to be on an acceptable method of birth control/contraceptive such as barrier method (condoms/diaphragm); hormonal contraceptives (birth control pills, implants (Norplant) or injections (Depo-Provera)); Intrauterine Device; or abstinence (no sexual activity).
+* Fluency in English and/or Spanish
+
+Exclusion Criteria:
+
+* Patients who have acute myocardial infarction (Q wave or non-Q wave with CK-MB \> 5 times above the upper normal (31.5 ng/ml) within 72 hours)
+* Patients who are in cardiogenic shock
+* Patients with left main disease or restenotic lesions
+* Patients with elevated CK-MB (\> 6.5 ng/ml) or Tnl (\> 0.5ng/L) at baseline
+* Patients with platelet count \< 100,000 cell/mm3
+* Patients who have co-morbidity which reduces life expectancy to one year
+* Patients who are currently participating in another investigational drug/device study
+* Patients with known hypersensitivity to HMG CO-A reductase therapy (statins)
+* Patients with liver disease
+* Patient with creatinine \> 2.0 mg/dL
+* Pregnant women and women of childbearing potential who intend to have children during the duration of the trial

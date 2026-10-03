@@ -1,0 +1,39 @@
+Title: The Effects of Renal Function and Atrial Fibrillation on Lipoproteins and Clot Structure/Function
+Official title: Stratifying Clinical Risk in Patients With Atrial Fibrillation and Chronic Kidney Disease by Studying How Abnormalities in Clot Structure/Function and Lipoproteins Contribute to Thrombosis and Bleeding
+Status: TERMINATED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Atrial Fibrillation; Chronic Kidney Disease
+Interventions: Statin (DRUG)
+Summary: This study is designed to investigate the role of lipids/lipoproteins as a potential cause for the harmful changes seen in fibrin clot properties with renal dysfunction and atrial fibrillation
+Eligibility: 6.1 Inclusion criteria
+
+WP1:
+
+* On anticoagulation therapy
+* Informed consent obtained
+
+WP2:
+
+* Not receiving statins prior to recruitment
+* Diagnosed atrial fibrillation
+* On anticoagulation therapy
+* Estimated glomerular filtration rate of \<50 ml/min/1.73m2
+* Informed consent obtained
+
+6.2 Exclusion criteria
+
+* Age \<18 years
+* Severe mitral stenosis or presence of metallic prosthetic valve
+* Active or recent malignancy (\<6 months)
+* Active immunological disease
+* Connective tissue disease
+* Chronic liver disease
+* Recent or chronic serious infection
+* Chronic inflammatory disease
+* Known haemophilia or thrombophilia
+* Active bleeding
+* Untreated hypothyroidism or hyperthyroidism
+* Recent surgery (\<3 months)
+* Familial lipid disorders
+* Concurrent use of steroids
+* Dietary supplements known to influence lipids
+* Contraindications/inability/unwillingness to commence statin (WP2)

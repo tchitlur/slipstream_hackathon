@@ -1,0 +1,15 @@
+Title: The Rolandic Epilepsy/ESES/Landau-Kleffner Syndrome and Correlation With Language Impairment Study
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rolandic Epilepsy; Nocturnal Frontal Lobe Epilepsy; Landau-Kleffner Syndrome; Electrical Status Epilepticus During Slow Wave Sleep
+Interventions: none
+Summary: In clinical practice language impairment is frequently reported in association with nocturnal epileptiform activity. There is a spectrum of epileptic conditions that are characterized by nocturnal epileptiform activity. From mild to severe this spectrum involves: Rolandic epilepsy (RE), nocturnal frontal lobe epilepsy (NFLE), Landau-Kleffner syndrome (LKS) and electrical status epilepticus during slow wave sleep (ESES). The exact characteristic of the relationship between nocturnal epileptiform activity and language impairment is yet to be explored. The investigators suggest that nocturnal epileptiform EEG discharges and nocturnal epileptic seizures during development will cause diseased neuronal networks that involve language. The diseased neuronal networks are less efficient compared with normal neuronal networks.
+
+Objective: Identification of a diseased neuronal network characteristic in children with nocturnal epileptiform activity, which can explain language impairment in these children. For this the investigators will use functional magnetic resonance imaging (MRI) to analyse brain activity and diffusion weighted MRI to investigate white matter connectivity.
+Eligibility: Inclusion Criteria:
+
+* aged between 6-18
+* diagnosis of Rolandic epilepsy (or other childhood epilepsies as listed in study population description)
+
+Exclusion Criteria:
+
+* structural brain lesions which might influence cognition

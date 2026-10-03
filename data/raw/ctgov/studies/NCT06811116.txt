@@ -1,0 +1,23 @@
+Title: Testing the Addition of an Anti-cancer Drug, Sapanisertib, to the Usual Chemotherapy Treatment (Cabozantinib) in Metastatic Liver Cell Cancer With a Change in Genes for the Protein β-Catenin, The SAPHIRE Trial
+Official title: A Phase I/II Trial of Sapanisertib in Combination With Cabozantinib in ß-catenin-mutated Hepatocellular Carcinoma (SAPHIRE)
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Advanced Hepatocellular Carcinoma; Metastatic Hepatocellular Carcinoma; Stage III Hepatocellular Carcinoma AJCC v8; Stage IV Hepatocellular Carcinoma AJCC v8
+Interventions: Biospecimen Collection (PROCEDURE); Cabozantinib S-malate (DRUG); Imaging Procedure (PROCEDURE); Sapanisertib (DRUG)
+Summary: This phase I/II trial studies the side effects and best dose of sapanisertib when given together with cabozantinib, and to see how well they work in treating patients with liver cancer that has spread from where it first started to other places in the body (metastatic) and contains a mutation (change) in the β-catenin gene. Sapanisertib and cabozantinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving sapanisertib and cabozantinib together may work better than giving cabozantinib alone in treating β-catenin-mutated metastatic hepatocellular carcinoma.
+Eligibility: Inclusion Criteria:
+
+* Patients must have histologically or cytologically confirmed HCC, not amenable to curative treatment approach
+* For Phase 2, patients must have measurable disease, defined as at least one lesion that can be accurately measured in at least one dimension (longest diameter to be recorded for non-nodal lesions and short axis for nodal lesions) as ≥ 20 mm (≥ 2 cm) by chest x-ray or as ≥ 10 mm (≥ 1 cm) with CT scan, MRI, or calipers by clinical exam
+* For phase 2, patients must have a β-catenin mutation, based on next generation sequencing (NGS) testing through Clinical Laboratory Improvement Amendments (CLIA)-certified commercially available standard of care assay
+* Patients must have received at least one prior line of systemic therapy in the metastatic setting, including a prior immune checkpoint inhibitor therapy unless not eligible. For the phase 2 portion, patients must have received at least one and no more than two prior lines of systemic therapy in the metastatic setting, including a prior immune checkpoint inhibitor therapy unless not eligible
+* Age ≥ 18 years. Because no dosing or adverse event data are currently available on the use of sapanisertib in combination with cabozantinib in patients \<18 years of age, children are excluded from this study
+* Eastern Cooperative Oncology Group (ECOG) performance status ≤ 2 (Karnofsky ≥ 50%)
+* Child Pugh score of A
+* Absolute neutrophil count ≥ 1,000/mcL
+* Platelets ≥ 60,000/mcL
+* Total bilirubin ≤ 1.5 × institutional upper limit of normal (ULN)
+* Aspartate aminotransferase (AST)(serum glutamic oxaloacetic transaminase \[SGOT\])/alanine aminotransferase (ALT)(serum glutamic pyruvic transaminase \[SGPT\]) ≤ 5 × institutional ULN
+* Glomerular filtration rate (eGFR) ≥ 40 mL/min/1.73 m\^2
+* Human immunodeficiency virus (HIV)-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months are eligible for this trial
+* For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated
+* Patients with a history of hepatitis C virus (HCV) infection must have been treated and cured. Fo

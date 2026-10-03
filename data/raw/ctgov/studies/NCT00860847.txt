@@ -1,0 +1,44 @@
+Title: Firefighter Aged Garlic Extract Investigation With CoQ10 as a Treatment for Heart Disease (FAITH)
+Official title: Firefighter Aged Garlic Extract Investigation With CoQ10 as a Treatment for Heart Disease (FAITH)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Coronary Atherosclerosis; Coronary Artery Calcification; Coronary Stenosis
+Interventions: Aged garlic extract and Coenzyme Q10 (DIETARY_SUPPLEMENT)
+Summary: 1. Statement of Problem
+
+   According to the National Fire Protection Association (NFPA), 43.7% of all firefighters that died on the job experienced sudden cardiac death. The job also affords an incredible amount of stress. Cholesterol therapy has been well demonstrated to reduce coronary plaque progression. However is certainly not the only factor in evaluating for progression of coronary artery disease (CAD), and other factors must play a role. Garlic therapy has been shown to retard atherosclerosis independently.
+2. Hypothesis and Specific Aims The hypothesis of this proposal is: In comparison to the placebo group, Aged Garlic Extract (AGE) therapy + Coenzyme Q10 (CoQ10) will be effective in slowing progression of coronary artery calcification (CAC) in firefighters with established atherosclerosis, independent of baseline blood pressure, statin use or other cardiovascular risk factors.
+
+Specific Aims:
+
+1. Compare the effects of cholesterol lowering effects in a firefighter population of patients under the influence of Aged Garlic Extract + CoQ10 or placebo.
+2. Compare whether degree of change in atherosclerotic coronary artery plaque burden will change at a different rate under 
+Eligibility: Inclusion Criteria:
+
+* Calcium scan with Agatston score \>20
+* Age 35-84 years
+* Subjects must provide written informed consent after the scope and nature of the investigation has been explained to them
+* Subjects should be stable on their concomitant medications for at least 12 weeks prior to randomization
+* Subjects who agree to refrain from supplemental garlic or significant dietary garlic
+
+Exclusion Criteria:
+
+* A contraindication to Aged Garlic Extract therapy including: known hypersensitivity to drug.
+* Any unstable medical, psychiatric or substance abuse disorder that in the opinion of the investigator or principal investigator is likely to affect the subject's ability to complete the study or precludes the subject's participation in the study
+* Weight in excess of 325 pounds
+* Bleeding disorder
+* History of myocardial infarction, stroke or life-threatening arrhythmia within the prior six months
+* Resting hypotension (a resting systolic blood pressure of \<90 mm Hg) or hypertension (a resting blood pressure \> 170 mm Hg or a resting diastolic blood pressure of \>110 mm Hg)
+* NYHA Class III or IV heart failure
+* History of malignancy within the last 5 years (other than skin cancer) or evidence of active cancer which would require concomitant cancer chemotherapy
+* Serum creatinine \> 1.4 mg/dl
+* Triglycerides \> 400 at visit 1
+* Diabetic subjects with HbA1c \> 12%
+* Drug or alcohol abuse, or current intake of more than 14 standard drinks per week
+* Concurrent enrollment in another placebo-controlled trial
+* Presence of metal clips (i.e. bypass patients) or intracoronary stenting that preclude accurate measure of coronary calcification
+* Partial ileal bypass or known gastrointestinal disease limiting drug absorption
+* Current intake of garlic supplement or other prohibited drug (Appendix B)
+* Current tobacco use
+* Current use of anticoagulants (except for antiplatelet agents)
+* Chronic renal failure
+* Hematological or biochemical values at screening outside the reference ranges considered as clinically significant in the opinion of the investigator or PI

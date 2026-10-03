@@ -1,0 +1,24 @@
+Title: LeukoSEQ: Whole Genome Sequencing as a First-Line Diagnostic Tool for Leukodystrophies
+Official title: LeukoSEQ: Whole Genome Sequencing as a First-Line Diagnostic Tool for Leukodystrophies
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Leukodystrophy; White Matter Disease; 4H Syndrome; Adrenoleukodystrophy; AMN; ALD; ALD (Adrenoleukodystrophy); X-linked Adrenoleukodystrophy; X-ALD; Adrenomyeloneuropathy; Aicardi Goutieres Syndrome; AGS; Alexander Disease; Alexanders Leukodystrophy; AxD; ADLD; Canavan Disease; CTX; Cerebrotendinous Xanthomatoses; Krabbe Disease; GALC Deficiency; Globoid Leukodystrophy; TUBB4A-Related Leukodystrophy; H-ABC - Hypomyelination, Atrophy of Basal Ganglia and Cerebellum; HBSL; HBSL - Hypomyelination, Brain Stem, Spinal Cord, Leg Spasticity; LBSL; Leukoencephalopathy With Brain Stem and Spinal Cord Involvement and High Lactate Syndrome (Disorder); Leukoencephalopathy With Brainstem and Spinal Cord Involvement and Lactate Elevation; ALSP; CSF1R Gene Mutation; HCC - Hypomyelination and Congenital Cataract; MLC1; Megalencephalic Leukoencephalopathy With Subcortical Cysts 1; MLD; Metachromatic Leukodystrophy; PMD; Pelizaeus-Merzbacher Disease; PLP1 Null Syndrome; PLP1 Gene Duplication &#X7C; Blood or Tissue &#X7C; Mutations; Pelizaeus-Merzbacher-Like Disease, 1; Peroxisomal Biogenesis Disorder; Zellweger Syndrome; Refsum Disease; Salla Disease; Sialic Storage Disease; Sjögren; Sjogren-Larsson Syndrome; Van Der Knapp Disease; Vanishing White Matter Disease; Charcot-Marie-Tooth; CMT; Mct8 (Slc16A2)-Specific Thyroid Hormone Cell Transporter Deficiency; Allan-Herndon-Dudley Syndrome; Cadasil; Cockayne Syndrome; Multiple Sulfatase Deficiency; Gangliosidoses; GM2 Gangliosidosis; BPAN; Labrune Syndrome; LCC; Mucopolysaccharidoses; TBCK-Related Intellectual Disability Syndrome
+Interventions: none
+Summary: Leukodystrophies, and other heritable disorders of the white matter of the brain, were previously resistant to genetic characterization, largely due to the extreme genetic heterogeneity of molecular causes. While recent work has demonstrated that whole genome sequencing (WGS), has the potential to dramatically increase diagnostic efficiency, significant questions remain around the impact on downstream clinical management approaches versus standard diagnostic approaches.
+Eligibility: Inclusion Criteria:
+
+1. Abnormalities of the white matter signal on neuroimaging (MRI) with T2 hyperintensity which must be diffuse or involve specific anatomical tracts consistent with a genetic diagnosis;
+2. No pre-existing genetic diagnosis;
+3. A clinical decision has been made to perform WGS;
+4. Less than 18 years of age (exception for the affected sibling of the proband);
+5. Availability of both biologic parents for blood sampling;
+6. Availability of both biological parents to provide informed consent;
+7. Concurrently enrolled in CHOP IRB 14-011236 (Myelin Disorders Biorepository Project)
+
+Exclusion Criteria:
+
+1. Candidates with acquired disorders, including infection, acute disseminated encephalomyelitis (ADEM), multiple sclerosis, vasculitis or toxic leukoencephalopathies;
+2. Patients who have had previous genetic testing\*, including WES or WGS;
+3. Those with no third-party payer insurance, unable to receive standard of care diagnosis and therapeutic approaches;
+4. Candidates who have already received a diagnosis.
+
+   * Note: Karyotype or microarray testing that did not yield a definitive diagnosis should not be considered as an excluding factor.

@@ -1,0 +1,22 @@
+Title: A Phase 1 Study to Evaluate the Safety, Pharmacokinetics, and Preliminary Efficacy of MK-6204 (SKB535) for Injection in Participants With Advanced Solid Tumors
+Official title: A Phase 1 Study to Evaluate the Safety, Pharmacokinetics, and Preliminary Efficacy of MK-6204 (SKB535) for Injection in Participants With Advanced Solid Tumors
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Advanced Solid Tumors
+Interventions: MK-6204 (SKB535) for Injection (DRUG)
+Summary: This is an open-label, nonrandomized, multicenter, Phase 1 study to evaluate the safety, tolerability, pharmacokinetics, and preliminary antitumor activity of MK-6204 as monotherapy in participants with advanced solid tumors.
+Eligibility: Inclusion Criteria:
+
+1. ≥ 18 years of age
+2. Have a histologically or cytologically confirmed advanced/metastatic solid tumor by pathology report and have failed or do not have available standard treatments. The tumor types will be limited to: CRC; Gastric carcinoma or gastroesophageal junction (GEJ) adenocarcinoma; Esophageal carcinoma; Pancreatic cancer; NSCLC; Cervical carcinoma; Head and Neck squamous cell carcinoma.
+3. Have measurable disease by RECIST 1.1 as assessed by the local site investigator/radiology. Target lesions situated in a previously irradiated area are considered measurable if progression has been shown in such lesions.
+4. Have a performance status of 0 or 1 on the ECOG Performance Scale.
+5. The participant has provided documented informed consent for the study.
+6. Participants who agree to provide archival tumor tissue sample or newly obtained core, incisional, or excisional biopsy of a tumor lesion not previously irradiated.
+7. Participants who have AEs due to previous anticancer therapies must have recovered to ≤Grade 1 or baseline. Participants with endocrine-related AEs who are adequately treated with hormone replacement or participants who have ≤Grade 2 neuropathy are eligible.
+
+Exclusion Criteria:
+
+1. Active severe digestive disease, including but not limited to complete or incomplete gastric outlet obstruction, persistent/recurrent vomiting, severe gastrointestinal hemorrhage, gastric or duodenal ulcers, acute gastrointestinal perforation, acute necrotizing pancreatitis, ulcerative enteritis, congenital megacolon, or Crohn's disease.
+2. Participants with a history of interstitial lung disease (ILD) or a history of noninfectious pneumonitis that required steroids, have current ILD/pneumonitis, or where suspected ILD/pneumonitis cannot be ruled out by imaging at screening.
+3. Received strong cytochrome P450 (CYP3A4) inhibitors or inducers within 2 weeks prior to the first dose of study intervention or within 5 half-lives of drug elimination, whichever is longer.
+4. Received strong breast cancer resistance protein (BCRP) inhibitors within 2 weeks prior to the first dose of study intervention or within 5 half-lives of drug elimination, w

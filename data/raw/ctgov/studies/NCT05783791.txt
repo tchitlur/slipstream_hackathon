@@ -1,0 +1,17 @@
+Title: Development of a Newborn Screening Assay for Angelman Syndrome and Prader-Willi Syndrome
+Official title: Development of a Newborn Screening Assay for Angelman Syndrome and Prader-Willi Syndrome
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Angelman Syndrome; Prader-Willi Syndrome
+Interventions: Newborn Screening Assay (DIAGNOSTIC_TEST)
+Summary: The overall purpose of this project is to establish the capability of screening for Angelman syndrome (AS) and Prader-Willi syndrome (PWS) in public health newborn screening (NBS) programs, with an aim of developing and validating a screening test for AS and PWS.
+Eligibility: Inclusion Criteria:
+
+* Diagnosed with Angelman Syndrome, confirmed by molecular testing (deletion of maternal allele of chromosome 15q11-q13, paternal uniparental disomy, and imprinting center defects)
+* Diagnosed with Prader-Willi Syndrome, confirmed by molecular testing (deletion of paternal allele of chromosome 15q11-q13, maternal uniparental disomy, and imprinting center defects)
+* Angelman Syndrome or Prader Willi Syndrome: Current patient at UW Health in the Madison, Wisconsin metropolitan area
+* Healthy controls 18 years old or older and have not received a diagnosis of Angelman syndrome or Prader Willi syndrome
+
+Exclusion Criteria:
+
+* Angelman Syndrome/Prader Willi Syndrome: family requires a translator for medical visits
+* Healthy Controls: Participants are unable to consent and complete study procedures in English.

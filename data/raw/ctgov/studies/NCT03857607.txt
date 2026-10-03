@@ -1,0 +1,15 @@
+Title: Natural History Study of ATP1A3-related Disease
+Official title: Natural History of ATP1A3-related Disease: a Deep Phenotyping-genotyping Project
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: ATP1A3-related Disease; Alternating Hemiplegia of Childhood; Rapid Onset Dystonia Parkinsonism; CAPOS
+Interventions: Whole exome sequencing (GENETIC)
+Summary: An observational study aiming to study the natural history of a UK-wide patient cohort with ATP1A3-related disease.
+Eligibility: Inclusion Criteria:
+
+* Children and adults of any age carrying a mutation in the ATP1A3-gene.
+* Children and adults of any age matching an ATP1A3-related disease phenotype without a mutation in the gene.
+* Written informed consent given by patient and/or parent/guardian.
+
+Exclusion Criteria:
+
+• Patients with a phenotype not fitting ATP1A3-related disease and no mutation in the ATP1A3 gene.

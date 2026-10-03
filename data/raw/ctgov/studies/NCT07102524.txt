@@ -1,0 +1,27 @@
+Title: Intrathecal Gene Therapy For SLC13A5 Citrate Transporter Disorder
+Official title: A Phase 1/2 Open-Label Intrathecal Administration of TSHA-105 to Determine the Safety and Efficacy in Subjects With SLC13A5 Citrate Transporter Disorder Caused by a Mutation in the SLC13A5 Gene.
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: SLC13A5 Citrate Transporter Disorder
+Interventions: TSHA-105 (DRUG)
+Summary: Phase 1/2, open-label study to assess the efficacy and safety of a single lumbar intrathecal administration of TSHA-105 in individuals with SLC13A5 Citrate Transporter Disorder
+Eligibility: Inclusion Criteria:
+
+* Male and females between the ages of 2 to 9 or 10 to 20 years at the time of screening
+* Confirmed diagnosis of SLC13A5 citrate transporter disorder by genomic DNA mutation analysis (confirmed by a CLIA certified, CE-marked, or equivalent lab) demonstrating homozygous or compound heterozygous, confirmed pathogenic or likely pathogenic variants in the SLC13A5 gene
+* Clinical features consistent with SLC13A5 citrate transporter disorder
+* Written informed consent provided by subject/parent/guardian and willingness to participate and comply with all the study related visits and procedures. Assent provided by children 10 to 17 years old based on their ability to understand the risks and possible benefits, and the activities expected of them.
+* Subjects able to reproduce must use a barrier method of contraception for the first 12 months after dosing as well as at least one additional highly effective birth control method if sexually active
+
+Exclusion Criteria:
+
+* Inability to participate in study procedures (as determined by the site investigator)
+* Presence of a concomitant medical condition that precludes lumbar puncture (LP) or use of anesthetics
+* History of bleeding disorder or any other medical condition or circumstance in which lumbar puncture is contraindicated according to local institutional policy
+* Inability to be safely sedated in the opinion of the clinical anesthesiologist
+* Active infection, at the time of dosing, based on clinical observations
+* Concomitant illness or requirement for chronic drug treatment that in the opinion of the PI creates unnecessary risks for gene transfer
+* Inability of the subject to undergo MRI according to local institutional policy
+* Inability of the subject to undergo any other procedure required in this study
+* The presence of significant non-SLC13A5 related CNS impairment or behavioral disturbances that would confound the scientific rigor or interpretation of results of the study
+* Have received an investigational drug within 30 days prior to screening or plan to receive an investigational drug (other than gene therapy) during the study.
+* Enrollment and participation in another interventional cli

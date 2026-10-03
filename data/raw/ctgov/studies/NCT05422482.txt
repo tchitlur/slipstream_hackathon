@@ -1,0 +1,26 @@
+Title: A Study to Evaluate the Safety, Tolerability, PK and PD of Intracerebroventricular GC1123 in Patients with MPS Ⅱ
+Official title: An Open-Label, Phase 1 and Extension Study to Evaluate the Safety, Tolerability, PK and PD of Intracerebroventricular GC1123 in Patients with MPS Ⅱ Who Have Central Nervous System Involvement and Are Receiving Treatment with Intravenous Drug
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Mucopolysaccharidosis II; Hunter Syndrome
+Interventions: GC1123 (BIOLOGICAL)
+Summary: The purpose of this study is to evaluate the safety, tolerability, pharmacokinetics and pharmacodynamics of intracerebroventricular GC1123 in patients with MPS Ⅱ who have central nervous system involvement and are receiving treatment with intravenous drug
+Eligibility: Inclusion Criteria:
+
+1. Patient who has been diagnosed with severe MPS Ⅱ (Hunter syndrome)
+2. Patient, aged 1.5 years (18 months) to 18 years at the time of the screening
+3. Patient who has received and tolerated a minimum of 12 weeks of treatment with weekly intravenous treatment, and who has received 80% of the total planned infusions within that time frame.
+4. Patient who is capable of undergoing neurosurgery, which has been confirmed by neurosurgeons and anesthesiologist.
+5. Patient eligible to execute patient evaluation activities during the clinical trial period, as assessed by the investigator
+6. Patient whose parents or legal representative are willing to participate in this clinical trial and provide written informed consent form
+
+Exclusion Criteria:
+
+1. Patient who has been administered with intrathecal Idursulfase in the past
+2. Patient with a history of bone marrow transplantation or cord blood transplant
+3. Patient with a history of ventriculoperitoneal shunt or other intracranial surgeries
+4. Patient with end-stage multiple organ dysfunction syndrome or other severe diseases
+5. Patient who is exposed to malignant neoplasm
+6. Patient who has received treatment with any investigational drug or device within 30 days prior to study entry
+7. Patient who have experience of hypersensitivity or anaphylaxis to ingredients of the investigational product at the time of screening
+8. Patient with a history of bronchotomy/tracheostomy, or patient with acute respiratory disease at the time of screening
+9. Patient who is ineligible to participate in the clinical trial due to laboratory test results or other reasons, as determined by the investigator

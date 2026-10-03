@@ -1,0 +1,25 @@
+Title: Trial to Evaluate the Effect of Statins on Asthma Control of Patients With Chronic Asthma
+Official title: Randomised Controlled Trial to Evaluate the Effect of Statins on Asthma Control of Patients With Chronic Asthma
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: Asthma
+Interventions: Atorvastatin (DRUG); Placebo (DRUG)
+Summary: Statins are the most common type of cholesterol-lowering drugs used in clinical practice. Recent research suggests that they may also have anti-inflammatory properties, in particular by inhibition of an important inflammatory cell called a T lymphocyte. Asthma is characterised by chronic inflammation in the airways, which is thought to be regulated by the activity of T lymphocytes. The investigators have found the anti-inflammatory activity of a statin drug in an experimental model of allergic asthma and they have recently shown the beneficial effects of a statin, atorvastatin, in patients with rheumatoid arthritis. These findings demonstrate the therapeutic potential of statin-sensitive pathways in allergic airways disease. The investigators plan to perform a "proof of concept" study to determine the effectiveness of statin therapy in asthma. This randomised controlled trial will test the hypothesis that statins improve asthma control of patients with chronic asthma. The study will be a 22-week randomised controlled trial comparing the effect on asthma control of oral atorvastatin with that of a matched placebo. Each treatment will be administered for 8 weeks separated by a 6-week
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of asthma: This will be established symptomatically by episodic wheezing, chest tightness and/or dyspnoea and objectively confirmed by methacholine airway hyperresponsiveness or by evidence of variable airflow obstruction with an increase in FEV1 of \> 12% following nebulised salbutamol (2.5mg) or diurnal peak flow variability of \> 20% for 3 days in a week (with a minimum change of 60 L) during the run-in period of the study (BTS).
+* Age range of 18-70 years
+* Duration of asthma \> 1 year and on stable medication for 4 weeks
+* Receiving regular inhaled steroid treatment (≤ 1000mcg Beclomethasone equivalent daily) and no other medication for their asthma other than a short-acting bronchodilator.
+* Symptomatic, defined as an asthma control questionnaire score of 1 (range 0-6) prior to randomisation or use of inhaled beta2-agonist on 5 or more days in the week before randomisation or FEV1 reversibility \>12% or diurnal peak flow variability of \>20% during the run-in period of the study for at least 3 days of a week.
+* Stable asthma medication for at least 4 weeks prior to randomisation
+* Written informed consent
+
+Exclusion Criteria:
+
+* Inability to demonstrate correct use of peak flow meter after instruction
+* Current smokers or ex-smokers of \< 1 year or ex-smokers who have smoked \> 5 pack years.
+* Patients with unstable asthma, defined as the presence of 1 or more of the following events in the month prior to randomisation: \*emergency/'out of hours' visits of patients to the GP; \*GP visit to patient at home; \*A \& E hospital attendance; \*hospital admission.
+* Patients in whom cardiovascular risk requires statin therapy
+* Any known sensitivity or adverse reaction to statin, or previous evidence of myopathy or myositis plus creatinine kinase and liver function tests \> x2 upper limit of normal range.
+* Non-atopic asthma (specific IgE skin test negative to common allergens) \[skin test wheal \</= 3mm over negative control saline\]
+* Patients who show specific IgE sensitivity or are skin test positive to grass pollen allergen will not be recruited from mid May to the end of July (grass allergen season in the United Kingdom \[UK

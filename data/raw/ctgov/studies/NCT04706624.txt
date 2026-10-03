@@ -1,0 +1,18 @@
+Title: Screen, Treat and Retain Meth-using People With Opioid Use Disorders at Methadone Clinics
+Official title: Screen, Treat and Retain Meth-using People With Opioid Use Disorders at Methadone Clinics
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Methamphetamine Abuse; Opioid-use Disorder; HIV Seropositivity
+Interventions: Contingency management (12 weeks) (BEHAVIORAL); Contingency management (6 weeks) (BEHAVIORAL); SMS reminders (BEHAVIORAL); Matrix only (BEHAVIORAL); Matrix + Contingency management (BEHAVIORAL); Group education (6 weeks) (BEHAVIORAL)
+Summary: The investigators propose to develop and evaluate optimal combinations of evidence-based interventions to improve HIV outcomes and reduce methamphetamine use (hereafter: meth use) among people with opioid use disorder who are in methadone maintenance therapy (MMT) in Vietnam. Over the past decade, the expansion of MMT has contributed to stemming both HIV and opioid epidemics. However, rising meth use threatens these achievements.
+
+Evidence-based interventions such as Motivational Enhancement Therapy, Contingency Management, Matrix Model, and SMS reminders are effective in reducing meth use. The study will be conducted in the two largest cities in Vietnam, Hanoi and Ho Chi Minh City (HCMC), where there are the highest number of MMT patients and the highest burden of HIV cases. Building on the pilot work of the research team in Hanoi, through collaborative work with local MMT providers and patients, the investigators will first further refine adapted EBIs to develop adaptive strategies. The adaptive design includes: (1) Two frontline interventions: 6 weeks of contingency management then 6 weeks of weekly group educational sessions and 12 weeks of contingency management; (2) One (shor
+Eligibility: Inclusion Criteria:
+
+* ASSIST scores from 10+ for methamphetamine use OR Confirmed methamphetamine use with urine analysis;
+* Willing to provide at least three pieces of contact information;
+* Having a cell phone to receive texts.
+
+Exclusion Criteria:
+
+* Psychosis or other interfering problems;
+* Cannot understand study procedures as judged by research assistants.

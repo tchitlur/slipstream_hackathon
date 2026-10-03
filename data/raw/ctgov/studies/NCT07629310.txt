@@ -1,0 +1,27 @@
+Title: To Evaluate the Safety of JL18008
+Official title: Evaluation of Pharmacokinetics, Pharmacodynamics, and Safety of JL18008 Injection in Healthy Adult Subjects: A Randomized, Double-Blind, Placebo-Controlled, Single Ascending Dose Phase Ia Clinical Study
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: HIV Infections
+Interventions: JL18008 1 μg/kg (DRUG); JL18008 5 μg/kg (DRUG); JL18008 10 μg/kg (DRUG); JL18008 20 μg/kg (DRUG); JL18008 40 μg/kg (DRUG); JL18008 70 μg/kg (DRUG); Placebo (for 1 μg/kg Group) (DRUG); Placebo (for 5 μg/kg Group) (DRUG); Placebo (for 10 μg/kg Group) (DRUG); Placebo (for 20 μg/kg Group) (DRUG); Placebo (for 40 μg/kg Group) (DRUG); Placebo (for 70 μg/kg Group) (DRUG)
+Summary: This study is being conducted in healthy adult volunteers to evaluate the safety and tolerability of a single injection of an investigational drug called JL18008. The study also examines how the body processes the drug and how it affects immune cells. Participants receive one intramuscular injection of either JL18008 at one of six dose levels (1, 5, 10, 20, 40, or 70 μg/kg) or a placebo (an inactive substance). The study is randomized, double-blind, and placebo-controlled, meaning participants and study staff do not know who receives the active drug or placebo. Blood samples are collected over 56 days to measure drug levels, immune cell counts (such as CD4⁺ T cells), and any antibodies that may form against the drug. The goal is to find a safe dose that can be tested in future studies of people with HIV who have low CD4⁺ T cells despite antiviral treatment.
+Eligibility: Inclusion Criteria:
+
+1. Voluntary participation in the study, ability to understand and comply with the protocol requirements, and provision of written informed consent.
+2. Physical examination, vital signs, 12-lead electrocardiogram, and laboratory tests (hematology, urinalysis, serum chemistry, infectious disease screening, coagulation) are normal or have no clinically significant abnormality.
+3. Male or female, age 18 to 55 years inclusive.
+4. Body weight: male ≥50.0 kg, female ≥45.0 kg. Body mass index (BMI) between 18.0 and 26.0 kg/m² inclusive. BMI = weight (kg) / height (m)².
+5. No clinically significant history of cardiovascular, hepatic, renal, gastrointestinal, neurological, or hematological disease.
+6. No plans for pregnancy within 6 months, and agreement to use effective contraception with their partner from screening until 3 months after the study completion. No donation of sperm or eggs during this period.
+
+Exclusion Criteria:
+
+1. Any history of allergic disease, or food or drug allergy, that in the investigator's opinion makes the subject unsuitable for inclusion.
+2. Lactating women; women of childbearing potential with menstrual disorders within 90 days before dosing; women of childbearing potential who had unprotected intercourse with a male partner within 28 days before dosing.
+3. Participation in any clinical trial of an investigational drug within 90 days before dosing, or still within the safety washout period of a previous trial on the day of dosing.
+4. Non-physiological blood loss of ≥200 mL (including trauma, blood draw, blood donation) within 60 days before dosing, or plan to donate blood during the study or within 30 days after dosing.
+5. Any major illness considered clinically significant by the investigator within 90 days before dosing.
+6. Major surgery within 60 days before dosing, or any surgery within 28 days before dosing.
+7. Fever or infectious illness within 28 days before dosing.
+8. Use of any medication (including prescription, non-prescription, herbal, or dietary supplements) within 14 days before dosing.
+9. Vaccination within 1 month before dosing, or plan to receive vaccination during the study period.
+10. History or depend

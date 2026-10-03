@@ -1,0 +1,20 @@
+Title: CHAMPION: A Study to Evaluate the Efficacy and Safety of Obudanersen (ION582) in Children and Adults With Angelman Syndrome (AS)
+Official title: Phase 3 Study of the Efficacy and Safety of ION582 in Children and Adults With Angelman Syndrome Due to Paternal Uniparental Disomy or Imprinting Defects
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Angelman Syndrome
+Interventions: obudanersen (DRUG)
+Summary: The primary purpose of the study is to evaluate efficacy of obudanersen in participants with AS due to uniparental disomy or imprinting defects (UPD/ID) as measured through expressive communication.
+Eligibility: Key Inclusion Criteria:
+
+1. Clinical diagnosis of AS with molecular result indicating either paternal UPD of 15q11.2-q13 or ID of the maternal 15q11.2-q13 region, provided by the Investigator and confirmed by either a qualified central vendor or a qualified local geneticist at the site.
+2. The participant's caregiver(s)/legally-authorized representative (LAR) must have given written informed consent and any authorizations required by local law and be able and willing to comply with all study requirements.
+3. Medically stable and can undergo sedation and/or general anesthesia without intubation.
+4. Male or female between 2 and ≤ 50 years of age, depending on the specific cohort, at the time of the in-clinic Screening visit.
+5. If applicable, is currently receiving stable doses of concomitant medications typically prescribed for AS, such as anti-epileptic medication, behavioral management medications, sleep medications, gabapentin, cannabidiol, and special diets, supplements, or nutritional support for at least 8 weeks prior to the Baseline visit. If recent changes (\< 8 weeks stable) in medications, the participant may be allowed per Investigator judgment if the change is not expected to have an impact on the signs and symptoms of AS.
+6. LAR/caregiver(s) agree(s) not to post any of the participant's personal medical data or information related to the study on any website or social media site (e.g., Facebook, Instagram, X, YouTube, TikTok, WhatsApp) from the time of enrollment until they are notified that the study is completed.
+
+Key Exclusion Criteria:
+
+1. Participant has a clinical diagnosis of AS with molecular confirmation of a UBE3A deletion or UBE3A mutation.
+2. Any clinically significant abnormalities in medical history (e.g., major surgery within 3 months of Screening), or on physical examination for which treatment with an antisense oligonucleotide (ASO) would be contraindicated or which, in the opinion of the Investigator, could confound the results of this study.
+3. Known brain or spinal disease that would interfere with the lumbar puncture (LP) procedure, cerebrospinal fluid (CSF) circulation, or presence of other factors that would affect the safety o

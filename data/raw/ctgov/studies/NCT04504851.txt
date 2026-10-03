@@ -1,0 +1,39 @@
+Title: Rosuvastatin Evaluation as a Tuberculosis Treatment Adjunct
+Official title: Rosuvastatin Evaluation as a Tuberculosis Treatment Adjunct
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Pulmonary Tuberculosis
+Interventions: Rosuvastatin 10mg (DRUG); Rifampicin (DRUG); Isoniazid (DRUG); Pyrazinamide (DRUG); Ethambutol (DRUG)
+Summary: This trial aims to determine whether the addition of rosuvastatin to standard TB therapy in pulmonary tuberculosis results in accelerated of sputum culture conversion. The trial will also investigate potential new biomarkers of sterilising activity and immune-modulatory activity.
+Eligibility: Inclusion Criteria:
+
+1. Aged 18 - 75 years of age
+2. Abnormalities on CXR compatible with pulmonary TB
+3. At least one sputum specimen, produced at or prior to screening during the current illness episode, that is:
+
+   (i) positive for acid-fast bacilli on smear microscopy (with at least 1+ on the IUATLD/WHO scale) and/or (ii) positive on testing by Xpert MTB/RIF or Xpert Ultra (with semi-quantitative cycle threshold (CT) result of 'medium' or 'high')
+4. Able to produce at least 5ml of sputum per day at the time of screening
+5. Current or planned treatment with a regimen containing rifampicin, isoniazid and pyrazinamide (with or without ethambutol) only
+6. Resident at a fixed address within feasible travelling distance to the site and likely to remain a local resident for the duration of trial follow-up
+7. Willing to have directly observed therapy (DOT)
+8. Willing to comply with the study visits and procedures
+
+Exclusion Criteria:
+
+1. More than 7 days of standard TB treatment by the time of the baseline visit
+2. Known rifampicin resistance or isoniazid resistance at the time of randomization (results by conventional DST or molecular tests are not required to be available prior to randomization)
+3. Previous treatment for active TB disease, unless rifampicin susceptibility has been demonstrated on a molecular test performed during this episode.
+4. Extrapulmonary TB that, in the opinion of the treating clinician, is likely to require concurrent use of steroids, or require surgical management.
+5. Known hypersensitivity to rosuvastatin
+6. History of myopathy or family history of hereditary muscular disorders
+7. Acute liver failure or decompensated chronic liver disease
+8. Current alcohol abuse
+9. Known hypothyroidism
+10. Any of the following laboratory parameters at screening:
+
+    1. ALT \>3 times upper limit of normal (ULN)
+    2. Estimated glomerular filtration rate (eGFR) \< 60ml/min/1.73m2 (calculated using the CKD-EPI equation) (81)
+    3. Creatine Kinase \>5 times ULN
+    4. Potassium \<2.5 mmol/L
+11. Active malignancy on chemotherapy or radiotherapy
+12. Current use of immunosuppressive medication (≤ 5mg/ day of prednisolone or equivalent is acceptable).
+13. H

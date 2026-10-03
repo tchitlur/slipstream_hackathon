@@ -1,0 +1,41 @@
+Title: Efficacy and Tolerability of Tauroursodeoxycholic Acid in Amyotrophic Lateral Sclerosis
+Official title: A Randomized, Double-blind Multicenter Pilot Study vs. Placebo for the Evaluation of Efficacy and Tolerability of Tauroursodeoxycholic Acid Administered by Oral Route as Add on Treatment in Patients Affected by Amyotrophic Lateral Sclerosis
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Amyotrophic Lateral Sclerosis
+Interventions: tauroursodeoxycholic acid (TUDCA) (DRUG); Placebo (DRUG)
+Summary: The preclinical rationale for tauroursodeoxycholic acid (TUDCA) use in treating patients with amyotrophic lateral sclerosis (ALS) stems from the demonstration of antioxidant, antiapoptotic and neuroprotective properties of TUDCA in the central nervous system (CNS), both in vitro and in vivo models.
+
+This protocol is meant for assessing if the addition of TUDCA to the conventional therapy can improve the therapeutic outcome in patients affected by ALS.
+
+Safety will be assessed for all subjects, for the entire duration of the study. 30 patients affected by ALS with site of onset in the limbs will be recruited.
+
+All enrolled subjects will continue receiving riluzole at the same regimen as before entering the trial. Based on an appropriate random code, subjects will be divided into two groups of equal size treated, after a lead-in period of 3 months, by oral route with TUDCA at the dose 2 g daily for 1 year or with identical placebo by oral route at the same dosing schedule, under double-blind conditions.
+
+Every concomitant and/or supportive therapy will be admitted.
+
+Evaluation criteria:
+
+Efficacy. The proportion of responder patients in the two treatment groups was the primary outcom
+Eligibility: Inclusion Criteria:
+
+* Caucasian male or female out-patients;
+* aged 18 to 75 years inclusive;
+* diagnosis of "probable" or "definite" amyotrophic lateral sclerosis according to the El Escorial revised criteria (1);
+* first symptoms of ALS by no more than 1.5 years;
+* in treatment with steady regimen of riluzole for a minimum of 3 months before study entry, and desiring its continuation;
+* FVC ≥ 75% of predicted;
+* no conditions known to be contraindications to the use of TUDCA;
+* written informed consent.
+
+Exclusion Criteria:
+
+* subjects who underwent tracheostomy;
+* subjects who underwent resection of gall bladder;
+* subjects with signs of conduction blocks of motor nerves, sensory nerves or both on nerve conduction study;
+* subjects with clinical signs of dementia;
+* subjects with active peptic ulcer;
+* subjects with active malignancy;
+* subjects with bulbar onset;
+* female subjects who are pregnant or lactating
+* subjects who have received an experimental drug or have participated in a clinical trial within 3 months prior to screening
+* employees of the investigator or study centre with direct involvement in the proposed study or other studies under the direction of that investigator or study centre.

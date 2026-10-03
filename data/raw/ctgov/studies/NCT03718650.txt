@@ -1,0 +1,27 @@
+Title: Total Tumor Mapping (TTM) for Resectable Pancreatic Cancer
+Official title: Total Tumor Mapping (TTM) for Resectable Pancreatic Cancer: Establishing the Radiomic/Pathologic Foundation of Heterogeneity
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: EARLY_PHASE1.
+Conditions: Pancreatic Cancer; Resectable Pancreatic Cancer
+Interventions: Pimonidazole (DRUG); Surgical Resection (PROCEDURE)
+Summary: At present there is no validated prognostic tool for patients with resectable pancreatic cancer (RPC) to determine how best to tailor individual therapy. This study is to see if tumor features in blood and imaging prior to surgery correspond with tumor heterogeneity in the specimen after surgery.
+Eligibility: Inclusion Criteria:
+
+* 18 years of age and older who have biopsy-proven resectable pancreatic cancer
+* Participants must have a histological diagnosis of pancreatic head ductal adenocarcinoma at least ≥ 1 cm from ampula.
+* Participants must be able to undergo all 3 imaging modalities.
+* Participants' medical statuses must be considered appropriate for surgery and for general anesthesia.
+* Female participants and female partners of male participants undergoing optional PET-CT or CT pancreatic protocol scan cannot be pregnant or nursing, as confirmed by serum pregnancy test if the patient is a woman of child-bearing potential.
+* All female participants of child-bearing potential must agree to use birth control, including oral, injectable, or mechanical contraception, abstinence, or vasectomy for 30 days following pimonidazole administration.
+* Adequate kidney and liver function as assessed by laboratory studies. Laboratory studies must be completed within 28 days prior to pimonidazole administration;
+* Must be capable of providing informed consent and demonstrate a willingness to comply with all the study procedures and visits;
+* Must be able to undergo MRI scans without having a pacemaker or other indwelling metal, which would contraindicate the scan.
+* Have an Eastern Cooperative Oncology Group (ECOG) score of 0 to 2.
+
+Exclusion Criteria:
+
+* Women who are pregnant or breastfeeding
+* Participants who are contraindicated for MRI or gadolinium contrast agents.
+* If the patient has an iodine contrast allergy, they must be able to take standard pre-medications so they can safely undergo a CT scan.
+* Participants with a known active cancer with a prognosis that would contraindicate a curative intent pancreatic resection.
+* Participants with depressed liver function, as assessed with a screening liver function test yielding serum ALT or AST greater than the IULN or total bilirubin greater than 2 mg/dL.
+* Presence of any other co-existing condition, which, in the judgment of the investigator, might increase the risk to the patient.

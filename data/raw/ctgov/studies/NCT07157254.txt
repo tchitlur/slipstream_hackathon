@@ -1,0 +1,26 @@
+Title: A Safety and Efficacy Study of GTX-102 in Subjects With Deletion- or Nondeletion-type Angelman Syndrome (AS)
+Official title: A Phase 2, Open-label, Basket Study Investigating the Safety and Efficacy of GTX-102 in Adult and Pediatric Subjects With Deletion- or Nondeletion-type Angelman Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Angelman Syndrome
+Interventions: No intervention (OTHER); GTX-102 (DRUG)
+Summary: The main goal of the study is to evaluate the safety and efficacy of GTX-102 in participants with Angelman syndrome.
+Eligibility: Inclusion Criteria:
+
+1. Signed informed consent from parent(s) or legal guardian(s)
+2. Males and females of the following ages and genotypes at time of informed consent:
+
+   1. Subprotocol A: ≥ 1 to \< 4 years of age with a genetically confirmed diagnosis of deletion-type Angelman syndrome
+   2. Subprotocol B: ≥ 4 to \< 18 years of age with a genetically confirmed diagnosis of UPD/ICD Angelman syndrome
+   3. Subprotocol C: ≥ 18 to \< 65 years of age with a genetically confirmed diagnosis of Angelman syndrome, any genotype
+   4. Subprotocol D: ≥ 4 to \< 18 years of age with a genetically confirmed diagnosis of mutation-type Angelman syndrome
+3. Weight ≥ 8 kg at Screening Visit
+4. Platelet count, prothrombin time / international normalized ratio, and partial thromboplastin time \< 1.5x the upper limit of normal and platelets \> 75,000 cells/mm3 at the Screening Visit
+5. Willing and able to comply with scheduled visits, drug administration plan, laboratory tests, and all study procedures, including lumbar puncture (LP) procedure, magnetic resonance imaging (MRI) and tolerating anesthesia without intubation
+6. From the time of informed consent through to at least 6 months after the final dose of GTX-102, females of childbearing potential who are sexually active must use highly effective contraception or abstinence. Males are able to participate if they agree to remain abstinent (refrain from heterosexual intercourse) or use acceptable contraceptive methods during the study and for at least 3 months after the final dose of GTX-102
+
+Exclusion Criteria:
+
+1. Any change in medications or diet/supplements intended to treat symptoms of Angelman Syndrome (eg, sleeping aids, antiseizure medications, supplements, dietary change including ketogenic or low-glycemic index diet, other) within the month prior to the Screening Visit (excluding weight-based adjustments)
+2. Any condition that creates an increased risk of unsuccessful lumbar puncture
+3. Current or expected concomitant use of drugs that increase the risk of bleeding (eg, heparin, low molecular weight heparin, platelet inhibitors)
+4. Known hypersensitivity to GTX-102 or its excipients or required premedication that, in 

@@ -1,0 +1,25 @@
+Title: A Study of OV101 in Individuals With Angelman Syndrome (AS)
+Official title: A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Phase 3 Study to Evaluate the Efficacy and Safety of OV101 in Pediatric Individuals With Angelman Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Primary Disease or Condition Being Studied: Angelman Syndrome (AS)
+Interventions: Gaboxadol (DRUG); Placebo (DRUG)
+Summary: The purpose of this study is to assess the efficacy and safety of oral OV101 (gaboxadol) in pediatric subjects with Angelman syndrome.
+Eligibility: Inclusion Criteria:
+
+* Male or female and 2 to 12 years old (inclusive) at the time of informed consent
+* Confirmed molecular diagnosis of AS
+* Has a CGI-S-AS score of 3 or more at baseline.
+* Meets the following age-appropriate body weight criterion:
+
+  1. Subjects 2 to 3 years old must have a minimum body weight of 9 kg.
+  2. Subjects 4 years and older must be between 17 kg and 64 kg (inclusive).
+* Stable concomitant mediations for at least 4 weeks before study start
+
+Exclusion Criteria:
+
+* Any condition that would limit study participation
+* Clinically significant lab or vital sign abnormalities at the time of screening
+* Poorly controlled seizures (weekly seizures of any frequency with a duration more than 3 minutes, weekly seizures occurring more than 3 times per week, each with a duration of less than 3 minutes, or as defined by investigator assessment)
+* Use of prescription medications for sleep, minocycline, or levodopa within the 4 weeks prior to Day 1 or during the study. Benzodiazepines chronically administered for seizure control are permitted.
+* Cannot comply with protocol study assessments during screening or caregiver unable to comply with study requirements.
+* Enrolled in any clinical trial or used any investigational agent within the 30 days before screening or concurrently with this study.

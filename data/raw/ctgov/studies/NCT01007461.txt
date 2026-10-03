@@ -1,0 +1,32 @@
+Title: IK-1001 (Sodium Sulfide (Na2S) for Injection) in Subjects With Acute ST-Segment Elevation Myocardial Infarction
+Official title: A Phase 2, Randomized. Double-Blind, Dose-Escalation, Dose-Expansion, Placebo-Controlled, Multi-Center Study of IK-1001 to Evaluate Safety, Pharmacokinetics , and Proof-of-Concept Efficacy in Subjects With Acute ST-Segment Elevation Myocardial Infarction (STEMI) Undergoing Primary Percutaneous Coronary Intervention
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: ST-Segment Elevation Myocardial Infraction
+Interventions: Sodium Sulfide (Na2S) for Injection (DRUG); Placebo (DRUG)
+Summary: Myocardial Infarctions (MI) are commonly known as heart attacks. An ST-Segment Elevation Myocardial Infarction (STEMI) is a more severe type of heart attack. Myocardial Infarctions happen when a coronary artery is partially or fully blocked suddenly by a blood clot, causing damage to at least some of the heart muscle being supplied by that artery. In a STEMI, a blood clot completely blocks the coronary artery. This can result in damage to the heart muscle that is supplied by the affected artery. The purpose of the IK-1001 STEMI Study is to evaluate the safety and effectiveness of an investigational study drug (IK-1001). IK-1001 is being studied to determine if it is safe and if it can reduce the amount of damage caused to the heart from a STEMI. Potential subjects may be eligible if they have been diagnosed with a STEMI and undergo a primary percutaneous coronary intervention (PCI, a procedure where a blocked coronary artery is unblocked during a cardiac catheterization), as well as meet other entry criteria. Up to 446 men and women, aged 18-80, will participate in this study at about 50 medical sites around the world. Study participation will last for about six months. Subjects wi
+Eligibility: Inclusion Criteria:
+
+1. Presentation to study hospital or institution with diagnosis of STEMI based on clinical and ECG findings (subject presented with ≥ 30 minutes of ischemic chest pain, within 12 hours of symptom onset, and has persistent ST-segment elevation of ≥ 2 mm ST-segment elevation in at least 2 contiguous leads in the ECG.
+2. Age between 18 and 80 years (inclusive)
+3. Signed Institutional Review Board (IRB)/Independent Ethics Committee (IEC) approved informed consent form
+
+Exclusion Criteria:
+
+1. Prior MI (as determined by subject history and/or ECG), cardiac surgery, or severe pericardial, congenital, cardiomyopathic, or valvular heart disease
+2. Cardiac arrest within the past 28 days
+3. Requirement for urgent cardiac surgery
+4. Previous CABG surgery or PCI
+5. Evidence of moderate or severe CHF (Killip Classes III and IV)
+6. Any bradyarrhythmia that is expected to require a pacemaker through Day 4 (range 3 to 5 days), thus preventing the MRI
+7. Unable to undergo a MRI (including disallowed metallic implants, unable to tolerate gadolinium contrast media, morbid obesity, or severe claustrophobia)
+8. Subjects with past or current renal impairment requiring dialysis
+9. Active or recent hemorrhage requiring an invasive procedure for evaluation or transfusion or hemorrhagic stroke within 6 weeks prior to presentation
+10. Known or suspected aortic dissection
+11. Subjects who have received treatment for asthma within the past 12 months
+12. Prior history of pulmonary disease requiring chronic oxygen therapy
+13. Females of childbearing potential
+14. Body weight \> 150 kg or Body Mass Index (BMI) \> 40 kg/m2
+15. Medical problem likely to preclude completion of the study
+16. Use of investigational drugs or devices within 30 days prior to enrollment into the study
+17. Any underlying medical or psychiatric condition that, in the opinion of the Investigator, makes the subject an unsuitable candidate for the study
+18. Known food allergy to sulfite-containing foods and/or any drug allergies to drugs that contain sulfur

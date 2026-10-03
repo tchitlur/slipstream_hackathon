@@ -1,0 +1,28 @@
+Title: Safety and Dose Ranging Study of Insulin Receptor MoAb-IDS Fusion Protein in Patients With Hunter Syndrome
+Official title: A Phase 1 Safety and Dose-Finding Study of a Human Insulin Receptor Monoclonal Antibody-Human Iduronate 2-Sulfatase (IDS) Fusion Protein, AGT-182 in Adult Patients With Mucopolysaccharidosis II (MPS II, Hunter Syndrome)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Mucopolysaccharidosis II
+Interventions: AGT-182 (DRUG)
+Summary: AGT-182 is a fusion protein containing idursulfase that is intended to deliver the enzyme peripherally and to the brain, when administered intravenously. This study is a safety and dose ranging study to obtain safety and exposure data, as well as information on the biological activity of the investigational drug.
+Eligibility: Inclusion Criteria:
+
+* Male age 18 years or older
+* Diagnosis of Hunter Syndrome (documented fibroblast or leukocyte IDS enzyme activity level of less than 10% of the lower limit of the normal range of the measuring laboratory - or any level of enzyme deficiency together with the presence of a pathogenic mutation in the IDS gene - and documentation of normal enzymatic activity of at least 1 other sulfatase.)
+* Must fall into one of the following groups:
+
+  * currently receiving standard enzyme replacement therapy (ERT) and be willing to discontinue it for the study duration, taking AGT-182 instead
+  * have not received standard ERT for at least 3 months and have elevated uGAGs of at least 3.5 fold above age-related normals at study screening
+  * have never received ERT
+* Voluntary written consent
+* Sexually mature males must be advised to use a medically accepted method of contraception throughout the study.
+
+Exclusion Criteria:
+
+* Refusal to complete screening/baseline evaluations
+* Receipt of an investigational drug within the prior 90 days
+* Any medical condition or other circumstances that may significantly interfere with study compliance
+* Clinically significant spinal cord compression, evidence of cervical instability
+* Known hypersensitivity to idursulfase or any of the components of AGT-182
+* Known to be nonresponsive to standard ERT treatment (i.e., high uGAG values despite taking full dose standard ERT)
+* History of diabetes mellitus or hypoglycemia
+* Contraindication to lumbar puncture, if the patient agrees to this optional assessment

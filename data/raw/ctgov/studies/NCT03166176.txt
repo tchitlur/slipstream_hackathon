@@ -1,0 +1,28 @@
+Title: Phase II Trial of Vistusertib（AZD2014） Single Agent in TSC1or 2 Null or TSC 1/2 Mutation Solid Cancer Patients Refractory to Standard Chemotherapy
+Official title: SAMSUNG MEDICAL CENTER
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Solid Tumor
+Interventions: Vistusertib(AZD2014) (DRUG)
+Summary: Patients with TSC1/2 mutated refractory solid cancer will receive vistusertib(AZD2014) monotherapy. Study-arm is composed of 27 patients. Vistusertib(AZD2014) 50mg BD continuous schedule of a 28 day cycle as a monotherapy
+Eligibility: Inclusion Criteria:
+
+1. Advanced solid cancers (including histologically or cytologically documented gastric cancer, colorectal cancer, hepatoma, biliary tract cancers, pancreatic cancer and rare cancers.) that has progressed after standard chemotherapy.
+2. Provision of tumor sample (from either a resection or biopsy)
+3. Patients with TSC1or 2 null or TSC 1/2 mutation through IHC.
+4. Patients must have acceptable bone marrow, liver and renal function measured within 28 days prior to administration of study treatment as defined below:
+
+   * Haemoglobin ≥9.0 g/dL (transfusion allowed)
+   * Absolute neutrophil count (ANC) ≥ 1.5 x 109/L
+   * White blood cells (WBC) \> 3 x 109/L
+   * Platelet count ≥100 x 109/L (transfusion allowed)
+   * Total bilirubin ≤ 1.5 x institutional upper limit of normal (ULN)
+   * AST (SGOT)/ALT (SGPT) ≤ 2.5 x institutional upper limit of normal unless liver metastases are present in which case it must be ≤ 5x ULN
+   * Serum creatinine ≤1.5 x institutional ULN
+
+Exclusion Criteria:
+
+1. Any previous treatment with PIK3CA, AKT or mTOR inhibitor or agents with mixed PI3K / mTOR activity.
+2. For vistusertib(AZD2014):
+
+   Exposure to potent or moderate inhibitors or inducers of CYP3A4/5 if taken within the stated washout periods before the first dose of study treatment With the exception of alopecia, any ongoing toxicities (\>CTCAE grade 1) caused by previous cancer therapy.
+3. Intestinal obstruction or CTCAE grade 3 or grade 4 upper GI bleeding within 4 weeks before the enrollment.

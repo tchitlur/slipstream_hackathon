@@ -1,0 +1,39 @@
+Title: NEOadjuvant Abemaciclib and GIredestrant TriaL in Patients with ER-positive, HER2-negative Early Breast Cancer
+Official title: NEOadjuvant Abemaciclib and GIredestrant TriaL in Patients with ER-positive, HER2-negative Early Breast Cancer
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Breast Cancer
+Interventions: Abemaciclib 150 MG + Giredestrant 30 MG (DRUG)
+Summary: The objective of the study is to evaluate the efficacy and the safety of abemaciclib and giredestrant before surgery in participants with early stage, oestrogen receptor-positive (ER+), human epidermal receptor 2 negative (HER2-) breast cancer (BC).
+
+Primary objective:
+
+● To evaluate the efficacy of abemaciclib and giredestrant in complete cell cycle arrest (CCCA) rate at Week 2.
+
+Secondary objectives:
+
+* To evaluate the efficacy of abemaciclib and giredestrant in reducing the relative Ki67 expression from baseline to Week 2
+* To evaluate the efficacy of abemaciclib and giredestrant in risk of recurrence (ROR) score reduction, clinical and radiological tumor response;
+* To evaluate the safety of abemaciclib and giredestrant.
+
+Exploratory objectives:
+
+* To evaluate the mechanisms of response and resistance to therapy;
+* To evaluate the correlation between Ki-67% reduction and 18- Fluorothymidine (FLT) uptake reduction;
+* To evaluate the pathological complete response (pCR) rate (ypT0/is, ypN0) of giredestrant plus abemaciclib
+Eligibility: Inclusion Criteria:
+
+1. Female patients willing and able to give written informed consent;
+2. Women≥18 years of age;
+3. Postmenopausal women, as defined by at least one of the following criteria:
+
+   * ≥12 months of amenorrhea without an alternate medical cause plus follicle-stimulating hormone (FSH) and plasma estradiol levels within postmenopausal range by local laboratory assessment, in the absence of oral contraceptive pills, hormone replacement therapy, or gonadotropin-releasing hormone agonist or antagonist. However, in the absence of 12 months of amenorrhea, a single FSH measurement is insufficient;
+   * Documented bilateral oophorectomy (≥ 14 days prior to first treatment on Day 1 of Cycle 1 and recovery from surgery to baseline);
+4. Patients with cT1c (≥1.0 cm)-cT4a-c BC at presentation; a-c primary tumor must be ≥ 1.0 cm in longest diameter by ultrasound;
+5. Confirmed ER+ disease by local testing on primary disease specimen: tumor must be ER ≥ 10% defined by immunohistochemistry (IHC) according to American Society of Clinical Oncology (ASCO)/College of American Pathologists (CAP) guidelines for hormone receptor testing;
+6. Confirmed HER2- disease by local testing on primary disease specimen: tumor must be HER2- according to ASCO/CAP 2023 guidelines for HER2 testing;
+7. Patients with multifocal or multicentric breast cancer with at least one tumor lesion ≥1.0 cm in the longest diameter by ultrasound (reference lesion) are also eligible if the two largest tumor lesions have been histologically confirmed in the clinical evaluation and meet pathologic criteria for ER positivity and HER2 negativity.
+8. No previous treatment of the disease by chemotherapy, hormone therapy, surgery or radiotherapy;
+9. Patients considered appropriate for endocrine therapy according to physician judgment;
+10. Ki67 score ≥10% analyzed locally and centrally confirmed. Ki67 will be analyzed locally at the time of inclusion. Patients with basal Ki67≥20% will be assessed locally and centrally confirmed retrospectively and patients with 10-19% will be assessed centrally before inclusion.
+11. Patients with breast cancer eligible for primary surgery;
+12. Eastern Cooperative Oncology Gr

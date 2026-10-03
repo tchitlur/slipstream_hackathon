@@ -1,0 +1,29 @@
+Title: A Study of Brigatinib Compared to Alectinib in Adults With Non-Small-Cell Lung Cancer
+Official title: A Phase 3 Randomized Open-label Study of Brigatinib (ALUNBRIG®) Versus Alectinib (ALECENSA®) in Advanced Anaplastic Lymphoma Kinase-Positive Non-Small-Cell Lung Cancer Patients Who Have Progressed on Crizotinib (XALKORI®)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: ALK+ Advanced NSCLC
+Interventions: Brigatinib (DRUG); Alectinib (DRUG)
+Summary: Brigatinib is a medicine that binds to the surface of tumor cells in some cancers and delivers a dose of chemotherapy directly to the tumor. In this study, participants will be people with non-small-cell lung cancer (NSCLC for short). The main aim of the study is to learn if brigatinib stops the tumors from growing, or if the tumors have shrunk or disappeared, compared to a medicine called alectinib.
+
+At the first visit, the study doctor will check who can take part. Participants who can take part will be picked for 1 of 2 treatments by chance:
+
+* Brigatinib tablets
+* Alectinib capsules
+
+All participants will take brigatinib or alectinib at about the same time every day. They will continue with treatment throughout the study unless their cancer gets worse, they have side effects from the treatment, they leave the study for certain reasons, or the study is stopped.
+
+After stopping treatment, participants will visit the study clinic for a check-up 30 days later.
+Eligibility: Inclusion Criteria:
+
+1. Have Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2.
+2. Have histologically or cytologically confirmed stage IIIB (locally advanced or recurrent) or stage IV NSCLC.
+3. Must meet one of the following criteria:
+
+   * Have documentation of ALK rearrangement by a positive result from the Vysis ALK Break-Apart fluorescence in situ hybridization (FISH) Probe Kit or the Ventana ALK (D5F3) CDx Assay or Foundation Medicine's FoundationOne CDx.
+   * Have documented ALK rearrangement by a different test and be able to provide tumor sample to the central laboratory. (Note: central laboratory ALK rearrangement testing results are not required to be obtained before randomization).
+4. Had PD while on crizotinib, as assessed by the investigator or treating physician except for participants previously participating in the Brigatinib-2002 study (Note: crizotinib does not need to be the last therapy a participant received. The participant may have received chemotherapy as his/her last therapy).
+5. Treatment with crizotinib for at least 4 weeks before progression except for participants previously participating in the Brigatinib-2002 study.
+6. Have had no other ALK inhibitor other than crizotinib except for participants previously participating in the Brigatinib-2002 study.
+7. Have had no more than 2 prior regimens of systemic anticancer therapy (other than crizotinib) in the locally advanced or metastatic setting. Note: a systemic anticancer therapy regimen will be counted if it is administered for at least 1 complete cycle. A new anticancer agent used as maintenance therapy will be counted as a new regimen. Neoadjuvant or adjuvant systemic anticancer therapy will be counted as a prior regimen if disease progression/recurrence occurred within 12 months upon completion of this neoadjuvant or adjuvant therapy. (Systemic therapy followed by maintenance therapy will be considered as one regimen if the maintenance therapy consists of a drug or drugs that were used in the regimen that immediately preceded maintenance).
+8. Have at least 1 measurable (that is, target) lesion per RECIST v1.1.
+9. Have recovered from toxicities related to prior

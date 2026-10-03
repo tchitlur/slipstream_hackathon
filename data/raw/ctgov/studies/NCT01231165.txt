@@ -1,0 +1,41 @@
+Title: Treatment of Coronary Heart Disease With Amiloride
+Official title: Comparative Randomized Single-blind Trial of Amiloride in Coronary Heart Disease
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: Coronary Heart Disease
+Interventions: Amiloride (DRUG); Nitrates, clopidogrel, aspirin, statins (DRUG)
+Summary: Treatment of coronary artery disease is a major health care problem across the entire word, and the United States. Unfortunately, despite a number of medical advances, diagnostic procedure, or epidemiological studies, the treatment of these patients remain complex, and and at times frustrating. In fact, the COURAGE trial conducted in 50 centers across United States and Canada documented that drug treatment, coronary interventions or both were not effective solution in coronary artery diseases.
+
+A novel approach has recently been developed, based on the critical role of the potassium (K) content in red-blood-cell in myocardial oxygenation, since oxygen and K binding by hemoglobin (red-blood-cell) occurs simultaneously in blood passing through the lungs, whereas in the organs as the heart, the hemoglobin release both Oxygen and K ions.
+
+This apparently simple mechanisms occurs in human blood in all individuals but could be altered in subjects with acquired or hereditable defect in red-blood-cell K content. The purpose of this trial, thus, will be to evaluate the pharmacological effects of Amiloride on RBC K-uptake and transport and its impact on reversion of angina, electrocardiograp
+Eligibility: Inclusion Criteria:
+
+1. Male or female; age 35-75 years having angina (Canada Cardiovascular Society Class II-IV)
+2. Essential Hypertension defined as taking at least 1 anti-hypertensive medication, or average systolic blood pressure ≥140 mm Hg, or diastolic blood pressure ≥90 mmHg
+3. ST-T changes of LVH (Romhilt-Estes or Framingham Heart Study criteria, with typical LV strain pattern, or isoelectric, inverted or biphasic T waves)
+4. ST-T changes of ischemia in resting ECG (ST depression, isoelectric, biphasic, negative or inverted T-waves)
+5. Serum potassium \< 5.0 mmol/L prior to randomization
+6. Negative pregnancy test in child-bearing potential women
+7. Willing to comply with scheduled visits
+8. Informed consent form signed by the subject
+
+Exclusion Criteria:
+
+1. Resistance hypertension despite 3-drugs treatment
+2. Myocardial infarction in past 90 days
+3. Coronary artery bypass graft surgery in past 90 days
+4. Atrial fibrillation with a resting heart rate \> 90 bpm
+5. Percutaneous coronary intervention in past 30 days
+6. Implanted Pacemaker
+7. Stroke in past 90 days
+8. Left or Right Ventricular Branch Block
+9. Aldosterone antagonist or K sparing drug in last 7 days
+10. Intolerance to amiloride
+11. Lithium use
+12. Current participation in any other therapeutic trial
+13. Any condition that may prevent the subject from adhering to the trial protocol
+14. History of hyperkalemia (K ≥5.5 mmol/L) in the past six months or K \>5.0 mmol/L within 2 weeks
+15. Chronic renal dysfunction
+16. Liver disease
+17. Chronic pulmonary disease
+18. Significant uncorrected valvular heart disease

@@ -2,11 +2,13 @@
  * S9 Analytics: readiness ladders, neighbor relations, transfer verdicts with counter-reasons,
  * Louvain clusters and a force layout, bridges and demo candidates (SPEC section 9).
  */
+import fs from "node:fs";
+import path from "node:path";
 import Graph from "graphology";
 import louvain from "graphology-communities-louvain";
 import forceAtlas2 from "graphology-layout-forceatlas2";
 import { readValidated, readJsonOr, writeJson, log, uniq } from "./lib/io";
-import { files } from "./lib/paths";
+import { files, TRANSFERS_DIR } from "./lib/paths";
 import { writeEvidence, readEvidence } from "./lib/evidence";
 import { updateManifest } from "./lib/manifest";
 import {
@@ -237,10 +239,21 @@ async function main() {
       graph.setNodeAttribute(n, "x", rng() * 100);
       graph.setNodeAttribute(n, "y", rng() * 100);
     });
-    const positions = forceAtlas2(graph, { iterations: 400, settings: { gravity: 1, scalingRatio: 10, barnesHutOptimize: graph.order > 300, slowDown: 2 } });
-    // Place isolated (no-phenotype) conditions on a ring outside.
+    // Isolated nodes are laid out on a ring around the connected component layout.
+    const isolated = graph.nodes().filter((n) => graph.degree(n) === 0);
+    for (const n of isolated) graph.dropNode(n);
+    const positions = graph.order > 0 ? forceAtlas2(graph, { iterations: 800, settings: { gravity: 0.3, scalingRatio: 40, strongGravityMode: false, barnesHutOptimize: graph.order > 300, slowDown: 5, adjustSizes: false, outboundAttractionDistribution: true, linLogMode: false } }) : {};
     const nodes: Record<string, { x: number; y: number }> = {};
+    const xs = Object.values(positions).map((p) => p.x);
+    const ys = Object.values(positions).map((p) => p.y);
+    const cx = xs.length ? (Math.min(...xs) + Math.max(...xs)) / 2 : 0;
+    const cy = ys.length ? (Math.min(...ys) + Math.max(...ys)) / 2 : 0;
+    const radius = xs.length ? Math.max(Math.max(...xs) - Math.min(...xs), Math.max(...ys) - Math.min(...ys)) * 0.65 + 10 : 50;
     for (const [id, p] of Object.entries(positions)) nodes[id] = { x: Number(p.x.toFixed(2)), y: Number(p.y.toFixed(2)) };
+    isolated.forEach((id, i) => {
+      const a = (2 * Math.PI * i) / Math.max(1, isolated.length);
+      nodes[id] = { x: Number((cx + radius * Math.cos(a)).toFixed(2)), y: Number((cy + radius * Math.sin(a)).toFixed(2)) };
+    });
     writeJson(files.layout, { nodes, edges, threshold: edgeT }, { pretty: false });
   }
   atlas.clusters = clusters;
@@ -250,7 +263,8 @@ async function main() {
     for (const inv of investigators) {
       inv.clusterIds = uniq(inv.conditionIds.map((cid) => condById.get(cid)?.clusterId).filter(Boolean) as string[]);
       inv.roadIds = uniq(inv.conditionIds.map((cid) => condById.get(cid)?.roadId).filter(Boolean) as string[]);
-      inv.isBridge = inv.conditionIds.length >= 2 && (inv.roadIds.length >= 2 || inv.clusterIds.length >= 2);
+      const geneCount = uniq(inv.conditionIds.map((cid) => condById.get(cid)?.geneId).filter(Boolean)).length;
+      inv.isBridge = geneCount >= 2 && (inv.roadIds.length >= 2 || inv.clusterIds.length >= 2);
       inv.bridgeReason = inv.isBridge ? (inv.roadIds.length >= 2 ? `linked to conditions on ${inv.roadIds.length} different roads` : `linked to conditions in ${inv.clusterIds.length} different clusters`) : undefined;
     }
     writeJson(files.investigators, { investigators: Object.fromEntries(investigators.map((i) => [i.id, i])) }, { pretty: false });
@@ -281,7 +295,12 @@ async function main() {
 
   writeJson(files.ladders, { ladders }, { pretty: false });
   writeJson(files.similarity, sim, { pretty: false });
-  writeJson(files.transfers, { cutoffs: { high: sim.cutoffs!.high, medium: sim.cutoffs!.medium }, pairs }, { pretty: false });
+  // Transfers are split per focal condition so the app loads only what a page needs.
+  const byFocal = new Map<string, Record<string, TransferPair>>();
+  for (const [key, pair] of Object.entries(pairs)) (byFocal.get(pair.focalId) ?? byFocal.set(pair.focalId, {}).get(pair.focalId)!)[key] = pair;
+  if (fs.existsSync(TRANSFERS_DIR)) fs.rmSync(TRANSFERS_DIR, { recursive: true });
+  for (const [focalId, ps] of byFocal) writeJson(path.join(TRANSFERS_DIR, `${focalId.replace(/^cond:/, "")}.json`), { focalId, pairs: ps }, { pretty: false });
+  writeJson(files.transfers, { cutoffs: { high: sim.cutoffs!.high, medium: sim.cutoffs!.medium }, focalIds: [...byFocal.keys()], pairCount: Object.keys(pairs).length }, { pretty: false });
   writeJson(files.atlas, atlas, { pretty: false });
   writeEvidence(["ev:rule:R", "ev:seed:therapy:"], [...ruleEvidence, ...newEvidence]);
   const found = Object.values(ladders).filter((l) => l.conditionId && condById.get(l.conditionId)!.depth === "deep");

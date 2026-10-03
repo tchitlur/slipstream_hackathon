@@ -1,0 +1,25 @@
+Title: Immunometabolic Mechanisms of Blood Flow Restriction (BFR) Training After Anterior Cruciate Ligament Reconstruction
+Official title: Immunometabolic Mechanisms of Blood Flow Restriction Training After Anterior Cruciate Ligament Reconstruction
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Anterior Cruciate Ligament Reconstruction
+Interventions: AirBand (DEVICE); uninflated AirBand (DEVICE)
+Summary: This is a crossover phase 4 study to evaluate the impact of blood flow restriction on immunometabolism and gene expression in immune cells in individuals undergoing rehabilitation from anterior cruciate ligament reconstruction.
+Eligibility: Inclusion Criteria:
+
+1. Provision of signed and dated informed consent form
+2. Stated willingness to comply with all study procedures and availability for two study visits at least 1 week apart
+3. All genders, between 18 and 60 years of age
+4. In good general health without any underlying medical conditions or prior injury that would place the subject at risk of further injury/illness by participating in the study
+
+Exclusion Criteria:
+
+1. Serious medical conditions including cardiovascular, metabolic (diabetes), rheumatologic, pulmonary, or musculoskeletal.
+2. Multiple ligament ruptures or trauma
+3. Rheumatoid arthritis or other significant comorbidities
+4. Lower extremity vascular pathology, including history of deep vein thrombosis
+5. Those with a history of sickle cell trait or disease
+6. Use of anticoagulant medications
+7. Pregnancy
+8. Treatment with another investigational drug or other intervention within one month of Study Day 1
+9. Current smoker or tobacco use within 3 months of Study Day 1
+10. Febrile illness within 2 weeks of Study Day 1

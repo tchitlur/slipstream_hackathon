@@ -1,0 +1,18 @@
+Title: Multicenter Study of Patients With SHANK3 Mutations: Identification of Genes Modificators in Phelan-McDermid Syndrome (EUQ13)
+Official title: Multicenter Study of Patients With SHANK3 Mutations: Identification of Genes Modificators in Phelan-McDermid Syndrome (EUQ13)
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Genetic Disease
+Interventions: SHANK3 mutation (DIAGNOSTIC_TEST)
+Summary: Phelan-McDermid syndrome (PMS) is a neurodevelopmental disorder with extensive clinical and genetic heterogeneity that is still poorly understood. The phenotype includes hypotonia, delayed psychomotor development, intellectual disability of varying severity, and consistent language impairment ranging from delayed to absent speech. Autism spectrum disorders are present in 60-80% of patients, and other comorbidities may be present. The major candidate gene for PMS is SHANK3, which encodes a scaffolding protein in the dense postsynaptic region of glutamatergic synapses. Its loss of function is caused by deletions in the distal region of chromosome 22, 22q13.3, or by intragenic genomic variants. Several studies, including the one conducted by our team, have shown that part of the variability in the phenotype is related to the size of the 22q13.3 deletion. However, two patients with a deletion of similar size or an identical point variation in SHANK3 can have phenotypes of very variable severity.
+
+The existence of additional genomic variants not identified by standard diagnostic techniques, particularly DNA chip chromosomal analysis (ACPA), which may act as modulating elements of the ph
+Eligibility: Inclusion Criteria:
+
+* Patient diagnosed with Phelan-McDermid syndrome as part of the etiological assessment of a neurodevelopmental disorder, regardless of age (and their parents, siblings, and grandparents).
+* For patients: identification of a deletion affecting SHANK3 or a specific, deleterious genetic variation in SHANK3.
+* Affiliation to a social security scheme or beneficiary.
+* Signature of the project consent form by the participant (if an adult) or by both legal guardians (if the participant is a minor or an adult under guardianship).
+
+Exclusion Criteria:
+
+\-

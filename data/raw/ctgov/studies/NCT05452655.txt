@@ -1,0 +1,28 @@
+Title: Intensive Multidisciplinary Rehabilitation and Biomarkers in Parkinson's Disease
+Official title: Effects of Intensive Multidisciplinary Rehabilitation and Identification of New Biomarkers in Response to an Integrated Motor-Cognitive and Aerobic Exercises Approaches in People With Parkinson's Disease
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Parkinson Disease; Biomarkers; Rehabilitation Outcome; Gait Disorders, Neurologic; Parkinsonian Disorders; Basal Ganglia Diseases; Central Nervous System Diseases; Movement Disorders; Synucleinopathies; Neurodegenerative Diseases; Cognitive Impairment; Gait Analysis; Pathologic Processes; Magnetic Resonance Imaging; Physiotherapy
+Interventions: Multidisciplinary Intensive Rehabilitation (BEHAVIORAL); Muscle-stretching and active mobilization exercises (BEHAVIORAL)
+Summary: Parkinson's disease (PD) is a progressive neurological disorder characterized by motor and non-motor symptoms such as rigidity, bradykinesia, resting tremor, cognitive and autonomic dysfunctions, gait and balance difficulties.
+
+The impairment of gait, balance and cognitive performances is partially responsive to dopaminergic medications. This emphasizes the importance of non-pharmacological interventions for people with PD (pwPD).
+
+Intensive multidisciplinary motor and cognitive rehabilitation has been proposed as a complementary and effective treatment for managing pwPD.
+
+Several structural and physiological mechanisms have been suggested to underpin exercise-induced neuroplastic changes in PD, such as enhanced synaptic strength and preservation of dopamine neurons. To date, studies on brain changes induced by motor and cognitive exercises in pwPD have been small-scaled and uncontrolled.
+
+Identifying accessible and measurable biomarkers for monitoring the events induced by intensive motor and cognitive rehabilitation program would help in testing the treatment effectiveness and would allow personalization of rehabilitation strategies by predicting patients' responsiveness.
+
+Based 
+Eligibility: Inclusion Criteria:
+
+* PD diagnosis according to MDS Criteria (MDS clinical diagnostic criteria for Parkinson's disease, Postuma et al., 2015);
+* Modified Hoehn\&Yahr (H\&Y): stages from 1.5 to- 3;
+* Stable pharmacological treatment in the last 4 weeks.
+
+Exclusion Criteria:
+
+* Vascular, familiar and drug- induced forms of parkinsonism, other known or suspected causes of parkinsonism (metabolic, brain tumor etc) or any suggestive features of atypical parkinsonism;
+* Significant comorbidities and/or severe systemic diseases that would preclude exercise participation (eg.recent surgery, unstable cardiac dysfunction, anemia, hepatosis, pulmonary disorders, chronic renal failure; auditory, visual and/or vestibular dysfunctions, presence of DBS); previously diagnosed psychiatric diseases.
+* Dementia as defined by Montreal Cognitive Assessment (MoCA Test) Correct Score\<15.51 (Santangelo et al., 2014);
+* Rehabilitation treatment in the previous 4 weeks.

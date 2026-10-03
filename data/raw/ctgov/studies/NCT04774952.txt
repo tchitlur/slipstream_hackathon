@@ -1,0 +1,22 @@
+Title: Dose Escalation of RMC-5552 Monotherapy in Relapsed/Refractory Solid Tumors
+Official title: A Phase 1/1b, Open-Label, Multicenter, Dose-Escalation Study of RMC 5552 Monotherapy in Adult Subjects With Relapsed/Refractory Solid Tumors
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Solid Tumors
+Interventions: RMC-5552 (DRUG)
+Summary: The purpose of this study is to evaluate the safety, tolerability, pharmacokinetic (PK), and pharmacodynamic (PD) profiles of escalating doses of RMC-5552 monotherapy in adult participants with relapsed/refractory solid tumors and to identify the recommended Phase 2 dose (RP2D).
+Eligibility: Inclusion Criteria:
+
+* Participants (male or female) ≥18 years of age
+* Participants who have advanced solid tumors that have failed, are intolerant to, or are considered ineligible for standard of care anticancer treatments including approved drugs for oncogenic drivers in their tumor type
+* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1
+* Participants in the Dose-Expansion Component must have molecular aberrations in the mTOR pathway
+* Adequate hematologic, hepatic and renal function
+
+Exclusion Criteria:
+
+* Known or suspected leptomeningeal or brain metastases or spinal cord compression
+* Primary central nervous system (CNS) tumors
+* Clinically significant cardiac disease
+* Active, clinically significant interstitial lung disease or pneumonitis
+* Subjects with abnormal fasting glucose, type 1 diabetes, or uncontrolled type 2 diabetes are excluded.
+* Subjects with stomatitis or mucositis of any grade

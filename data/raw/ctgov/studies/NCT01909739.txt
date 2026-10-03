@@ -1,0 +1,21 @@
+Title: The Effects of Statin on Postoperative Renal Function in Valvular Heart Surgery: a Randomized, Placebo-controlled Study
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Acute Kidney Injury
+Interventions: atrovastatin (DRUG); Placebo (DRUG)
+Summary: The aim of this study is to examine the association between preoperative statin treatment and the incidence of postoperative acute kidney injury(AKI) in patients undergoing valvular heart surgery.
+Eligibility: Inclusion Criteria:
+
+\- patients over the age of 20 scheduled for valvular heart surgery
+
+Exclusion Criteria:
+
+1. Current statin use
+2. Left ventricular ejection fraction \< 30%
+3. Preexisting congestive heart failure
+4. Severe coronary artery disease
+5. Hemodynamically unstable arrhythmia
+6. Cardiogenic shock during perioperative period
+7. Ventricular assist device
+8. Severe renal dysfunction (eGFR \< 15 ml/min per 1.73 m2)
+9. History of liver disease or elevated serum transaminases
+10. History of rhabdomyolysis or elevated creatinine kinase

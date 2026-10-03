@@ -1,0 +1,20 @@
+Title: A Study of Rucaparib in Patients With Metastatic Castration-resistant Prostate Cancer and Homologous Recombination Gene Deficiency
+Official title: TRITON2: A Multicenter, Open-label Phase 2 Study of Rucaparib in Patients With Metastatic Castration-resistant Prostate Cancer Associated With Homologous Recombination Deficiency
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Metastatic Castration Resistant Prostate Cancer
+Interventions: Rucaparib (DRUG)
+Summary: The purpose of this study is to determine how patients with metastatic castration-resistant prostate cancer, and evidence of a homologous recombination gene deficiency, respond to treatment with rucaparib.
+Eligibility: Inclusion Criteria:
+
+* Be 18 years old at the time the informed consent form is signed
+* Have a histologically or cytologically confirmed adenocarcinoma or poorly differentiated carcinoma of the prostate
+* Be surgically or medically castrated, with serum testosterone levels of ≤ 50 ng/dL (1.73 nM)
+* Experienced disease progression after having received at least 1 but no more than 2 prior next-generation androgen receptor-targeted therapies, and 1 prior taxane-based chemotherapy, for castration-resistant disease
+* Have a deleterious mutation in BRCA1/2 or ATM, or molecular evidence of other homologous recombination deficiency
+
+Exclusion Criteria:
+
+* Active second malignancy, with the exception of curatively treated non-melanoma skin cancer, carcinoma in situ, or superficial bladder cancer
+* Prior treatment with any PARP inhibitor, mitoxantrone, cyclophosphamide or any platinum-based chemotherapy
+* Symptomatic and/or untreated central nervous system metastases
+* Pre-existing duodenal stent and/or any gastrointestinal disorder or defect that would, in the opinion of the investigator, interfere with absorption of rucaparib

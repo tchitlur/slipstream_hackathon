@@ -1,0 +1,41 @@
+Title: The Efficacy and Safety of Cobitolimod in Participants With Moderate to Severe Active Left-Sided Ulcerative Colitis
+Official title: A Randomised Double-Blind Placebo-Controlled Phase III Clinical Study to Evaluate the Efficacy and Safety of Cobitolimod as an Induction and Maintenance Therapy in Participants With Moderate to Severe Active Left-Sided Ulcerative Colitis
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Ulcerative Colitis
+Interventions: Cobitolimod 250 mg (DRUG); Cobitolimod 500 mg (DRUG); Placebo (DRUG)
+Summary: The purpose of the study is to evaluate the efficacy of cobitolimod treatment compared to placebo in inducing clinical remission, in participants with moderate to severe active left-sided UC and to evaluate the efficacy of cobitolimod maintenance treatment compared to placebo in inducing or maintaining clinical remission at week 52, in participants with clinical response at week 6 after induction treatment with cobitolimod.
+Eligibility: Inclusion Criteria Induction:
+
+* Male or female ≥ 18 years of age.
+* Established diagnosis of UC.
+* Moderate to severe active left-sided UC assessed by central reading.
+* Have inadequate response, loss of response or be intolerant of at least one of the following treatments: Oral GCS, AZA/6-MP, Biologics, JAK-inhibitors, or other approved advanced therapies for UC.
+* Allowed to receive a therapeutic dose of the following UC drugs during the study: Oral GCS therapy (≤20 mg prednisone or equivalent/day) , Oral 5-ASA/SP compounds, AZA/6-MP.
+* Ability to understand the treatment, willingness to comply with all study requirements, and ability to provide informed consent.
+
+Exclusion Criteria Induction:
+
+* Suspicion of differential diagnosis.
+* Acute fulminant UC and/or signs of systemic toxicity.
+* UC limited to the rectum or extending beyond the splenic flexure.
+* Have failed treatment with more than three advanced therapies of two different therapeutic classes.
+* Have had surgery for treatment of UC.
+* History of malignancy, unless treated with no relapse of the disease and ≥ 5 years since last treatment (cured).
+* History or presence of any clinically significant disorder.
+* Concomitant treatment with cyclosporine, methotrexate, tacrolimus, or advanced therapies or similar immunosuppressants and immunomodulators.
+* Treatment with rectal GCS, 5-ASA/SP or tacrolimus.
+* Long-term treatment (\>14 days) with antibiotics or NSAIDs .
+* Serious known active infection including history of latent or active tuberculosis.
+* Gastrointestinal infections including positive Clostridium difficile stool assay.
+* Females who are lactating or have a positive serum pregnancy test.
+* Women of childbearing potential not using highly effective contraceptive methods.
+* Concurrent participation in another clinical study.
+* Previous exposure to cobitolimod.
+
+Inclusion Criteria Maintenance:
+
+* Participants are eligible to be included in the maintenance study if they have achieved clinical response at week 6 and have adhered to the protocol procedures of the induction study.
+
+Exclusion Criteria Maintenance:
+
+* Participants will not be eligible for the maintenance study if they are not willing 

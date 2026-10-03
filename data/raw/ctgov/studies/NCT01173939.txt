@@ -1,0 +1,44 @@
+Title: Primary Prevention of Major Adverse Cardiac Events (MACE) With Standard and Intensive Statin Treatment in Patients With Diabetes: Survival and Cardiovascular Event Assessments
+Official title: Primary Prevention of MACE With Standard and Intensive Statin Treatment in Hypercholesterolemia Patients With Concomitant Diabetes and Hypertension
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Hypercholesterolemia; Type 2 Diabetes; Hypertension
+Interventions: Pravastatin (DRUG); Rosuvastatin (DRUG)
+Summary: The study is being conducted to compare the effect of standard treatment (target LDL-C level: \<120 mg/dL (JASGL 2007 target level)) and intensive treatment (target LDL-C level: \<70 mg/dL) in the prevention of major adverse cardiac events (MACE) in hypercholesterolemia patients with concomitant type 2 diabetes and hypertension.
+Eligibility: Inclusion Criteria:
+
+Patients meeting the following inclusion criteria will be included in the study:
+
+1. Patients giving voluntary written consent to participate in the study
+2. Male or female patients 50 years of age or older (at informed consent)
+3. Hypercholesterolemia patients (Untreated patients: LDL-C level ≥140 mg/dL; treated patients: LDL-C level ≥120 mg/dL)
+4. Type 2 diabetes patients (HbA1c level ≥6.1% (JDS criteria), with or without history of drug therapy)
+5. Hypertension patients (SBP ≥130 mmHg or DBP ≥80 mmHg, with or without history of drug therapy)
+6. Patients with two or more of the following risk factors
+
+   * Male
+   * 65 years of age or older
+   * Smoker
+   * L/H ratio: ≥3.0 •HbA1c level: ≥8.0%
+   * Left ventricular hypertrophy
+   * First- or second-degree family history of MACE
+   * Microalbuminuria (quantitative testing: ≥30 mg/dL), proteinuria (qualitative testing: + or higher) or eGFR (\<60 mL/min/1.73 m2)
+
+Exclusion Criteria:
+
+Patients meeting the following criteria will be excluded from the study:
+
+1. Patients receiving rosuvastatin, pitavastatin, or atorvastatin therapy within one month prior to informed consent
+2. Patients judged to have familial hypercholesterolemia
+3. Patients with a serum triglyceride level of ≥400 mg/dL
+4. Patients with a history of myocardial infarction
+5. Patients with a history of coronary revascularization (PCI or CABG)
+6. Patients with a history of treatment of unstable angina
+7. Patients with a history of cerebrovascular accident (excluding asymptomatic lacunar infarction)
+8. Heart failure patients
+9. Patients with a history of hypersensitivity to statins
+10. Patients with a history of drug-induced myopathy
+11. Patients with poorly controlled arrhythmia
+12. Patients with severe liver or kidney disease
+13. Patients with serious concurrent disease, such as malignancy, or patients with severely limited lifespan
+14. Patients who are or may be pregnant
+15. Patients judged by the investigators to be ineligible for participation in the study for any other reason

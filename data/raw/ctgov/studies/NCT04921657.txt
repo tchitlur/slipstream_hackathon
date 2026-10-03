@@ -1,0 +1,15 @@
+Title: Genome-wide Analysis of Lipid-lowering Efficacy and Drug Level of Simvastatin and Rosuvastatin
+Official title: Genome-wide Analysis of Lipid-lowering Efficacy and Drug Level of the Two Commonly Used Statins, Simvastatin and Rosuvastatin.
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Hypercholesterolemia
+Interventions: Rosuvastatin 10mg (DRUG)
+Summary: This study will perform a genome-wide association study (GWAS) of the lipid responses to rosuvastatin and simvastatin and plasma concentrations of these two statins in a homogeneous group of Han Chinese patients.
+Eligibility: Inclusion Criteria:
+
+* Clinical diagnosis of hypercholesterolemia (familial or non-familial)
+* Eligible for statin treatment according to local guidelines in the Hong Kong Public Hospital system.
+
+Exclusion Criteria:
+
+* Taking other medication which may interact with the pharmacokinetics or lipid response to statins.
+* Not willing to cooperate with study requirements.

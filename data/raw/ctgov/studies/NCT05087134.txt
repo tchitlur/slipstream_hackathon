@@ -1,0 +1,13 @@
+Title: Characterizing LAM With 11C-Choline PET/CT
+Official title: Characterizing Lymphangioleiomyomatosis (LAM) With 11C-Choline PET/CT
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: EARLY_PHASE1.
+Conditions: Lymphangioleiomyomatosis
+Interventions: 11C-Choline (DRUG)
+Summary: It was reported that TSC2-deficient cells enhance phosphatidylcholine synthesis via the Kennedy pathway. 11C-Choline can reflect the metabolic process of choline in vivo by intravenous injection. The purpose of this study is the ability of 11C-Choline PET/CT to evaluate the baseline condition of LAM patients and the efficacy of rapamycin after treatment.
+Eligibility: Inclusion Criteria:
+
+\- provide a written informed consent; Diagnostic CT or MRI suggesting a diagnosis of lymphangioleiomyomatosis.
+
+Exclusion Criteria:
+
+\- Females planning to bear a child recently or with childbearing potential; Known severe allergy or hypersensitivity to IV radiographic contrast； Inability to lie still for the entire imaging time.

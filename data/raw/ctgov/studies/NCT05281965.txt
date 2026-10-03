@@ -1,0 +1,22 @@
+Title: A Clinical Study Evaluating the Efficacy and Safety of Retinoic Acid in Patients With 15q11-q13 Duplication Syndrome
+Official title: A Clinical Study Evaluating the Efficacy and Safety of Retinoic Acid in Patients With 15q11-q13 Duplication Syndrome
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: EARLY_PHASE1.
+Conditions: Autism; Treatment Adherence; Retinoic Acid; Dup15Q Syndrome
+Interventions: Retinoic acid (DRUG)
+Summary: Autism Spectrum Disorders (ASD), with its core symptoms of communication and repetitive behaviors, is a serious neurodevelopmental disorder common in childhood and affects about 1% of children. So far, autism remains a clinical dilemma with no effective therapy.
+
+The most common chromsomal ability among ASD patients is 15q11-13q duplication syndrome(dup15q syndrome).Clinical phenotypes of dup15q syndrome include autism, mental retardation, epilepsy (usually refractory epilepsy, often manifested as infantile spasm), congenital heart disease, mild facial abnormalities, etc.
+
+UBE3A is one of the most important genes in the 15q11-q13 region.Biochemistry and molecular biology of the Chinese Academy of Sciences Hu Ronggui group found a new kind of autism in mechanisms and potential therapeutic targets - describe the ubiquitin ligase UBE3A protein and retinoic acid.Previous studies have shown that the basis of the relevant treatment measures can effectively relieve the mouse model of autism characteristics. Therefore, retinoic acid supplementation in the treatment of dup15q syndrome is a potential therapeutic target.
+Eligibility: Inclusion Criteria:
+
+1. Between 6 and 18 years old
+2. Clinical diagnosis + scale diagnosis of autism (1) Clinical diagnosis: clinical diagnosis was made by 2 experienced doctors according to the medical history provided by the caregivers and the diagnostic criteria of ASD in DSM-V; (2) Scale diagnosis: The diagnostic assessment was conducted by highly qualified practitioners taking the ADOS-2 score, Restricted Behabior (RRB) and Social Affect (SA) scores. The scores were converted to standardized severity scores (CSS) for three diagnoses of non-spectrum disorders, autism and autism spectrum disorders.
+3. Genetics: 15q11-13 duplicates diagnosed by SNP-Array or A-CGH microarray, including UBE3A gene
+
+Exclusion Criteria:
+
+1. A history of acute or chronic infection within the last 3 months
+2. There are still active seizures within the past 1 year
+3. Have taken vitamin and/or mineral supplements within the last 6 months
+4. A history of chronic diseases, including abnormal liver function, abnormal kidney function, and abnormal thyroid function;

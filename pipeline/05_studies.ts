@@ -36,7 +36,7 @@ const FIELDS = [
 ].join(",");
 const PAGE = 50;
 const MAX_PAGES = 2;
-const MAX_PER_GENE = 40;
+const MAX_PER_GENE = 30;
 const ELIG_CHARS = 2200;
 const SUMMARY_CHARS = 1200;
 

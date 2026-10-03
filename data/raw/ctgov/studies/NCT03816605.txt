@@ -1,0 +1,20 @@
+Title: FGF19 and the Expression of IRS-1 and GLUT-1 in Gestational Diabetes Mellitus
+Official title: Effects of Fibroblast Growth Factors 19 on the Expression of Insulin Receptor Substrate-1/Glucose Transporter-1 in Trophoblast Cells Cultured in High Glucose
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Gestational Diabetes Mellitus
+Interventions: none
+Summary: Insulin resistance plays a key role in the development of gestational diabetes mellitus(GDM). As the largest endocrine organ and the transport intermediary of maternal-fetal nutrient and a large of hormone and enzymes, placenta not only plays an important role in insulin resistance, but also have a profound effect on fetal growth and development.
+
+Insulin receptor substrate(IRS)-1, as a key signaling protein, plays vital role in the downstream of insulin receptor signaling pathway. Many studies have suggested that the central part of insulin resistance may be the insulin receptor substrate defect and the abnormal expression of the gene or protein of IRS-1 is one of the molecular mechanisms of the dysfunction of the insulin signaling pathway. The expression of IRS-1 and its tyrosine phosphorylated protein decreased abnormally in placenta, skeletal muscle and adipose tissue of GDM patients, which might be a significant cause to insulin resistance in GDM.
+
+Besides, glucose transporter-1(GLUT-1), which may play a major role in the glucose transporter in the placenta. The increase of blood glucose in patients with GDM has apparent up-regulating effect on the expression of GLUT-1 in the 
+Eligibility: Inclusion Criteria:
+
+* Women who choose to terminate pregnancy because of maternal factors in the First Affiliated Hospital of Sun Yat-sen University at the 6-10 weeks of gestation.
+
+Exclusion Criteria:
+
+* Younger than 18 years old;
+* Older than 40 years old;
+* Diagnosed DM before pregnancy;
+* Complicated with other diseases such as GDM, insulin resistance, obesity and related endocrine diseases, etc.;

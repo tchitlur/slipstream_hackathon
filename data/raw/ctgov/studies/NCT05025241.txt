@@ -1,0 +1,39 @@
+Title: An Open-Label Study of Oral NNZ-2591 in Phelan-McDermid Syndrome (PMS-001)
+Official title: An Open-Label Study of the Safety, Tolerability, and Pharmacokinetics of Oral NNZ-2591 in Phelan-McDermid Syndrome (PMS-001)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Phelan-McDermid Syndrome
+Interventions: NNZ-2591 (DRUG)
+Summary: A study of the safety, tolerability and pharmacokinetics of NNZ-2591 and measures of efficacy in children and adolescents with Phelan-McDermid Syndrome.
+Eligibility: Inclusion Criteria:
+
+1. Clinical diagnosis of PMS with a documented disease-causing genetic abnormality of SHANK3.
+2. Males or females aged 3-12 years.
+3. Body weight of 12 kg or higher at Screening.
+4. Subjects with a Clinical Global Impression - Severity (CGI-S) score of 4 or greater at the Screening visit.
+5. Not actively undergoing regression or loss of skills, defined as no persistent loss of previously acquired developmental skills for a period within 3 months of the Screening visit
+6. Each subject must be able to swallow the study medication provided as a liquid solution.
+7. Caregiver(s) must have sufficient English language skills.
+
+Exclusion Criteria:
+
+1. Body weight \< 12kg at screening
+2. Clinically significant abnormalities in safety laboratory tests and vital signs at Screening.
+3. Abnormal QTcF interval or prolongation at Screening.
+4. Any other clinically significant finding on ECG at the Screening visit.
+5. Positive for severe acute respiratory syndrome coronavirus 2 (SARSCoV- 2) and previous COVID 19 infection with last 12 months that required hospitalization
+6. Unstable or changes Psychotropic treatment 2 weeks prior to screening .
+7. Excluded concomitant treatments.
+8. Actively undergoing regression or loss of skills.
+9. Unstable seizure profile.
+10. Current clinically significant renal conditions and abnormalities
+11. Current clinically significant cardiovascular, renal, hepatic, gastrointestinal, respiratory, endocrine disease, or clinically significant organ impairment.
+12. Current clinically significant hypo or hyperthyroidism, Type 1 or Type 2 diabetes mellitus requiring insulin (whether well controlled or uncontrolled), or uncontrolled Type 1 or Type 2 diabetes.
+13. Has planned surgery during the study.
+14. History of, or current, cerebrovascular disease or brain trauma.
+15. History of, or current catatonia or catatonia-like symptoms.
+16. History of, or current, malignancy.
+17. Current major or persistent depressive disorder (including bipolar depression).
+18. Significant, uncorrected visual or uncorrected hearing impairment.
+19. Allergy to strawberry.
+20. Positive pregnancy test
+21. Subject is judged by the Investigator or Medical Monit

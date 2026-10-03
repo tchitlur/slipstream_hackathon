@@ -1,0 +1,24 @@
+Title: Evaluate Safety and Pharmacokinetics of Minocin (Minocycline) for Injection in Subjects With Renal Insufficiency
+Official title: A Phase I, Open-Label, Single-Dose Trial To Determine The Safety And Pharmacokinetics Of Minocin (Minocycline) For Injection In Subjects With Renal Insufficiency
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Renal Insufficiency, Acute; Renal Insufficiency, Chronic; Healthy Subjects
+Interventions: Minocin (minocycline) for Injection (DRUG)
+Summary: This is a Phase 1, open-label, single-dose study of the safety, tolerability, and pharmacokinetics of Minocin® (minocycline) for injection in subjects with renal insufficiency.
+Eligibility: Inclusion Criteria:
+
+1. A signed informed consent form, the ability to understand the study conduct and tasks that are required for study participation, and a willingness to cooperate with all tasks, tests, and examinations as required by the protocol, whether in the hospital or after discharge, for the duration of the study;
+2. Healthy adult male or female between 18 and 85 years of age (inclusive) at the time of screening;
+3. Subject has a body mass index (BMI) ≥ 18.5 kg/m2 and ≤ 45 kg/m2;
+4. Pulse measured at screening/baseline must be within the ranges ≥ 45 to ≤ 115 beats per minute (bpm, taken after resting in a semi-recumbent position for at least 5 minutes);
+5. Have sufficient peripheral vascular access, based on the Investigator's assessment, for all blood sample collections to take place;
+6. Female subject is surgically sterile, postmenopausal, or if of childbearing potential, agrees to abstinence or to use at least 2 acceptable methods of birth control (e.g., prescription oral contraceptives, contraceptive injections, contraceptive patch, intrauterine device, barrier methods, etc.) or male partner sterilization alone, between randomization and for 7 days after the completion of the study;
+
+   Subjects with Renal Insufficiency:
+7. Assessment of renal insufficiency for assignment to study groups will be based on measurements of estimated glomerular filtration rate calculated by the Modification of Diet in Renal Disease equation at the screening visit to determine eligibility;
+
+   Subjects with Normal Renal Function:
+8. Normal volunteers first matched by age (± 10 years), BMI (± 20%), and gender to the mean values of the moderate renal insufficiency group. Once the mild, moderate, and severe renal insufficiency groups are fully enrolled, the mean values of age, BMI, and gender will be calculated for the pooled renal insufficiency groups, and additional healthy subjects may be enrolled to match the pooled means;
+9. Have a creatinine clearance (CrCl) ≥ 90 mL/min calculated using the Cockcroft Gault equation;
+
+   Hemodialysis Subjects:
+10. Receiving stable hemodialysis (Kt/V \> 1.2) at least 3 times a week for at least 3 months, using an arteriovenous fistul

@@ -1,0 +1,20 @@
+Title: A Single-Arm Phase Ic Clinical Study of XKH001 Injection in Patients With Allergic Asthma After Multiple Doses
+Official title: A Single-Arm Study to Evaluate the Effect on Airway Hyperresponsiveness, Safety, Immunogenicity, Pharmacokinetics, and Pharmacodynamics Characteristics of XKH001 Injection in Patients With Allergic Asthma
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Asthma Patients
+Interventions: XKH001 Injection (DRUG)
+Summary: This study is a single-arm, open-label clinical study. A total of 12 patients with allergic asthma are planned to be enrolled to receive XKH001 600 mg Q4W administration for the assessment of the safety, immunogenicity, PK, and PD characteristics of multiple doses.
+Eligibility: Inclusion Criteria:
+
+* To be eligible to participate in the study, a subject must meet all of the following criteria:
+
+  1. Subjects who voluntarily sign a written informed consent form (ICF) and are able to complete the study as required by the protocol;
+  2. Male or female subjects aged 18 to 65 years (inclusive), with a body mass index (BMI) between 18 and 30 kg/m2 (inclusive);
+  3. Subjects diagnosed with asthma according to the Guidelines for the Prevention and Treatment of Bronchial Asthma (China) 2020 with an asthma course (since the first incidence) of at least 6 months and meet the following requirements at the same time:
+
+     Subjects with a positive reaction to at least 1 type of aeroallergen (such as dust mites, pollen, mold, or animal hair) in the skin prick test or allergen-specific IgE testing record before screening or during screening; Subjects with the upper limit of normal (ULN) at the site ≤ total serum IgE ≤ 1000 IU/mL at screening; Subjects with the bronchial provocation test FEV1 PD20 Mch ≤ 1.075 mg; Subjects with FEV1 ≥ 70% of the predicted value at screening;
+  4. Subjects with occasional asthma symptoms (≤ 2 times/week), treated only with ICS-LABA inhalation (Symbicort®, budesonide and formoterol fumarate powder for inhalation, 1 inhalation per dose) as needed. The subject does not need to use other asthma medications on a daily basis, and other asthma medications have been discontinued before screening:
+
+     Inhaled and nasal corticosteroids should be discontinued for 4 weeks; Leukotriene receptor antagonists should be discontinued for 2 weeks; Long-acting β-receptor agonists should be discontinued for 2 weeks; Anticholinergic drugs should be discontinued for 2 weeks; Antihistamines should be discontinued for 2 weeks; Theophylline drugs should be discontinued for 1 week.
+  5. Subjects with normal laboratory test and 12-lead ECG results or with abnormalities determined by the investigator not to be clinically significant at screening;
+  6. Women of childbearing potential must have a negative pregnancy test result and not be in the lactation period at screening; regardless of sex, all participants must agree to have no plans for reprod

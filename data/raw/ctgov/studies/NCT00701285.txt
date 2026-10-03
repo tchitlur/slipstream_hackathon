@@ -1,0 +1,32 @@
+Title: South Korean Pitavastatin Heart Failure Study
+Official title: A Prospective, Randomized, Two Group Comparison Study to Evaluate the Effect of Statin on Heart Function in Patients With Chronic Ischemic Heart Failure.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Chronic Heart Failure
+Interventions: pitavastatin (DRUG); pravastatin (DRUG)
+Summary: We want to evaluate the utility of statins on heart function according to potency. Patients with chronic ischemic heart failure are administered pitavastatin 4mg or pravastatin 10mg for 52 weeks. Then we evaluate the effect of pitavastatin and pravastatin primarily on rate of hospitalization for cardiovascular cause and lipid profile secondarily biomarker, echocardiography parameter, 6-minute walk, change of NYHA class distribution, cardiovascular mortality.
+Eligibility: Inclusion Criteria:
+
+1. Patients who accepted to enter the study by written informed consent
+2. Age ≥ 30 years
+3. LDL-cholesterol ≥ 70mg/dl
+4. Chronic heart failure of :
+
+   * NYHA class II \~ III
+   * Ischemic etiology
+   * Left ventricular ejection fraction \< 45%
+   * Optimal therapy for chronic heart failure and stable clinical condition over the two weeks.
+
+Exclusion Criteria:
+
+1. Patients who participated in other studies 3 months before enrollment
+2. Statin treatment within 2 months before enrollment
+3. Unstable decompensated heart failure at enrollment
+4. Acute coronary syndrome or cerebral vascular disease within 3 months before enrollment
+5. Coronary revascularization within 3 months before enrollment or planned at enrollment
+6. Any other serious disease or condition which might effect life expectancy such as malignancy, life-threatening infectious disease.
+7. Serum creatinine levels \>= 3.0 mg/dl
+8. AST or AST levels \>=2.5 times of ULN
+9. CK levels \>=2 times of ULN
+10. Uncontrolled hypothyroidism : TSH level \>= 2 times of ULN
+11. Pregnant or breastfeeding women, women who want to bearing
+12. Patients who might to be unsuitable by the decision of investigators

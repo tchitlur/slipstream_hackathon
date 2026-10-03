@@ -1,0 +1,25 @@
+Title: Honeycomb: Evaluation of Radiprodil in Children with GRIN-related Disorder
+Official title: A Multicenter Study to Assess the Safety, Tolerability, Pharmacokinetics, and Effect on Seizures and Behavioral Symptoms of Multiple Individually Titrated Doses of Radiprodil in Children with GRIN-related Disorder
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: GRIN-related Disorders
+Interventions: Radiprodil (DRUG)
+Summary: Study RAD-GRIN-101 is a phase 1B trial to assess safety, tolerability, PK, and potential efficacy of radiprodil for the treatment of GRIN-related disorder in children with a Gain-of-Function (GoF) genetic variant. The study is open-label, so all participants will be treated with radiprodil.
+
+Subjects' participation in the study is expected to last up to six months in Part A.
+
+After the end of part A, all participants who are still eligible can choose to continue to receive radiprodil as part of an open-label long-term treatment period (Part B).
+Eligibility: Inclusion Criteria:
+
+* Age: ≥6 months to ≤12 years, with GRIN gene variants known to result in GoF of the NMDA receptor.
+* Cohort 1 must have at least 1 observable motor seizure per week and ≥4 observable motor seizures (generalized or focal) during the prospective 4-week Observation Period and must have failed to obtain adequate seizure control with at least 2 antiseizure medications (ASMs) used at appropriate dose and duration.
+* Cohort 2 must have significant behavioral and/or motor symptoms based on caregiver report with a CGI-S score ≥4.
+* Stable antiseizure therapies and nonpharmacological treatments such as ketogenic diet throughout screening and study participation.
+
+Exclusion Criteria:
+
+* Any other clinically relevant medical, neurologic, or psychiatric condition and/or behavioral disorder unrelated to GRIN-related disorder that would preclude or jeopardize participant's safe participation or the conduct of the study according to the judgement of the investigator.
+* Clinically significant laboratory or ECG abnormalities.
+* Severe hepatic dysfunction (Child-Pugh grade C).
+* History of brain surgery for epilepsy or any other reason.
+* Receiving treatment with contraindicated concomitant drugs such as agonists or antagonists of the glutamate receptor, including but not limited to felbamate, memantine, and perampanel.
+* Receiving treatment with hormonal therapy such as adrenocorticotrophic hormone or prednisolone.

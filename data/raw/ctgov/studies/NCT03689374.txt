@@ -1,0 +1,22 @@
+Title: A Research Study to Compare Semaglutide to Insulin Aspart, When Taken Together With Metformin and Insulin Glargine, in People With Type 2 Diabetes
+Official title: Effect of Semaglutide Once-weekly Versus Insulin Aspart Three Times Daily, Both as Add on to Metformin and Optimised Insulin Glargine (U100) in Subjects With Type 2 Diabetes A 52-week, Multi-centre, Multinational, Open-label, Active-controlled, Two Armed, Parallel-group, Randomised Trial in Subjects With Type 2 Diabetes
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Diabetes Mellitus, Type 2
+Interventions: Semaglutide (DRUG); Insulin aspart (DRUG); Insulin glargine U100 (DRUG)
+Summary: This study will compare the effect of semaglutide once weekly to insulin aspart 3 times daily as add on to metformin and insulin glargine in people with type 2 diabetes. Participants will either get insulin glargine and semaglutide or insulin glargine and insulin aspart - which treatment the participant get is decided by chance. Insulin glargine is taken once a day and semaglutide once a week. Insulin aspart is taken three times per day before a meal. All three medicines come in pre-filled pens for injection under the skin. The study will last for about 71 weeks. If participant's blood sugar gets under or over certain values participant will only participate in 14 weeks. The study doctor will inform the participant about this. The participant will have 15 clinic visits and 22 phone calls with the study doctor.
+Eligibility: Inclusion Criteria:
+
+* Male or female, age greater than or equal to 18 years at the time of signing informed consent
+* Diagnosed with type 2 diabetes greater than or equal to 180 days prior to the day of screening
+* Treated with basal insulin once daily or twice daily for greater than or equal to 90 days prior to the day of screening
+* Stable daily dose for 90 days prior to the day of screening of the following anti-diabetic drugs or combination regimens: Any metformin formulations (greater than or equal to 1500 mg to less than or equal to 3000 mg or maximum tolerated or effective dose documented in subject's medical record), alone or in combination (including fixed-dose drug combination) with up to one additional of the following oral antidiabetic drugs: sulfonylureas, meglitinides, dipeptidyl peptidase-4 inhibitors or alpha-glucosidase inhibitors
+* Glycated haemoglobin (HbA1c) of greater than 7.5% to less than or less than or equal to 10.0% (greater than 58 mmol/mol to less than or equal to 86 mmol/mol)
+
+Exclusion Criteria:
+
+* History or presence of pancreatitis (acute or chronic)
+* Any of the following: myocardial infarction, stroke, hospitalization for unstable angina or transient ischaemic attack within the past 180 days prior to the day of screening
+* Subjects presently classified as being in New York Heart Association Class IV
+* Planned coronary, carotid or peripheral artery revascularisation known on the day of screening
+* Treatment with any medication for the indication of diabetes or obesity other than stated in the inclusion criteria within the past 90 days prior to the day of screening. However, short term bolus insulin treatment for a maximum of 14 days prior to the day of screening is allowed
+* Uncontrolled and potentially unstable diabetic retinopathy or maculopathy. Verified by a pharmacologically pupil-dilated fundus examination performed by an ophthalmologist or an equally qualified health care provider (for example, optometrist) within the past 90 days prior to run-in

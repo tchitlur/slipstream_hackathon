@@ -1,0 +1,22 @@
+Title: Rare Glycogen Storage Diseases Natural History Study
+Official title: Rare Glycogen Storage Diseases Natural History Study
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Glycogen Storage Disease; GSD Type 0A; GSD Type 0B; GSD VII; Tarui Disease; GSD X; GSD XII; GSD XIII; GSD XV; PGBM2; PRKAG2; Danon Disease; Polyglucosan Body Myopathy Type 1; Polyglucosan Body Myopathy Type 2; RBCK1 Deficiency
+Interventions: No intervention (OTHER)
+Summary: The purpose of this study is to collect and study key medical data about several ultra-rare GSDs (Glycogen Storage Diseases) including, but not limited to, GSD types 0a, 0b, VII, X, XII, XIII, XV, PRKAG2 syndrome and Danon disease.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of a rare GSD, including 0a, 0b, VII, X, XII, XIII, XV, PRKAG2 syndrome or Danon disease
+
+  * Two variants in the gene associated with the specific GSD type (for autosomal recessive diseases)
+  * One variant in the gene associated with the specific GSD type (for autosomal dominant or X-linked diseases)
+  * Deficient enzyme activity in liver, muscle, skin fibroblast or other tissue
+  * One variant in causative gene with evidence of disease, per a clinician
+  * Histology as confirmed by a clinician
+* Able to provide informed consent for self (adults) or affected individual (minor or adults with a legally authorized representative)
+* Able to provide consent for release of medical records
+* Pregnant women with a diagnosis of a rare GSD will be included
+
+Exclusion Criteria:
+
+* Unable to provide informed consent for participation for one's self or by legally authorized representative/legal guardian/parent

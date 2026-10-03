@@ -1,0 +1,29 @@
+Title: A Study to Investigate the Safety, Tolerability, Pharmacokinetics (PK) and Pharmacodynamics (PD) of RO7248824 in Participants With Angelman Syndrome (AS)
+Official title: An Open-label, Multicenter Study to Investigate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of RO7248824 in Participants With Angelman Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Angelman Syndrome
+Interventions: RO7248824 (DRUG)
+Summary: This is a phase I, multicenter, non-randomized, adaptive, open-label, multiple ascending, intra-participant, dose-escalation study with a long-term extension (LTE) part and an optional open-label extension (OOE) part. The objective of the study is to investigate the safety, tolerability, PK and PD of RO7248824 administered intrathecally (IT) in participants with AS. Two linked sets of dose escalation cohorts are planned based on two different age groups, namely participants with AS aged ≥ 5 to ≤ 12 years in cohorts A1 to A5 (with at least 2 participants ≤ 8 years old in each cohort) and AS participants aged ≥ 1 to ≤ 4 years in cohorts B1 to B5. The two sets of cohorts will be run in parallel, with each cohort A1 to A5 preceding and gating the linked cohort B1 to B5 (e.g., A1 precedes B1).
+Eligibility: Inclusion Criteria:
+
+* The participant has a parent, caregiver or legal representative (hereinafter "caregiver") who is reliable, competent and at least 18 years of age. The caregiver is willing and able to accompany the participant to clinic visits and to be available to the Investigational Site by phone or email if needed and who (in the opinion of the Investigator) is and will remain sufficiently knowledgeable of participant's ongoing condition to respond to any inquiries about the participant from personnel from the Study Site.
+* A caregiver must be able to consent for the participant according to International Council on Harmonisation (ICH) and local regulations.
+* Ability to comply with all study requirements.
+* Have adequate supportive psychosocial circumstances.
+* Able to tolerate blood draws.
+* Able to undergo lumbar puncture (LP) and IT injection, under sedation or anesthesia if needed and as determined appropriate by the Investigator.
+* Stable medical status for at least 4 weeks prior to Screening and at the time of enrollment.
+* Body weight of ≥ 7 kg
+* Participant must be ≥ 1 to ≤ 12 years of age at the time of signing of the informed consent by the caregiver.
+* Clinical diagnosis of AS confirmed by a molecular diagnosis with genotypic classification of either Ubiquitin-protein ligase E3A (UBE3A) mutation of the maternal allele or deletion on the maternally inherited chromosome 15q11q13 that includes the UBE3A gene and is less than 7 megabyte (Mb) in size.
+
+Reproductive Status:
+
+Some of the provisions that follow may have limited applicability based on the age range of study participants (i.e., up to the age of 12) and the nature of the disease understudy. These provisions are nonetheless included for purposes of completeness in order:
+
+A) Female Participants
+
+A female participant is eligible to participate if she is not pregnant, not breastfeeding, and at least one of the following conditions applies:
+
+* Women of non-childbearing potential.
+* Women of childbearing potential who agree to remain abstinent (refrain from heterosexual intercourse) or use acceptable contraceptive methods during the treatment period and for at least 6 months after the fina

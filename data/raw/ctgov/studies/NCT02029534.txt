@@ -1,0 +1,23 @@
+Title: Intensive Statin Therapy Effect on Post-Operative Atrial Fibrillation (POAF)
+Official title: Intensive Statin Therapy Effect on Incidence of Post-Operative Atrial Fibrillation
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Cardiothoracic Surgery; Post-operative Atrial Fibrillation
+Interventions: Atorvastatin 20 mg (DRUG); Atorvastatin 80 mg (DRUG)
+Summary: This study will compare the effects of 20 mg of atorvastatin to 80 mg of atorvastatin for the prevention of atrial fibrillation after cardiothoracic surgery. The study hypothesis is that 80 mg of atorvastatin will be more effective at preventing atrial fibrillation compared to 20 mg.
+Eligibility: Inclusion Criteria:
+
+* Age 19 or older
+* Undergoing elective cardiothoracic surgery
+
+Exclusion Criteria:
+
+* Emergency cardiothoracic surgery
+* History of permanent atrial fibrillation
+* Acute coronary syndrome within 7 days
+* Antiarrhythmic drug use in the past 3 months
+* Receiving maximal tolerated dose of statin therapy
+* Receiving fibrate therapy
+* History of statin intolerance
+* Significant liver impairment (aspartate aminotransferase/alanine aminotransferase(AST/ALT)\>2x ULN)
+* Serum Creatinine \> 3 mg/dl
+* Pregnancy or breastfeeding

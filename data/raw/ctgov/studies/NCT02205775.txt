@@ -1,0 +1,20 @@
+Title: Rosuvastatin for Reduction of Myocardial Damage and Systemic Inflammation During Coronary Angioplasty
+Official title: Rosuvastatin for Reduction of Myocardial Damage and Systemic Inflammation During Coronary Angioplasty - The REMEDY Study
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Stable Coronary Artery Disease Undergoing PCI
+Interventions: Atorvastatin (DRUG); Rosuvastatin (DRUG); Rosuvastatin (DRUG); Ezetimibe (DRUG); placebo (DRUG)
+Summary: Myocardial necrosis is relatively frequent after percutaneous coronary intervention and is associated with higher mortality during the follow-up.
+
+Since anti-inflammatory properties of statins have been demonstrated and the benefit of statins in acute coronary syndromes have been proven, this study aims at testing the hypothesis that the pre-procedural intensive statin treatment reduce the extent of peri-procedural necrosis.
+Eligibility: Inclusion Criteria:
+
+\- suspected CAD for which an indication to PCI is given: both patients with stable CAD, and stable post-acute coronary syndromes (ACS), both with ST-segment elevation (STEMI) and without ST-segment elevation (NSTE-ACS) patients, provided that markers of myocardial necrosis (CK-MB, troponins) are stabilized (i.e., with variations \<20% in two consecutive measurements obtained at ≥6 h time distance before PCI, according to the universal definition of peri-procedural myocardial infarction).
+
+Exclusion Criteria:
+
+* any previously known increase in liver enzymes (AST, ALT) ascribed to liver dysfunction at baseline;
+* history of liver toxicity or myopathy on previous treatment with statins;
+* left ventricular ejection fraction \<30%;
+* renal insufficiency, with creatinine \>2 mg/dL at baseline;
+* ongoing treatment with high-dose statins (atorvastatin 80 mg/d or rosuvastatin 40 mg/d);
+* pregnant or lactating women.

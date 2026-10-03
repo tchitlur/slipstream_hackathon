@@ -1,0 +1,22 @@
+Title: Assessment of Blood Glucose Monitoring Systems
+Official title: Leistungsbewertung Von Blutzuckermesssystemen im Methodenvergleich
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Diabetes
+Interventions: Blood glucose monitoring systems (DEVICE)
+Summary: System accuracy evaluation of different blood glucose monitoring systems with 3 lots of test strips per systems according to ISO 15197:2013
+Eligibility: Inclusion Criteria:
+
+* 18 years of age or older
+* Male or female subjects with type 1 or type 2 diabetes or healthy subjects
+* For BG adjustment people with type 1 diabetes
+
+Exclusion Criteria:
+
+* Severe acute illness that, in the opinion of the Investigator, might pose additional risk to the patient
+* Chronic illness that, in the opinion of the Investigator, might pose additional risk to the patient
+* Current condition that, in the opinion of the Investigator, doesn't enable subject to participate in the study
+* For BG adjustment people with type 1 diabetes without CHD, condition after myocardial infarction, PAOD, cerebral events or hypoglycaemia unawareness
+* Legal incompetence or limited legal competence
+* Age \< 18 years
+* Dependency from the sponsor or the clinical investigator
+* Mental incapacity or language barriers precluding adequate compliance with the study procedures

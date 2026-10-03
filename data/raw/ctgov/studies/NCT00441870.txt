@@ -1,0 +1,25 @@
+Title: Study of EC0225 for the Treatment of Refractory or Metastatic Tumors
+Official title: Protocol EC-0225-01: A Phase 1 Study of EC0225 Administered Weeks 1 and 3 of a 4-Week Cycle
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Cancer
+Interventions: EC0225, for Injection (Folic acid desacetylvinblastine hydrazide conjugate) (DRUG); 99mTC-EC20 (Folic acid-technetium 99m conjugate) (DRUG)
+Summary: This is a Phase 1 clinical trial evaluating the safety and tolerability of escalating doses of EC0225 in patients with refractory or metastatic tumors who have exhausted standard therapeutic options.
+Eligibility: Inclusion Criteria:
+
+* 18 years of age or older
+* Histological or cytological diagnosis of neoplasm
+* No effective standard therapeutic options
+* ECOG performance status of 0-2
+* ≥ to 4 weeks post therapeutic radiation or chemotherapy(≥ to 6 weeks for nitrosureas) and recovery (to baseline status) from associated acute toxicities. Patients previously treated with non-cytotoxic therapy and who have recovered from or have controlled drug-associated toxicity are allowed to enter the trial after a period consisting of 4 half-lives of the agent.
+* Negative serum pregnancy test for women of child-bearing potential within one week prior to treatment with investigational agents (99mTc-EC20 and EC0225)
+* Adequate bone marrow reserve, renal and hepatic function
+
+Exclusion Criteria:
+
+* Concurrent malignancies
+* Women who are pregnant or lactating
+* Evidence of symptomatic brain metastases
+* Receiving concomitant anticancer therapy (excluding supportive care)
+* Requires palliative radiotherapy at time of study entry
+* Unable to tolerate conditions for radionuclide imaging
+* Administration of another radiopharmaceutical that would interfere with assessment of 99mTc-EC20

@@ -1,0 +1,49 @@
+Title: A Study To Assess Distribution Of RO7248824 In The Central Nervous System Following Single Intrathecal Doses Of [89zr] Labeled RO7248824 In Healthy Male Participants
+Official title: A Non-Randomized, Open-Label, Adaptive, Single Center, Positron Emission Tomography (Pet) Study To Assess Distribution Of RO7248824 In The Central Nervous System Following Single Intrathecal Doses Of [89zr] Labeled RO7248824 In Healthy Male Participants
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Angelman Syndrome
+Interventions: RO7248824 (DRUG)
+Summary: The aim of Study BP41660 is to quantify the amount and concentration of \[89Zr\]DFO-RO7248824 in the brain with positron emission tomography (PET) following a single sub-pharmacological dose of RO7248824 and \[89Zr\]DFO-RO7248824 administered via IT injection to healthy participants.
+Eligibility: Inclusion Criteria:
+
+Informed Consent
+
+1. Able and willing to provide written informed consent and to comply with the study protocol according to ICH and local regulations
+
+   Age
+2. Aged from 25 to to 55 years at the time of dosing
+
+   Type of Participants and Disease Characteristics
+3. Overtly healthy (defined by absence of evidence of any active or chronic disease) as determined by medical evaluation including:
+
+   * A detailed medical and surgical history
+   * A complete physical and neurological examination
+   * Vital signs
+   * 12-lead ECG
+   * Hematology
+   * Coagulation
+   * Blood chemistry
+   * Serology and urinalysis
+4. Fluent in the language of the Investigator and study staff, and able to communicate with the study staff
+
+   Weight
+5. Body mass index (BMI) of ≥ 18 to ≤ 30 kg/m2 at screening
+
+   Sex
+6. Male participants only who, for 3 months after the dosing of RO7248824, agree to:
+
+   * Remain abstinent (refrain from heterosexual intercourse) or use contraceptive barrier measures such as a condom, with a female partner of childbearing potential, or pregnant female partner, to avoid exposing the embryo
+   * Refrain from donating sperm
+
+Exclusion Criteria:
+
+Medical Conditions
+
+1. Any condition or disease detected during the medical interview/physical examination that would render the participant unsuitable for the study, place the participant at undue risk or interfere with the ability of the participant to complete the study, as determined by the Investigator
+2. History or presence of cardiovascular, respiratory, hepatic, renal, gastrointestinal, endocrine, hematological, or neurological disorders capable of significantly altering the absorption, metabolism, or elimination of drugs; constituting a risk when taking the study treatment; or interfering with the interpretation of data
+3. History or presence of clinically significant cardiovascular disease in the opinion of the Investigator
+4. History or presence of an abnormal ECG that is clinically significant in the Investigator's opinion
+5. Uncontrolled arrhythmias or history of clinically significant arrhythmias
+6. Confirmed abnormal blood pressure
+7. Abnormal pulse rate
+8. Abnormalities in brain and

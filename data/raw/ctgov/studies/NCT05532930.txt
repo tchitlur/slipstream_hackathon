@@ -1,0 +1,28 @@
+Title: An Exploratory Study of Using Magnetic Resonance Prognostic Imaging Markers for Radiotherapy In Patients With Cervix Cancer (EMPIRIC Study)
+Official title: An Exploratory Study of Using Magnetic Resonance Prognostic Imaging Markers for Radiotherapy In Patients With Cervix Cancer
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Cervical Cancer
+Interventions: none
+Summary: Patients with cervical cancer that has not spread to other parts of the body can be cured with radiotherapy. One of the reasons radiotherapy can fail is because there are areas within the tumour that have a poor oxygen supply which makes them resistant to radiotherapy. This study aims to assess if it is feasible using special types of magnetic resonance imaging (MRI) - multi-parametric (MP) MRI to identify areas of low oxygen within the tumour so a higher dose of radiation can be given specifically to these areas to overcome the resistance and potentially improve cure rates without increasing side effects.
+Eligibility: Inclusion Criteria:
+
+* Histologically confirmed FIGO stage Ib2-IVa squamous, adeno or adenosquamous carcinoma of the cervix.
+* Clinically and/or radiographically documented measurable disease with at least one site of disease unidimensionally measurable as per RECIST 1.1
+* All detectable disease including pelvic/para-aortic nodes encompassable within radical high-dose radiation field
+* Deemed suitable and fit for radical chemoradiation
+* ECOG performance status 0 - 1
+* Aged 18 and over
+* Documented negative pregnancy test (if applicable)
+* Capable of providing written or witnessed informed consent according to ICH/GCP and national/local guidelines prior to registration
+
+Exclusion Criteria:
+
+* Previous pelvic malignancy (regardless of interval since diagnosis)
+* Previous malignancy not affecting the pelvis (except basal cell carcinoma of the skin) where disease free interval is less than 10 years
+* Evidence of distant metastasis i.e. any non-nodal metastasis beyond the pelvis
+* Previous pelvic radiotherapy
+* Prior diagnosis of Crohn's disease or Ulcerative colitis
+* Uncontrolled cardiac disease (defined as cardiac function which would preclude hydration during cisplatin administration)
+* Previous record of allergic reaction to Gadolinium-based contrast media and any other contra-indication to magnetic resonance imaging (MRI)
+* Any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule; those conditions should be discussed with the patient before registration in the study
+* Participation in any interventional trials

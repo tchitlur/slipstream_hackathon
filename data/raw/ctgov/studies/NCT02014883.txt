@@ -1,0 +1,28 @@
+Title: Phase II Open Label Study Using Triheptanoin in Patients With Glucose Type 1 Transporter Deficiency GLUT1-DS
+Official title: Phase II Open Label Study Using Triheptanoin in Patients With Glucose Type 1 Transporter Deficiency GLUT1-DS
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Glut1 Deficiency Syndrome
+Interventions: GLUT1 DS (DRUG)
+Summary: The purpose of this project is to study the efficacy of triheptanoin oil in patients with GLUT1 deficiency syndrome.
+Eligibility: Inclusion Criteria:
+
+* Mutation in SLC2A1 gene
+* Age \> 3 years
+* Patient with history/frequency of seizures or movement disorders documented at least 3 months prior to the beginning of the study
+* Covered by french social security
+* Patients who freely agree to participate in this study and understand the nature, risks and benefits of this study and give their written informed consent. (In addition to the requirement for the consent of parents or the legal representative, adolescents can provide additional informed consent to participate in clinical trials)
+
+Exclusion Criteria:
+
+* Evidence of psychiatric disorder
+* Attendant neurological disorder
+* Comorbid medical condition that would render them unsuitable for the study, e.g. HIV, diabetes
+* Pregnant or parturient or lactating women
+* Unwillingness to be informed in case of abnormal MRI
+* Failure to give written informed consent
+* Unable to understand the protocol
+* Unable to participate to the whole study
+* Absence of signed informed consent
+* Persons deprived of their liberty by judicial or administrative decision
+* Person subject to an exclusion period for another research
+* Subjects with exclusion criteria required by french law

@@ -1,0 +1,14 @@
+Title: ADNP Syndrome: The Seaver Autism Center for Research and Treatment is Characterizing ADNP-related Neurodevelopmental Disorders Using Genetic, Medical, and Neuropsychological Measures.
+Official title: The Seaver Autism Center for Research and Treatment - Assessment Core
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: ADNP; Helsmoortel-Van Der Aa Syndrome; Autism Spectrum Disorder
+Interventions: none
+Summary: ADNP, also known as Activity Dependent Neuroprotective Protein, is a rare neurodevelopmental disorder caused by mutations encompassing the ADNP gene on chromosome 20. Clinically, ADNP syndrome is characterized by intellectual disability and global developmental delay. This study seeks to characterize ADNP-related neurodevelopmental disorders using a number of genetic, medical and neuropsychological measures.
+Eligibility: Inclusion Criteria:
+
+* Eligible participants must have a documented variant affecting the ADNP gene that the research team determines to be likely or definitely pathogenic.
+* Eligible participants must be at least 2 years of age.
+
+Exclusion Criteria:
+
+* none

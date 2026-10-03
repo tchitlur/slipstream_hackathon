@@ -1,0 +1,26 @@
+Title: Performances of DendrisCHIP®OA in Bone and Joint Infections
+Official title: Performances of DendrisCHIP®OA in Bone and Joint Infections
+Status: WITHDRAWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Bone Infection; Joint Infection; Molecular Diagnostic
+Interventions: none
+Summary: Bone and joint infections (BJI) with and without prosthetic material (knee, hip and shoulder) are complex to diagnose and treat, justifying the creation of expert centers by the French Ministry of Health (CRIOAc).
+
+In case of BJI with material, the diagnosis is based on a set of clinical, bacteriological, cytological and radiological criteria known as the EBJIS 2021 (European Bone \& Joint Infections Society) criteria. For septic arthritis, diagnosis is based on bacteriology and cytology.
+
+Microbiology remains essential, and the delay of obtention of microbiological results is crucial to adapt the antibiotic treatment. Although, culture-based microbiology remains the most common diagnosis of BJI, its regular failure to identify the causative pathogen as well as its long-term modus operandi motivates the development of rapid and accurate molecular methods.
+
+The DendrisCHIP®OA platform has demonstrated its ability to offer routine molecular identification of the current micro-organisms involved in BJI, in less than 5 hours, with the detection of mecA resistance genes on series of 16 to 64 samples . The DendrisCHIP®OA is CE-marked and has already been the subject of an initial publica
+Eligibility: Inclusion Criteria:
+
+* Patients aged ⩾ 18 years,
+* Patients suspected of bone and joint infection,
+* Any patient who had intraoperative samples for suspected BJI with or without material, and who received on broad-spectrum antibiotic therapy post-operatively,
+* No opposition from the patient, or its surrounding.
+
+Exclusion Criteria:
+
+* Refusal to participate,
+* Pregnant or beastfeeding,
+* Patient under guardianship or curatorship,
+* Patient not affiliated to social security,
+* Patient affiliated to the Aide Médicale d'Etat (AME).

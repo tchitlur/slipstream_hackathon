@@ -1,0 +1,40 @@
+Title: Beeline: A Phase 3 Study in GRIN-related Neurodevelopmental Disorder
+Official title: A Multinational, Multicenter Study With an Open-Label Phase 1b and a Randomized, Double-Blind, Placebo-Controlled Phase 3 Followed by an Open-Label Extension to Assess the Efficacy, Safety, Tolerability, and Pharmacokinetics of Radiprodil in Participants With GRIN-Related Neurodevelopmental Disorder
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: GRIN-related Neurodevelopmental Disorder
+Interventions: Radiprodil (DRUG); Placebo (DRUG)
+Summary: The Phase 3 portion of Study RAD-GRIN-101 is a multinational, multicenter, randomized, double-blind, placebo-controlled trial followed by an open-label extension to evaluate the efficacy and safety of radiprodil in participants with GRIN-related neurodevelopmental disorder (GRIN-NDD) with a gain-of-function (GoF) genetic variant.
+
+This study will enroll two cohorts: one cohort of participants with a minimal number of countable motor seizures (with or without behavioral symptoms) (Phase 3 Cohort 1: Qualifying Seizures Cohort); and a second cohort with disease symptoms but no seizures or fewer seizures than required for the Qualifying Seizures Cohort (Phase 3 Cohort 2: Without Qualifying Seizures Auxiliary Cohort).
+
+Participants in each cohort will be randomized 1:1 to receive active drug (radiprodil) or matching placebo (Part A). Following completion of Part A, all eligible participants (including those previously on placebo) may continue into the open-label extension period (Part B) to receive radiprodil.
+
+The placebo-controlled portion is expected to be approximately 16 weeks for participants in Phase 3 Cohort 1 and 28 weeks for participants in Phase 3 Cohort 2.
+
+The study will ev
+Eligibility: Inclusion Criteria:
+
+Part A, Participant:
+
+* Diagnosed with GRIN-NDD with GRIN1, GRIN2A, GRIN2B, or GRIN2D gene variants known to result in GoF of the NMDA receptor
+* Phase 3 Cohort 1 (Qualifying Seizures Cohort) ONLY: Experiencing at least 1 CMS per week and ≥4 CMS (generalized or focal) during screening
+* With history of inadequate response to at least 2 standard antiseizure medications (ASMs)
+* Phase 3 Cohort 2 (Without Qualifying Seizures Auxiliary Cohort) ONLY: With significant neurodevelopmental symptoms and a GRIN-CGI-S score ≥4
+* On a stable dose of standard ASMs for at least 4 weeks prior to screening and should remain on stable doses throughout study participation
+* On stable nonpharmacological treatments such as ketogenic diet and should remain stable throughout study participation
+
+Part B:
+
+\- Participant has completed Part A and is eligible to continue study participation according to the judgement of the investigator and sponsor.
+
+Exclusion Criteria:
+
+PART A, Participant:
+
+* Has clinically relevant medical, neurologic, or psychiatric condition and/or behavioral disorder (including those related to GRIN-NDD) that would preclude or jeopardize participant's safe participation or study drug administration or the conduct of the study according to the judgement of the investigator or sponsor.
+* Is receiving \>4 standard ASMs at screening
+* Has a body weight of less than 5 kg at screening
+
+Part B:
+
+\- Participant has clinically relevant medical, neurologic, or psychiatric condition and/or behavioral disorder (including those related to GRIN-NDD) that would preclude or jeopardize participant's safe participation of study drug administration or the conduct of the study according to the judgement of the investigator or sponsor.

@@ -1,0 +1,15 @@
+Title: Effect of Statin Treatment on Insulin Sensitivity During Myocardial Infarction
+Official title: Phase 4 Study of the Effect of Statin Treatment on Insulin Sensitivity During Myocardial Infarction
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Myocardial Infarction
+Interventions: Simvastatin 80mg (DRUG); Simvastatin 10mg (DRUG)
+Summary: Stress hyperglycemia during myocardial infarction (MI) is related to mortality at short and long term. Recent studies, however, revealed that chronic statin treatment may decrease both insulin sensitivity and secretion immediately after statin therapy initiation. This study aim was to investigate the dose-dependent effect of statins on insulin sensitivity in patients in the acute phase of MI.
+Eligibility: Inclusion Criteria:
+
+* Less than 24 hours after the onset of MI symptoms
+* ST-segment elevation of a least 1 mm (frontal plane) or 2 mm (horizontal plane) in two contiguous leads
+* Myocardial necrosis, as evidenced by increased Creatine Kinase-MB (CK-MB) and troponin levels
+
+Exclusion Criteria:
+
+* Diabetes or prior use of statins in the last 6 months

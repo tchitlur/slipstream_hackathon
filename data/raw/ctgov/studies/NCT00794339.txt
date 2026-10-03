@@ -1,0 +1,44 @@
+Title: Phase II Trial of 64Cu-ATSM PET/CT in Cervical Cancer
+Official title: Copper Cu 64-ATSM and PET/CT Scan in Predicting Disease Progression in Patients With Newly-Diagnosed Stage IB, Stage II, Stage III, or Stage IVA Cervical Cancer Who Are Undergoing Chemoradiotherapy Per NCCN Guidelines
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Cervical Cancer
+Interventions: 64Cu-ATSM (DRUG); FDG (DRUG)
+Summary: RATIONALE: Diagnostic procedures, such as 64Cu-labeled diacetyl-bis\[N4-methylthiosemicarbazone\] (copper Cu 64-ATSM) PET/CT scans, may help doctors predict how patients will respond to treatment.
+
+PURPOSE: This phase II trial is studying how well copper Cu 64-ATSM PET/CT scans work in predicting disease progression in patients undergoing standard of care treatment with cisplatin and radiation therapy (external beam and brachytherapy) per National Comprehensive Cancer Network (NCCN) guidelines for newly-diagnosed stage IB, stage II, stage III, or stage IVA cervical cancer via the Federation of Gynecology and Obstetrics (FIGO) staging systems.
+Eligibility: DISEASE CHARACTERISTICS:
+
+* Histologically confirmed primary invasive cervical squamous cell carcinoma
+
+  * Newly diagnosed disease
+  * Stage IB2 - IVA disease based on FIGO staging system
+* Plan to receive standard of care treatment with concurrent cisplatin and radiation therapy (external beam and brachytherapy) per NCCN guidelines
+
+  * Must be scheduled to receive 6 weekly courses of cisplatin
+* Meets 1 of the following criteria:
+
+  * Pelvic nodal (or no nodal) disease only by FDG-PET/CT scan within 4 weeks of enrollment
+  * Para-aortic nodal metastasis by FDG-PET/CT scan within 4 weeks of enrollment, and patient will undergo radiotherapy to para-aortic nodes
+  * FDG-PET/CT scan at baseline if not meeting any of the above criteria
+* No stage IVB disease (distant metastases or supraclavicular metastasis) confirmed by FDG-PET/CT scan
+* No recurrent invasive carcinoma of the uterine cervix regardless of previous treatment
+* No know metastases to lungs, supraclavicular lymph nodes, or other organs outside of the pelvis or abdominal lymph nodes at time of diagnosis
+
+PATIENT CHARACTERISTICS:
+
+* Karnofsky performance status 70-100%
+* Not pregnant or nursing
+* Negative pregnancy test
+* Fertile patients must use effective contraception
+* Able to lie flat for the duration of the PET/CT scan
+* No septicemia or severe infection
+* No uncontrolled or poorly controlled diabetes
+* No circumstances that would prevent completion of imaging studies or required clinical follow-up
+* No other prior or concurrent invasive malignancies, with the exception of non-melanoma skin cancer, within the past 5 years
+
+PRIOR CONCURRENT THERAPY:
+
+* See Disease Characteristics
+* No prior pelvic or abdominal lymphadenectomy
+* No prior pelvic radiation therapy
+* No previous cancer treatment contraindicates this protocol therapy

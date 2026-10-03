@@ -1,0 +1,13 @@
+Title: Treatment With UX007 for a Single Patient With GLUT1 Deficiency Syndrome
+Official title: Treatment With UX007 (Triheptanoin) for a Single Patient (ERS) With Glucose Transporter 1 (GLUT1) Deficiency Syndrome
+Status: NO_LONGER_AVAILABLE. Type: EXPANDED_ACCESS. Phases: none.
+Conditions: Glucose Transporter 1 Deficiency Syndrome
+Interventions: Triheptanoin (DRUG)
+Summary: This treatment plan is intended for the use of UX007 (triheptanoin) in the treatment of a single patient with Glucose Transporter 1 (GLUT1) Deficiency Syndrome.
+Eligibility: Inclusion Criteria:
+
+* This treatment plan is intended for the use of UX007 (triheptanoin) in the treatment of a single patient with Glucose Transporter 1 (GLUT1) Deficiency Syndrome.
+
+Exclusion Criteria:
+
+* Not applicable as study only includes one patient.

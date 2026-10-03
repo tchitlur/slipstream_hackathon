@@ -1,0 +1,23 @@
+Title: To Evaluate the Safety and Efficacy of GC1111 (Recombinant Human Iduronate-2-sulfatase) in Hunter Syndrome Patients
+Official title: Randomized, Single-blind, Active-controlled, Phase 1/2 Study to Evaluate the Safety and Efficacy of GC1111 (Recombinant Human Iduronate-2-sulfatase) in Hunter Syndrome (Mucopolysaccharidosis II) Patients
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Mucopolysaccharidosis II
+Interventions: GC1111_0.5mg/kg (DRUG); GC1111_1.0mg/kg (DRUG); Elaprase_0.5mg/kg (DRUG)
+Summary: The purpose of this study is to evaluate the safety and efficacy of GC1111 (recombinant human iduronate-w-sulfatase) in Hunter Syndrome (Mucopolysaccharidosis II) patients
+Eligibility: Inclusion Criteria:
+
+1. Patients with diagnosis of MPS II based on both clinical and biochemical criteria
+2. Male, ages 6 to 35 years old
+3. Patients who are able to comply with the study requirements
+4. Patients who have given voluntary written consent to participate in the study
+5. Patients who is acceptable for using an appropriate method of contraception
+
+Exclusion Criteria:
+
+1. History of a tracheostomy or a bone marrow transplant
+2. Known hypersensitivity to idursulfase
+3. Known shock to idursulfase
+4. History of receiving treatment with another investigational therapy within the past 30 days
+5. History of a stem cell transplant
+6. Known hypersensitivity to any of the components of idursulfase
+7. Female

@@ -1,0 +1,21 @@
+Title: Study to Assess the Efficacy, Safety, and Tolerability of AVP-786 for the Treatment of Agitation in Patients With Dementia of the Alzheimer's Type
+Official title: A Phase 3, Multicenter, Randomized, Double-blind, Placebo-controlled Study to Assess the Efficacy, Safety, and Tolerability of AVP-786 (Deudextromethorphan Hydrobromide [d6-DM]/Quinidine Sulfate [Q]) for the Treatment of Agitation in Patients With Dementia of the Alzheimer's Type
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Agitation in Patients With Dementia of the Alzheimer's Type
+Interventions: AVP-786 (DRUG); Placebo (DRUG)
+Summary: This study was conducted to evaluate the efficacy, safety, and tolerability of AVP-786 (deudextromethorphan hydrobromide \[d6-DM\]/quinidine sulfate \[Q\]) compared to placebo for the treatment of agitation in participants with dementia of the Alzheimer's type.
+Eligibility: Inclusion Criteria:
+
+* Participants with a diagnosis of probable Alzheimer's disease according to the 2011 Neuropsychiatric Inventory Agitation/Aggression (NPI-AA) working groups criteria
+* Participants with clinically significant, moderate-to-severe agitation for at least 2 weeks prior to Screening that interferes with daily routine per the Investigator's judgment
+* Participants who require pharmacotherapy for the treatment of agitation per the Investigator's judgment after an evaluation of reversible factors and a course of nonpharmacological interventions
+* Diagnosis of agitation must meet the International Psychogeriatric Association (IPA) provisional definition of agitation.
+* Participants meeting an additional predetermined blinded eligibility criterion, which will remain blinded to the clinical study site Investigators and staff
+* Participants with a reliable caregiver who is able and willing to comply with all study procedures, including adherence to administering study drug and not administering any prohibited medications during the course of the study, and who spends a minimum of 2 hours per day for 4 days per week with the participant
+
+Exclusion Criteria:
+
+* Participants with dementia predominantly of the non-Alzheimer's type (e.g., vascular dementia, frontotemporal dementia, Parkinson's disease, substance-induced dementia)
+* Participants with symptoms of agitation that are not secondary to Alzheimer's dementia (e.g., secondary to pain, other psychiatric disorder, or delirium)
+* Participants with co-existent clinically significant or unstable systemic diseases that could confound the interpretation of the safety results of the study (e.g., malignancy \[except skin basal-cell carcinoma\], poorly controlled diabetes, poorly controlled hypertension, unstable pulmonary, renal or hepatic disease, unstable ischemic cardiac disease, dilated cardiomyopathy, or unstable valvular heart disease)
+* Participants with myasthenia gravis

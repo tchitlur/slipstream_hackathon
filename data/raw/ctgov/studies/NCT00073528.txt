@@ -1,0 +1,28 @@
+Title: Study Comparing Lapatinib (GW572016) And Letrozole Versus Letrozole In Subjects With Advanced Or Metastatic Breast Cancer
+Official title: A Randomized, Double-Blind, Placebo-Controlled, Multicenter Phase III Study Comparing GW572016 and Letrozole Versus Letrozole in Subjects With Estrogen/Progesterone Receptor- Positive Advanced or Metastatic Breast Cancer
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Breast Neoplasms
+Interventions: Lapatinib (DRUG); Letrozole (DRUG); Placebo (DRUG)
+Summary: This study evaluated and compared the efficacy and tolerability of lapatinib and letrozole, with letrozole and placebo in post-menopausal women with hormone receptor positive (ER positive and/or PgR positive) advanced or metastatic breast cancer, who had not received prior therapy for advanced or metastatic disease.
+Eligibility: Key inclusion criteria
+
+1. Signed informed consent;
+2. Subjects with histologically confirmed invasive breast cancer with stage IV disease at primary diagnosis or at relapse after curative-intent surgery;
+
+   * Subjects with either measurable or non-measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST).
+   * If the disease was restricted to a solitary lesion, its neoplastic nature was confirmed by cytology or histology.
+3. Tumors that were ER+ and/or PgR+;
+4. Post-menopausal female subjects ≥ 18 years of age.
+5. ECOG Performance Status of 0 or 1;
+6. Subjects who had archived tumor tissue available to compare tumor response with intra-tumoral expression of ErbB1 and ErbB2.
+7. Adjuvant therapy with an aromatase inhibitor and / or trastuzumab was allowed; however, treatment was to stop more than 1 year prior (\>12 months) to the first dose of randomized therapy.
+8. Subjects must have ended hormonal replacement therapy (HRT) at least 1 month (30 days) prior to receiving the first dose of randomized therapy.
+
+Key exclusion criteria:
+
+1. Pre-menopausal, pregnant, or lactating;
+2. Received prior chemotherapy, hormonal therapy, immunotherapy, biologic therapy, or anti-ErbB1/ErbB2 therapy for advanced or metastatic disease;
+3. Bisphosphonate therapy for bone metastases was allowed; however, treatment was to be initiated prior to the first dose of randomized therapy. Prophylactic use of bisphosphonates in subjects without bone disease, except for the treatment of osteoporosis, was not permitted;
+4. Used an investigational drug within 30 days or 5 half-lives, whichever is longer, preceding the first dose of randomized therapy (lapatinib or placebo);
+5. Subjects with known history of/clinical evidence of CNS metastases or leptomeningeal carcinomatosis; and / or subjects on concurrent anti-cancer therapies other than letrozole; and / or who have not recovered from toxicities related to prior adjuvant therapy (surgery, radiotherapy, chemotherapy etc.)
+6. Subjects with active or uncontrolled infection and/ or with history of uncontrolled or symptomatic angina, arrhythmias, or congestive heart failure.

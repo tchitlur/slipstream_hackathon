@@ -1,0 +1,16 @@
+Title: Swiss Rare Disease Registry (SRDR)
+Official title: Swiss Rare Disease Registry
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rare Diseases
+Interventions: none
+Summary: The SRDR is a national registry that records rare diseases in people of any age who live in Switzerland. It serves as a platform for scientists, health professionals, affected people, and politicians.The SRDR aims to collect epidemiological data on rare diseases, and data on changes to the diagnosis over time. The SRDR will further serve as a research platform and facilitate patient participation in national and international studies. The SRDR will promote harmonization of data and method between the numerous existing disease-specific registries in Switzerland, will strengthen the exchange with international rare disease registries for research and policy, and will build a network for communication for patients and health care providers.
+Eligibility: Inclusion Criteria:
+
+* Diagnosed with a rare disease
+* High suspicion of a rare disease
+* Treated or living in Switzerland
+* Signed informed consent
+
+Exclusion Criteria:
+
+* None

@@ -1,0 +1,30 @@
+Title: A Research Study Looking at How NNC0385-0434 Tablets Work to Lower Blood Cholesterol in People With Heart Disease or a High Risk of Heart Disease
+Official title: Dose Response and Safety of an Oral PCSK9i, NNC0385-0434, in Patients With Established Atherosclerotic Cardiovascular Disease (ASCVD) or ASCVD Risk on Maximally Tolerated Statin Dose and Other Lipid-lowering Therapy Requiring Further LDL-C Reduction
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Atherosclerotic Cardiovascular Disease
+Interventions: NNC0385-0434 A 15 mg (DRUG); NNC0385-0434 A 40 mg (DRUG); Placebo I A (for NNC0385-0434 A 15 mg) (OTHER); NNC0385-0434 A 100 mg (DRUG); Placebo I A (for NNC0385-0434 A 40 mg) (OTHER); Placebo II A (for NNC0385-0434 A 100 mg) (OTHER); Evolocumab 140 mg/mL, Repatha® (DRUG)
+Summary: This study looks at how well a new medicine, NNC0385-0434, works to lower blood cholesterol levels. Participants will either get NNC0385-0434 as a tablet (a potential new medicine), or placebo as a tablet (a dummy medicine that looks like NNC0385-0434 but has no effect on the body), or evolocumab as an injection (a medicine that doctors can already prescribe).
+
+Which treatment participants get is decided by chance. If participants get NNC0385-0434 or placebo participants will need to take 1 tablet every morning. If participants get evolocumab participants will need to take 1 injection every 2 weeks.
+
+The study will last for about 22 weeks. About 255 people will participate in the study. Participants will have 9 visits to the clinic and 2 phone calls with the study doctor. Some people will be invited to participate in a sub-study and will have 4 extra visits (13 visits in total). Participants will have blood samples taken at all visits to the clinic (except visit 0). At 4 clinic visits, participants will have an electrocardiogram (ECG). This is a test to check your heart.
+
+Women can only take part in the study if they are not able to become pregnant.
+Eligibility: Inclusion Criteria:
+
+* Males or females of non-childbearing potential.
+* Established atherosclerotic cardiovascular disease (ASCVD) (criteria a) or ASCVD risk (criteria b):
+
+  1. Age 40 years or older at the time of signing informed consent and history of ASCVD
+  2. Age above 50 years at the time of signing informed consent and with ASCVD risk
+* Serum LDL-C above or equal to 1.8 mmol/L (above or equal to 70 mg/dL) as measured by the central laboratory at screening.
+* Japanese participants: Serum LDL-C above or equal to 2.6 mmol/L (above or equal to 100 mg/dL) for participants of 40 years of age or older and with a history of coronary heart disease, and serum LDL-C above or equal to 3.1 mmol/L (above or equal to 120 mg/dL) for all other Japanese participants
+* Participants must be on maximally tolerated dose of statins.
+* Participants not receiving statin must have documented evidence of intolerance to all doses of at least two different statins.
+
+Exclusion Criteria:
+
+* Treatment with PCSK9i therapy (alirocumab or evolocumab within 90 days prior to screening) or PCSK9 siRNA therapy (inclisiran within 12 months prior to screening).
+* Fasting triglyceride above 4.52 mmol/L (above 400 mg/dL) as measured by the central laboratory at screening.
+* Myocardial infarction, stroke, hospitalization for unstable angina pectoris or transient ischaemic attack within 180 days prior to the day of screening.
+* Renal impairment with eGFR less than 30 ml/min/1.73 m2 as measured by the central laboratory at screening

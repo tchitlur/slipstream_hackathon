@@ -1,0 +1,43 @@
+Title: COLA: A Pilot Clinical Trial of COX-2 Inhibition in LAM and TSC
+Official title: COLA: A Pilot Clinical Trial of COX-2 Inhibition in LAM and TSC
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Lymphangioleiomyomatosis (LAM)
+Interventions: Celecoxib (DRUG)
+Summary: The investigators will perform a two-center phase I trial of celecoxib (COX-2 inhibitor) administered at 200mg by mouth daily for 6 months. Up to 12 adult women with LAM will be recruited (between 4-8 at each site). The Specific Aims are:
+
+Aim 1: To investigate whether, in LAM patients, celecoxib is safe and well tolerated, and has evidence of clinical benefit.
+
+Aim 2: To investigate the potential value of a novel biomarker of LAM, quantitative measurement of the number of TSC2 mutant LAM cells per ml of blood, to assess disease severity.
+Eligibility: Inclusion Criteria:
+
+* Female of age 18 to 69
+* Ability to give informed consent
+* Definite diagnosis of LAM Typical cystic change on CT scan of the chest plus one of the following i) biopsy or cytology of any tissue demonstrating LAM, ii) angiomyolipoma, chylothorax, clinical or genetic diagnosis of tuberous sclerosis, iii) serum VEGF-D \> 800pg/ml
+* post-bronchodilator forced expiratory volume in one second ≥ 70% of predicted and DLCO ≥ 70% predicted during baseline visit.
+* Women of childbearing potential must agree to use two forms of barrier contraception after screening visit, for the duration of study participation and for 30 days after last dose.
+
+Exclusion Criteria:
+
+* History of intolerance to non-steroidal anti-inflammatory drugs (NSAIDs)
+* History of current regular use (daily most days of the week) of NSAIDs
+* History of use of rapamycin or everolimus
+* Uncontrolled intercurrent illness
+* Pregnant, breast feeding or planning to become pregnant in the next 2 years
+* Significant hematological (platelet count \<100.000/µl or hepatic abnormalities (Liver function tests \>2 times normal).
+* Use of an investigational drug within 30 days of study start
+* Inability to attend scheduled clinic visits
+* Inability to give informed consent
+* Inability to perform spirometry
+* Creatinine \> 1.0 mg/dl or eGFR \< 60 ml/min
+* Pneumothorax within past 8 weeks
+* History of malignancy in the last 2 years other than basal cell skin cancer
+* Use of estrogen containing medication within 30 days of enrolment
+* Currently taking doxycycline, metformin, lupron or simvastatin
+* Unable to undergo MRI
+* History of seizure within the last year
+* History of hepatitis or known active hepatitis B or C, or HIV positive serology
+* Angiomyolipoma of diameter \> 4 cm
+* History of vascular disease, including myocardial infarction or stroke
+* History of ulcers or GI bleeding
+* Allergy to sulfonamides, unless subject has previously used Celocoxib without any adverse reactions.
+* Age older than 70

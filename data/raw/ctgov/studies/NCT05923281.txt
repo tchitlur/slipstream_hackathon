@@ -1,0 +1,36 @@
+Title: A Phase III Confirmatory Study of K-877 (Pemafibrate) in Patients With Hypercholesterolemia and Statin Intolerance
+Official title: A Phase III Confirmatory Study of K-877 (Pemafibrate) in Patients With Hypercholesterolemia and Statin Intolerance-Multicenter, Placebo Controlled, Randomized, Double Blind, Parallel Group Controlled Trial in Patients With Statin Intolerant Hypercholesterolemia-
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Hypercholesterolemia
+Interventions: K-877 0.2 mg/day (once daily) (DRUG); K-877 0.4 mg/day (once daily) (DRUG); Placebo (once daily) (DRUG)
+Summary: To investigate the efficacy and safety of K-877 Extended Release 0.2 mg/day or 0.4 mg/day for 12 weeks in patients with Statin Intolerant\* Hypercholesterolemia,using placebo as a controll.
+
+\*Statin Intolerant: Adverse events associated with statin use that cause unacceptable disturbances in the user's daily life, resulting in drug discontinuation or dose reduction.
+Eligibility: Inclusion Criteria: The person who meet all the following criteria the object to the clinical trial
+
+1. Patients had to be age 18 years or older at written informed consent
+2. Patients with statin intolerant hypercholesterolemia
+3. Patients who have laboratory records with fasting serum TG \<= 150 mg/dL (\<=175 mg/dL when not fasting) within 6 months prior to consent.
+4. Patients with the fasting serum TG \<= 150 mg/dL at screening
+5. Patients who have received dietary or exercise guidance from 12 weeks or more prior to Screening
+6. Patients who apply any of the following risk category with LDL-C level (Friedewald formula) based on JAS2022 at screening
+
+   * Low risk for primary prevention: LDL-C \>=160 mg/dL
+   * Intermediate risk for primary prevention: LDL-C \>=140 mg/dL
+   * High risk for primary prevention: LDL-C\>=120 mg/dL
+   * Secondary prevention: LDL-C\>=120 mg/dL
+
+Exclusion Criteria: The person who meet any of the following criteria will be excluded from the study.
+
+1. Patients who require administration of prohibited drugs during the clinical trial period after written informed consent
+2. Patients with type 1 diabetes and uncontrolled diabetes \[HbA1c(NGSP) \>= 10.0 % at Screening\]
+3. Patients with uncontrolled thyroid disease
+4. Patients with undergoing LDL apheresis
+5. Patients with cirrhosis or those with biliary obstruction
+6. Patients with familial hypercholesterolemia (homozygotes)
+7. Patients with uncontrolled hypertension (SBP \>= 160 mmHg or DBP \>= 100 mmHg) at Screening
+8. Patients with an AST or ALT three times the upper limit at Screening
+9. Patients with an CK four times the upper limit at Screening
+10. Patients with any of the following criteria within 3 months before obtaining informed consent: myocardial infarction, severe or unstable angina pectoris, coronary angioplasty, coronary artery bypass surgery, stroke, transient ischemic attack, symptomatic carotid artery stenosis, symptomatic peripheral arterial disease, abdominal aortic aneurysm, uncontrolled severe arrhythmia and decompensated heart failure
+11. Patients who plan to undergo PCI, CABG, carotid artery or peripheral revascularization
+12. Patients with heart failure class II

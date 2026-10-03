@@ -1,0 +1,13 @@
+Title: Longitudinal Study of Neurogenetic Disorders
+Official title: Neurogenetic Disorders: A Longitudinal Study on Natural History and Intervention Strategies
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Neurodevelopmental Disorders; Intellectual Disability; Developmental Delay; Autism Spectrum Disorder; Seizures; Hypertonia, Muscle; Hypotonia
+Interventions: none
+Summary: The purpose of this study is to analyze patterns in individuals with hnRNP (and other) genetic variants, including their neurological comorbidities, other medical problems and any treatment. The investigators will maintain an ongoing database of medical data that is otherwise being collected for routine medical care. The investigators will also collect data prospectively in the form of questionnaires, neuropsychological assessments, motor assessments, and electroencephalography to examine the landscape of deleterious variants in these genes.
+Eligibility: Inclusion Criteria:
+
+* Individuals must have had whole genome/exome sequencing and have a confirmed variant in any gene.
+
+Exclusion Criteria:
+
+* Subjects who cannot provide genetic confirmation of a predicted deleterious variant in any gene.

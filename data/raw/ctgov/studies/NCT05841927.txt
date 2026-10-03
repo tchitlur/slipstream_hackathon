@@ -1,0 +1,19 @@
+Title: Clinical Cohort Study of DHA in Neurodevelopmental Disorders
+Official title: Clinical Cohort Study of DHA in Neurodevelopmental Disorders
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Autism or Autistic Traits
+Interventions: Docosahexaenoic acid supplement (DIETARY_SUPPLEMENT); ASD placebo (DIETARY_SUPPLEMENT)
+Summary: Neurodevelopmental disorders are a group of developmental disorders, including autism spectrum disorders (ASDs), attention deficit hyperactivity disorder (ADHD) and others, that begin at a developmental stage and severely affect the growth and development of the brain. Autism spectrum disorder (ASD) encompasses a group of neurodevelopmental syndromes characterized by deficits in social interaction and communication as well as repetitive behaviors and restricted interests. There is strong evidence for the involvement of inherited genetic factors in ASD (accounting for at least 80% of the variation in disease risk). There is strong evidence for the involvement of inherited genetic factors in ASD (accounting for at least 80% of the variation in disease risk). According to a meta-analysis, monogenic mutations in SHANK3, which encodes the major postsynaptic density (PSD) scaffolding protein at excitatory glutamatergic synapses, are found in approximately 0.69% of ASD cases and up to 2.12% of all moderate to profound intellectual disability cases. De novo mutations, interstitial deletions, and terminal deletions have been identified in ASD.
+
+Recent studies have shown that children with A
+Eligibility: Inclusion Criteria:
+
+1. Children who were admitted to the Department of Child Care and Developmental Behavior of our hospital and diagnosed as ASD by developmental pediatricians according to the diagnostic criteria of DSM-5.
+2. Willing to participate in the study, consume the treatment and perform all measurements including developmental or cognitive testing, blood drawing, anthropometry and questionnaires etc.
+3. Informed consent signed by parent or caregiver.
+
+Exclusion Criteria:
+
+1. Children with immune deficiency.
+2. Children with major organ malformations (congenital heart disease, nervous system tumors, obvious structural abnormalities of the nervous system, digestive tract malformations, etc.)
+3. Have a history of DHA allergy or obvious adverse reactions

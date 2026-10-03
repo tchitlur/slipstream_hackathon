@@ -1,0 +1,21 @@
+Title: Dual PETOvac - Dual Time PET/CT in the Preoperative Assessment of Ovarian Cancer
+Official title: Dual PETOvac - Dual Time PET/CT in the Preoperative Assessment of Ovarian Cancer
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Ovarian Cancer
+Interventions: PET/CT(3hours] (OTHER)
+Summary: The investigators want to compare the use of MRI with PET/CT preformed after 1 hour and 3 hours in preoperative assessment of resectability.
+
+The investigators' hypothesis is that dual time PET/CT performed at 60 and 180 minutes will increase the diagnostic accuracy of conventional PET (performed at 60 minutes) in preoperative assessment of resectability.
+
+Further more the investigators suggest that the GLUT/G6Pase index correlates to the SUVmax. And retention index (RI, see Methods - PET protocol) is a prognostic marker in ovarian cancer.
+Eligibility: Inclusion Criteria:
+
+* Suspicion of ovarian cancer
+* Referred to Department of Gynecology, OUH
+
+Exclusion Criteria:
+
+* Unable to corporate to MR
+* Diabetes Mellitus
+* Prescan glucose level \> 10 mmol/l (PET)
+* non-ovarian cancer (incl. benign)

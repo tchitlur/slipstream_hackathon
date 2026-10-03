@@ -1,0 +1,50 @@
+Title: Tissue Modeling in Systemic Sclerosis Using Induced Pluripotent Stem Cells (iPSCs)
+Official title: Tissue Modeling in Systemic Sclerosis Using Induced Pluripotent Stem Cells (iPSCs)
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Systemic Sclerosis (SSc)
+Interventions: Blood Sample Collection (PROCEDURE)
+Summary: The objective of the study is to establish an in vitro model using iPSCs to test the hypotheses developed.
+
+The primary objective is to generate, via the SAFE-IPS platform, 8 iPSC lines derived from blood samples taken from:
+
+* Two patients with severe/diffuse SSc with multi-organ involvement (with anti-SCl-70 autoantibodies)
+* Two of their healthy close relatives
+* Two patients with uncomplicated SSc with localized involvement (with non-SCl-70 autoantibodies)
+* Two of their healthy close relatives
+
+These 8 cell lines will be differentiated by several teams at the FHU REGENHAB into:
+
+* Immune cells (monocytes/macrophages, neutrophils, dendritic cells, B/T lymphocytes)
+* Mesenchymal stromal cells
+* Myocardial cells
+* Skin cells (fibroblasts)
+* Synovial cells
+* Bronchial cells
+* Endothelial cells
+
+This project aims to map cellular and tissue heterogeneity using iPSC lines obtained from patients with both severe and mild SSc, employing single-cell RNA-seq under various pathological conditions, with and without autologous (or even heterologous) autoimmune stimulation. For example, the percentages of different cell types comprising a tissue in these various situations will be calculated
+Eligibility: Inclusion Criteria:
+
+* Age between 18 and 85 years
+* Diagnostic criteria for the three groups:
+
+  \> Severe SSc group:
+* Diagnosis of diffuse/severe systemic sclerosis by a physician for at least 12 months based on recommendations (according to ACR criteria)
+* Known positivity of autoimmunity directed against Scl-70
+
+  \> Localized/non-complicated SSc group:
+* Diagnosis of systemic sclerosis by a physician for at least 12 months based on recommendations (according to ACR criteria)
+* Documentation of the absence of major vital organ involvement
+* Negative anti-Scl-70 autoantibodies but presence of other systemic sclerosis-related autoantibodies
+
+  \> Healthy subjects group:
+* First-degree relative of a patient recruited in one of the systemic sclerosis groups (father, mother, brother, sister, adult child)
+* Absence of systemic autoimmune diseases
+
+Exclusion Criteria:
+
+* Other diseases that may affect erythroid progenitor cells (non-exhaustive: active cancer, hematological malignancy, chemotherapy targeting DNA)
+* Patient in an exclusion period determined by another protocol
+* Protected populations according to French public health law (pregnant or breastfeeding women; individuals deprived of liberty by judicial or administrative decision; adults under legal protection (any form of guardianship))
+* Absence of informed consent
+* Not affiliated with a national health insurance system

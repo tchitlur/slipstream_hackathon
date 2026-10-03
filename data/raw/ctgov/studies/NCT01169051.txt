@@ -1,0 +1,20 @@
+Title: A Retrospective Analysis of Statin Use and Outcome After Thoracic Cancer Surgery
+Official title: A Retrospective Analysis of Statin Use and Outcome After Thoracic Cancer Surgery
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Esophagectomy; Pulmonary Wedge Resection; Pulmonary Lobectomy; Pulmonary Pneumonectomy
+Interventions: none
+Summary: There is data to support an association between impaired preoperative endothelial function and adverse postoperative outcome. This study will investigate the potential association between perioperative statin use and improved perioperative and long-term cancer outcome amongst thoracic surgery patients undergoing lung or esophageal resection.
+Eligibility: Inclusion Criteria:
+
+This study is a retrospective chart review of adult thoracic surgery patients who underwent:
+
+* Esophagectomy
+* Pulmonary wedge resection
+* Pulmonary lobectomy
+* Pulmonary pneumonectomy
+
+Data collected will be from January 1, 2007 forward
+
+Exclusion Criteria:
+
+None

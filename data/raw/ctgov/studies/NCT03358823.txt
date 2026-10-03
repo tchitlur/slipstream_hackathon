@@ -1,0 +1,17 @@
+Title: Study on the Brain Network of Angelman Syndrome
+Official title: Study on the Brain Network of Angelman Syndrome Based on Multi-modal Brain Image and Neural-EEG Data
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Angelman Syndrome
+Interventions: none
+Summary: The aims of study on Angelman syndrome:
+
+1. Establish the Angelman syndrome database
+2. Explore the brain Network of Angelman Syndrome Based on Multi-modal Brain Image and Neural-EEG Data
+Eligibility: Inclusion Criteria:
+
+* Clinical and molecular diagnosis of Angelman syndrome.
+* Agreed and completed the MRI scan and EEG-recording by using oral chloral hydrate.
+
+Exclusion Criteria:
+
+* Reject MRI scan and EEG-recording by using oral chloral hydrate or unable to complete the scan.

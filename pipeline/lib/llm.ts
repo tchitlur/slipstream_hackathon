@@ -25,8 +25,31 @@ export const PRICES: Record<string, { input: number; output: number }> = {
 };
 
 export function priceFor(model: string) {
-  const key = Object.keys(PRICES).find((k) => model === k || model.startsWith(k + "-"));
+  if (PRICES[model]) return PRICES[model];
+  // Longest matching prefix, so "gpt-5.4-mini-2026-03-17" resolves to gpt-5.4-mini, not gpt-5.4.
+  const key = Object.keys(PRICES)
+    .filter((k) => model.startsWith(k + "-"))
+    .sort((a, b) => b.length - a.length)[0];
   return PRICES[key ?? "gpt-5.4"];
+}
+
+/** Recompute the ledger from the cache (the audit trail), e.g. after a price-table fix. */
+export function rebuildLedger(): Ledger {
+  const l: Ledger = { totalUsd: 0, byStage: {}, updatedAt: new Date().toISOString(), models: {} };
+  const stageOf: Record<string, string> = { T1: "S4", T2: "S5", T3: "S6", T4: "S10" };
+  for (const row of loadCache().values()) {
+    const usd = estimateUsd(row.model, row.usage.input, row.usage.output);
+    const stage = stageOf[row.task] ?? row.task;
+    const st = (l.byStage[stage] ||= { calls: 0, cachedCalls: 0, inputTokens: 0, outputTokens: 0, usd: 0, model: row.model });
+    st.calls++;
+    st.inputTokens += row.usage.input;
+    st.outputTokens += row.usage.output;
+    st.usd += usd;
+    l.totalUsd += usd;
+    l.models[row.task] = row.model;
+  }
+  writeLedger(l);
+  return l;
 }
 
 export function estimateUsd(model: string, inputTokens: number, outputTokens: number) {

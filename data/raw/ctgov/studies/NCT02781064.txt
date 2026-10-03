@@ -1,0 +1,23 @@
+Title: STATIN: Web-based Investigation of Side Effects
+Official title: A Series of Randomised Controlled N-of 1 Trials in Patients Who Have Discontinued or Are Considering Discontinuing Statin Use Due to Muscle-related Symptoms to Assess if Atorvastatin Treatment Causes More Muscle Symptoms Than Placebo
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Cardiovascular Disease
+Interventions: Atorvastatin 20mg (DRUG); Placebo (DRUG)
+Summary: Statins are known to cause rare but serious side effects such as rhabdomyolysis (breakdown of muscle tissue) but many patients stop taking statins due to less severe symptoms, such as muscle pain or fatigue.
+
+This study aims to determine whether symptoms occurring during statin use are caused by statins. The trial will compare patient-reported side effects of statins (20mg atorvastatin) vs. placebo.
+
+Patients will be randomized to alternating treatment blocks of either statin or placebo split into six two-month treatment periods. At the end of each period, patients will be asked to self-report side effects using a website or mobile app.
+Eligibility: Inclusion Criteria:
+
+* Adults (aged 16 and over)
+* Prescribed statin treatment in the last 3 years
+* Stopped OR considering stopping statin treatment due to muscle symptoms
+* Provided fully informed consent.
+
+Exclusion Criteria:
+
+* Any previously documented serum alanine aminotransferase (ALT) levels at or above three times the upper limit of normal;
+* Have persistent, generalised, unexplained muscle pain (whether associated or not with statin use) and have creatinine kinase (CK) levels greater than 5 times the upper limit of normal
+* Any contraindications listed in the IMP SPC
+* Should not be using atorvastatin 20mg daily in the opinion of the general practitioner.

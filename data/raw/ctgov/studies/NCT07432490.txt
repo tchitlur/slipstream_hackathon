@@ -1,0 +1,26 @@
+Title: A Phase II Study With Exploratory Outcomes of Fucose Supplementation in GLUT1 Deficiency Syndrome
+Official title: A Phase II Randomized, Double-blind, Placebo-controlled, Cross-over Study With Exploratory Outcomes of Fucose Supplementation in GLUT1 Deficiency Syndrome
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Glut1 Deficiency; GLUT1DS1
+Interventions: L-fucose (DRUG); Placebo (OTHER)
+Summary: This is a single-center, randomized, double-blind, placebo-controlled, cross-over study to evaluate the efficacy and safety of L-fucose supplementation in subjects with GLUT1 deficiency syndrome (GLUT1DS).
+Eligibility: Inclusion Criteria:
+
+1. Age ≥ 18 years
+2. Confirmed diagnosis of GLUT1DS, including at least 2 out of the following 3: molecular genetic testing showing a pathogenic or likely pathogenic variant in SLC2A1; documented hypoglycorrhachia with a CSF:blood glucose ratio ≤ 0.6; clinical features consistent with GLUT1DS (epilepsy, movement disorders, ataxia, intellectual disability, dysarthria)
+3. Presence of ataxia
+
+Exclusion Criteria:
+
+1. Inability to swallow liquids
+2. Change in neurological medications (either medication itself or medication dosages) in the past 90 days
+3. Use of fucose- or mannose-containing supplements within one year of enrollment
+4. Presence of hepatic, renal, hematological, or concomitant metabolic disorders, as assessed by the presence of a previous diagnosis of such disorders (for instance, chronic kidney disease, liver cirrhosis, diabetes mellitus) or by the following laboratory values, which will be considered if obtained clinically up to 90 days before enrollment (if this is not available, laboratory tests will be obtained prior to first study visit):
+
+   1. Any degree of hepatic impairment based on the Child-Pugh classification
+   2. eGFR (as measured by serum creatinine or cystatin C) \< 60 mg/min/1.73m2
+   3. Hemoglobin A1c \> 6.5%
+   4. Hemoglobin level below the lower limit of normal (LLN) for sex and age
+   5. Platelet counts below the LLN for sex and age
+5. Subjects who are pregnant, breastfeeding, or planning to become pregnant within one year of enrollment
+6. Enrollment in an investigational new drug trial for G1DS within one year of enrollment

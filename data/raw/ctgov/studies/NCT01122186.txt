@@ -1,0 +1,22 @@
+Title: Intervention Targeting Medication Adherence and Methamphetamine Use in HIV Positive Men (ACE)
+Official title: Intervention Targeting Medication Adherence and Methamphetamine Use in HIV Positive Men
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: HIV Medication Adherence; Methamphetamine Use; Sexual Risk; Poly-substance Use; HIV Infections
+Interventions: Motivational Interviewing + Cognitive Behavioral Skills Training (BEHAVIORAL); Education Attention Control (BEHAVIORAL)
+Summary: The primary aim is to test an innovative 8-session intervention, based on Motivational Interviewing and Cognitive Behavioral Skills-Training for the co-occurrence of methamphetamine use and highly active antiretroviral therapy (HAART) non-adherence among methamphetamine using HIV+ MSM in NYC, compared to an 8-session educational (ED) condition. Participants in the intervention condition will report greater reductions in the number of days of methamphetamine use and viral load, and greater increases in CD4 counts and self-reported and objectively measured adherence than those in the education condition.
+Eligibility: Inclusion Criteria:
+
+* HIV+ (confirmed at baseline through documentation)
+* Biologically male
+* report sex with another man at least once
+* report methamphetamine use at least three times in the past three months
+* report less than 90% HAART medication adherence, as measured by the total number of days a participant missed an HIV medication in the last 30
+* able to communicate with staff and complete a survey that is in English.
+
+Exclusion Criteria:
+
+* Unstable, serious psychiatric symptoms
+* Currently suicidal/homicidal
+* Evidence of gross cognitive impairment
+* Self-reported current enrollment in a drug or HIV-related intervention or research study.
+* Methadone use

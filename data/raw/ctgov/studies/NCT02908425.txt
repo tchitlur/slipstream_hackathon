@@ -1,0 +1,38 @@
+Title: Cholesterol and Statin in Healthy Adults
+Official title: Human Metabolism of HMB
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Elevated HMB Excretion
+Interventions: Statin user (OTHER)
+Summary: Statins are a class of drugs that are the most commonly prescribed medications in developing countries. Statins act on the enzyme HMG-CoA reductase to inhibit its conversion to mevalonate, a precursor for cholesterol synthesis. Subsequently statins are prescribed to patients with relatively high blood cholesterol levels. However, taking statins does not come without side effects. Most notably, the effects of statins on muscle wasting have been studied extensively. This includes up-regulation of the ubiquitin proteasome system, muscle cell damage and rhabdomyolysis, elevated creatine kinase, and mitochondrial dysfunction. Due to the negative side effects of statin therapy, additional therapies are warranted to help offset the effects on muscle wasting.
+
+Loss of muscle mass is a significant concern as it is associated with a reduction in muscle strength and power (Ferrando et al., 1996; Creditor, 1993). This condition is observed in aging, disease states, and long periods of unloading such as hospital admission and can lead to disability, increased falls, loss of independence, and mortality. Subsequently, there is a critical need to develop interventions to counteract this loss of mu
+Eligibility: Inclusion criteria:
+
+* Male and Female, Age ≥ 65 y to 80 y
+* BMI \>20 but less than or equal to 35
+* Currently taking a cholesterol lowering statin
+* Stable body-weight (± 5%) for the past 3 months
+* Subject is judged to be in satisfactory health based on medical history, physical examination, and laboratory screening evaluations.
+* Ability to walk, sit down and stand up independently
+* Ability to lie in supine or elevated position for up to 8 hours
+* Willingness and ability to comply with the protocol
+
+Exclusion criteria:
+
+* Metabolic diseases including diabetes, hepatic or renal disorder
+* Subject has malignant disease or autoimmune disease
+* Subject has impaired liver function
+* Subject has had a significant cardiovascular event (e.g. myocardial infarction, stroke) ≤ 6 months prior to screening visit; or stated history of congestive heart failure
+* Subject has current significantly impaired liver function in the opinion of the study PI (mild asymptomatic fatty liver is acceptable), or hepatic enzyme tests are ≥2.5 times normal limit
+* Subject has a chronic, contagious, infectious disease, such as active tuberculosis, hepatitis B or C, or HIV
+* Subject has chronic disease such as COPD
+* Subject is expected to have surgery within one-month of screening
+* Subject is currently participating or has participated in a study with an investigational compound or device within 30 days of signing the informed consent.
+* Presence of acute illness or metabolically unstable chronic illness (unrelated to the primary disease)
+* Unwilling to stop taking nutritional protein supplements within 5 days of first study day
+* Any other condition according to the PI or nurse that would interfere with the study or safety of the subject or influence the results
+* Presence of fever within the last 3 days
+* Untreated metabolic diseases including hepatic or renal disorder unrelated to the primary disease
+* Active dependence of alcohol or drugs
+* Medication: Use of substances known to influence amino acid metabolism: antibiotics within 3 weeks prior to the study visit, current use of corticosteroids, growth hormone, testosterone, estrogen, immunosuppressant, blood thinners, or insulin.
+* Su

@@ -1,0 +1,35 @@
+Title: Nutritional Formulation for Angelman Syndrome
+Official title: Evaluation of the Safety and Tolerability of a Nutritional Formulation in Angelman Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Angelman Syndrome
+Interventions: Nutritional Formulation Containing Exogenous Ketones (DIETARY_SUPPLEMENT); Placebo Formulation (DIETARY_SUPPLEMENT)
+Summary: Low carbohydrate diets such as the ketogenic (KD) and low glycemic index (LGIT) diets have been shown to be effective in treating drug resistant seizures in children with Angelman syndrome (AS). The investigators hypothesize that consuming a fat based nutritional formulation with an exogenous ketone throughout the day will produce urinary ketosis in children consuming both low and high carbohydrate diets, depending upon dietary background. The nutritional formulation will provide fuel substrates that push metabolism away from carbohydrates and towards fat utilization. This research is being done to assess the safety and tolerability of a nutritional formulation for use in dietary interventions in AS.
+Eligibility: Inclusion Criteria:
+
+* Male or female
+* 4-11 years of age
+* Diagnosed with Angelman syndrome with prior lab report indicating genetic diagnosis
+* Currently on a LGIT, KD, or standard diet consistently for at least three months
+* Motivated to maintain the LGIT or KD for at least the duration of the trial period, as applicable
+* Written informed consent from patient and/or parent/caregiver
+* Willing to drink provided formulations, or to eat them mixed with food
+* Daytime toilet trained, or parents willing to use cotton balls in diapers to sample urine
+* Willing to test urine daily
+* Willing to comply with protocol examinations, including EEG, ERP, and venipuncture
+* Ambulatory, willing to perform gait tracking
+
+Exclusion Criteria:
+
+* Being pregnant or planning pregnancy
+* Requiring parenteral nutrition
+* Major hepatic or renal dysfunction
+* History of a diagnosis of diabetes
+* Participation in other clinical intervention studies within 1 month prior to entry of this study
+* Allergy to any of the study product ingredients
+* Investigator concern around willingness/ability of patient or parent/caregiver to comply with protocol requirements
+* Any contraindications for the use of the ketogenic or low carbohydrate diets
+* Significantly underweight (Body Mass Index \<18.5)
+* Unwilling to drink provided formulations, or to consume formulation mixed with food
+* Not ambulatory, or unwilling to perform gait tracking
+* Not daytime toilet trained, or parents unwilling to use cotton balls in diapers to sample urine
+* Unwilling to test urine daily

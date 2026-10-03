@@ -1,0 +1,23 @@
+Title: Palate Wound Healing and Pain Perception of De-epthelized Ctg vs Sub-epithelial Ctg
+Official title: Palate Wound Healing and Pain Perception of De-epthelized Ctg vs Sub-epithelial Ctg
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Palate; Wound
+Interventions: DFGG (PROCEDURE); SCTG (PROCEDURE)
+Summary: A single blinded randomized clinical trial was designed to evaluate the influence of palatal harvesting technique on post-operatory patient pain perception. The participants will be selected between subjects in need of at least one mucogingival procedure involving the harvesting of a connective tissue graft and then randomly allocated in the following groups. Two harvesting techniques were chosen to be compared: de-epithelialized free gingival graft (DFGG) and subepithelial connective tissue graft (SCTG).
+Eligibility: Inclusion Criteria:
+
+* Patients with at least 18 years
+* Systemically healthy
+* Healthy periodontium or demonstrating stable periodontal condition following conventional periodontal therapy
+* Full mouth plaque score (FMPS) and full mouth bleeding score (FMBS) of \< 15%
+* Non-smokers or smokers of ≤ 10 cigarettes per day
+* Indication of mucogingival surgery in teeth and/or implants.
+
+Exclusion Criteria:
+
+* Smokers ≥ 10 cigarettes per day
+* General contraindications for surgery
+* Medications known to affect the gingiva or interfere with wound healing
+* Pregnancy
+* Benzodiazepines and/or analgesics intake
+* Patients nos systemically healthy or uncontrolled (i.e: Diabetes, inmunosuppresed)

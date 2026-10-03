@@ -1,0 +1,23 @@
+Title: Safety and Bone Health Study of SM04690 for the Treatment of Moderately to Severely Symptomatic Knee Osteoarthritis
+Official title: A Phase 2, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Safety and Bone Health of Multiple Injections of SM04690 Injected in the Target Knee of Moderately to Severely Symptomatic Osteoarthritis Subjects
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Knee Osteoarthritis
+Interventions: Placebo (DRUG); SM04690 (DRUG)
+Summary: The primary purpose of this phase 2, placebo-controlled, double-blind, parallel group study was to provide an initial safety evaluation of two intra-articular (IA) injections of SM04690 (each at the dose of 0.07mg per 2mL injection) approximately six months apart into the target knee of moderately to severely symptomatic osteoarthritis (OA) subjects. Subjects who completed this 52-week long study were invited to enter the extension phase for an additional 52 weeks of treatment.
+Eligibility: Inclusion Criteria:
+
+1. Males and females between 40 and 80 years of age, inclusive, in general good health
+2. Ambulatory
+3. Diagnosis of femorotibial OA in the target knee by standard American College of Rheumatology (ACR) criteria at Screening Visit 1 (clinical AND radiographic criteria); OA of the knee is not to be secondary to any rheumatologic conditions (e.g., rheumatoid arthritis)
+4. Pain compatible with OA of the knee(s) for at least 26 weeks prior to Screening Visit 1
+5. Primary source of pain throughout the body is due to OA in the target knee
+6. Daily OA knee pain diary average NRS intensity score ≥ 4 and ≤ 8 in the target knee on the 11-point (0-10) NRS scale for the 7 days immediately preceding Day 1
+7. Pain NRS scores recorded for the target knee on at least 4 out of the 7 days immediately preceding Day 1
+8. Daily OA knee pain diary average NRS intensity score \< 4 in the non-target knee on the 11-point (0-10) NRS scale for the 7 days immediately preceding Day 1
+9. Pain NRS scores recorded for the non-target knee on at least 4 out of the 7 days immediately preceding Day 1
+10. WOMAC pain subscore of 20-40 (out of 50) and WOMAC physical function subscore of 68-136 (out of 170) for the target knee at baseline, regardless of if the subject is on symptomatic oral treatment (baseline questionnaire completed during the screening period prior to randomization)
+11. Widespread Pain Index (WPI) score of ≤ 4 and a Symptom Severity Question 2 (SSQ2) score of ≤ 2 at Screening Visit 1
+12. Willingness to use an electronic diary on a daily basis in the evening for the screening period and 104-week study duration
+13. Negative drug test for amphetamine, buprenorphine, cocaine, methadone, opiates, phencyclidine (PCP), propoxyphene, barbiturates, benzodiazepine, methaqualone, and tricyclic antidepressants, except if any such drugs are clinically indicated and allowed by the protocol, at Screening Visit 1.
+14. Subjects with depression or anxiety must be clinically stable for 12 weeks prior to Screening Visit 1 in the opinion of the Investigator and, if on treatment for depression or anxiety, be on 12 weeks of stable therapy
+15. Full understanding of the requirements of 

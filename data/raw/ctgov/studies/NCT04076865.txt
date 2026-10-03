@@ -1,0 +1,24 @@
+Title: Evaluation of the Effect Induced by Repeated Administration of Topical Local Anaesthetic (EMLA) on Itch
+Official title: A Mechanistic Evaluation of the Nociceptive Desensitization Induced by Repeated Administration of Topical Local Anaesthetic Mixture of Lidocaine and Prilocaine (EMLA) in a Model of Histaminergic and Non-histaminergic Itch.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Lidocaine; Itch
+Interventions: EMLA (lidocaine) +Itch (Histamine and cowhage) (DRUG)
+Summary: In this experiment, the investigators would like to study if the repeated application of local cuaneous anaesthetic EMLA cream will reduce itch induced by small needles from the plant mucuna pruriens (also known as cowhage) and histamine (an itch proving substance formed in the body).
+Eligibility: Inclusion Criteria:
+
+* Healthy men and women
+* 18-60 years
+* Speak and understand English
+
+Exclusion Criteria:
+
+* Pregnancy or lactation
+* Drug addiction defined as any use of cannabis, opioids or other drugs
+* Previous or current neurologic, musculoskeletal or mental illnesses
+* Lack of ability to cooperate
+* Current use of medications that may affect the trial
+* Skin diseases
+* Consumption of alcohol or painkillers 24 hours before the study days and between these
+* Acute or chronic pain
+* Participation in other trials within 1 week of study entry (4 weeks in the case of pharmaceutical trials)
+* Known history of anaphylactic shock, or local allergy (contact dermatitis) to lidocaine, prilocaine or other local anaesthetics of the amide type.

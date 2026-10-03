@@ -1,0 +1,51 @@
+Title: the Phenotypic and Genetic Profile of Patients With Early Onset Schizophrenia Associated With Autism Spectrum Disorder.
+Official title: Exploration and Characterization of the Phenotypic and Genetic Profile of Patients With Early Onset Schizophrenia Associated With Autism Spectrum Disorder and Their First-degree Relatives (GenAuDiss).
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Schizophrenia; Dissociative Disorders
+Interventions: genetic and phenotypic profile (OTHER)
+Summary: Early onset schizophrenia "early dissociative disorder" is a rare disorder with a low incidence of approximately (1/5000 to 1/20000). Its link with autism spectrum disorders remains unknown although both are serious neurodevelopmental diseases. As part of the 2011-2013 Interregional hospital Clinical Research program, University Department of Child and Adolescent Psychiatry Pediatric Hospitals of CHU de Nice Lenval identified patients with a complex phenotype characterized by an early schizophrenia associated with autism spectrum disorders and developmental disabilities in mild to moderate. This phenotype could be a new syndrome.
+
+The goal of our project is to define the genetic causes of this phenotype. The technique of high throughput sequencing will be used to obtain the sequence of exomes of these patients and their families. This study will therefore be important to give an accurate diagnosis for patients and their families. Moreover, we believe that this project will identify new genes involved allowing a better understanding of the pathophysiology. Recent studies show the involvement of mutations in several genes (eg NRXN1 and UPF3B) in these different clinical phenotypes. H
+Eligibility: Inclusion Criteria:
+
+Of the child:
+
+* ≥ 7 years, \<18 (below 7 years the diagnosis of schizophrenia is not possible)
+* Schizophrenia Diagnosis done using the diagnostic tool Kiddie sads
+* Autism Diagnosis done using the diagnostic scale Autism Diagnostic interview (ADI-R)
+* Intelligence quotient (IQ) ≥ 50 at Wechsler Intelligence Scale for Children (WISC) IV abridged version
+* Clinical examination
+* Affiliation to social security
+* Obtaining the authorization of the holders of parental authority
+
+Brothers and sisters:
+
+* Minor or Major
+* Similarly biological parents
+* Clinical examination
+* Affiliation to social security
+* Obtaining the authorization of the holders of parental authority for minors or informed consent for major
+
+Parents:
+
+* Biological Parent
+* Clinical examination
+* Affiliation to social security
+* Informed Consent
+
+Exclusion Criteria:
+
+Of the child:
+
+* Children refusing to participate
+* Children without verbal language
+
+Brothers and sisters:
+
+* Children refusing to participate
+* Adults protected by law
+
+Parents:
+
+* Refusing to participate
+* Adults are protected by law

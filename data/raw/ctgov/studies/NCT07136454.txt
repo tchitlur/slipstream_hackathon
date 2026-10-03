@@ -1,0 +1,29 @@
+Title: Expanded Access/Compassionate Use of Rugonersen in Patients With Angelman Syndrome
+Official title: Expanded Access/Compassionate Use of Rugonersen in Patients With Angelman Syndrome
+Status: AVAILABLE. Type: EXPANDED_ACCESS. Phases: none.
+Conditions: Angelman Syndrome
+Interventions: Rugonersen (DRUG)
+Summary: For a patient to be considered for this EAP, they must have consented to participate in the TANGELO Optional Open-label Extension (OOE), and continue to meet the inclusion/ exclusion criteria and have not received any other investigational drug for the treatment of AS between the last dose of the TANGELO OOE and the first dose in the EAP.
+
+The Physician making the request for expanded access considers continued treatment via the EAP with rugonersen to be a suitable treatment option for the patient under consideration.
+Eligibility: For a patient to be considered for this EAP, they must have consented to participate in the TANGELO Optional Open-label Extension (OOE) and, haven't deviated from any of the inclusion/ exclusion criteria and have not received any other investigational drug for the treatment of AS between the last dose of the TANGELO OOE and the first dose in the EAP.
+
+The Physician making the request for expanded access considers continued treatment via the EAP with rugonersen to be a suitable treatment option for the patient under consideration.
+
+Inclusion Criteria:
+
+* Signed informed consent must be obtained prior to the initiation of any study-required procedures. The participant has a parent, caregiver, or legal representative (referred to as "caregiver") who is reliable and able to consent for the participant according to ICH and local regulations
+
+  * At least 18 years of age
+  * Willing and able to accompany the participant to clinic visits and be available to the site by phone, email, or other electronic form as needed
+  * Is and will likely remain sufficiently knowledgeable of the participant's condition in order to respond to queries as requested.
+* Patient had previously signed informed consent for the TANGELO Optional OOE and completed a final safety follow-up visit for the TANGELO Study.
+* Participant is able to comply with all requirements including blood draws.
+* Participant is able to undergo lumbar puncture (LP) and intrathecal (IT) injection under sedation or anesthesia as deemed appropriate.
+* Will comply with requirements regarding contraception and is confirmed by caregiver consent.
+* In the opinion and clinical judgement of the Physician, potential benefit outweighs potential risk of continuing rugonersen as an investigational therapy, based on the individual patient's medical history and program eligibility criteria, and judged by the treating physician to still being medically suitable for treatment with rugonersen.
+
+Exclusion Criteria:
+
+* History of clinically significant post lumbar puncture headache of moderate or severe intensity and/or blood patch.
+* Hospitalization for any major medical or surgical procedure involving general anesthesia within 12 we

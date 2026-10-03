@@ -1,0 +1,26 @@
+Title: A Clinical Study to Explore Biomarkers for Drug-induced Liver Injury (DILI)
+Official title: A Clinical Study to Evaluate the Effect of Glutathion S-transferase Polymorphism on Pharmacokinetics/Pharmacodynamics After Multiple Administration of Amoxicillin/Clavulanate and Explore Biomarkers for Drug-induced Liver Injury (DILI)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Healthy
+Interventions: Augmentin tablet (DRUG)
+Summary: This study has an open-label, one-sequence, multiple drug administration design. The purpose of this study is as follows;
+
+* To evaluate the change of liver function according to glutathione s-transferase (GST) genotype after the multiple administration of amoxicillin/clavulanate.
+* To evaluate the intrinsic metabolite, human leukocyte antigen (HLA) genotype, and microRNA (miRNA) based on liver function change as the candidate biomarker for DILI.
+Eligibility: Inclusion Criteria:
+
+1. Subject with sufficient ability to understand the nature of the study and any hazards of participating in it. Provide written informed consent after being fully informed about the study procedures
+2. Healthy male of female subjects aged 20 - 45 years
+3. Subjects whose body mass index (BMI) in the range 18.5 kg/m2 (inclusive) - 27 kg/m2 (exclusive)
+
+Exclusion Criteria:
+
+1. Subject with clinically significant disease in liver, kidney, nerve system, respiratory system, endocrine system, blood, tumor, urinary system, cardiovascular system, mental disease or with medical history
+2. Subject who has taken any prescribed drugs, herbal agents or crude drugs within 2 weeks before study drug administration
+3. Subject who did blood donation during 1 months before the study or Blood donation during 2 months before the study
+4. Subject with presence or history of severe adverse reaction to study drug
+5. Subject who cannot prevent pregnancy during the study period.
+6. Female subject who are pregnant.
+7. Subject who drank over 21 units/week of alcohol or subjects who would not be able to stop drinking alcohol during the hospitalization
+8. Subject who are Heavy smoker more than 10 cigarettes/day within 3 months prior to screening or subjects who would not be able to stop smoking during the hospitalization.
+9. Subject judged not eligible for study participation by investigator.

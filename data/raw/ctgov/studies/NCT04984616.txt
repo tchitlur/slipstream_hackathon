@@ -1,0 +1,39 @@
+Title: Atorvastatin on Inflammation and Cardiac Function in Chronic Chagas Disease
+Official title: Effect of Statins (Atorvastatin) on Inflammation and Cardiac Function in Patients with Chronic Chagas Disease: Pathophysiological Studies in a Multicenter Proof-of-concept
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Chronic Chagas Disease
+Interventions: 40 mg Atorvastatin/day for 120 days P.O. (DRUG); Atorvastatin 80 (DRUG); Placebo (DRUG)
+Summary: Chagas Disease, caused by the parasite Trypanosoma cruzi afflicts 7 million people in Latin America, and due to migration, abroad. The diagnosis lies in clinical suspicion and serologic detection of antibodies. Cardiac evaluation is essential because complications, including heart failure and arrhythmias, are the main causes of disability and death. Heart involvement is explained by a parasite-dependent, immune-mediated myocardial and microvascular injuries.
+
+Current treatment includes the administration of nifurtimox or benznidazole, although in the chronic phase their efficacy is low and may induce severe adverse events, forcing the suspension of the therapy. Therefore, finding innovative approaches to improve the efficacy of the current antichagasic drugs by modifying the inflammatory response would render the current treatment more effective.
+
+Pre-clinical evidence supports the idea that the cholesterol-lowering statin drugs, such as atorvastatin, may contribute to decrease cardiac inflammation, reduce endothelial activation, and improve cardiac function. Atorvastatin therapeutic and safety profiles are well known, as is its mechanism of action, shared by the other members of t
+Eligibility: Inclusion Criteria:
+
+* Adults older than 18 and younger than 50 years,
+* with a weight higher than 40 kg
+* Positive conventional confirmatory serology for T. cruzi infection from the NAtional Public Health institute (ISPCH), and
+* A positive qPCR
+* Have normal laboratory test values for the following parameters: total white blood cell count, platelet count, creatine kinase (CK), alanine aminotransferase (ALT), aspartate aminotransferase (AST), total bilirubin or creatinine, or a gamma-glutamyl transferase (GGT) \> 2 times the upper limit of normal (X ULN);
+* Women of reproductive age must have a negative serum pregnancy test, must not be breastfeeding, and must consistently use a highly effective contraceptive method throughout the treatment phase
+* Ability to comply with all protocol-specified follow-up tests and visits and have a permanent address;
+* Signed written informed consent form
+
+Exclusion Criteria:
+
+* Signs and symptoms of the digestive form of Chagas Disease;
+* Chronic cardiac Chagas Disease stage II or higher;
+* Acute or chronic health conditions such as acute infections, history of HIV infection, diabetes, liver and kidney disease;
+* Hypothyroidism
+* Family history of muscle disorders
+* Pre-existing heart disease unrelated to Chagas disease;
+* Formal contraindication to receive nifurtimox or benznidazole,
+* Known history of hypersensitivity, allergy or severe adverse reactions to atorvastatin, benznidazole or nifurtimox;
+* History of previous treatment for Chagas Disease;
+* History of prior treatment with atorvastatin, lovastatin, rosuvastatin, simvastatin or any other statin;
+* Any concomitant use of antimicrobial agents;
+* History of alcohol or drug abuse;
+* Any condition that precludes oral medication;
+* Concomitant or intended use of CYP3A4 modifiers;
+* Medical history of familial short QT syndrome or concomitant therapy with medications that may shorten the QT interval.
+* Abnormal laboratory test values for the following parameters: total white blood cell count, platelet count, creatine kinase (CK), alanine aminotransferase (ALT), aspartate aminotransferase (AST), total bilirubin or creatinine, or a gamma-glutamyl transferase (GGT) \> 2 times 

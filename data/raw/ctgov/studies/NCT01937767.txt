@@ -1,0 +1,14 @@
+Title: Remimazolam Phase II Cardiac Anesthesia Study
+Official title: A Randomized, Single-blind Phase II Study Evaluating the Efficacy, Safety and Pharmacokinetics of Remimazolam in General Anesthesia in Adult Patients Undergoing Cardiac Surgery, Including Follow-up Sedation in the PACU/ICU
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: General Anesthesia
+Interventions: Remimazolam (DRUG); Propofol (DRUG); Sevoflurane (DRUG); Remifentanil (DRUG); Fentanyl (DRUG); Rocuronium (DRUG)
+Summary: This phase II study in patients undergoing elective cardiac surgery will evaluate the efficacy, safety, and pharmacokinetics of remimazolam, compared with propofol and sevoflurane, during the induction and maintenance of general anesthesia.
+Eligibility: Inclusion Criteria:
+
+* scheduled for major elective cardiac surgery.
+* scheduled for mechanical ventilation via tracheal intubation.
+
+Exclusion Criteria:
+
+* thoraco-abdominal replacement of the aorta or other procedure expected to be accompanied by a massive hemorrhage (at least 15% of the circulating blood volume).

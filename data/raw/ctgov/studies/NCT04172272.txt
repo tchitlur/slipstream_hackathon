@@ -1,0 +1,18 @@
+Title: The Influence of TAP Block in the Control of Postoperative Pain After Laparotomy for Gynecological Procedures
+Official title: The Influence of the Transversus Abdominis Plane Block on the Intensity of Postoperative Pain and the Concentration of Proinflammatory and Pain Factors After Laparotomy for Gynecological Procedures
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Leiomyoma; Pelvic Organ Prolapse; Abnormal Uterine Bleeding; Chronic Pain; Premalignant Lesion; Endometriosis
+Interventions: Systemic multimodal analgesia administered intravenously (DRUG); Transversus abdominis plane block (TAP block) (PROCEDURE); Combined transversus abdominis plane block (TAP block) with systemic multimodal analgesia administered intravenously (OTHER)
+Summary: This study evaluates the influence of the transversus abdominis plane block on the intensity of postoperative pain and the concentration of proinflammatory and pain factors after hysterectomy by laparotomy. The patients will be randomized in three groups.In the first group, patients will receive intravenous, systemic, multimodal analgesia.In the second group there will be patients in who will be given the TAP block. The TAP block will be given postoperatively before waking. It will be given bilaterally in the before mentioned anatomic region (the so-called lateral TAP block). In the third group there will be patients who will be treated with TAP block in addition to systemic, mutimodal analgesia. The research will be based on completing a questionnaire (VAS scale and QoR questionnaire) and taking peripheral blood out. We expect that the concentration of proinflammatory and pain factors in patients treated with a TAP block will be lower and the quality of recovery will be better than that of patients receiving standard analgesic therapy (systemic multimodal analgesia).
+Eligibility: Inclusion Criteria:
+
+* Patients with a benign gynecological condition, who underwent hysterectomy by laparotomy approach.
+
+Exclusion Criteria:
+
+* under aged
+* pregnant women,
+* patients with malignant gynecological disease,
+* those with anesthesiologic risk of ASA III or more,
+* persons who are hypersensitive to anesthetics and analgesics,
+* patients who do not agree with the study

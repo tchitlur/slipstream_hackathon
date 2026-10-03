@@ -1,0 +1,24 @@
+Title: Additional KIF6 Risk Offers Better Adherence to Statins
+Official title: Additional KIF6 Risk Offers Better Adherence to Statins
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Cardiovascular Diseases; Dyslipidemia
+Interventions: KIF6 genetic test (GENETIC)
+Summary: Many patients prescribed statins to lower their cholesterol stop taking their statin over time. The purpose of this study is to determine whether providing subjects their KIF6 carrier status (associated with increased cardiovascular event risk) will improve adherence to statin medications.
+Eligibility: Inclusion Criteria:
+
+* Men and women at least 18 years of age
+* New statin prescription
+* Medco RationalMed® Program
+* Data contains patient contact information (e.g. phone number)
+* Data contains provider contact information
+* Willing to sign informed consent and send KIF6 test results to their provider
+
+Exclusion Criteria:
+
+* Statin prescription in the previous 6 months
+* Subject refusal to participate in this study (record reason from subject)
+* Physician refusal to participate in this study (record reason from provider)
+* Anticipated statin discontinuation within 6 months
+* Any condition that would prevent the subject from completing the 6 month study follow-up period
+* Subject with "no contact red flag"
+* Subject residing in NY, NJ, MA, PA

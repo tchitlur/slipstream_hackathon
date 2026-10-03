@@ -1,0 +1,17 @@
+Title: Tailored Vs. Empirical Helicobacter Pylori Infection Treatment
+Official title: Susceptibility-guided Vs. Empirical First-line Bismuth Quadruple Therapy of H. Pylori Infection: a National Prospective Multicentric Randomized Controlled Trial.
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Helicobacter Pylori Infection
+Interventions: Clarithromycin (mutations in the 23S rRNA gene, A2134G, A2142G and A2142C mutations) and levofloxacin resistance (mutations in the gyrA gene) PCR test (DIAGNOSTIC_TEST); Empirically H. pylori eradication treatment with bismuth quadruple therapy (Pylera®) (DRUG); PPI, amoxicillin 1 g and clarithromycin 500 mg, twice daily, for 10 days (DRUG); PPI, amoxicillin 1g and levofloxacin 250 mg, twice daily, for 10 days (DRUG); Bismuth quadruple therapy (Pylera®) for 10 days (DRUG)
+Summary: Helicobacter pylori (Hp) is a gram-negative bacterium that colonizes human gastric mucosa and is associated with chronic gastritis that can progress to severe complications such as peptic ulcer disease, gastric adenocarcinoma and gastric mucosa-associated lymphoid tissue lymphoma. More than half of the world's population is infected with H. pylori and Portugal is one of the countries with the highest Hp burden. All of infected patients should be treated, however, H. pylori treatment is challenged by the continuously rising antibiotic resistance which has reached alarming levels worldwide. For this reason, it is now well accepted that tailoring treatment of H. pylori infection based on systematic antimicrobial susceptibility testing is useful to avoid the increase of antibiotic resistance.
+
+Our aims are to determine prospectively the efficacy and safety of first-line H. pylori eradication treatment based on resistance profile (determined by molecular methods) vs. empirical bismuth quadruple therapy, to evaluate the accuracy of H. pylori detection by polymerase chain reaction (PCR) (vs. histopathological examination) and to estimate the prevalence of H. pylori infection and H. pylori
+Eligibility: Inclusion Criteria:
+
+* Individuals older than 18 years old scheduled for upper GI endoscopy with indication for gastric biopsies (clinical or endoscopic findings)
+
+Exclusion Criteria:
+
+* 1st phase (clinical): patients who had received antimicrobial therapy 1 month prior to endoscopy; patients who had received proton pump inhibitor (PPI) therapy 2 weeks prior to endoscopy; patients who had ever received H. pylori eradication therapy (despite its efficacy); history of previous gastrectomy; non-Portuguese nationality; pregnant or breastfeeding women; women of childbearing age without effective contraception; suspected or documented allergy to amoxicillin; serious comorbidities (ASA 3 or more); ongoing medication with anticoagulants
+* 2nd phase (endoscopic): upper GI tract neoplasia; hemorrhagic gastritis; upper GI tract varices
+* 3rd phase (pathological): H. pylori negative patients

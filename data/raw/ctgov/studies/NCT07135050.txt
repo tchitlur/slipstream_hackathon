@@ -1,0 +1,36 @@
+Title: Phase 1/2 Study of MZ-1866, an AAV-9 Gene Therapy Delivered by Intracerebroventricular Injection to Participants With Pitt Hopkins Syndrome
+Official title: Phase 1/2 First-in-Human Study to Evaluate the Safety, Tolerability, and Efficacy of MZ-1866, an AAV-9 Gene Therapy Delivered by Intracerebroventricular Injection to Participants With Pitt Hopkins Syndrome
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Pitt Hopkins Syndrome
+Interventions: MZ-1866 (GENETIC)
+Summary: The goal of this clinical trial is to learn if MZ-1866 is a safe and tolerable treatment for children and adults with Pitt Hopkins Syndrome.
+
+To evaluate the safety of MZ-1866, the following will be evaluated:
+
+* frequency and severity of adverse events
+* physical exam, laboratory results and electrocardiogram findings
+
+Participants will:
+
+* receive a single dose of MZ-1866 by intracerebroventricular injection
+* be seen by the study physician and site staff periodically to assess changes to their health status
+* be periodically evaluated using neurodevelopmental tools
+
+Caregivers will:
+
+* be interviewed periodically about the health status and development of the participant
+* keep diaries and complete periodic questionnaires regarding participant symptoms
+Eligibility: Inclusion Criteria:
+
+* The participant has a TCF4 gene mutation confirmed as "pathogenic" or "likely pathogenic" by whole exome sequencing, whole genome sequencing, gene panel, single gene testing, or microarray, performed at an accredited laboratory
+* Clinical phenotype consistent with Pitt Hopkins Syndrome, in the opinion of the investigator
+* The participant, or the participant's parent or legal guardian, is willing to provide access to prior medical records for the collection of demographics and diagnostic and treatment history
+
+Exclusion Criteria:
+
+* A deletion that includes the TCF4 gene that is over 12 Mbp in size
+* Another genetic mutation or clinical comorbidity not associated with Pitt Hopkins Syndrome that could potentially confound interpretation of the study data
+* A central nervous system structural or vascular abnormality that is a contraindication to the ICV administration procedure, including but not limited to: signs or symptoms of increased intracranial pressure, history of a space-occupying lesion, or presence of a ventricular shunt that would preclude ICV procedures or safety assessments, or increase risk to the participant
+* Not able to receive prophylactic corticosteroids due to a medical contraindication or participant has a history of a condition that could worsen with corticosteroid therapy as assessed and determined by the Investigator
+* Not able to undergo MRI procedures
+* Cannot be anesthetized for the ICV injection

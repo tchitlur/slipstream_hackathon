@@ -1,0 +1,15 @@
+Title: Study of Zemplar iv in Patients With End Stage Chronic Kidney Disease, Undergoing Haemodialysis
+Official title: A One-year, Multicountry, Multicenter Study of Zemplar Injections in Patients With End Stage Chronic Kidney Disease, Undergoing Hemodialysis, Not Adequately Controlled With Oral Vitamin D Receptor Activator (Calcitriol or Alfacalcidol)
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Parathyroid Hormone
+Interventions: Zemplar iv (paricalcitol iv) (DRUG)
+Summary: This is the post-marketing study conducted in two countries: Croatia and Serbia. In both countries Zemplar (paricalcitol) is the first injectable form of any Vitamin D Receptor (VDR) activator available for chronic kidney disease patients on hemodialysis. The evaluation of outcomes of VDR activator treatments in clinical practice is a major challenge in the management of this patient population. The aim of this post-marketing observational study is to obtain further data on the outcomes of Zemplar Injection administration during routine clinical use.
+Eligibility: Inclusion Criteria:
+
+* Subject is more than 18 years of age and diagnosed with secondary hyperparathyroidism and has a pretreatment iPTH \> 300 pg/mL, receiving chronic hemodialysis.
+* Subject for which treatment with Zemplar Injection is indicated clinically according to the criteria of participating investigator.
+
+Exclusion Criteria:
+
+* Subject has a corrected serum calcium \>10.5 mg/dL, serum phosphorus \> 6.5 mg/dL or subjects with corrected Ca x P\>65.
+* Subject has known hypersensitivity and/or toxicity to vitamin D metabolites and/or other product ingredients, or has participated in clinical study within the last month

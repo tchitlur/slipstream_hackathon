@@ -1,0 +1,15 @@
+Title: Mitochondrial Dysfunction in Phelan-McDermid Syndrome
+Official title: Mitochondrial Dysfunction in Phelan-McDermid Syndrome: Explaining Clinical Variation and Providing a Path Towards Treatment
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Phelan-McDermid Syndrome
+Interventions: none
+Summary: The purpose of this study is to determine whether a relationship exists between gene deletion(s) specific to the mitochondrial electron transport chain and presentation of clinical characteristics in patients with Phelan-McDermid Syndrome (PMS).
+Eligibility: Inclusion Criteria:
+
+* 1-21 years of age
+* Diagnosed with Phelan-McDermid Syndrome AND diagnosed with Mitochondrial Disorder
+* Diagnosed with Phelan-McDermid Syndrome
+
+Exclusion Criteria:
+
+* none

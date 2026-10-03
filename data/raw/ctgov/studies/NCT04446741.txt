@@ -1,0 +1,15 @@
+Title: Molecular Diagnostic Platform for AML
+Official title: Developing a Molecular Diagnostic Platform for Personalized Medicine for Acute Myeloid Leukemia
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Acute Myeloid Leukemia (AML)
+Interventions: none
+Summary: This will be a translational study without any therapeutic intervention, for the purpose of analyzing the diagnostic and molecular results / characterization of adult patients with AML, regardless of the treatment they receive. Newly diagnosed or relapsed/resistant AML patients will be included.
+Eligibility: Inclusion Criteria:
+
+* Have voluntarily given informed consent for the sending and processing of biological specimens, as well as for the analysis and reporting of the results on the mutation status of their AML.
+* Age greater than or equal to 18 years.
+* Morphological diagnosis of AML or acute leukemia of ambiguous lineage according to WHO criteria at diagnosis, relapse or resistance.
+
+Exclusion Criteria:
+
+* Inability of the patient or his/her legal representative to understand and voluntarily sign the informed consent form

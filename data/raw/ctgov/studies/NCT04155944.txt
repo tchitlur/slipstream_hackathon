@@ -1,0 +1,14 @@
+Title: Diagnosis of Prader-Willi Syndrome and Angelman Syndrome
+Official title: Dr. Pao-Lin Kuo (Department of Obstetrics and Gynecology)
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Mental Disorder; Fetus Disorder
+Interventions: none
+Summary: In a retrospective study, data were assessed from cases regarding PWS/AS that underwent molecular diagnosis at the National Chen-Kung University Hospital, Tainan, Taiwan, between January 2001 and December 2014.
+Eligibility: Inclusion Criteria:
+
+* Individual with clinical features related to Prader-Willi syndrome or Angelman syndrome;
+* Fetus with suspicious deletion or duplication of chromosome 15q11.2-q13 visible by the microscope;
+* Fetus whose mother or father has chromosomal abnormality involving 15q11.2-q13
+* Fetus with mosaic trisomy 15
+
+Exclusion Criteria:

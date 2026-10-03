@@ -1,0 +1,26 @@
+Title: The Study of Comparing the Efficacy and Safety of Human Umbilical Cord MSCs and Low-dose IL-2 in the Treatment of LN
+Official title: A Prospective, Single-center Study of Comparing the Efficacy and Safety of Human Umbilical Cord Mesenchymal Stem Cells and Low-dose IL-2 in the Treatment of Lupus Nephritis
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Systemic Lupus Erythematosus; Lupus Nephritis
+Interventions: Human umbilical cord mesenchymal stem cells (BIOLOGICAL); Interleukin-2 (DRUG)
+Summary: The purpose of this study is to compare the efficacy and safety of human umbilical cord mesenchymal stem cells and low-dose IL-2 in the treatment of LN
+Eligibility: Inclusion Criteria:
+
+Only patients with active lupus nephritis who meet all of the following criteria are eligible for inclusion in this study:
+
+* Before random assignment, records show that it meets at least 4 of the 11 SLE classification criteria recommended by ACR in 1997.
+* Age: age \> 18 years old, ≤ 65 years old when obtaining informed consent
+* SLEDAI-2K score ≥ 6
+* Urinary total protein / creatinine ratio \> 1.0 or 24-hour urinary protein \> 1.0g, with or without microscopic hematuria
+* If they are fertile, they must agree to use effective contraception during the trial.
+* In the case of women of childbearing age, urinary pregnancy and serum pregnancy tests should be negative.
+* Voluntarily sign informed consent and comply with the requirements of the research programme
+
+Exclusion Criteria:
+
+Patients who met any of the following criteria could not be enrolled in this study:
+
+* Patients who had received rituximab or any other B cell depletion therapy within 24 weeks before screening; patients who received unstable doses of mycophenolate mofetil, cyclophosphamide or other immunosuppressants (including Cyclosporine, Tacrolimus, Tripterygium wilfordii, Leflunomide, Azathioprine, Iguratimod) within the first 12 weeks of screening. Received biological agents or small molecule targeted drugs for immune diseases within 4 weeks before screening, such as Etanercept, Infliximab, Adalimumab Solution, Golimumab, Belimumab, Tocilizumab or JAK inhibitors;
+* Plasmapheresis or immunosorbent therapy within 12 weeks before screening.
+* Accompanied by severe and uncontrolled cardiovascular diseases, nervous system diseases, lung diseases, liver diseases, endocrine and gastrointestinal diseases.
+* Current or recent (within 4 weeks before random allocation) a history of severe active or recurrent bacterial, viral, fungal, parasitic or other infections (including, but not limited to, tuberculosis and atypical mycobacterial diseases, hepatitis B and C, HIV infection, herpes zoster, but excluding onychomycosis). Or any infected person who needs hospitalization and intravenous antibiotic treatment within 4 weeks before screening or any infected person who needs treatment within 2

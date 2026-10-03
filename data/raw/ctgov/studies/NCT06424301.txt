@@ -1,0 +1,30 @@
+Title: Targeting NUDT21 siRNA Drugs for Patients With Refractory Retinoblastoma
+Official title: Targeting NUDT21 siRNA Drugs for Patients With Refractory Retinoblastoma (A Prospective Pilot Study)
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: EARLY_PHASE1.
+Conditions: Retinoblastoma; Refractory
+Interventions: Targeting NUDT21 siRNA drugs (DRUG)
+Summary: Retinoblastoma (RB) is the most common intraocular malignancy in children, accounting for approximately 11% of all cancers diagnosed in children under the age of one. Although its incidence is relatively low-about 1 in 15,000 to 20,000 live births-RB has a high risk of intracranial metastasis via the optic nerve, often leading to poor prognosis in advanced cases.
+
+Recent advances in administration routes, such as intravitreal and intra-arterial chemotherapy, have significantly improved eye preservation rates. However, these strategies are limited by cumulative retinal toxicity and drug resistance. In refractory cases, enucleation remains the only definitive treatment to prevent extraocular spread and death.
+
+In light of these challenges, current research efforts are focused on developing novel targeted therapies that enhance anti-tumor efficacy while minimizing local toxicity. In this context, we introduce a first-in-class siRNA-based drug targeting NUDT21, which promotes tumor regression by modulating the 3'UTR tail of SMC1A, thereby suppressing tumor cell proliferation. Importantly, the siRNA drug selectively targets tumor cells, offering a favorable safety profile compared to co
+Eligibility: Inclusion Criteria:
+
+1. Patients with retinoblastoma with a somatic mutation of the gene RB1 and active tumor in a single eye, or germinal mutation of RB1 with active tumor/s in an eye and the contralateral eye unaffected, enucleated or without tumor activity. In both cases, relapsed or refractory with the use of systemic, intraarterial or intravitreal chemotherapy or radiotherapy, in accordance with the availability at his/her referral site, in whom enucleation is the only recommended treatment under opinion of the medical team treating the case at the originating referral site. But the patient has a strong desire to preserve the eye.
+2. Normal renal function: serum creatinine: \< 45 μmol/L (0-2 years); \< 57 μmol/L (3-6 years); \< 60 μmol/L (7-10 years); \< 80 μmol/L (11-13 years).
+3. Normal Hepatic function: serum ALT: \< 0,52 μkat/L (de 9 months -12 years); serum AST: 61-80 g/L (8 months - 5 years); 63-83 g/L (5-9 years); 63-82 g/L (9-12 years).
+4. Age greater than 6 months at the time of inclusion in the study.
+5. Sign the informed consent form and be willing to follow up at the specified time.
+
+Exclusion Criteria:
+
+1. Presence of factors that require immediate enucleation of the affected eye such as glaucoma, rubeosis iridis, anterior chamber involvement.
+2. Comorbidities: Uncontrolled epilepsy with anticonvulsant treatment, cardiac disease not compensated by treatment.
+3. Active Infections.
+4. Other chronic or active acute diseases that under the criterion of the researcher were an exclusion criterion.
+5. History of having received attenuated or live vaccines in the 30 days prior to inclusion in the study.
+6. Any cause of Immunosuppression.
+7. Trilateral Retinoblastoma.
+8. Extraocular spread.
+9. History of having received treatment for retinoblastoma with chemotherapy or radiation therapy by any means within 30 days prior to inclusion in the study.
+10. Patients who can not complete the study procedures.

@@ -1,0 +1,19 @@
+Title: Angelman Syndrome Video Assessment (ASVA) Source Material Study
+Official title: Angelman Syndrome Video Assessment (ASVA) Source Material Study
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Angelman Syndrome
+Interventions: none
+Summary: This is a longitudinal, observational, nonrandomized, fully remote study enrolling approximately 55 participant-caregiver dyads. The study includes no treatments or interventions, and participants will not be asked to change their current treatments. The objective of this study is to gather sufficient source material videos to develop a scoring system for ASVA and to perform preliminary validation of that scoring system.
+Eligibility: * Caregiver reports that the individual with AS has a laboratory-confirmed diagnosis of Angelman syndrome
+* Individual with AS is at least 1 year old
+* Caregiver is willing and able to provide informed consent for themselves and oversee study participation
+* Caregiver or legal guardian is willing to provide informed consent on behalf of the individual with AS
+* Caregiver is comfortable reading and speaking in English
+* Caregiver has access to a smartphone or tablet that is compatible with the study app OR caregiver has internet access and is willing to use a wi-fi only device to record and upload videos
+
+NT-Caregiver dyads will be eligible for inclusion if the:
+
+* Neurotypical individual is between 1 and 8 years of age
+* Caregiver is willing and able to provide informed consent and oversee study participation and NT individual is willing and able to provide assent, as applicable
+* Caregiver is comfortable reading and speaking in English
+* Caregiver has access to a smartphone or tablet that is compatible with the study app OR caregiver has internet access and is willing to use a wi-fi only device to record and upload videos Participant-Caregiver dyads will be excluded from the study only if they do not meet the inclusion criteria above.

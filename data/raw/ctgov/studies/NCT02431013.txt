@@ -1,0 +1,24 @@
+Title: Cilostazol-Simvastatin Drug Interaction Study
+Official title: A Randomized, Open-label, Multiple-dose, Parallel Study to Investigate The Effect of Cilostazol on the Disposition of Simvastatin in Healthy Male Volunteers
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Dyslipidemias; Peripheral Artery Disease
+Interventions: Simvastatin (DRUG); Pravastatin (DRUG); Cilostazol (DRUG)
+Summary: This is a randomized, open-label, single \& multiple-dose, parallel study to investigate the effect of cilostazol on the disposition of simvastatin \& pravastatin in healthy male volunteers
+Eligibility: Inclusion Criteria:
+
+* Healthy male subjects aged 20 - 45 years
+* With in 20% of ideal body weight, {Ideal body weight=\[height(cm)-100\]\*0.9}
+* Agreement with written informed consent
+
+Exclusion Criteria:
+
+* Clinically significant cardiovascular, pulmonary, hepatic, renal, hematologic, gastrointestinal disease or mental disorder (Past history or present)
+* Inadequate result of laboratory test (especially, AST/ALT \> 1.25 x UNL, Total bilirubin \> 1.5 x UNL)
+* Positive reaction in the HBs Ag, anti-HCV Ab, anti-HIV Ab, VDRL test
+* Taking OTC(Over the counter)medicine including oriental medicine within 7 days
+* Clinically significant allergic disease (Except for mild allergic rhinitis and dermatitis seems to be not need for medication)
+* Subject with known for hypersensitivity reaction to Cilostazol, Simvastatin or Pravastatin
+* Previous whole blood donation within 60 days or component blood donation within 30 days
+* Previous participation of other trial within 90 days
+* Continued taking caffeine (caffeine \> 5 cup/day), drinking (alcohol \> 30 g/day) and severe heavy smoker (cigarette \> 1/2 pack per day)
+* An impossible one who participates in clinical trial by investigator's decision including for reason of laboratory test result

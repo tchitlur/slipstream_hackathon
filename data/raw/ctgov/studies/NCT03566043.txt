@@ -1,0 +1,31 @@
+Title: CAMPSIITE™ RGX-121 Gene Therapy in Subjects With MPS II (Hunter Syndrome)
+Official title: A Phase 1/2/3 Multicenter, Open-Label Study to Evaluate the Efficacy, Safety, Tolerability, and Pharmacodynamics of RGX-121 in Pediatric Subjects With MPS II (Hunter Syndrome)
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: Mucopolysaccharidosis Type II (MPS II)
+Interventions: RGX-121 (GENETIC)
+Summary: RGX-121 is a gene therapy which is intended to deliver a functional copy of the iduronate-2-sulfatase gene (IDS) to the central nervous system. This study is a safety and efficacy, dose ranging study to determine whether RGX-121 is safe, effective and well-tolerated by patients with MPS II.
+Eligibility: Part 1 Inclusion Criteria:
+
+* The subject's legal guardian(s) is (are) willing and able to provide written, signed informed consent after the nature of the study has been explained, and prior to any research-related procedures
+* Is a male ≥4 months to \< 5 years of age on Day 1
+* Must meet any of the following criteria:
+
+  * Has a documented diagnosis of MPS II and a has a neurocognitive testing score ≤ 77 (Bayley or Kaufman), OR
+  * Has a documented diagnosis of MPS II AND has a decline of ≥ 1 standard deviation on serial neurocognitive testing administered between 3 to 36 months apart (Bayley or Kaufman) OR
+  * Has a relative clinically diagnosed with severe MPS II who has the same IDS mutation as the subject AND in the opinion of a geneticist has inherited a severe form of MPS II OR
+  * Has documented mutation (s) in IDS that in the opinion of a geneticist is always known to result in a neuronopathic phenotype AND in the opinion of a clinician has a severe form of MPS II
+
+Part 2 Inclusion Criteria:
+
+* The subject's legal guardian(s) is (are) willing and able to provide written, signed informed consent after the nature of the study has been explained, and prior to any research-related procedures
+* Is a male ≥4 months to \< 5 years of age on Day 1
+* Has a documented diagnosis of neuronopathic MPS II. Neuronopathic MPS II can be documented with any of the following methods:
+
+  * Has a BSID-III Cognitive Composite score at or below -1 SD (85) from normative mean
+  * Has two consecutive neurodevelopmental assessments that support a decline on MSEL visual receptive, expressive language, or fine motor, or BSID-III cognition, expressive language, or fine motor ≥ 1 SD on serial neurocognitive testing administered between 3 to 36 months apart
+  * Has a relative clinically diagnosed with neuronopathic MPS II who has the same IDS mutation as the subject AND the subject, in the opinion of a geneticist, has inherited a neuronopathic form of MPS II
+  * Has documented mutation(s) in IDS known to result in a neuronopathic phenotype
+
+Part 1 Exclusion Criteria:
+
+* Has contraindications for intracisternal (IC) injection, intracerebroventricular (ICV) injection or lumbar puncture

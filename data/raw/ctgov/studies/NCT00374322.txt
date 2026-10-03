@@ -1,0 +1,22 @@
+Title: Tykerb Evaluation After Chemotherapy (TEACH): Lapatinib Versus Placebo In Women With Early-Stage Breast Cancer
+Official title: A Randomized, Double-blind, Multicenter, Placebo-controlled Study of Adjuvant Lapatinib (GW572016) in Women With Early-Stage ErbB2 Overexpressing Breast Cancer
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Neoplasms, Breast
+Interventions: lapatinib (DRUG); placebo (OTHER)
+Summary: This study was designed to evaluate and compare the safety and efficacy of an oral dual tyrosine kinase inhibitor, lapatinib, versus placebo in women with early-stage ErbB2-overexpressing breast cancer who have completed their primary neoadjuvant or adjuvant chemotherapy and have no clinical or radiographic evidence of disease.
+Eligibility: Inclusion Criteria:
+
+* Have histologically or cytologically confirmed ErbB2-overexpressing invasive carcinoma (TX or T1-4) of the breast at the time of the initial diagnosis and have undergone adequate excision of tumor;
+* Had tumors that overexpress ErbB2 defined as 3+ by IHC or c-erbB2 gene amplification by FISH (ErbB2 expression/amplification must be documented prior to study entry; however, a tumor tissue sample must be sent to a central laboratory for subsequent re-analysis of ErbB2 status);
+* Have Stage I through Stage IIIc disease according to the American Joint Committee on Cancer (6th edition) staging criteria for breast cancer and meet one of the following criteria:
+
+node-positive disease defined as: one positive lymph node by sentinel node biopsy OR at least 1 positive lymph node found among at least 6 axillary nodes examined on axillary node dissection OR status post axillary radiotherapy for sterilization if clinically evaluated as cN1 or cN2 (if sentinel node biopsy is positive, subject may either undergo an axillary node dissection or radiotherapy to the axilla).
+
+node-positive disease evaluated as: ipsilateral axillary lymph nodes cN0-2 by clinical evaluation and axillary lymph nodes pNX, pN0(i+), or pN1-3 by pathological evaluation \[patients with pN3 (Stage IIIc disease) must be disease free following completion of neoadjuvant or adjuvant chemotherapy for at least 12 months and must not have been lost to follow up\].
+
+OR node-negative disease defined as: negative sentinel node biopsy OR no positive lymph nodes found among at least 6 axillary nodes examined on axillary node dissection OR status post axillary radiotherapy for sterilization if clinically evaluated as cN0.
+
+node-negative disease categorized as: high-risk disease (tumor \>2.0 cm if ER and/or progesterone receptor (PgR) positive disease is present or tumor \>1.0 cm if ER and PgR negative disease) OR intermediate-risk disease (tumor 1.0-2.0 cm and ER and/or PgR positive disease).
+
+* Women with synchronous bilateral invasive breast cancer or synchronous DCIS of either the contralateral or ipsilateral breast at the time of the initial diagnosis are also eligible;
+* Have undergone either

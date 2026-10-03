@@ -1,0 +1,45 @@
+Title: Dystonia Genotype-Phenotype Correlation
+Official title: Dystonia Genotype-Phenotype Correlation: A Study to Identify Additional Genetic Associations That Contribute to Specific Dystonic Phenotypes
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Dystonia; Dystonia; Idiopathic; Dystonia, Primary; Dystonia, Secondary; Dystonia, Familial; Dystonia Disorder; Dystonias, Sporadic; Dystonia; Orofacial; Dystonia Lenticularis; Dystonia, Paroxysmal; Dystonia 6; Dystonia 5; Dystonia 8; Dystonia 9; Dystonia 19; Dystonia 10; Dystonia 11; Dystonia 20; Dystonia 12; Dystonia, Focal; Dystonia of Head; Dystonia, Diurnal
+Interventions: Magnetic Resonance Imaging (OTHER)
+Summary: The purpose of this study is to (1) investigate the effect of known dystonia-causing mutations on brain structure and function, to (2) identify structural brain changes that differ between clinical phenotypes of dystonia, and to (3) collect DNA, detailed family history, and clinical phenotypes from patients with idiopathic dystonia with the goal of identifying new dystonia-related genes. Investigators will be recruiting both healthy control subjects and subjects with any form of dystonia. For this study there will be a maximum of two study visit involving a clinical assessment, collection of medical and family history, task training session, an MRI using the learned tasks, and finally a blood draw for genetic analysis. In total, these visits will take 3-5 hours. If the dystonia subjects receive botulinum toxin injections for treatment, the participants and their matched controls will be asked to come for a second visit.
+Eligibility: General Exclusion (both Dystonia and Control groups):
+
+* Metal in any part of the body (including metal injury to the eye) OR carrying a medical device incompatible with MRI (e.g., metal implants such as surgical clips or pacemakers) OR positive screening per UTSW MRI screening form
+* Claustrophobia
+* Non-fluent English
+* Weight incompatible with MRI safety
+* History of head trauma with neurological sequelae, including multiple concussions and/or history of stroke
+* Pregnancy
+* Serious medical illness or history of serious medical illness, including cancer that was treated with radiation or chemotherapy, heart attack, or a known history of HIV-1 + status
+* Subjects with Hepatitis C (by Hepatitis C+ titer)
+* Subjects with insulin dependent diabetes mellitus (IDDM)
+* Severe respiratory compromise
+* In the opinion of the investigator, not able to safely participate in this study
+
+Inclusion Criteria:
+
+* Dystonia group
+
+Previous diagnosis of dystonia which include but is not limited to:
+
+* cervical dystonia (50 subjects)
+* blepharospasm (25 subjects)
+* limb dystonia (50 subjects)
+* spasmodic dysphonia (25 subjects)
+* segmental dystonia
+* multi-focal dystonia
+* Any childhood-onset dystonia (25 subjects) Age \> 11 years
+
+  * Control group:
+
+No prior dystonia diagnosis (175 subjects) Age \> 11 years
+
+Exclusion Criteria:
+
+* Dystonia group Prior history of or concurrent neurological or psychiatric diagnosis - depression and/or anxiety accepted Current use of non-dystonia neuroactive medications - SSRI/medication for depression and/or anxiety accepted Current use of cervical brace designed for dystonia treatment Prior structural brain injury
+
+Control group:
+
+History of or current neurological or psychiatric diagnosis - depression and/or anxiety accepted, but must not be in active phase Current use of any neuroactive medication, SSRI/medication for depression and/or anxiety accepted

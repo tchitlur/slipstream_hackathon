@@ -1,0 +1,27 @@
+Title: Omega (n)-3 PUFA Enriched Beef & Health Outcomes.
+Official title: Omega (n)-3 PUFA Enriched Beef to Improve Circulating Lipid Concentrations and CVD Risk Markers in Adults: a Randomised Controlled Study.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: CVD; Cholesterol; Metabolic Disorder; Inflammation
+Interventions: Three portions per week (690g beef (raw weight)) for 5 weeks (DIETARY_SUPPLEMENT)
+Summary: Red meat is an integral component of the habitual diet among the UK and Irish population, with adults consuming an average of 71grams/day. Although typically high in saturated fatty acids (SFA), red meat is also an important dietary source of protein and essential nutrients including iron, zinc, B vitamins and long chain n-3 polyunsaturated fatty acids (PUFA) which provide numerous benefits to human health, particularly related to cardiovascular disease (CVD) risk. N-3 and n-6 PUFA are a family of fatty acids with important roles in cardiovascular health, and it is often recommended in dietary guidelines to replace SFA with unsaturated fats, such as PUFA. Owing to the social and economic burden of CVD, increasing the proportions of these unsaturated fatty acids, in combination with a reduction in SFA within meat, could have a large impact on CVD risk at the population level, whilst retaining the beneficial nutrients and n-3 PUFA which meat provides.
+
+In this research, a total of 90 eligible and consenting participants will be randomly allocated to consume three portions per week of n-3 enriched beef (from either dietary supplemented or grass-fed cattle) or control beef (from standa
+Eligibility: Inclusion Criteria:
+
+* Free-living, apparently healthy adults
+* Aged 20+ years at recruitment
+* Low oily fish consumers (\<2 servings/mo), or those willing to reduce their fish consumption 1 month prior to commencing the study
+* Non-smokers
+* Not regularly consuming plant stanols or other n-3 enriched foodstuffs
+
+Exclusion Criteria:
+
+* Non-free-living adults
+* Adults \<20 years at recruitment
+* Oily fish consumers (2 servings/mo or more)
+* Current smokers
+* Pregnant/lactating females (or planning to become pregnant)
+* Food allergy or intolerance that would prevent consumption of the study meals
+* Diagnosed with a chronic medical condition (such as diabetes; CVD; autoimmune/ inflammatory disorders; cancer)
+* Prescribed cholesterol or blood pressure lowering medications
+* Currently taking any fish oil-containing supplement Daily consumption of plant stanols or other n-3 enriched foodstuffs

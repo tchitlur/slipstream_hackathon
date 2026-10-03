@@ -1,0 +1,33 @@
+Title: Statins In Intracerbral Hemorrhage
+Official title: STATINS USE IN INTRACEREBRAL HEMORRHAGE PATIENTS
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Intracerebral Hemorrhage
+Interventions: Statins (DRUG)
+Summary: The SATURN trial aims to determine whether continuation vs. discontinuation of statin drugs after spontaneous lobar intracerebral hemorrhage (ICH) is the best strategy; and whether the decision to continue/discontinue statins should be influenced by an individual's Apolipoprotein-E (APOE) genotype.
+
+An MRI ancillary study (SATURN MRI), in a subset of SATURN participants , will evaluate the effects of continuation vs. discontinuation of statin drugs on hemorrhagic and ischemic MRI markers of cerebral small vessel disease, and whether the presence/burden of hemorrhagic markers (i.e. cerebral microbleeds and/or cortical superficial siderosis) on baseline MRI influences the risk of ICH recurrence on/off statin therapy.
+Eligibility: Inclusion Criteria:
+
+1. Age ≥ 50 years.
+2. Spontaneous lobar ICH confirmed by CT or MRI scan
+3. Patient was taking a statin drug at the onset of the qualifying/index ICH
+4. Randomization can be carried out within 7 days of the onset of the qualifying ICH
+5. Patient or legally authorized representative, after consultation with the statin prescriber, agrees to be randomized to statin continuation (restart) vs. discontinuation
+
+Exclusion Criteria:
+
+1. Suspected secondary cause for the qualifying ICH, such as an underlying vascular abnormality or tumor, trauma, venous infarction, or hemorrhagic transformation of an ischemic infarct.
+2. History of recent myocardial infarction (attributed to coronary artery disease) or unstable angina within the previous 3 months
+3. Diabetic patients with history of myocardial infarction or coronary revascularization
+4. History of familial hypercholesterolemia
+5. Patients receiving proprotein convertase subtilisin kexin 9 (PCSK9) inhibitors
+6. Known diagnosis of severe dementia
+7. Inability to obtain informed consent
+8. Patients known or suspected of not being able to comply with the study protocol due to alcoholism, drug dependency, or other obvious reasons for noncompliance, such as unable to adhere to the protocol specified visits/assessments.
+9. Life expectancy of less than 24 months due to co-morbid terminal conditions.
+10. Pre-morbid mRS \>3
+11. ICH score \>3 upon presentation.
+12. Contraindications to continuation/resumption of statin therapy, such as significant elevations of serum creatinine kinase and/or liver transaminases, and rhabdomyolysis
+13. Woman of childbearing potential
+14. Concurrent participation in another research protocol for investigation of experimental therapy.
+15. Indication that withdrawal of care will be implemented for the qualifying ICH.

@@ -1,0 +1,28 @@
+Title: Evaluate the Efficacy and Safety Growth Hormone, Glutamine and Diet in Patients With Short Bowel Syndrome (SBS)
+Official title: An Open-label Evaluation of the Long-term Efficacy and Safety of a Standardized Regimen of Growth Hormone, Glutamine and a Modified Diet in the Treatment of Patients With Short Bowel Syndrome
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Short Bowel Syndrome
+Interventions: Growth Hormone (DRUG)
+Summary: Treatment for 3.5-8 weeks with GH (0.05 mg/kg/day) +GLN+Diet, followed by continued compliance to the individualized oral diet and enteral GLN, will result in reduced volume of TPN infusion/week and/or reduced frequency of TPN infusions/week.
+Eligibility: Inclusion Criteria:
+
+* Be male or female between 19 and 78 years of age, inclusive
+* Have a diagnosis of SBS and 1 or more of the following characteristics:
+* Dependent upon TPN and/or IV fluids
+* Unable to receive TPN because of a documented history of complications associated with the long-term parenteral infusions (e.g. lack of venous access, multiple septic events, progressive liver dysfunction while on TPN, etc)
+* A documented remnant bowel anatomy that is inconsistent with adequately supporting life without parenteral support (e.g. \< 70 cm of healthy small intestine and a portion of colon, or less than 150 cm in patients with no colon)
+* A documented history of diarrhea and/or malabsorption that has significantly compromised the patient's nutritional and hydration status (e.g. significant weight loss - 5% over 1 month or 10% over 6 months, or a serum albumin \< 3.5 g/dl, documented nutrient deficiencies, documented episodes of dehydration, etc).
+* Is able to eat at least some (\>500 calories) of solid food on a regular basis or tolerate at least some (\>500 calories) of an enteral feeding formula
+* Have stable liver and renal function
+* For patients with known hypertension and other cardiovascular disorders, be both compensated and stabilized on a regular therapeutic regimen
+* For women participating in the study, manifest or give assent to 1 of the following criteria to ensure that the patient does not become pregnant during the study:
+* The patient must be surgically sterile or demonstrably postmenopausal.
+* Any patient capable of becoming pregnant must have a negative urine pregnancy test and must agree to practice a method of contraception documented to have at least 90% reliability throughout the treatment period.
+* Have the ability to understand the requirements of the study, to provide written Informed Consent, and to abide by the study restrictions and agree to complete the required assessments in the Follow-up Period
+
+Exclusion Criteria:
+
+* Be pregnant or lactating
+* Have a history of mental deficiency or illness that might compromise compliance with the requirements of the study
+* Have clinically serious neurological dysfunction
+* Have hypoxemic

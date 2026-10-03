@@ -1,0 +1,30 @@
+Title: A Study to Investigate NPS and Symptoms in Chinese Adult Participants With CRSwNP Initiating Treatment With Tezepelumab
+Official title: BIFANG: A Multicentre, Single-Arm, Phase 3b Study to Assess Nasal Polyps Score and Symptoms in Chinese Adult Participants With Chronic Rhinosinusitis With Nasal Polyposis Initiating Treatment With Tezepelumab
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Chronic Rhinosinusitis With Nasal Polyps
+Interventions: Tezepelumab (DRUG)
+Summary: This is a multicentre, open-label, single-arm, Phase 3b study to assess nasal polyps score and symptoms in Chinese adult participants with chronic rhinosinusitis with nasal polyposis initiating treatment with tezepelumab.
+Eligibility: Inclusion Criteria:
+
+* Age
+
+  1\. Participant must be 18 years of age or older, at the time of signing the informed consent.
+* Type of Participant and Disease Characteristics 2. Participants who are with physician-diagnosed CRSwNP for at least 12 months prior to Visit 1 who have all of the following:
+* Severity consistent with the need for surgery as defined by total NPS ≥ 4 (at least 2 for each nostril) at screening, as determined by the central reader
+* Mean NCS ≥ 2 in the 2 weeks prior to Visit 2
+* Ongoing documented NP symptoms for \> 8 weeks prior to screening such as rhinorrhoea, reduction or loss of smell and/or poor quality/loss of sleep
+* SNOT-22 total score ≥ 30 as assessed at screening. 3. Any standard of care for treatment of CRSwNP, which must include treatment with intranasal corticosteroids, provided the participant is stable on that treatment for at least 30 days prior to Visit 1. Investigators should also ensure that participants are compliant and on a stable dose of the background INCS during study period.
+
+  4\. Either 1) documented treatment of NP exacerbation with SCS for at least 3 consecutive days or one IM depo-injectable dose (or contraindications/intolerance or intolerance to surgery) within the past 12 months prior to Visit 1 but not within the last 3 months prior to Visit 1 OR 2) any history of NP surgery (or contraindications/intolerance or intolerance to surgery).
+
+  5\. Participants with JESREC score of ≥ 11.
+* Weight 6. Body weight of ≥ 40 kg at Visit 1.
+* Sex and Contraceptive/Barrier Requirements 7. Male and/or female
+
+Female participants:
+
+* Contraceptive use by women should be consistent with local regulations regarding the methods of contraception for those participating in clinical studies. Women of non-childbearing potential are defined as women who are either permanently sterilised (hysterectomy, bilateral oophorectomy, or bilateral salpingectomy), or who are postmenopausal.
+* Women will be considered postmenopausal if they have been amenorrhoeic for 12 months prior to the planned start date of the first tezepelumab administration without an alternative medical cause.
+* The following age-specific requirements apply:
+
+  * W

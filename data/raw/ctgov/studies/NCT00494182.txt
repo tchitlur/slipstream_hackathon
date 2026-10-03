@@ -1,0 +1,23 @@
+Title: Sorafenib in Combination With Carboplatin and Paclitaxel in Treating Participants With Metastatic or Recurrent Head and Neck Squamous Cell Cancer
+Official title: A Phase II Study of Sorafenib in Combination With Carboplatin and Paclitaxel in Metastatic or Recurrent Head and Neck Squamous Cell Cancer
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Metastatic Head and Neck Squamous Cell Carcinoma; Metastatic Squamous Cell Carcinoma of the Hypopharynx; Metastatic Squamous Cell Carcinoma of the Larynx; Metastatic Squamous Cell Carcinoma of the Oral Cavity; Metastatic Squamous Cell Carcinoma of the Oropharynx; Recurrent Head and Neck Squamous Cell Carcinoma; Recurrent Hypopharyngeal Squamous Cell Carcinoma; Recurrent Laryngeal Squamous Cell Carcinoma; Recurrent Oral Cavity Squamous Cell Carcinoma; Recurrent Oropharyngeal Squamous Cell Carcinoma
+Interventions: Carboplatin (DRUG); Paclitaxel (DRUG); Sorafenib (DRUG)
+Summary: This phase II trial studies how well sorafenib works with carboplatin and paclitaxel in treating participants with head and neck squamous cell cancer that has spread to other parts of the body or that has come back. Drugs used in chemotherapy, such as sorafenib, carboplatin, and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading.
+Eligibility: Inclusion Criteria:
+
+* Ability to understand and the willingness to sign a written informed consent. A signed informed consent must be obtained prior to any study specific procedures.
+* Patients must have cytologically or histologically proven recurrent or metastatic squamous cell cancer of the head and neck (SCCHN) from the primary tumor or lymph nodes of the oral cavity, larynx, oropharynx, or hypopharynx.
+* No prior systemic chemotherapy for patients who present with metastatic disease. For patients with recurrent head and neck squamous cell carcinoma, prior chemotherapy is allowed if it was given as part of their definitive therapy. If patients have received prior combined modality therapy, they must be off therapy for at least 6 months.
+* Patients must have at least 1 evaluable lesion. Lesions must be evaluated by computed Tomography (CT) scan or magnetic resonance imaging (MRI).
+* Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0-1.
+* Controlled blood pressure (defined as systolic blood pressure \[BP\] =\< 140 mmHg and diastolic =\< 85 mmHg).
+* Hemoglobin \>= 9.0 g/dL within 7 days prior to start of first dose.
+* Absolute neutrophil count (ANC) \>= 1,500/mm\^3 within 7 days prior to start of first dose.
+* Platelet count \>= 100,000/mm\^3 within 7 days prior to start of first dose.
+* Total bilirubin =\< 1.5 times the upper limit of normal (ULN) within 7 days prior to start of first dose.
+* Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) =\< 2.5 x ULN (=\< 5 x ULN for patients \[pts\] with \[w/\] liver involvement) within 7 days prior to start of first dose.
+* International normalized ratio (INR) =\< 1.5 and partial thromboplastin time (PTT) within (w/in) normal limits within 7 days prior to start of first dose.
+* Serum creatinine =\< 1.5 ULN or creatinine clearance (CrCl) \>= 45 mL/min for patients (pts) w/ creatinine levels above institutional normal within 7 days prior to start of first dose.
+* Amylase \& lipase \< 1.5 x the ULN within 7 days prior to start of first dose.
+* Urinalysis (UA) must show less than 1+ protein in urine, or the pt will require a repeat UA. If repeat UA shows 1+ protein or more, a 24 hour u

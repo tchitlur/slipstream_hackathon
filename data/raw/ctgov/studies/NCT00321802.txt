@@ -1,0 +1,22 @@
+Title: Paroxysmal Atrial Fibrillation: Role of Inflammation, Oxidative Stress Injury and Effect of Statins
+Official title: Paroxysmal Atrial Fibrillation: Role of Inflammation, Oxidative Stress Injury and Effect of Statins
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Atrial Fibrillation
+Interventions: Simvastatin (DRUG); Placebo (DRUG)
+Summary: The purpose of this study is to determine the effect of statin therapy for prevention of atrial fibrillation (AF) in pacemaker and non-pacemaker patients with paroxysmal atrial fibrillation in the absence of significant coronary artery disease.
+Eligibility: Inclusion Criteria:
+
+* Patients with paroxysmal AF (\> 3 epis each \> 15 min in length) over 6 months
+* Patients on stable antiarrhythmic drug therapy and life expectancy \> 1 year
+
+Exclusion Criteria:
+
+* Patients with PAF due to reversible cause
+* Chronic inflammatory conditions
+* Other medical conditions requiring statin therapy
+* Patients on amiodarone or verapamil
+* Elevated CK or ALT
+* Life expectancy \<1 year
+* TAVN ablation
+* Geographic isolation
+* Inability to give informed consent

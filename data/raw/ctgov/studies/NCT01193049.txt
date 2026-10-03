@@ -1,0 +1,20 @@
+Title: A Study on the Effects of a Single Dose of Prednisone on Biomarkers of Allergen Responses in Asthmatics (MK-0000-175)
+Official title: A Two-Part, Randomized Clinical Trial to Study the Effects of a Single Dose of Prednisone on Biomarkers of Allergen Responses in Asthmatics
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Asthma
+Interventions: Prednisone (DRUG); Placebo (DRUG)
+Summary: The purpose of this study is to evaluate the relationship between upper and lower airway allergen-induced cytokine responses in mild asthmatics by attempting to demonstrate the following: 1) a positive correlation between allergen-induced Type 2 T-helper cell (Th2) cytokines (interleukins 5 and 13) in sputum and nasal exudates; and 2) a positive correlation between effects of prednisone versus placebo on Th2 cytokines in sputum and nasal exudates.
+Eligibility: Inclusion Criteria:
+
+* Has a clinical history of mild to moderate asthma for at least 6 months, but otherwise is in good health
+* Participant with allergic rhinitis and asthma has a history of nonseasonal airway symptoms in response to aeroallergens OR has seasonal symptoms but can be evaluated out-of-season
+* Is clinically stable and free of respiratory infection or change in allergen exposure for at least 4 weeks prior to start of study
+
+Exclusion Criteria:
+
+* Has intolerance to the study drug, inhaled salbutamol, antihistamines, or any other potential asthma/anaphylaxis rescue medication
+* Has intolerance to lidocaine/lignocaine, sedatives, atropine or glycopyrrolate, or any other medication associated with bronchoscopy
+* Has taken oral parenteral corticosteroids within 8 weeks or inhaled corticosteroids/nasal corticosteroids within 5 weeks of screening and/or during the study
+* Has recent (4 weeks) or ongoing upper or lower respiratory tract infection
+* Has active allergic rhinitis at screening
+* Has received a vaccination within 3 weeks of screening

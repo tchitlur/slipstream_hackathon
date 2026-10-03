@@ -1,0 +1,21 @@
+Title: Cardiovascular Risk Markers and Response to Statins After Kawasaki Disease
+Official title: Cardiovascular Risk Markers Before and After Therapy With Statins in Patients With History of Kawasaki Disease
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Kawasaki Disease
+Interventions: pravastatin (DRUG)
+Summary: The purpose of this study is to determine whether Chilean children with history of Kawasaki disease have endothelial dysfunction years after the acute phase of the disease, and if this condition can be modified by treatment with statins.
+Eligibility: Inclusion Criteria:
+
+* History of Kawasaki disease more than 12 months before enrollment
+* Present age of 8 years or older
+
+Exclusion Criteria:
+
+* Diabetes mellitus
+* Not controlled hypertension
+* Treatment with drugs thay modify endothelial function such as angiotensin converting enzyme inhibitors, angiotensin II receptor antagonists, and calcium channel blockers
+* Smokers of more than 5 cigarettes per day
+* Total cholesterol higher than 250 mg/dl
+* Triglycerides higher than 300mg/dl
+* Chronic treatment with statins
+* Chronic renal insufficiency (creatinine \> 1.5 mg/dl)

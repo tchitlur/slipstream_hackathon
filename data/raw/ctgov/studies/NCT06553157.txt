@@ -1,0 +1,16 @@
+Title: Statins Effect on Incidence of Side Effects of Platinum Based Chemotherapy
+Official title: Evaluation of the Effect of Statins on the Incidence of Side Effects of Platinum Based Chemotherapy in Patients With Solid Tumors
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Solid Tumors; Ototoxicity
+Interventions: Statin (DRUG)
+Summary: Platinum based chemotherapy (mainly Cisplatin) is known to cause a variety of adverse effects, including Ototoxicity and nephrotoxicity. Ototoxicity is estimated to affect about 36% of adult patients treated with cisplatin, many therapeutic interventions have been studied to reduce the risk of developing ototoxicity from Cisplatin treatment, Statins have been studied in animals and have shown promising results, this study is aimed to explore the effect of statins on the incidence of ototoxicity in humans.
+Eligibility: Inclusion Criteria:
+
+* Patients will receive platinum based chemotherapy.
+* Eastern Cooperative Oncology Group (ECOG) performance status from 0 to 2.
+
+Exclusion Criteria:
+
+* Pregnant or lactating women.
+* Patients receiving vitamin/ supplementation drugs that interfere with the study intervention.
+* Patients with contraindications to statins including acute liver failure or decompensated cirrhosis.

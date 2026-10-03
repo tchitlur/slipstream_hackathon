@@ -1,0 +1,17 @@
+Title: Pharmacogenetics of Ketamine in Children
+Official title: Pharmacogenetics of Ketamine in Children Presenting Emesis and Recovery Agitation During Procedural Analgesia and Sedation Outside of the Operating Room
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Procedural Pain
+Interventions: none
+Summary: The need to treat the children with painful diagnostic-therapeutic procedures has increased in the last years. There is evidence from a wide scientific literature that drugs available in the setting of procedural sedation and analgesia such as midazolam, fentanyl, nitrous oxide, ketamine and propofol are absolutely safe without a significant incidence of adverse effects, if administered by anaesthesiologists and also trained pediatricians outside the operating room. Ketamine is a non-competitive N-methyl-D-aspartate (NMDA) receptor antagonist that blocks glutamate excitatory effects. Ketamine's molecular mechanism is not restricted to the NMDA receptor. Several studies indicate interactions with a series of receptor systems, including opioid, cholinergic and dopaminergic receptors. Ketamine is a safe and effective drug during procedural analgesia and sedation applied to children outside the operating room. A recent multicenter study, showed that ketamine, without being associated with other analgesic or sedative drugs, is the drug regimen with the lowest risk of adverse effects during this procedures. Even though being safe, ketamine may cause some adverse effects. When ketamine is
+Eligibility: Inclusion Criteria:
+
+1. Any child between 1 and 17 years of age needing sedation and analgesia for painful procedures, such as suture laceration, fracture reductions, burn medications, bone marrow aspiration, lumbar puncture, arthrocentesis, colonoscopy and others.
+2. Use of intravenous ketamine as the sole sedative agent for the procedure.
+
+Exclusion Criteria:
+
+1. Children needing drugs other that ketamine for sedation, such as fentanyl, propofol, midazolam and dexmedetomidine .
+2. Children with intellectual disability or with non typical neurodevelopment, such as children with autism.
+3. Children with a history of allergy or hypersensibility to ketamine.
+4. Parents limitations in language and understanding informed consent forms and procedures.

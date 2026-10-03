@@ -1,0 +1,18 @@
+Title: STD Risk Reduction for Heterosexual Methamphetamine Users
+Official title: Reducing HIV/STD Risk, Methamphetamine Use, and Depression Among Heterosexuals
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Substance-Related Disorders; HIV Infections; Sexually Transmitted Diseases
+Interventions: Tri-focal cognitive behavioral therapy - social skills training (CBTSS) counseling program (BEHAVIORAL); Standard care (BEHAVIORAL)
+Summary: This study will evaluate the effectiveness of a sexual risk reduction intervention in reducing sexual risk behavior in HIV uninfected, heterosexual people who use methamphetamine.
+Eligibility: Inclusion Criteria:
+
+* HIV uninfected
+* Use of methamphetamine via snorting or smoking at least once a month for the 2 months prior to study entry
+* Heterosexual
+* History of unprotected sex within 2 months prior to study entry
+
+Exclusion Criteria:
+
+* Current diagnosis of a major psychiatric disorder with psychotic or suicidal symptoms
+* History of consistent use of condoms or dental dams for oral, vaginal, or anal sex with all partners within 2 months prior to study entry
+* Currently trying to get pregnant or get a partner pregnant

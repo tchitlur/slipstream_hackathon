@@ -1,0 +1,17 @@
+Title: A Study Evaluating the Efficacy and Safety of Adjuvant Giredestrant Compared With Physician's Choice of Adjuvant Endocrine Monotherapy in Participants With Estrogen Receptor-Positive, HER2-Negative Early Breast Cancer (lidERA Breast Cancer)
+Official title: A Phase III, Randomized, Open-Label, Multicenter Study Evaluating the Efficacy and Safety of Adjuvant Giredestrant Compared With Physician's Choice of Adjuvant Endocrine Monotherapy in Patients With Estrogen Receptor-Positive, HER2-Negative Early Breast Cancer
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Early Breast Cancer
+Interventions: Giredestrant (DRUG); Physician's Choice of Endocrine Therapy (DRUG); LHRH Agonist (DRUG)
+Summary: This is a Phase III, global, randomized, open-label, multicenter, study evaluating the efficacy and safety of adjuvant giredestrant compared with physician's choice of endocrine therapy in participants with medium- and high-risk Stage I-III histologically confirmed estrogen receptor (ER)-positive and human epidermal growth factor receptor 2 (HER2)-negative early breast cancer.
+Eligibility: Inclusion Criteria:
+
+* Documented estrogen receptor (ER)-positive and HER2-negative breast tumor, as assessed locally on a primary disease specimen
+* Participants who have multicentric (the presence of two of more tumor foci within different quadrants of the same breast) and/or multifocal (the presence of two or more tumor foci within a single quadrant of the breast) breast cancer are also eligible if all examined tumors meet pathologic criteria for ER positivity and HER2 negativity
+* Participants must have undergone definitive surgery of their primary breast tumor(s) and axillary lymph nodes (axillary lymph node dissection \[ALND\] and/or sentinel lymph node biopsy \[SLNB\])
+* Participants who received or will be receiving adjuvant chemotherapy must have completed adjuvant chemotherapy prior to randomization. Participants may also have received neoadjuvant chemotherapy. A washout period of at least 21 days is required between last adjuvant chemotherapy dose and randomization.
+* Resolution of all acute toxic effects of prior anti-cancer therapy or surgical procedures to NCI CTCAE v5.0 Grade 1 or better (except alopecia, Grade ≤2 peripheral neuropathy, arthralgia or other toxicities not considered a safety risk for the participant per the investigator's judgment)
+* Participants have received (neo)adjuvant chemotherapy and/or had surgery and had no prior endocrine therapy are eligible, provided that they are enrolled within 12 months following definitive breast cancer surgery
+* Participants who have confirmed availability of an untreated primary breast tumor tissue specimen suitable for biomarker testing (i.e., representative archived formalin-fixed, paraffin-embedded \[FFPE\] tissue block \[preferred\] or 15-20 slides containing unstained, freshly cut, serial sections), with associated de-identified pathology report is required. Although 15-20 slides are preferred, if only 10-14 slides are available, the individual may still be eligible for the study.
+* Participants with node-positive and node-negative disease are eligible provided they meet additional risk criteria as defined in the protocol
+* Eastern Cooperative Oncology Group (ECOG) Performance Status 0, 1, or

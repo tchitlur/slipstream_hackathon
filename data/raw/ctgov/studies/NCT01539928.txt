@@ -1,0 +1,16 @@
+Title: Dual PET/CT Imaging in Lung Cancer
+Official title: Dual PET/CT Imaging in Lung Cancer (Danish Title: En og Tre Timers FDG-PET/CT Ved Lungecancer)
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Lung Cancer
+Interventions: Dual FDG-PET/CT (OTHER)
+Summary: The purpose of this study is to compare conventional PET/CT scan performed 1 hour after injection of the radioactive tracer FDG (PET/CT\[1\]) with PET/CT performed after 3 hours (PET/CT\[3\]) in a group of patients with biopsy verified lung cancer or high suspicion of lung cancer after initial work-up (chest x-ray and CT of thorax/upper abdomen), who are potentially operable.
+Eligibility: Inclusion Criteria:
+
+* Cytologic/histologic-verified lung cancer or high suspicion of lung cancer after initial work up
+* Candidate to curative intended surgery after initial work up (usually chest x-ray, CT of chest/upper abdomen and if needed spirometry).
+
+Exclusion Criteria:
+
+* Former lung cancer
+* Contraindications for PET/CT: Pregnancy, recent chemoradiotherapy
+* Diabetes mellitus.

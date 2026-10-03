@@ -1,0 +1,13 @@
+Title: The Effects of an NR2B NMDA Antagonist, CP-101,606, in Patients With Parkinson's Disease
+Official title: A Randomized, Double-Blind, Placebo-Controlled, Crossover Study To Explore The Efficacy And Safety Of The NR2B NMDA Antagonist CP-101,606 In Patients With Idiopathic Parkinson's Disease
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Parkinson's Disease
+Interventions: NR2B NMDA Antagonist CP-101,606 (traxoprodil) (DRUG)
+Summary: To determine the effects of the NMDA antagonist, CP-101,606, in subjects with Parkinson's Disease
+Eligibility: Inclusion Criteria:
+
+* 30- 80-year-old PD patients (UK Parkinson's Disease Brain Bank criteria) with a Hoehn \& Yahr stage score of 2-5 in the "off" state.
+
+Exclusion Criteria:
+
+* Subjects with evidence or history of clinically significant hematological, renal, endocrine, pulmonary, gastrointestinal, cardiovascular, hepatic, psychiatric, neurologic, or allergic disease (including drug allergies, but excluding untreated, asymptomatic, seasonal allergies at time of dosing).

@@ -1,0 +1,30 @@
+Title: Phase 2 Trial of Adagrasib Monotherapy and in Combination With Pembrolizumab and a Phase 3 Trial of Adagrasib in Combination in Patients With a KRAS G12C Mutation KRYSTAL-7
+Official title: A Phase 2 Trial of Adagrasib Monotherapy and in Combination With Pembrolizumab and a Phase 3 Trial of Adagrasib in Combination With Pembrolizumab Versus Pembrolizumab in Patients With Advanced Non-Small Cell Lung Cancer With KRAS G12C Mutation
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: Advanced Non-Small Cell Lung Cancer; Metastatic Non-Small Cell Lung Cancer
+Interventions: Adagrasib (DRUG); Adagrasib (DRUG); Adagrasib (DRUG); Adagrasib (DRUG); Pembrolizumab (DRUG)
+Summary: The Phase 2 portion of this study evaluates the efficacy and safety of MRTX849 monotherapy and in combination with pembrolizumab in cohorts of patients with advanced NSCLC with KRAS G12C mutation and any PD-L1 TPS and who are candidates for first-line treatment.
+
+The Phase 3 portion of the study compares the efficacy of adagrasib in combination with pembrolizumab versus pembrolizumab in patients with unresectable, locally advanced or metastatic squamous or nonsquamous NSCLC with KRAS G12C mutation and PD-L1 TPS \>=50% and who are candidates for first line treatment.
+Eligibility: Inclusion Criteria:
+
+* Phase 2: Histologically confirmed diagnosis of unresectable or metastatic NSCLC with KRAS G12C mutation and any PD-L1 TPS
+* Phase 3: Histologically confirmed diagnosis of unresectable or metastatic squamous or nonsquamous NSCLC with KRAS G12C mutation and PD-L1 TPS\>=50%
+* Phase 3: Presence of measurable disease per RECIST1.1
+* Phase 3: CNS Inclusion - Based on screening brain imaging, patients must have one of the following:
+
+  1. No evidence of brain metastases
+  2. Untreated brain metastases not needing immediate local therapy
+  3. Previously treated brain metastases not needing immediate local therapy
+
+Exclusion Criteria:
+
+* Phase 2 and Phase 3: Prior systemic treatment for locally advanced or metastatic NSCLC including chemotherapy, immune checkpoint inhibitor therapy, or a therapy targeting KRAS G12C mutation (e.g., AMG 510).
+* Phase 2: Active brain metastases
+* Phase 3: Patients with known central nervous system (CNS) lesions must not have any of the following:
+
+  1. Any untreated brain lesions \> 2.0 cm in size
+  2. Any brainstem lesions
+  3. Ongoing use of systemic corticosteroids for control of symptoms of brain lesions at a total daily dose of \> 10 mg of prednisone (or equivalent) prior to randomization.
+  4. Have poorly controlled (\> 1/week) generalized or complex partial seizures, or manifest neurologic progression due to brain lesions notwithstanding CNS-directed therapy
+* Phase 3: Radiation to the lung \> 30 Gy within 6 months prior to the first dose of study treatment

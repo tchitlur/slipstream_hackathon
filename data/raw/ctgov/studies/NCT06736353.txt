@@ -1,0 +1,86 @@
+Title: Effect of Classic Secondary Prevention in Type 2 MI: A Target Trial Emulation Study
+Official title: Effect of Classic Secondary Prevention in Type 2 MI: A Target Trial Emulation Study
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Myocardial Infarction Type 2
+Interventions: Beta Blocker Therapy or No Therapy (Control) (DRUG); RAAS blocker Therapy or No therapy (Control) (DRUG); Statin Therapy or No Therapy (Control) (DRUG); Single Antiplatelet Therapy or No Therapy (Control) (DRUG); Dual Antiplatelet Therapy or No Therapy (Control) (DRUG)
+Summary: A classic heart attack is caused by a blockage to the coronary arteries that supplies the heart muscle with oxygenated blood. The medical term for this condition is type 1 myocardial infarction. There is strong scientific evidence that the usage of pharmacological drugs such as statins, beta blockers, Renin-Angiotensin-Aldosterone System blockers and platelet inhibitors after a type 1 myocardial infarction improves survival and reduces the risk for new myocardial infarctions. However, a myocardial infarction may also occur without blockage to the coronary arteries when other acute conditions causes either a decreased supply or an increased demand of oxygenated blood to the heart. The medical term for the latter is type 2 myocardial infarction. There are currently no scientific evidence that any pharmacological drug improves survival in patients with a type 2 myocardial infarction, of whom only one in three patients are alive after five years.
+
+The aim of this study is to investigate if those drugs that improves the prognosis after a type 1 myocardial infarction (Beta blockers, Renin-Angiotensin-Aldosterone System blockers, Statins and platelet inhibitors) also affects the prognosis
+Eligibility: Beta blocker target trial emulation:
+
+Inclusion Criteria:
+
+* Reported as Type 2 MI in SWEDEHEART
+* Age \>18 years
+* Alive at time zero (hospital discharge)
+
+Exclusion Criteria:
+
+* Already on beta blocker
+* Heart failure with reduced ejection fraction
+* Hypertrophic obstructive cardiomyopathy
+* Systolic blood pressure \<90 mmHg
+* Heart rate \<50 bpm
+* Metastatic cancer (proxy for terminal disease)
+* History of dementia or substance abuse last 6 months (proxy for unable to adhere to treatment)
+* Missing data for any exclusion criteria
+
+RAAS blocker target trial emulation:
+
+Inclusion Criteria:
+
+* Reported as Type 2 MI in SWEDEHEART
+* Age \>18 years
+* Alive at time zero (hospital discharge)
+
+Exclusion Criteria:
+
+* Already on RAAS blocker
+* Heart failure with reduced ejection fraction
+* Combination of prior myocardial infarction and diabetes mellitus
+* Diabetic nephropathy,
+* Systolic blood pressure \<90 mmHg
+* Hyperkalemia
+* Acute renal failure
+* Pregnancy
+* Metastatic cancer (proxy for terminal disease)
+* History of dementia or substance abuse last 6 months (proxy for unable to adhere to treatment)
+* Missing data for any exclusion criteria
+
+Statin target trial emulation:
+
+Inclusion Criteria:
+
+* Reported as Type 2 MI in SWEDEHEART
+* Age \>18 years
+* Alive at time zero (hospital discharge)
+
+Exclusion Criteria:
+
+* Already on Statin
+* Revascularization during hospitalization
+* Obstructive coronary artery disease detected during hospitalization
+* History of myocardial infarction or coronary revascularization
+* History of stroke
+* History of peripheral artery disease
+* Familial hypercholesterolemia
+* Pregnancy
+* Acute or chronic liver failure
+* Metastatic cancer (proxy for terminal disease)
+* History of dementia or substance abuse last 6 months (proxy for unable to adhere to treatment)
+* Missing data for any exclusion criteria
+
+Single Antiplatelet Therapy target trial emulation:
+
+Inclusion Criteria:
+
+* Reported as Type 2 MI in SWEDEHEART
+* Age \>18 years
+* Alive at time zero (hospital discharge)
+
+Exclusion Criteria:
+
+* Already on antiplatelet therapy
+* Revascularization during hospitalization
+* Obstructive coronary artery disease detected during hospitalization
+* Indicat

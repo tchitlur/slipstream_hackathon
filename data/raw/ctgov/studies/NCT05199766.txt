@@ -1,0 +1,46 @@
+Title: Hemolysis Related Complications in SCD. A Phase II Study With Voxelotor
+Official title: HEMolyse and Organ Damage imPROvement in Sickle Cell Disease by VoxElotor. An Open-label One Stage Phase II Design
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Sickle Cell Disease
+Interventions: Voxelotor 1500 mg oral per day (GBT440) for 48 weeks in patients with sickle-cell disease (DRUG)
+Summary: Intro:
+
+Sickle cell disease is a genetic disorder caused by a mutation of the β hemoglobin called HbS, which causes red blood cell (RBC) abnormalities responsible for hemolysis, mainly intravascular, leading to chronic anemia. Intravascular hemolysis is responsible for severe inflammation and endothelial dysfunction.
+
+Maintaining hemoglobin in its oxygenated R-conformation is one of the strategies for inhibiting the polymerization of HbS. Previous experimental therapeutic approaches having this effect have been discontinued due to poor pharmaceutical properties or toxicity. Nevertheless, they proved the validity of the concept by demonstrating an increase in oxyhemoglobin and a decrease in biomarkers of hemolysis.
+
+Voxelotor binds to the α chain of globin and maintains Hb in its R conformation, thereby inhibiting the polymerization of HbS while increasing the affinity of Hb for oxygen.
+
+Because of its mechanism of action affecting anemia and hemolysis, Voxelotor is a promising treatment for the prevention and treatment of renal and cerebral arterial disease.
+
+Hypothesis/Objective :
+
+Investigator hypothesis is that the treatment by Voxelotor (GBT440) will improve intra vascular hemo
+Eligibility: Inclusion Criteria:
+
+* SS or S-β0 major sickle cell syndrome
+* Hemoglobin level \< 9 g/dL
+* Aged 18 years or older
+* Stable dose for at least 3 months if treated with HU, EPO, angiotensin-converting enzyme (ACE) or inhibitor/angiotensin receptor blocker (ARB) therapy; at least after 6 months after initiating HU treatment
+* Patient with social security
+* Female patient must have a negative serum pregnancy test (betaHCGat inclusion W0-V1D1) or evidence of post-menopausal status
+* Effective methods of birth control (e.g., condom, spermicidal gel, oral contraceptive, indwelling intrauterine device, hormonal implant/patch, injections, approved cervical ring) or abstinence from screening through 4 weeks after last Voxelotor dose.
+
+Exclusion Criteria:
+
+-If patient does not have any of the following treatments (HU, Crizanlizumab) he will then be excluded if: Patient meets, at screening, Hydroxyurea/ Crizanlizumab indications of treatment (recurrent painful vaso-occlusive crises, including acute chest syndrome), even if these treatments are inappropriate (e.g. hematologic toxicity antecedent) or if the patient refuses these treatments
+
+* Patients in chronic transfusion program or transfused \< 3 months before enrolment
+* Patient with severe organ involvement: hepatic (TP \<50%), renal (eGFR\<30 ml / ml/1.73m2 according to CKD/EPI or cardiac (LVEF \<45%)
+* Transplant patients.
+* Pregnancy.
+* Breast feeding patients
+* Homeless patient
+* Patient deprived of liberty by judicial or administrative decision or patient under guardianship
+* Patient unable to understand the purpose and conditions of the study and unable to give consent
+* Chronic use of NSAIDs (more than 10 days by month)
+* Auto immune disease or infection not controlled or cancer
+* VIH, HBV, HCV current infection
+* Prior drug hypersensitivity to Voxelotor or excipients
+* Known allergy or hypersensitivity to imaging contrast product
+* Ongoing therapeutic study

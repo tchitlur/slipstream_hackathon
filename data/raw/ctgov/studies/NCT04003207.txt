@@ -1,0 +1,25 @@
+Title: Growth Hormone Treatment in Children With Phelan McDermid Syndrome
+Official title: An Open Label Trial of Growth Hormone in Children and Adolescents With Phelan-McDermid Syndrome Targeting Social Withdrawal
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Phelan McDermid Syndrome
+Interventions: Recombinant human Growth hormone (DRUG)
+Summary: Phelan McDermid syndrome (PMS) is a rare genetic form of autism spectrum disorder (ASD) due to deletions or mutations in the SHANK3 gene. This is a pilot open labeled trial of growth hormone therapy in children with PMS targeting social withdrawal and repetitive behavior. This research study will include children with PMS between 2-12 years of age who will receive growth hormone daily for 12 weeks, if found to be eligible. The aim of this study is to evaluate the effect of growth hormone on behavioral outcomes such as the aberrant behavior checklist social withdrawal subscale (ABC-SW) and repetitive behavior scale- revised (RBS-R). The effects of growth hormone on visual evoked potentials will also be assessed. Growth hormone increases insulin like growth factor 1 (IGF-1) levels and a previous trial of IGF-1 therapy in PMS children showed improvement in these behavioral scales. Growth hormone has been studied for decades with an excellent safety profile and fewer adverse effects compared to IGF-1 therapy in other conditions. Hence, this may be a viable therapeutic option. There is no treatment currently available for PMS and this trial is therefore extremely important.
+Eligibility: Inclusion Criteria:
+
+* Known pathogenic deletions or mutations in SHANK3 gene diagnosed by array CGH and/or direct sequencing.
+* Children between 2 and 12 years of age.
+* Open epiphyses on bone age x ray
+
+Exclusion Criteria:
+
+* closed epiphyses;
+* active or suspected neoplasia;
+* intracranial hypertension;
+* hepatic insufficiency;
+* renal insufficiency;
+* cardiomegaly/valvulopathy;
+* history of allergy to growth hormone or any component of the formulation (mecasermin);
+* history of extreme prematurity (\<1000 grams) with associated early neo-natal complications, e.g. intra-cerebral
+* hemorrhage, prolonged hypoxia, prolonged hypoglycemia;
+* patients with comorbid conditions who are deemed too medically compromised to tolerate the risk of experimental treatment with growth hormone.
+* Patient with visual problems that preclude the use of VEP's

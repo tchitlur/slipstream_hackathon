@@ -1,0 +1,13 @@
+Title: Long-Term Follow-Up Study for RB001 Gene Therapy Study in Children With SHANK3-related Phelan McDermid Syndrome (PMS)
+Official title: A Long-term Follow-up Study of an Open-label, Single-arm, Single-dose Escalation Clinical Study to Evaluate the Safety, Tolerability, and Preliminary Efficacy of Intracerebroventricular Injection of RB001 in Participants With SHANK3-related Phelan-McDermid Syndrome.
+Status: ENROLLING_BY_INVITATION. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: SHANK3 Haploinsufficiency; Phelan-McDermid Syndrome
+Interventions: RB001 (BIOLOGICAL)
+Summary: This is a long-term follow-up study of participants in the RB001-101 gene replacement therapy clinical trial for Children With SHANK3-related Phelan-McDermid Syndrome (PMS). Participants will roll over from the parent study into this long-term study for continuous safety monitoring and preliminary efficacy assessment for up to 5 years.
+Eligibility: Inclusion Criteria:
+
+* Patients with SHANK3-related Phelan-McDermid Syndrome who have completed the last follow-up visit (Week 52 post-dosing) in the RB001-101 study.
+
+Exclusion Criteria:
+
+* Some conditions deemed unsuitable for participation in this study by the investigator

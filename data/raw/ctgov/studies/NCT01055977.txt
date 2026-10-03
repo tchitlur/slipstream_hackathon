@@ -1,0 +1,16 @@
+Title: Statin Therapy Results in the Real World Practice in the Czech Republic
+Official title: Statin Therapy Results in the Real World Practice in the Czech Republic
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Dyslipidaemia
+Interventions: none
+Summary: Statins are the first choice treatment of dyslipidemia, a major contributor to cardiovascular diseases. Statins also have enough evidence to demonstrate decrease of morbidity and mortality from cardiovascular diseases. Even though statin therapy is effective treatment of dyslipidaemia not all patients reach the goal levels.
+
+The aim of the study is to estimate proportion of patients who achieved the therapeutic goal (LDL-C. total cholesterol, HDL-C and triglycerides levels) after at least one year of a statin therapy.
+Eligibility: Inclusion Criteria:
+
+* Documented statin therapy for at least 12 months
+* Available two LDL-C values: one at the beginning of statin therapy or at the time when patient comes to a specialist; and the other one at least after 12 months of treatment. The latter value should not be older than 6 months.
+
+Exclusion Criteria:
+
+\-

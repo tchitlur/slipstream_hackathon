@@ -1,0 +1,38 @@
+Title: An Open-Label Study of the Safety, Tolerability, and Pharmacokinetics of Oral NNZ-2591 in Angelman Syndrome
+Official title: An Open-Label Study of the Safety, Tolerability, and Pharmacokinetics of Oral NNZ-2591 in Angelman Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Angelman Syndrome
+Interventions: NNZ-2591 (DRUG)
+Summary: A study of the safety, tolerability and pharmacokinetics of NNZ-2591 and measures of efficacy in children and adolescents with Angelman syndrome
+Eligibility: Inclusion Criteria:
+
+1. Clinical diagnosis of AS with a documented disease-causing genetic etiology known to impact maternally derived UBE3A expression in brain.
+2. Males or females aged 3-17 years
+3. Body Weight of \>12Kg
+4. Subjects with a Clinical Global Impression - Severity (CGI-S) score of 3 or greater
+5. Not actively undergoing regression or loss of skills, defined as no persistent loss of previously acquired developmental skills for a period within 3 months of the Screening visit
+6. Each subject must be able to swallow the study medication provided as a liquid solution.
+7. Caregiver(s) must have sufficient English language skills.
+
+Exclusion Criteria:
+
+1. Mosaicism for disease-causing mutation.
+2. Clinically Significant abnormalities in safety laboratory testing or vital signs at screening
+3. Abnormal QTcF interval or prolongation at Screening.
+4. Positive for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and previous COVID 19 infection with last 12 months that required hospitalization.
+5. Unstable or changes to Psychotropic treatment 2 weeks prior to screening .
+6. Excluded concomitant treatments
+7. Actively undergoing regression or loss of skills.
+8. Unstable seizure profile.
+9. Current clinically significant renal conditions and abnormalities
+10. Current clinically significant cardiovascular, hepatic, gastrointestinal, respiratory, endocrine disease, or clinically significant organ impairment.
+11. Current clinically significant hypo or hyperthyroidism, Type 1 or Type 2 diabetes mellitus requiring insulin (whether well controlled or uncontrolled), or uncontrolled Type 1 or Type 2 diabetes.
+12. Has planned surgery during the study.
+13. History of, or current, cerebrovascular disease or brain trauma.
+14. History of, or current catatonia or catatonia-like symptoms.
+15. History of, or current, malignancy.
+16. Current major or persistent depressive disorder (including bipolar depression).
+17. Significant, uncorrected visual or uncorrected hearing impairment.
+18. Allergy to strawberry.
+19. Positive pregnancy test
+20. Subject is judged by the Investigator or Medical Monitor to be inappropriate for the study

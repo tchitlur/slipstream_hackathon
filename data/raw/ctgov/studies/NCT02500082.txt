@@ -1,0 +1,14 @@
+Title: Triheptanoin (UX007) to Treat Citrate Transporter Deficiency
+Official title: Compassionate Use of Triheptanoin (UX007) to Treat Citrate Transporter Deficiency
+Status: NO_LONGER_AVAILABLE. Type: EXPANDED_ACCESS. Phases: none.
+Conditions: Citrate Transporter Deficiency; SLC13A5 Gene Mutation
+Interventions: triheptanoin (DRUG)
+Summary: The purpose of this study is to determine whether triheptanoin (UX007) is effective in the treatment of neurological symptoms related to citrate transporter deficiency (SLC13A5 gene mutation).
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of citrate transporter deficiency due to mutations in the SLC13A5 gene.
+* Presentation with severe global developmental delay and seizures.
+
+Exclusion Criteria:
+
+* Valproate is an AED that partially inhibits the TCA cycle via alpha-ketoglutarate dehydrogenase and should not be administered to subjects taking UX007.

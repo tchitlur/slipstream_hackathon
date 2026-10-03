@@ -1,0 +1,28 @@
+Title: First-line Treatment of Participants With Stage IV Squamous Non-Small Cell Lung Cancer With Necitumumab and Gemcitabine-Cisplatin
+Official title: A Randomized, Multicenter, Open-Label Phase 3 Study of Gemcitabine-Cisplatin Chemotherapy Plus Necitumumab (IMC-11F8) Versus Gemcitabine-Cisplatin Chemotherapy Alone in the First-Line Treatment of Patients With Stage IV Squamous Non-Small Cell Lung Cancer (NSCLC)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Non Small Cell Lung Cancer
+Interventions: Necitumumab (BIOLOGICAL); Gemcitabine (DRUG); Cisplatin (DRUG)
+Summary: The research study is testing the investigational drug necitumumab (IMC-11F8) in the treatment of advanced non-small cell lung cancer. The aim of this study is to determine if necitumumab, given together with a standard chemotherapy combination consisting of cisplatin and gemcitabine will be more effective in improving participant disease than the standard chemotherapy combination alone.
+Eligibility: Inclusion Criteria:
+
+* Has histologically or cytologically confirmed squamous NSCLC
+* Has Stage IV disease at the time of study entry
+* Measurable or nonmeasurable disease at the time of study entry as defined by the Response Evaluation Criteria in Solid Tumors (RECIST 1.0) (participants with only truly nonmeasurable disease are not eligible)
+* Has resolution to Grade ≤ 1 of all clinically significant toxic effects of prior chemotherapy, surgery, radiotherapy, or hormonal therapy (with the exception of alopecia)
+* Has adequate hepatic function
+* Has adequate renal function
+* Has adequate hematologic function
+* If female, is surgically sterile, postmenopausal, or compliant with a highly effective contraceptive method (failure rate \< 1%) during and for 6 months after the treatment period (oral hormonal contraception alone is not considered highly effective and must be used in combination with a barrier method)
+* If male, the participant is surgically sterile or compliant with a highly effective contraceptive regimen during and for 6 months after the treatment period
+* Female participants of childbearing potential must have a negative serum pregnancy test within 7 days prior to randomization
+* Has archived tumor tissue available for analysis of EGFR and KRAS mutation status (by PCR) and EGFR gene copy number (by FISH); minimum of four slides, paraffin-embedded tissue, required
+
+Exclusion Criteria:
+
+* Has nonsquamous NSCLC (adenocarcinoma/large cell or other)
+* Has received prior anticancer therapy with monoclonal antibodies, signal transduction inhibitors, or any therapies targeting the EGFR, vascular endothelial growth factor (VEGF), or VEGF receptor
+* Has received previous chemotherapy for advanced NSCLC (participants who have received adjuvant chemotherapy are eligible if the last administration of the prior adjuvant regimen occurred at least 1 year prior to randomization)
+* Has undergone major surgery or received any investigational therapy in the 4 weeks prior to randomization
+* Has undergone chest irradiation within 12 weeks prior to randomization (except palliative irradiation of bone lesions, which is allowed)
+* Has brain metastases that are symptomatic or

@@ -1,0 +1,13 @@
+Title: Effectiveness of Recombinant Human Growth Hormone Therapy for Children With PMS
+Official title: Effectiveness of Recombinant Human Growth Hormone Therapy for Children With Phelan-McDermid Syndrome: An Open-label, Cross-over, Preliminary Study
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Phelan-McDermid Syndrome; Growth Hormone Treatment
+Interventions: recombinant human growth hormone (DRUG); Saline (DRUG)
+Summary: In summary, this piot study with 6 participants shown that recombinant human growth hormone (rhGH) has a positive effect on the treatment with PMS. In addition, This study indicated that rhGH can improve PMS symptoms via increase the level of serum insulin-like growth factor-1 (IGF-1) and insulin-like growth factor binding protein 3 (IGFBP-3). RhGH may be low cost, more accessible, alternative treatment for PMS.
+Eligibility: Inclusion Criteria:
+
+* Patients diagnosed with PMS aged from 1years to 5 years
+
+Exclusion Criteria:
+
+\- active or suspected tumour, intracranial hypertension, chronic kidney disease, acute proliferative or severe nonproliferative diabetic retinopathy, allergy to rhGH or severe comorbidity

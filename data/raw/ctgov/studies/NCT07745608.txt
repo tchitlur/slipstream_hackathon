@@ -1,0 +1,21 @@
+Title: Occupational Therapy Approach in ARX-Related Epilepsy
+Official title: Evidence-Based Ketogenic Diet Applications in Individuals With ARX Gene Mutation and Epilepsy: An Occupational Therapy Perspective
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Drug-Resistant Epilepsy; ARX-Related Epilepsy
+Interventions: Occupational Therapy (BEHAVIORAL); Medikal Ketogenic Diet Therapy (OTHER)
+Summary: This study evaluated the effects of medical ketogenic diet therapy combined with occupational therapy in children with ARX-related epilepsy. Twenty children were included. Ten children receiving a ketogenic diet formed the experimental group, and ten children not receiving a ketogenic diet formed the control group. Both groups received occupational therapy for 16 weeks. Assessments were performed at baseline, week 8, and week 16. Seizure frequency, motor performance, balance, sensory processing, chewing performance, eating behaviors, and health-related quality of life were evaluated.
+Eligibility: Inclusion Criteria:
+
+* Age between 4 and 7 years.
+* Genetically confirmed ARX gene mutation.
+* Diagnosis of drug-resistant epilepsy.
+* For the experimental group, initiation of or planned initiation of classical ketogenic diet therapy as part of routine clinical care.
+* For the control group, continuation of standard neurological treatment and usual diet without ketogenic diet therapy.
+* Eligibility for the target age ranges of the assessment tools used in the study.
+* Written informed consent provided by a parent or legal caregiver.
+
+Exclusion Criteria:
+
+* Presence of an additional neurological or genetic disorder, other than ARX mutation and epilepsy, that could affect ketogenic diet implementation or assessment outcomes.
+* Presence of a severe orthopedic or systemic medical condition that could prevent completion of follow-up and assessments.
+* Severe communicative or cognitive limitations that could prevent valid and reliable administration of the assessment tools.

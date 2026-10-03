@@ -1,0 +1,17 @@
+Title: A Study of Rivaroxaban (JNJ-39039039) on the Venous Thromboembolic Risk in Post-Hospital Discharge Patients
+Official title: Medically Ill Patient Assessment of Rivaroxaban Versus Placebo in Reducing Post-Discharge Venous Thrombo-Embolism Risk
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Heart Failure; Respiratory Insufficiency; Stroke Acute; Infectious Diseases; Rheumatic Diseases
+Interventions: Rivaroxaban, 10 mg (DRUG); Rivaroxaban, 7.5 mg (DRUG); Placebo (DRUG)
+Summary: The purpose of this study is to evaluate the efficacy and safety of rivaroxaban compared with placebo in the prevention of symptomatic venous thromboembolism (VTE) events and VTE-related death post-hospital discharge in high-risk, medically ill patients.
+Eligibility: Key Inclusion Criteria:
+
+* The duration of the index hospitalization must have been at least 3 and no more than 10 consecutive days
+* Must meet venous thromboembolism (VTE) risk criteria with a total modified Improve VTE Risk Score of: greater than or equal 4, or 3 with D-dimer \> 2\* upper limit of normal (ULN), or 2 with D-dimer \> 2\*ULN
+
+Key Exclusion Criteria:
+
+* Any serious bleeding within 3 months prior to randomization or occurring during index hospitalization
+* Serious trauma (including head trauma) within 4 weeks before randomization
+* History of hemorrhagic stroke at any time in the past
+* Any medical condition that requires chronic use of any parenteral or oral anticoagulation

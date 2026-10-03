@@ -1,0 +1,22 @@
+Title: The Effects of a Novel NMDA NR2B-Subtype Selective Antagonist, EVT 101, on Brain Function
+Official title: A Double Blind, Placebo Controlled Study to Investigate the Role of NMDA Receptor NR2B Subunit Selective Antagonism on Cognitive Functions and Neurophysiology in Healthy Subjects as Measured With MRI
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Human Volunteers
+Interventions: EVT 101 (DRUG); EVT 101 (DRUG); placebo (DRUG)
+Summary: The purpose of this study is to investigate the neurophysiological changes following single doses of EVT 101 using fMRI during rest and during cognitive tasks in young healthy male subjects.
+Eligibility: Inclusion Criteria:
+
+* Healthy Male volunteers
+* Body Mass Index between 19 and 29
+
+Exclusion Criteria:
+
+* Subjects who received any prescribed medication within 5 half lives or 14 days of the first dose administration whichever is the longer
+* Subjects who have received any prescribed CNS medication or any medication known to chronically alter drug absorption or elimination processes within 30 days of first dose administration
+* Participation in a clinical trial of an investigational drug within the past 4 months or of a marketed drug within the past 3 months
+* History of allergy to NMDA antagonists or other clinically significant drug allergy
+* Supine blood pressure and heart rate of higher than 140/90 mmHg and 90 bpm respectively or lower than 80/40 mmHg and 40 bpm
+* Consumption of more than 21 units of alcohol per week or history of alcoholism or drug/chemical abuse
+* Smokers of more than 5 cigarettes or equivalent per day
+* Subjects who cannot complete the neuropsychological test battery
+* Any clinically significant health deficit

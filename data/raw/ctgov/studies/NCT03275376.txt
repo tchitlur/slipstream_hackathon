@@ -1,0 +1,35 @@
+Title: Statin Combination Therapy in Patients Receiving Sorafenib for Advanced Hepatocellular Carcinoma
+Official title: Statin Combination Therapy in Patients Receiving Sorafenib for Advanced Hepatocellular Carcinoma: A Randomized Controlled Study
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Overall Survival; Tumor Responses
+Interventions: Atorvastatin 10mg (DRUG); Placebo Oral Tablet (DRUG)
+Summary: Target therapy with sorafenib is the standard of treatment for advanced Hepatocellular carcinoma (HCC), but the patient survival time is still unsatisfactory. The aims of this study are to prove statins improve the tumor responses and overall survival for patients who receive sorafenib therapy for advanced HCC by a prospective randomized controlled study.
+Eligibility: Inclusion Criteria:
+
+1. Patients more than 40 years old
+2. HCCs diagnosed by AASLD image criteria or pathology
+3. HCCs in BCLC advanced stage, with portal vein thrombosis (VP3 or VP4) or extrahepatic metastasis
+4. Not suitable or failed to locoreginal treatments for HCC
+5. Child-Pugh score = or \< 6
+6. ECOG performance status (PST) 0-2
+7. Serum bilirubin \< 2 mg/dL and prothrombin time (PT) prolongation \< 3 seconds
+8. Will receive sorafenib therapy
+9. Life expectancy \> 3 months
+10. Will follow the pregnancy prevention protocol
+
+Exclusion Criteria:
+
+1. HCC is considered for curative therapy
+2. HCC with brain metastasis
+3. History of systemic therapy for HCC
+4. Indications for statin use, such as hyperlipidemia in cardiovascular diseases
+5. Any local treatment for HCC within 4 weeks
+6. Any active gastrointestinal bleeding within 4 weeks
+7. Liver transplant history or concomitant immunosuppressive therapy
+8. Concurrent any other malignancy
+9. Allergy to sorafenib or statins
+10. Pregnancy or lactation
+11. Serum AST or ALT \> 5x upper limit of normal
+12. Known HIV infection
+13. eGFR \< 30 ml/min
+14. Abnormal medical conditions that are unsuitable for study, such as uncontrolled hypertension, coronary arterial disease, or arrhythmia

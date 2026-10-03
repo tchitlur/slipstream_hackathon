@@ -1,0 +1,40 @@
+Title: Phase 2 Study of Carfilzomib in Relapsed and Refractory Multiple Myeloma
+Official title: An Open-label, Single-arm, Phase 2 Study of Carfilzomib in Patients With Relapsed and Refractory Multiple Myeloma
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Multiple Myeloma
+Interventions: carfilzomib (DRUG); carfilzomib (DRUG)
+Summary: To evaluate the overall response rate and safety and tolerability of carfilzomib in subjects with relapsed and refractory multiple myeloma.
+
+Patients must have received prior treatment with bortezomib and either thalidomide or lenalidomide and be refractory to their last treatment.
+Eligibility: Inclusion Criteria:
+
+* Disease Related
+
+  * Multiple myeloma
+  * Subjects must have measurable disease defined as one of the following:
+
+    * Serum M-protein ≥ 1 g/dL
+    * Urine M-protein ≥ 200 mg/24 hours
+    * Serum FLC ≥ 10 mg/dL with abnormal ratio (A0 Only)
+    * Quantitative immunoglobulin levels using nephelometry or turbidometry (only if protein electrophoresis was felt to be unreliable for M-protein measurement) (A0 Only)
+  * Subjects must have been responsive (i.e., achieved an MR or better) to first-line, standard of care therapy
+  * Refractory to the most recently received therapy. Refractory disease is defined as ≤ 25% response or progression during therapy or within 60 days after completion of therapy.
+  * Subjects must have received ≥ 2 prior regimens for relapsed disease. Induction therapy and stem cell transplant will be considered as one regimen (A1 Only)
+  * Subjects must have received prior treatment with bortezomib, and either thalidomide or lenalidomide
+  * Subjects must have received an alkylating agent either alone or in combination with other myeloma treatments (history of stem cell transplant is acceptable) (A1 Only)
+  * Subjects must have received an anthracycline either alone or in combination with other myeloma treatments, unless not clinically indicated (A1 Only)
+* Demographic
+
+  * Males and females \> 18 years of age
+  * Life expectancy of more than three months
+  * Eastern Cooperative Oncology Group (ECOG) Performance Status of 0-2
+* Laboratory
+
+  * Adequate hepatic function, with bilirubin less than 2.0 times the upper limit of normal, and AST and ALT of less than 3.0 times the upper limit of normal
+  * Uric acid within normal range (A0 Only)
+  * Total white blood cell (WBC) count ≥ 2.0 × 109/L, absolute neutrophil count (ANC) ≥ 1.0 × 109/L, hemoglobin ≥ 8.0 g/dL, and platelet count ≥ 50.0 × 109/L (A0 Only)
+  * Absolute neutrophil count \> 1,000/mm3, hemoglobin \> 8.0 g/dL, and platelet count \> 50,000/mm3 (A1 Only)
+
+    * Subjects should be platelet transfusion independent
+    * Screening ANC should be independent of G-CSF or GM-CSF support for ≥ 1 week and of pegylated G-CSF for ≥ 2 weeks
+    * Subjects may receive red blood 

@@ -1,0 +1,22 @@
+Title: Immunogenicity and Safety of a Single Dose of mRNA SARS-CoV-2 Vaccine in Chinese Adults With Hybrid Immunity
+Official title: Immunogenicity and Safety of a Single Dose of mRNA COVID-19 Vaccine in Chinese Adults With Hybrid Immunity: a Multicentre, Open-label, Single-arm, Post-marketing Study
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: COVID-19; SARS-CoV-2 Infection
+Interventions: SYS6006 (BIOLOGICAL)
+Summary: This is a multicentre post-marketing cohort study to evaluate the immunogenicity and safety of a single dose of mRNA SARS-CoV-2 vaccine SYS6006 in Chinese adults predominantly with hybrid immunity. A total of 2,052 adults aged 18 years and older who received one dose of SYS6006 were monitored for serious adverse events (SAEs) for 6 months. The first 60 participants comprised an immunogenicity subgroup, with blood samples collected before vaccination and at day 14, month 3, and month 6 post-vaccination to assess humoral and cellular immune responses.
+Eligibility: Inclusion Criteria:
+
+1. Adults aged 18 years and over, including the elderly over 60 years and those with general underlying diseases.
+2. At least 4 months since the last SARS-CoV-2 infection (or never infected), and at least 6 months since the last COVID-19 vaccination.
+3. Able and willing to comply with the study procedures and to provide written informed consent.
+
+Exclusion Criteria:
+
+1. Suspected COVID-19 symptoms on the day of enrollment (e.g., dry/sore throat, cough).
+2. Positive SARS-CoV-2 antigen rapid test at enrollment.
+3. Prior receipt of the first COVID-19 booster dose .
+4. History of severe adverse reactions or anaphylaxis related to vaccination, or known severe allergy to any vaccine component.
+5. Pregnant or lactating women.
+6. Any other condition that, in the investigator's judgment, makes the individual unsuitable for the study.
+
+   \-

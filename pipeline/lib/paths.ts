@@ -7,6 +7,7 @@ export const DERIVED = path.join(DATA, "derived");
 export const SEED = path.join(DATA, "seed");
 export const LLM = path.join(DATA, "llm");
 export const BRIEFS = path.join(DERIVED, "briefs");
+export const TRANSFERS_DIR = path.join(DERIVED, "transfers");
 
 export const files = {
   probe: path.join(DERIVED, "probe.json"),

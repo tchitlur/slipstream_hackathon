@@ -1,0 +1,15 @@
+Title: Depression Intervention Among Gay and Bisexual Men Receiving Treatment for Methamphetamine Use
+Official title: Brief Depression Intervention to Optimize Intensive Outpatient Methamphetamine Treatment Among Gay and Bisexual Men Who Have Sex With Men
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: HIV/AIDS; Methamphetamine Abuse; Depression
+Interventions: MoodGym (BEHAVIORAL)
+Summary: This study is a single-arm, non-randomized pilot study. Eligible participants are newly enrolled participants in an outpatient methamphetamine treatment program, and study activities will take place contemporaneously with participation in the service program. During the first two weeks of the treatment program, participants will be offered the chance to enroll in a low-intensity, internet-based depression intervention called MoodGym. Participants that agree to enroll will be offered the chance to attend up to seven MoodGym sessions at the same time they undergo outpatient methamphetamine treatment. It is hypothesized that sexual risk outcomes, as well as medication adherence (e.g., PrEP/PEP; ART) outcomes will be optimized for participants who enroll to receive the MoodGym intervention content.
+Eligibility: Inclusion Criteria:
+
+* Currently enrolled within the "Getting Off" (AKA, "Friends Getting Off") outpatient methamphetamine treatment program at Friends Community Center, Los Angeles, CA, USA.
+* and; within two weeks of initial enrollment into the "Getting Off" program.
+
+Exclusion Criteria:
+
+* Not currently enrolled within the "Getting Off" program.
+* or; more than two weeks post-enrollment in the "Getting Off" program.

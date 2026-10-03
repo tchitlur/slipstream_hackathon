@@ -1,0 +1,29 @@
+Title: Selinexor in Combination With R-CHOP as the First-line Therapy for TP53-mutated DLBCL Patients (Smart Trial)
+Official title: Selinexor in Combination With R-CHOP as the First-line Therapy for TP53-mutated DLBCL Patients: a Single-arm, Multicenter, Phase II Clinical Trial (Smart Trial)
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Diffuse Large B Cell Lymphoma
+Interventions: Selinexor Oral Tablet [Xpovio] (DRUG); R-CHOP Protocol (DRUG)
+Summary: This is a prospective, single-arm, multi-center, phase II clinical trial to evaluate the efficacy and safety of selinexor in combination with R-CHOP (rituximab, cyclophosphamide, vincristine, doxorubicin, and prednisone) followed by selinexor maintenance for untreated TP53-mutated diffuse large B-cell lymphoma (DLBCL) patients.
+Eligibility: Inclusion Criteria:
+
+* Subjects fully understand and voluntarily participate in this study and sign informed consent.
+* Aged ≥18 and ≤80 years, no gender limitation.
+* Histologically confirmed DLBCL with TP53 mutations (allowing transformed or concurrent indolent B-cell non-Hodgkin lymphoma)
+* No prior systemic anti-lymphoma therapy; prior local radiotherapy alone is permitted.
+* There must be at least one measurable or evaluable lesion that meets the evaluation criteria for Lugano 2014 lymphoma.
+* Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) 0-2.
+* Expected survival ≥ 3 months.
+* Adequate function of bone marrow, liver, and kidney.
+
+Exclusion Criteria:
+
+* DLBCL with Hodgkin lymphoma, T-cell lymphoma, or other non-B-cell lymphoma; Richter transformation.
+* DLBCL with central nervous system invasion.
+* The patients had previously received XPO1 inhibitors.
+* The patients have contraindications to any drug in the combined treatment.
+* Patients with chronic active hepatitis B or active hepatitis C. If the background hepatitis B surface antigen (HBsAg) and/or hepatitis B core Antibody (HBcAb) or hepatitis C Virus (HCV) antibody are positive, the further determination for Hepatitis B Virus (HBV) DNA (no more than 2500 copies /mL or 500 IU/mL) and HCV RNA (no more than the lower limit of the assay) can be included. The patients with HBsAg and/or HBcAb positive need to receive anti-HBV drugs.
+* Patients with the infection of human immunodeficiency virus (HIV) and/or acquired immunodeficiency syndrome.
+* Inability to swallow tablets, presence of malabsorption syndrome, or any other gastrointestinal disease or dysfunction that may affect the absorption of the study drug.
+* Pregnant and lactating women and subjects of childbearing age who do not want to use contraception.
+* Mentally ill persons or persons unable to obtain informed consent.
+* Any condition deemed unsuitable by the investigator.

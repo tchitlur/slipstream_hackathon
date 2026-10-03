@@ -1,0 +1,20 @@
+Title: NIPD on CFTC for Triplet Repeat Diseases
+Official title: Non Invasive Prenatal Diagnosis on Isolated Circulating Fetal Trophoblastic Cells (CFTC) for Triplet Repeat Diseases
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Non Invasive Prenatal Diagnosis
+Interventions: Non invasive prenatal diagnosis (GENETIC)
+Summary: The purpose of this study is to develop and validate an analytical and clinical NIPD test for triplet repeat diseases by isolated circulating fetal trophoblastic cells (CFTC) analysis from maternal blood, searching for the familial mutation in families at risk of having one of the following triplet repeat diseases: Huntington's disease, Steinert Myotonic dystrophy, Fragile X syndrome, spinocerebellar ataxia (SCA) 1, 2 and 3.
+Eligibility: Inclusion Criteria:
+
+* older than 18 years old
+* pregnant woman between 9 and 34 weeks of gestation
+* Couple at risk (based on family history or echographic findings) for one of the following diseases: Huntington's disease, Steinert's myotonic dystrophy, fragile X and spinocerebellar ataxias 1, 2 or 3
+* Written informed consent was obtained for the study
+* Prenatal diagnosis has been programmed for the current pregnancy during which maternal blood is collected
+* Couple molecular diagnosis results for one of the following diseases (Huntington's disease, Steinert's myotonic dystrophy, fragile X and spinocerebellar ataxias 1, 2 or 3 ) MUST BE AVAILABLE.
+
+Exclusion Criteria:
+
+* Couple Genomic DNA are unavailable
+* Subjects at risk of transmitting the family disease, but not wishing to know their molecular status
+* individuals under guardianship by court order

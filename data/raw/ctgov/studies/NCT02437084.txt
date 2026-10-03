@@ -1,0 +1,28 @@
+Title: Relationship Between Insulin Resistance and Statin Induced Type 2 Diabetes, and Integrative Personal Omics Profiling
+Official title: Relationship Between Insulin Resistance and Statin Induced Type 2 Diabetes, and Integrative Personal Omics Profiling
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Hyperlipidemia; Insulin Resistance; Type 2 Diabetes
+Interventions: Atorvastatin (DRUG)
+Summary: Background:
+
+There is general agreement that statin-treatment of patients to lower plasma cholesterol levels can increase the incidence of type 2 diabetes mellitus (T2D) in some individuals1-5. The physiologic mechanism for the increased risk for T2D from statin treatment is unknown but could result from effects on insulin sensitivity or insulin secretion. This study will evaluate how the medication atorvastatin (trade name Lipitor) works in non-diabetic individuals in regards to its effect on insulin sensitivity and insulin secretion to help further understand the possible cause of the increased occurrence of T2D in people who are at risk for T2D. This research study will also examine what metabolic characteristics and variables (for example insulin resistance, high triglycerides, or both) will identify those people at highest risk of statin-induced T2D.
+
+The goals of this study are to:
+
+1. determine the effect of high-intensity atorvastatin (40 mg/day) for \~ 10 weeks on insulin sensitivity and insulin secretion (defined with gold standard methods) (PRIMARY OUTCOMES) as well as other glycemic traits (SECONDARY OUTCOMES);
+2. compare a number of cardio-metabolic characteristics (e.
+Eligibility: Inclusion Criteria:
+
+1. Healthy adults 30 - 70 years old
+2. BMI: 20 - 37 kg/m2
+3. Without diabetes as defined by fasting plasma glucose \<126 mg/dL and not taking glucose lowering medications
+4. Eligible for statin therapy for primary prevention of ASCVD based on LDL-C ≥ 130 mg/dL, \> 5% ASCVD risk over 10 years, or hs-CRP ≥ 2.0 mg/L
+
+Exclusion Criteria:
+
+1. Younger than 30 or older than 70 years
+2. Persons with any significant co-morbidities, such as diabetes (fasting glucose ≥ 126 mg/dL or use of glucose lowering medications), active coronary artery disease, heart failure, accelerated or malignant hypertension, kidney disease (creatinine ≥ 1.5 mg/dL), liver disease (alanine aminotransferase \> 2 times upper limit of normal), or severe anemia (hematocrit \< 30%).
+3. Individuals taking any medications for weight loss or known to influence insulin sensitivity.
+4. Pregnant or lactating
+5. Women unwilling to use an effective birth control method
+6. History of statin intolerance

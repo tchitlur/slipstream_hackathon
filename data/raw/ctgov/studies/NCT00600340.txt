@@ -1,0 +1,35 @@
+Title: 2-arm Trial of Paclitaxel Plus Bevacizumab vs. Capecitabine Plus Bevacizumab
+Official title: A Randomized Phase III 2-arm Trial of Paclitaxel Plus Bevacizumab vs. Capecitabine Plus Bevacizumab for the First-line Treatment of Human Epidermal Growth Factor Receptor 2 (HER2)-Negative Locally Recurrent or Metastatic Breast Cancer
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Metastatic Breast Cancer
+Interventions: Bevacizumab and Paclitaxel (BIOLOGICAL); Bevacizumab and Capecitabine (BIOLOGICAL)
+Summary: First-line treatment of patients with locally recurrent or metastatic, HER2-negative breast cancer who have not received prior chemotherapy for locally recurrent or metastatic disease.
+Eligibility: Inclusion Criteria
+
+1. Written informed consent obtained prior to any study-specific procedure.
+2. Age ≥18 years.
+3. Able to comply with the protocol.
+4. Histologically or cytologically confirmed, HER2-negative, adenocarcinoma of the breast with measurable or non-measurable locally recurrent or metastatic disease, who are candidates for chemotherapy. Locally recurrent disease must not be amenable to radiotherapy or resection with curative intent.
+5. Eastern Cooperative Oncology Group (ECOG) performance Status (PS) of 0-2.
+6. Life expectancy more than 12 weeks.
+7. Prior (neo)adjuvant chemotherapy is allowed provided that the last dose of chemotherapy was more than 6 months prior to randomization. However, if (neo)adjuvant chemotherapy was:
+
+   * Taxane-based, patients are eligible only if they received their last taxane more than 12 months prior to randomization.
+   * Anthracycline-based, the maximum cumulative dose of prior anthracycline therapy must not exceed 360 mg/m2 for doxorubicin and 720 mg/m2 for epirubicin.
+8. Prior adjuvant radiotherapy is allowed as part of the treatment of early breast cancer provided that last fraction of radiotherapy occurred at least 6 months prior to randomization. Radiotherapy administered solely for the relief of metastatic bone pain is allowed prior to study entry, providing that:
+
+   * no more than 30% of marrow-bearing bone was irradiated
+   * the last fraction of radiotherapy was administered ≥ 3 weeks prior to randomization.
+9. Adequate left ventricular ejection function (LVEF) at baseline, defined as LVEF ≥ 50% by either echocardiogram or multigated acquisition scan (MUGA).
+10. Adequate hematological function
+
+    * Absolute neutrophil count (ANC) ≥ 1.5 x 109/L
+    * Platelet count ≥ 100 x 109/L
+    * Hemoglobin ≥ 9 g/dL (may be transfused to maintain or exceed this level).
+11. Adequate liver function
+
+    * Total bilirubin ≤ 1.25 x upper normal limit (ULN)
+    * Aspartate Aminotransferase (AST), Alanine Aminotransferase (ALT) \< 2.5 x ULN in patients without liver metastases; \< 5.0 x ULN in patients with liver metastases.
+12. Adequate renal function
+
+    * Serum creatinine ≤ 1.25 x ULN or calculated creatinine clearance

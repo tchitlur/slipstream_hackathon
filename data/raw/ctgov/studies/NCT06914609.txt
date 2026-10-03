@@ -1,0 +1,21 @@
+Title: REVEAL: A Phase 3 Study of Obudanersen (ION582) in Angelman Syndrome
+Official title: Phase 3 Study of the Efficacy and Safety of ION582 in Children and Adults With Angelman Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Angelman Syndrome
+Interventions: obudanersen (DRUG); Placebo (DRUG)
+Summary: The purpose of this study is to evaluate the efficacy and safety of obudanersen in children and adults with Angelman syndrome caused by a deletion or mutation of the UBE3A gene.
+Eligibility: Key Inclusion Criteria:
+
+1. The participants caregiver(s)/ legally authorized representative must have given written informed consent and any authorizations required by local law and be able to comply with all study requirements.
+2. Medically stable and can undergo sedation and/or general anesthesia without intubation.
+3. Male or female between 2 and lesser than or equal to (≤)50 years of age, depending on specific cohort, at the time of the in-clinic Screening visit.
+4. Participant has a clinical diagnosis of Angelman syndrome (AS) with molecular confirmation of either Ubiquitin-protein ligase E3A (UBE3A) deletion or UBE3A mutation.
+5. Currently receiving stable doses of concomitant medications typically prescribed for AS, such as anti-epileptic medication, behavioral management medications, sleep medications, gabapentin, cannabidiol, and special diets, supplements, or nutritional support for at least 8 weeks prior to the Baseline visit.
+6. Legally authorized representative/caregiver(s) agree(s) not to post any of the participant's personal medical data or information related to the study on any website or social media site (e.g., Facebook, Instagram, X (formerly Twitter), YouTube, TikTok, etc.) from the time of enrollment until they are notified that the study is completed.
+
+Key Exclusion Criteria:
+
+1. Must not have any clinically significant abnormalities in medical history (e.g., major surgery within 3 months of screening), or on physical examination for which treatment with an antisense oligonucleotide (ASO) would be contraindicated or which, in the opinion of the Principal Investigator (PI), could confound the results of this study.
+2. Known brain or spinal disease that would interfere with the lumbar puncture (LP) procedure, cerebrospinal fluid (CSF) circulation, or presence of other factors would affect the safety of the LP procedure.
+3. Must not have any other conditions, which, in the opinion of the Investigator, would make the participant unsuitable for inclusion or could interfere with the participant participating in or completing the study.
+4. Must not have any laboratory abnormalities or any other clinically significant abnormalities that would, a

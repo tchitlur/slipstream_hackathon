@@ -1,0 +1,33 @@
+Title: Corticotropin Releasing Hormone (CRH) Responsiveness in Children With Functional Dyspepsia
+Official title: CRH Responsiveness in Children With Functional Dyspepsia: A Pilot Study
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Functional Dyspepsia
+Interventions: Acthrel (DRUG)
+Summary: Chronic abdominal pain is the most common persistent pain condition in children and adolescents, affecting 10-15% of children at any given time. One of the most often diagnosed types of abdominal pain is functional dyspepsia (FD). FD is an abdominal pain or discomfort (e.g., nausea, bloating) in the upper abdomen that does not get better by going to the bathroom.
+
+For some people it appears that stress can make FD worse. In adults, stress can cause the release of a hormone called corticotropin releasing hormone (CRH). The release of CRH can cause abdominal pain by affecting how fast things move through a person's stomach and intestines. This makes the organs in the abdomen more sensitive to pain, causing tenderness of the inside lining of the stomach and intestines.
+
+Different people react differently when the body releases CRH. Some people have abdominal pain without feeling any stress or anxiety while other people who have a lot of stress or anxiety don't have any abdominal pain. Some people have neither stress, anxiety, or abdominal pain when CRH is released into the body.
+
+In order to see how the bodies of children with functional dyspepsia and those without functional dyspepsi
+Eligibility: Inclusion Criteria:
+
+* Group 1 (functional dyspepsia):
+* Ages 8-17 inclusive;
+* Abdominal pain of at least 8 weeks duration and fulfilling symptom-base criteria for FD;
+* Scheduled for endoscopy to evaluate dyspepsia following non-response to standard acid reduction therapy;
+* \>20kg/45 lbs. and,
+* Group 2 (Controls):
+* Ages 8-17 inclusive;
+* \>20kg/45 lbs.
+
+Exclusion Criteria:
+
+* Both groups:
+* Previous abdominal surgery;
+* \<20 kg/45 lbs.:
+* Pregnancy;
+* Chronic disease requiring regular medical care (e.g. diabetes mellitus, juvenile rheumatoid arthritis, cystic fibrosis, cancer); or,
+* Non-English speaking.
+* Controls:
+* Recent history (within 6 months) of abdominal pain, nausea, vomiting, diarrhea, constipation, or bloating based on parental and self-report.

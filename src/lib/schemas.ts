@@ -419,8 +419,10 @@ export const TransferPairSchema = z.object({
 export type TransferPair = z.infer<typeof TransferPairSchema>;
 export const TransfersFileSchema = z.object({
   cutoffs: z.object({ high: z.number(), medium: z.number() }),
-  pairs: z.record(z.string(), TransferPairSchema),
+  focalIds: z.array(z.string()),
+  pairCount: z.number().int(),
 });
+export const TransfersFocalFileSchema = z.object({ focalId: z.string(), pairs: z.record(z.string(), TransferPairSchema) });
 
 // ---------------------------------------------------------------------------
 // Layout, search, demo candidates, briefs, manifest

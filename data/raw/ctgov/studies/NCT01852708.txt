@@ -1,0 +1,18 @@
+Title: Development of Non-invasive Prenatal Screening Test for Microdeletions Based on Fetal DNA Isolated From Maternal Blood
+Official title: Development of Non-invasive Prenatal Diagnostic Test for Microdeletion/Microduplication and Other Genetic Disorders Based on Fetal DNA Isolated From Maternal Blood
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Trisomy 21; Trisomy 18; Trisomy 13; Sex Chromosome Abnormalities; Microdeletion Syndromes
+Interventions: none
+Summary: The purpose of this study is to collect maternal blood samples from pregnant women carrying a fetus with a confirmed diagnosis of chromosomal abnormality or genetic disorder including microdeletions in order to further develop a non-invasive prenatal screening test based on fetal DNA isolated from maternal blood.
+Eligibility: Inclusion Criteria:
+
+* Age 18 or older at enrollment
+* Gestation age of at least 9 weeks, 0 days by best obstetrical estimate
+* One or more fetuses with a clinically confirmed diagnosis of a genetic variant of interest via karyotype, FISH, chromosomal microarray or other genetic assay AND/OR
+* One or more fetuses with any variant of fetal structure that is expected to require medical or surgical intervention in the newborn period, shorten lifespan, affect intellectual development or otherwise indicate a genetic anomaly AND/OR
+* Positive high risk noninvasive prenatal screening or serum screening result
+* Able to provide informed consent
+
+Exclusion Criteria:
+
+•Maternal history of bone marrow or organ transplantation

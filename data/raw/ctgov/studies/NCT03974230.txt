@@ -1,0 +1,36 @@
+Title: Analysis of the Genotype/Phenotype Relationship in the Fuchs' Corneal Endothelial Dystrophy in France.
+Official title: Analysis of the Genotype/Phenotype Relationship in the Fuchs' Corneal Endothelial Dystrophy in France. The French Fuchs' Follow-up Study, F3S
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Fuchs Endothelial Corneal Dystrophy
+Interventions: Collection of datas (OTHER); blood sample (BIOLOGICAL); slit lamp examination (OTHER)
+Summary: The pathophysiology of the most common corneal endothelial dystrophies (Fuchs' Corneal Endothelial Dystrophy (FECD)) is beginning to be dismembered. One of the most common genetic anomalies is a triplet repetition in one of the introns of the Transcription Factor 4 (TCF4) gene located on chromosome 18. However, the number of repetitions varies greatly from one patient to another.
+Eligibility: Inclusion Criteria:
+
+For patient group:
+
+* \>18 years old
+* affiliated with or entitled to a social security scheme
+* having received informed information about the study and having co-signed, with the investigator, a consent to participate in the study
+* with an Fuchs Endothelial Corneal Dystrophy (FECD) certified by slit lamp examination
+
+For control group:
+
+* \>18 years old
+* affiliated with or entitled to a social security scheme
+* having received informed information about the study and having co-signed, with the investigator, a consent to participate in the study
+
+Exclusion Criteria:
+
+For patient group:
+
+* Patients under guardianship or curatorship
+* Patient planning to move within the year
+* With no evidence of ophthalmological pathology requiring intraocular surgery within one year of the first visit
+* Better initial corrected visual acuity \<1/10
+* Not having had intraocular surgery in the 6 months prior to inclusion (after 6 months, the endothelium is considered stabilized)
+* Not having any other progressive pathology responsible for a decrease in visual acuity (significant cataract Lens Opacities Classification System (LOCS) \>2 ; progressive retinal pathology, in particular age-related macular degeneration, unstabilized macular edema)
+
+For control group:
+
+* Patients under guardianship or curatorship
+* with an Fuchs Endothelial Corneal Dystrophy (FECD) certified by slit lamp examination

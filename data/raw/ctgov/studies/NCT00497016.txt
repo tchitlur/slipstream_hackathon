@@ -1,0 +1,25 @@
+Title: Does Statin Therapy Reduce Sympathoexcitation in Hypertension?
+Official title: Does Statin Therapy Reduce Sympathoexcitation in Hypertension?
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Hypertension
+Interventions: atorvastatin 80 mg (DRUG)
+Summary: A number of patients with hypertension have increased central sympathetic activity. Statins seem to inhibit central sympathetic output. This study assesses the effect of statins on central sympathetic activity in hypertension patients.
+Eligibility: Inclusion Criteria:
+
+* (Known) hypertension
+* stable drug therapy for at least 2 months
+* age 18-70 jaar
+* BMI 18-35 kg/m2
+* Sinusrhythm
+
+Exclusion Criteria:
+
+* Recent cardiovascular event \<6 mnd
+* Plasma Creatinin:
+* female: \>120 mmol/L
+* male: \>133 mmol/L
+* use of:
+* tricyclic antidepressants
+* alpha-1 -and/or alpha-2 blockers
+* disease of the autonomic nervous system (Parkinsons disease, Shy- Drager syndrome, etc)
+* Albuminuria \>300 mg/dag

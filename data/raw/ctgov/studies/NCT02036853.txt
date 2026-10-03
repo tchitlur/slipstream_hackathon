@@ -1,0 +1,35 @@
+Title: An Open-Label Trial of Triheptanoin in Patients With Glucose Transporter Type-1 Deficiency Syndrome
+Official title: An Open-Label Trial of Triheptanoin in Patients With Glucose Transporter Type-1 Deficiency Syndrome (GLUT1 DS)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Glucose Transporter Type-1 Deficiency Syndrome (Glut1 DS)
+Interventions: Triheptanoin (DRUG)
+Summary: This study is being done to assess the safety and long-term efficacy of triheptanoin in pediatric patients with Glut1 DS over a 5-year treatment period. Glut 1 is a protein that helps transport glucose to the brain. Glucose is the brain's primary source of energy. Glut 1 DS prevents this protein from being effectively produced, causing deprivation of energy to the neurons of the of the brain.
+
+Glut1 DS is a severely debilitating disease characterized by seizures, developmental delay and movement disorder. There are currently no approved treatments specific to Glut1 DS. Treatment generally includes medications for control of seizures. The use of a ketogenic diet can be effective in controlling seizures when medications are ineffective or provide insufficient control. However, the ketogenic diet may be very difficult for patients to maintain for long periods of time, and there may be negative secondary long-term effects of ketogenic diet.. Triheptanoin is metabolized to molecules that can provide an alternative energy source to the brain, and appears to help in controlling seizures without many of the difficulties of the ketogenic diet.
+
+Eligible patients may be those who have been d
+Eligibility: Inclusion Criteria:
+
+Individuals eligible to participate in this study must meet all of the following criteria:
+
+1. Patients with GLUT1 DS by physician diagnosis
+2. Males and females, aged 1 to 50 years
+3. Allowed to be on concomitant AEDs
+4. Patients are able to tolerate triheptanoin if they have been (or are currently being) treated with this medication
+5. Must, in the opinion of the investigator, be willing and able to comply with study procedures and schedule
+6. Provide written assent (if appropriate) and written informed consent by a Legally Authorized Representative (LAR) after the nature of the study has been explained, and prior to any research-related procedures
+7. Sexually active subjects must be willing to use an acceptable method of contraception while participating in the study
+8. Females of childbearing potential must have a negative pregnancy test at Screening and be willing to have additional pregnancy tests during the study
+
+Exclusion Criteria:
+
+Individuals who meet any of the following exclusion criteria will not be eligible to participate in the study:
+
+1. Patients and their Legally Authorized Representatives (as appropriate) not willing or able to give written or verbal assent or written informed consent.
+2. Concomitant administration of a ketogenic diet for the treatment of GLUT1 deficiency
+3. Concomitant administration of valproic acid
+4. In the Investigator's opinion, the patient may not be compliant
+5. Pregnant or breastfeeding an infant at screening
+6. Has a concurrent disease or condition, or laboratory abnormality that, in the view of the Investigator, places the subject at high risk for adverse events, or introduces additional safety concerns
+7. History of or current suicidal ideation, behavior and attempts
+8. Patient qualifies for any other clinical trial designed to progressively evaluate the safety and efficacy of triheptanoin as approved by the FDA under a separate IND which is open at Cook Children's

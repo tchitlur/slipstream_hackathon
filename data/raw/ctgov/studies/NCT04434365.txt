@@ -1,0 +1,23 @@
+Title: Effect of Berberine for Endothelial Function and Intestinal Microflora in Patients With Coronary Artery Disease
+Official title: The Study of Berberine Affecting Metabolism, Inflammation Status, Endothelial Function and Thrombotic Events in Patients With Coronary Artery Disease by Remodeling Gut Microbiota
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Stable Coronary Artery Disease; Percutaneous Coronary Intervention
+Interventions: Berberine (DRUG); Aspirin (DRUG); Clopidogrel (DRUG); Statin (DRUG)
+Summary: The purpose of this study is to conduct a single-center, randomized, open-label, controlled, dose-escalating, parallel-group study, evaluating the effects and change of endothelial function and gut microbiota after berberine administration in patients with stable coronary artery disease who are at \> 8 but ≤ 40 weeks after elective percutaneous coronary intervention
+Eligibility: Inclusion Criteria:
+
+Patients with stable coronary artery disease undergo elective PCI \>8 weeks, but ≤40 weeks
+
+Exclusion Criteria:
+
+1. Planned coronary revascularization, including PCI and coronary artery bypass graft (CABG) during the study period.
+2. Subjects with uncontrolled high blood pressure
+3. Recent (within 4 weeks) dose adjustment of any standard therapy agents
+4. Recent (within 4 weeks) use of berberine
+5. History of intolerance to berberine.
+6. Cr\>1.5mg/dL; ALT level exceeds the upper limit of 3 times
+7. Heart failure or LVEF \<50%
+8. Uncontrolled arrhythmia
+9. Pregnancy or lactation
+10. Malignant tumor or life expectancy is less than half a year
+11. Subjects who can not complete the follow-up

@@ -1,0 +1,25 @@
+Title: XKH001 Injection in Healthy Subjects
+Official title: A Randomized, Double-blind, Placebo-controlled, Multiple Ascending Dose Phase Ib Clinical Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of XKH001 Injection in Healthy Subjects
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Asthma
+Interventions: XKH001 Injection (DRUG); XKH001 Placebo Injection (DRUG)
+Summary: This study is a randomized, double-blind, placebo-controlled, multiple ascending dose (MAD) clinical study. The primary objective is to evaluate the safety, tolerability, and PK of multiple SC doses of XKH001 in healthy subjects.
+Eligibility: Inclusion Criteria:
+
+1. Healthy subjects who voluntarily sign a written informed consent form (ICF) and are able to complete the study as required by the protocol;
+2. Male or female subjects aged 18 to 65 years (inclusive);
+3. Subjects with BMI between 18 and 28 kg/m2 (inclusive);
+4. Subjects with normal or abnormal but not clinically significant results of vital signs, physical examinations, laboratory tests, 12-lead ECGs and QTcF ≤ 450 ms;
+5. Subjects who did not use any prescription or over-the-counter medications within two weeks prior to dosing;
+6. Subjects who agree to have no child-bearing plans and to voluntarily take effective contraception measures during the study and within 6 months after the end of the study.
+
+Exclusion Criteria:
+
+1. Pregnant or lactating women;
+2. Subjects with clinically significant diseases that may affect the subject's participation in this study within 5 years as judged by the investigator: including but not limited to gastrointestinal, renal, liver, lung, neurological, blood, endocrine, tumor, metabolic, psychiatric or cardio-cerebrovascular diseases, etc.;
+3. Subjects with history of autoimmune diseases, known family history of inherited immunodeficiency disorders, or recurrent infections suggestive of possible immunodeficiency;
+4. Subjects with active infections requiring hospitalization or IV antibiotic treatment within 3 months prior to dosing, or bacterial, viral and fungal infections with clinical symptoms within 1 week;
+5. Subjects with a history of active tuberculosis or subjects with active or latent tuberculosis infection at screening;
+6. Subjects with positive HBsAg in 5 items of hepatitis B serology (if HBsAg is negative, HBcAb is positive, and HBsAb is negative, HBV DNA quantitative test is required to be performed \[the subject will be excluded if the test result is positive\]), positive hepatitis C antibody, treponema pallidum antibody, HIV antigen/antibody;
+7. Subjects who plan to receive live or live attenuated vaccines within 4 weeks prior to dosing or during the study;
+8. Subjects who have participated in clinical studies of any drug or device within 3 months or 5 half-lives of the investigational product (w

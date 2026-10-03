@@ -1,0 +1,23 @@
+Title: Yellow Fever Vaccine on Statin/ Non Statin Subjects
+Official title: Using Systems Vaccinology to Elucidate the Effects of Anti-inflammatory Therapy on Immune Response After Vaccination With a Live Attenuated Vaccine
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Yellow Fever Vaccine; Yellow Fever
+Interventions: Stamaril (live attenuated yellow fever vaccine) (DRUG)
+Summary: Since the 1st pandemic of the 21st century caused by SARS coronavirus, the world has experienced outbreaks of swine origin H1N1 influenza, Ebola and Zika viruses, which have all resulted in global health crises. Rapid mass vaccination with an effective vaccine such as a live attenuated vaccine, of vulnerable immune-naïve populations to establish herd immunity is an approach to control outbreaks. Such live attenuated vaccine had been used with great success in sporadic yellow fever outbreaks and recently successfully employed in Ebola field trial, both of these diseases have the potential for pandemic spread. Indeed, live attenuated vaccines have proven especially effective in controlling childhood diseases and have even succeeded in eradicating polio and measles from most parts of the world. However, deployment of such vaccines for pandemic control cannot be limited to children but must include adults in order to rapidly elevate herd immunity rates to halt transmission. Vaccinating adults may produce efficacy rates significantly different to those observed in children due to the prevalence of chronic diseases and their associated metabolic complications. Presently, there are 1 bill
+Eligibility: Inclusion Criteria:
+
+1. Adults, 30-50 years of age at the time of screening.
+2. Negative for diabetes (defined as HbA1c \<6.5%)
+3. Range of BMI from 18 to 30kg/m 2
+4. Statin Group: receiving long term statin therapy (Simvastatin, Atorvastatin and Rosuvastatin) for ≥6 months
+5. Control group: not receiving long-term statins
+6. Negative for anti-dengue antibodies by ELISA. Subjects will be screened using a commercially available ELISA (PanBio)
+7. Subjects who are willing to comply with the requirements of the study protocol and scheduled visits. (e.g., completion of the subject diary, return for follow-up visits) and who are willing to make themselves available for the duration of the study, with access to a consistent means of telephone contact, which may be either at home or at the workplace, land line, or mobile, but NOT a pay phone or other multiple-user device (i.e. a common-use phone serving multiple rooms or apartments).
+8. Subjects who give written informed consent approved by the Ethical Review Board governing the site.
+9. Satisfactory baseline medical assessment as assessed by physical examination and a stable health status. The laboratory values must be within the normal range of the assessing site or show abnormalities that are deemed not clinically significant as judged by the investigator. A stable health status is defined as the absence of a health event satisfying the definition of a serious adverse event.
+10. Accessible vein at the forearm for blood collection.
+11. Female subjects of non-child bearing potential due to surgical sterilization (hysterectomy or bilateral oophorectomy or tubal ligation) or menopause. Post menopause: subjects must have had at least 12 months of natural (spontaneous) amenorrhea
+12. Female subjects of childbearing potential may be enrolled in the study if they have negative urine pregnancy tests on the day of screening and day of vaccination
+13. Both male (if he has a partner of childbearing potential) and female subjects (of childbearing potential) must agree to use adequate and reliable contraceptive measures (eg. Spermicides, condoms, contraceptive pills) or practice abstinence for 10 days after vaccination
+
+Exclusion 

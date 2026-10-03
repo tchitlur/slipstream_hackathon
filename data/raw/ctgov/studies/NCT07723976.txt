@@ -1,0 +1,23 @@
+Title: A Study to Evaluate the Safety and Efficacy of CBD-OS in Participants With DEE
+Official title: A Phase 3, Multicenter, Randomized, Double-blind, Placebo-Controlled Study to Evaluate the Safety and Efficacy of Cannabidiol Oral Solution (CBD-OS, JZP926-OS) in Participants Aged 1 Year and Older With Developmental and Epileptic Encephalopathy (DEE)
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Developmental and Epileptic Encephalopathy (DEE)
+Interventions: CBD-OS (DRUG); Placebo (DRUG)
+Summary: The efficacy, safety, and tolerability of CBD-OS have been evaluated for the treatment of seizures associated with Lennox-Gastaut syndrome (LGS), Dravet syndrome (DS), and Tuberous sclerosis complex (TSC). The current JZP926-303 study is being conducted to evaluate the safety and efficacy of CBD-OS in participants with Developmental and Epileptic Encephalopathy (DEE).
+Eligibility: Participants are eligible to be included in the study only if all the following criteria apply:
+
+1. Is at least 1 year of age at the time of signing the informed consent/assent.
+2. Meets the clinical phenotype for DEE as specified in the protocol.
+3. Per the investigator, the underlying etiology contributes to developmental impairment and seizures.
+4. Has had, or is willing to complete, confirmatory imaging and/or genetic testing to determine etiology of DEE.
+5. Is currently receiving antiseizure intervention, such as treatment with a stable regimen of at least 1 ASM or an established intervention for epilepsy (eg, ketogenic diet or neurostimulation).
+6. All medications or interventions for epilepsy have been stable for ≥ 28 days prior to starting the baseline period (Visit 2) with no planned changes to the regimen for the duration of the Double-blind Treatment Period.
+
+Participants are excluded from the study if any of the following criteria apply:
+
+1. Has a concurrent, confirmed diagnosis of non-epileptic seizures or events that can confound the assessment of the efficacy measures, in the opinion of the investigator.
+2. The etiology of the participant's seizures is a progressive neurologic disease.
+3. Has known or suspected hypersensitivity to cannabinoids or any of the excipients of the study intervention, such as sesame oil.
+4. Has an active central nervous system (CNS) infection, demyelinating disease, degenerative neurologic disease, or any CNS disease deemed to be progressive during the study that may confound the interpretation of the study results (including autoimmune encephalitis).
+5. Is currently being treated with Epidiolex or recently received treatment with Epidiolex within 28 days prior to screening.
+6. Has experienced a lack of efficacy and/or poor tolerability to an adequate treatment regimen of Epidiolex based on medical history and the clinical judgement of the investigator. Participants who discontinued treatment for reasons other than safety, tolerability, or lack of efficacy and previously received Epidiolex ≥ 28 days prior to starting the Baseline Period (Visit 2) may be eligible for the study after consultation with the medical monitor a

@@ -1,0 +1,21 @@
+Title: JUPITER - Crestor 20mg Versus Placebo in Prevention of Cardiovascular (CV) Events
+Official title: A Randomized, Double-Blind, Placebo Controlled, Multicenter, Phase 3 Study of Rosuvastatin (CRESTOR®) 20 mg in the Prevention of Cardiovascular Events Among Subjects With Low Levels of Low Density Lipoprotein(LDL) Cholesterol & Elevated Levels of C-Reactive Protein
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Elevated High-sensitivity C-Reactive Protein (hsCRP)
+Interventions: Rosuvastatin (DRUG); Placebo (OTHER)
+Summary: The purpose of this study is to determine the safety and effectiveness of long-term therapy with rosuvastatin compared with a placebo, and to evaluate whether treatment with rosuvastatin might be effective in reducing the risk of major cardiovascular events.
+Eligibility: Inclusion Criteria:
+
+* Men 50 years or older, women 60 years or older
+* Low to normal levels of low density lipoprotein (LDL) cholesterol (\< 130mg/dL)
+* Elevated levels of C-Reactive Protein (CRP) \> 2.0 mg/L
+
+Exclusion Criteria:
+
+* History of cardiovascular or cerebrovascular events
+* Active liver disease
+* Diabetes mellitus
+* Uncontrolled hypertension or hypothyroidism
+* History of certain malignancies
+* Chronic inflammatory conditions
+* History of alcohol or drug abuse

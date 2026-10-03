@@ -1,0 +1,26 @@
+Title: JAG201 Gene Therapy Study in Children & Adults With SHANK3 Haploinsufficiency
+Official title: A Phase 1/2, Multicenter, Open-Label, Dose-Escalation, Safety, Tolerability, and Clinical Activity Study of a Single Dose of JAG201 Gene Therapy Delivered Via Intracerebroventricular Administration in Participants With SHANK3 Haploinsufficiency
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: SHANK3 Haploinsufficiency; Phelan-McDermid Syndrome
+Interventions: JAG201 (GENETIC); JAG201 (GENETIC)
+Summary: This is a Phase 1/2, first in human, open-label, dose-escalation study to evaluate the safety, tolerability, and clinical activity of a single dose of JAG201 administered via intracerebroventricular (ICV) injection in pediatric and adult participants with SHANK3 haploinsufficiency resulting from SHANK3 loss of function mutations and chromosomal deletions encompassing the SHANK3 gene. Clinical data will be evaluated for safety, tolerability, and preliminary clinical activity of JAG201 in pediatric and adult participants with SHANK3 haploinsufficiency. The pediatric cohorts will start enrolling first and the enrollment for adult cohorts may be initiated at a later timepoint in the study.
+Eligibility: Key Inclusion Criteria:
+
+1. Is male or female, and 2 to 9 years of age at the time of JAG201 administration
+2. Has a molecular confirmation of a loss of function mutation in SHANK3 or a 22q13.3 deletion classified as a Class I deletion
+3. Has evidence of developmental/cognitive delay of at least 2 standard deviations (SD) below the mean (i.e., ≤ 70) via either Intelligence Quotient (IQ) OR Developmental Quotient (DQ) assessment (as applicable)
+4. Has an overall Phelan-McDermid Syndrome (PMS) Assessment of Severity (PMSA-S) Score of 3 or greater at Screening
+5. Willing to initiate structured therapies and continue for the duration of the study as determined by the specific therapist (structured therapies may include, at a minimum, physical therapy, occupational therapy, speech therapy, and applied behavior analysis)
+6. Is stable on any medication regimens (if being administered to control the signs and symptoms of underlying disease) for at least 3 months prior to the planned JAG201 study treatment
+7. If undergoing any kind of behavioral or therapeutic intervention, then the level of intervention must have remained stable for at least 3 months prior to the planned JAG201 study treatment (exclusive of school vacations/illness).
+8. Is a permanent legal resident of the U.S. residing within the continental U.S.
+
+Key Exclusion Criteria:
+
+A pediatric participant who meets any of the following criteria will be excluded from this study:
+
+1. Has history of developmental regression defined in this study as a prolonged loss of previously acquired skills (defined as skills maintained for at least 3 months) with loss of skills persisting for at least 3 months
+2. Has known or suspected prion disease (e.g., Creutzfeldt-Jakob Disease)
+3. Has poorly-controlled epilepsy (defined as an increase in the dose or addition of new anti-epileptic medications within the past 3 months) or any history of status epilepticus or seizure-induced hospitalizations within the last 12 months
+4. Has history of acute cerebrovascular episodes
+5. Has active autoimmune disease or prior treatment with immunomodulatory therapy, immunotherapy, and/or immunosuppressive drugs within 3 months prior to study en

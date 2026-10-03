@@ -7,7 +7,7 @@ export function VariantNotice({ geneSymbol, mechanism }: { geneSymbol: string; m
       <span className="text-ink font-medium">Before relying on the mechanism: </span>
       {mechanism === "undetermined"
         ? `the curated source has not established how ${geneSymbol} variants cause this condition. `
-        : `“${mechanism}” is recorded for the gene and disease as a whole, not for any one family&apos;s variant. `}
+        : `“${mechanism}” is recorded for the gene and disease as a whole, not for any one family's variant. `}
       An individual variant can act differently (loss of function, gain of function or dominant negative). Ask a clinical geneticist whether your variant&apos;s class has been established before acting on anything that depends on it.
     </div>
   );

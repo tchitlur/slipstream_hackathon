@@ -1,0 +1,28 @@
+Title: The Impact of NBP on the Collateral Circulation in ICA/M1 Occlusion
+Official title: The Impact of NBP on the Collateral Circulation in Acute Acute Internal Carotid Artery(ICA)/Middle Cerebral Artery(M1) Occlusion
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Cerebrovascular Occlusion; Collateral Blood Circulation; Anterior Cerebral Circulation Infarction
+Interventions: NBP (DRUG)
+Summary: Stroke is the first leading cause of death in China, and is responsible for almost 22.4% of deaths. In approximately 80% of cases stroke is ischaemic, i.e. caused by disruption of blood flow to part of the brain from an acute arterial occlusion. Survival of penumbral tissue distal to an arterial occlusion depends on collateral circulation via the Circle of Willis and leptomeningeal anastomises. Collateral flow is dynamic and failure is associated with infarct growth. The presence of adequate collaterals has been shown to be associated with age, history of statin use, and non-hypertension. Dl-3-n-butylphthalide (NBP), isolated from the seeds of celery, and found to exert protective effects against ischemic brain and increase leptomeningeal blood flow. This study investigate whether NBP injection prescribed during acute stroke will have a significant effect to improve collateral circulation in patients of anterior circulation occlusion.
+Eligibility: Inclusion Criteria:
+
+1. Men or women ≥ 18 years old;
+2. Acute occlusion of M1 or intracranial internal carotid artery within 72 hours;
+3. For patients who receive recombinant tissue-type plasminogenactivator therapy, the arterial occlusive lesion scale of 24-72 hours post-thrombolysis imaging should be 0 or 1;
+4. Ischemic stroke with National Institutes of Health Stroke Scale ≥ 4;
+5. Baseline mRS before this stroke onset less than 2;
+6. Able and willing to comply with study requirements;
+7. Signed informed consent by patients self or legally authorized representatives.
+
+Exclusion Criteria:
+
+1. Cerebral hemorrhage;
+2. Posterior circulation infarction;
+3. Severe tendency of hemorrhage, such as thrombocytopenia, leukemia, allergic purpura;
+4. Currently using urinary kallidinogenase or alprostadil;
+5. Be allergic to NBP or celery;
+6. Impaired liver function (alanine aminotransferase or glutamic oxalacetic transaminase ≥ 3×upper limit of normal) or renal function (serum creatinie ≥ 1.5mg/dl);
+7. Patients with evidence of severe congestive heart failure or history of end-stage cardiovascular disease (e.g. congestive heart failure New York Heart Association Class III or IV);
+8. Metastatic neoplasm or multiple organ failure;
+9. Pregnancy or breastfeeding;
+10. History of mental instability or dementia.

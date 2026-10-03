@@ -1,0 +1,24 @@
+Title: Acute Medically Ill VTE Prevention With Extended Duration Betrixaban Study (The APEX Study)
+Official title: (Apex) Multicenter, Randomized, Active-Controlled Efficacy And Safety Study Comparing Extended Duration Betrixaban With Standard Of Care Enoxaparin For The Prevention Of Venous Thromboembolism In Acute Medically Ill Patients
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Venous Thromboembolism (VTE)
+Interventions: Betrixaban (DRUG); Enoxaparin (DRUG)
+Summary: The purpose of this study is to evaluate whether extended prophylaxis with oral betrixaban can prevent blood clots in the leg and lung that sometime occur in patients hospitalized for an acute medical illness and to compare these results with standard of care enoxaparin. The safety of betrixaban will also be studied.
+Eligibility: Inclusion Criteria:
+
+* men and non-pregnant, non-breastfeeding women
+* anticipated to be severely immobilized for at least 24 hours after randomization
+* hospitalized with one of the following
+
+  * congestive heart failure
+  * acute respiratory failure,
+  * acute infection without septic shock,
+  * acute rheumatic disorders
+  * acute ischemic stroke with lower extremity hemiparesis or hemi paralysis
+
+Exclusion Criteria:
+
+* a condition requiring prolonged anticoagulation or anti-platelets
+* active bleeding or at high risk of bleeding
+* contraindication to anticoagulant therapy
+* general conditions in which subjects are not suitable to participate in the study

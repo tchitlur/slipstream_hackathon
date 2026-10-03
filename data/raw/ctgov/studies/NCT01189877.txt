@@ -1,0 +1,19 @@
+Title: Characterization of Rectal Cancer Hypoxia Using pO2 Histography and Immunohistochemistry for Hypoxia-Related Proteins
+Official title: Characterization of Rectal Cancer Hypoxia Using pO2 Histography and Immunohistochemistry for Hypoxia-Related Proteins
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rectal Cancer
+Interventions: Eppendorf hypoximeter (PROCEDURE)
+Summary: The purpose of this study is to see if the cells in rectal cancer are oxygen-starved, or hypoxic. We know that as cancers grow bigger, parts of them are cut off from the oxygen supply and they become hypoxic, basically, lacking oxygen. Research has shown that cells that are oxygen-starved respond differently to treatment such as chemotherapy and radiation when compared to cells that are oxygen rich.
+Eligibility: Inclusion Criteria:
+
+* Biopsy proven adenocarcinoma of the rectum. If a biopsy was taken at an outside hospital, the slides and diagnosis will be reviewed and confirmed by a pathologist at MSKCC.
+* Mid to distal rectal tumors not requiring pre-op radiation or chemotherapy
+* Age ≥ 18
+* Age \< 90
+* Karnofsky performance status ≥ 60
+* Ability to understand and the willingness to sign a written informed consent document.
+
+Exclusion Criteria:
+
+* Current pregnancy
+* Uncontrolled intercurrent illness that would limit compliance with study requirements.

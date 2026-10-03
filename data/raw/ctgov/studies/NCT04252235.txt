@@ -1,0 +1,21 @@
+Title: Home Air Purification for Eosinophilic COPD
+Official title: A Randomized Controlled Trial of Home Air Purification for Eosinophilic COPD
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: COPD; Eosinophilia
+Interventions: Air purifier (DEVICE); Sham air purifier (DEVICE)
+Summary: This study evaluates the influence of home air purification on the lung health of adults with eosinophilic COPD. Half of the participants will receive real air purifiers (HEPA filters) and half will receive sham air purifiers.
+Eligibility: Inclusion Criteria:
+
+* Age of 40 years or more
+* Physician diagnosis of COPD \[Global Initiative for Obstructive Lung Disease (GOLD) Stage II-IV disease with Forced Expiratory Volume (FEV1)/ Forced Vital Capacity (FVC) ≤70% and FEV1 (% predicted) \<80%\]
+* Blood eosinophil count of \>=150 cells per μL at screening or in the previous year
+* Former smoker with tobacco exposure of \>=10 pack-years
+
+Exclusion Criteria:
+
+* Inability to complete monthly questionnaires
+* Inability to perform lung function testing
+* Regularly using a portable HEPA air purifier in the home at time of enrollment
+* End stage chronic disease with life expectancy \<2 years as determined by PI judgment
+* Living in location other than home (e.g. long term care facility)
+* Planning to change residence within the study period

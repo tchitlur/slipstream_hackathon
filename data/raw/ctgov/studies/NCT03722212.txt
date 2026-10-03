@@ -1,0 +1,24 @@
+Title: Early Diagnosis of the GLUT1 Deficiency Syndrome With a Blood Based Test
+Official title: Evaluation of METAglut1 Diagnostic Test Performances in Patients With a Clinical Suspicion of GLUT1 Deficiency Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Glut1 Deficiency Syndrome; De Vivo Disease; Seizures; Movement Disorders; Intellectual Disability; Ataxia
+Interventions: METAglut1 (DIAGNOSTIC_TEST)
+Summary: The study aims at validating the diagnostic performances of the METAglut1, a blood in vitro diagnostic test, for the simple and early diagnosis of the Glut1 deficiency syndrome (Glut1DS, or De Vivo disease).
+
+The blood test will be carried out prospectively on patients presenting with a clinical suspicion of Glut1DS, blindly from the reference strategy, which consists in a lumbar puncture for glycorrhachia measurement, completed by a molecular analysis.
+
+The study will be conducted in more than 40 centers in France on up to 3,000 patients for 2 years.
+Eligibility: Prospective patients - Inclusion Criteria:
+
+* Clinical suspicion of the GLUT1 Deficiency Syndrome
+
+Retrospective patients - Inclusion Criteria:
+
+* Patients with confirmed Glut1DS diagnosis
+* Patients with pending diagnosis at inclusion (inconsistent biological or genetic data)
+
+Exclusion Criteria (for both cohorts):
+
+* Patients under 3 months of age
+* Sickle cell disease S/S
+* Abnormal imaging

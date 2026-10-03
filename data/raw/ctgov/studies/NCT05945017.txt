@@ -1,0 +1,17 @@
+Title: Probiotics and the Neurodevelopment in the Premature Infant <32 Weeks Gestational Age and <1500g
+Official title: Probiotics and the Neurodevelopment in the Premature Infant <32 Weeks Gestational Age and <1500g
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Infant, Newborn, Diseases; Infant Development
+Interventions: Infloran® -Berne, Switzerland- (Bifidobacterium bifidum NCDO 2203 and Lactobacillus acidophilus NCDO 1748 (DIETARY_SUPPLEMENT)
+Summary: Unicentric, quasi-experimental, cohort study to evaluate the effect of combining two probiotics (Bifidobacterium bifidum NCDO 2203 and Lactobacillus acidophilus NCDO 1748) in the neurodevelopment of preterm neonates below 32 weeks' gestation and a birthweight under 1,500 g. This probiotic combination has shown to be safe and beneficial in premature neonates in the prevention of NEC. The investigators hypothesised that this mixture would contribute to better neurodevelopmental outcomes of preterm neonates when assessed at 24 months corrected age. Additionally, neurodevelopment improved would be more relevant at 6 years of age, together with a better pattern of neuronal plasticity biomarkers.
+
+Secondarily, this mixture of probiotics could reduce NEC, LOS, intraventricular haemorrhage and neonatal mortality in accordance with previous studies.
+Eligibility: Inclusion Criteria:
+
+* Premature infants under 32 weeks gestational age and less than 1500g birthweight.
+* Born at BCNatal Hospital Clínic between years 2014-2019.
+
+Exclusion Criteria:
+
+* All neonates presenting with suspected congenital anomalies, inborn errors of metabolism, or genetic defects were excluded.
+* Infants with a suspected syndrome, or who have suffered events beyond the neonatal period, not related to prematurity, that could entail impairment in neurodevelopment (severe cranioencephalic trauma, oncological process, meningitis, or exposure to toxic substances)

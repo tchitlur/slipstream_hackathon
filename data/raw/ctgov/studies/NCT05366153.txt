@@ -1,0 +1,18 @@
+Title: Risk-guided Disease managEment Plan to prevEnt CAD in Patients Treated With Previous Cancer
+Official title: Risk-guided Disease managEment Plan to prevEnt CAD in Patients Treated With Previous Cancer (REDEEM-CAD)
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Coronary Artery Disease
+Interventions: Coronary CT (DIAGNOSTIC_TEST)
+Summary: REDEEM-CAD is a prospective multi-centre study of CAD risk evaluation and management in cancer survivors 40-70 years with chemotherapy or radiotherapy \>5 years ago.
+Eligibility: Inclusion Criteria:
+
+A history of cancer \>5 y ago associated with potential cardiotoxicity from chemotherapy and/or radiotherapy (chiefly survivors of breast cancer, Hodgkin's lymphoma and prostate cancer).
+
+Exclusion Criteria:
+
+* Unable to provide written informed consent to participate in this study
+* Known coronary artery disease at recruitment
+* History of previous coronary artery disease
+* Inability to acquire interpretable CT images
+* Contraindications/Intolerance to or already taking statin therapy
+* Oncologic (or other) life expectancy \<12 months or any other medical condition (including pregnancy) that results in the belief (deemed by the Chief Investigators) that it is not appropriate for the patient to participate in this trial

@@ -1,0 +1,31 @@
+Title: Investigating Whether Acute Elevation of Fatty Acid Levels Alters Cerebral Glucose Transport and Metabolism
+Official title: Investigating Whether Acute Elevation of Fatty Acid Levels Alters Cerebral Glucose Transport and Metabolism
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Obesity
+Interventions: Intralipid, 20% Intravenous Emulsion (DRUG); Placebos (DRUG)
+Summary: The goal of this study is to understand the role of brain glucose transport in individuals with obesity and the association with cerebral hypometabolism and these individuals' response to plasma glucose elevations. The main premise is that obesity leads to reduced brain glucose transport and that we can measure this reduction with magnetic resonance spectroscopy (MRS). The secondary premises are that this reduction is driven by elevated non esterified fatty acids which act to turn on specific signaling pathways that regulate brain GLUT1 levels.
+Eligibility: Inclusion Criteria:
+
+* Age 18-45 years
+* HbA1C \<6.5%
+* Normal weight individuals: BMI 17-25 kg/m\^2
+* Obese individuals: BMI \>30 kg/m\^2
+
+Exclusion Criteria:
+
+* Creatinine \>1.5mg/dL
+* Hematocrit \<35% for females and \<39% for males
+* ALT and AST \>2.5X upper limit of normal
+* Abnormal TSH
+* Abnormal PT/PTT/INR
+* Triglycerides \>200 mg/dL
+* Known hepatic, gastrointestinal, renal, neurologic, psychiatric, cerebrovascular disease
+* Uncontrolled hypertension
+* Current or past 3 months use of ketogenic diet
+* Use of any medications, vitamins, or supplements that can alter cerebral metabolism or lipids
+* Smoking
+* Current or recent steroid use in last 6 months
+* \>5% body weight change in last 6 months
+* Illicit drug use/alcoholism
+* Inability to enter MRI/MRS
+* For women: pregnancy, seeking pregnancy, or breastfeeding

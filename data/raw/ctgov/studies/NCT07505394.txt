@@ -1,0 +1,23 @@
+Title: Efficacy of a Prediction Model-based Algorithm to PREVENT Drug-induced Impulse Control Disorders in Parkinson's Disease
+Official title: Efficacy of a Prediction Model-based Algorithm to PREVENT Drug-induced Impulse Control Disorders in Parkinson's Disease
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Parkinson Disease; Impulse Control Disorder
+Interventions: Algorithm-guided group (DEVICE); Standard of Care (SoC) group (BEHAVIORAL)
+Summary: Impulse control disorders and related behaviors (ICDRBs) are characterized by pathological gambling, compulsive shopping or eating, and hypersexuality, but other related behaviors have been described, e.g. hobbyism, and punding. ICDRBs are frequent in Parkinson's Disease (PD), affecting up to 50% of the patients after 5 years with major medical, social, and legal impact, with life changing consequences for patients and caregivers. The main risk factor is dopaminergic therapy, particularly the cumulative dose of dopamine agonists (DA). On the other hand, the dopaminergic therapy is necessary to control motor symptoms, and DA have demonstrated efficacy in delaying motor complications occurring in PD. Ideally, dopaminergic therapy would have to be adjusted to the individual risk of developing ICRDBs to maximize the benefit/risk ratio of each drug. However, despite several clinical risk factors associated with the risk of ICDRBs (in addition to the dopaminergic therapy), it is still not possible to predict their risk at the individual level, and not every patient treated with dopaminergic medications will develop ICDRBs. A machine learning algorithm to predict ICDRBs, based on clinical
+Eligibility: Inclusion Criteria:
+
+* Male and female ≥ 18 years old
+* Diagnosis of PD according to the 2015 Movement Disorders Society criteria (Postuma et al., Mov Disord. 2015), with bradykinesia AND at least ONE of the following: muscular rigidity, or resting tremor; with no other suspected cause of parkinsonism
+* Disease duration below 6 years included
+* No ongoing clinically significant (Mild or above) ICDRBs (any ASBPD part IV subscores in any of the items 3 to 5 and 7 to 10 each \<2)
+* Patients currently treated with DA for at least 2 months and without current planned or known reason for stopping DA over the next 3 years
+
+Exclusion Criteria:
+
+* Atypical or secondary parkinsonism such as supranuclear palsy, multisystem atrophy or drug-induced parkinsonism, etc...
+
+  * Patients with a cognitive or psychiatric disorder preventing patient's participation as per investigator's judgement
+  * Not willing to participate to the Clinical Investigation or to sign the consent
+  * Pregnant or lactating woman, or WOCBP tested positive in \<serum or urine\> pregnancy test
+  * Participation in investigational drug trials within 30 days prior to screening or within 5 half-life of investigational product whatever the longest
+  * Participant not affiliated or beneficiary of a French social security system

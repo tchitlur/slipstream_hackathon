@@ -1,0 +1,16 @@
+Title: Analysis of the Genotype/Phenotype Relationship in the Fuchs' Corneal Endothelial Dystrophy in France
+Official title: Analysis of the Genotype/Phenotype Relationship in the Fuchs' Corneal Endothelial Dystrophy in France. The French Fuchs' Follow-up Study (Phase 2), F3S2
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Corneal Dystrophies
+Interventions: Genotyping (GENETIC); Histology (DIAGNOSTIC_TEST); Collection of data (OTHER)
+Summary: The pathophysiology of the most common corneal endothelial dystrophies (Fuchs' Corneal Endothelial Dystrophy, FECD) is beginning to be dismembered. There is a significant heterogeneity in the clinical forms and the investigators have just highlighted a great diversity of histological forms that seem to define distinct groups.
+Eligibility: Inclusion Criteria:
+
+* affiliated with or entitled to a social security scheme
+* Consent form to participate in the study signed
+* with an FECD certified by slit lamp examination
+* requiring an endothelial keratoplasty
+
+Exclusion Criteria:
+
+\- Patients under guardianship or curators

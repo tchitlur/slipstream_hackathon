@@ -1,0 +1,18 @@
+Title: Aggressive Cholesterol Therapy to Inhibit Vein Graft Events After CABG (ACTIVE Trial)
+Official title: Aggressive Cholesterol Therapy to Inhibit Vein Graft Events (ACTIVE Trial): Does High-Dose Postoperative Statin Therapy Improve Graft Patency After Coronary Bypass?
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Saphenous Vein Graft Disease
+Interventions: Atorvastatin 80 mg daily (DRUG); Atorvastatin 10 mg daily (DRUG)
+Summary: During coronary artery bypass graft surgery (CABG), saphenous vein from the leg is used to bypass the atherosclerotic blockages in the arteries of the heart. Unfortunately, vein bypasses themselves develop blockages over time, a process termed saphenous vein graft disease. By lowering cholesterol levels in the blood, statin medications are used after surgery to prevent the development of atherosclerotic blockages in the vein bypasses. Recently, higher doses of statin medications have been introduced, with some studies showing that they are more effective than traditional doses when used in heart attack patients. Furthermore, laboratory tests have shown that higher doses of statin medications can slow the development of atherosclerosis. Despite these benefits, very little is known regarding the use of high-dose statin therapy after bypass surgery in humans.
+
+The goal of this study will be to see if high-dose statin therapy will prevent the development of vein graft occlusion during the first year after bypass surgery. Patients will be randomized to receive either high-dose statin therapy or conventional moderate-dose statin therapy starting within 4 days of surgery and continuing fo
+Eligibility: Inclusion Criteria:
+
+* Patients undergoing first-time CABG with at least 1 saphenous vein graft
+
+Exclusion Criteria:
+
+* Redo-CABG
+* Statin allergy
+* Severe renal dysfunction
+* Severe liver disease

@@ -1,0 +1,21 @@
+Title: Comparison of Lipophilic Versus Hydrophilic Statins on Patients With Heart Failure
+Official title: Impact of Lipophilic Versus Hydrophilic Statin Administration on The Clinical Outcome and Cardiac Markers of Patients With Heart Failure
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Heart Failure
+Interventions: Atorvastatin (DRUG); Rosuvastatin (DRUG); guideline directed therapy (OTHER)
+Summary: There is a controversy whether statins are beneficial in patients with heart failure or not. Trials in which lipophilic statins have been used revealed positive results, unlike major studies where hydrophilic statins were administered. This trial is designed to compare the effects of lipophilic versus hydrophilic statin use in patients with heart failure.
+Eligibility: Inclusion Criteria:
+
+* older than 18 years (of both sexes)
+* diagnosed with stable chronic heart failure NYHA class II-III
+* ejection fraction \< 40 % as assessed by 2D echocardiography
+* who have been optimized on Guideline Directed treatment for heart failure for at least a month prior to enrolling.
+
+Exclusion Criteria:
+
+* Known hypersensitivity to statin
+* Treatment with statins during the past month prior to study.
+* Serum creatinine \> 3 mg/dl
+* Significant liver disease: liver enzymes 2.5 folds the upper normal limit
+* Malignancy
+* Pregnancy or lactation

@@ -5,7 +5,7 @@ import { exists, readText, writeText, log } from "./io";
 
 /** Per-host minimum interval between requests, in ms. */
 const HOST_INTERVAL: Record<string, number> = {
-  "eutils.ncbi.nlm.nih.gov": process.env.NCBI_API_KEY ? 110 : 350,
+  "eutils.ncbi.nlm.nih.gov": process.env.NCBI_API_KEY ? 110 : 420,
   "api.reporter.nih.gov": 1100,
   "clinicaltrials.gov": 250,
   "www.ebi.ac.uk": 200,

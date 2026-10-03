@@ -1,0 +1,28 @@
+Title: A Study of Inclisiran to Prevent Cardiovascular Events in High-risk Primary Prevention Patients.
+Official title: A Randomized, Double-blind, Placebo-controlled Multicenter Study to Evaluate the Effect of Inclisiran on Preventing Major Adverse Cardiovascular Events in High-risk Primary Prevention Patients (VICTORION-1 PREVENT)
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Primary Prevention of Atherosclerotic Cardiovascular Disease
+Interventions: Inclisiran sodium 300 mg (equivalent to 284 mg inclisiran) in 1.5 mL (DRUG); Placebo in 1.5ml (DRUG)
+Summary: CKJX839D12302 is a pivotal Phase III study designed to test the hypothesis that treatment with inclisiran sodium 300 milligram (mg) subcutaneous (s.c.) administered on Day 1, Day 90, and every 6 months thereafter in patients at high cardiovascular (CV) risk without a prior major atherosclerotic cardiovascular disease (ASCVD) event will significantly reduce the risk of 4-Point-Major Adverse Cardiovascular Events (4P-MACE) defined as a composite of CV death, non-fatal myocardial infarction (MI), non-fatal ischemic stroke, and urgent coronary revascularization, compared to placebo.
+Eligibility: Inclusion Criteria:
+
+* At an increased risk for a first MACE (i.e., no prior major ASCVD event), defined as any one of the following:
+
+  1. Evidence of atherosclerotic coronary artery disease (CAD) on computer tomography (CT) or invasive coronary angiogram defined as a coronary artery stenosis ≥20% but \<50% in the left main coronary artery or stenosis ≥20% but \<70% in any other major epicardial coronary artery, or
+  2. Coronary artery calcium (CAC) score obtained by CT-scan ≥100 Agatston units, or
+  3. High 10-year ASCVD risk ≥20%, or
+  4. Intermediate 10-year ASCVD risk 7.5% - \<20% with at least 2 risk-enhancing factors.
+* LDL-C ≥70 mg/dL (≥1.81 mmol/L) but \<190 mg/dL (\<4.91 mmol/L) at the screening visit. If on a background lipid lowering therapy, the dose should be stable for at least 4 weeks prior to the screening visit and the participant should be willing to remain on this background therapy for the entire duration of the study.
+
+Exclusion Criteria:
+
+* History of major ASCVD event.
+* History of, or planned, ischemia-driven revascularization in a coronary or extracoronary arterial bed prior to randomization
+* Absence of coronary atherosclerosis on a CT angiogram or an invasive coronary angiogram in the 2 years prior to randomization
+* Coronary artery calcium (CAC) score of 0 obtained in the 2 years prior to randomization
+* Active liver disease or hepatic dysfunction
+* Previous, current, or planned treatment with a monoclonal antibody (mAb) directed toward proprotein convertase subtilisin/kexin type 9 (PCSK9) (e.g., evolocumab, alirocumab)
+* Pregnant or nursing (lactating) women
+* Women of childbearing potential unless they are using effective methods of contraception while taking study treatment which includes for 6 months after last study drug administration
+
+Other protocol-defined inclusion/exclusion criteria may apply.

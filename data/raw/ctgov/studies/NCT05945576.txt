@@ -1,0 +1,23 @@
+Title: IDMet (RaDiCo Cohort) (RaDiCo-IDMet)
+Official title: National Cohort on Imprinting Disorders and Their Metabolic Consequences
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Silver Russell Syndrome; Beckwith-Wiedemann Syndrome; Transient Neonatal Diabetes Mellitus; Angelman Syndrome; Prader-Willi Syndrome; Temple Syndrome; Kagami-Ogata Syndrome; Pseudohypoparathyroidism; Familial Precocious Puberty
+Interventions: none
+Summary: The goal of this observational study is to describe the natural history of imprinting disorders (IDs) according to their metabolic profile in all patients (adults and children) affected with an ID regardless of the severity of the disease, with a molecular characterization, with a signed informed consent for all subjects, followed in one partner's center.
+
+The main questions it aims to answer are:
+
+* Can we identify common metabolic profiles for all imprinted diseases?
+* Which imprinting disorders have an impact on the metabolic profiles of IDs?
+* Which are the metabolic risks associated to IDs?
+* Can we use the metabolic profiles for the clinical classification and prognosis of IDs?
+* Are there common therapeutic approaches for all IDs?
+Eligibility: Inclusion Criteria:
+
+* Patients (adults and children) affected with an ID regardless of the severity of the disease
+* A confirmed diagnosis of ID (based on molecular diagnosis)
+* A signed informed consent for adults or signed informed consent of parents/guardians of minors/ protected adult.
+
+Non-Inclusion Criteria:
+
+There are no non-inclusion criteria.

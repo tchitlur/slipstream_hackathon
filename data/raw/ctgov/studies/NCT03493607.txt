@@ -1,0 +1,25 @@
+Title: AMO-01 to Treat Adolescents and Adults With Phelan-McDermid Syndrome (PMS) and Co-morbid Epilepsy
+Official title: An Open-label Study to Investigate the Safety, Tolerability and Efficacy of a Single 6-hour Intravenous Infusion of AMO-01 to Treat Adolescents and Adults With Phelan-McDermid Syndrome (PMS) and Co-morbid Epilepsy
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Phelan-McDermid Syndrome; Epilepsy
+Interventions: AMO-01 (DRUG)
+Summary: The purpose of this study is to investigate the safety, tolerability and efficacy of a single 6-hour intravenous infusion of AMO-01 to treat adolescents and adults with PMS and co-morbid epilepsy. Phelan-McDermid Syndrome (PMS) is a neurodevelopmental disorder characterized by a chromosomal deletion or mutation at 22q13.3 that contains the SHANK3/ProSAP2 gene. A key co-morbidity in PMS is the presence of epilepsy. Currently there are no approved treatments for PMS. Furthermore, there has been relatively little clinical study of pharmacological interventions for PMS. AMO-01 may provide benefit to PMS patients exhibiting behavioral abnormalities and seizures.
+Eligibility: Inclusion Criteria:
+
+1. Subjects under study must have a diagnosis of Phelan McDermid syndrome (PMS) with genetic confirmation of pathogenic SHANK3 deletion or mutation.
+2. Subjects must be post pubertal males or females aged ≥12 years and ≤45 years at Screening.
+3. Subject must have a diagnosis of epilepsy.
+4. Subjects must have a syndrome-specific Clinical Global Impression- Severity Score of 4 or greater at Screening
+5. Subject's parent or legally authorized representative (LAR) must provide written informed consent before any study related procedures are conducted. Where a parent or LAR provides consent, there must also be assent from the subject (as required by local regulations).
+6. Subject's caregiver must be willing and able to support the subject's participation for the duration of the study.
+7. Subject's caregiver is able and willing to maintain an accurate and complete daily written seizure diary for the entire duration of the study.
+
+Exclusion Criteria:
+
+1. Receiving medications/therapies not stable (i.e. changed) within 4 weeks prior to Screening. For each enrollee, every effort should be made to maintain stable regimens of allowed concomitant medications and allowed non -medicine based therapies throughout the course of the study, from Screening until the last study assessment.
+2. Known hypersensitivity to farnesylated dibenzodiazepinone or any of the formulation components.
+3. Subjects with a history of uncontrolled hypotension or hypertension (Polysorbate 80 is a major constituent of AMO-01 and can cause hypotension).
+4. Subjects that have received Coumadin or heparin in the 2 weeks preceding Screening.
+5. Medical illness or other concern which would cause the investigator to conclude that the subject will not be able to perform the study procedures or assessments or would confound interpretation of data obtained during assessments.
+6. Females who are pregnant, lactating or not willing to use a protocol-defined acceptable contraception method if sexually active and not surgically sterile.
+7. Males, engaged in sexual relations with a female of child bearing potential, not using an acceptable contraception method if sexually active and not surgical

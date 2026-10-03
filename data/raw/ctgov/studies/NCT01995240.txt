@@ -1,0 +1,19 @@
+Title: Functional Magnetic Resonance Imaging of Pancreatic Cancer: a Feasibility and Reproducibility Study
+Official title: Functional Magnetic Resonance Imaging of Pancreatic Cancer: a Feasibility and Reproducibility Study
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Pancreatic Cancer
+Interventions: Gadobutrol (DRUG)
+Summary: Novel predictive markers are needed to determine treatment efficacy in pancreatic cancer at an early stage. Preferably, these markers could be determined non-invasively and provide insight into the biology of pancreatic cancer. Several MR techniques can serve for this purpose. However, optimalisation of these techniques is needed and their reproducibility should be assessed.
+Eligibility: Inclusion Criteria:
+
+* Patients with pancreatic tumors, with histological or cytological proof of adenocarcinoma or a high suspicion on CT imaging.
+* Any tumor with a size ≥ 1cm
+* WHO-performance score 0-2
+* Written informed consent
+
+Exclusion Criteria:
+
+* Any psychological, familial, sociological or geographical condition potentially hampering adequate informed consent or compliance with the study protocol.
+* Contra-indications for MR scanning, including patients with a pacemaker, cochlear implant or neurostimulator; patients with non-MR compatible metallic implants in their eye, spine, thorax or abdomen; or an aneurysm clip in their brain; patients with severe claustrophobia.
+* Renal failure (GFR \< 30 ml/min) hampering safe administration of Gadolinium containing MR contrast agent.
+* For the reproducibility part of the protocol: surgery, radiation and/or chemotherapy foreseen within the timeframe needed for MRI scanning.

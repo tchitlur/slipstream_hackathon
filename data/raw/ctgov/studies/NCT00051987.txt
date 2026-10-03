@@ -1,0 +1,35 @@
+Title: Phase 2b Study of VELCADE Alone and VELCADE Plus Irinotecan in Patients With Relapsed or Refractory Colorectal Carcinoma
+Official title: A Randomized, Multicenter, Open-Label, Phase 2b Study of VELCADE Alone and VELCADE Plus Irinotecan in Patients With Relapsed or Refractory Colorectal Carcinoma
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Colorectal Carcinoma
+Interventions: VELCADE TM (bortezomib) for Injection, or PS-341 (DRUG)
+Summary: The purpose of this study is to evaluate how tumors in patients with colorectal carcinoma respond to treatment with VELCADE alone versus VELCADE given with irinotecan, and also to see what effects (good and bad) it has on you and your cancer.
+Eligibility: Inclusion Criteria
+
+* Patient has histologically confirmed inoperable locally advanced or metastatic CRC.
+* Patient has measurable disease.
+* Patient is not considered a candidate for immediate curative resection.
+* Patient has received no more than 2 prior treatment regimens for metastatic disease, one of which must have contained irinotecan.
+* Patient has relapsed or progressed while receiving an irinotecan-containing regimen.
+* Patient has KPS of 70% or greater.
+* Patient has a life expectancy greater than 3 months.
+* Patient is 18 years of age or older.
+* Female patient is postmenopausal, surgically sterilized, or willing to use an acceptable method of birth control (ie, a hormonal contraceptive, intrauterine device, diaphragm with spermicide, condom with spermicide, or abstinence) for the duration of the study.
+* Male patient agrees to use an acceptable method of birth control for the duration of the study.
+* Patient has given voluntary written informed consent before performance of any study-related procedure not part of normal medical care, with the understanding that consent may be withdrawn by the patient at any time without prejudice to his or her future medical care.
+* Patient is, in the investigator's opinion, willing and able to comply with the protocol requirements.
+
+Exclusion Criteria
+
+* Patient has greater than or equal to Grade 2 neuropathy as defined by the NCI Common Toxicity Criteria (CTC):
+
+  * Grade 2: Objective sensory loss or paresthesia (including tingling), interfering with function, but not interfering with activities of daily living (ADL).
+  * Grade 3: Sensory loss or paresthesia interfering with ADL.
+  * Grade 4: Permanent sensory loss that interferes with function.
+* Patient has previously received treatment with VELCADE.
+* Patient has other malignancies except non-melanoma skin cancers and carcinoma of the cervix in situ.
+* Patient has received chemotherapy within 4 weeks prior to enrollment.
+* Patient has received radiation therapy within 4 weeks prior to enrollment.
+* Patient has received monoclonal antibodies within 6 weeks prior to enrollment.
+* Patient had major surgery within 4 weeks prior to enrollment.
+* Patient has inadequ

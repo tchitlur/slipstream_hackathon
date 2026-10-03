@@ -1,0 +1,16 @@
+Title: TCF7L2 Polymorphisms Influence on Glycemic Control in ICU Patients With Organ Failure
+Official title: TCF7L2 Polymorphisms Influence on Glycemic Control in ICU Patients With Organ Failure
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Genetic Predisposition to Disease; Hyperglycemia; Intensive Care Unit Syndrome; Multiple Organ Failure
+Interventions: genetic analysis (GENETIC); blood and stools samples (BIOLOGICAL)
+Summary: This study evaluates the link between genetic polymorphisms as r7903146, rs12255372 of TCF7L2 gene and the risk of developing hyperglycemia during Intensive care unit stay
+Eligibility: Inclusion Criteria:
+
+* admission in ICU\>48h
+* at least one organ dysfunction
+
+Exclusion Criteria:
+
+* age\< 18 years
+* pregnant women
+* admission less than 48h

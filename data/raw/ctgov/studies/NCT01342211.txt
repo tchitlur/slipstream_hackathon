@@ -1,0 +1,16 @@
+Title: A Multiple Dose Study of PF-04950615 (RN316) in Subjects on High Doses of Statins
+Official title: A Phase 2, Double-blind, Placebo-controlled, Randomized Study To Assess The Efficacy, Safety And Tolerability Of Pf-04950615 Following Multiple Intravenous Doses In Hypercholesterolemic Subjects On High Doses Of Atorvastatin, Rosuvastatin Or Simvastatin.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Hypercholesterolemia; Dyslipidemia
+Interventions: Placebo (BIOLOGICAL); Statin (DRUG); PF-04950615 (RN316) (BIOLOGICAL); Statin (DRUG); PF-04950615 (RN316) (BIOLOGICAL); Statin (DRUG); PF-04950615 (RN316) (BIOLOGICAL); Satin (DRUG); PF-04950615 (RN316) (BIOLOGICAL); Statin (DRUG)
+Summary: This study will investigate the effect of PF-04950615, a new investigational lipid lowering agent, on LDL-C and other lipids.
+Eligibility: Inclusion Criteria:
+
+* On a stable daily dose of atorvastatin, rosuvastatin or simvastatin.
+* Lipids meet the following criteria at screening and prior to dosing: Fasting LDL-C greater than 100 mg/dL and fasting TG less than 400 mg/dL
+
+Exclusion Criteria:
+
+* History of a cardiovascular or cerebrovascular event or procedure during the past year.
+* Poorly controlled type 1 or type 2 diabetes mellitus.
+* Poorly controlled hypertension.

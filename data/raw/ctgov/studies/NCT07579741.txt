@@ -1,0 +1,29 @@
+Title: A Study to Evaluate JL18008 in Subject With HIV Immunological Non-Responders
+Official title: Evaluation of Pharmacokinetics, Pharmacodynamics, and Safety of JL18008 Injection in Healthy Adult Subjects / HIV Immunological Non-Responders: A Randomized, Double-Blind, Placebo-Controlled Phase I/II Clinical Study
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: HIV Infections
+Interventions: JL18008 20 μg/kg (DRUG); Placebo (for 20 μg/kg Group) (DRUG); JL18008 40 μg/kg (DRUG); Placebo (for 40 μg/kg Group) (DRUG); JL18008 70 μg/kg (DRUG); Placebo (for 70 μg/kg Group) (DRUG)
+Summary: The Phase Ib clinical trial is an add-on study based on combination antiretroviral therapy (cART). It adopts a multicenter, randomized, double-blind, placebo-controlled, multiple-dose design to evaluate the safety and efficacy of multiple intramuscular injections of JL18008 added to cART in HIV immunological non-responders (INRs).
+
+Based on the Phase Ia clinical data, three dose groups are planned for the Phase Ib trial: 20, 40, and 70 μg/kg of JL18008. Each group is planned to enroll 10 subjects (8 receiving active drug and 2 receiving placebo). All subjects must maintain their original cART regimen unchanged. Subjects in the active treatment groups will receive JL18008 injection in addition to cART, while those in the control group will receive placebo (JL18008 injection buffer) in addition to cART. The dosing regimen is tentatively once weekly (QW) for 4 consecutive weeks, which constitutes one treatment cycle, followed by an observation/follow-up period. The study drug will be administered by intramuscular injection.
+Eligibility: Inclusion Criteria:
+
+1. Age 18 to 65 years (inclusive), male or female.
+2. Body mass index (BMI) 18.0 to 32.0 kg/m² (inclusive); body weight ≥50.0 kg for males and ≥45.0 kg for females.
+3. Receiving combination antiretroviral therapy (cART) for at least 48 months, with a stable antiretroviral regimen for at least 3 months prior to enrollment.
+
+   Maintained HIV-1 RNA below 50 copies/mL for at least 36 months (the earliest test date more than 36 months before enrollment), including transient viral blips (single HIV-1 RNA measurement between 50 and 200 copies/mL after excluding laboratory error). At least two HIV-1 RNA results \<50 copies/mL must be available (one may be from screening).
+4. Immunological non-responder criteria: CD4⁺ T cell count ≤350 cells/μL within 1 year before screening. At least three CD4⁺ T cell counts ≤350 cells/μL within 4 years before enrollment, with intervals of ≥3 months between tests (the third may be from screening).
+5. Willing to use effective non-pharmacological contraception with partner from screening until 3 months after study completion, and no plan for sperm/egg donation during this period.
+6. Able to understand and provide written informed consent, and willing to comply with all protocol-specified visits and procedures.
+
+Exclusion Criteria:
+
+1. Known allergy to the study drug or any of its excipients.
+2. Receipt of immunosuppressants, immunomodulators, or systemic cytotoxic therapy within 3 months before screening.
+3. Receipt of hormone therapy within 1 month before screening, except for daily doses ≤10 mg prednisone or equivalent.
+4. History of severe autoimmune disease requiring systemic treatment or hospitalization, or any active autoimmune disease requiring treatment (including multiple sclerosis).
+5. History of systemic infection (viral, bacterial, parasitic, or fungal) requiring systemic treatment and/or hospitalization, or other opportunistic infection, within 30 days before screening.
+6. Active tuberculosis lesion within 30 days before screening.
+7. Blood disorders associated with hypersplenism (e.g., thalassemia, hereditary spherocytosis, Gaucher's disease, autoimmune hemolytic anemia) or history of splenectomy.
+8. Ch

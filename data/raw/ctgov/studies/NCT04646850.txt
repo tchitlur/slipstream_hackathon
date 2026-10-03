@@ -1,0 +1,20 @@
+Title: Long-term Treatment With the Ketogenic Diet in Epilepsy
+Official title: Long-term Treatment With the Ketogenic Diet in Epilepsy and Epilepsy-related Rare Diseases
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Epilepsy; GLUT1DS1; PDH Deficiency
+Interventions: Color duplex ultrasound of the carotid arteries (OTHER)
+Summary: This study will provide a comprehensive assessment of long-term treatment with the ketogenic diet, a medical diet with high fat and low carbohydrate intake, focusing on safety and cardiovascular implications. We will assess patients with epilepsy or one of two rare metabolic diseases; glucose transporter type 1 deficiency syndrome (GLUT1 DS) or pyruvate dehydrogenase complex deficiency (PDHD).
+Eligibility: Inclusion Criteria:
+
+* Treatment with the ketogenic diet at the National Centre for Epilepsy (SSE) for 5 years or more
+* Able to travel from The National Centre for Epilepsy - SSE (Sandvika) to Rikshospitalet (Gaustad) to perform procedures to investigate cardiovascular risk factors
+* Willing to draw extra blood for research purposes
+* Willing to sign informed consent and participate in the study in accordance with the study protocol
+* Willing to sign informed consent for blood samples to be included in research biobank at the Department of Neurology, Oslo University Hospital
+
+Exclusion Criteria:
+
+* Non-compliance with the dietary treatment for 6 months or longer or more than once per month
+* Not possible to communicate with parents in Norwegian or English without interpreter
+* Patient not able to cooperate and lie still for about ten minutes during the carotid ultrasound examination
+* Psychiatric/mental illness, alcohol or drug abuse or other factors making it impossible to pursue the study protocol

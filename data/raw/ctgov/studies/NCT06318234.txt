@@ -1,0 +1,25 @@
+Title: PET/MR Evaluation of Regression Grading After Neoadjuvant Therapy for Rectal Cancer
+Official title: Research Focused on Developing and Assessing a Non-intrusive Diagnostic Approach for Grading Tumor Regression Post-neoadjuvant Treatment in Rectal Cancer, Utilizing 18F-FAPI in Conjunction With FDG PET/MR Imaging.
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rectal Cancer
+Interventions: 18F-FAPI，18F-FDG (DIAGNOSTIC_TEST)
+Summary: This project aims to evaluate the role of 18F-FAPI combined with 18F-FDG PET/MRI imaging in quantitatively and accurately evaluating the grading of rectal cancer after SCRT neoadjuvant therapy in patients with advanced rectal cancer as the research object, with postoperative histopathological analysis as the reference index, and to assess the ability of patients to achieve pCR. A diagnostic model and evaluation system will also be constructed.
+Eligibility: Inclusion Criteria:
+
+* Pathologically confirmed as rectal adenocarcinoma, with baseline clinical staging of T3\~4 and/or N+;
+* No distant metastasis;
+* Not receiving chemotherapy or any other anti-tumor treatment before enrollment;
+* Has not received immunotherapy before enrollment and is able to adhere to the protocol during the study period (neoadjuvant therapy of short-term radiotherapy sequential chemotherapy combined with immunotherapy);
+* After neoadjuvant therapy, 18F-FAPI and 18F-FDG PET/MRI imaging were performed within 7 days before surgery, and the two scans were collected over two days;
+* Patient age ≥ 18 years old
+
+Exclusion Criteria:
+
+* Pregnant or lactating patients;
+* Patients with severe heart disease in clinical practice;
+* Organ transplantation requires immunosuppressive therapy and long-term use of hormone therapy;
+* Patients with autoimmune diseases;
+* Serious uncontrolled recurrent infections or other serious uncontrolled comorbidities;
+* The imaging quality is poor and cannot be used for diagnosis and evaluation;
+* Fasting blood glucose levels are higher than 11.1 mmol/L;
+* Patients with contraindications for MRI examination.

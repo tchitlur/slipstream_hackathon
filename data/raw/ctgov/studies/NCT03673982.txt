@@ -1,0 +1,15 @@
+Title: Carer Skills Training for Inpatients With Anorexia Nervosa (iCASK)
+Official title: Bridging Transitions From Hospital to Home: Collaborative Skill Sharing Intervention With Carers (iCASK)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Anorexia Nervosa
+Interventions: iCASK (BEHAVIORAL)
+Summary: To improve treatment for patients with severe anorexia nervosa admitted for inpatient care, and to help their families. Inpatients and their families will be offered a novel intervention which includes multimedia training materials. These materials provide guidance in how families can provide support to maintain and build on changes made during inpatient care
+Eligibility: Inclusion Criteria:
+
+* aged 17 or over
+* DSM-5 diagnosis of Anorexia Nervosa with a body mass index (BMI) of \< 18.5 kg/m2
+
+Exclusion Criteria:
+
+* Insufficient knowledge of English
+* Severe mental or physical illness needing treatment in its own right (e.g. psychosis or diabetes mellitus)

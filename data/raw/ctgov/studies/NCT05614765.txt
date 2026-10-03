@@ -1,0 +1,21 @@
+Title: Evaluation of Dyslipidemia Management After Statin and Ezetimibe Complex Treatment
+Official title: Real World Data Observational Study to Evaluate the Management Status of Dyslipidemia Following Administration of Statin and Ezetimibe Complex Treatment Patient in the Medical Situation by Classification of Medical Institutions in KOREA
+Status: ACTIVE_NOT_RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Dyslipidemias
+Interventions: Statin+Ezetimibe compound (DRUG)
+Summary: This study is a large-scale, prospective, multi-site, and non-interventional observational study to observe the change and safety of dyslipidemia management status when administering statin+etimib complex drugs in patients with dyslipidemia.
+Eligibility: Inclusion Criteria:
+
+1. Adult men and women aged 19 or older as of the time of the registered visit (Visit 1)
+2. Patients with dyslipidemia who are planning to administer statin+ezetimib complex or who are administering dyslipidemia complex according to the researcher's medical judgment based on the permission of statin+ezetimib complex
+3. A person who can understand the information provided to him or her and voluntarily sign a written consent form
+
+Exclusion Criteria:
+
+1. Patients who overreact to the main ingredients or components of the drug in the study
+2. Patients with active liver disease or patients with continuously high serum aminotransferase levels with unknown cause
+3. Patients with muscle disease.
+4. Pregnant women or pregnant women and nursing mothers
+5. Patients with genetic problems such as galactose intolerance, Lapp lactase deficiency, or glucose-galactose malabortion
+6. A person who is not permitted by administration of statin+etimib complex or who falls under prohibition of administration
+7. In addition to the above, a person who has determined that the researcher is not suitable for participation in this observation study

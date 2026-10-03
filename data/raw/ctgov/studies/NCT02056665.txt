@@ -1,0 +1,17 @@
+Title: Study to Evaluate the Efficacy and Safety of Minocycline in Angelman Syndrome
+Official title: Randomized Clinical Trial, Placebo Compared to Evaluate the Efficacy and Safety of Minocycline in Angelman Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Angelman Syndrome
+Interventions: MINOCYCLINE (DRUG); PLACEBO (for Minocycline) (DRUG)
+Summary: RANDOMIZED CLINICAL TRIAL, PLACEBO COMPARED TO EVALUATE THE EFFICACY AND SAFETY OF MINOCYCLINE IN ANGELMAN SYNDROME (A-MANECE STUDY)
+Eligibility: Inclusion Criteria:
+
+* Male or female between 6 and 30 years old.
+* Clinical diagnosis of Angelman Syndrome and molecular confirmation of diagnosis.
+* The participant has an acceptable guardian can give consent on behalf of the participant.
+
+Exclusion Criteria:
+
+* Patients with hypersensitivity to tetracyclines.
+* Patients with impaired hepatic or renal function and in those with mainly drug allergy history.
+* Any other condition that in the opinion of the investigator is considered clinically relevant and that administration of minocycline contraindicated

@@ -1,0 +1,30 @@
+Title: Drug-Drug Interaction Between Rifampin and Fluvastatin
+Official title: The Effects of Single Dose Rifampin on Pharmacokinetics of Fluvastatin in Uninduced and Hepatically Induced Healthy Volunteers
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Drug-drug Interaction
+Interventions: rifampin IV (DRUG); Rifadin 300Mg Capsule (DRUG); Fluvastatin 20 MG (DRUG)
+Summary: The effect of organic anion transporting polypeptide 1B1 (OATP1B1) transporter inhibition at clinical doses of fluvastatin, a biopharmaceutics drug disposition classification system (BDDCS) class 1 drug, has not been studied to date. A single dose of IV rifampin can be used as model OATP1B1 inhibitor to evaluate the significance of OATP1B1 transporter effects on fluvastatin disposition. A preinduction regimen of oral rifampin followed by a single IV infusion of rifampin can be used to evaluate the combined effects of enzyme induction and OATP1B1 transporter inhibition on fluvastatin disposition. A two arm, randomized, open label, crossover clinical study in healthy, volunteers will be conducted to evaluate the effects of IV rifampin on fluvastatin disposition in both hepatically induced and uninduced subjects.
+Eligibility: Inclusion Criteria:
+
+1. Healthy male or female, ages 18-65 years old, with no current medical conditions or active diagnoses as determined by the study doctor based on history, physical exam, and laboratory evaluations.
+2. Subjects who take no other medications two weeks prior to the study and during the time course of the study including prescription medications, over-the-counter medications, dietary supplements, or drugs of abuse.
+3. Subjects able to maintain adequate birth control during the study independent of hormonal contraceptives (including hormonal intrauterine devices (IUDs)). Adequate methods of contraception include use of condoms and copper IUDs.
+4. Subjects able to abstain from grapefruit, grapefruit juice, oranges, orange juice, caffeinated beverages and/or alcoholic beverages from 7am the day before the study to completion of that study day.
+5. Participants determined to have normal liver and kidney function as measured at baseline ( alanine aminotransferase (ALT): ≤ 2x upper level of normal (ULN), aspartate aminotransferase (AST): ≤ 2x ULN, serum creatinine (SCr): ≤ 1.5x ULN, T. Bili: 0.1-1.2mg/dL, Albumin: 3.4 - 4.7 mg/dL).
+6. BMI between 18.0 - 30 kg/m2 o Subjects capable of fasting from food and beverages at least 8 hours prior to medication dosing.
+7. Be able to read, speak, and understand English.
+8. Subjects capable of providing informed consent and completing the requirements of the study.
+
+Exclusion Criteria:
+
+1. Subjects with active medical problems
+2. Subjects on chronic prescription or over the counter (OTC) medication that cannot be stopped 2 weeks prior to and during the study.
+3. Subjects incapable of multiple blood draws (HCT \< 30mg/dL)
+4. Subjects with a history of rhabdomyolysis
+5. Subjects with a history of drug-related myalgias
+6. Subjects with a history or diagnosis of hemorrhagic tendencies or blood dyscrasias
+7. Subjects with a history of GI bleed or peptic ulcer disease
+8. Subjects who smoke tobacco or have ongoing alcohol or illegal drug use
+9. Subjects who are pregnant, lactating, or trying to conceive during the study period
+10. Subjects allergic to fluvastatin or rifampin or any known component of the medications
+11.

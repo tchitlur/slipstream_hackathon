@@ -1,0 +1,27 @@
+Title: Phase 1b Study of Weekly Carfilzomib in Combination With Lenalidomide and Dexamethasone in Subjects With Multiple Myeloma
+Official title: Phase 1b Study of Carfilzomib Administered Once Weekly in Combination With Lenalidomide and Dexamethasone in Subjects With Multiple Myeloma
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Multiple Myeloma
+Interventions: Carfilzomib (DRUG); Lenalidomide (DRUG); Dexamethasone (DRUG)
+Summary: The purpose of the study is to assess the safety, tolerability and activity of a once-weekly regimen of carfilzomib in combination with lenalidomide and dexamethasone for the treatment of multiple myeloma.
+Eligibility: Key Inclusion Criteria:
+
+1. Newly diagnosed or relapsed multiple myeloma
+2. Measureable disease by serum M protein, or urine M protein, or serum free light chain (SFLC) and an abnormal serum kappa lambda ratio (for subjects without detectable serum or urine M-protein), or serum quantitative immunoglobulin A (glgA) (for immunoglobulin (Ig) A subjects whose disease can only be reliable measured by qlgA).
+3. Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) of 0 to 2
+4. Left ventricular ejection fraction (LVEF) ≥ 40%
+
+Key Exclusion Criteria:
+
+1. Waldenström macroglobulinemia
+2. For newly diagnosed multiple myeloma: multiple myeloma of IgM subtype
+3. For relapsed disease:
+
+   1. If treated with a lenalidomide and dexamethasone combination, progression during the first 3 months after initiating treatment.
+   2. Any progression during treatment if the lenalidomide and dexamethasone regimen was the most recent line of therapy.
+   3. Any prior treatment with carfilzomib
+4. POEMS syndrome (polyneuropathy, organomegaly, endocrinopathy, monoclonal protein, and skin changes)
+5. Plasma cell leukemia (\> 2.0 × 10\^9/L circulating plasma cells by standard differential)
+6. Myelodysplastic syndrome
+7. Amyloidosis
+8. Prior treatment with carfilzomib or oprozomib

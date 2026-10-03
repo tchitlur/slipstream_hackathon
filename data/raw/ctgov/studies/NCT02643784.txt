@@ -1,0 +1,40 @@
+Title: Exploratory Study on the Effects of Early Rosuvastatin Treatment in Patients With Acute Ischemic Stroke
+Official title: Exploratory Study on the Effects of Early Rosuvastatin Treatment in Patients With Acute Ischemic Stroke
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Ischemic
+Interventions: Rosuvastatin (DRUG); Control (OTHER)
+Summary: This is an exploratory, randomized, open-label, 2-arm, parallel-group study exploring the efficacy of rosuvastatin (20mg/day) in patients with acute ischemic stroke.
+Eligibility: Inclusion Criteria:
+
+1. 45 to 75 years old patients;
+2. Stroke involving the vascular territory of the middle cerebral artery (MCA) as judged by clinical and MRI evidences;
+3. Time from symptom onset to take the study assigned medication is within 24 hours;
+4. Statin naïve or discontinued at least 3 month before stroke onset;
+5. First ever stroke or mild sequelae (with modified Rankin Score 0-1) before the index event;
+6. Moderate neurological deficit with baseline NIHSS scoring from 4-20;
+7. MRI scans （T1W1、T2W2、T2Flair、DWI、SWI）accomplished from 12 to 48 hours after the onset;
+8. Consent form signed.
+
+Exclusion Criteria:
+
+\-
+
+Any of the following is regarded as a criterion for exclusion from the study:
+
+1. Stroke involving the vascular territory of the vertebrobasilar artery as judged by clinical and MRI evidences;
+2. Hemorrhagic transformation or intracranial hemorrhage on baseline MRI. MRI performed between 12-48 hours after the onset, if MRI provides evidences which met with the exclusion criteria, the patients will be excluded from the study;
+3. Any circumstances under which MRI scans can't be performed;
+4. Evidences suggesting cardiogenic stroke such as atrial fibrillation, acute coronary syndrome, patent foramen ovale , etc;
+5. Comatose with NIHSS 1a\>1;
+6. Medical or psychiatric conditions such as severe hepatic or renal dysfunction, heart failure, malignancy, major depression, dementia, alcohol or drug abuse;
+7. Suitable for rt-Plasminogen Activator thrombolysis treatment;
+8. Receiving medication with possible neuroprotective functions after stroke onset;
+9. Currently take steroids therapy;
+10. Diagnosed with malignancy within 5 years;
+11. Patients with myopathy or serum creatine kinase \> 3 times the upper limit of normal not caused by myocardial injury;
+12. Severe renal function damage (eGFR\<30);
+13. Concurrent use ciclosporin;
+14. A history of hypersensitivity of statins and other severe complication;
+15. Child-bearing women ;
+16. Patients who are or may be pregnant;
+17. Other conditions under which patients not pertinent to attend the study as judged by the investigators.

@@ -105,11 +105,11 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
             <div className="border border-[#fdba74] bg-warn-bg rounded-md p-3 text-sm">
               <div className="font-medium text-warn mb-1">Mechanism is contested</div>
               <p className="text-ink-2">
-                Gene2Phenotype records <strong>{c.contested.curatedMechanism}</strong>. {c.contested.claims.length} verified sentence{c.contested.claims.length === 1 ? "" : "s"} from PubMed abstracts point to{" "}
+                Gene2Phenotype records <strong>{c.contested.curatedMechanism}</strong>. {c.contested.claims.length} verified sentence{c.contested.claims.length === 1 ? "" : "s"} from PubMed abstract{new Set(c.contested.claims.map((cl) => cl.pmid)).size === 1 ? "" : "s"} ({new Set(c.contested.claims.map((cl) => cl.pmid)).size} paper{new Set(c.contested.claims.map((cl) => cl.pmid)).size === 1 ? "" : "s"}) point to{" "}
                 {Array.from(new Set(c.contested.claims.map((cl) => cl.direction.replace("_", " ")))).join(" or ")}. Both sides are shown in the evidence panel; neither is treated as settled.
               </p>
               <ul className="mt-2 space-y-1">
-                {c.contested.claims.slice(0, 4).map((cl) => (
+                {c.contested.claims.filter((cl, i, arr) => arr.findIndex((x) => x.pmid === cl.pmid && x.direction === cl.direction) === i).slice(0, 5).map((cl) => (
                   <li key={cl.evidenceId} className="text-ink-2">
                     <EvidenceLink ids={[cl.evidenceId]} title={`Published claim (PMID ${cl.pmid})`}>
                       PMID {cl.pmid}: {cl.direction.replace("_", " ")} — {cl.mechanism}

@@ -1,0 +1,28 @@
+Title: MTT for Children With Both Pitt Hopkins Syndrome and Gastrointestinal Disorders
+Official title: Microbiota Transfer Therapy for Children With Both Pitt Hopkins Syndrome and Gastrointestinal Disorders
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Pitt Hopkins Syndrome
+Interventions: vancomycin, magnesium citrate, microbiota (COMBINATION_PRODUCT); placebo vancomycin, real magnesium citrate, placebo microbiota (COMBINATION_PRODUCT)
+Summary: The investigators propose to investigate Microbiota Transfer Therapy (MTT) for treating patients with Pitt Hopkins Syndrome (PTHS) and gastrointestinal problems similar to Irritable Bowel Syndrome (IBS). MTT involves a combination of 10 days of oral vancomycin (an antibiotic to kill pathogenic bacteria), followed by a bowel cleanse, followed by 12 weeks of Fecal Microbiota (FM).
+Eligibility: Inclusion Criteria:
+
+1. Children ages 7-17 years with Pitt Hopkins Syndrome (verified by genetic testing)
+2. GI disorder as defined below that has lasted for at least 2 years.
+3. No changes in medications, supplements, diet, or therapies in last 2 months, and no intention to change them during the Parts 1 and 2 of the clinical trial.
+4. Ability to swallow pills (without chewing)
+5. Review of last two years of medical records by the study physician.
+
+Exclusion Criteria:
+
+1. Antibiotics in last 3 months
+2. Probiotics in last 2 months, or fecal transplant in last 12 months
+3. Tube feeding
+4. Severe gastrointestinal problems that require immediate treatment (life-threatening)
+5. Ulcerative Colitis, Crohn's Disease, diagnosed Celiac Disease, Eosinophilic Gastroenteritis, or similar conditions
+6. Unstable, poor health (based on study physician's opinion)
+7. Recent or scheduled surgeries
+8. Current participation in other clinical trials
+9. Females who are pregnant or who are at risk of pregnancy and sexually active without effective birth control.
+10. Allergy or intolerance to vancomycin or magnesium citrate
+11. Clinically significant abnormalities at baseline on two blood safety tests: Comprehensive Metabolic Panel, and Complete Blood Count with Differential.
+12. Evidence of significant impairment of immune system, or taking medications that can compromise the immune system, and thus increase risk if exposed to multiple-drug resistant bacteria.

@@ -1,0 +1,21 @@
+Title: "The Effect of The Combination Therapy of Statin and SGLT2i in The Treatment of Ischemic Heart Disease"
+Official title: "The Effect of The Combination Therapy of Statin and SGLT2i in The Treatment of Ischemic Heart Disease"
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: 2 Drugs Are Statin and SGLT2i
+Interventions: Statin and SGLT2i (DRUG)
+Summary: correlate the serum level of statin and SGLT2i when given as polytherapy with HPLC in ischemic heart failure patients and their laboratory tests (cholesterol, LDL, HDL and TG...)
+Eligibility: Inclusion Criteria:
+
+* we include patients established ischemic heart failure seen by a primary care provider to diagnose ischemic heart disease,
+* They assessed the use of statin with SGLT2i.
+
+Exclusion Criteria:
+
+* We exclude patients with
+
+  1. liver dysfunction.
+  2. renal dysfunction.
+  3. fungal infection.
+  4. coagulation disorder.
+  5. Pts using drugs that interact with SGLT2i.
+  6. patients that will refuse to be enrolled in the Study or refuse to write informed consent.

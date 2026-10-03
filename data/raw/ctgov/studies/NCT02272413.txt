@@ -1,0 +1,33 @@
+Title: Phase III Trial BI 695502 Plus Chemotherapy vs. Avastin® Plus Chemotherapy in Patients With Lung Cancer
+Official title: A Multicenter, Randomized, Double-blind Phase III Trial to Evaluate Efficacy and Safety of BI 695502 Plus Chemotherapy Versus Avastin® Plus Chemotherapy in Patients With Advanced Nonsquamous Non-Small Cell Lung Cancer
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Carcinoma, Non-Small-Cell Lung
+Interventions: BI 695502 (DRUG); Avastin (DRUG)
+Summary: The objective of this phase III trial is to establish statistical equivalence in terms of efficacy (best overall response rate \[ORR\], proportion of patients with complete response \[CR\] plus partial response \[PR\]) until 18 weeks of first-line treatment with BI 695502 plus chemotherapy versus Avastin® plus chemotherapy followed by maintenance monotherapy with either BI 695502 or Avastin®.
+Eligibility: Inclusion criteria:
+
+Adult patients aged \>=18 years with histologically or cytologically confirmed advanced nonsquamous non-small cell lung cancer (nsNSCLC). Mixed tumors should be categorized according to the predominant histology.
+
+Note: NSCLC should be predominantly nonsquamous. Recurrent or metastatic disease (Stage IV) with an indication for therapy with paclitaxel + carboplatin + Avastin®.
+
+Patients harboring tumors with unknown or without activating epidermal growth factor receptor (EGFR) / anaplastic lymphoma receptor tyrosine kinase (ALK) mutation maybe included provided chemotherapy is standard of care. At least one measurable lesion according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 based on independent central review.
+
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 or 1.
+
+Adequate hepatic, renal, and bone marrow function:
+
+Life expectancy \> 6 months based on clinical judgment. Further inclusion criteria apply.
+
+Exclusion criteria:
+
+Prior therapy with monoclonal antibodies or small molecule inhibitors against Vascular Endothelial Growth Factor (VEGF) or VEGF receptors, including Avastin®.
+
+Prior systemic therapy for metastatic disease. Prior systemic anticancer therapy or radiotherapy for locally advanced nsNSCLC if completed \<12 months prior to Screening.
+
+Previous malignancy other than NSCLC in the last 5 years except for basal cell cancer of the skin or pre-invasive cancer of the cervix.
+
+Symptomatic brain metastasis. Diagnosis of small cell carcinoma of the lung, squamous cell carcinoma of the lung, NSCLC not specified (NS) or NSCLC not otherwise specified(NOS).
+
+Any unresolved toxicity \> Common Toxicity Criteria Grade 1 (except alopecia) from previous anticancer therapy (including radiotherapy).
+
+History or evidence of inherited bleeding diathesis or coagulopathy with the risk of bleeding. Thrombotic or hemorrhagic event =\< 6 months prior to Screening. Further exclusion criteria apply.

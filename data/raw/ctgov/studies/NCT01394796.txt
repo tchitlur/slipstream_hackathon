@@ -1,0 +1,19 @@
+Title: Egcg, a dyrk1a Inhibitor as Therapeutic Tool for Reversing Cognitive Deficits in Down Syndrome Individuals.
+Official title: Egcg, a dyrk1a Inhibitor as Therapeutic Tool for Reversing Cognitive Deficits in Down Syndrome Individuals.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Down Syndrome
+Interventions: Epigallocatechin-3-gallate (EGCG) (DIETARY_SUPPLEMENT); Placebo (DRUG)
+Summary: There is a mounting evidence of the modulation properties of the major catechin in green tea, epigallocatechin-3-gallate (EGCG), on dual specificity tyrosine-phosphorylation-regulated kinase 1A (DYRK1A) gene overexpression in the brains of DS mouse models.The aims are to investigate the clinical benefits and safety of EGCG administration in young adults with DS, to establish short-term EGCG effects (three months) on neurocognitive performance, and to determine the persistency or reversibility of EGCG related effects after three months of discontinued use.
+Eligibility: Inclusion Criteria:
+
+* Have been diagnosed of DS neurological disease, aged between 14-29 years, have given the consent to participate (official custody).
+
+Exclusion Criteria:
+
+* Subjects with neurological disease other than DS, relevant medical disease, co-morbid mental disorder or currently taking any treatment that could interfere with cognitive function or alter any key biomarkers and biochemical parameters analyzed.
+* Having suffered from any major illness or undergoing major surgery in the last three months before the study;
+* Regular ingestion of medication in the month preceding the study. Exceptions were made for single doses of symptomatic medication administered up to the week preceding the trial.
+* Current ingestion of vitamin supplements or catechins or AINE in the two weeks preceding the study.
+* History of gastrointestinal, hepatic or renal problems or any other cause that may alter processes of absorption, distribution, metabolism, or excretion of the drug, or that might suggest gastrointestinal irritation to drug.
+* Subjects following a vegetarian diet.
+* Practice of physical exercise for more than 2 hours per day or energy consume/consumption of more than 3000 kcal per week.

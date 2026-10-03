@@ -1,0 +1,23 @@
+Title: Study of IMC-1121B (Ramucirumab) With Best Supportive Care in Participants With Gastric Cancer and Adenocarcinoma
+Official title: A Phase 3, Randomized, Double-Blinded Study of IMC-1121B and Best Supportive Care (BSC) Versus Placebo and BSC in the Treatment of Metastatic Gastric or Gastroesophageal Junction Adenocarcinoma Following Disease Progression on First-Line Platinum- or Fluoropyrimidine-Containing Combination Therapy
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Gastric Cancer; Adenocarcinoma
+Interventions: ramucirumab (BIOLOGICAL); Placebo (DRUG); Best Supportive Care (BSC) (OTHER)
+Summary: The purpose of this study is to gather information about the use of an investigational drug called Ramucirumab in adenocarcinomas of the stomach or gastroesophageal junction.
+Eligibility: Inclusion Criteria:
+
+* Histologically or cytologically confirmed gastric carcinoma, including gastric adenocarcinoma or GEJ adenocarcinoma
+* Metastatic disease or locally recurrent, unresectable disease with measurable lymph node metastases
+* Measurable disease and/or evaluable disease. Measurable disease is defined as at least one unidimensionally-measurable target lesion \[≥ 2 centimeter (cm) with conventional techniques or ≥ 1 cm by spiral computed tomography (CT)\], as defined by Response using Response Evaluation Criteria in Solid Tumors (RECIST).
+
+Examples of evaluable, nonmeasurable disease include gastric, peritoneal, or mesenteric thickening in areas of known disease, or peritoneal nodules that are too small to be considered measurable by RECIST
+
+* Experienced disease progression during or within 4 months after the last dose of first-line therapy for metastatic disease, or during or within 6 months after the last dose of adjuvant therapy
+* Disease is not amenable to potentially curative resection
+* Participant is ≥ 18 years of age
+* Participant has a life expectancy of ≥ 12 weeks
+* Participant resolution to Grade ≤ 1 (or to Grade ≤ 2 in the case of neuropathy) by the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE), Version 3.0, of all clinically significant toxic effects of prior chemotherapy, surgery, radiotherapy, or hormonal therapy (with the exception of alopecia)
+* Eastern Cooperative Oncology Group Performance Status (ECOG-PS) score of 0-1
+* The participant has adequate hepatic function as defined by a total bilirubin ≤ 1.5 milligrams/deciliter (mg/dL) \[25.65 micromole/liter (µmol/L)\], and aspartate transaminase (AST) and alanine transaminase (ALT) ≤ 3.0 x the upper limit of normal (ULN) \[or 5.0 x the ULN in the setting of liver metastases\]
+* The participant has adequate renal function as defined by a serum creatinine ≤ 1.5 x the ULN, or creatinine clearance (measured via 24-hour urine collection) ≥ 40 milliliters/minute (mL/min) (that is, if serum creatinine is \> 1.5 x the ULN, a 24-hour urine collection to calculate creatinine clearance must be performed)
+* The participant's urinary protein is ≤ 1+ on di

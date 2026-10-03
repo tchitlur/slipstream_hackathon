@@ -1,0 +1,23 @@
+Title: Study of Colchicine to Prevent the Postpericardiotomy Syndrome
+Official title: Treatment and Prevention of Pericarditis With Colchicine. A Multicenter Double Blind Randomized Trial. The COPPS Trial: COlchicine for the Prevention of Postpericardiotomy Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Postpericardiotomy Syndrome
+Interventions: Colchicine (for 1 month) (DRUG)
+Summary: The purpose of the study is to determine whether colchicine is safe and effective in the prevention of the postpericardiotomy syndrome.
+Eligibility: Inclusion Criteria:
+
+* Patients in the third day after a cardiac surgery operation
+* Age≥ 18 years
+* Informed consent
+
+Exclusion Criteria:
+
+All evaluated before the surgical operation:
+
+* Known severe liver disease and/or elevated transaminases \>1.5 times the upper limit of normality
+* Serum creatinine \>2.5 mg/dl
+* Serum creatine kinase (CK) over the upper limit of normality or known myopathy
+* Known gastrointestinal or blood disease
+* Pregnant or lactating women or women not protected by a contraception method
+* Known hypersensibility to colchicine
+* Treatment with colchicine at enrolment

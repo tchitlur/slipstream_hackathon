@@ -1,0 +1,22 @@
+Title: A Study to Evaluate Administration of SBT101 Gene Therapy in Adult Patients With Adrenomyeloneuropathy (AMN)
+Official title: A Phase 1/2 Randomized, Blinded, Dose-escalation Study to Evaluate the Safety and Efficacy of Intrathecal Administration of AAV9-ABCD1 Gene Therapy (SBT101) in Adult Patients With Adrenomyeloneuropathy
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: AMN; AMN Gene Mutation; X-ALD
+Interventions: SBT101 Treatment (GENETIC)
+Summary: This is a Phase 1/2 randomized, blinded, dose-escalation study to evaluate the safety and efficacy of intrathecal (IT) administration of SBT101, a recombinant adeno-associated virus serotype 9 (AAV9) containing a functional copy of the human adenosine triphosphate (ATP)-binding cassette transporter subfamily D member 1 (ABCD1; hABCD1) gene, in adult patients with adrenomyeloneuropathy (AMN) aged 18-65 years.
+
+Patients will receive a single dose of SBT101 via IT route (or an imitation procedure) and will be followed for safety and efficacy for 2 years. Patients receiving SBT101 will be followed for an additional 3 years (5 total) for Safety. Patients receiving an imitation procedure will be offered the opportunity to receive SBT101 after 2 years, as data indicate.
+Eligibility: Inclusion Criteria:
+
+1. Diagnosed with X-linked adrenoleukodystrophy (ALD), including proven mutation in the ABCD1 gene through confirmatory genetic testing, and supported by elevated circulating VLCFA levels.
+2. Clinical evidence of spinal cord involvement but still able to ambulate independently
+
+Exclusion Criteria:
+
+1. Evidence of or past diagnosis of inflammatory cerebral disease.
+2. 15 years or more have elapsed since the initial onset of myeloneuropathy manifestations such as walking or running difficulties, bladder dysfunction, increased muscular tone, spasticity, weakness, balance problems, etc.
+3. Contraindications for MRI procedure and/or contrast materials.
+4. Contraindication to steroids, sirolimus, tacrolimus, and/or anesthetic medications.
+5. Unstable adrenal function (e.g., untreated or inappropriately treated adrenal insufficiency).
+6. History of diabetes or abnormal fasting plasma glucose (≥126 mg/dL) or hemoglobin A1C ≥6.5%.
+7. Patients who have received a gene therapy.

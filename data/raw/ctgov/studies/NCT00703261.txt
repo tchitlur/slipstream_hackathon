@@ -1,0 +1,17 @@
+Title: Evaluate the Utility of 18FDG-PET as a Tool to Quantify Atherosclerotic Plaque (MK-0000-081 AM3)(COMPLETED)
+Official title: A Randomized, Double-Blind, Parallel Group Study to Evaluate the Effects of High Dose Statin Therapy on 18Fluorine Fluorodeoxyglucose (18FDG) Uptake in Arteries of Patients With Atherosclerotic Vascular Disease
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Atherosclerotic Vascular Disease
+Interventions: atorvastatin (DRUG); placebo (DRUG)
+Summary: The purpose of this study is to evaluate the utility of 18Fluorine Fluorodeoxyglucose Positron Emission Tomography (18FDG-PET) as a tool to quantify atherosclerotic plaque.
+Eligibility: Inclusion Criteria:
+
+* Male or Female ages 30 to 80
+* Participant is on a low dose statin for at least 6 weeks prior to screening or is statin-naive at screening
+
+Exclusion Criteria:
+
+* Participant has human immunodeficiency virus (HIV), Hepatitis B or C
+* Participant uses illegal drugs
+* Participant has Type I diabetes
+* Participant has a history of claustrophobia

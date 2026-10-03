@@ -1,0 +1,29 @@
+Title: Phosphoproteomic Profile of Children With Down Syndrome
+Official title: Exploratory Phosphoproteomic Study to Discover DYRK1A-Dependent Blood Biomarkers in TriSomy 21 Carriers
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Down Syndrome
+Interventions: Blood sample (BIOLOGICAL)
+Summary: One of the major causes of cognitive disorders limiting the learning abilities of children with Down's syndrome is excess activity of the DYRK1A protein kinase, whose gene is located on chromosome 21. Consequently, variations in the level of phosphorylation, and hence activity, of DYRK1A target proteins involved in synaptic transmission, could identify mechanisms underlying these cognitive disorders.
+
+Several studies have shown that plasma proteins can reflect a pathophysiological brain state. The investigators plan to carry out a phosphoproteomic study to determine the phosphorylation profile of plasma proteins in children with Down's syndrome, and identify potential DYRK1A-dependent pathophysiological mechanisms and biomarkers involved in the natural course of cognition in children with Down's syndrome.
+Eligibility: Inclusion Criteria:
+
+* Clinical diagnosis of free and homogeneous trisomy 21,
+* Body mass index (BMI): 15-25,
+* Able to understand the study based on the pictorial information leaflet and give agreement/assent to participate,
+* Parent present on the day of the visit to validate their child's consent/assent, if applicable.
+
+Exclusion Criteria:
+
+* Celiac disease,
+* Autoimmune dysthyroidism,
+* Type I autoimmune diabetes,
+* Alopecia,
+* Other autoimmune diseases,
+* Current infectious pathology,
+* History of infantile spasms,
+* Autism spectrum disorders,
+* Epilepsy,
+* Central nervous system infections,
+* Leukemia not in remission,
+* Anti-inflammatory treatments (NSAIDs, local or systemic corticosteroids).

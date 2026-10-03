@@ -1,0 +1,16 @@
+Title: PROPHESYS 1: An Observational Study on Predictors of Response in Treatment-naïve Patients With Chronic Hepatitis C Virus (HCV)Treated With Pegasys (Peginterferon Alfa-2a)
+Official title: Prospective Observational Study on Predictors of Early On-treatment Response and Sustained Virological Response in a Cohort of Treatment naïve HCV-infected Patients Treated With Pegylated Interferons.
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Hepatitis C, Chronic
+Interventions: Peginterferon alfa-2a (Pegasys®) (DRUG)
+Summary: This observational study will assess predictors of early on-treatment and sustained virological response in treatment-naïve patients with chronic hepatitis C initiated on treatment with Pegasys (peginterferon alfa-2a) and ribavirin. Data will be collected during the treatment period (24 or 48 weeks) and 12 and 24 weeks after the end of treatment. Target sample size is \<5000.
+Eligibility: Inclusion Criteria:
+
+* adult patients, \>/= 18 years of age
+* chronic hepatitis C
+* informed consent to data collection
+
+Exclusion Criteria:
+
+* co-infection with HIV or Hepatitis B Virus (HBV)
+* previous treatment with peginterferon and/or ribavirin

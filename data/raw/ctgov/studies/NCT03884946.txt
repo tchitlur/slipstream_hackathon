@@ -1,0 +1,13 @@
+Title: The Getting Off App for Methamphetamine-Using Gay and Bisexual Men
+Official title: Getting Off: : A Theory-based mHealth Intervention for Methamphetamine-using MSM
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Methamphetamine Abuse; HIV/AIDS
+Interventions: Getting Off App (OTHER)
+Summary: A commonly used manualized outpatient methamphetamine intervention for gay and bisexual men, "Getting Off," is being translated into a mobile phone application (i.e., app) available for download through common app marketplaces. The application will provide games, guided lessons, informational support, and resources to gay and bisexual men seeking to reduce their methamphetamine use and risky sexual behaviors.
+Eligibility: Inclusion Criteria:
+
+Self-identified man who has sex with men (MSM) Any methamphetamine use in the past 365 days Between the ages of 18-65 years Able and willing to provide informed consent.
+
+Exclusion Criteria:
+
+Did not identify as a man who had sex with a man No methamphetamine use in the past 365 days Younger than 18 or older than 65 years Not able or willing to provide informed consent.

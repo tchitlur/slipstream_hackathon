@@ -1,0 +1,23 @@
+Title: A Study of NNZ-2591 in Pediatric Participants With Phelan-McDermid Syndrome
+Official title: A Phase 3 Randomized, Double-blind, Placebo-controlled Study to Investigate the Efficacy and Safety of Orally Administered NNZ-2591 Compared With Placebo in Pediatric Participants With Phelan-McDermid Syndrome
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Phelan-McDermid Syndrome
+Interventions: NNZ-2591 (DRUG); Placebo (DRUG)
+Summary: This Phase 3, randomized, double-blind, parallel-group (2-arm), placebo-controlled, multicenter study will evaluate the efficacy and safety of NNZ-2591 compared to placebo in pediatric participants with Phelan- McDermid Syndrome.
+Eligibility: Inclusion Criteria:
+
+1. Male or female pediatric participants with Phelan-McDermid syndrome ages 3 to 12 years (inclusive) at the time of signing the informed consent.
+2. Clinical diagnosis of Phelan-McDermid syndrome with a documented disease-causing genetic abnormality of SHANK3.
+3. Body weight ≥ 10 kg at Screening.
+4. Participants with a PMSA-S overall score ≥ 3 at the Screening and Baseline visits.
+5. Not actively undergoing regression or loss of skills.
+
+Exclusion Criteria:
+
+1. Use of exclusionary medication or unstable treatment regimens of acceptable concomitant medications as required by the protocol.
+2. Current treatment with more than 3 allowable psychotropic medications.
+3. Participants with seizures must be controlled on no more than 2 anticonvulsant medications (not counting rescue medications).
+4. Psychotropic medications or any other medication used for a chronic illness (not including antibiotics, pain relievers, anti-diarrheals, and laxatives) with doses and dosing regimen that have not been stable for at least 4 weeks before Screening. If the treatment was discontinued, the discontinuation must have occurred no fewer than 2 weeks before the start of Screening.
+5. Any intercurrent seizures in the past 6 months and /or more than 1 seizure in the past 12 months. •A single febrile seizure in the 6 months prior to screening is allowable if no rescue medication was required.
+6. Abnormal liver function laboratory results during the Screening period, as defined by the protocol
+7. Abnormal QT interval on Screening ECG as defined by the protocol.

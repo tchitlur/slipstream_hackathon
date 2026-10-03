@@ -1,0 +1,19 @@
+Title: Safety and Pharmacokinetics of Cannabidiol in Healthy Volunteers
+Official title: A Phase 1, Open-Label, Multiple Dose Study to Assess the Pharmacokinetics, Safety, Tolerability, and Food Effect of MRX1 in Healthy Adults
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Pharmacokinetics
+Interventions: Cannabidiol (DRUG)
+Summary: The purpose of this study is to assess the pharmacokinetics, safety, tolerability and food effect of investigational drug MRX1 in healthy adults.
+Eligibility: Inclusion Criteria:
+
+* Ability to provide voluntary, written informed consent
+* Males and females, aged 18 to 55 years inclusive at time of informed consent.
+* Total body weight ≥50 kg and body mass index (BMI) between 18 and 32 kg/m2 inclusive.
+* Women of childbearing potential (WOCBP) must have a negative pregnancy test at Screening and Day -1.
+* WOCBP must agree to the use a highly effective birth control (refer to Appendix 11.1) from Screening through 30 days following the last dose of study drug.
+* Male participants must agree to use highly effective birth control including condom (refer to Appendix 11.1) from Screening through 90 days following the last dose of study drug. Male participants with female partners that are surgically sterile or post menopausal (defined as being amenorrhoeic for at least 12 months without an alternative medical cause), or male participants who have undergone sterilisation and have had testing to confirm the success of the sterilisation, may also be included and will not be required to use above-described methods of contraception. Male participants must also agree not to donate sperm up to 90 days following the last dose of study drug.
+* Considered healthy, as determined by medical evaluation by the Investigator including medical history and physical examination.
+* Vital signs after 5 minutes resting in supine position within the following ranges: Systolic blood pressure: 90 to 140 mmHg inclusive; Diastolic blood pressure: 40 to 90 mmHg inclusive; Heart rate: 40 to 100 bpm inclusive.
+* Standard 12-lead ECG with parameters (average of triplicate readings) after 10 minutes in supine position within the following ranges: QRS \<120 msec; QT \<500 msec; QTc ≤450 msec (both genders); PR interval ≥120 to ≤220 msec.
+* Negative tests for HBsAg, HBcAb (if HBsAg positive), anti-HCV, and HIV antibody at Screening (positive anti-HCV antibody allowed if HCV PCR is negative).
+* Screening and Day -1 safety laboratory test values within normal ranges. Out of normal range values may be accepted by the Investigator if not considered clinically significant, with the exception of the following: ALT or AST \>1.5 x upper limit of normal (ULN); Total,
