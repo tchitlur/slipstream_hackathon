@@ -1,0 +1,26 @@
+Title: Study of ANAVEX2-73 in Patients With Rett Syndrome
+Official title: A Double-Blind, Randomized, Placebo-Controlled, Dose Titration Study of ANAVEX2-73 in Patients With Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Rett Syndrome
+Interventions: ANAVEX2-73 (DRUG); Placebo (DRUG)
+Summary: Phase 2 safety, tolerability and efficacy study is designed as a double-blind, randomized, placebo-controlled study.
+
+7-week placebo-controlled study of ANAVEX2-73 oral solution for the treatment of patients with RTT 18 years or older. A voluntary option will be offered for all patients who meet the exposure criteria for ANAVEX2-73 to continue a 12-week open label extension.
+Eligibility: Inclusion Criteria:
+
+* Aged ≥ 18 years, inclusive.
+* Diagnosis of classic RTT, according to 2010 criteria (Neul et al., 2010), and a MECP2 mutation.
+* Current pharmacological treatment regimen, including supplements, has been stable for at least 4 weeks.
+* If on antiepileptic drugs (AEDs), 1-4 AEDs allowed. Treatment must be stable (drug, dose, interval of administration) for 30 days prior to enrollment.
+* Ability to keep accurate seizure diaries or have caregiver who can keep accurate seizure diaries.
+* Confirmation from the participant that, if of childbearing potential is not pregnant through urine pregnancy testing. Female patients of childbearing potential and at risk for pregnancy must agree to abstinence.
+* Prior to the conduct of study-specific procedures, the subject's parent/caregiver/LAR must provide written informed consent. If applicable, the research team must attempt to obtain consent from both parents.
+
+Exclusion Criteria:
+
+* Patients who have a progressive medical or neurological condition that in the opinion of the Investigator would interfere with the conduct of the study.
+* Current clinically significant systemic illness that is likely to result in deterioration of the patient's condition or affect the patient's safety during the study.
+* History of clinically evident stroke or clinically significant carotid or vertebrobasilar stenosis or plaque or other history of neurologic (e.g., head trauma with loss of consciousness) or psychiatric condition that the Investigator deems may interfere with interpretability of data.
+* Indication of liver disease, defined by serum levels of ALT (SGPT), AST (SGOT), or alkaline phosphatase above 3x upper limit of normal (ULN) as determined during screening.
+* Treatment with immunosuppressive medications (e.g., systemic corticosteroids) within the last 90 days (topical and nasal corticosteroids and inhaled corticosteroids for asthma are permitted) or chemotherapeutic agents for malignancy within the last 3 years.
+* Other clinically significant abnormality on physical, neurological, laboratory, or electrocardiogram (ECG) examination (e.g., atrial fibrillation) that could compromise the study or be detrimental to

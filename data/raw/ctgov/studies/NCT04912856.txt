@@ -1,0 +1,19 @@
+Title: An Open-Label Extension of the Study XEN496 (Ezogabine) in Children With KCNQ2-DEE
+Official title: An Open-Label Extension of the Study XEN496 in Children With KCNQ2 Developmental and Epileptic Encephalopathy
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Epilepsy; Epilepsy in Children; Epilepsy; Seizure; Disease; Brain Diseases; Central Nervous System Diseases; Nervous System Diseases; Epileptic Syndromes
+Interventions: XEN496 (DRUG)
+Summary: To assess the long-term safety and tolerability of XEN496 in pediatric subjects with KCNQ2 developmental and epileptic encephalopathy (KCNQ2-DEE) who had participated in the primary study (XPF-009-301).
+Eligibility: Inclusion Criteria:
+
+* Subject completed participation in the primary study, XPF-009-301. A subject who withdraws from the primary study due to meeting protocol-specified worsening criteria will be considered as having completed participation in the primary study.
+* The caregiver is willing and able to be compliant with diary completion, visit schedule, and study drug administration.
+* Subject's caregiver achieved a minimum of 85% compliance with daily diary completion during both baseline and the double-blind period of the primary study.
+
+Exclusion Criteria:
+
+* Any adverse event(s) or serious adverse event(s) during the primary study XPF-009-301, which in the opinion of the investigator and sponsor's medical monitor, would preclude the subject's entry into the OLE study.
+* A clinically significant condition or illness, or symptoms other than those resulting from KCNQ2-DEE, present at screening/baseline that, in the opinion of the investigator, would pose a risk to the subject if s/he were to enter the study.
+* Any conditions that were specified as exclusion criteria in the primary study, XPF-009-301.
+* It is anticipated that the subject will require treatment with at least 1 of the disallowed medications during the study.
+* Any change in cardiac rhythm or atrioventricular conduction in the primary study that, in the investigator's opinion, is a significant risk to subject safety.

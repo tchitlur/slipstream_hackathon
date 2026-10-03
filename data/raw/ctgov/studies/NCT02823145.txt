@@ -1,0 +1,24 @@
+Title: An Open-Label Extension Trial to Assess the Long-Term Safety of ZX008 (Fenfluramine Hydrochloride HCl) Oral Solution in Children and Young Adults With Dravet Syndrome
+Official title: An Open-Label Extension Trial to Assess the Long-Term Safety of ZX008 (Fenfluramine Hydrochloride HCl) Oral Solution as an Adjunctive Therapy in Children and Young Adults With Dravet Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Dravet Syndrome
+Interventions: ZX008 (Fenfluramine Hydrochloride) (DRUG)
+Summary: This is an international, multicenter, open-label, long-term safety study of ZX008 in subjects with Dravet syndrome.
+Eligibility: Key Inclusion Criteria:
+
+* Male or non-pregnant, non-lactating female, age 2 to 18 years, inclusive as of the day of the core study Screening Visit.
+* Satisfactory completion of the core study in the opinion of the investigator and the sponsor.
+* Subjects who are \>18 to ≤35 years of age at the time of screening and did not participate in one of the core studies may be eligible for participation.
+* A documented medical history to support a clinical diagnosis of Dravet syndrome, where convulsive seizures are not completely controlled by current antiepileptic drugs.
+* Parent/caregiver is willing and able to be compliant with diary completion, visit schedule and study drug accountability.
+* Subject's parent/caregiver has been compliant with diary completion during the core study, in the opinion of the investigator (eg, at least 90% compliant).
+
+Key Exclusion Criteria:
+
+* Current or past history of cardiovascular or cerebrovascular disease, myocardial infarction or stroke.
+* Current cardiac valvulopathy or pulmonary hypertension that is clinically significant and warrants discontinuation of study medication.
+* Current or past history of glaucoma.
+* Moderate or severe hepatic impairment.
+* Receiving concomitant therapy with: centrally-acting anorectic agents; monoamineoxidase inhibitors; any centrally-acting compound with clinically appreciable amount of serotonin agonist or antagonist properties, including serotonin reuptake inhibition; atomoxetine, or other centrally-acting noradrenergic agonist; cyproheptadine, and/or cytochrome P450 (CYP) 2D6/3A4/2B6 inhibitors/substrates.
+* Currently taking carbamazepine, oxcarbamazepine, eslicarbazepine, phenobarbital, or phenytoin, or has taken any of these within the past 30 days, as maintenance therapy.
+* A clinically significant condition, or has had clinically relevant symptoms or a clinically significant illness at Visit 1, other than epilepsy, that would negatively impact study participation, collection of study data, or pose a risk to the subject.

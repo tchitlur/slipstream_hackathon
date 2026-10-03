@@ -1,0 +1,50 @@
+Title: A PET-MRI Study of Serotoninergic Brainstem Pathway in Patients With Dravet Syndrome
+Official title: A PET-MRI Study of Serotoninergic Brainstem Pathway in Patients With Dravet Syndrome
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Epilepsy; Dravet Syndrome; Drug Resistant Epilepsy; Healthy Controls
+Interventions: [18F]MPPF PET-MRI (OTHER)
+Summary: Dravet Syndrome (DS) is a severe neurodevelopmental disease, which is predominantly caused by mutations of SCN1A, the gene coding for Nav1.1 voltage-gated sodium channels. DS is characterized by infancy onset, severe cognitive deficit and drug-resistant seizures, including several generalized convulsive seizures per day and frequent status epilepticus, often triggered by fever or hyperthermia. Among the causes of premature deaths in patients with epilepsy, sudden and unexpected death in epilepsy (SUDEP) represents a major cause. SUDEP is a non-traumatic and non-drowning death in patients with epilepsy, unrelated to a documented status epilepticus. The risk of SUDEP is particularly high in patients suffering from DS, reaching about 9/1000-person-year, as compared to about 1/1000-person-year in people with epilepsy including all disease types. The main clinical risk factor of SUDEP is the frequency of convulsive seizures. Beyond improving seizure control, which we showed to mitigate the SUDEP risk, more specific preventive treatment strategies are still lacking.
+
+Experimental and clinical data suggest that most SUDEP cases result from postictal brainstem dysfunction, including centra
+Eligibility: Patients with DS
+
+* Inclusion criteria
+
+  1. Adult patients (≥ 18 but \< 60 years)
+  2. Diagnosis of Dravet syndrome will be confirmed based on medical history, type of seizures, EEG data and results of genetic testing
+  3. No restriction related to the seizure frequency
+  4. Patient assent and patient (or patient's legal representative guardianship) who gave its written informed consent to participate to the study
+  5. For women of childbearing
+* Exclusion criteria
+
+  1. Subject in exclusion period of another study
+  2. MRI contra-indication (presence of metallic elements, claustrophobia, Patients unable to maintain a minimul level of immobility during the imaging acquisition)
+  3. Presence of Vagal Nerve Stimulation
+  4. Patients unable to maintain a minimul level of immobility during the imaging acquisition
+  5. Pregnant women, women in labor or breastfeeding women.
+  6. Severe renal failure (Glomerular filtration rate \< 30 ml/min)
+  7. Hypersensitivity to \[18F\] MPPF
+  8. Persons deprived of their liberty by a judicial or administrative decision
+  9. Persons under psychiatric care
+  10. Persons not affiliated to a social security scheme or beneficiaries of a similar scheme
+
+Patients with drug-resistant focal epilepsy
+
+* Inclusion criteria
+
+  1. Adult patient (≥ 18 years)
+  2. Patient suffering from drug-resistant focal epilepsy according to ILAE classification
+  3. Patient in whom presurgical evaluation is considered
+  4. No restriction related to the seizure frequency
+  5. Patient who gave her/his written informed consent to participate to the study
+  6. For women of childbearing potential, use highly effective contraception during study participation
+* Exclusion criteria
+
+  1. Subject in exclusion period of another study
+  2. MRI contra-indication (presence of metallic elements, claustrophobia)
+  3. Presence of Vagal Nerve Stimulation
+  4. Ongoing serotoninergic treatment, including selective serotonin reuptake inhibitor
+  5. Pregnant women, women in labor or breastfeeding women.
+  6. Severe renal failure (Glomerular filtration rate \< 30 ml/min)
+  7. Hypersensitivity to \[18F\] MPPF
+  8. Persons deprived of their liberty by a judicial or administrative 

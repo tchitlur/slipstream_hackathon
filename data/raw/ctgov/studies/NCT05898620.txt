@@ -1,0 +1,22 @@
+Title: A Novel, Regulated Gene Therapy (NGN-401) Study for Females With Rett Syndrome
+Official title: A Baseline-Controlled, Open-Label, Multicenter, Single-Arm, Pivotal Study to Evaluate the Efficacy, Safety, and Tolerability of NGN-401 in Subjects With Rett Syndrome (Embolden)
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Rett Syndrome
+Interventions: NGN-401 (GENETIC)
+Summary: This study will evaluate the efficacy and safety profiles of the investigational gene therapy, NGN-401, in females with typical Rett syndrome.
+Eligibility: Inclusion Criteria:
+
+* Females who are between the ages of ≥4 and ≤10 years for Arms 1 and 2 (Arms closed). Females who are ≥11 years of age or older for Arm 3 (Arm closed). Females who are ≥3 for Arm 4, the pivotal cohort.
+* Diagnosis of typical Rett syndrome with a documented disease-causing mutation in the methyl-CpG-binding protein 2 (MECP2) gene
+* Current anti-epileptic drug regimen has been stable for at least 12 weeks
+* Participant must be in the post-regression stage
+* Participant and caregiver should reside within a 2-hour drive of the study center for at least 3 months following treatment
+* Participant must have never taken trofinetide or have taken trofinetide and discontinued due to tolerability, lack of efficacy, or other reasons. Following NGN-401 dosing, trofinetide may be initiated after a specified time period and with the support of the treating clinician.
+
+Exclusion Criteria:
+
+* Normal or near normal hand function
+* Has a current clinically significant condition other than Rett syndrome
+* Presence of a concomitant medical condition that precludes intracerebroventricular administration, or use of anesthetics or immune suppression needed for study related procedures
+
+Other inclusion and exclusion criteria apply.

@@ -1,0 +1,23 @@
+Title: A Clinical Study to Evaluate the Safety and Efficacy of ETX101, an AAV9-Delivered Gene Therapy in Children With SCN1A-positive Dravet Syndrome (Australia Only)
+Official title: WAYFINDER: A Clinical Study to Evaluate the Safety and Efficacy of ETX101, an AAV9-Delivered Gene Therapy in Children With SCN1A-positive Dravet Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Dravet Syndrome
+Interventions: ETX101 (DRUG)
+Summary: WAYFINDER is a Phase 1/2 study in Australia to evaluate the safety and efficacy of ETX101 in participants with SCN1A-positive Dravet syndrome aged 6 to \<84 months. The study follows an open-label, dose-escalation design.
+Eligibility: Inclusion Criteria:
+
+* Participant must have a predicted loss of function pathogenic or likely pathogenic SCN1A variant.
+* Participant must have experienced their first seizure between the ages of 3 and 15 months.
+* Participant must have a clinical diagnosis of Dravet syndrome or the treating clinician must have a high clinical suspicion of a diagnosis of Dravet syndrome.
+* Participant is receiving at least one prophylactic antiseizure medication.
+
+Exclusion Criteria:
+
+* Participant has another genetic mutation or clinical comorbidity which could potentially confound the typical Dravet phenotype.
+* Participant has a known central nervous system structural and/or vascular abnormality (indicated by an MRI or CT scan of the brain).
+* Participant has an abnormality that may interfere with CSF distribution and/or has an existing ventriculoperitoneal shunt.
+* Participant is currently taking or has taken antiseizure medications (ASMs) at a therapeutic dose that are contraindicated in Dravet syndrome, including sodium channel blockers.
+* Participant has experienced seizure freedom for a period of 4 consecutive weeks within the 6-month period prior to informed consent.
+* Participant has previously received gene or cell therapy.
+* Participant is currently enrolled in a clinical trial or receiving an investigational therapy.
+* Participant has clinically significant underlying liver disease.

@@ -1,0 +1,24 @@
+Title: Transcranial Magnetic Stimulation to Measure Cortical Excitability in Dravet Syndrome
+Official title: Transcranial Magnetic Stimulation to Measure Cortical Excitability in Dravet Syndrome
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Dravet Syndrome
+Interventions: Transcranial Magnetic Stimulation (TMS) (DEVICE); Electroencephalogram (EEG) (DEVICE)
+Summary: Dravet syndrome (DS) is an epileptic encephalopathy caused by pathogenic variants in the SCN1A gene resulting in medically refractory epilepsy and psychomotor delays.
+
+As a pilot study assessing for feasibility, the investigators aim to test whether alterations in cortical excitatory:inhibitory ratio can be reliably recorded. The investigators will utilize transcranial magnetic stimulation (TMS) metrics of cortical excitatory and inhibitory tone as an initial step towards translating findings from rodent genetic models of DS into disease-specific biomarkers and offer future measures of therapeutic target engagement in this patient population.
+
+Participants will complete two visits, each consisting of a TMS session and an EEG session. Visits will be scheduled 4-8 weeks apart.
+Eligibility: Inclusion Criteria:
+
+* Age: 6 months - 30 years
+* Ability to obtain informed consent with the participant or legally authorized representative
+* DS confirmed by pathogenic variant in SCN1A gene
+* Medical history consistent with clinical phenotype of DS
+
+Exclusion Criteria:
+
+* Comorbid conditions such as a second genetic diagnosis which may confound interpretation.
+* Current or planned participation in a clinical drug or device trial.
+* Previous participation in a gene therapy or gene editing trial
+* Allergy to adhesives used for surface EMG electrodes
+* Contraindications to TMS (e.g. implanted devices for which there is no TMS safety data)

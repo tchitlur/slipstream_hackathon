@@ -1,0 +1,27 @@
+Title: Clobazam in Patients With Lennox-Gastaut Syndrome
+Official title: Double-Blind, Placebo-Controlled, Efficacy and Safety Study of Clobazam in Patients With Lennox-Gastaut Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Epilepsy; Epilepsy, Generalized; Seizures
+Interventions: Clobazam Low Dose (DRUG); Clobazam Medium Dose (DRUG); Clobazam High Dose (DRUG); Placebo (DRUG)
+Summary: The purpose of this study is to evaluate the safety and efficacy of clobazam as adjunctive therapy in the treatment of seizures which lead to drop attacks (drop seizures) in patients 2 to 60 years of age with Lennox-Gastaut Syndrome (LGS). Patients will be enrolled at approximately 65 sites in the U.S. and ex-US for up to 23 weeks. Patients will be randomly assigned to either a low, medium or high dose, or placebo. The study will include a baseline period, a titration period and a maintenance period. After the maintenance period, patients will either continue into an open-label extension study or enter the taper period with a final visit 1 week after the last dose.
+Eligibility: Inclusion Criteria:
+
+* Patient must have been \<11 years of age at the onset of LGS.
+* Patient must have LGS.
+* Patient must be on at least 1 AED.
+* Parent or caregiver must be able to keep an accurate seizure diary.
+
+Exclusion Criteria:
+
+* Etiology of patient's seizures is a progressive neurologic disease. Patients with tuberous sclerosis will not be excluded from study participation, unless there is a progressive tumor.
+* Patient has had an episode of status epilepticus within 12 weeks of baseline.
+* Patient has had an anoxic episode requiring resuscitation within 6 months of screening.
+* Patient has a clinically significant history of an allergic reaction or significant sensitivity to benzodiazepines.
+* Patient is taking more than 3 concurrent AEDs.
+* Patient has been on the ketogenic diet for less than 30 days prior to screening or suffers from frequent stooling.
+* If the patient has a Vagal Nerve Stimulator (VNS), the settings have not been stable for at least 30 days prior to screening.
+* Patient has taken corticotropins in the 6 months prior to screening.
+* Patient is currently taking long-term systemic steroids (excluding inhaled mediation for asthma treatment) or any other daily medication known to exacerbate epilepsy. An exception will be made of prophylactic medication, for example, for idiopathic nephrotic syndrome or asthma.
+* If the patient is taking felbamate, has been taking it for less than 1 year prior to screening.
+
+Other protocol-defined inclusion and exclusion criteria may apply.

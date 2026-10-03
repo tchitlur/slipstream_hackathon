@@ -1,0 +1,24 @@
+Title: Pilot Study of the Effects of the Desipramine on the Neurovegetative Parameters of the Child With Rett Syndrome
+Official title: Pilot Study of the Effects of the Desipramine on the Neurovegetative Parameters of the Child With Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Rett Syndrome
+Interventions: Administration of a high dose of desipramine (DRUG); Administration of a low dose of desipramine (DRUG); Administration of a placebo (DRUG)
+Summary: Rett syndrome is a neurodevelopmental disorder characterized by cognitive impairment, communication dysfunction, stereotypic movement disorder, and growth failure. Rett syndrome is caused by mutations in the Methyl CpG-Binding Protein-2 (MECP2) gene and has no treatment.
+
+A mouse experimental model of Rett syndrome created by genetic invalidation of the MECP2 gene is available. It had been then observed that adult MECP2-deficient mice show respiratory alterations and found that endogenous noradrenaline helps to maintain a normal respiratory rhythm. Desipramine, a selective inhibitor of norepinephrine reuptake, seems to be efficient to reduce the respiratory alteration occuring in MECP2-deficient mice (Insem patent 2005, Villard and Roux 2006).
+
+The aim of the study is to evaluate these obtained results in MECP2-deficient mice on patients with Rett syndrome.
+Eligibility: Inclusion Criteria:
+
+* Rett syndrome;
+* Girls weighing less than 60 kg;
+* Respiratory alteration;
+* Diagnosis of Rett syndrome confirmed by MECP2 genotyping (Xq28).
+
+Exclusion Criteria:
+
+* Boys;
+* Pregnancy and breath feeding;
+* Case history of status epilepticus;
+* Patient treated by IMAO or sultopride;
+* Hepatic or renal failure.

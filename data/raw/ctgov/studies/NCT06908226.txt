@@ -1,0 +1,23 @@
+Title: A Study to Investigate LP352 in Children and Adults With Developmental and Epileptic Encephalopathy (DEE)
+Official title: A Phase 3, Open-Label Study to Investigate the Long-Term Safety and Efficacy of LP352 in the Treatment of Seizures in Children and Adults With Developmental and Epileptic Encephalopathy
+Status: ENROLLING_BY_INVITATION. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Developmental and Epileptic Encephalopathy
+Interventions: LP352 (DRUG)
+Summary: This (DEEp OLE Study) is a multicentre, open-label study to investigate the long-term safety, efficacy, tolerability, and pharmacokinetics (PK) of LP352 in the treatment of seizures in children and adults with DEE who completed Study LP352-301 or LP352-302. The study consists of 3 main phases: Screening, Titration period and Maintenance period, followed by a Taper period and Follow-Up. The total duration of the study will be approximately 14 months.
+Eligibility: Inclusion Criteria:
+
+* The participant has satisfactorily completed Study LP352-301 or LP352-302 Visit 8, and who, in the opinion of the investigator, may benefit from continued LP352 administration.
+* Diagnosis of DEE that includes Dravet Syndrome (DS), Lennox-Gastaut Syndrome (LGS), or DEE Other (as defined and evaluated in Study LP352-301 or LP352-302).
+* Participant has a body weight of ≥10 kg.
+* G-tubes/PEG tubes (if applicable) should be in stable and good working condition. Nasogastric tubes are not allowed except for short-term management.
+* Has at least one reliable and consistent parent, legal guardian, or caregiver during the study.
+* The participant must be willing and able to provide written informed consent; in instances where the participant is unable to provide consent, an appropriate LAR must provide informed consent and the participant will need to assent (as per local regulations) before participation in the study. If the participant cannot provide consent or assent (ie, due to developmental status), the investigator should document why it was not obtained.
+* The participant and/or authorized representative is willing to provide written consent or assent to allow the investigator and the investigator's staff to consult with the participant's medical caregivers and the medical monitor during Screening and during participation in the study.
+* All participants of childbearing potential must have a negative urine or serum pregnancy (human chorionic gonadotropin) test at Visit 8 from Study LP352-301 or LP352-302 and agrees to routinely use an acceptable effective method of contraception from the time of signing informed consent up to 48 hours after the last dose of study drug.
+* Participant and/or participant's caregiver(s) agree to not post any participant's personal medical data related to the study or information related to the study on any website or social media site until the study has been completed.
+* The participant, parent, or caregiver is willing and able (in the judgment of the investigator) to comply with completion of the diaries throughout the study.
+
+Exclusion Criteria:
+
+* The participant is receiving exclusionary medications.
+* Con

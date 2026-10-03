@@ -1,0 +1,15 @@
+Title: A Retrospective Survey-based Multicenter Study to Delineate the Molecular and Phenotypic Spectrum of Epilepsy-dyskinesia Syndromes
+Official title: A Retrospective Survey-based Multicenter Study to Delineate the Molecular and Phenotypic Spectrum of Epilepsy-dyskinesia Syndromes
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Epilepsy in Children; Dyskinesias; Movement Disorders in Children; Neurologic Disorder; Chorea; Myoclonus; Ataxia; Epilepsy; Dystonia Disorder; Movement Disorders
+Interventions: none
+Summary: The Epilepsy-Dyskinesia Study aims to advance the understanding of the clinical and molecular spectrum of epilepsy-dyskinesia syndromes, monogenic diseases that cause both movement disorders and epilepsy. Addressing challenges in rare disease research -such as small, geographically dispersed patient populations and a lack of standardized protocols- the study employs a multinational retrospective survey endorsed by the International Parkinson and Movement Disorder Society. This survey seeks to collect comprehensive data on clinical features, disease progression, age of onset, genetic variants, and concurrent neurological conditions, standardizing data collection across countries to provide a unified understanding of these conditions. Through retrospective review and molecular data analysis, the study aims to identify patterns and correlations between movement and seizure disorders, uncovering genotype-phenotype relationships. The initiative\&#39;s goals are to enhance understanding of epilepsy-dyskinesia syndromes, inform precision medicine approaches, and foster international collaboration.
+Eligibility: Inclusion Criteria:
+
+* Children between 0 - 18 years of age with a movement disorder and a pathogenic or likely pathogenic variant in one of the genes of interest:
+
+AARS2 ALG13 AP3B2 AP4B1 AP4E1 AP4M1 AP4S1 ARX ATP1A3 CACNA1A CACNA1E CACNA2D2 CDKL5 CSTB DARS2 DLAT DLD DNM1 EARS2 EPG5 FARS2 FOXG1 FRRS1L GABRA1 GABRA2 GABRB2 GABRB3 GABRG2 GRIA2 GRIA4 GRIN1 GRIN2A GRIN2B GRIN2D GNAO1 HARS2 HNRNPU IQSEC2 KCNA2 KCNB1 KCNC1 KCNMA1 KCNQ2 KCNQ3 KCNT1 LARS2 MECP2 MEF2C MTND5 MTTL1 MTTK NARS2 NHLRC1 PDE10A PDE2 PCDH12 PCDH19 PDK3 PIGP PIGQ PIGS PIGN POLG PDHA1 PDHB PDHX PRRT2 PURA RHOBTB2 SCN1A SCN1B SCN2A SCN8A SCN9A SLC13A5 SLC1A2 SLC2A1 SLC25A22 SMCA1 SNP14 ST3GAL3 STXBP1 SPTAN1 SYNGAP1 TBC1D24 TBL1WL1 TARS2 UBA5 UBE3A VAMP2 VARS2 WARS2 WDOX WDR45 YIF1B YWHAG
+
+Exclusion Criteria:
+
+* Not having such diagnosis and/or not presenting a movement disorder.

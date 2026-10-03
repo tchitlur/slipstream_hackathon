@@ -1,0 +1,24 @@
+Title: Cannabidiol (CBD) to 27 Patients (Aged 2 Years - 19 Years) With Drug Resistant Epilepsy
+Official title: A 2-part Study to Investigate the Dose-ranging Pharmacokinetics and Tolerability, Followed by the Efficacy and Safety of Cannabidiol (GWP42003-P) in Children and Young Adults With
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Epilepsy
+Interventions: Cannabidiol (DRUG)
+Summary: Part A: To evaluate the safety and tolerability of multiple ascending doses of GWP42003-P compared with placebo with respect to:
+
+* Incidence, type and severity of adverse events (AEs)
+* Effect on vital signs, including weight
+* Effect on 12-lead electrocardiogram (ECG) findings
+* Effect on laboratory parameters Part B: To make an assessment of the anti-epileptic efficacy of GWP42003-P compared with placebo with respect to the incidence in convulsive seizures
+* To determine the plasma concentration time curves for GWP42003-P and its major human metabolite, following escalating multiple doses of GWP42003-P.
+* To investigate the effect of GWP42003-P on the pharmacokinetics of concomitant anti-epileptic drugs (AEDs).
+* To evaluate cognitive function, sleep quality and daytime sleepiness, in patients taking GWP42003-P in combination with AEDs.
+Eligibility: Inclusion Criteria:Patients meeting the following criteria will be considered eligible for this study:
+
+* Documentation of a diagnosis of drug resistant epilepsy as evidenced by failure to control siezures despite appropriate trial of four or more Anti-Epileptic Drugs at therapeutic doses. Documentation must include the diagnosis of epilepsy type or epilepsy syndrome (if possible), as well as the underlying case, when known.
+* Between 1-3 baseline anti-epileptic drugs at stable doses for a minimum of 4 weeks prior to enrollment. Vagus nerve stimulator, ketogenic diet and modified Atkins diet do not count toward this limit.
+* Vagus nerve stimulator must be on stable settings for a minimum of 3 months.
+* Written informed consent obtained from the patient or the patient's legal representative must be obtained prior to beginning treatment.
+
+Exclusion Criteria:Exclusion: The patient may not enter the study if ANY of the following apply:
+
+• Treatment with any artisanal preparation containing or possible containing CBD during the month before initiation of the study drug.

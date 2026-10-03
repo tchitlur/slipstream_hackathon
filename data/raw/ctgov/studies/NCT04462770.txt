@@ -1,0 +1,26 @@
+Title: A Study of EPX-100 (Clemizole Hydrochloride) in Participants With Dravet Syndrome
+Official title: A 20-Week Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial of EPX-100 (Clemizole Hydrochloride) as Adjunctive Therapy in Children and Adult Participants With Dravet Syndrome (ARGUS Trial)
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Dravet Syndrome
+Interventions: Clemizole HCl (DRUG); Placebo (DRUG)
+Summary: This is a multicenter, Phase 3, randomized, double-blind, placebo-controlled study designed to evaluate the efficacy and safety of clemizole hydrochloride (EPX-100) as adjunctive therapy in children and adult participants with Dravet syndrome (DS).
+Eligibility: Key Inclusion Criteria:
+
+1. Male and female participants 2 years and older at time of consent.
+2. Participant or parent/legally authorized representative (LAR) willing and able to provide written informed consent and assent (if applicable) prior to initiation of any study related procedures.
+3. Clinical diagnosis of DS. Participants must have seizures which are not completely controlled by AEDs with the following criteria:
+
+   * Onset of seizures prior to 18 months of age,
+   * Normal development at onset,
+   * History of at least one type of countable motor seizure (CMS),
+   * Brain MRI without cortical malformation (not including mild atrophy associated with the natural progression of DS),
+   * Genetic mutation of the SCN1A gene must be documented.
+
+Key Exclusion Criteria:
+
+1. Known sensitivity, allergy, or previous exposure to clemizole HCl.
+2. Exposure to any investigational drug or device \<90 days prior to screening or plans to participate in another drug or device trial at any time during the study.
+3. Seizures secondary to illicit drug (this includes concomitant use of tetrahydrocannabinol \[THC\] and nonprescription cannabidiol preparations) or alcohol use, infection, neoplasm, demyelinating disease, degenerative neurological disease, or central nervous system disease deemed progressive, metabolic illness, or progressive degenerative disease.
+4. Concurrent use of lorcaserin. Note: Prior use of lorcaserin is permitted if at least 30 days have passed since the last dose.
+5. Concurrent use of fenfluramine.
+6. Epilepsy surgery planned during the study or epilepsy surgery within 6 months prior to Screening.

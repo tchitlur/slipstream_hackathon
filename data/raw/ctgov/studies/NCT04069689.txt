@@ -1,0 +1,24 @@
+Title: Study of Safety and Pharmacokinetics of Oral Doses of EPX-100 in Healthy Subjects.
+Official title: A Phase I, Placebo-Controlled, Double-Blind, 2-Period Study to Assess Safety and Pharmacokinetics of Escalating Single and Multiple Oral Doses of EPX-100 in Fasting Healthy Subjects and Following a High-Fat Meal
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Dravet Syndrome
+Interventions: EPX-100 (Clemizole Hydrochloride) (DRUG); Placebos (DRUG)
+Summary: This is a placebo-controlled, double-blind, 2-period study in 3 sequential groups of 8 healthy subjects each. The safety and pharmacokinetics of escalating single and multiple oral doses of EPX-100 will be assessed in fasting healthy subjects and following a high-fat meal.
+Eligibility: Inclusion Criteria:
+
+1. Signed informed consent prior to any study-related procedures
+2. Male or female subjects 18 to 50 years of age inclusive
+3. Subject's body mass index (BMI) is ≤ 30 kg/m2
+4. Female subjects of childbearing potential must not be pregnant or lactating with a negative serum human chorionic gonadotropin (HCG) pregnancy test result at Screening, Day -1, or Day 19.
+5. Female subjects of childbearing potential and male subjects must use an adequate method of contraception from Screening until completion of the study. Acceptable methods of contraception are barrier methods (male condom, female condom, diaphragm, cervical cap, spermicide, or intrauterine device \[IUD\]), surgical sterility (documented doctor's report of vasectomy, hysterectomy, and/or bilateral oophorectomy), oral hormonal contraceptives, hormonal IUD, and/or postmenopausal status (defined as at least 1 year without menses as demonstrated by medical history or subject report).
+6. Subject is in good health as determined by vital signs, medical history, physical exam, and safety laboratory analyses at Screening and during the study.
+
+Exclusion Criteria:
+
+1. Subject has used an investigational product within 30 days prior to enrollment or during the study.
+2. Subject has used prescription or non-prescription drugs (including vitamins, minerals, and herbal/plant-derived preparations) within 2 weeks of enrollment (excluding oral hormonal contraceptives, hormonal IUD, hormone replacement therapy, and acetaminophen) unless deemed acceptable by the Investigator in consultation with the Sponsor.
+3. Subject has a positive drug and/or alcohol test at Screening, Day -1, or Day 19.
+4. Subject has a history of drug or alcohol abuse within 2 years before Screening.
+5. Subject is unable to abstain from ingesting alcohol, caffeine, grapefruit or grapefruit juice, pomelo or pomelo juice, or Seville oranges or Seville orange juice for 72 hours prior to dosing and throughout the dosing periods.
+6. Concurrent use of substances, including drugs, known to interfere with EPX-100, including moderate or severe inducers or inhibitors of CYP3A4 and CYP2D6.
+7. The subject has a clinically significant history o

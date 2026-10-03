@@ -1,0 +1,20 @@
+Title: ZX008 Expanded Access Protocol
+Official title: ZX008 Expanded Access Protocol - Dravet Syndrome Treatment Plan
+Status: APPROVED_FOR_MARKETING. Type: EXPANDED_ACCESS. Phases: none.
+Conditions: Dravet Syndrome
+Interventions: Fenfluramine Hydrochloride (DRUG)
+Summary: The treatment plan for this Expanded Access Protocol is for patients with Dravet syndrome who do not qualify for participation in one of the ongoing ZX008 clinical trials.
+Eligibility: Inclusion Criteria:
+
+* Patient is male or female, age 2 years and older, inclusive as of Study Day 1.
+* Patient is diagnosed with Dravet syndrome.
+* Patient is experiencing convulsive seizures which are not controlled by current AEDs.
+* Patient is receiving at least one AED and will remain on at least one AED for the duration of treatment.
+* Patient has been approved for inclusion by Zogenix.
+
+Exclusion Criteria:
+
+* Patient requires or starts using an unacceptable or contraindicated concomitant medication.
+* Patient has valvulopathy.
+* Patient is at risk for pulmonary hypertension.
+* Patient exclusion will be at the sole discretion of the Sponsor.

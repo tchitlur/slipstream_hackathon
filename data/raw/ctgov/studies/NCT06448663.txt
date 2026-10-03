@@ -1,0 +1,15 @@
+Title: Targeting the Gut to Improve Seizure Control in CDKL5 Deficiency Disorder (CDD)
+Official title: Targeting the Gut to Improve Seizure Control in CDD
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: CDKL5
+Interventions: alpha-lactalbumin, fructooligosaccharides, inulin (DIETARY_SUPPLEMENT); alpha-lactalbumin, sodium butyrate, fructooligosaccharides, inulin (DIETARY_SUPPLEMENT)
+Summary: Standard anti-seizure medications have limited efficacy in seizure control in cyclin-dependent kinase-like 5 deficiency disorder (CDD).
+
+The study will investigate whether targeting the gut-microbiota-brain axis in CDD patients can alleviate seizures and ameliorate other comorbidities.
+Eligibility: Inclusion Criteria:
+
+clinical diagnosis of CDD and demonstrated CDKL5 pathogenic variant; drug-resistant seizures; ensured participation of a caregiver; willingness to sign the informed consent.
+
+Exclusion Criteria:
+
+organic GI disorders (i.e., food allergies, celiac disease); special diets; percutaneous endoscopic gastrostomy tube; use of antibiotics or probiotics in the previous month.

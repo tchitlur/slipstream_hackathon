@@ -1,0 +1,21 @@
+Title: A Phase 1/2/3 Study of TSHA-102 Gene Therapy in Females With Rett Syndrome (REVEAL Pivotal Study)
+Official title: An Open-label Phase 1/2/3 Study Consisting of a Phase 1/2 Safety and Dose-escalation and Phase 3 Dose-expansion Study to Evaluate Safety and Efficacy of a Single Intrathecal Administration of TSHA-102, an AAV9-Delivered Gene Therapy in Females With Rett Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Rett Syndrome
+Interventions: TSHA-102 (GENETIC)
+Summary: The primary objectives of this study are to evaluate the safety of a single intrathecal (IT) dose of TSHA-102 in females with typical Rett syndrome, to select the TSHA-102 dose with the best benefit/risk profile based on the totality of safety and efficacy data and to evaluate the efficacy and safety of TSHA-102 at the selected dose.
+Eligibility: Inclusion Criteria:
+
+* Females between the ages of 12 and \<22 in Part A (closed) and females between the ages of 6 and \<22 in Part B (pivotal cohort).
+* Participant has a clinical diagnosis of classic/typical Rett syndrome with a documented pathogenic mutation of the methyl-CpG-binding protein 2 (MECP2) gene that results in loss of gene function.
+* Participants must be willing to receive blood or blood products for the treatment of an AE if medically needed.
+* Participants and parent/caregiver must agree to reside within easy access to the study site prior to the baseline visit and at least 3 months after TSHA-102 treatment
+
+Exclusion Criteria:
+
+* Participant has another neurodevelopmental disorder independent of the MECP2 loss-of-function mutation, or any other genetic syndrome with a progressive course.
+* Participant has a history of brain injury that causes neurological problems or had grossly abnormal psychomotor development in the first 6 months of life.
+* Participant has a diagnosis of atypical Rett syndrome or a MECP2 gene mutation that does not cause Rett syndrome.
+* Participant requires invasive ventilatory support.
+
+Note: Other protocol defined inclusion/exclusion criteria may apply

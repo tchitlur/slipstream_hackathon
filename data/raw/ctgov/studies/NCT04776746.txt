@@ -1,0 +1,28 @@
+Title: Open-Label Extension Study of Trofinetide for Rett Syndrome
+Official title: An Open-Label Extension Study of Continuing Treatment With Trofinetide for Rett Syndrome
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Rett Syndrome
+Interventions: trofinetide (DRUG)
+Summary: To investigate the safety and tolerability of continued long-term treatment with oral trofinetide in girls and women with Rett syndrome
+Eligibility: Inclusion Criteria:
+
+1. Has completed the EOT visit of the antecedent trofinetide Study ACP-2566-004 (i.e., has completed 40 weeks)
+2. May benefit from continued treatment with open-label trofinetide in the judgment of the Investigator
+3. Can still swallow the study medication provided as a liquid solution or can take it by gastrostomy tube
+4. The subject's caregiver is English-speaking and has sufficient language skills to complete the caregiver assessments
+
+   Childbearing Potential
+5. Subjects of childbearing potential must abstain from sexual activity for the duration of the study and for at least 30 days thereafter. If a subject is sexually active or becomes sexually active during the study, she must use 2 clinically acceptable methods of contraception (e.g., oral, intrauterine device \[IUD\], diaphragm plus spermicide, injectable, transdermal or implantable contraception) for the duration of the study and for at least 30 days thereafter. Subject must not be pregnant or breastfeeding.
+
+Exclusion Criteria:
+
+1. Began treatment with growth hormone during the antecedent study
+2. Began treatment with IGF-1 during the antecedent study
+3. Began treatment with insulin during the antecedent study
+4. Has developed a clinically significant cardiovascular, endocrine (such as hypo- or hyperthyroidism, Type 1 diabetes mellitus, or uncontrolled Type 2 diabetes mellitus), renal, hepatic, respiratory, or gastrointestinal disease (such as celiac disease or inflammatory bowel disease)
+5. Subject is judged by the Investigator or the Medical Monitor to be inappropriate for the study due to AEs, medical condition, or noncompliance with investigational product or study procedures in the antecedent study
+6. Has a clinically significant abnormality in vital signs at Baseline
+7. Has an average QTcF interval of \>450 ms on the Baseline ECG performed before the first dose of trofinetide is given in the present study (i.e., the ECG performed at the EOT visit of the antecedent study)
+8. Has developed a clinically significant ECG finding during the antecedent study
+
+Additional inclusion/exclusion criteria apply. Patients will be evaluated at baseline to ensure that all criteria for study

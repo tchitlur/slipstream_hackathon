@@ -1,0 +1,15 @@
+Title: Neuronal Excitability of HCN1 Channel Mutations in Dravet Syndrome
+Official title: Neuronal Excitability of Hyperpolarization-activated Cyclic Nucleotide-gated (HCN1) Channel Mutations in Dravet Syndrome
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Dravet Syndrome
+Interventions: measure of neuronal excitability (DEVICE)
+Summary: This study addresses the changes in the axonal excitability parameters. It will compare these changes in patients with early infantile epileptic encephalopathy with HCN1 channel mutation and in control patients, with and without epilepsy.
+Eligibility: Inclusion Criteria:
+
+* early infantile epileptic encephalopathy with HCN1 channel mutation
+* control patients with no neurologic pathology (age, gender and body temperature matched)
+* epileptic patients (age, gender and body temperature matched)
+
+Exclusion Criteria:
+
+* pregnant or breast feeding patient

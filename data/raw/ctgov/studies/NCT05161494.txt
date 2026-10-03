@@ -1,0 +1,16 @@
+Title: Gait in Rare Diseases
+Official title: Identification of Gait Disorders in Children, Adolescents and Young Adults With Rare Genetic Diseases
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Tuberous Sclerosis; STXBP1 Encephalopathy With Epilepsy
+Interventions: none
+Summary: The aim of this pilot study is to explore whether the knowledge and experience gained during the T-GaiD project (Treatment of Gait Disorders in Dravet Syndrome - NCT03857451) can be transferred to other populations with similar problems, i.e. motor and gait problems as a result of a genetic disorder characterized by epilepsy and developmental delay. In this pilot study, 40 people with Tuberous Sclerosis Complex and 30 people with STXBP1 will be recruited via the Antwerp University Hospital and invited for a gait analysis in the M²OCEAN movement lab. The aim of the pilot study is to evaluate the feasibility of the 3D gait analysis protocol and to determine the sensitivity of the primary (summative measure of the severity of gait abnormalities) and the secondary (spatio-temporal and kinematic gait parameters) outcome measures.
+Eligibility: Inclusion Criteria:
+
+* diagnosed with tuberous sclerosis complex according to the criteria of Northrup et al. (2012)
+* aged 6 years or older
+* being able to walk without aids for a minimum distance of 6 meters
+
+Exclusion Criteria:
+
+* severe epileptic seizure (status epilepticus or tonic-clonic insult over 3 min) within the 24 hours before the assessment
+* insufficient cooperation to perform 3D gait analysis

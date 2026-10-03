@@ -1,0 +1,31 @@
+Title: Study in Pediatric Subjects With Epilepsy
+Official title: Open-label, Multiple Dose Study to Evaluate the Parmacokinetics, Safety and Tolerability of Ezogabine/Retigabine as Adjunctive Treatment in Subjects Aged From 12 Years to Less Than 18 Years With Partial Onset Seizures or Lennox-Gastaut Syndrome
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Epilepsy
+Interventions: ezogabine/retigabine (DRUG)
+Summary: This is an open-label study to evaluate the pharmacokinetics, safety and tolerability of ezogabine/retigabine in subjects aged 12 years to less than 18 years with uncontrolled partial onset seizures or Lennos-Gastaut syndrome.
+Eligibility: Inclusion Criteria:
+
+* Between 12 and 18 years of age.
+* Diagnosis of uncontrolled partial onset seizures (with or without secondarily generalized seizures) or Lennox-Gastaut syndrome.
+* Taking between one and three antiepileptic drugs.
+* Able to swallow tablets.
+* Females must be of : (1) Non-childbearing potential or (2) Child-bearing potential and agrees to use acceptable contraception.
+
+Exclusion Criteria:
+
+* Epilepsy secondary to progressive cerebral disease, tumor or any progressive neurodegenerative disease.
+* History of status epilepticus in the last six months.
+* Currently treated with felbamate or has been treated with vigabatrin within the past 6 months.
+* Following the ketogenic diet.
+* Suicidal intent or history of suicide attempt in the last 2 years.
+* Elevated liver enzymes or abnormal kidney function.
+* Current disturbance of micturition or known urinary obstructions.
+* History of vesicoureteric reflux.
+* Abnormal post-void residual bladder ultrasound.
+* Urinary retention and/or required urinary catheterization in the preceding 6 months.
+* Abnormal urine sample at screening/.baseline.
+* Abnormal blood sample at screening.
+* Clinically significant arrhythmias.
+* Abnormal ECG at screening.
+* BMI lower than the 10th percentile for age and gender or subject weighs less than 30kg.

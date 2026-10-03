@@ -1,0 +1,18 @@
+Title: A Study to Assess the Safety and Tolerability of ZX008 in Children and Young Adults With Dravet Syndrome or Lennox Gastaut Syndrome Currently Taking Cannabidiol
+Official title: An Open-Label Trial to Assess the Safety of ZX008 (Fenfluramine Hydrochloride) Oral Solution in Combination With Cannabidiol, as an Adjunctive Therapy in Children and Young Adults With Dravet Syndrome or Lennox-Gastaut Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Dravet Syndrome; Lennox Gastaut Syndrome
+Interventions: ZX008 0.2 to 0.8 mg/kg/day (DRUG); Cannabidiol (DRUG)
+Summary: This is an open label study to evaluate the safety of ZX008 (fenfluramine) in patients with Dravet syndrome (DS) or Lennox Gastaut syndrome (LGS) who are being administered cannabidiol (CBD).
+Eligibility: Key Inclusion Criteria:
+
+* Subject has a clinical diagnosis of DS or LGS, where convulsive seizures (generalized tonic clonic seizures, tonic seizures, atonic seizures, tonic/atonic seizures, focal seizures with clear observable motor signs) are not completely controlled by current AEDs.
+* All medications or interventions for epilepsy (including ketogenic diet \[KD\] and vagal nerve stimulation \[VNS\]) must be stable for at least 4 weeks prior to first ZX008 dose and are expected to remain stable throughout the study.
+* Subjects must be taking a stable dose of CBD for at least 4 weeks prior to first ZX008 dose.
+* Subject's source of CBD is expected to be consistent for at least 3 months during study participation.
+
+Key Exclusion Criteria:
+
+* Subject has current or past history of cardiovascular or cerebrovascular disease, myocardial infarction or stroke.
+* Subject with current cardiac valvulopathy or pulmonary hypertension that the Investigator, parent/caregiver, Independent Cardiac Advisory Board, Independent Data and Safety Monitoring Committee, or sponsor deems clinically significant.
+* Subject has a current or past history of glaucoma.

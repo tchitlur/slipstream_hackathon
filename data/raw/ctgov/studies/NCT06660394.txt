@@ -1,0 +1,27 @@
+Title: A Phase 3, Placebo-Controlled Study to Investigate LP352 in Children and Adults With Dravet Syndrome (DS)
+Official title: A Phase 3, Randomized, Double-Blind, Placebo-Controlled, Multicenter Study to Investigate the Efficacy, Safety, and Tolerability of LP352 in the Treatment of Seizures in Children and Adults With Dravet Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Dravet Syndrome
+Interventions: LP352 (DRUG); Placebo (DRUG)
+Summary: This (DEEp SEA Study) is a double-blind, randomized, placebo-controlled, multicenter study to investigate the efficacy, safety, and tolerability of LP352 in the treatment of seizures in children and adults with DS. The study consists of 3 main phases: Screening, Titration period, and Maintenance period, followed by a Taper period and Follow-Up. Participants will be randomized to LP352 or placebo. The total duration of the study will be approximately 24 months.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of DS must fulfill all of the following criteria:
+
+  1. Participants with seizure onset age \>1 and \<20 months
+  2. The participant has a history of at least 1 of the following seizure type(s): prolonged generalized tonic-clonic, hemiclonic, myoclonic, tonic, atonic, atypical absence, focal impaired awareness, nonconvulsive status epilepticus
+* The participant has a current occurrence of at least 1 of the following countable motor seizure types: generalized tonic-clonic, tonic (bilateral), clonic (bilateral), atonic (bilateral) with truncal/leg involvement, focal motor (including hemiclonic), and focal to bilateral tonic-clonic
+* The participant has demonstrated an average of at least 4 countable motor seizures per month for the 3 months prior to Screening.
+* The participant has been taking 1 to 4 antiseizure medications (ASMs) at a stable dose for at least 4 weeks prior to Screening.
+* The participant, parent, or caregiver is willing and able (in the judgment of the investigator) to comply with completion of the diaries throughout the study.
+* The participant must be willing and able to provide written informed consent.
+
+Exclusion Criteria:
+
+* The participant has a history of infantile/epileptic spasms.
+* The participant has been admitted to a medical facility for treatment of status epilepticus requiring mechanical ventilation within 3 months prior to Screening.
+* The participant has a neurodegenerative disorder as indicated by magnetic resonance imaging or genetic testing.
+* The participant has an acquired lesion/injury unrelated to the primary etiology that could contribute as a secondary cause of seizures.
+* The participant is receiving exclusionary medications.
+* The participant is currently using any cannabis product or cannabidiol that is not in oral solution/capsule/tablet form, not obtained from a government-approved dispensary, or contains ≥50% Delta-9-tetrahydrocannabinol (THC).
+* The participant has unstable, clinically significant neurologic (other than the disease being studied, eg, recurrent strokes), psychiatric, cardiovascular (eg, pulmonary arterial hypertension, cardiac valvulopathy, orthostatic hypotension/t

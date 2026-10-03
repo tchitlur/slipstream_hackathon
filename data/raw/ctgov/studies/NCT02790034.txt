@@ -1,0 +1,26 @@
+Title: Evaluation of the Efficacy, Safety, and Tolerability of Sarizotan in Rett Syndrome With Respiratory Symptoms
+Official title: A Randomised, Double-Blind, Placebo-Controlled 6-month Study to Evaluate the Efficacy, Safety, and Tolerability of Sarizotan in Patients With Rett Syndrome With Respiratory Symptoms
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: Rett Syndrome
+Interventions: Sarizotan low dose (DRUG); Sarizotan high dose (DRUG); Placebo (DRUG)
+Summary: This study evaluates the safety, tolerability and efficacy of Sarizotan in reducing respiratory abnormalities in Rett Syndrome in an initial double blind 24 week period followed by an open label treatment phase of up to 168 weeks (the latter for patients with no safety and tolerability issues).
+Eligibility: Inclusion Criteria:
+
+* Body weight ≥ 10 kg
+* Age ≥ 4 years
+* Diagnosis of Rett syndrome based on consensus clinical criteria and patients with MECP2 duplications will not be eligible.
+* Has at least 10 episodes of breathing dysrhythmia, defined by episodes ≥10 seconds of breath holding (apnea), per hour during cardiorespiratory monitoring
+* Ability to take study medication provided either as capsules or combined with food/drink.
+* Patient is cooperative, willing to complete all aspects of the study, and capable of doing so with assistance of a caregiver.
+
+Exclusion Criteria:
+
+* Meets any of the diagnostic exclusion criteria for Rett syndrome, Typical (Neul et al, 2010);
+* Patient is participating in a clinical trial with another investigational drug
+* Hypersensitivity to sarizotan or other 5-HT1a agonists;
+* Current clinically significant (as determined by Investigator) cardiovascular, respiratory (e.g. severe asthma), gastrointestinal, renal, hepatic, hematologic or other medical disorders, in addition to those directly related to the patient's Rett syndrome;
+* QTcF interval on the ECG is greater than 450 msec.
+* Surgery planned during the study (except for insertion of gastrostomy tube);
+* Severe diabetes mellitus or fatty acid oxidation disorder.
+* Ophthalmologic history including any of the following conditions: albino patients, family history of hereditary retinal disease, retinitis pigmentosa, any active retinopathy or severe diabetic retinopathy.
+* Females who are pregnant, breastfeeding, or of childbearing potential and not using a hormonal contraceptive.

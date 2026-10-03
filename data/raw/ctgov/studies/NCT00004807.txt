@@ -1,0 +1,14 @@
+Title: Study of the Pathogenesis of Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rett Syndrome
+Interventions: dextromethorphan (DRUG); topiramate (DRUG); Donepezil (DRUG)
+Summary: OBJECTIVES: I. Extend current knowledge of the phenotype and natural history of Rett syndrome (RS).
+
+II. Continue the search for a cytogenetic and/or DNA marker. III. Study the effects of cholinergic drugs based on preliminary evidence for reduced levels of brain acetylcholine, while continuing supportive care to modify seizures, respiratory abnormalities, and motor disturbances, and improve nutrition, behavior, and learning.
+
+IV. Identify targets for future therapeutic interventions, e.g., growth factors, to influence neurologic recovery.
+Eligibility: PROTOCOL ENTRY CRITERIA:
+
+Rett syndrome
+
+Diagnosis confirmed on study

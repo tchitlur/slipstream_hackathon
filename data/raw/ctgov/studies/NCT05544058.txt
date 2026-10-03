@@ -1,0 +1,14 @@
+Title: Retrospective Non-interventional Study of Stiripentol Use in Dravet Patients in the USA
+Official title: Retrospective Non-interventional Study of Stiripentol Use in Dravet Patients in the USA
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Dravet Syndrome
+Interventions: Retrospective study (OTHER)
+Summary: The present study aims to collect data regarding the history of the disease, previous and current treatments, and the clinical status of Dravet patients during the 3 months prior to stiripentol initiation, the first 3 months on stiripentol and the last 3 months on stiripentol (irrespective of stiripentol discontinuation).
+Eligibility: Inclusion Criteria:
+
+* Patients diagnosed with Dravet syndrome
+* Treated with stiripentol for a minimum of 3 months in routine practice
+
+Exclusion Criteria:
+
+* NA

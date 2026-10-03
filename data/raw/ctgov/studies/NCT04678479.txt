@@ -1,0 +1,13 @@
+Title: Ganaxolone Expanded Access Program Compassionate Use
+Official title: Expanded Access With Adjunctive Ganaxolone Treatment in Children and Young Adults With Cyclin Dependent Kinase-like 5 Deficiency Disorder
+Status: NO_LONGER_AVAILABLE. Type: EXPANDED_ACCESS. Phases: none.
+Conditions: CDKL5 Disorder
+Interventions: Ganaxolone (DRUG)
+Summary: The primary objective is to provide GNX to patients ≥ 2 years with CDD-related seizures who are refractory to, or intolerant of, standard therapy.
+Eligibility: Inclusion Criteria:
+
+* Molecular confirmation of a pathogenic CDKL5 variant, early onset, difficult to control seizures, and neurodevelopmental impairment are required. Male or female patients aged ≥ 2 years. In the opinion of the investigator, the patient has inadequate seizure control on current anti-seizure medications at therapeutic doses.
+
+Exclusion Criteria:
+
+\-

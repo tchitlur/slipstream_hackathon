@@ -1,0 +1,29 @@
+Title: Development of a Behavioral Outcome Measure for Rett Syndrome (RettBe)
+Official title: Development of a Behavioral Outcome Measure for Rett Syndrome (RettBe)
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome
+Interventions: none
+Summary: The overall purpose of this study is to develop a broad-based (i.e., multiple domains) behavioral outcome measure for children between the ages of 3-18 years with Rett syndrome (RTT). The innovative approach of this proposal consists of integrating the process of developing a behavioral questionnaire to an ongoing large-scale data collection project. The Natural History Study of Rett Syndrome and Related Disorders (RTT5211) is a project that collects data on diverse aspects of the clinical evolution of individuals with RTT and related disorders. This project will serve as the basis for recruitment of subjects and it will also provide key demographic and clinical data for cohort characterization and for determining clinical relevance of the instrument (RettBe). An initial 100-subject cohort will allow for the testing with one rater of RettBe 1.0, a 50-item questionnaire formed from existing measures, a panel of clinicians and behavioral experts in RTT, and a focus group of parents and caregivers of children with RTT. Scores on RettBe 1.0 will be statistically analyzed to determine their psychometric properties, including its content validity. Items that do not meet psychometric stan
+Eligibility: Inclusion Criteria
+
+RettBe 1.0 Initial Cohort:
+
+* Females 3 - 18 years
+* Meets revised 2010 diagnostic criteria for classic or atypical RTT
+* Post-regression status
+* Documentation of positive MECP2 mutation
+* Enrolled in the Natural History Study (RTT5211)
+
+RettBe 2.0 Validation Cohort:
+
+* Meet above criteria
+* Two raters are available and willing to evaluate the subject
+* Must not have participated in RettBe 1.0
+
+Exclusion Criteria
+
+Both RettBe 1.0 and RettBe 2.0:
+
+* Do not meet the above inclusion criteria
+* Foster children
+* Non-English speakers

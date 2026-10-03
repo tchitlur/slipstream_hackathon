@@ -1,0 +1,16 @@
+Title: Carisbamate Safety Study in Adult and Pediatric Subjects With Lennox-Gastaut Syndrome
+Official title: Phase 1, Open-Label Study of Carisbamate in Adult and Pediatric Subjects With Lennox-Gastaut Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Lennox Gastaut Syndrome
+Interventions: Carisbamate (DRUG)
+Summary: Open-label extension study from YKP509C001 to evaluate the safety and tolerability of carisbamate in subjects with Lennox-Gastaut Syndrome (LGS).
+Eligibility: Inclusion Criteria:
+
+* Subjects who completed the YKP509C001 study
+* Investigator believes subject could benefit from continued exposure to study drug
+* Subjects must continue to meet all of the inclusion criteria from the YKP509C001 study
+
+Exclusion Criteria:
+
+* Subjects must continue to not meet any of the exclusion criteria from the YKP509C001 study
+* There are no additional exclusion criteria in this study

@@ -1,0 +1,32 @@
+Title: The Children's Adaptive Deep Brain Stimulation for Epilepsy Trial
+Official title: The Children's Adaptive Deep Brain Stimulation for Epilepsy Trial (CADET): a Pivotal, Randomized, Controlled, Double-blinded Multi-site Clinical Trial of Deep Brain Stimulation to Treat Children With Lennox-Gastaut Syndrome
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Lennox Gastaut Syndrome (LGS)
+Interventions: Deep Brain Stimulation (DEVICE)
+Summary: The CADET Trial will investigate the effectiveness of deep brain stimulation (DBS) to reduce the frequency of seizures in children with Lennox-Gastaut syndrome (LGS). The CADET Trial will use a non-CE/UKCA marked device - the Picostim DBS system.
+
+The SMART-DBS study is a sub-study of the CADET Trial. SMART-DBS will investigate the application of adaptive DBS for the treatment of children with LGS. Children will be recruited after they exit from either the prior 'CADET Pilot Study' or 'CADET Trial' - meaning that these children will already be receiving therapy with an already implanted Picostim device.
+Eligibility: Children enrolled in this study must:
+
+* Be 5-14 years of age at consent.
+* Have a diagnosis of LGS, as determined by:
+
+  * Slow (\<3.0Hz) spike-and-wave pattern and/or fast wave pattern (tonic seizures) detected on EEG at least six-months prior to the enrolment into the baseline period
+  * History of drop seizures (tonic, atonic, or tonic-clonic) that precedes at least six-months prior to the enrolment into the baseline period
+* Have experienced at least 10 seizures in the four weeks prior to enrolment.
+* Have tried and not responded to two or more antiseizure medications prior to enrolment.
+* Be taking one or more anti-seizure medication(s) at a stable dose for at least the four weeks prior to enrolment.
+* Have a carer who is willing for their child's maintenance anti-seizure medications and ketogenic diet (if relevant) to be unaltered for the trial duration.
+* Have a carer who is willing and able to comply with all the requirements of the study, including the completion of the seizure diary and periodic device charging.
+
+Children enrolled in this study must not:
+
+* Have received prior deep brain stimulation insertion.
+* Have an active ('on') vagus nerve stimulator (or active within the six months prior to the baseline period).
+* Have had a change in their anti-seizure medication prescription or stopped their ketogenic diet within the last 4 weeks
+* Have started or made changes to the prescription of a ketogenic diet within the last 12-weeks
+* Have abnormal thalamic anatomy detected on imaging that would render DBS either unsafe or unfeasible.
+* Have a bleeding disorder(s).
+* Have a medical condition(s)/factor(s) that would increase their anaesthetic risk to an unacceptable level.
+* Have a nickel allergy.
+* Be pregnant.

@@ -1,0 +1,18 @@
+Title: Nutritional Aspects of Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rett Syndrome
+Interventions: Metabolic assessment with body composition evaluation (PROCEDURE)
+Summary: OBJECTIVES: I. Determine dietary macronutrient intake in children with Rett syndrome and in healthy controls.
+
+II. Measure sleeping and awake metabolic rates in various positions, i.e., reclining, sitting, and standing, by whole-room indirect calorimetry and isotope dilution.
+
+III. Quantify activity patterns by time-motion studies using 24-hour activity records and 12-hour videotaping.
+
+IV. Correlate 24-hour activity patterns with 24-hour heart rate telemetry and short-term oxygen consumption.
+
+V. Estimate 24-hour fecal and urinary energy losses. VI. Determine body composition by clinical anthropometry, whole-body potassium counting, and total-body electrical conductance.
+
+VII. Calculate apparent energy needs based on measurement of energy intake and expenditure.
+Eligibility: PROTOCOL ENTRY CRITERIA:
+
+Patients aged 5 to 18 with Rett syndrome Able to sleep and awaken alone

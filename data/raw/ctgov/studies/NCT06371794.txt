@@ -1,0 +1,15 @@
+Title: EXploring novEl Molecular Determinants of DRAvet Syndrome Phenotype Heterogeneity
+Official title: Exploring Novel Molecular Determinants of Dravet Syndrome Phenotype Heterogeneity
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Dravet Syndrome
+Interventions: skin punch biopsy (PROCEDURE)
+Summary: Dravet syndrome is characterized as a developmental encephalopathy resulting from mutations of SCN1A, the gene encoding the alpha subunit of the voltage-gated sodium channel Nav1.1. The syndrome typically presents with drug-resistant epilepsy and varying degrees of cognitive disorders. Current treatment efficacy may be hindered by insufficient knowledge of undiscovered molecular determinants of the disease and its heterogeneous nature. Utilizing induced pluripotent stem cells (iPSCs) derived from skin biopsies, accessibility to patients' brain neurons has enabled successful modeling of various genetic neurological diseases. Neurons and brain organoids will be obtained from Dravet syndrome patients exhibiting diverse phenotypic severities, encompassing behavioral and developmental delays, to discern the molecular determinants of phenotypic diversity. Specifically, emphasis will be placed on investigating cellular and molecular mechanisms linking altered neuronal excitability with synaptic dysfunction.The study will focus on exploring the expression of newly identified modifiers potentially associated with neuronal excitability and synaptic function in iPSC-derived human neurons. Thi
+Eligibility: Inclusion Criteria:
+
+* Confirmed clinical diagnosis of Dravet Syndrome;
+* Identification of a pathogenic variant in the SCN1A gene;
+* Age between 18 and 35 years.
+
+Exclusion Criteria:
+
+\- The presence of a significant neurological condition unrelated to Dravet Syndrome.

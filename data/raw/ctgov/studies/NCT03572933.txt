@@ -1,0 +1,23 @@
+Title: Study of Adjunctive Ganaxolone Treatment in Children and Young Adults With CDKL5 Deficiency Disorder
+Official title: A Double-blind, Randomized, Placebo-controlled Trial of Adjunctive Ganaxolone Treatment in Children and Young Adults With Cyclin-dependent Kinase-like 5 (CDKL5) Deficiency Disorder (CDD) Followed by Long-term Open-label Treatment
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: CDKL5 Deficiency Disorder
+Interventions: ganaxolone (DRUG); Placebo (DRUG)
+Summary: A clinical study to evaluate the efficacy, safety, and tolerability of adjunctive ganaxolone therapy compared to placebo for the treatment of seizures in children and young adults with genetically confirmed CDKL5 gene mutation.
+Eligibility: Inclusion Criteria:
+
+* Genetically confirmed CDKL5 gene mutation, seizure onset by 1 year of age and lack of independent ambulation by 2 years of age
+* Failure to control seizures despite 2 or more anti-seizure medications
+* At least 16 seizures per 28 days of primary seizure types
+* On a stable regimen of 0-4 anti-seizure medications (Vagus nerve stimulator, ketogenic diet, and modified Atkins diet do not count towards this limit)
+* Additional Inclusion Criteria apply and can be discussed with study team
+
+Exclusion Criteria:
+
+* Previous exposure to ganaxolone
+* West Syndrome with hypsarrhythmia pattern on EEG or seizures predominantly of Infantile Spasms type
+* Use of adrenocorticotropic hormone (ACTH), prednisone or other glucocorticoid or use of moderate or strong inducers or inhibitors of CYP3A4/5/7 are prohibited
+* Use of tetrahydrocannabinol (THC) or cannabidiol (CBD) is prohibited during the double-blind phase, unless patient has a prescription of Epidiolex®
+* Exposure to any other investigational drug within 30 days or fewer than 5 half-lives prior to screening
+* Plasma allopregnanolone-sulfate (Allo-S) levels greater than or equal to 6.0 ng/ml at screening visit
+* Additional Exclusion Criteria apply and can be discussed with study team

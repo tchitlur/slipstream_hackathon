@@ -1,0 +1,27 @@
+Title: A Pilot Study of an Antioxidant Cocktail vs. Placebo in the Treatment of Children and Adolescents With Rett Syndrome
+Official title: A Pilot Study of an Antioxidant Cocktail vs. Placebo in the Treatment of Children and Adolescents With Rett Syndrome
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Rett Syndrome
+Interventions: Rett-T (DRUG); Placebo (OTHER)
+Summary: This study will examine the potential efficacy and safety of Rett-T for core motor deficits of Rett syndrome, and will explore biological markers of safety and treatment response.
+Eligibility: Inclusion Criteria:
+
+1. Female outpatients 2-21 years of age inclusive.
+2. Diagnosis of Rett syndrome.
+3. At least partially ambulatory (may need assistive device to take a step).
+4. If already receiving stable interventions must meet the following criteria:
+
+   * If already receiving stable concomitant medications or nutraceuticals affecting behaviour, must be on a stable dose during the preceding 1 month prior to Screening (with the exception of fluoxetine, where a period of 6 weeks is needed), and will not electively initiate new or modify ongoing medications for study duration.
+5. Have normal laboratory test results at Screening/Baseline. If abnormal, the finding(s) must be deemed clinically insignificant by the Investigator.
+6. Ability to complete assessments, fluency in English (parent/legal guardian; participant, if verbal).
+7. Ability to obtain assent (if developmentally appropriate), as well as written informed consent from their parent(s)/legal guardian(s).
+
+Exclusion Criteria:
+
+1. Pregnant females; sexually active females on inadequate birth control (extremely unlikely in this population).
+2. Have another serious medical condition that, based on Investigator judgment, might interfere with the conduct of the study, confound interpretation of the study results, or endanger their own well-being. Have evidence or history of malignancy or any significant hematological, endocrine, cardiovascular (including any rhythm disorder), respiratory, renal, hepatic, or gastrointestinal disease, not including mild common pediatric diseases in these areas that are stable (e.g. mild asthma, constipation, etc.).
+3. Have hypersensitivity to any components of Rett-T.
+4. Have one or more of the following: HIV, HBV, HCV, hemophilia (bleeding problems, recent nose and brain injuries), drug abuse, immunity disorder, major depressive episode or psychosis.
+5. Unable to tolerate venipuncture procedures for blood sampling.
+6. Receiving concomitant medications/nutraceuticals that include any of the components of Rett-T.
+7. Actively enrolled in another intervention study.

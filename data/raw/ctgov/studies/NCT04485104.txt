@@ -1,0 +1,24 @@
+Title: Assessment of Adjunctive Cannabidiol Oral Solution (GWP42003-P) in Children With Tuberous Sclerosis Complex (TSC), Dravet Syndrome (DS), or Lennox-Gastaut Syndrome (LGS) Who Experience Inadequately-controlled Seizures
+Official title: An Open-label, Single-arm Study to Assess the Safety, Pharmacokinetics, and Efficacy of Adjunctive Cannabidiol Oral Solution (GWP42003-P) in Participants With Tuberous Sclerosis Complex (Age 1 Month to < 2 Years of Age), Dravet Syndrome (1 Year to < 2 Years of Age), or Lennox-Gastaut Syndrome (1 Year to < 2 Years of Age) Who Experience Inadequately-controlled Seizures
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Seizure in Participants With Tuberous Sclerosis Complex; Seizure in Participants With Dravet Syndrome; Seizure in Participants With Lennox-Gastaut Syndrome
+Interventions: GWP42003-P (DRUG)
+Summary: This study will be conducted to evaluate the safety, pharmacokinetics (PK), and efficacy of adjunctive GWP42003-P in participants \< 2 years of age with tuberous sclerosis complex (TSC), Lennox-Gastaut syndrome (LGS), or Dravet syndrome (DS).
+Eligibility: Key Inclusion Criteria:
+
+* Participants with TSC (1 month to \< 2 years of age), or DS (1 year to \< 2 years of age), or LGS (1 year to \< 2 years of age) within the specified age range at the time of initial informed consent.
+* Parent(s)/legal representative is/are willing and able to give informed consent for participation in the study.
+* Parent(s)/legal representative is/are willing and able (in the investigator's opinion) to comply with all study requirements (including accurate electronic participant-reported outcome \[ePRO\] diary completion).
+* Participants with TSC must have a diagnosis per the 2012 International Tuberous Sclerosis Complex Consensus Conference. Participants with LGS or DS must have a diagnosis that is consistent with International League Against Epilepsy (ILAE) guidelines and confirmed by the Epilepsy Study Consortium (ESCI).
+* Participants who have uncontrolled seizures, and who are currently receiving 1 or more antiseizure medication (ASMs).
+* A suitable VEEG, as available in the medical record, within 1 year of Visit 1. When a historical VEEG is not available, and if clinically indicated and appropriate (due to uncertainties or new seizures), a VEEG will be completed and read to confirm diagnosis prior to Visit 3. All VEEGs are to be read at baseline by the investigator and by an independent reviewer.
+* Has seizures which are not adequately controlled through their current ASMs, defined as ≥ 1 seizure reported on the seizure diary during the screening/baseline period
+
+Key Exclusion Criteria:
+
+* Has tumor growth which, in the opinion of the investigator, could affect participant safety.
+* Has clinically significant abnormal laboratory values, in the investigator's opinion, at screening/baseline.
+* Has clinically significant abnormalities in the electrocardiogram (ECG) measured at screening/baseline.
+* Has any concurrent cardiovascular conditions, that will, in the investigator's opinion, interfere with the ability to assess their ECGs.
+* Has any known or suspected hypersensitivity to cannabinoids or any of the excipients of the study intervention such as sesame seed oil.
+* Has significantly impaired hepatic function prior to Visit 3, d

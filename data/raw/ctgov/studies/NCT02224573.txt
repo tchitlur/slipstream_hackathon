@@ -1,0 +1,17 @@
+Title: An Open Label Extension Study of Cannabidiol (GWP42003-P) in Children and Adults With Dravet or Lennox-Gastaut Syndromes
+Official title: An Open Label Extension Study to Investigate the Safety of Cannabidiol (GWP42003-P; CBD) in Children and Adults With Inadequately Controlled Dravet or Lennox-Gastaut Syndromes.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Epilepsy; Dravet Syndrome; Lennox-Gastaut Syndrome
+Interventions: GWP42003-P (DRUG)
+Summary: To investigate the potential antiepileptic effects of cannabidiol (GWP42003-P) in children and adults with Dravet or Lennox-Gastaut syndromes.
+Eligibility: Key Inclusion Criteria:
+
+• Participant has completed the treatment phase of their Core Studies: GWEP1332A \[NCT02091206\], GWEP1332B \[NCT02091375\], GWEP1424 \[NCT02224703\], GWEP1414 \[NCT02224560\], GWEP1424 \[NCT02224703\], and GWEP1423 \[NCT02224690\].
+
+Key Exclusion Criteria:
+
+* Participant is currently using or has in the past used recreational or medicinal cannabis, or synthetic cannabinoid-based medications (including Sativex®) within the 3 months prior to study entry other than the investigational medicinal product (IMP) received during the Core Study and are unwilling to abstain for the duration for the study.
+* Any history of suicidal behavior or any suicidal ideation of type 4 or 5 on the Columbia-Suicide Severity Rating Scale (C-SSRS) at Visit 1.
+* Participant has been part of a clinical trial involving an IMP during the inter-study period.
+* Female participant is of child bearing potential or male participant's partner is of child bearing potential, unless willing to ensure that they or their partner use highly effective contraception, for example, hormonal contraceptives, intrauterine devices/hormone-releasing systems, bilateral tubal occlusion, vasectomized partner or sexual abstinence, during the study and for 3 months thereafter (however, a male condom should not be used in conjunction with a female condom).
+* Participant has significantly impaired hepatic function at the 'End of Treatment' visit of their Core Study or at Visit 1 if re-assessed: i) Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) \>5 × upper limit of normal (ULN); ii) ALT or AST \>3 × ULN and (total bilirubin \[TBL\] \>2 × ULN or international normalized ratio \[INR\] \>1.5); iii) ALT or AST \>3 × ULN with the presence of fatigue, nausea, vomiting, right upper quadrant pain or tenderness, fever, rash, and/or eosinophilia (\>5%). This criterion must be confirmed prior to entering the study.

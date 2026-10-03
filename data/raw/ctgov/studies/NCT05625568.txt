@@ -1,0 +1,26 @@
+Title: Study of VYNT-0126 in the Treatment of Rett Syndrome in Adult Patients
+Official title: Phase 2, Double-Blind, Randomized, Placebo-Controlled Clinical Study of VYNT-0126 in the Treatment of Rett Syndrome in Adult Female Patients
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Rett Syndrome
+Interventions: VYNT-0126 (DRUG); Placebo (DRUG)
+Summary: This is an exploratory, Phase 2, multicenter, double-blind, parallel-group, placebo-controlled study to assess the safety, tolerability, and efficacy of oral treatment with VYNT-0126 in female subjects 18-45 years of age with Rett syndrome.
+Eligibility: Inclusion Criteria:
+
+* Females age 18-45 (inclusive)
+* Diagnosis of classic/typical Rett syndrome with a documented mutation of the MeCP2 gene
+* Severity rating of between 10 and 36 (Rett Syndrome Natural History/Clinical Severity Scale)
+* Concomitant medications (including approved medications for treatment of Rett syndrome) must be stable for \>4 weeks prior to enrollment
+* Able to receive liquid study drug orally or via gastrostomy tube (G-tube)
+
+Exclusion Criteria:
+
+* Actively undergoing neurological regression;
+* Abnormal QT interval, prolongation or significant cardiovascular history
+* Excluded concomitant medications
+* Current clinically significant (as determined by the investigator). cardiovascular, endocrine, hepatic, renal, or respiratory disease
+* Gastrointestinal disease which may interfere with the absorption, distribution, metabolism or excretion of the study medication
+* History of, or current cerebrovascular disease or brain trauma
+* History of, or current, malignancy
+* Clinically significant abnormalities in safety laboratory tests, vital signs, or ECG, as measured at screening or baseline
+* Any condition which in the investigator's opinion would affect the ability of the subject to participate in the study
+* Allergy to VYNT-0126 or any ingredients of the liquid formulation

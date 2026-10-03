@@ -1,0 +1,18 @@
+Title: Development of the ORCA Communication Measure for Rett Syndrome
+Official title: Validation of the Observer-Reported Communication Ability (ORCA) Measure in Rett Syndrome
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome
+Interventions: none
+Summary: This measurement validation study will use qualitative and quantitative methodology to evaluate the Observer-Reported Communication Ability Measure (ORCA), to appropriately capture communication abilities in individuals with Rett syndrome. The ORCA Measure is a caregiver-reported questionnaire that collects caregiver observations of their child's communication abilities including expressive, receptive and pragmatic communication types. Caregivers will participate via phone interviews and online surveys. Approximately 270 participants will be enrolled.
+Eligibility: Inclusion Criteria:
+
+* Parent or caregiver at least 18 years of age, with a female child, age 2 or older, diagnosed with Rett syndrome confirmed by a disease-causing MECP2 genetic mutation.
+* Fluency in the English language
+* Currently lives with the child with Rett syndrome
+* Ability and willingness to participate in all study activities.
+* Access to a telephone and/or access to a device with internet access that is capable of supporting electronic survey completion
+
+Exclusion Criteria:
+
+* Parent or caregiver with clinically significant condition or situation that makes them not be suitable for the study, in the opinion of research staff.
+* Parent or caregiver of a child with Rett syndrome who also has another diagnosis in addition to Rett syndrome.

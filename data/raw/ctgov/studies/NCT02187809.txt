@@ -1,0 +1,26 @@
+Title: Safety and Tolerability of Clobazam as Adjunctive Therapy in Paediatric Patients Aged ≥1 to ≤16 Years With Dravet Syndrome
+Official title: Multi-site, Prospective, Open-label, Long-term, Flexible Dose, Interventional Study to Evaluate the Safety and Tolerability of Clobazam as Adjunctive Therapy in Paediatric Patients Aged ≥1 to ≤16 Years With Dravet Syndrome
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Dravet Syndrome
+Interventions: Clobazam (DRUG)
+Summary: To investigate the long-term safety and tolerability of clobazam when administered for 1 year as adjunctive therapy in paediatric patients aged ≥1 to ≤16 years with Dravet Syndrome.
+Eligibility: The inclusion and exclusion criteria for the patients who participated in lead-in Study 14362A will be transferred from the 14362A study and for the patients who did not participate in lead-in Study 14362A the inclusion/exclusion is separately listed below.
+
+Inclusion Criteria:
+
+1. The patient has a diagnosis of Dravet Syndrome supported by:
+
+   1. onset of seizures in the first year of life
+   2. history of fever-induced prolonged seizures as determined by the Investigator
+
+      * these may include prolonged (approximately 15 minutes or longer) hemi-clonic seizures
+   3. multiple seizure types which may include:
+
+      * generalised tonic-clonic (required for inclusion)
+      * clonic (required for inclusion)
+      * myoclonic jerks/seizures
+   4. history of normal development prior to seizure onset followed by development delay or regression after seizure onset
+   5. abnormal EEG consistent with Dravet Syndrome
+2. The patient is currently receiving a stable dose of clobazam of at least 0.5 mg/kg/day (maximum 20 mg/day) for at least 3 months
+
+Other protocol-defined inclusion and exclusion criteria may apply.

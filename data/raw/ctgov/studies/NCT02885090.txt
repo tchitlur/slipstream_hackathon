@@ -1,0 +1,13 @@
+Title: New Genes Involved in Molecular Etiology of Rett Syndrome Through DNA Microarray Comparative Genomic Hybridization
+Official title: Search for New Genes Involved in Molecular Etiology of Rett Syndrome Through Comparative Genomic Hybridization on DNA Microarrays
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rett Syndrome
+Interventions: Blood sampling (PROCEDURE)
+Summary: Rett syndrome (RTT) is a genetic encephalopathy and the typical form is caused by mutations in the gene MECP2. It is a genetically heterogeneous pathology. CDKL5 and FOXG1 have been recently discovered being involved in other forms of RTT. However, at least 5% of typical forms and more other atypical forms are not linked to any of 3 genes known to be involved in the disease.
+
+The purpose of this study is to identify new genes involved in molecular etiology of typical and atypical forms of RTT.
+Eligibility: Inclusion Criteria:
+
+* Patients: RETT syndrome
+* Patients: Female
+* Parents: parent of a patients

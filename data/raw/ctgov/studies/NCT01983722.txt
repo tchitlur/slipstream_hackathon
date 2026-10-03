@@ -1,0 +1,16 @@
+Title: Treatment Plan to Provide Expanded Access to Stiripentol for Patients With Dravet Syndrome
+Official title: Treatment Plan to Provide Expanded Access to Stiripentol for Patients With Dravet Syndrome
+Status: APPROVED_FOR_MARKETING. Type: EXPANDED_ACCESS. Phases: none.
+Conditions: Dravet Syndrome
+Interventions: Stiripentol (DRUG)
+Summary: Expanded access to Stiripentol for patients with Dravet Syndrome.
+Eligibility: Inclusion Criteria:
+
+* 6 months and older
+* Diagnosis of Dravet Syndrome with intractable seizures
+
+Exclusion Criteria:
+
+* Hypersensitivity to the active substance or to any of the excipients
+* Past history of psychoses in the form of episodes of delirium
+* Impaired hepatic and/or renal function, defined as creatinine \>2 and/or transaminase \>4xULN

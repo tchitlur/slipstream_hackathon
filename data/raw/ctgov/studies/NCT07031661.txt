@@ -1,0 +1,19 @@
+Title: A Cohort Study of Disease Prediction Model for High-risk Population With Bipolar Disorder
+Official title: The Establishment of Disease Prediction Model for High-risk Population With Bipolar Disorder Based on Multimodal Data: A Multicenter, Large Sample, Prospective Cohort Study
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: High-risk; Bipolar Disorder; Atypical Depression
+Interventions: This was an observational study with no intervention. (OTHER)
+Summary: Bipolar disorder (BD) is a serious, complicated, familial aggregation onset of mental illness, which has the characteristics of five-low and one-high, namely high prevalence, high recurrence rate, high morbidity and mortality, high comorbidity rate and younger age characteristics. This situation will seriously influence one's behaviour or thinking, cognitive, emotional, social and occupational function, causing the heavy burden of disease. But, early recognition and early diagnosis are difficult to achieve at present.
+
+Based on the preliminary research results of the project team, it is found that BD can be identified early through specific dimensions, and early recognition is crucial for the prognosis of patients. The earlier the intervention for BD is implemented, the better the prognosis, especially the functional prognosis, but the difficulty lies in how to implement it. Establishing a high-quality clinical cohort of BD high-risk population is a necessary prerequisite. This study intends to establish a high-quality, large-sample cohort through multi-center, long-term and prospective cohort design and enroll 100 BD high-risk patients every year, a total of 400 cases in 4 years. 
+Eligibility: Inclusion Criteria:
+
+* High-risk offsprings of parents with BD: Aged 6-18 yrs, both male and female. Offsprings and parents can sign the writtened informed consent form. At least one of parents was diagnosed with bipolar disorder by two or more senior psychiatric doctor.
+* Atypical depression: Aged 6-18 yrs, both male and female. Patients and parents can sign the writtened informed consent form. Patients was diagnosed with atypical depression by two or more senior psychiatric doctor according to DSM-5. The disease phase and treatment regime are unrestricted.
+* Health control: health individuals with age and gender matched with high-risk offsprings, no psychiatric family history.
+
+Exclusion Criteria:
+
+* High-risk offsprings of parents with BD: HCL-32 total score \> 12. Individuals was diagnosed with BD or have symptoms of Axis I psychiatric disorder screened by K-SADS-PL . Individuals with severe physical disease, including kidney diseases, liver diseases or nervous system diseases etc.
+* Atypical depression: HCL-32 total score \> 12. Individuals was diagnosed with BD or have symptoms of Axis I psychiatric disorder screened by K-SADS-PL . Individuals with severe physical disease, including kidney diseases, liver diseases or nervous system diseases etc. Patients cormobid substance abuse or treated with MECT in recent half a year.
+* Health control: Individuals with psychiatric family history, severe physical disease, including kidney diseases, liver diseases or nervous system diseases etc.

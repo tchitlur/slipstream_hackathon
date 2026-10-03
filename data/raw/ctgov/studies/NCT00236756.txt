@@ -1,0 +1,20 @@
+Title: A Study of the Efficacy and Safety of Topiramate as an add-on Therapy in the Treatment of Epilepsy Patients With Lennox-Gastaut Syndrome
+Official title: A Double-Blind Trial of Topiramate in Subjects With Lennox-Gastaut Syndrome.
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Epilepsy; Seizures
+Interventions: topiramate (DRUG)
+Summary: The purpose of this study is to evaluate the effectiveness and safety of topiramate as add-on therapy in the treatment of epilepsy patients with Lennox-Gastaut syndrome, a severe form of epilepsy in which there are mixed types of seizures.
+Eligibility: Inclusion Criteria:
+
+* Body weight of at least 25 pounds
+* diagnosis of Lennox-Gastaut syndrome and an electroencephalogram (EEG) with an abnormal pulsation pattern
+* atypical absence seizures and drop attacks (i.e., tonic-atonic seizures) among other seizure types that could include tonic-clonic, myoclonic, and minor-motor
+* at least 60 seizures during the month before baseline
+* must be maintained on 1 or 2 antiepileptic drugs
+* females must not have had their first menstrual period, or are physically incapable of child bearing, or if of child bearing potential, sexually abstinent, or using adequate contraceptive measures, and have a negative pregnancy test before study entry.
+
+Exclusion Criteria:
+
+* Patients whose seizures are due to a progressive disease (for example, active infection, cancer or metabolic disturbance)
+* have a significant recent history (within 2 years) of medical diseases (respiratory, heart, gastrointestinal, blood diseases, rheumatic fever or cancer)
+* history of alcohol or drug abuse.

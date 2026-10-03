@@ -1,0 +1,29 @@
+Title: An Exploratory Open Label Study of EPI-743 (Vincerinone TM) in Children With Autism Spectrum Disorder
+Official title: An Exploratory Open-Label Phase 2 Study of EPI-743 (Vincerinone TM) in Children With Autism Spectrum Disorder
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Autism Spectrum Disorder
+Interventions: EPI-743 (DRUG)
+Summary: The investigators hypothesize that EPI-743 may provide clinical benefit to children with Autism Spectrum Disorder.
+Eligibility: Inclusion Criteria:
+
+1. Diagnosis of Autism Spectrum Disorder as defined by the DSM-V criteria for ASD and a gold-standard diagnostic evaluation for ASD such as the Autism Diagnostic Observation Schedule (ADOS) and/or the Autism Diagnostic Interview - Revised (ADI-R)
+2. Male or female, 3 years to 14 years of age
+3. Abnormal glutathione cycle biomarkers (GSH/GSSG in plasma\<8.0)
+4. Language impairment (as defined by the CELF-2 or CELF-4 screener)
+5. Ability to complete language assessment (using either CELF or PLS)
+6. Subject or subject's guardian able to consent and comply with protocol requirements
+7. Abstention from use of Coenzyme Q10, vitamin E, lipoic acid, folinic acid, other forms of folic acid above recommended daily allowance (RDA), and idebenone 2 months prior to treatment with EPI-743 and for duration of study
+8. Stable regimen of medication and supplements for 2 months prior to enrollment and duration of the study
+
+Exclusion Criteria:
+
+1. Allergy to EPI-743 or sesame oil
+2. Allergy to vitamin E
+3. Clinical history of bleeding or abnormal baseline PT/PTT
+4. Use of anticoagulant medications
+5. Participation in any other interventional study within 90 days of treatment.
+6. Use of antipsychotic medications
+7. Moderate to severe positive response on ABC irritability subscale on questions: Injures self on purpose, is aggressive to other children or adults (verbally or physically), deliberately hurts himself/ herself, and/or does physical violence to self
+8. Severe impairment as defined as a Vineland Adaptive Behavioral Scales composite standard score of \<40
+9. Patients with genetic disease that gives rise to ASD (e.g. Rett syndrome, Down syndrome, fragile x syndrome)
+10. Abnormal liver function tests two times the upper limit of normal or renal insufficiency with creatinine levels two times the upper limit of normal

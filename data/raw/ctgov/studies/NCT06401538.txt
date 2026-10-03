@@ -1,0 +1,22 @@
+Title: BMB-101 in Absence Epilepsy and DEE
+Official title: An Open-Label Phase 2 Study to Evaluate the Efficacy, Safety and Tolerability of BMB-101 in Adults With Either Classic Absence Epilepsy (With or Without Eyelid Myoclonia (EEM; Jeavons Syndrome), OR Developmental Epileptic Encephalopathy (DEE).
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Absence Epilepsy; Jeavons Syndrome; Dravet Syndrome; Lennox Gastaut Syndrome
+Interventions: BMB-101 (DRUG)
+Summary: The study is a pilot, open-label, study to test whether BMB-101 is safe and effective in reducing the frequency of seizures in subjects with Absence Epilepsy including Epilepsy with Eyelid Myoclonia (also called Jeavons Syndrome) as well as Developmental Epileptic Encephalopathies such as Dravet and Lennox Gastaut. The study will last up to 6 months. There will be a 1 month screening period, then up to 3 months on open-label BMB-101 including titration and tapering/washout periods, and then a 1 month follow-up period. There will be 6 clinic visits.
+Eligibility: Inclusion Criteria:
+
+1. Subjects must have a diagnosis of Absence Epilepsy with or without eyelid myoclonia (Jeavons Syndrome) or a diagnosis of Developmental and Epileptic Encephalopathy (DEE) such as Dravet syndrome or Lennox-Gastaut syndrome or other DEE.
+2. Subjects with Absence must experience at least 4 episodes of 3-4/second SWD lasting at least 3 seconds each in a 24 hour EEG during the baseline period. Those with DEE must have a typical EEG pattern for DEE on routine EEG and experience at least 4 seizures during the 4 week baseline period prior to BMB-101 administration.
+3. Subjects can be male or female ages 18-65 inclusive at time of baseline.
+4. Subject must have tried at least one anti-seizure medication at a recommended dose and duration and must be on a stable dose on their current anti-seizure medications for at least 4 weeks prior to baseline and remain stable throughout the study.
+5. Subjectis willing and able to be compliant with diary completion, visit schedule, and study drug accountability.
+6. Female subjects of childbearing potential must have a negative urine pregnancy test at baseline. Subjects of childbearing or child-fathering potential must be willing to use medically acceptable forms of birth control, which includes abstinence, while in this study and for 90 days after the last dose of study drug.
+
+Exclusion Criteria:
+
+1. Subject has current or past history of cardiovascular or cerebrovascular disease, such as cardiac valvulopathy, pulmonary hypertension, myocardial infarction or stroke, or clinically significant structural cardiac abnormality.
+2. Subject has moderate or severe hepatic impairment. Asymptomatic subjects with mild hepatic impairment (elevated liver enzymes \< 3x upper limit of normal (ULN) and/or elevated bilirubin \<2x ULN) may be entered into the study after review and approval by the Medical Monitor in conjunction with the sponsor, in consideration of comorbidities and concomitant medications.
+3. Subject has severe renal impairment (estimated glomerular filtration rate \<30mL/min/1.73m2)
+4. Clinically significant ECG abnormality such as QTcF \>450 msec (males) or \>470 msec (females)
+5. Subject is receiving concomit

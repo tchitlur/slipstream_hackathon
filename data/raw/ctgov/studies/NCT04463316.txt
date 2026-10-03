@@ -1,0 +1,15 @@
+Title: GROWing Up With Rare GENEtic Syndromes
+Official title: GROWing Up With Rare GENEtic Syndromes ….When Children With Complex Genetic Syndromes Reach Adult Age
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Prader-Willi Syndrome; PWS-like Syndrome; Silver Russel Syndrome; Congenital Hypopituitarism; Klinefelter (XXY-)Syndrome; Congenital Adrenal Hyperplasia; XXXXY Syndrome; XXYY Syndrome; XXXX Syndrome (Tetra-X Syndrome); Disorders of Sex Development; Turner Syndrome; 46, XY DSD; Tuberous Sclerosis; Neurofibromatosis; Albright Hereditaire Osteodystrofie; Cornelia de Lange Syndrome; Saethre-Chotzen Syndrome; 17p- Deletiesyndrome; VCF Syndrome; POLR3A Mutatie; Ohdo Syndrome; Jacobsen Syndrome / 11 q Syndrome; Myrhe Syndrome; CHARGE Syndrome; 1q25-32 Deletie; Bardet Biedl Syndrome; Rett Syndrome; 22q11 Deletion Syndrome; Allan-Herndon-Dudley Syndrome; Kallmann Syndrome; Rare Bone Disorders; Noonan Syndrome; Williams-Beuren Syndrome
+Interventions: Retrospective file studies (DIAGNOSTIC_TEST)
+Summary: Introduction Rare complex syndromes Patients with complex genetic syndromes, by definition, have combined medical problems affecting multiple organ systems, and intellectual disability is often part of the syndrome. During childhood, patients with rare genetic syndromes receive multidisciplinary and specialized medical care; they usually receive medical care from 3-4 medical specialists.
+
+Increased life expectancy Although many genetic syndromes used to cause premature death, improvement of medical care has improved life expectancy. More and more patients are now reaching adult age, and the complexity of the syndrome persists into adulthood. However, until recently, multidisciplinary care was not available for adults with rare genetic syndromes. Ideally, active and well-coordinated health management is provided to prevent, detect, and treat comorbidities that are part of the syndrome. However, after transition from pediatric to adult medical care, patients and their parents often report fragmented poor quality care instead of adequate and integrated health management. Therefore, pediatricians express the urgent need for adequate, multidisciplinary adult follow up of their pediatric
+Eligibility: Inclusion Criteria:
+
+* Patients with rare syndromes or rare congenital diseases visiting the multidisciplinary outpatient clinic for patients with rare diseases at the department of endocrinology, internal medicine, Erasmus Medical Center.
+
+Exclusion Criteria:
+
+* None

@@ -47,3 +47,5 @@ next-env.d.ts
 /data/raw/**/*.csv
 /data/raw/**/*.xml
 .env.local
+!/data/raw/ctgov/studies/*.txt
+!/data/raw/pubmed/abstracts/*.txt

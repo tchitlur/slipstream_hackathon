@@ -1,0 +1,18 @@
+Title: The Findings of MR Imaging in Rett Syndrome
+Official title: The Findings of Resting-state Functional Magnetic Resonance Imaging , Susceptibility Weighted Imaging and Diffusion Spectrum Imaging in Rett Syndrome
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome
+Interventions: Rett Syndrome (OTHER)
+Summary: Introduction: Rett Syndrome is a neurodevelopmental disease that primarily affects girls. Clinically, patients are normal before six months to one and half years old, and then develop progressive severe problems with communication, learning, co-ordination and neurodevelopment, with loss of motor skills around the age of two. At the same time, stereotyped hand movement typically appears. However, some of them will improve the abilities in speech and eye gaze, and the repetitive hand movements may decrease after few years.
+
+Background / hypothesis：Preliminary evidence suggests that there are many differences in brain structure between Rett syndrome and normal people including cerebral volume reduction in both white matter and gray matter, cerebral blood flow in the frontal area, and density of receptors in basal ganglia. In MR imaging studies, decreases in parietal lobe gray matter were found, and several reductions in cortical white matter were observed by DTI. However, the visual related pathway- posterior corona radiata in Rett syndrome girls was normal to be increased in FA values. The similar result was also discovered in the superior longitudinal fasciculus, associated with spe
+Eligibility: Inclusion Criteria:
+
+* Diagnosis: Rett Syndrome
+
+Exclusion Criteria:
+
+1. Psychiatric diagnoses
+2. History of neurological impairment
+3. Neuropsychiatric conditions
+4. Clinical evidence of a genetic disorder

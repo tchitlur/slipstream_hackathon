@@ -1,0 +1,26 @@
+Title: Neurodevelopmental Impact of Epilepsy on Autonomic Function in Dravet Syndrome
+Official title: Neurodevelopmental Impact of Epilepsy on Autonomic Function in Dravet Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Dravet Syndrome; Epilepsy
+Interventions: Video-electroencephalography (OTHER); Blood Samples (OTHER)
+Summary: Dravet Syndrome (DS) is a severe epileptic encephalopathy, which main cause is mutations of SCN1A, the gene coding for the Nav1.1 voltage-gated sodium channel. DS is characterized by childhood onset, severe cognitive deficit and drug-resistant seizures, including several generalized convulsive seizures per day, frequent status epilepticus and high seizure-related mortality rate. Sudden and unexpected death in epilepsy (SUDEP) represents the major cause of premature deaths. The risk of SUDEP is thus about 9/1000-person-year in comparison with about 5/1000-person-year in the whole population of patients with drug-resistant epilepsies.
+
+Experimental and clinical data suggest that SUDEP primarily result from a postictal central respiratory dysfunction. SUDEP in DS, might be the result of a seizure-induced fatal apnea in a patient who had developed epilepsy-related vulnerability to central autonomic and/or respiratory dysfunction. However, a key clinical issue which remains to be addressed is the temporal dynamics of the onset and evolution of the autonomic vulnerability in these patients. The main clinical risk factor of SUDEP is the frequency of convulsive seizures and the SUDEP risk 
+Eligibility: Inclusion Criteria:
+
+* Children (\> 2 years and \< 18 years) and adult patients (\< 60 years) with established diagnosis of Dravet Syndrome
+* Adults protected by a guardianship or curatorship
+* Diagnosis of Dravet syndrome will be confirmed by PI of each study center based on medical history, type of seizures, EEG data and results of genetic testing
+* No restriction related to the seizure frequency
+* Patient (or patient's parents or legal representative) who gave its written informed consent to participate to the study
+* At least one of the parents and/or legal representative understanding and speaking national language
+* Written consent form signed by both parents
+* Absence of known current pregnancy and breastfeeding
+* Patient affiliated to its national health care system
+
+Exclusion Criteria:
+
+* Patients (children or adults) unable to tolerate at least 24 hours of video-EEG recordings (behavioural problems resulting in technical issues for appropriate EEG recordings)
+* Patients with congenital heart or lung disease
+* Patients with congenital abnormalities or diseases, other than the epilepsy, which could interfere with sleep
+* Subject in exclusion period of another study

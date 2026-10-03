@@ -1,0 +1,14 @@
+Title: The Role of Dietary Calcium for the Treatment of Osteopenia in Girls With Rett Syndrome
+Official title: The Role of Dietary Calcium for the Treatment of Osteopenia in Girls With Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rett Syndrome
+Interventions: calcium (DIETARY_SUPPLEMENT); placebo (DIETARY_SUPPLEMENT)
+Summary: Randomized, placebo-controlled trial of oral calcium supplementation for osteopenia in girls and women with Rett syndrome
+Eligibility: Inclusion Criteria
+
+* clinical diagnosis of Rett syndrome
+
+Exclusion Criteria
+
+* parathyroid disease
+* renal disease

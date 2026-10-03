@@ -1,0 +1,21 @@
+Title: An Open-Label Extension Study of STK-001 for Patients With Dravet Syndrome
+Official title: An Open-Label Extension Study for Patients With Dravet Syndrome Who Previously Participated in Studies of STK-001
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Dravet Syndrome
+Interventions: zorevunersen (STK-001) (DRUG)
+Summary: Stoke Therapeutics is evaluating the long-term safety \& tolerability of repeated doses of zorevunersen (STK-001) in patients with Dravet syndrome who previously participated in studies of zorevunersen. Change in seizure frequency and overall clinical status, and quality of life will be measured as secondary endpoints in this open-label study.
+Eligibility: Inclusion Criteria:
+
+* Completed dosing with zorevunersen and the End of Study Visit in Study STK-001-DS-101 or Study STK-001-DS-102, with an acceptable safety profile per Investigator judgment.
+* Had satisfactory compliance with study visits and procedures in Study STK-001-DS-101 or Study STK-001-DS-102 per Investigator and Sponsor judgment.
+* Completed Study STK-001-DS-101 or STK-001-DS-102 within 4 weeks of the start of their participation in Study STK-001-DS-501 unless approved by sponsor.
+
+Exclusion Criteria:
+
+* Met any withdrawal criteria from Study STK-001-DS-101 or STK-001-DS-102.
+* Currently treated with an antiepileptic drug (AED) acting primarily as a sodium channel blocker, as maintenance therapy, including phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide or rufinamide (with the exception of cenobamate, which is permitted).
+* Clinically significant unstable medical conditions other than epilepsy.
+* Clinically relevant symptoms or a clinically significant illness (in the judgment of the Investigator) at Screening or prior to dosing on Day 1, other than epilepsy.
+* Spinal deformity or other condition that may alter the free flow of CSF or has an implanted CSF drainage shunt.
+* Treated (or is being treated) with an investigational product (other than zorevunersen) since participating in Study STK-001-DS-101 or STK-001-DS-102.
+* Participating in an observational study, they are excluded unless approved by the Sponsor.

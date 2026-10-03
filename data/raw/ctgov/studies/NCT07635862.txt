@@ -1,0 +1,31 @@
+Title: Clinical Trial Evaluating the Effects of Ganaxolone in Children With Autism
+Official title: A Randomized Controlled Trial of Ganaxolone for Children With Autism Spectrum Disorder
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Autism in Children; Autistic Disorder in Children and Adolescents; Autism Spectrum Disorder
+Interventions: Ganaxolone (Ztalmy) (DRUG); Placebo (DRUG)
+Summary: The goal of this study is to conduct a randomized, placebo-controlled trial (RCT) of ganaxolone, a neuroactive steroid (NAS), in autistic children and adolescents aged 5 to 17 years old. Ganaxolone is approved and effective for treating seizures in children as young as 2 years old who have CDKL5 deficiency disorder (CDD), a neurogenetic condition associated with developmental delays, seizure disorder, hypotonia, visual impairments, and autistic features. The primary outcome of interest for this trial is irritability on the Aberrant Behavior Checklist (ABC) because it is a common symptom of emotion dysregulation in ASD that impacts quality of life, including mental health, independence, educational opportunities, and integration into the community. The secondary domains of interest for this trial are restricted and repetitive behaviors (RRB), specifically insistence on sameness (IS), a subdomain of RRB characterized by inflexibility and a strong preference for predictable routines and familiar environments. Secondary outcome measures include the IS subscale from the Dimensional Assessment of Repetitive Behaviors (DARB) and subscales of the Clinical Global Impressions Scale for irrit
+Eligibility: Inclusion Criteria:
+
+1. children between the ages of 5 years and 17 years old at enrollment
+2. diagnosis of autism spectrum disorder based on DSM-5 criteria and confirmed with the Autism Diagnostic Inventory - Revised (ADI-R) and Autism Diagnostic Observation Schedule 2nd edition (ADOS-2), or Childhood Autism Rating Scales (CARS)
+3. medical stability based on clinical interview
+4. stable medication regimens (2 weeks, with the exception of fluoxetine for 4 weeks)
+5. stable psychosocial therapies (4 weeks) prior to randomization and no plans to change treatments or intensity during the trial
+6. high rates of irritability defined as the Aberrant Behavior Checklist irritability subscale score \> 18
+7. for participants who are sexually active, use of an effective contraceptive (e.g., birth control medications for female participants and condoms for male participants) and no plans for pregnancy throughout the trial
+8. for females, negative urine pregnancy test at baseline
+9. no planned changes in school placement
+10. for participants living within 150 miles of Stanford University, have the ability to attend site visits and attempt EEG and MRI procedures before and after the trial
+11. availability of a reliable informant who interacts with the participant regularly and can reliably complete assessments in English regarding their behaviors throughout the trial
+12. ability to participate in the testing administered in English to the extent that valid standard scores and biological samples can be obtained.
+
+Exclusion Criteria:
+
+1. any unstable medical condition, such as unstable seizure disorder or heart disease
+2. any lifetime diagnosis of severe psychiatric (e.g., schizophrenia) or neurodegenerative conditions
+3. concomitant use of any neuroactive steroids or corticosteroids.
+4. history of substance abuse or active/planned use of alcohol, opioids, or cannabinoids
+5. recent history or current suicidal ideation assessed with the Columbia-Suicide Severity Rating Scale (C-SSRS) and by clinical interview with the study physician
+6. pregnancy and mothers who are breastfeeding
+7. prior participation in any clinical trial in the 30 days prior to study entry
+8. known intolerance

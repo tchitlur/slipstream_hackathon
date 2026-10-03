@@ -1,0 +1,20 @@
+Title: Creatine Metabolism in Rett Syndrome
+Official title: Metabolic Evaluation of Nutrition in Rett Syndrome: Creatine Metabolism
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome
+Interventions: none
+Summary: Rett syndrome (RTT) is an X-linked severe neurodevelopmental disorder. Despite their good appetite, many females with RTT meet the criteria for moderate to severe malnutrition. The pathological mechanism is barely understood. Although feeding difficulties may play a role in this, other constitutional factors as altered metabolic processes are suspected. Preliminary research showed elevated plasma creatine concentrations and increased urinary creatine/creatinine ratios in half of the RTT girls.
+
+The aim of this study is to confirm previous findings and examine the functionality of the creatine transporter in RTT girls.
+
+The investigators assume that previous findings will be confirmed, and are due to an altered functionality of the creatine transporter.
+Eligibility: Inclusion Criteria:
+
+* Clinical diagnosis of RTT (meeting consensus diagnostic criteria (Hagberg et al, 2002));
+* MECP2-mutation;
+* Complete neurophysiological work-up;
+* Participant preliminary research (research protocol NL25356.068.08).
+
+Exclusion Criteria:
+
+* Male gender

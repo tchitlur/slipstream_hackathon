@@ -1,0 +1,38 @@
+Title: Auditory EEG and Behavioral Assessments in Individuals With Rett Syndrome
+Official title: Auditory EEG and Behavioral Assessments in Individuals With Rett Syndrome
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome
+Interventions: Electroencephalogram (EEG) Recording (PROCEDURE)
+Summary: This observational research study is designed to learn more about how the brain processes sound in individuals with Rett syndrome. Participants will complete a noninvasive electroencephalogram (EEG) recording while listening to simple sounds through headphones. In addition, parents or caregivers will complete questionnaires and an interview about the participant's symptoms, communication abilities, daily functioning and overall health. The information collected from this study may help researchers better understand brain activity patterns and clinical features associated with Rett syndrome and support future research efforts.
+Eligibility: Rett Syndrome Participants:
+
+Inclusion Criteria:
+
+* Have a clinical diagnosis of classic Rett syndrome
+* Have a pathogenic MECP2 genetic variant confirmed via genetic testing
+* Are past the clinical regression stage
+* Are within the eligible age range for the study (2 years or older)
+* Are able to tolerate the noninvasive EEG recording
+* Parent or caregiver is willing and able to provide parental permission and complete questionnaires and interviews
+
+Exclusion Criteria:
+
+* Experiences hearing impairment or hearing loss
+* Presence of medical conditions that would prevent safe participation in EEG recording
+* Inability to tolerate EEG procedures
+* Any condition that in the opinion of the investigator would interfere with study participation or data quality
+
+Controls
+
+Inclusion Criteria:
+
+* Neurologically healthy individuals ages 2 years or older
+* Are able to tolerate the noninvasive EEG recording
+
+Exclusion Criteria:
+
+* Experiences hearing impairment or hearing loss
+* Medical history of genetic, neurological, or psychiatric disorders
+* History of special education services
+* Inability to tolerate EEG procedures
+* Any condition that in the opinion of the investigator would interfere with study participation or data quality

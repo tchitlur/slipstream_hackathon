@@ -1,0 +1,27 @@
+Title: XEN1101 for Major Depressive Disorder
+Official title: A Proof of Concept Randomized Controlled Trial of XEN1101 for the Treatment of Major Depressive Disorder
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Major Depressive Disorder
+Interventions: XEN1101 (DRUG); Placebo (DRUG)
+Summary: This project is designed to examine the neuronal KCNQ2/3 potassium (K+) channel subtype as a novel treatment target for mood disorders through the administration of the KCNQ-selective channel opener XEN1101 (Xenon Pharmaceuticals).
+Eligibility: Inclusion Criteria
+
+1. Written informed consent (and assent when applicable) obtained from subject
+2. Ability for subject to comply with the requirements of the study as determined by the PI;
+3. Men and women, age 18-65 years;
+4. Participants must meet DSM-5 criteria for current depressive disorder (major depressive disorder \[MDD\]) in a major depressive episode (MDE) as determined by a study psychiatrist and confirmed using the Structured Clinical Interview for DSM-5 Research Version (SCID-5-RV);
+5. Clinically significant anhedonia as determined by a SHAPS score ≥ 20 at screening;
+6. Current illness severity is at least moderate, defined as a score of ≥4 on the CGI-S Scale;
+7. If female of childbearing potential, must agree to use of a medically accepted form of contraception, or else agree to abstinence until 6 months after the last dose of study drug.
+
+Exclusion Criteria
+
+1. A primary psychiatric diagnosis other than MDD as defined by DSM-5;
+2. Has a history of schizophrenia or other psychotic disorder, major depressive disorder with psychotic features, or bipolar I or II disorder.
+3. History of non-response to \>4 adequate antidepressant trials in the current episode as determined by the Antidepressant Treatment Response Questionnaire (ATRQ);
+4. History of non-response to electroconvulsive therapy in the current depressive episode;
+5. A current diagnosis of depression with peripartum onset;
+6. Diagnosis of a major neurocognitive disorder;
+7. Meets criteria for a substance use disorder within the past 6 months, with the exception of nicotine use disorder;
+8. Patient shows signs of retinal macular disease, or retinal pigment epithelium abnormality prior to randomization.
+9. Male patients, if heterosexually active with partner who is female of childbearing potential, pregnant, or breastfeeding, who are unwilling to agree to barrier contraception for the treatment period and for at least 6 months after the last dose of study drug. Female partners of male participants who are unwilling to use at least one form of highly effective contraception starting at least one cycle prior to male patient study drug initiation until 6 months after the last dose of study drug

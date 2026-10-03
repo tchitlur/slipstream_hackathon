@@ -1,0 +1,19 @@
+Title: A Prospective, Remote Observational Study in Pediatric Participants With Early-Onset SCN2A-Developmental and Epileptic Encephalopathy
+Official title: A Prospective, Remote Observational Study in Pediatric Participants With Early-Onset SCN2A-Developmental and Epileptic Encephalopathy
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: SCN2A-DEE; Epilepsy
+Interventions: none
+Summary: This prospective observational study is designed to assess the individualized baseline disease burden in pediatric participants aged 1 year to 16 years, with early-onset SCN2A-DEE by characterizing and quantifying changes in clinical features over a period of up to 12 months.
+Eligibility: Inclusion Criteria:
+
+1. The participant has a documented SCN2A variant through genetic testing obtained via a laboratory accredited per Clinical Laboratory Improvement Amendments (CLIA) or College of American Pathologists (CAP) or equivalent.
+2. The participant has onset of seizures prior to 1 month of age.
+3. The participant has a phenotype consistent with a developmental and epileptic encephalopathy (DEE).
+4. The participant has a minimum of 8 countable motor seizures (as defined in the note below) in the 4 weeks prior to Screening, as reported by the parent/guardian or in the opinion of the investigator, as documented within the medical notes. (Note: Motor seizures are defined as tonic, tonic-clonic, atonic/drop attacks, focal with secondary generalization, or focal with motor symptoms. Myoclonic seizures or absence seizures only will not be considered as motor seizures for this study.)
+
+Exclusion Criteria:
+
+1. The participant has any significant ongoing disease, disorder, laboratory abnormalities, alcohol or drug abuse or dependence, environmental factor, or any ongoing or history of any psychiatric, medical, or surgical condition that in the judgment of the investigator in consultation with the medical monitor and/or sponsor's designee, might jeopardize the participant's safety, impact the scientific objectives of the clinical study, or interfere with participation in the clinical study.
+2. The participant has a clinically significant genetic variant other than an SCN2A variant that may explain or contribute to the participant's epilepsy and/or developmental disorder.
+3. The participant has any other or additional etiology for epilepsy and/or DEE (eg, cortical dysplasia, encephalomalacia, etc), in the opinion of the investigator.
+4. The participant has received any experimental or investigational drug within 30 days or 5 half lives (whichever is longer) prior to Screening, including any prior use of gene therapy.

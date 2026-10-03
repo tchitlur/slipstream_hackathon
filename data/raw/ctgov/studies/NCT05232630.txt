@@ -1,0 +1,32 @@
+Title: Fenfluramine for the Treatment of Different Types of Developmental and Epileptic Encephalopathies: a Pilot Trial Exploring Epileptic and Non-epileptic Outcomes
+Official title: Fenfluramine for the Treatment of Different Types of Developmental and Epileptic Encephalopathies: a Pilot Trial Exploring Epileptic and Non-epileptic Outcomes
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Refractory Epilepsy; SYNGAP1 Encephalopathy; STXBP1 Encephalopathy With Epilepsy; Inv Dup(15) Encephalopathy; Multifocal or Bilateral Malformations of Cortical Development; Continuous Spike and Waves During Slow Sleep
+Interventions: Fenfluramine (DRUG)
+Summary: This study is a pilot non-controlled clinical trial with adjunctive fenfluramine for the treatment of five different types of developmental and epileptic encephalopathies (DEEs) focused on epileptic and "non-epileptic outcomes": SYNGAP1 and STXBP1 encephalopathies, inv-dup(15) encephalopathy, multifocal or bilateral malformations of cortical development, and continuous spikes and waves during sleep. The main goal is to assess changes in seizure frequency comparing before and after treatment with fenfluramine in five specific types of developmental and epileptic encephalopathies (DEEs). Secondary objectives of this study are the analysis of changes in seizure intensity and duration, and "non-epileptic outcomes" such as variations in cognitive activity, level of alertness, impulsivity/self-control, gait stability and other alterations that might be detected during the interview and physical examination.
+Eligibility: GENERAL INCLUSION CRITERIA:
+
+* Age between 2 and 35 years (both included).
+* Diagnosis of epilepsy associated with some degree of intellectual disability, starting before 11 years of age.
+* All patients will have a phenotype consistent with their genetic, electroclinical or neuroimaging diagnosis.
+
+SPECIFIC INCLUSION CRITERIA PER GROUP:
+
+---GROUP 1: Non-controlled epilepsy after failing at least 3 antiseizure medications, with a minimum of 4 countable seizures with motor semiology per month during the baseline period of 3 months.
+
+* Group 1A: Patients with genetic testing showing a pathogenic or likely pathogenic variant in main synaptopathy genes (SYNGAP1 and STXBP1).
+* Group 1B: Patients with genetic testing showing a pathogenic or likely pathogenic inverted duplication of chromosome 15 \[inv-dup (15)\].
+* Group 1C: Patients with neuroimaging showing multifocal or bilateral malformations of cortical development.
+
+  * GROUP 2:
+
+Electroclinical diagnosis of Continuous Spikes and Waves during Sleep (CSWS) syndrome, with baseline video-EEG monitoring showing epileptiform activity occupying at least 50% of slow sleep tracing, after failing at least 3 antiseizure medications.
+
+ADDITIONAL INCLUSION CRITERIA:
+
+In addition, all subjects must meet all of the following inclusion criteria to be enrolled into the study:
+
+* Subject is male or non-pregnant, non-lactating female. Female subjects of childbearing potential must not be pregnant or breast-feeding. Female subjects of childbearing potential must have a negative urine or serum pregnancy test at screening and during the study.
+* Receiving at least 1 concomitant antiseizure medications (ASMs) and up to 4 concomitant ASMs, inclusive. Ketogenic Diet (KD) and Vagus Nerve Stimulation (VNS) are permitted but do not count towards the total number of ASMs. Rescue medications for seizures are not counted towards the total number of ASMs.
+* All medications or interventions for epilepsy (including ketogenic diet and vagal nerve stimulation) must be stable for at least 4 weeks prior to screening and are expected to remain stable throughout the study.
+* Subject has been informed of the nature of the study and informed consent has

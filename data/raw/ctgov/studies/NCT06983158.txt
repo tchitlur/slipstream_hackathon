@@ -1,0 +1,37 @@
+Title: A Clinical Trial of CAP-002 Gene Therapy in Pediatric Patients With Syntaxin-Binding Protein 1 (STXBP1) Encephalopathy
+Official title: A Phase 1/2a, Open-Label, Multi-Center, Dose-Escalation Trial to Assess Safety, Tolerability, and Efficacy of a Single Dose of CAP-002 Gene Therapy Administered to Pediatric Patients With Syntaxin-Binding Protein 1 (STXBP1) Encephalopathy
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Developmental and Epileptic Encephalopathy
+Interventions: gene therapy (DRUG)
+Summary: The goal of this clinical trial is to learn about the safety of CAP-002 gene therapy in children with Syntaxin-Binding Protein 1 (STXBP1) Encephalopathy. It will also provide information about whether CAP-002 demonstrates efficacy in treating children with STXBP1 with and without seizures.
+
+Participants will have a single infusion of CAP-002, visit the clinic regularly for 2 years for checkups and tests and have seizures recorded in a diary by their caregiver.
+Eligibility: Inclusion Criteria:
+
+Male or female, ≥18 months to \<8 years of age;
+
+Has diagnosis of developmental encephalopathy due to an STXBP1 mutation with confirmation of a pathogenic or likely pathogenic STXBP1 gene mutation.
+
+Has a legally authorized representative (LAR) willing and able to complete the informed consent process, willing to comply with trial procedures, and able to travel for repeat visits.
+
+Is stable on any medication regimens (if being administered to control the signs and symptoms of underlying disease) for at least 6 weeks prior to trial entry and expected to be stable for at least 12 weeks post-CAP-002 administration.
+
+Exclusion Criteria:
+
+History of prior gene therapy;
+
+Treatment with antisense oligonucleotide therapy within 6 months;
+
+Presence of a confirmed mutation in a gene other than STXBP1 that is known to contribute to a neurodevelopmental disability or epilepsy;
+
+Has presence of a significant non-STXBP1-related central nervous impairment/behavioral disturbance that would confound the scientific rigor or interpretation of results of the trial;
+
+History of prematurity (defined as gestational age \<35 weeks), history of low birth weight (\<2.5 kg) and/or intra-uterine growth restriction, significant interventricular hemorrhage, structural brain deficit, or congenital heart disease;
+
+Known contraindication to immunosuppression or other protocol-defined medications, including but not limited to corticosteroids or PPIs;
+
+Clinically significant abnormalities in safety lab tests, vital signs;
+
+Other illnesses or medications that may affect the interpretation of the study results;
+
+Positive anti-capsid antibody test result.

@@ -1,0 +1,16 @@
+Title: Telehealth Support to Increase Physical Activity in Rett Syndrome
+Official title: Implementing Telehealth Support to Increase Physical Activity in Girls and Women With Rett Syndrome
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rett Syndrome
+Interventions: Telehealth-delivered participation strategies to increase physical activity (BEHAVIORAL)
+Summary: This study will recruit families with a daughter with Rett syndrome living in either Australia, Denmark or Israel, and thereafter deliver individually designed participation programs using telehealth strategies. We will evaluate the effectiveness of the programs on reducing sedentary behaviours, increasing physical activity and increasing quality of life.
+Eligibility: Inclusion Criteria:
+
+* Genetically confirmed Rett syndrome
+* Able to stand (with or without assistance)
+* Live in Australia, Denmark or Israel
+
+Exclusion Criteria:
+
+* Individuals who have had spinal fusion over the previous 12 months
+* Individuals who have had lower extremity orthopaedic surgery over the previous 6 months

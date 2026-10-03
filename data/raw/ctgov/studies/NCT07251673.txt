@@ -1,0 +1,32 @@
+Title: Longitudinal Study of Phenotypic and Developmental Severity in Patients With Dravet Syndrome With SCN1A Gene Mutation
+Official title: Longitudinal Study of Phenotypic and Developmental Severity in Patients With Dravet Syndrome With SCN1A Gene Mutation
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Dravet Syndrome
+Interventions: none
+Summary: Dravet syndrome with SCN1A gene mutation is a developmental and epileptic encephalopathy characterized by treatment-resistant epilepsy and global developmental delay.
+
+Despite the considerable attention recently Dravet syndrome (DS) in drug development, studies characterising the progression of the neurodevelopmental phenotype over time remain limited. In particular, many previous studies of natural history studies have been of short duration or have focused only on a subgroup of the paediatric population.
+
+This prospective natural history study is being conducted to define more precisely the neurodevelopmental trajectory of SCN1A-positive Dravet syndrome in patients aged aged 6 months to 21 years with SCN1A mutations. The study will examine these characteristics over a 4-year period using standardised assessments. The study will also explore potential metabolomic biomarkers and their relationship with clinical outcomes.
+Eligibility: Inclusion Criteria:
+
+* The patient or his/her legal representative must be able to give informed consent for participation in the study.
+* The participant or legal representative are able (in the opinion of the investigator) to comply with the research protocol.
+* Patient (male/female) between 6 months and 21 years of age inclusive at the time of consent.
+* The patient has a confirmed pathogenic or probably pathogenic variant of the SCN1A gene demonstrated by a genetic test.
+* The patient had normal development prior to the onset of the first seizure.
+* The patient had an onset of epileptic seizures between the ages of 3 and 15 months inclusive.
+* The patient is receiving at least one of the following anti-epileptic drugs prior to consent: brivaracetam, clobazam, cannabidiol, fenfluramine, levetiracetam, sodium valproate, stiripentol, topiramate
+
+Exclusion Criteria:
+
+* The patient has a copy number variation of the SCN1A gene affecting other genes, including a microdeletion of SCN1A.
+* The patient has a mutation in the SCN1A gene on both alleles.
+* The patient has a known or clinically suspected pathogenic mutation in a gene associated with epilepsy other than the SCN1A gene.
+* The patient has a concomitant genetic mutation or clinical comorbidity deemed likely to disrupt the typical phenotype of Dravet syndrome.
+* The patient has a known gain-of-function mutation, defined by functional studies, including p.Thr226Met.
+* The patient has a history of neurodevelopmental abnormality prior to the onset of seizures, based on the medical record.
+* The patient has been seizure free for a period of one year prior to informed consent.
+* The patient has, at any time, taken antiepileptic drugs with a worsening effect for 6 consecutive weeks or more, including: carbamazepine, eslicarbazepine, lacosamide, lamotrigine, oxcarbazepine, phenytoin (chronic oral administration), tiagabine and vigabatrin.
+* The patient has already received innovative therapies such as antisense ologonucleotides, gene therapy or cell therapy.
+* The patient has a structural abnormality on brain imaging (MRI or CT scan) which the principal investigator considers to be an epileptogenic lesion.

@@ -1,0 +1,19 @@
+Title: A Study to Investigate the Safety, Tolerability, and Pharmacokinetics of ABS-1230 Given Orally Compared With Placebo in Healthy Participants Aged 18 to 55 Years
+Official title: A First-in-Human, Phase 1a, Randomized, Double-Blinded, Placebo-Controlled, Single- and Multiple-Ascending Dose and Food Effect Study to Assess the Safety, Tolerability, and Pharmacokinetics of ABS-1230 Administered Orally to Healthy Adults
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: KCNT1-Related Epilepsy
+Interventions: ABS-1230 (DRUG); Placebo (DRUG); Omeprazole (DRUG); Voriconazole (DRUG)
+Summary: This first in human trial will evaluate the safety, tolerability, and pharmacokinetics of single ascending doses, multiple ascending doses, and fed and fasted doses of ABS-1230 given orally compared with placebo in adult healthy participants.
+Eligibility: Inclusion Criteria:
+
+* Age 18 to 55 years, inclusive
+* Body mass index greater than or equal to 18 to less than or equal to 32 kg/m2
+* Medically healthy with no clinically significant medical history, physical examination, vital sign, standard 12-lead ECG, chemistry, hematology, urinalysis, or coagulation results at Screening as deemed by the Investigator
+* Male and female subjects must use adequate birth control and agree not to donate sperm or eggs for the time periods specified in the protocol
+
+Exclusion Criteria:
+
+* Positive result for HIV, HBV, or HCV
+* History of malignancy other than treated basal cell carcinoma, squamous cell carcinoma, or carcinoma in situ of the cervix
+* History of alcoholism or recreational drug use within 2 years or a positive alcohol or tobacco test result at screening or first check-in visit
+* For female participants, must not be pregnant, breastfeeding, or seeking to become pregnant while in the study

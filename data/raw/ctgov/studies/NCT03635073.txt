@@ -1,0 +1,24 @@
+Title: A Study of Soticlestat in Adults and Children With Rare Epilepsies
+Official title: A Phase 2, Prospective, Interventional, Open-Label, Multi-Site, Extension Study to Assess the Long-Term Safety and Tolerability of Soticlestat (TAK-935) as Adjunctive Therapy in Subjects With Developmental Epileptic Encephalopathies Including Dravet Syndrome, Lennox Gastaut Syndrome, CDKL5 Deficiency Disorder, and Chromosome 15 Duplication Syndrome (ENDYMION 1)
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Epilepsy; Dravet Syndrome (DS); Lennox-Gastaut Syndrome (LGS)
+Interventions: Soticlestat (DRUG)
+Summary: The main aim is to assess the long-term safety and tolerability of soticlestat when used along with other anti-seizure treatment.
+
+Participants will receive soticlestat twice a day. Participants will visit the study clinic every 2-6 months throughout the study.
+
+Study treatments may continue as long as the participant is receiving benefit from it.
+Eligibility: Inclusion Criteria:
+
+1. Participants must have participated in a previous soticlestat study and meet one of the following conditions:
+
+   * Successfully completed a soticlestat clinical study.
+   * Received at least 10 weeks of treatment with the study drug in an antecedent placebo-controlled blinded soticlestat clinical study and the participant did not have a serious or severe AE that, in the investigator's or sponsor's opinion, was related to the study drug and would make it unsafe for the participant to continue receiving the study drug.
+2. In the opinion of the investigator, the participant has the potential to benefit from the administration of soticlestat
+
+Exclusion Criteria:
+
+1. Clinically significant disease, that, in the investigator's opinion, precludes study participation.
+2. Enrollment in any other clinical trial involving an investigational drug, device, or treatment in the past 90 days (with the exception of an antecedent study involving Soticlestat).
+3. Participant is currently pregnant or breastfeeding or is planning to become pregnant during the study or within 30 days of the last study drug administration.
+4. Suicide attempt within the last year, at significant risk of suicide (either in the opinion of the investigator or defined as 'yes' to suicidal ideation question 4 or 5 on the C-SSRS at Screening) or appearing suicidal per investigator judgment.

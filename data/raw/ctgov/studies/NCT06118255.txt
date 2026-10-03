@@ -1,0 +1,22 @@
+Title: A Study to Evaluate Safety, Tolerability, and Pharmacokinetics of Fenfluramine (Hydrochloride) in Infants 1 Year to Less Than 2 Years of Age With Dravet Syndrome
+Official title: Open-Label, Single-Arm, Phase 3 Study to Evaluate Safety, Tolerability, and Pharmacokinetics of Fenfluramine (Hydrochloride) in Infants 1 Year to Less Than 2 Years of Age With Dravet Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Dravet Syndrome
+Interventions: fenfluramine (DRUG)
+Summary: The primary purpose of this study is evaluate the safety and tolerability of fenfluramine hydrochloride (HCl) 0.2 to 0.8 mg/kg/day in infants 1 year to less than 2 years of age with Dravet syndrome.
+Eligibility: Inclusion Criteria:
+
+* Participant is ≥1 to \<2 years of age as of the day of the first administration of study drug
+* Participant has a documented diagnosis or likely diagnosis of Dravet syndrome according to the International League Against Epilepsy (ILAE) criteria and as agreed by the Epilepsy Study Consortium (ESC)
+* Participant must be currently receiving ≥1 concomitant anti seizure medication (ASM) at a stable dose for ≥4 weeks prior to the Screening Visit and is expected to remain stable throughout the study. Rescue medications for seizures are not counted towards the total number of ASMs
+* Participant must have drug resistant epilepsy as defined as a history of failure of adequate trials of 2 tolerated, appropriately chosen and used antiepileptic drug schedules (whether as monotherapies or in combination) to achieve sustained seizure freedom
+* Participants must have ≥1 countable motor seizures (CMS) during the Baseline Period. The CMS include distinct seizures of generalized tonic-clonic, bilateral clonic, focal motor, bilateral tonic, atonic (drop), bilateral tonic/atonic, or focal to bilateral tonic-clonic type. If the participant fails to have ≥1 qualifying seizures in 28 days, the Baseline Period may be extended by an additional 14 days with Sponsor approval. Participants with an extended Baseline Period must still have ≥1 CMS in the 28 days immediately prior to the day of the first administration of study drug
+* Body weight is ≥8 kg
+* Males and females
+
+Exclusion Criteria:
+
+* Participant has a known hypersensitivity to fenfluramine hydrochloride (HCl) or any of the excipients in the study drug
+* Participant has an exclusionary cardiovascular or cardiopulmonary abnormality based on echocardiogram (ECHO), electrocardiogram (ECG), or physical examination and is not approved for entry by the central cardiac reader
+* Participant has a diagnosis of pulmonary arterial hypertension
+* Participant has a clinically significant medical condition, including chronic obstructive pulmonary disease, interstitial lung disease, or portal hypertension, or has had clinically relevant symptoms or a clinically significant illness currently or in the 4 weeks prior to the S

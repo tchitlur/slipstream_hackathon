@@ -1,0 +1,21 @@
+Title: Cannabidiol to Reduce Anxiety Reactivity
+Official title: Endocannabinoid System Engagement to Reduce Anxiety Reactivity with Cannabidiol in Social Anxiety Disorder (R61 Project)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Social Anxiety; Social Anxiety Disorder
+Interventions: Cannabidiol (DRUG); Placebo (DRUG)
+Summary: This study seeks to understand how cannabidiol (CBD) - a non-intoxicating chemical compound obtained from the Cannabis sativa plant - affects biological and stress-related responses that are believed to underlie anxiety disorders. This study will evaluate the effects of different doses of CBD on blood plasma levels of anandamide (a molecule in the brain that has been shown to help regulate stress responses; primary biological signature) and anxiety reactivity to a standardized stress task (secondary target) in an acute (4-day) dosing study (i.e., when steady state CBD levels have been reached). Approximately 60 subjects with social anxiety disorder (SAD), ages 18-70, will participate in this study. They will be assigned by chance to receive one of two doses of CBD (150 mg BID or 450 mg BID administered in two divided doses daily) or placebo (which resembles the study drug but has no active ingredients) BID for 3 days and on the morning of day 4. Knowledge gained from this study will help determine the therapeutic potential of CBD for anxiety.
+Eligibility: Inclusion criteria: (1) Principal diagnosis of social anxiety disorder (SAD) according to the Mini-International Neuropsychiatric Interview for DSM-5 (MINI Version 7.0.2; Sheehan, 2016); (2) clinician-administered LSAS score ≥ 60 and score ≥ 2 on Question 6 (public speaking fear/anxiety sub-scale; Mennin et al., 2002); (3) ages 18-70; (4) able to provide informed, written consent; (5) English proficiency.
+
+Exclusion criteria are included to ensure that participation does not place subjects at undue risk, and to minimize confounding interpretation of our findings:
+
+1. Current or imminent risk of suicide assessed using the Columbia Suicide Severity Rating Scale (C-SSRS)
+2. Bipolar or psychotic disorders
+3. History of major neurological disorder or moderate to severe traumatic brain injury or severe or unstable medical conditions that might be compromised by participation in the study.
+4. Past 6-month substance use disorder (any severity, with the exception of mild alcohol use disorder)
+5. Prior history of cannabis use disorder, or allergy or intolerance to cannabinoids
+6. Current (within past 7 days) cannabinoid use (medicinal or recreational; assessed using patient report and a urine sample). Concurrent cannabinoid use is prohibited during the study.
+7. Positive urinalysis screen for psychoactive drug use (that is not physician prescribed)
+8. Abnormal and clinically relevant blood count, liver, renal or EKG findings as determined by physician
+9. Currently prescribed medications with known CBD-interactions (e.g., amiodarone, fluconazole, metronidazole, miconazole, sulfamethoxazole, clarithromycin, erythromycin, cyclosporine, verapamil, itraconazole, voriconazole, boceprevir, St. John's Wart, and carbamazepine)
+10. People who are pregnant, breastfeeding, or planning to become pregnant within the next 6 months. People who are able to get pregnant who do not meet those exclusions must agree to use an acceptable method of contraception from at least 21 days prior to the first dose of study drug and for 3 months after the last dose of study drug for study entry.
+11. Concurrent empirically supported psychosocial treatments for anxiety or mood disorders (e.g., cognitive 

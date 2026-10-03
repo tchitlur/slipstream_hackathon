@@ -1,0 +1,23 @@
+Title: A Clinical Trial of PRAX-562 in Subjects With Developmental and Epileptic Encephalopathies (DEE)
+Official title: A Phase 2,Double-Blind,Randomized Clinical Trial to Explore the Safety,Tolerability,Efficacy, and Pharmacokinetics of PRAX-562 in Pediatric Participants With Developmental and Epileptic Encephalopathies Followed by Open-Label Extension(OLE)
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: SCN2A Encephalopathy; SCN8A Encephalopathy
+Interventions: PRAX-562 (DRUG)
+Summary: A Clinical Trial of PRAX-562 in Subjects With Developmental and Epileptic Encephalopathies (DEE)
+Eligibility: Inclusion Criteria:
+
+* Has a documented variant in SCN2A with onset of seizures occurring in the first 3 months of life or has a diagnosis of SCN8A-DEE supported by both clinical and genetic findings.
+* Has a seizure frequency as follows:
+
+  * At least 8 countable motor seizures in the 4 weeks immediately prior to Screening as reported by the parent/legal guardian or in the opinion of the investigator as documented in medical notes.
+
+AND o At least 8 countable motor seizures during the 28 day Baseline Observation Period (during which seizure frequency is recorded in a daily seizure diary).
+
+• Additional inclusion criteria apply and will be assessed by the study team.
+
+Exclusion Criteria:
+
+* Has any clinically significant or known pathogenic or likely pathogenic genetic variant other than in SCN2A and SCN8A or a genetic variant that may explain or contribute to the participant's epilepsy and/or developmental disorder.
+* Has a documented, functionally characterized loss-of-function (LoF) missense variant or a presumed LoF variant (nonsense or frameshift variant) based on genetic testing and/or clinical evidence that prior exposure to a sodium channel blocker (SCB) medication worsened seizures.
+* Has 2 or more episodes of convulsive status epilepticus requiring hospitalization and intubation in the 6 months prior to Screening.
+* Additional exclusion criteria apply and will be assessed by the study team.

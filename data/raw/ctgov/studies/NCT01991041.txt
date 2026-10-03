@@ -1,0 +1,20 @@
+Title: European Registry of Anti-Epileptic Drug Use in Patients With Lennox-Gastaut Syndrome (LGS)
+Official title: European Registry of Anti-epileptic Drug Use in Patients With Lennox-Gastaut Syndrome (LGS).
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Lennox-Gastaut Syndrome
+Interventions: none
+Summary: This is a registry study, where sites will enter patients with LGS who require a modification in anti-epileptic therapy (either the addition of another anti-epileptic drug, or the change of one drug to another). This will include patients who are started on rufinamide. Patients will be reviewed according to local practice, but it is envisaged that review will occur at approximately one month, three months and six months, and then every six months. Upon entry to the registry baseline details concerning disease severity, diagnosis, prior therapy, and developmental assessment will be recorded. On each subsequent visit the patient (usually through their caregiver) will be asked about current medication, general seizure profile, any seizures deemed to be of medical significance, tolerability, AEs (including suicidal-related events), and healthcare resource utilisation.
+Eligibility: INCLUSION CRITERIA
+
+* Patients will be four years and older
+* Patients will have an established diagnosis of Lennox-Gastaut syndrome, and:
+* Documented history or current presence of multiple seizure types associated with LGS (including tonic or atonic seizures (drop attacks) and atypical absences)
+* Documented history or current presence of typical EEG abnormalities (e.g., bursts of slow spike and wave activity)
+* Presence of intellectual / learning disability (a variable degree is permitted)
+* Patients entered on the registry will be those requiring a modification in their current anti-epileptic medication. This includes but is not limited to patients who are commenced on rufinamide as adjuvant therapy
+
+EXCLUSION CRITERIA
+
+* Female patients who are pregnant, lactating, or whom are planning to become pregnant
+* Female patients, of child bearing potential, who are not willing to use appropriate contraception (This is at the discretion of the investigator)
+* Those starting rufinamide and for whom the investigator considers it necessary to administer in contradiction to the indications, and warnings within the current Summary of Product Characteristics (SPC).

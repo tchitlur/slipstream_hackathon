@@ -1,0 +1,19 @@
+Title: Outcomes Measures in Intellectual Disability
+Official title: Development and Validation of Quantitative Attention Evaluation Criteria in Patients With Intellectual Disability
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Attention Deficit in Intellectual Disability
+Interventions: Quantitative attention evaluation criteria in intellectual disability (DEVICE)
+Summary: Objective quantitative primary endpoints are lacking in Clinical trials in intellectual disability. We propose to develop quantitative interactive attention evaluation criteria in patients with intellectual disability by using games on touchscreen and or eye tracking.
+Eligibility: Inclusion Criteria:
+
+1. Patients of both sex, with intellectual disability
+2. Minor patients 6 years old or more (age corresponding to the end of regression period observed in Rett patients) or major protected patients
+3. Patients with more or less severe intellectual disability from various causes including Fragile X syndrome, Rett syndrome, Angelman syndrome and other etiologies of intellectual disabilities and intellectual disabilities without identified etiology
+4. Affiliation to a social security system own or affiliated (excluding AME)
+5. Presence of parents or legal representative
+6. Informed consent signed by parents or legal representative
+
+Exclusion Criteria:
+
+1. Behavioral disorders not compatible with interactive tool (major agitation, straight and self aggressiveness)
+2. Uncontrolled seizure disorder despite treatment

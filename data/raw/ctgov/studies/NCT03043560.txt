@@ -1,0 +1,28 @@
+Title: Study to Treat Major Depressive Disorder With a New Medication
+Official title: Developing Neuronal KCNQ Channel Modulators for Mood Disorders
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Depressive Disorder; Anhedonia
+Interventions: Ezogabine (DRUG); Placebos (DRUG)
+Summary: This project is designed to examine the neuronal KCNQ2/3 potassium (K+) channel subtype as a novel treatment target for mood disorders through the administration of the KCNQ-selective channel opener ezogabine (Potiga, GlaxoSmithKline; FDA-approved for the treatment of seizure disorders).
+Eligibility: Inclusion Criteria:
+
+* Written informed consent obtained from subject and ability for subject to comply with the requirements of the study;
+* Men and women, age 18-65;
+* Participants must meet DSM-V criteria for current depressive disorder (major depressive disorder \[MDD\], persistent depressive disorder, other specified depressive disorder) as determined by a study psychiatrist and confirmed using the Structured Clinical Interview for DSM-V (SCID);
+* Clinically significant anhedonia as determined by a SHAPS score ≥ 20 at screening;
+* Current illness severity is at least moderate, defined as a score of ≥4 on the Clinical Global Impression-Severity (CGI-S) Scale;
+* If female of childbearing potential, must agree to use of a medically accepted form of contraception, or else agree to abstinence.
+
+Exclusion Criteria:
+
+* A primary psychiatric diagnosis other than a depressive disorder as defined by DSM-V \[co-morbid anxiety disorders (including agoraphobia, generalized anxiety disorder, social anxiety disorder and panic disorder) and Posttraumatic Stress Disorder (PTSD) are allowed\] or major cognitive disorder;
+* Meets criteria for a substance or alcohol use disorder in the past 6 months;
+* Female participants who are pregnant, breastfeeding, or may become pregnant, or unwilling to practice birth control during participation in the study;
+* Positive urine toxicology screen for drugs of abuse at the time of screening;
+* Any unstable medical illnesses including hepatic, renal, gastroenterologic, respiratory, cardiovascular (including ischemic heart disease), endocrinologic, neurologic, immunologic, or hematologic disease;
+* Clinically significant abnormalities of laboratory tests, physical examination, or ECG;
+* Prolonged QT Interval at screening, operationalized as a QTc of \> 480 ms;
+* A history of retinal abnormalities (i.e., pigment changes, retinal dystrophy) or findings of retinal pathology on ophthalmological exam at baseline;
+* Presence of a condition or abnormality that in the opinion of the Investigator would compromise the safety of the patient or the quality of the data;
+* Use of any dis-allowed medication according to the study protocol;
+* Serious and im

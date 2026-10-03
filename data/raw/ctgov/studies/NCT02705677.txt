@@ -1,0 +1,13 @@
+Title: Biobanking of Rett Syndrome and Related Disorders
+Official title: Biobanking of Rett Syndrome and Related Disorders Protocol
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome; MECP2 Duplication; CDKL5; FOXG1 Disorders
+Interventions: none
+Summary: The overarching purpose of this study is to advance understanding of the natural history of Rett syndrome (RTT), MECP2-duplication disorder (MECP2 Dup), RTT-related disorders including CDKL5, FOXG1, and individuals with MECP2 mutations who do not have RTT. Although all these disorders are the result of specific genetic changes, there remains broad clinical variation that is not entirely accounted for by known biological factors. Additionally, clinical investigators currently do not have any biomarkers of disease status, clinical severity, or responsiveness to therapeutic intervention. To address these issues, biological materials (DNA, RNA, plasma, cell lines) will be collected from affected individuals and in some cases from unaffected family members, initial evaluation performed to identify additional biological factors contributing to disease severity, and these materials will be stored for future characterization.
+Eligibility: Inclusion Criteria:
+
+* Individuals of both genders and of all ages, with RTT, MECP2 Dup, and, RTT-related disorders including those with mutations or deletions in CDKL5 and FOXG1 genes, or those with RTT (atypical or typical) who are mutation negative. Additionally, unaffected family members of those people who meet the disease specific criteria stated will eligible.
+
+Exclusion Criteria:
+
+* Individuals who do not meet the above criteria will be excluded.

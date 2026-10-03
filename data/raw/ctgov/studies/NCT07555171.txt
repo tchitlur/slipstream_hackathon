@@ -1,0 +1,18 @@
+Title: EEG Dynamics in Lennox-Gastaut Syndrome Patients Undergoing Fenfluramine Treatment
+Official title: EEG Dynamics in Lennox-Gastaut Syndrome Patients Undergoing Fenfluramine Treatment
+Status: ENROLLING_BY_INVITATION. Type: OBSERVATIONAL. Phases: none.
+Conditions: Lennox Gastaut Syndrome (LGS)
+Interventions: fenfluramine HCl (DRUG)
+Summary: This study plans to learn if certain markers found during electroencephalogram (EEG) analysis could predict fenfluramine responsiveness to give clinicians greater insight into the effectiveness of fenfluramine in people with Lennox Gastaut Syndrome (LGS).
+Eligibility: Inclusion criteria:
+
+* Children and adults aged 2 to 35 years
+* Have a confirmed diagnosis of Lennox-Gastaut Syndrome (LGS), validated by the Epilepsy Study Consortium
+* Documented seizure onset at age 11 years or younger, accompanied by multiple seizure types, specifically including tonic seizures and atonic or tonicatonic seizures.
+* Participants must exhibit a stable seizure baseline for at least 4 weeks prior to enrollment, with documented frequency of two or more drop seizures per week, characterized as generalized tonic-clonic (GTC), secondary GTC (focal to bilateral tonic-clonic seizures), tonic, atonic, or combined tonic-atonic seizures.
+* Participants must exhibit abnormal cognitive development and a medical history consistent with electroencephalographic (EEG) findings demonstrating abnormal background activity characterized by a slow spike-andwave pattern at a frequency of less than 2.5 Hz.
+* Participants must have a clearly documented etiology of LGS falling into one of the following categories: structural, genetic, metabolic, infectious, immune or unknown.
+* Participants must have had a valid baseline EEG that reflects their clinical state during a stable seizure period and must have been conducted within 6 months prior to study enrollment.
+* Participants must be currently receiving fenfluramine as part of their clinical management regimen. Fenfluramine dosing must follow established LGS-specific dosing guidelines, initiated at 0.1 mg/kg administered orally twice daily, with weekly dose titration based on tolerability and clinical response until reaching the recommended maintenance dose of 0.35 mg/kg orally twice daily, not exceeding a total daily dose of 26 mg.
+* At the time of enrollment, participants must have been on a stable antiseizure medication (ASM) regimen for at least 30 days, defined as receiving between one and four concomitant ASMs without any recent medication changes, aside from the addition of fenfluramine. To ensure accurate baseline EEG assessments, participants must have a documented EEG recorded within 6 months (±2 months) prior to initiation of fenfluramine treatment.
+* Caregivers or legal guardians must provide informed consen

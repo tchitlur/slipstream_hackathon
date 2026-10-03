@@ -1,0 +1,21 @@
+Title: Fenfluramine in CDKL5 Deficiency Disorder (CDD)
+Official title: Fenfluramine in CKDL5 Deficiency Disorder (CDD)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: CDD
+Interventions: Fenfluramine Hydrochloride (DRUG)
+Summary: This study will be enrolling 10 patients, ages 2-18 years old, with a confirmed genetic/clinical diagnosis of CDKL5 Deficiency Disorder (CDD) in an open label trial of fenfluramine for seizure control. Patients will be titrated over 14 days to a dose of ZX008 0.8 mg/kg/day (maximum dose 30 mg/d).
+Eligibility: Inclusion Criteria:
+
+* Confirmed clinical/genetic diagnosis of CDKL5 Deficiency Disorder CDD
+* Ages 2-18 years old. Subject is male or non-pregnant, non-lactating female. Female subjects of childbearing potential must not be pregnant or breast-feeding. Female subjects of childbearing potential must have a negative urine pregnancy test. Subjects of childbearing or child-fathering potential must be willing to use medically acceptable forms of birth control, which includes abstinence, while being treated on this study and for 30 days after the last dose of study drug.
+* Subject has been informed of the nature of the study and informed consent has been obtained from the legally responsible parent/guardian.
+* Subject has provided assent in accordance with Investigational Review Board/Independent Ethics Committee (IRB/IEC) requirements, if capable.
+* Subject's caregiver is willing and able to be compliant with diary completion, visit schedule and study drug accountability.
+* Subjects must be receiving a therapeutically relevant and stable dose of anti-seizure medications, dietary therapies for epilepsy or vagus nerve stimulation settings for at least 4 weeks prior to screening and are expected to remain stable throughout the study.
+* ≥4 convulsive seizures (tonic-clonic, tonic, atonic, clonic, focal motor) per 4-week period; each convulsive seizure must last ≥3 seconds.
+
+Exclusion Criteria:
+
+* Subject has a known hypersensitivity to fenfluramine or any of the excipients in the study medication.
+* Subject has current or past history of cardiovascular or cerebrovascular disease, myocardial infarction or stroke.
+* Subject has current or past history of cardiovascular or cerebrovascular disease, such as cardiac valvulopathy, myocardial infarction or stroke, or clinically significant structural cardiac abnormality, including but not limited to mitral valve prolapse, atrial or ventricular septal defects, patent ductus arteriosis, and patent foramen ovale with reversal of shunt. (note: Patent foramen ovale or a bicuspid valve are is not considered exclusionary, but may be associated with the following diseases, which are exclusionary: coarctation of the aorta, Turner syndrom

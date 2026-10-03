@@ -1,0 +1,15 @@
+Title: The Effects of Cannabidiol (CBD) on Electrical and Autonomic Cardiac Function in Children With Severe Epilepsy
+Official title: The Effects of Cannabidiol (CBD) on Electrical and Autonomic Cardiac Function in Children
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Lennox-Gastaut Syndrome; Dravet Syndrome
+Interventions: 12-Lead ECG (PROCEDURE); Cannabidiol (DRUG)
+Summary: The investigators propose to study the effects of cannabidiol (CBD) on cardiac electrical function and the autonomic nervous system in children with Dravet syndrome (DS) and Lennox-Gastaut syndrome (LGS), when the CBD is administered as an artisanal oil obtained through state dispensaries or other sources. The intent is to begin to assess potential risks and benefits of this therapy in a vulnerable patient population by characterizing the effects of CBD on EKG findings, heart rate variability and the occurrence of seizures.
+Eligibility: Inclusion Criteria:
+
+* Diagnosed with Dravet syndrome or Lennox-Gastaut syndrome
+* Patients who are planning to obtain medical cannabidiol
+* Patients who are already taking medical cannabidiol and are planning to stop taking it
+
+Exclusion Criteria:
+
+* Patients without a diagnosis of Dravet syndrome or Lennox-Gastaut syndrome

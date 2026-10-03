@@ -1,0 +1,28 @@
+Title: Study of Trofinetide for the Treatment of Girls and Women With Rett Syndrome (LAVENDER™)
+Official title: A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Study of Trofinetide for the Treatment of Girls and Women With Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Rett Syndrome
+Interventions: Trofinetide (DRUG); Placebo (OTHER)
+Summary: To investigate the efficacy of treatment with oral trofinetide versus placebo in females with Rett syndrome
+Eligibility: Inclusion Criteria:
+
+1. Female subjects 5 to 20 years of age, inclusive, at Screening
+2. Body weight ≥12 kg at Screening
+3. Can swallow the study medication provided as a liquid solution or can take it by gastrostomy tube
+4. Has classic/typical Rett syndrome (RTT)
+5. Has a documented disease-causing mutation in the MECP2 gene
+6. Has a stable pattern of seizures, or has had no seizures, within 8 weeks of Screening
+7. Subjects of childbearing potential must abstain from sexual activity for the duration of the study and for at least 30 days thereafter or must agree to use acceptable methods of contraception. Subject must not be pregnant or breastfeeding.
+8. The subject's caregiver is English-speaking and has sufficient language skills to complete the caregiver assessments
+9. Subject and caregiver(s) must reside at a location to which study drug can be delivered and have been at their present residence for at least 3 months prior to Screening
+
+Exclusion Criteria:
+
+1. Has been treated with insulin within 12 weeks of Baseline
+2. Has current clinically significant cardiovascular, endocrine (such as hypo- or hyperthyroidism, Type 1 diabetes mellitus, or uncontrolled Type 2 diabetes mellitus), renal, hepatic, respiratory or gastrointestinal disease (such as celiac disease or inflammatory bowel disease) or has major surgery planned during the study
+3. Has a history of, or current, cerebrovascular disease or brain trauma
+4. Has significant, uncorrected visual or uncorrected hearing impairment
+5. Has a history of, or current, malignancy
+6. Has a known history or symptoms of long QT syndrome
+
+Additional inclusion/exclusion criteria apply. Patients will be evaluated at screening to ensure that all criteria for study participation are met. Patients may be excluded from the study based on these assessments (and specifically, if it is determined that their baseline health and condition do not meet all pre-specified entry criteria).

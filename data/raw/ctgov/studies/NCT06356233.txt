@@ -1,0 +1,13 @@
+Title: Phenotyping and Identification of Biological Markers in STXBP1 Encephalopathy
+Official title: Phenotyping and Identification of Biological Markers in STXBP1 Encephalopathy
+Status: NOT_YET_RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: STXBP1 Encephalopathy With Epilepsy
+Interventions: No intervention will be performed (OTHER)
+Summary: This is a prospective observational study to evaluate the phenotype of 10 patients under 10 years of age with developmental epileptic encephalopathy due to mutation of the STXBP1 gene. The study will consist of a clinical and neurodevelopmental evaluation, magnetic resonance imaging, prolonged electroencephalogram, cardiological study, and analysis of biomarkers in cerebrospinal fluid. These patients will be followed up for 3 years. The aim of the study is, knowing the baseline phenotype, to analyse the response to commonly used drugs and to anticipate the response to different drugs available on the market in this group of patients based on clinical and biomarker assessment (EEG, MRI and study of specific proteins and neurotransmitters in plasma, urine and CSF).
+Eligibility: Inclusion Criteria:
+
+* Patients under 10 years of age with confirmed mutation for STXBP1. In cases where the diagnostic technique for the mutation is not optimal, a trio exome will be performed to confirm the mutation.
+
+Exclusion Criteria:
+
+* Presence of functional disability that prevents the neuropsychological study from being carried out and absence of a reliable informant for the patient.

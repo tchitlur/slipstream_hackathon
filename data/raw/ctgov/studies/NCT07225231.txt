@@ -1,0 +1,30 @@
+Title: Clinical Utility of Reduced EEG Home Monitoring in Fenfluramine Titration for Dravet and LGS
+Official title: Byteflies Real-world Data Study: Assessing the Clinical Utility of Reduced EEG Montage Home Monitoring for Clinician-driven Fenfluramine Titration in Dravet Syndrome and Lennox-Gastaut Syndrome
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Dravet Syndrome (DS); Lennox Gastaut Syndrome (LGS)
+Interventions: Byteflies Remote patient monitoring solution (with reduced EEG) (DEVICE)
+Summary: The goal of this real world data study is to evaluate the clinical utility of remote patient monitoring solution (using Byteflies' EpiCare@Home with reduced EEG montage and other vital signs) with Dravet and LGS patients (ages 3 and up with the exclusion of adults above weight allowing variable titration) to identify an optimal Fenfluramine treatment.
+
+Patients will wear one or more small portable and medically certified measuring devices. Through these devices, electroencephalography (EEG) signals, as well as electro-cardiography (ECG), heart rate, respiration rate, and physical activity are measured, which allows the patient's physician to detect potential seizures, and thus gain more insights.
+
+Participants will be asked to wear the devices three times at home for remote monitoring periods lasting between 3 and 7 consecutive days. The duration of each monitoring period will be determined by the physician based on the type of epilepsy and the frequency of seizures.
+Eligibility: Inclusion Criteria:
+
+* Patients with a confirmed Dravet syndrome or Lennox-Gastaut syndrome diagnosis who are eligible for Fenfluramine.
+* Patients for which the neurologist decided to prescribe Fenfluramine as a relevant treatment approach and who have not been prescribed Fenfluramine before.
+* Patients or caregivers should be able and willing to maintain a seizure diary e.g. using a digital seizure diary.
+
+Exclusion Criteria: Patients who
+
+* Have been diagnosed with or are suspected to have life-threatening conditions that could result in immediate danger;
+* Need to undergo an MRI scan or cardiac defibrillation;
+* Have an active implanted device such as a pacemaker, defibrillator, or vagal nerve, or brain stimulator;
+* Are unable to provide written informed consent, either directly or via a legal guardian.
+* Have known allergy or skin-sensitivity to the materials used in the Byteflies Adhesives
+* Are between 0 and 3 years of age;
+* Are above weight allowing variable titration
+* The patient is on any medication that would be contra-indicated for use with Fenfluramine at the execution of the study eg. LP352 (bexicaserin), loracaserin, monoamine-oxidase inhibitors, SSRIs, SNRIs, tricyclic antidepressants or other serotonergic agonists or antagonists (antipsychotics).
+* Have a prescribed concomitant use of Stiripentol
+* Have any other condition or finding that would compromise the safety of the participant or the quality of the data, or otherwise interfere with achieving the objectives.
+* A history of cardiovascular or cerebrovascular disease, aortic or mitral valve regurgitation diagnosed by echography
+* Patients/caregivers who have only reported/detected non-motor seizures

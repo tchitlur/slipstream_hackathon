@@ -1,0 +1,26 @@
+Title: A Phase 3 Study of Fenfluramine Hydrochloride in Rett Syndrome
+Official title: A Phase 3 Randomized, Double-Blind, Placebo Controlled, Parallel Group, Multicenter Study With Open-Label Extension to Evaluate the Efficacy And Safety of Fenfluramine Hydrochloride in Study Participants With Rett Syndrome
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Rett Syndrome
+Interventions: fenfluramine hydrochloride (DRUG); Placebo (OTHER)
+Summary: The purpose of this study is to investigate the efficacy of fenfluramine hydrochloride (HCl) versus placebo in study participants with Rett syndrome (RTT).
+Eligibility: Inclusion Criteria:
+
+* Participant has typical or classic Rett Syndrome (RTT) according to the RettSearch Consortium 2010 revised criteria
+* Participant has a documented disease-causing mutation or deletion in the methyl-CpG-binding protein 2 (MECP2) gene
+* Participant meets criteria for postregression for at least 6 months prior to Screening, defined as:
+* No loss or degradation of ambulation (including gait, coordination, or independence of walking/standing);
+* No loss or degradation of hand function; no loss or degradation of speech (including babbling, words, or previously developed communicative vocalizations);
+* No loss or degradation of nonverbal communicative or social skills (including eye gaze, using body to indicate communicative intent, or social attentiveness)
+* Participant has an Rett Syndrome Clinical Severity Scale (RTT-CSS) rating of 10 to 36 (inclusive)
+* Participant has a Clinical Global Impression-Severity (CGIS) score of ≥4
+* Participant has a legal representative capable of providing signed informed consent on behalf of the participant as described in the protocol, which includes compliance with the requirements and restrictions listed in the informed consent form (ICF) and in the protocol.
+* Participant is aged 5 to 35 years of age (inclusive) at the time of first administration of investigational intervention.
+* Male or female.
+* Participant has a consistent caregiver who is ≥18 years of age at the Screening Visit. The caregiver needs to be able to complete the caregiver assessments defined for the entire study. Every attempt should be made to have the same evaluator complete the assessments for the duration of the study.
+
+Exclusion Criteria:
+
+* Participant has a history of lymphoma, leukemia, or any malignancy within the past 5 years except for basal cell or squamous epithelial carcinomas of the skin that have been resected with no evidence of metastatic disease for 3 years.
+* Participant has clinically significant abnormality in vital signs according to the Investigator
+* Participant has an exclusionary cardiovascular or cardiopulmonary abnormality based on echocardiogram (ECHO), electrocardiogram (ECG), or physical examination, and is 

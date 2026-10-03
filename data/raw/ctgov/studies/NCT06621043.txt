@@ -1,0 +1,30 @@
+Title: Assessing the Safety and Efficacy of Full-Spectrum Medicinal Cannabis Plant Extract 0.08% THC (NTI164) in the Treatment of Rett Syndrome (RTT)
+Official title: Assessing the Safety and Efficacy of Full-Spectrum Medicinal Cannabis Plant Extract 0.08% THC (NTI164) in the Treatment of Rett Syndrome (RTT)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Rett Syndrome
+Interventions: NTI164 (DRUG)
+Summary: This 18-week open-label study examines the effectiveness of Full-Spectrum Medicinal Cannabis Plant Extract containing 0.08% THC (NTI164) in treating Rett syndrome (RTT) in children and young people. The study aims to determine the impact of NTI164 on RTT symptoms over a 16-week treatment period.
+
+Participants will start with a daily dose of 5 mg/kg of NTI164, which will be gradually increased over four weeks until they reach either the maximum tolerated dose or 20 mg/kg per day. They will then maintain this dose for eight weeks. Following this treatment phase, the dosage will be reduced by 5 mg/kg each week for four weeks until treatment concludes.
+
+The effectiveness of the treatment will be assessed using tailored questionnaires that measure changes in the patients\&#39; conditions. Additionally, full blood examinations will be conducted at multiple points throughout the study to monitor the effects of the treatment.
+Eligibility: Inclusion Criteria:
+
+* Girls and women, aged 5-20 years
+* Weight greater than or equal to 12kg
+* Classical/typical RTT
+* Documented disease-causing mutation in MECP2 gene
+* At least 6 months post regression at screening (ie. no loss or degradation in ambulation, hand function, speech, nonverbal communicative or social skills within 6 months of screening) Rett Syndrome Clinical Severity Scale rating of 10-36
+* CGI score of 4 or higher.
+* Stable pattern of seizures, or has had no seizures, within 8 weeks of screening.
+
+Exclusion Criteria:
+
+* Current clinically significant cardiovascular, endocrine (such as hypo- or hyperthyroidism, type 1 diabetes, or uncontrolled type 2 diabetes), renal, hepatic, respiratory, or gastrointestinal disease (such as celiac disease or inflammatory bowel disease), or major surgery planned during the study.
+* Known history or symptoms of long QT syndrome.
+* QTcF interval \&gt;450 ms, history of risk factor for torsades de pointes or clinically significant QT prolongation deemed to increase risk.
+* Treatment with insulin, IGF-1, or growth hormone within 12 weeks of baseline.
+* Currently receiving treatment with DAYBUETM (trofinetide).
+* Currently using other unregistered drugs for the treatment of Rett syndrome such as Anavex.
+* Currently using or has used recreational or medicinal cannabis, cannabinoid-based medications (including Sativex®, or Epidiolex®) within the 12 weeks prior to screening and is unwilling to abstain for the duration of the trial.
+* Participant has any known or suspected hypersensitivity to cannabinoids or any of the excipients.

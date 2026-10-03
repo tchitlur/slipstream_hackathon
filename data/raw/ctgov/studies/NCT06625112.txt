@@ -1,0 +1,15 @@
+Title: A Multicentric European Study to Promote Clinical Trial Readiness for STXBP1-related Disorders
+Official title: A Multicentric European Study to Promote Clinical Trial Readiness for STXBP1-related Disorders
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: STXBP1 Encephalopathy With Epilepsy
+Interventions: none
+Summary: STXBP1-related disorders (STXBP1-RD) are rare genetic neurodevelopmental disorders, caused by pathogenic variants in the gene STXBP1. The core clinical features of the disorder are developmental delay often leading to (severe) intellectual disability and seizures in most patients, although the phenotypic spectrum is variable. Behavioral problems and movement disorders are frequent comorbidities. STXBP1-RD are severe disorders with significant impact on the quality of life of the patients and their caregivers. At the moment, there is no cure for STXBP1-RD and treatment is largely limited to symptom control. Recent advances in the field of precision medicine and gene therapy have led to the identification of potential novel disease modifying therapies for STXBP1-RD that hold promise to reach clinical trials in the coming years. However, accurate and successful evaluation of such novel precision therapies in STXBP1-RD patients is challenging, given the rarity of the condition and the variable clinical spectrum. Furthermore, relevant clinical endpoints, taking into account the patients' and caregivers' perspective have not been identified to date.
+
+In this European collaborative study,
+Eligibility: Inclusion Criteria:
+
+* participant has a (likely) pathogenic, disease-causing STXBP1 variant, according to the American College of Medical Genetics and Genomics (ACMG) criteria; or participant has a larger structural variant including the STXBP1 gene where STXBP1 is thought to be (one of) the culprit gene(s) causing the phenotype •written informed consent from study participant and/or legal guardian.
+
+Exclusion Criteria:
+
+* Exclusion criteria for the study are: none if the inclusion criteria are met.

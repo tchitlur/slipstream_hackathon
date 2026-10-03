@@ -1,0 +1,20 @@
+Title: A Long-term Safety Study of Cannabidiol Oral Solution (GWP42003-P, CBD-OS) in Patients With Rett Syndrome
+Official title: An Open-label Extension Trial to Investigate the Long-term Safety of Cannabidiol Oral Solution (GWP42003-P, CBD-OS) in Patients With Rett Syndrome
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Rett Syndrome; RTT
+Interventions: GWP42003-P (DRUG)
+Summary: This study will be conducted to evaluate the long-term safety of cannabidiol oral solution (GWP42003-P, CBD-OS) in participants with Rett syndrome.
+Eligibility: Inclusion Criteria:
+
+* Participant has completed all scheduled visits of the treatment phase of the randomized controlled trial (RCT), GWND18064 (NCT03848832), and has transitioned to open-label extension (OLE) by the point of RCT follow-up
+* Participant (if possessing adequate understanding, in the investigator's opinion) and/or the participant(s)/legal representative is willing and able to give informed consent/assent for participation in the trial.
+* Participant and the participant's caregiver are willing and able (in the investigator's opinion) to comply with all trial requirements (including the completion of all caregiver assessments by the same caregiver throughout the trial).
+* Ability to swallow the investigational medicinal product (IMP) provided as a liquid solution, or the ability for the IMP to be delivered via gastrostomy (G) or nasogastric (NG) feeding tube (only G- or NG-tubes made from polyurethane or silicon are allowed).
+* Participant and/or parent(s)/legal representative is willing to allow the responsible authorities to be notified of participation in the trial, if mandated by local law.
+* Participant and/or parent(s)/legal representative is willing to allow the participant's primary care practitioner (if the participant has one) and consultant (if the participant has one) to be notified of participation in the trial, if the primary care practitioner/consultant is different from the investigator.
+
+Exclusion Criteria:
+
+* Participant meets the withdrawal criteria (including clinically significant abnormal laboratory values), in the investigator's opinion.
+* Participant met during the RCT the criteria for permanent IMP discontinuation (unless in the case of an adverse event \[AE\], if the AE was not considered related with the IMP; participants that met alanine aminotransferase (ALT)/aspartate aminotransferase (AST) elevations discontinuation criteria must be excluded).
+* Females of childbearing potential, unless willing to ensure that they or their partner use a highly effective method of birth control (e.g., combined \[estrogen and progestogen containing\] hormonal contraception associated with inhibition of ovulation \[oral, intravaginal, or

@@ -1,0 +1,24 @@
+Title: Trial to Assess Vagus Nerve Stimulation Therapy in Children With Lennox-Gastaut Syndrome
+Official title: The Clinical Research on PINS Vagus Nerve Stimulator for Treatment of Lennox-Gastaut in Children
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: EARLY_PHASE1.
+Conditions: Lennox-Gastaut Syndrome
+Interventions: PINS Vagus Nerve Stimulator (DEVICE)
+Summary: The purpose of this study is to evaluate the clinical effectiveness of PINS vagus nerve stimulatior in children with Lennox-Gastaut Syndrome.
+Eligibility: Inclusion Criteria:
+
+1. Age 3-14 year
+2. Lennox - Gastaut syndrome diagnostic standard
+3. Regular drug treatment is invalid
+4. Antiepileptic drug stability in recent 3 months
+5. Good health except epilepsy
+6. Patients or his(her) familyscould understand this method and sign the informed consent
+7. Patients with good compliance and could complete postoperative follow-up.
+
+Exclusion Criteria:
+
+1. Results of MRI remind epilepsy caused by intracranial space-occupying lesions
+2. Had epileptic foci excision surgery or corpus callosum
+3. The vagus nerve lesion and damage
+4. Tumor, cardiopulmonary anomaly, progressive neurological diseases, asthma， mental disease，peptic ulcer，diabetes Type 1，bad health etc, and other surgical contraindication
+5. Participated in other clinical drug test subjects within three months
+6. The researchers think that is not suitable for participants'

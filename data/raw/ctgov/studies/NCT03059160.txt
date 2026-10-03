@@ -1,0 +1,20 @@
+Title: Open Label Trial of Triheptanoin (UX007) in Treatment of Rett Syndrome.
+Official title: Open Label Trial of Triheptanoin (UX007) in Treatment of Rett Syndrome.
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Rett Syndrome
+Interventions: Tridecanoic Acid (DRUG)
+Summary: This is a single-center, exploratory, open-label study in 10 girls diagnosed with Rett Syndrome. The study will consist of the following 4 parts: Screening/Baseline run-in, Titration/Dose-Setting, Treatment, and Washout/Follow-up.
+Eligibility: Inclusion Criteria:
+
+* Female patients aged 5 to18 years (inclusive).
+* A classical diagnosis of RTT, defined according to the internationally agreed 2010 Rett Search criteria, and with MECP2 pathogenic mutation.
+* Patients with one or both of the following:
+
+  * At least 2 seizures per month as per history during the four-week baseline period according to parent diary or per 3 hours video EEG recording
+  * Walking abilities, independent or with support
+* Patients with breathing abnormalities as recorded by baseline NOX recording.
+
+Exclusion Criteria:
+
+* Patients with significant metabolic, liver, cardiac, or respiratory morbidity not related to RTT
+* Patients with significant liver, cardiac or respiratory morbidity related to RTT

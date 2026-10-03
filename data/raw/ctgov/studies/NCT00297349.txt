@@ -1,0 +1,19 @@
+Title: A Study of the Safety of Topiramate Given in Combination With Other Medications in Adults and Children With Seizures
+Official title: An Open-label Observation Study of Topiramate Administration as Adjuvant Therapy for Focal Epilepsy, Lennox-Gastaut Syndrome Epileptic Seizures and Generalized Tonoclonic Seizures in Adults and Children Aged 2 Years and Older
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Seizures; Epilepsy
+Interventions: Topiramate (DRUG)
+Summary: The purpose of this observational study is to evaluate the safety of topiramate when used in combination with other medications for seizures in adults and children.
+Eligibility: Inclusion Criteria:
+
+* Non-premenopausal female patients using a medically acceptable contraceptive method as discussed with their doctor
+* History of the type of seizure during the period prior to inclusion in the study and sufficient medical records to document this. Prior treatment until inclusion in the study with one or more antiepileptic drug treatment judged non-satisfactory by the investigator
+
+Exclusion Criteria:
+
+* Patients not suffering from epilepsy, whose seizures are due to other causes including disease, exposure to harmful substances, active infection or tumor
+* Patients with a history of generalized status epilepticus (prolonged seizures) within the last three months
+* Patients with progressive brain tumor or other progressive or degenerative disorders
+* Patients with a history (within the previous six months) of mental or emotional disorders requiring shock treatment or major sedation, monoamine oxidase (MAO) inhibitors or medications which affect the central nervous system
+* Patients with any medical or social condition that may affect their ability to take part in study or the safety of the study
+* Patients who cannot take the drug or fill in the diary, either alone or with help. If help is needed, it should be permanently available throughout the study

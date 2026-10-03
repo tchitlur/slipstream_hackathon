@@ -1,0 +1,21 @@
+Title: Clinical Phenotype and Omics Study of KCNQ2-related Epilepsy
+Official title: Clinical Phenotype and Omics Study of KCNQ2-related Epilepsy
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: KCNQ2-related Epilepsy
+Interventions: Electrophysiological detection of KCNQ2 mutation (OTHER); Multi-modal brain image and EEG (OTHER); Omics testing (OTHER)
+Summary: The aims of study on KCNQ2-related epilepsy: (1) establish phenotype database and sample database of KCNQ2-related epilepsy; (2) to establish genotype-phenotype association of KCNQ2-related epilepsy; (3) to study the brain network of KCNQ2-related epilepsy based on multi-modal brain image and EEG data; (4) to find prognostic biomarkers of KCNQ2-related epilepsy based on omics study.
+Eligibility: Inclusion Criteria:
+
+* KCNQ2 mutation was confirmed by WES, Panel and other gene tests;
+* Clinically diagnosed as epilepsy;
+* KCNQ2 mutation was identified as pathogenic or possibly pathogenic according to ACMG pathogenicity rating standard;
+* Age and gender are not limited;
+* No abnormal birth history;
+* Informed consent and willingness to follow up
+
+Exclusion Criteria:
+
+* Patients with KCNQ2 mutation without epilepsy;
+* Other possible pathogenic gene mutations except KCNQ2;
+* Large cross-gene deletions or duplications including KCNQ2;
+* Unable to participate in the study follow-up

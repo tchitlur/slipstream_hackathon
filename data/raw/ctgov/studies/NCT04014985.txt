@@ -1,0 +1,19 @@
+Title: Patients With RETT Syndrome
+Official title: Study of Biological Parameters in 100 Girls With RETT Syndrome
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rett Syndrome
+Interventions: An extensive biological assessment (OTHER)
+Summary: It was proposed to the French Association of Rett Syndrome (AFSR) to perform an extensive biological assessment in a series of 100 girls with Rett's syndrome and carriers of a mutation in the MECP2 gene in order to confirm or confirm to reverse the abnormalities identified previously and possibly, to highlight new biomarkers of the pathology. The analysis will focus on classical hematological criteria, iron markers, endocrine assays, lipid quantification and markers of inflammation. At the end of the project, each family will receive the complete biological assessment carried out on their daughter which will represent a direct benefit of the implication in this clinical research project.
+Eligibility: Inclusion Criteria:
+
+* People with Rett syndrome related to MECP2 gene mutation
+* Aged under 18 years old.
+* Regularly followed as part of their illness by Prof. Bahi-Buisson in Necker or Pr Milh in Marseille.
+* Whose state of health justifies a blood test (dosage of one or more anti-epileptics, recommended annual phosphocalcic balance, pre-therapeutic assessment before introduction of a new molecule ...)
+* Whose at least one parent (or legal representative) has signed the consent
+* Patient fasting for 6 hours at the time of sampling.
+
+Exclusion Criteria:
+
+* Contraindication to a balance sheet
+* Absence of consent of the legal representatives

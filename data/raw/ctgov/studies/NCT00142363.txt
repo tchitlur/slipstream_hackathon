@@ -1,0 +1,23 @@
+Title: Cohorts and Collections: Clinical and Genetic Study of Parkinson's Disease and Epilepsies
+Official title: The DNA and Cell Bank of IFR of Neurosciences: Clinical and Genetic Study of Parkinson's Disease and Epilepsies
+Status: TERMINATED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Parkinson's Disease; Epilepsy
+Interventions: none
+Summary: The DNA and Cell Bank of Instituts Federatifs de Recherche (IFR) of Neurosciences has been running for the last 15 years at the Institut National de la Santé Et de la Recherche Médicale (INSERM) Unit 679 (former unit 289). Since its creation, this structure has been the support of research projects in genetics for neurological and psychiatric disorders. The cohorts established have led to discoveries in monogenic disorders, such as cerebellar ataxias, spastic paraplegias, frontotemporal dementias, epilepsies, Parkinson's and Alzheimer's disease, Charcot-Marie-Tooth disease and related entities. The research projects based on the study of the genetic bases in Parkinson's disease and epilepsies are especially developed for this grant.
+
+Concerning Parkinson's disease, the project is based on the extension of the existing cohort throughout the French Parkinson's Disease Study Group network. Concerning epilepsies, this project is the occasion to build this network with the constitution of a new cohort.
+
+The specific aims of the scientific projects are the following for Parkinson's disease:
+
+* to evaluate the frequency, the nature and the phenotype associated with parkin mutations in fam
+Eligibility: Inclusion Criteria:
+
+* Patients presenting with Parkinson's disease, with a family history or not,
+* Minors presenting clinical signs of the disease,
+* Controls (without signs of the disease), matched by sex and age with the patients,
+* Relatives for the familial cases,
+* Patients presenting with an epilepsy episode (myoclonic epilepsy of the newborn, with febrile seizures, of the frontal lobe)
+
+Exclusion Criteria:
+
+* Lack of signed informed consent

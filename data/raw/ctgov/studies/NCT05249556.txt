@@ -1,0 +1,24 @@
+Title: Double-blind, Randomized, Placebo-controlled Trial of Ganaxolone in CDKL5 Deficiency Patients 6 Months to Less Than 2 Years Old
+Official title: Double-blind, Randomized, Placebo-controlled Trial of Adjunctive Ganaxolone in the Treatment of Seizures Associated With Genetically Confirmed Cyclin-dependent Kinase-like 5 (CDKL5) Deficiency Disorder (CDD) in Pediatric Patients From 6 Months to Less Than 2 Years of Age.
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: CDKL5 Deficiency Disorder
+Interventions: Ganaxolone (DRUG); Placebo (DRUG)
+Summary: This study will assess the efficacy, safety, and tolerability of ganaxolone (GNX) compared with placebo (PBO) as adjunctive therapy to the participant's standard anti-epileptic medication for the treatment of seizures in pediatric patients from 6 months to less than 2 years old with genetically confirmed CDD during a 12-week, DB phase. Pharmacokinetic (PK) assessments and population PK analyses will also be performed during this time. The DB phase will be followed by an optional long-term OL phase at which time all participants will receive GNX as an adjunct to their standard anti-seizure medication. Efficacy, safety and tolerability, and PK assessments will continue to be performed.
+Eligibility: Inclusion Criteria:
+
+1. A diagnosis of CDD, including molecular confirmation of a pathogenic or likely pathogenic CDKL5 variant and refractory seizures (see Inclusion criterion 5).
+
+   1. The principal investigator (PI) must review the results of the genetic analysis and confirm that gene mutation is likely to be the cause of the epilepsy syndrome.
+   2. If the participant has a de novo variant of unknown significance (VUS) in the kinase domain of the CDKL5 gene, parental testing is negative and meets all other inclusion criteria, then the participant can be included.
+   3. Genetic mutations will be confirmed by the sponsor's chosen central laboratory. In France, genetic mutations may be confirmed by an approved French organization, in compliance with French legislation prior to Screening/Visit 1.
+2. Male or female participants aged 6 months to less than 2 years.
+3. Parent(s) or LAR willing to give written informed consent, after being properly informed of the nature and risks of the study and prior to engaging in any study-related procedures.
+4. Failure to control seizures despite appropriate trial of 1 or more anti-seizure medications at therapeutic doses.
+5. Have a history of at least 8 countable seizures during the 28 days prior to screening. Countable seizures will be defined by the following:
+
+   1. Seizures with or without impairment of consciousness with a clear motor component, including generalized tonic-clonic, focal to bilateral tonic-clonic, atonic, bilateral clonic, bilateral tonic, focal motor seizures with or without impaired awareness, or infantile spasms. Clusters of infantile spasms/tonic seizures will be counted as a single seizure.
+   2. Excludes myoclonic, absence or focal aware seizures without a clear motor component.
+6. Participants should be on a stable regimen of anti-seizure medications for ≥ 2 weeks prior to the screening visit, without a foreseeable change in dosing for the duration of the DB phase.
+
+   1. Concurrent use of adrenocorticotropic hormone (ACTH), prednisone or other glucocorticoids or vigabatrin are permitted.
+   2. Vagus nerve stimulator (VNS) settings, ketogenic diet, or a modified Atkins diet should be unchanged for 

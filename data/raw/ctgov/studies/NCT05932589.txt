@@ -1,0 +1,32 @@
+Title: Neurophysiologic Biomarkers in Rett Syndrome
+Official title: Characterization of Translatable Neurophysiological Biomarkers to Enhance Therapeutic Development in Rett Syndrome
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome; RTT; Rett Syndrome, Atypical
+Interventions: EEG and Auditory and Visual Evoked Potentials (AEP and VEP) (OTHER); Clinical assessment (OTHER)
+Summary: The goal of this observational study is to identify candidate biomarkers in individuals with Rett Syndrome (RTT). The main questions it aims to answer are:
+
+* Do these biomarkers change during clinical changes in individuals with RTT?
+* Are biomarkers stable over time in clinically stable individuals?
+* Do these biomarkers correlate with severity of RTT?
+
+Participants will be asked to undergo an electroencephalogram (EEG) with measurements of Evoked Potentials (EP) to measure electrical activity in the brain.
+
+Researchers will compare findings in individuals with RTT to those in typically developing individuals to see if there are differences between the two groups.
+Eligibility: Inclusion Criteria:
+
+1. Rett Group: Females ages 3-18 (inclusive) with a clinical diagnosis of RTT with a likely pathogenic or known pathogenic variant in MECP2.
+2. Likely Rett Group: Females from 1 year to \< 5 years of age with MECP2 variant if regression has not yet occurred or child is within 6 months of last skill loss.
+3. Typically developing (TD) Group: Females age matched to RTT population (1-18) with no developmental or cognitive concerns as assessed using the Child/Adult Behavioral Checklist, Survey of Well-Being of Young Children (\<5yo), or the Wide Range Achievement Test-4 (\>5 yo).
+
+Exclusion Criteria:
+
+Rett and Likely Rett Groups:
+
+1. Presence of a duplication in MECP2 or any other identified pathogenic mutation in another gene.
+2. Active medical conditions not typically found in RTT.
+
+Typically Developing Group:
+
+1. Score below norms on the performance tests
+2. Have a known neurological disorder (excluding migraine)
+3. Being on neuroactive medications.

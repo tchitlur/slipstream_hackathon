@@ -1,0 +1,18 @@
+Title: SLC6A1-NDD Prospective Longitudinal Natural History Study
+Official title: SLC6A1-NDD Prospective Longitudinal Natural History Study
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: SLC6A1 Neurodevelopmental Disorder (NDD); Developmental and Epileptic Encephalopathies (DEE)
+Interventions: none
+Summary: The overall objective of this prospective longitudinal natural history study is to collect clinical data to characterize and evaluate the natural course of SLC6A1-NDD and assess the feasibility of certain assessments for the purpose of conducting future clinical studies in patients with this disease.
+Eligibility: Inclusion Criteria:
+
+* Patient with a diagnosis of SLC6A1-NDD characterized by epilepsy, global developmental delay, autism spectrum disorder, or intellectual disability, with a documented history of an SLC6A1 mutation, defined as pathogenic or likely pathogenic by the Investigator.
+* Patients should not be older than 17 years at time of assent/consent.
+* Patients under the age of 18 years with legal guardians providing informed consent. Assent will be obtained from any patients judged to have sufficient capacity to provide assent at the discretion of the Investigator.
+* Patient and patient's caregiver are willing and able to comply with study requirements (including diary completion and visit schedule).
+
+Exclusion Criteria:
+
+* Patients and their caregivers are unable to complete follow-up visits.
+* Patients with a history of an alternate diagnosis for disease, including a genetic cause, which is known to contribute to epilepsy or NDD.
+* Patient is currently receiving an investigational product(s) other than 4-phenylbutyrate or has received an investigational product within 30 days or within \<5 times the half-life of the investigational product, whichever is longer, prior to the Enrollment Visit.

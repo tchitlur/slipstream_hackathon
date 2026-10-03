@@ -1,0 +1,21 @@
+Title: XEN496 (Ezogabine) in Children With KCNQ2 Developmental and Epileptic Encephalopathy
+Official title: A Phase 3 Study of Adjunctive XEN496 in Pediatric Subjects With KCNQ2 Developmental and Epileptic Encephalopathy
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Epilepsy; Epilepsy in Children; Epilepsy; Seizure; Disease; Brain Diseases; Central Nervous System Diseases; Nervous System Diseases; Epileptic Syndromes
+Interventions: XEN496 (DRUG); Placebo (DRUG)
+Summary: To investigate the potential antiseizure effects of adjunctive XEN496 (ezogabine) compared with placebo in children with KCNQ2 Developmental and Epileptic Encephalopathy (KCNQ2-DEE).
+Eligibility: Inclusion Criteria:
+
+* Male or female subjects aged from 1 month to less than 6 years, with a body weight of ≥3.0 kg at screening.
+* Documented evidence of a genetic test result from an appropriately accredited laboratory, consistent with a diagnosis of KCNQ2-DEE (pathogenic, likely pathogenic, variant of unknown significance, or inconclusive but unlikely to support an alternate diagnosis).
+* Seizure onset within 2 weeks after birth and EEG and documented clinical history consistent with KCNQ2-DEE.
+* Magnetic resonance imaging has been performed and is without evidence of structural abnormalities, including but not limited to, hypoxia, hypoxia-ischemia, ischemia (arterial or venous), stroke, sinovenous thrombosis, intracranial hemorrhage, or focal or global brain malformation. Brain MRI changes that are described as being associated with the KCNQ2-DEE and presumed to be secondary to the disease itself, will not be exclusionary.
+* Must have had focal tonic or other countable motor seizures in the 28 days prior to screening.
+* Taking 1 and no more than 4 concomitant antiseizure medications (ASMs). All doses must be stable for at least 1 week prior to screening and expected to be maintained throughout the duration of the study.
+* Vagal nerve stimulation (VNS) is allowed and will not be counted as a concomitant ASM. The VNS device must be implanted for at least 6 months before screening, and the device settings must be stable for at least 6 weeks prior to screening and throughout the duration of the study. Use of the VNS device magnet is allowed.
+* Ketogenic diet is allowed and will not be counted as a concomitant ASM. Must must be on a stable dietary regimen that produces ketosis for at least 6 weeks prior to screening, and expected to be maintained throughout the study.
+* Additional inclusion criteria apply, and will be assessed by the study team.
+
+Exclusion Criteria:
+
+* Presence of a pathogenic or likely pathogenic variant in an additional gene associated with other epilepsy syndromes. (Variants in other epilepsy-associated genes that are not known to be pathogenic or are not likely to be pathogenic based upon adjudication review will not be a basis for exclusion

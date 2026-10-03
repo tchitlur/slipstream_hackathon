@@ -1,0 +1,21 @@
+Title: Long-term, Open-label Safety Extension Study of Retigabine/Ezogabine in Pediatric Subjects (>= 12 Years Old) With POS or LGS
+Official title: RTG113388, a Long-term, Open-label Safety Extension Study of Retigabine/Ezogabine in Pediatric Subjects With Partial Onset Seizures (>= 12 Years Old) and Subjects With Lennox-Gastaut Syndrome (>=12 Years Old)
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Epilepsy
+Interventions: retigabine/ezogabine (DRUG)
+Summary: The purpose of this study is to evaluate the long-term safety and tolerability of retigabine/ezogabine as an adjunctive treatment in subjects with either partial onset seizures (12 to \< 18 years old) or Lennox-Gastaut Syndrome (12 to \<30 years old) who have participated in a previous ("parent") study.
+Eligibility: Inclusion Criteria:
+
+* Has participated in either a Phase II or Phase III retigabine/ezogabine clinical trial evaluating partial onset seizures or seizures comprising Lennox-Gastaut syndrome and met the requirements defined in the parent study to transition into the open-label extension study
+* Investigator and caregiver consider it beneficial for the patient to continue treatment with retigabine/ezogabine
+* Female subjects of child-bearing potential (after menarche) must either not be sexually active or must be practicing an acceptable method of contraception (documented in the medical chart) from two weeks prior to administration of study medication and for 28 days after completion or premature discontinuation from the study
+* Subject is living with his/her custodial parent(s) or legal guardian(s) and has contact with them on a daily basis
+* Written informed consent is obtained from the subjects parent/guardian and accompanying assent from subject. The subject, and/or his/her custodial parents(s) or legal guardian(s) have the ability to comprehend the key components of the informed consent form
+
+Exclusion Criteria:
+
+* Has insufficient ability to articulate the presence or absence of urinary tract symptoms
+* Has experienced an adverse event, clinically significant laboratory abnormality or was discontinued from the parent study due to a reason that in the investigator's judgment would preclude enrollment to the study
+* Has a urine sample with: Urine specific gravity \>1.035, Urine pH \<4.6 or \>8.0, ≥2+ proteinuria, Casts or crystals (any type), \>5 RBC/HPF, unrelated to menses
+* Has a blood sample with: BUN \>21 mg/dl for 12 year old, or \>25 mg/dl for \>12 year old, Creatinine \>1.03 mg/dl (F), or \>1.3 mg/dl (M), Uric acid \>7.5 mg/dl (F), or \>8.5 mg/dl (M), Chloride \>108 mEq/L, parameters for calcium, inorganic phosphorous or CO2 that are clinically significant as judged by the investigator
+* Has presence of clinically significant hepatic laboratory values: aspartate aminotransferase (AST) and alanine aminotransferase (ALT) \>2x upper limit of normal (ULN); alkaline phosphatase and bilirubin ≥1.5xULN (isolated bilirubin \>1.5ULN is acceptable if bilirubin

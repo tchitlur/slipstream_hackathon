@@ -1,0 +1,47 @@
+Title: Sleep-Driven Adaptive Neuromodulation in Lennox-Gastaut Syndrome
+Official title: Sleep-Driven Adaptive Neuromodulation in Lennox-Gastaut Syndrome
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Lennox Gastaut Syndrome (LGS); Epilepsy
+Interventions: Personalized Adaptive Deep Brain Stimulation Therapy (DEVICE); Conventional Non-Personalized Deep Brain Stimulation Therapy (DEVICE)
+Summary: The goal of this clinical trial is to explore a new type of personalized brain stimulation that works during day time and night time hours using the Medtronic Percept Deep Brain Stimulation (DBS) device in patients with Lennox-Gastaut Syndrome. The main question(s) this study aims to answer is:
+
+1. Does using the personalized DBS reduce motor seizures compared to conventional DBS?
+2. Is the number of seizures reported by caregivers different for patients using the personalized DBS?
+3. How often do patients using the personalized DBS experience undesired side effects?
+
+Researchers will compare the personalized DBS that works night time, personalized DBS device that works during the day time, and conventional DBS.
+
+Participants will:
+
+1. Have their seizures and sleep patterns recorded for 3-months
+2. Assess their neurocognitive function
+3. Answer questionnaires about communication, movement, and sleep quality
+4. Wear a sleep headband and seizure warning watch for 5 nights
+5. Complete a mood and sleep assessment
+6. Have a 3T and possibly 7T MRI
+7. Be implanted with stereo-encephalography and undergo 3\~5 days of monitoring
+8. Have the stereo-encephalography taken out
+9. Receive DBS im
+Eligibility: Inclusion Criteria:
+
+* 18-65 years of age
+* Diagnosis of Lennox-Gastaut Syndrome (LGS) with confirmed generalized seizures, including generalized tonic or tonic-clonic (GTC) seizures. Participants may also have complex partial, atypical absences or atonic seizures, but these will not count toward minimum seizure frequency eligibility.
+* Diagnosis is based on prior video EEG confirmation performed in the last 3 years. Scalp EEG showing slow spike-wave discharges and paroxysmal fast activity.
+* At least four seizures per month (GTC or tonic) on average during the three months preceding enrollment.
+* Medically intractable epilepsy, defined as failure to achieve acceptable seizure control despite trials of at least two antiseizure medications (ASMs).
+* Nonlocalized seizures, as determined by standard diagnostic studies.
+* Stable doses of two or more ASMs for at least one month prior to enrollment (rescue benzodiazepines for acute seizure clusters permitted).
+* Participants with vagus nerve stimulation (VNS) must have stable settings for at least two months prior to enrollment and throughout the study.
+* Subjective reporting of sleep disturbances.
+* Participant or legal guardian can provide informed consent and maintain an online seizure log, alone or with assistance.
+* Participant is willing to remain on a stable ASM regimen (except use of variable dose of rescue medications permitted) throughout the study and able to attend scheduled clinic visits.
+* Reliable caregiver is available to assist with seizure diary maintenance.
+
+Exclusion Criteria:
+
+* Predominant seizure type is focal-onset seizures.
+* Anatomical brain abnormalities precluding DBS implantation, or discrete brain lesions on MRI (e.g., cortical malformation, tuber, or sclerosis).
+* Unable to obtain brain MRI due to metal that is not compatible with 3T MRI.
+* History of psychogenic non-epileptic seizures or unstable psychiatric disorders, including suicidal ideation or intent within the last six months.
+* Clinically significant medical conditions increasing risk for pre- or postoperative complications (e.g., significant cardiac or pulmonary disease, uncontrolled hypertension).
+* Participant is pregnant or 

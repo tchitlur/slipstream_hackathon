@@ -1,0 +1,18 @@
+Title: Validating Innovative Biosensors for Rett Autonomic Symptom Tracking
+Official title: Validation of Innovative Biosensors for Rett Autonomic Symptom Tracking
+Status: ACTIVE_NOT_RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome
+Interventions: none
+Summary: The VIBRANT study aims to validate biosensors to objectively and directly measure symptoms in Rett syndrome and create confidence in the use of these devices in clinical trials. VIBRANT will use several FDA-cleared wearable biosensors and a non-wearable device to collect symptom data from patients with Rett syndrome for up to 9 weeks. Symptoms of interest include heart rate, breathing, sleep, blood oxygen levels, and movement. Participants will use the biosensors intermittently at home, document device use and symptom status, and will come to the clinic for 1 overnight sleep study. A cohort of up to 10 participants receiving an intervention in a separate clinical trial may also enroll and participate on a custom device schedule for up to 1 year.
+
+The study will provide information on the feasibility and ease of use for families at home, biosensor data will be compared to data collected at the same time from the overnight sleep study to demonstrate how well they work in individuals with Rett syndrome, and Emerald will be developed to include movement as a measurable symptom.
+Eligibility: Inclusion Criteria:
+
+* diagnosis of Rett syndrome with a causative MECP2 genetic variant
+* Access to WiFi
+
+Exclusion Criteria:
+
+* Inability of participant to sleep alone
+* prolonged absence from home
+* medication use that may impact heart rate

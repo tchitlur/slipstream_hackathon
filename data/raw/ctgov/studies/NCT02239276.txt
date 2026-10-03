@@ -1,0 +1,21 @@
+Title: Expanded Access Use of Stiripentol in Dravet Syndrome or Sodium Channel Mutation Epileptic Encephalopathies
+Official title: Expanded Access Use of Stiripentol in Participants With Dravet Syndrome or Epileptic Encephalopathies Associated With Sodium Channel Mutations
+Status: NO_LONGER_AVAILABLE. Type: EXPANDED_ACCESS. Phases: none.
+Conditions: Dravet Syndrome; Epileptic Encephalopathies Associated With SCN1A Mutations
+Interventions: Stiripentol (DRUG)
+Summary: This is an expanded access use of Stiripentol in Dravet Syndrome or epileptic encephalopathies associated with sodium channel mutations who have failed other drugs in an effort to give them the best chance at seizure control and quality of life. As a treatment protocol and not a research study, children will only be monitored on a clinical basis for seizure improvement and side effects predominantly by parent and caregiver report.
+Eligibility: Inclusion Criteria:
+
+* 6 months and older
+* Diagnosis of Dravet Syndrome or epileptic encephalopathies associated with SCN1A mutations defined as:
+
+  * A documented gene mutation reported to result in Dravet syndrome phenotype; OR
+  * Clinical confirmation of Dravet syndrome by two pediatric neurologists; OR
+  * Clinical confirmation of other epileptic encephalopathies associated with sodium channel mutations
+* Failure of at least 2 therapeutic anticonvulsants (excluding Na Channel blockers) indicative of intractable seizures
+
+Exclusion Criteria:
+
+* Hypersensitivity to the active substance or to any of the excipients
+* Past history of psychoses in the form of episodes of delirium
+* Impaired hepatic and/or renal function, defined as creatinine \>2 and/or transaminase \>4xULN

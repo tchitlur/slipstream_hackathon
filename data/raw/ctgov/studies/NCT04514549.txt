@@ -1,0 +1,25 @@
+Title: ASSESSING EMERALD AND MC10 BIOSTAMP nPOINT BIOSENSORS FOR RETT SYNDROME
+Official title: Assessing Emerald and MC10 nPoint Biosensors for Rett Syndrome
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome
+Interventions: Emerald (DEVICE)
+Summary: This is a pilot study of the Emerald device in Rett syndrome patients diagnosed with a confirmed MECP2 mutation. MC10 BioStamp nPoint patches will also be assessed with the goal to develop Rett-specific breathing algorithms
+Eligibility: Inclusion Criteria:
+
+1. Prior to the conduct of any study-specific procedures, the parent/caregiver/LAR must provide written informed consent. If the caregiver attending the clinic visits is not the parent or LAR, written consent must be obtained from the parent or LAR for the caregiver's participation in the study.
+2. Diagnosis of typical Rett Syndrome according to the revised Clinical Diagnostic Criteria1 and presence of a disease causing MECP2 genetic mutation.
+3. The patient's parent/caregiver/LAR must be able to understand the nature of the study and to allow for the completion of study assessments. The same parent/caregiver/LAR must be capable of providing reliable information about the patient's condition.
+4. Live within approximately 50 to 60 miles of MIT.
+5. Primary language English.
+6. Approximately 4 people or less living in the home. This does not include visiting caregivers.
+7. Must have home access to Wi-Fi.
+
+Exclusion Criteria:
+
+1. Inability of patient to sleep alone in their own room.
+2. Pets in the home, or caregivers unwilling to keep pets out of the bedroom monitored by Emerald during the Observation Period.
+3. Plans to take a prolonged vacation or to otherwise be out of the home during the Observation Period.
+4. Participation in another device study that could interfere with this study.
+5. Active implantable devices such as pacemakers or defibrillators.
+6. Known allergies or hypersensitivities to adhesives.
+7. Patients with any condition that, in the opinion of the principal investigator, might interfere with the conduct of the study, confound interpretation of the study results, endanger their own well-being, or who may otherwise not be suitable for the study.

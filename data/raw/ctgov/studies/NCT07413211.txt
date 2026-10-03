@@ -1,0 +1,55 @@
+Title: Genetic Developmental and Epileptic Encephalopathy Natural History Study for Clinical Trial Readiness
+Official title: Genetic Developmental and Epileptic Encephalopathy Natural History Study for Clinical Trial Readiness
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: MEF2C; DEE
+Interventions: Observation (OTHER)
+Summary: Phase 0 non-interventional longitudinal study of children and adults with Developmental and Epileptic Encephalopathy (DEE) due to a genetic cause. There are six arms of the study. Arms 1, 2, and 3 are devoted to one example DEE, MEF2C Haploinsufficiency Syndrome (MCHS). Arms 4, 5, and 6 are open to all DEE. Arm 1 (in-person) will enroll children 0 to 15, who will make in-person visits to Weill Cornell Medicine four times over two years. Arm 2 (virtual) will enroll people of all ages and older who will make virtual visits over Weill Cornell Zoom to Weill Cornell Medicine over two years (2 if 16 and older; 4 if 0 to 15). Arm 3 (registry) will enroll people of all ages in an online-only survey. Arms 4 - 6 mirror this structure but they are open to all children with DEE. Arm 4 (in-person) will enroll children of any age, who will make in-person visits every 6 months for 10 years. Arm 5 (virtual) will enroll children of any age for virtual visits, twice a year of 0 to 15, once a year if 16 or older. Arm 6 (registry) will enroll people of all ages in an online only survey.
+Eligibility: Inclusion Criteria
+
+* Molecular diagnosis of a genetic disorder associated with DEE, as confirmed by the study investigators
+* A neurological phenotype such as epilepsy or developmental delay as confirmed by the study investigators.
+* English Speaking (Arms 1, 2, 4, 5). The registries may be completed by people who speak any language.
+
+ARM 1 (In person cohort)
+
+* MEF2C
+* Age 0 to 15 at the time of study enrollment.
+* Willingness to travel to New York City four times over two years
+
+ARM 2 (Virtual cohort)
+
+* MEF2C
+* Any age at the time of study enrollment
+* Sufficient internet connectivity to support video teleconferencing
+* Commitment to fill out all survey instruments
+
+ARM 3 (Registry)
+
+* MEF2C
+* Any age at the time of study enrollment
+* Commitment to fill out one on-line instrument
+
+ARM 4 (In person cohort)
+
+* Any DEE
+* Any age at the time of study enrollment
+* Willingness to travel to New York City four times over two years
+
+ARM 5 (Virtual cohort)
+
+* Any DEE
+* Any age at the time of study enrollment
+* Sufficient internet connectivity to support video teleconferencing
+* Commitment to fill out all survey instruments
+
+ARM 6 (Registry)
+
+* Any DEE
+* Any age at the time of study enrollment
+* Commitment to fill out one on-line instrument
+
+Exclusion Criteria
+
+* Presence of a significant non-DEE-related central nervous impairment/behavioral disturbance that would confound the scientific rigor or interpretation of results of the study
+* History of prematurity (defined as gestational age \<35 weeks), interventricular hemorrhage, structural brain deficit, or congenital heart disease
+* Presence of a clinical comorbidity deemed by the investigator to potentially confound the typical presentation of DEE

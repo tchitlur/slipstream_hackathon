@@ -1,0 +1,19 @@
+Title: Effects of Creatine Supplementation in Rett Syndrome
+Official title: Effects of Creatine Supplementation in Rett Syndrome: A Randomized, Placebo-controlled Trial
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rett Syndrome
+Interventions: Creatine monohydrate (DIETARY_SUPPLEMENT); Placebo (DIETARY_SUPPLEMENT)
+Summary: Creatine supplementation in RTT: a randomized controlled trial
+
+Rett Syndrome (RTT) is a neurodevelopmental disorder characterised by apparently normal early development (stage 1 of RTT) followed by loss of purposeful hand use, distinctive hand stereotypes, slow brain growth, loss of language, respiratory irregularities, gastrointestinal disturbances, gait abnormalities, seizures, and mental retardation. These symptoms typically appear between 6 and 18 months of age (stage 2). Subsequently, there is gradual stabilisation of severe mental retardation and motor compromise (stage 3). The majority (70% to 80%) of patients show mutations in the methyl-CpG-binding-protein-2 (MeCP2) gene, located on chromosome Xq28. MeCP2 encodes a transcription repressor protein that is ubiquitously expressed in all tissues.
+
+As RTT primarily affects females, only very few males with mutations in MeCP2 have been identified. Mutations in MeCP2 have also been identified in children with X-linked mental retardation, autism and a clinical phenotype that resembles Angelman Syndrome.
+
+The aim of this study is to investigate the effects of a dietary supplement on the biochemical and clinical parameter of RTT. A
+Eligibility: Inclusion Criteria:
+
+* RTT Syndrome, diagnosed by current consensus criteria
+
+Exclusion Criteria:
+
+* taking supplements containing either folic acid or vitamin B12 or knowingly consuming any vitamin-fortified food items

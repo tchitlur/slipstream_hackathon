@@ -1,0 +1,28 @@
+Title: Efficacy and Safety of NTI164 in Children and Young Adults With Rett Syndrome
+Official title: A Phase II/III Double-blind, Randomised, Placebo-controlled, Crossover Study Investigating the Efficacy and Safety of NTI164 in Children and Young Adults With Rett Syndrome
+Status: NOT_YET_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE2, PHASE3.
+Conditions: RETT Syndrome With Proven MECP2 Mutation; Rett Syndrome
+Interventions: NTI164 (DRUG); Placebo (DRUG)
+Summary: The FENRTT2 study will investigate the efficacy and safety of a medicinal cannabis plant extract with extremely low THC (delta-9-tetrahydrocannabinol), NTI164, on Rett syndrome (RTT) in a crossover design. RTT is a devastating rare genetic condition affecting females and involves debilitating physical and intellectual symptoms. NTI164 is an oil which has demonstrated efficacy in reducing symptoms in several paediatric neurological conditions, including RTT, autism spectrum disorder (ASD), and paediatric acute-onset neuropsychicatric syndrome (PANS). A Phase I/II clinical trial of NTI164 in RTT (FENRTT1/NTIRTT1) showed NTI164 is safe in this population and significantly improved overall clinical severity of illness, as well as core RTT symptoms, including anxiety, mental alertness, communication skills, socialisation/eye contact, and attentiveness. The FENRTT2 study will investigate NTI164 in a larger number of patients, and compare NTI164 to a placebo control. Research tests on patient blood will also be included to further investigate how NTI164 works in the body.
+Eligibility: Inclusion Criteria:
+
+1. Females aged 4-25 years of age
+2. Weight ≥12 kg
+3. Classical/typical RTT as confirmed with a documented pathogenic variant in the MECP2 gene
+4. At least 6 months post-regression at screening (i.e. no loss or degradation in ambulation, hand function, speech, non-verbal communication, or social skills within 6 months of screening)
+5. Rett Syndrome Clinical Severity Scale rating of 10-36
+6. Clinical Global Impression - Severity of Illness score ≥4
+7. Stable pattern of seizures or has had no seizures within 8 weeks of screening, as determined by the participant's primary physician
+8. Other patient medications must be stable (i.e. no dose adjustments) for at least 8 weeks prior to screening, including steroids, anti-inflammatories, anxiolytics etc
+
+Exclusion Criteria:
+
+1. Current clinically significant cardiovascular, endocrine (such as hypo- or hyperthyroidism, type 1 diabetes, or uncontrolled type 2 diabetes), renal, hepatic, respiratory, or gastrointestinal disease (such as coeliac disease or inflammatory bowel disease), or major surgery planned
+2. Known history or symptoms of long QT syndrome
+3. QTcF interval \>450 milliseconds, history of risk factor for torsades de pointes or clinically significant QT prolongation deemed to increase risk
+4. Currently receiving treatment with DAYBUE™ (Trofinetide)
+5. Currently using other unregistered drugs for the treatment of Rett syndrome, such as Anavex®
+6. Currently using or has used recreational or medicinal cannabis or cannabinoid-based medications, including Sativex® or Epidiolex®, within the 12 weeks prior to screening and is unwilling to abstain for the duration of the trial
+7. A known or suspected hypersensitivity to cannabinoids or any of the excipients
+8. Moderate-severe impairment in hepatic function at screening, defined as serum alanine aminotransferase (ALT) or aspartate aminotransferase (AST) \> 2 x upper limit of normal (ULN), or total bilirubin (TBL) \> 2 x ULN. This criterion can only be confirmed once laboratory results are available, participants enrolled into the trial who are later found to meet this criterion will be screen-failed.
+9. Participant is enrolled in another clinical t

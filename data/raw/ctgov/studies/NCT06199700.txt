@@ -1,0 +1,23 @@
+Title: Esketamine for the Treatment of Rett Syndrome
+Official title: An Exploratory Trial of Esketamine for the Treatment of Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: EARLY_PHASE1.
+Conditions: Rett Syndrome
+Interventions: Esketamine hydrochloride (DRUG)
+Summary: The goal of this interventional study is to learn about the efficacy and safety of Esketamine for treating children with Rett syndrome (RTT).
+
+The main questions it aims to answer are:
+
+* whether Esketamine treatment is effective in improving symptom severity for RTT.
+* whether Esketamine is safe in the treatment of RTT. Participants will receive a weekly intravenous infusion of Esketamine for five weeks and will be assessed for disease severity and drug safety.
+Eligibility: Inclusion Criteria:
+
+* Classic/typical RTT
+* Causing mutation in MECP2 gene
+* Stable pattern of seizures, or has had no seizures at least 8 weeks
+
+Exclusion Criteria:
+
+* Use of other drugs that interact with Esketamine: thyroxine, meglumine diatrizoate, aminophylline, diazepam or midazolam, drugs for antihypertension or central nervous depressants, halogenated general anesthetics (e.g., halothane), tubocurarine, atracurium
+* Condition with hypertension, high cerebrospinal fluid pressure, and high intraocular pressure
+* Unstable systemic illness other than Rett syndrome: current clinically significant cardiovascular, endocrine (such as hypo- or hyperthyroidism, type 1 diabetes, or uncontrolled type 2 diabetes), renal, hepatic, respiratory, or gastrointestinal disease (such as celiac disease or inflammatory bowel disease), or major surgery planned during the study
+* Clinically important variations in medication use

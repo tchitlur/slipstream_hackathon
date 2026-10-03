@@ -1,0 +1,48 @@
+Title: Sleep Abnormalities in Rare Genetic Disorders: AS, RTT, and PW
+Official title: Sleep Abnormalities in Rare Genetic Disorders: Angelman Syndrome, Rett Syndrome, and Prader Willi
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome; Prader-Willi Syndrome; Angelman Syndrome; Sleep Problems
+Interventions: none
+Summary: This study will investigate sleep behavior in subjects with Angelman Syndrome, Rett Syndrome or Prader-Willi Syndrome.
+
+The study will also investigate sleep behavior in healthy siblings of subjects with Angelman Syndrome, Rett Syndrome or Prader-Willi Syndrome. These individuals will serve as control subjects.
+
+The study will use questionnaires designed to identify sleep disorders and how they affect behavior and quality of life.
+
+The principal goals of this study are:
+
+1. To see how common sleep disorders are in individuals with Angelman Syndrome, Rett Syndrome or Prader-Willi Syndrome;
+2. To see how sleep disorders affect behavior in these individuals;
+3. To see whether sleep disorders and related behavior problems improve or worsen with age;
+4. To see how specific disease conditions relate to sleep disorders and how bad the sleep disorders are;
+5. To develop new treatment options to improve quality of life and behavior issues; and
+6. To evaluate current treatment options to improve sleep problems in these individuals.
+Eligibility: Inclusion Criteria:
+
+Eligible Inclusion Criteria - Subjects
+
+1. Enrollment in a RDCRN consortium registry for either AS, RTT or PWS.
+2. Have a clinical diagnosis of AS, RTT or PWS, or be a normal sibling of an individual with AS, RTT or PWS who is enrolled in the study.
+3. Be between 0 to18 years of age inclusive.
+4. Be English-speaking (study questionnaires will only be available in English).
+
+Inclusion Criteria - Controls
+
+1. Must have a sibling with either AS, RTT or PWS enrolled in the study.
+2. Must not have a diagnosis of any neurological disorder.
+3. Be between 0 to18 years of age inclusive
+4. Be English-speaking (study questionnaires will only be available in English).
+
+Exclusion Criteria:
+
+Exclusion Criteria - Subjects
+
+1. No clinical diagnosis of AS, RTT, or PWS.
+2. Diagnosis of a severe genetic disorder in addition to AS, RTT, or PWS.
+3. Be over 18 years of age inclusive.
+
+Exclusion Criteria - Controls
+
+1. Diagnosis of a neurological disorder.
+2. Diagnosis of a severe genetic disorder.
+3. Be over 19 years of age inclusive.

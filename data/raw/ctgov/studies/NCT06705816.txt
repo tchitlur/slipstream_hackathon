@@ -1,0 +1,24 @@
+Title: Cognitive Function in Rett Syndrome During Trofinetide Treatment
+Official title: Cognitive Function in Rett Syndrome During Trofinetide Treatment
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome
+Interventions: None interventional (OTHER)
+Summary: Assessing cognitive functions among individuals with severe intellectual and developmental disabilities (IDD), including RTT, is often challenging due to floor effects of many standardized assessment batteries in this population. In addition, deficits in motor function and verbal ability may obscure certain abilities in this population when using standard IQ measures. Remote eye-tracking tasks have been proposed as an alternative approach for assessing cognitive functions among individuals with severe IDD, because eye-tracking tasks can be designed to minimize the influence of gross motor and receptive language deficits on performance. Although several types of eye-tracking tasks have been evaluated in RTT, most have been implemented only at a single time-point. As a result, it is unclear whether these measures are stable over time, or sensitive to developmental changes or alterations to health status that occur in RTT (e.g., developmental regression, development of seizures, change in medication, etc.). With the recent FDA approval of trofinetide for the treatment of RTT, we have a novel opportunity to test the sensitivity of eye-tracking and other psychophysiological measures to 
+Eligibility: Inclusion Criteria:
+
+* Any individuals who are initiating trofinetide treatment for RTT through the physicians associated with the Gillette Children's RTT clinic will be potentially eligible for participation, regardless of age. To enroll, participants must meet the following criteria:
+
+  1. Provision of signed and dated informed consent form by the individual\&#39;s parent/legal guardian
+  2. Stated willingness to comply with all study procedures and availability for the duration of the study
+  3. Documented diagnosis of Rett syndrome
+  4. Participant is not showing active signs of developmental regression, defined as: no loss or degradation of ambulation within the past 6 months; no loss or degradation of hand function within the past 6 months; and no loss or degradation of verbal or non-verbal communication or social skills in the past 6 months.
+  5. Participant's current pharmacological treatment regimen has been stable for at least 4 weeks.
+  6. Seeking prescription for trofinetide through the Gillette Children's Rett syndrome clinic
+
+Exclusion Criteria:
+
+1. Diagnosis of a progressive medical or neurological condition that in the opinion of the investigator would interfere with the conduct of the study.
+2. Current clinically significant systemic illness that is likely to result in the deterioration of the participant\&#39;s condition during the study.
+3. Participants taking any other investigational drug currently or within the past 30 days.
+4. Known, uncorrected visual impairment that would limit the ability to view images during eye-tracking tasks.
+5. Severe behavioral problems (i.e., aggression, property destruction, extreme hyperactivity) that would interfere with participation in study activities.

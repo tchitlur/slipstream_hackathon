@@ -1,0 +1,19 @@
+Title: A Phase 2, Multicenter, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy, Safety, and Tolerability of TAK-935 (OV935) as an Adjunctive Therapy in Pediatric Participants With Developmental and/or Epileptic Encephalopathies
+Official title: A Phase 2, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy, Safety, and Tolerability of TAK-935 (OV935) as an Adjunctive Therapy in Pediatric Patients With Developmental and/or Epileptic Encephalopathies
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Epilepsy; Dravet Syndrome; Lennox-Gastaut Syndrome
+Interventions: TAK-935 (DRUG); Placebo (DRUG)
+Summary: The purpose of this study is to investigate the effect on the frequency of all seizures (convulsive and drop) in participants treated with TAK-935 compared to placebo.
+Eligibility: Inclusion Criteria:
+
+1. Male and female participants aged greater than or equal to (\>=) 2 and less than or equal to (\<=) 17 years
+2. Clinical diagnosis of DS or LGS
+3. Weight of \>=10 kilogram (kg) at the Screening visit
+4. Currently taking 1 to 4 anti-epileptic drugs (AEDs) at a stable dose
+5. Failed to become and remain seizure free with trials of at least 2 AEDs
+
+Exclusion Criteria:
+
+1. Has been admitted to a medical facility and intubated for treatment of status epilepticus 2 or more times in the 3 months immediately prior to the screening visit
+2. Non-epileptic events that cannot be reliably distinguished from epileptic seizures
+3. Participation in a clinical study involving another study drug in the previous month

@@ -1,0 +1,20 @@
+Title: A Natural History Study of Participants With Potassium Sodium-Activated Channel Subfamily T Member 1 (KCNT1)-Related Epilepsy
+Official title: A Non-Drug, Longitudinal, Prospective Natural History Study of Individuals With KCNT1-Related Epilepsy (K1Te)
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: KCNT1-Related Epilepsy
+Interventions: No Intervention (OTHER)
+Summary: The primary objective of the study is to characterize seizures in participants with KCNT1-related epilepsy. The secondary objectives are to characterize head growth, symptom severity, neurocognitive and social functions, adaptive behavior, sleep, quality of life, caregiver burden, and mood in participants with KCNT1-related epilepsy.
+Eligibility: Key Inclusion Criteria:
+
+* Must have clinically and genetically confirmed diagnosis of KCNT1-related epilepsy provided by the investigator. For purposes of this study, mutations that are genetically confirmed to cause KCNT1-related epilepsy are defined to specifically exclude known benign variants (e.g., distal C terminus, splice site, etc.).
+* Willingness of the participant and/or the participant's legally authorized representative (LAR) to comply with scheduled visits and study procedures.
+
+Key Exclusion Criteria:
+
+* Any condition that may interfere with the assessment of KCNT1-related epilepsy and that is clearly not related to this disease (in the judgment of the investigator).
+* History of human immunodeficiency virus infection.
+* History of central nervous system (CNS) tumors or malignancies, including CNS metastatic disease.
+* Current enrollment or past enrollment in an interventional clinical study in which an investigational gene therapy is/was administered.
+* Enrollment in an interventional clinical study in which an investigational small molecule, antibody or antisense oligonucleotide (ASO) treatment or approved small molecule, antibody or ASO therapy for investigational use is administered within 1 month (or 5 half-lives of study agent, whichever is longer) prior to the screening visit.
+
+NOTE: Other protocol defined Inclusion/Exclusion criteria may apply.

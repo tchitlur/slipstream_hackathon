@@ -1,0 +1,27 @@
+Title: An Open-Label Study to Investigate the Safety of Single and Multiple Ascending Doses in Children and Adolescents With Dravet Syndrome
+Official title: An Open-Label Study to Investigate the Safety and Pharmacokinetics of Single and Multiple Ascending Doses of Antisense Oligonucleotide STK-001 in Children and Adolescents With Dravet Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Dravet Syndrome
+Interventions: STK-001 - Single Ascending Doses (DRUG); STK-001 - Multiple Ascending Doses (DRUG)
+Summary: Stoke Therapeutics is evaluating the safety and tolerability of single and multiple ascending doses of STK-001 in patients with Dravet syndrome. Change in seizure frequency, overall clinical status, and quality of life will be measured as secondary endpoints in this open-label study.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of Dravet Syndrome (DS) with onset of recurrent focal motor or hemiconvulsive or generalized tonic-clonic seizures prior to 12 months of age, which are often prolonged and triggered by hyperthermia.
+
+  * No history of causal MRI lesion
+  * No other known etiology
+  * Normal development at seizure onset.
+* Documented pathogenic, likely pathogenic variant, or variant of uncertain significance in the SCN1A gene associated with DS.
+* Use of at least 2 prior treatments for epilepsy that either had lack of adequate seizure control (requiring an additional AED) or had to be discontinued due to an AE(s).
+* Currently taking at least one AED at a dose which has been stable for at least 4 weeks prior to Screening.
+* Stable epilepsy medications or interventions for epilepsy (including ketogenic diet or vagal nerve stimulator) for at least 4 weeks prior to Screening.
+
+Exclusion Criteria:
+
+* Known pathogenic mutation in another gene that causes epilepsy
+* Currently treated with an AED acting primarily as a sodium channel blocker, as maintenance treatment, including: phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, or rufinamide.
+* Clinically significant unstable medical conditions other than epilepsy.
+* Clinically relevant symptoms or a clinically significant illness in the 4 weeks prior to Screening or prior to dosing on Day 1, other than epilepsy.
+* History of brain or spinal cord disease (other than epilepsy or DS), or history of bacterial meningitis or brain malformation
+* Spinal deformity or other condition that may alter the free flow of cerebrospinal fluid (CSF) or has an implanted CSF drainage shunt.
+* Any other significant disease or disorder which, in the opinion of the Investigator, may either put the patient at risk because of participation in the study, may influence the results of the study, or may affect the patient's ability to participate in the study.

@@ -1,0 +1,21 @@
+Title: SCN2A Polymorphisms Are Associated With Response to Valproic Acid in Paediatric Population(Pakistan)
+Official title: SCN2A, rs2304016 Polymorphisms Are Associated With Response to Valproic Acid in Paediatric Epilepsy Patients (Pakistan)
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Epilepsy
+Interventions: Valproic Acid (GENETIC)
+Summary: The goal of this Observational study was to identify the effect of SCN2A gene polymorphism in the Paediatric epileptic Pakistani population. The main question it aims to answer is:
+
+to evaluate the effect of this genetic polymorphism on the clinical efficacy of Valproic acid
+
+Participants were prescribed Valproic acid after diagnosis of epilepsy.
+Eligibility: Inclusion Criteria:
+
+* Epileptic Pakistani individuals of age between 1 to 12 years of either sex
+* Each patient had experienced two or more clinically confirmed, spontaneous epileptic seizures in the past.
+* Newly diagnosed patients started VPA 20 mg/kg (drug of the same brand was used for every patient throughout the study).
+
+Exclusion Criteria:
+
+* Patients taking any other anti-epileptic drug.
+* Patients taking medications that interact with VPA.
+* Patients with moderate or severe systemic diseases

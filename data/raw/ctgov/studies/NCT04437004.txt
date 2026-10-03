@@ -1,0 +1,9 @@
+Title: Treatment of Dravet Syndrome With Fenfluramine (Expanded Access Protocol)
+Official title: Treatment of Dravet Syndrome With Fenfluramine (Expanded Access Protocol)
+Status: APPROVED_FOR_MARKETING. Type: EXPANDED_ACCESS. Phases: none.
+Conditions: Dravet Syndrome
+Interventions: Fenfluramine (DRUG)
+Summary: The purpose of this research study is to (1) provide access to fenfluramine for patients with intractable epilepsy associated with Dravet syndrome, and (2) evaluate the safety of fenfluramine.
+Eligibility: Inclusion Criteria:
+
+* Genetic diagnosis of Dravet syndrome with intractable seizures despite failing all available medications for seizures.

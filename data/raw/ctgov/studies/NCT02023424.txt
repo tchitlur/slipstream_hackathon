@@ -1,0 +1,44 @@
+Title: An Open Label, Exploratory Study to Investigate the Treatment Effect of Glatiramer Acetate on Girls Woth Rett Syndrome
+Official title: An Open Label, Exploratory Study to Investigate the Treatment Effect og Glatiramer Acetate (Copaxone ®) on Girls Woth Rett Syndrome
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: PHASE1.
+Conditions: Rett Syndrome
+Interventions: Glatiramer Acetate (Copaxone®) (DRUG)
+Summary: Primary Objective: To test the hypothesis that 6 months treatment with glatiramer acetate (GA) decreases epileptiform activity in young girls with Rett syndrome.
+
+Primary Safety Objective:To evaluate the safety and tolerability of 6 months treatment with GA in these patients.
+
+Secondary Objectives:
+
+1. To test the hypothesis that 6 months treatment with glatiramer acetate (GA) improves respiratory dysfunction.
+2. To evaluate the effect of GA treatment on general behaviour communication, hand stereotyping, feeding, sleep and other autonomic symptoms: gastrointestinal and cardiac.
+3. To assess the effect of GA treatment on bodily development.
+
+Primary Endpoint:Improvement of epileptiform activity as recorded in a 24-hours EEG.
+
+Primary Safety Endpoint:Frequency and severity of treatment-related AEs (including safety lab parameters).
+
+Secondary Endpoints:
+
+1. Improvement in the scoring of breath holds and hyperventilation, as measured with non-invasive respiratory inductance plethysmography (NoxT3 device) and parents' diaries.
+2. Changes in general behaviour, communication, feeding and motor skills as assessed by the investigator (based on Kerr and Naidu validated severity scores) and
+Eligibility: Inclusion Criteria:
+
+1. Females, age 6-15 years (inclusive).
+2. Patients whose parents or legal custodians have provided written informed consent to participate in the study.
+3. A diagnosis of RTT (classical or variant), defined according to the internationally agreed 2010 RetSearch criteria \[4\].
+4. Evidence of a genetically defined pathological change in the MECP2 gene (point mutation or deletion)
+5. Patients with known epileptiform activity as recorded on EEG.
+6. Blood pressure and heart rate within normal limits (blood pressure: systolic 90-140 mmHg; diastolic 50-90 mmHg, heart rate 40-120 beats per minute
+7. An electrocardiogram (ECG) which, according to the Investigator's judgment does not contraindicate participation in the study.
+8. No clinically significant abnormalities in haematology, blood chemistry lab tests at screening.
+9. Parents must be able to understand the requirements of the study and must be willing to comply with the requirements of the study
+
+Exclusion Criteria:
+
+1. Any medical problem or chronic illness beyond those known to be associated with Rett Syndrome which, in the investigator's judgment, contraindicates administration of the study medication.
+2. Severe respiratory dysfunction (defined as tracheostomy and/or chronic oxygen therapy at least 4 hours a day and/or repeated aspiration pneumonia - at least 4 in the last year).
+3. Intractable seizures that started during the last 6 months prior to beginning of the study.
+4. Known hypersensitivity to glatiramer or mannitol.
+5. Participation in another clinical study.
+6. Parents of a patient who are unable to communicate well with the investigator and staff and comply with study procedures and follow-up
+7. Parents of a patient who are unwilling to sign consent form.

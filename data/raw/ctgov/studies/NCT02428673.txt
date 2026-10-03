@@ -1,0 +1,19 @@
+Title: Effects of Standing on Non-Ambulatory Children With Neuromuscular Conditions
+Official title: Effects of Standing on Non-Ambulatory Children With Neuromuscular Conditions
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Osteopenia; Spinal Muscular Atrophy; Cerebral Palsy; Muscular Dystrophy; Spina Bifida; Rett Syndrome
+Interventions: Assisted Standing Treatment Program (OTHER)
+Summary: Children with neuromuscular disabilities and limited ambulation are at significant risk for decreased bone mineral density (BMD) and increased incidence of fracture. This is caused, in part, by low levels of load experienced by the skeleton due to a child's functional limitations. Low BMD has been shown to be predictive of fracture, and in fact, fractures usually occur without significant trauma in children with neuromuscular conditions. The discomfort and distress from fractures in this population are considerable, and the associated costs to the family and healthcare system are substantial. Numerous interventions have been devoted to improving BMD in these children. Stationary assisted standing devices are widely used and represent the standard-of-care. However, evidence supporting this approach is limited due to inadequate study designs with insufficient numbers of patients.
+
+This study will use load-sensing platforms in patients with neuromuscular conditions. Successful completion of this pilot study will assist in the development of a future multicenter clinical trial to definitively determine relationships, if any, between passive standing and measures of BMD, fracture incide
+Eligibility: Inclusion Criteria:
+
+1. Must have a neuromuscular condition
+2. Must be between 3-14 years old
+3. Gross Motor Function Classification System (GMFCS) Level IV or V
+4. Must be on a standing treatment program
+5. Parent must be able to provide consent
+
+Exclusion Criteria:
+
+1\. Currently taking bisphosphonates

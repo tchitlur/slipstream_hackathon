@@ -1,0 +1,22 @@
+Title: Evaluation of [18F]GATT-44 for Positron Emission Tomography Imaging of the GABA Transporter-1
+Official title: Evaluation of [18F]GATT-44 for Positron Emission Tomography Imaging of the GABA Transporter-1
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: EARLY_PHASE1.
+Conditions: Healthy Adult Participants
+Interventions: [ 18F]GATT-44 (DRUG)
+Summary: Evaluate \[18F\]GATT-44 (aka \[18F\]GAT44), to characterize its pharmacokinetic, metabolic, and in vivo binding profile, and assess the reproducibility of kinetic and binding parameters. Assess specific binding levels of \[18F\]GATT-44 by conducting a test-block study in humans. Estimate human dosimetry of \[18F\]GATT-44 by performing whole-body imaging studies.
+Eligibility: Inclusion Criteria:
+
+1. Willing and able to give voluntary written informed consent;
+2. Able to read and write, able to communicate effectively with the investigator, and comply with all study requirements, restrictions, and directions of the research staff;
+3. Male or female, aged 18 to 60, at screening;
+4. In good general health as evidenced by medical history, physical examination, ECG, serum/urine biochemistry, hematology, and serology tests;
+5. Females of childbearing potential, and male subjects, must be willing to practice birth control for the duration of the study (unless medical documentation is provided confirming subject is permanently sterile).
+
+Exclusion:
+
+1. Less than 18 years of age;
+2. Pregnant or breastfeeding;
+3. Any significant systemic illness or unstable medical condition;
+4. Pre-existing medical conditions or claustrophobic reactions;
+5. Research-related radiation exposure exceeds current PET Center guidelines;
+6. History of a bleeding disorder or are currently taking anticoagulants.

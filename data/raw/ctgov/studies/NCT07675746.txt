@@ -1,0 +1,19 @@
+Title: A Study to Evaluate the Safety and Pharmacokinetics of RC001 in Children With Dravet Syndrome
+Official title: An Investigator-Initiated Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of RC001 in Patients With Dravet Syndrome Aged 2 to 18 Years
+Status: RECRUITING. Type: INTERVENTIONAL. Phases: EARLY_PHASE1.
+Conditions: Dravet Syndrome (DS)
+Interventions: RC001 injection-Dose Escalation Cohort (DRUG); RC001 injection-Fixed Dose Cohort (DRUG)
+Summary: This is an open-label, single-center study to evaluate the safety, tolerability, pharmacokinetics, and preliminary efficacy of intrathecal RC001 in patients with Dravet syndrome aged 2 to 18 years. The study includes a dose-escalation part followed by a fixed dose treatment part, with participant progression based on investigator-assessed safety and efficacy.
+Eligibility: Inclusion Criteria:
+
+1. Patients aged 2-18 years with Dravet syndrome caused by SCN1A mutations, with onset before 12 months of age characterized by focal seizures, hemiclonic seizures, generalized tonic-clonic seizures, or myoclonic seizures, and with MRI excluding progressive neurological disease either historically or at screening. Enrolled participants will be assigned as follows: 1 participant aged 13-18 years, 1 aged 7-12 years, and 1 aged 2-6 years will undergo intra-subject dose escalation; 5 participants aged 2-12 years will receive fixed-dose multiple administrations.
+2. Seizure frequency requirements: at least 6 cumulative seizures within 12 weeks prior to the day of signing the ICF, and at least 2 seizures within 4 weeks prior to ICF signing. For participants in Stage 2 (fixed-dose multiple administration), seizure frequency must also be ≥4 within 4 weeks after ICF signing.
+3. Documented pathogenic or likely pathogenic variants in the SCN1A gene associated with Dravet syndrome.
+4. Prior treatment with at least one anti-epileptic intervention, including anti-seizure medications (ASM), ketogenic diet, or vagus nerve stimulation (VNS), with inadequate seizure control or discontinuation due to adverse events (AEs).
+5. Use of at least one ASM prior to screening, with a stable dose for at least 4 weeks before screening.
+6. All epilepsy-related treatments, including ASM and other interventions (ketogenic diet and VNS), must be stable for at least 4 weeks prior to screening and are expected to remain stable throughout the study (medications adjusted by body weight are allowed).
+7. Willingness to participate and provision of written informed consent.
+
+Exclusion Criteria:
+
+1. Presence of other known pathogenic gene mutations causing Dravet syndrome, or SCN1A gain-of-function mutations reported in the literature and/or experimentally validated, including but not limited to: Ala23Glu, Thr162Ile, Thr226Met, Ser228Pro, Val229Leu, Ile236Val, Ile236Thr, Val250Leu, Leu263Val, Thr398Met, Ala420Val, Val422Leu, Ile883Thr, Leu893Phe, Ala989Thr, Thr1174Ser, Trp1204Arg, Ala1339Asp, Pro1345Ser, Pro1345Leu, Ser1346Pro, Ile1347Val, Val1481Ile, Ile1483Met, Gln1489Lys, Ile1498T

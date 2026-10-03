@@ -1,0 +1,41 @@
+Title: A Natural History Study Seeks to Understand the Clinical, Genomic, Pharmacological, Laboratory, and Dietary Determinates of Pyrimidine and Purine Metabolism Disorders
+Official title: Prospective Study of the Clinical, Genomic, Pharmacological, Laboratory, and Dietary Determinates of Pyrimidine and Purine Metabolism Disorders
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: AMPD3, OMIM*102772, AMP Deaminase Deficiency; AK1, OMIM *103000, Adenylate Kinase Deficiency; AMPD1, OMIM *102770, Myopathy Due to Myoadenylate Deaminase Deficiency; TPMT, OMIM *187680, Thoipurines, Poor Metabolism of; IMPDH1, OMIM *146690, Retinitis Pigmentosa Type 10, Leber Congenital Amauriosis Type 11; APRT, OMIM *102600, Adenine Phosphoribosyltransferase Deficiency; HPRT1, OMIM *308000 Lesch-Nyhan Disease; XDH, OMIM *607633, Xanthinuria Type 1; SLC2A9, OMIM *606142 Hypouricemia; SLC22A12, OMIM *607096 Hypouricemia; PRPS1 Def, OMIM *311850, Arts Syndrome; Charcot-Marie-Tooth Disease; PRPS1 SA, OMIM *311850 Gout, PRPS-related Phosphoribosylpyrophosphate Synthetase Superactivity; AMPD2, OMIM *102771, Spastic Paraplegia 63; Pontocerebellar Hypoplasia; ITPA, OMIM *147520, Inosine Triphosphatase Deficiency; Developmental and Epileptic Encephalopathy 35; ADSL, OMIM *608222, Adenylosuccinate Lyase Deficiency; PNP, OMIM *164050, Nucleoside Phosphorylase Deficiency; ADA2, OMIM *607575,Sneddon Syndrome; VAIHS; CAD, *1140120, Developmental and Epileptic Encephalopathy; UPB1, OMIM *606673, Beta-ureidopropionase Deficiency; DPYS, OMIM *613326, Dihydropyrimidinase Deficiency; DPYD, OMIM *274270, Dihydropyrimidine Dehydrogenase Deficiency; DHODH, OMIM *126064, Miller Syndrome (Postaxial Acrofacial Dysostosis); UMPS, OMIM *613891, Orotic Aciduria; NT5C3A<TAB>, OMIM *606224, Anemia, Hemolytic, Due to UMPH1 Deficiency; UNG, OMIM *191525, Hyper-IgM Syndrome 5; AICDA, OMIM *605257, Immunodeficiency With Hyper-IgM, Type 2; HIGM2; Purine-Pyrimidine Metabolism; Metabolic Disease
+Interventions: none
+Summary: Background:
+
+Pyrimidine and purine metabolism disorders (DPPMs) affect how the body metabolizes chemicals called pyrimidines and purines. DPPMs can cause dysfunctions throughout the body, especially in the brain, blood, kidneys, and immune system. People with DPPMs might have no symptoms, mild symptoms, or they may have severe, chronic symptoms, that can be fatal. DPPMs are not well understood, and researchers want to learn more about what causes them and how to treat them.
+
+Objective:
+
+To learn more about factors that affect DPPMs by comparing test results from affected, uaffected family members, and healthy people.
+
+Eligibility:
+
+Three types of participants are needed: people aged 1 month and older with DPPMs; their family members who do not have DPPMs; and healthy volunteers.
+
+Design:
+
+Participants with DPPMs will come to the clinic once a year; some may be asked to come more often. At each visit, all affected participants will have a physical exam and give samples of blood, urine, saliva, and stool. Depending on their symptoms, they may also have other procedures, such as:
+
+Swabs of their skin and inside the mouth.
+
+Tests of their heart, kidney, brain, and nerve function.
+
+Ques
+Eligibility: * INCLUSION CRITERIA:
+
+There are three populations that will be included in this study: subjects with known DPPM, family members of study subjects, and healthy controls.
+
+In order to be eligible to participate in this study as a subject with a known DPPM an individual must meet all following criteria:
+
+* At least one month of age;
+
+  * A medical history that, based on the preponderance of clinical, laboratory, biochemical, and/or genomic evidence is consistent with DPPMs;
+  * Clinical findings that can be used to suspect disorders of purine and pyrimidine metabolism will include, but not be limited to the presence of congenital malformations, neurological, behavioral, immunological, rheumatological, hematological, renal involvement; gout; and recurrent rhabdomyolysis in one or more family members.
+  * Laboratory findings may include but not limited to elevated CPK (recurrent rhabdomyolysis); neutropenia, lymphopenia, anemia, thrombocytopenia; and immunodeficiency.
+  * Biochemical evidence may encompass but not limited to persistent laboratory abnormalities in blood and urinary urate (a terminal product of purine degradation); blood and urinary beta-alanine (a terminal product of pyrimidine degradation); characteristic findings on plasma amino acid profiles (elevated plasma aspartate and glycine); elevated orotic acid on the urine organic acid assay; presence of urate crystals in urine; abnormal findings on the purine and pyrimidine panels (e.g. plasma and urine purines \& pyrimidines biochemical panels at Mayo, PUPYP and PUPYU).
+  * Genomic evidence may include the presence of pathogenic and likely pathogenic variants in genes known or plausibly linked to the pathways of the de novo synthesis, degradation, and salvage of purines \& pyrimidines. Participants with variants of unknown significance in the said genes may be invited to participate in the protocol, if they have clinical, laboratory and biochemical evidence consistent with DPPMs.
+* Have a primary metabolic or genetic physician, or primary care provider; and
+* Ability of the subject, parent/s (in the case of children), or a Legally Authorized Representative (LAR) to understand and the willingness to sign

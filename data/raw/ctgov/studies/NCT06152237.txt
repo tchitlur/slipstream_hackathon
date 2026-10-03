@@ -1,0 +1,25 @@
+Title: Safety and Efficacy of TSHA-102 in Pediatric Females With Rett Syndrome (REVEAL Pediatric Study)
+Official title: A Multicenter, Open Label, Randomized, Dose-Escalation and Dose-Expansion Study of the Safety, Tolerability, and Efficacy of a Single Intrathecal Administration of TSHA-102, an AAV9-Delivered Gene Therapy, for the Treatment of Pediatric Females With Rett Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: PHASE1, PHASE2.
+Conditions: Rett Syndrome
+Interventions: TSHA-102 (GENETIC)
+Summary: The REVEAL Pediatric Study is a multi-center, Phase 1/2 open-label, dose-escalation and dose-expansion study of TSHA-102, an investigational gene therapy, in pediatric females with Rett Syndrome.
+
+The safety, tolerability, and preliminary efficacy of two dose levels will be evaluated. The study duration is up to 6 years.
+Eligibility: Inclusion Criteria:
+
+* Participant has a confirmed diagnosis of classical/typical Rett Syndrome with a documented mutation of the MECP2 gene that results in loss of function.
+* Participant is between ≥5 to ≤8 years of age at the time of consent.
+* Participant must be up to date with all relevant local vaccination requirements, with last vaccination dose received at least 42 days prior to the start of the immunosuppression regimen.
+* Participant's parent/caregiver must be willing to allow participant to receive blood or blood products for the treatment of an AE if medically needed.
+
+Exclusion Criteria:
+
+* Participant has another neurodevelopmental disorder independent of the MECP2 gene loss of function mutation, or any other genetic syndrome with a progressive course.
+* Participant has a history of brain injury that causes neurological problems.
+* Participant had grossly abnormal psychomotor development in the first 6 months of life.
+* Participant has a diagnosis of atypical Rett syndrome.
+* Participant has an MECP2 mutation that does not cause Rett syndrome.
+* Participant requires non-invasive and invasive ventilatory support.
+* Participant has contraindications for IT administration of TSHA-102 or lumbar puncture procedure, other medical conditions, or contraindications to any medications required for IT administration.
+* Participant has acute or chronic hepatitis B or C infections.

@@ -1,0 +1,20 @@
+Title: Biomarkers in Rett Syndrome
+Official title: BIRS (Biomarkers in Rett Syndrome): a Long-term Observational Multicenter Study of the Natural History of Rett Syndrome to Define New Clinical and Instrumental Biomarkers
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome
+Interventions: Diagnostic test and behavioral (OTHER)
+Summary: Rett syndrome (RTT) is an X-linked genetic disorder that causes severe neurological development disorder. In its classic form, it seems to affect almost exclusively females with an incidence of up to one in 10,000 females. Patients affected by Rett Syndrome can present a wide range of symptoms, in different combinations and of varying intensity, such as slowed growth of head circumference, abnormalities in walking and balance, loss of functional use of the hands often replaced by repetitive and stereotyped hand movements like "hand washing", loss of communicative-relational skills including expressive language, epilepsy, breathing abnormalities, and osteo-muscular alterations. In light of the growing potential of clinical therapies, identification and early diagnosis are considered essential. Many disease modification strategies have been achieved through translational research studies and clinical trials that have allowed the recognition of the most effective therapeutic and clinical interventions to date.
+
+This study arises from the need to advance in the understanding of the pathogenesis of RTT through a multicentric collaboration in order to (a) identify early biomarkers of RTT
+Eligibility: Inclusion Criteria:
+
+* All subjects aged between 0 and 18 years with Rett Syndrome, classic (mutation of the MECP2 gene) and Rett variants (CDKL5, FOXG1 mutations, and other MECP2 mutations), genetically confirmed:
+
+  * newly diagnosed
+  * previously diagnosed if possessing data recorded and stored in the enrollment centers' records;
+  * upon written informed consent from the parents.
+* Siblings of the probands of any age who will undergo EEG registration will also be enrolled.
+
+Exclusion Criteria:
+
+• Patients with Rett Syndrome presenting a compromise in the general health status to such an extent that it makes it impossible to apply the clinical-instrumental evaluation and monitoring tools used for the study.

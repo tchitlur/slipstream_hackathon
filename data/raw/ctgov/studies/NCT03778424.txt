@@ -1,0 +1,13 @@
+Title: An Extended Access Program (EAP) for Participants Who Have Completed Rufinamide Study E2080-G000-303
+Official title: An Extended Access Program (EAP) for Rufinamide in Pediatric Participants With Inadequately Controlled Lennox-Gastaut Syndrome
+Status: AVAILABLE. Type: EXPANDED_ACCESS. Phases: none.
+Conditions: Lennox Gastaut Syndrome
+Interventions: Rufinamide (DRUG)
+Summary: This is an extended access study for participants who have completed Rufinamide Study E2080-G000-303 to continue to have access to rufinamide until it becomes commercially available in Poland or until no participants remain in the EAP.
+Eligibility: Inclusion Criteria:
+
+* Participants who were on rufinamide treatment and have completed Study E2080-G000-303 in Poland.
+
+Exclusion Criteria:
+
+* Participants were randomized to the other antiepileptic drug (AED) treatment group in study E2080-G000-303.

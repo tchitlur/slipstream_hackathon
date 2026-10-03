@@ -1,0 +1,25 @@
+Title: A Study of Soticlestat as an Add-on Therapy in Children, Teenagers, and Adults With Lennox-Gastaut Syndrome
+Official title: A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Parallel Group Study to Evaluate the Efficacy, Safety, and Tolerability of Soticlestat as Adjunctive Therapy in Pediatric and Adult Subjects With Lennox-Gastaut Syndrome (LGS)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Lennox Gastaut Syndrome (LGS)
+Interventions: Placebo (DRUG); Soticlestat (DRUG)
+Summary: The aims of the study are:
+
+* to learn if soticlestat, when given as add-on therapy, reduces the number of major motor drop seizures in children, teenagers, and adults with Lennox-Gastaut Syndrome.
+* to assess the safety profile of soticlestat when given in combination with other therapies.
+
+Participants will receive their standard antiseizure therapy, plus either tablets of soticlestat or placebo. A placebo looks just like soticlestat but will not have any medicine in it. Participants will take soticlestat or placebo for 16 weeks, followed by a gradual dose reduction for 1 week. Then, participants will be followed up for 2 weeks.
+Eligibility: Inclusion Criteria:
+
+1. Has documented clinical diagnosis of LGS.
+2. Has had ≥8 MMD seizures each month in the 3 months prior to Screening based on the historical information and has had ≥8 MMD seizures per 28 days during the 4 to 6 week prospective Baseline Period.
+3. Weighs ≥10 kg at the Screening Visit (Visit 1).
+4. Failure to control seizures despite appropriate trials of at least 1 ASM based on historical information, and is currently on an antiseizure therapy or other treatment options considered as standard of care (SOC).
+5. Artisanal cannabidiols are allowed at a stable dose for at least 4 weeks before the screening visit (Visit 1); the dosing regimen and manufacturer should remain constant throughout the study. (Artisanal cannabidiols will not be counted as ASMs.)
+6. Currently taking 0 to 3 ASMs at stable doses for at least 4 weeks before the Screening Visit (Visit 1); Fenfluramine and cannabidiol (Epidiolex) are allowed where available and counted as an ASM. ASM dosing regimen must remain constant throughout the study.
+
+Exclusion Criteria:
+
+1. Admitted to a medical facility and intubated for treatment of status epilepticus 2 or more times in the 3 months immediately before Screening (Visit 1). For the purpose of this exclusion criterion, status is defined as continuous seizure activity lasting longer than 5 minutes or repeated seizures without return to Baseline in between seizures.
+2. Unstable, clinically significant neurologic (other than the disease being studied), psychiatric, cardiovascular, ophthalmologic, pulmonary, hepatic, renal, metabolic, gastrointestinal, urologic, immunologic, hematopoietic, endocrine disease, malignancy including progressive tumors, or other abnormality that may impact the ability to participate in the study or that may potentially confound the study results. It is the responsibility of the investigator to assess the clinical significance; however, consultation with the medical monitor may be warranted.
+3. Considered by the investigator to be at imminent risk of suicide or injury to self, others, or property, or the participant has attempted suicide within 12 months before the Screening Visit (Visit 1). Participants who h

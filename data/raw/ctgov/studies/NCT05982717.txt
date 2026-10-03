@@ -1,0 +1,35 @@
+Title: A Study to Gather Information About Overall Occurrence and New Cases of Dravet and Lennox-Gastaut Syndromes in Children, Teenagers and Adults in Spain
+Official title: Epidemiology of Dravet and Lennox-Gastaut Syndromes in Spain
+Status: COMPLETED. Type: OBSERVATIONAL. Phases: none.
+Conditions: Dravet Syndrome (DS); Lennox-Gastaut Syndrome (LGS)
+Interventions: No intervention (OTHER)
+Summary: The main aims of this study are to gather information about how many children, teenagers and adults in Spain have been diagnosed with Dravet syndrome and Lennox-Gastaut syndrome as well as to learn about the number of new Dravet syndrome and Lennox-Gastaut syndrome cases in persons in Spain.
+
+Participants' data will be taken from their medical records (charts), which were already collected as a part of their routine care in public hospitals in Spain between 01 January 2021 and 31 December 2022.
+Eligibility: Inclusion Criteria:
+
+A. Diagnosis criteria for DS:
+
+• All the following criteria must be met: i. Seizures onset within 1-20 months (usually within the first year of life). ii. Normal initial development prior to presentation (no cognitive or behavioural disability before the onset of seizures) followed by behaviour and cognitive impairment.
+
+iii. Recurrent focal clonic (hemiclonic) febrile and afebrile seizures (which often alternate sides from seizure to seizure), focal to bilateral tonicclonic, and/or generalized clonic seizures.
+
+• And at least one of the following criteria must be met: i. Emergence of other seizure type, including atypical absence seizures, myoclonic seizures, atonic seizures, or non-tonic-clonic status epilepticus between 1-4 years.
+
+ii. Seizures triggered by fever due to illness or vaccinations, hot baths, sudden temperature changes, high level of activity, or by strong lighting or exposure to certain visual patterns.
+
+iii. Mutations or copy number variants in the SCN1A gene.
+
+B. Diagnosis criteria for LGS:
+
+Given the uncertainties associated with the diagnosis of this condition, two different criteria will be used, a stricter criterion, intended to identify "pure" Lennox-Gastaut syndrome participants, and a wider criterion, intended to also include the so-called Lennox-Gastaut-like participants.
+
+Lennox-Gastaut syndrome - stricter criteria:
+
+• All the following criteria must be met: i. Seizures onset before 18 years of age, typically from 1 to 8 years. ii. Progressive development/cognition impairment after seizures onset. iii. Tonic seizures. iv. At least one additional seizure: generalised tonic-clonic seiures, atypical absence seizures, atonic seizures, myoclonic seizures, focal impaired awareness, epileptic spams, or non-convulsive status epilepticus v. Slow (\<2.5 hertz \[Hz\]) spike-and-wave EEG pattern. vi. Paroxysmal fast activity (10 Hz or greater) in sleep.
+
+Lennox-Gastaut syndrome - wider criteria:
+
+* At least one the following criteria must be met:
+
+  i. Tonic seizures. ii. Multiple types of seizures, including generalised tonic-clonic seizures, atypical absence seizures, atonic seizures, myoclonic seizures, myoclonic-atonic se

@@ -1,0 +1,23 @@
+Title: Treatment of Cognitive and Negative Symptoms in Schizophrenia With N-acetylcysteine
+Official title: Mechanisms of Improving Cognition and Negative Symptoms in Schizophrenia With N-Acetylcysteine: a Magnetic Resonance Spectroscopy Study of Glutamate and Glutathione
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE4.
+Conditions: Schizophrenia; Cognitive Deficits; Schizophrenia; Negative Type
+Interventions: N-acetylcysteine (DRUG); Treatment as Usual (OTHER)
+Summary: The purpose of this study is to attempt to treat cognitive and negative symptoms of schizophrenia, with the nutritional supplement N-acetylcysteine (NAC).
+
+Schizophrenia is a chronic mental disorder that affects approximately 65 million people worldwide, and causes significant disability and suffering. Patients with schizophrenia often hear voices and have persecutory delusions. Though these are the most recognizable features of the illness, the deficits most closely linked to disability are known as cognitive deficits and negative symptoms. Cognitive abilities refer to the ability to perform mental tasks that require focus and attention, and also include memory and verbal skills. Negative symptoms refer to a lack of interest in the world, and decreased social interactions. In our study, the investigators aim to improve these symptoms and deficits by targeting the glutamate system.
+
+Glutamate is the major excitatory neurotransmitter in the brain, and its regulation is abnormal in schizophrenia: glutamate levels are too low at some receptors, and too high at others. As well, free radicals surrounding glutamate receptors also interfere with their proper function. N-acetylcystine (NAC
+Eligibility: Inclusion Criteria:
+
+* Meet DSM-5 criteria for schizophrenia or schizoaffective disorder
+* Must be able to provide informed consent to participate in the research project
+
+Exclusion Criteria:
+
+* Actively participating in other experimental drug trial(s) either currently or within the past month
+* Psychiatric hospitalization within the previous three months
+* Medical hospitalization or other acute medical problem within the previous three months
+* A greater than 50% change in dose of antipsychotic medication within the previous three months
+* They have met DSM-5 criteria for substance use disorder within the previous three months
+* History of neurological illness including stroke, epilepsy, or loss of consciousness for 60 minutes or more

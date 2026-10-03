@@ -1,0 +1,16 @@
+Title: International CDKL5 Registry
+Official title: Orphan Disease Center CDKL5 Deficiency Disorder International Patient Registry
+Status: SUSPENDED. Type: OBSERVATIONAL. Phases: none.
+Conditions: CDKL5 Deficiency Disorder (CDD)
+Interventions: Survey Instrument (OTHER)
+Summary: Owing to the recent classification of CDKL5 Deficiency Disorder (CDD) as a unique disorder, there is a limited understanding of overall disease natural history and meaningful outcome measures. An international patient registry aimed at collecting both patient/caregiver and clinician-entered demographic, patient-reported outcome (PRO) and treatment data would benefit both the scientific and patient communities. This CDD registry will follow up to 500 patients diagnosed with CDD over several years through both the patients/caregivers and their clinicians. Initial data will be collected upon enrollment in the registry, followed by the collection of additional CDD-specific data on a bi-annual/ annual basis. No procedures will be performed as part of this registry. Clinician-entered data will be collected following standard of care visits conducted as part of patients' ongoing clinical care. Ultimately, the goal is to create a contact registry to allow patients/families to be alerted about relevant clinical trials and to collect valuable information that is accessible to the patient and scientific communities, thereby aiding and encouraging research in CDD.
+Eligibility: Inclusion Criteria:
+
+* Person of any age, living or deceased;
+* Be a patient or the legal guardian (parent or caregiver) of a patient with a diagnosis of CDD (Diagnoses must be confirmed by a clinician or genetic test);
+* Have the ability to understand and complete an informed consent process where applicable per local regulations or have a legal guardian to provide consent on the patient's behalf if the patient is under the legal age, per local regulations, or otherwise unable to provide consent.
+
+Exclusion Criteria:
+
+* Patient with a diagnosis of CDD who is under the legal age, per local regulations, enrolling without a legal guardian;
+* Legal guardian of a patient who is 1) over the legal age, per local regulations, and 2) is able to read and provide consent and enter data. (We require that patients over the legal age who are capable of reading and understanding and informed consent provide data directly.)

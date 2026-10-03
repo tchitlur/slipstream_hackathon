@@ -1,0 +1,26 @@
+Title: Study to Evaluate NBI-921352 as Adjunctive Therapy in Subjects With SCN8A Developmental and Epileptic Encephalopathy Syndrome (SCN8A-DEE)
+Official title: A Phase 2 Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy, Safety, Tolerability, and Pharmacokinetics of NBI-921352 as Adjunctive Therapy in Subjects With SCN8A Developmental and Epileptic Encephalopathy Syndrome (SCN8A-DEE)
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: SCN8A Developmental and Epileptic Encephalopathy Syndrome
+Interventions: NBI-921352 (DRUG); Placebo (DRUG)
+Summary: The objective of this study is to assess the efficacy, safety, and pharmacokinetics of NBI-921352 as adjunctive therapy for seizures in subjects with SCN8A Developmental and Epileptic Encephalopathy Syndrome (SCN8A-DEE).
+Eligibility: Inclusion Criteria:
+
+1. Male or female 2 to 21 years of age, inclusive.
+2. Have a diagnosis of SCN8A-DEE supported by both clinical and genetic findings
+3. Have on average at least 1 countable motor seizure per week and not be seizure-free for more than 20 consecutive days
+4. Being treated with at least 1 other antiseizure medication (ASM), but no more than 4 ASMs
+5. Have failed to achieve seizure freedom with at least 2 ASMs
+6. Must be using a nocturnal alerting system or practice consistent with standards of care at the time of screening and continue to use this for the duration of the study
+7. Must have an adequate rescue medication regimen per the investigator's judgment in place at the time of screening and for the duration of the study
+8. Have a body weight of at least 10 kg
+9. The subject's parent/caregiver is able to accurately identify seizure types, especially countable motor seizures (defined as GTCS, tonic, atonic or FOS with noticeable motor component) and is able to complete seizure diary
+
+Exclusion Criteria:
+
+1. Have previously been enrolled in this study and received blinded treatment
+2. Have participated in an interventional clinical trial \< 30 days prior to screening
+3. Have symptoms that would be more consistent with another epilepsy disorder such as Dravet syndrome (eg, fever-induced episodes of status epilepticus, frequent myoclonic seizures, worsening on sodium channel blockers, absence seizures with generalized spike-and-wave EEG as the sole seizure type)
+4. Are currently receiving cannabinoids or medical marijuana except Epidiolex/Epidyolex, unless approved by the Sponsor
+5. Are currently taking systemic steroids (excluding inhaled medication for asthma treatments and intranasal steroids for allergies). If subject has received these medications in the past, must be off these medications for at least 3 months prior to the screening visit and these drugs may not be initiated during the duration of the study. Intermittent steroids to treat nonepilepsy related diseases (such as allergies or dermatological conditions) are not exclusionary
+6. Have a history of moderate or severe head trauma or other neurological disorders or systemic medical d

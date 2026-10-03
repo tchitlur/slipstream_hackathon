@@ -1,0 +1,28 @@
+Title: A Safety Study of NNZ-2566 in Pediatric Rett Syndrome
+Official title: A Randomized, Double-blind, Placebo-controlled, Dose-ranging Study of the Safety and Pharmacokinetics of Oral NNZ-2566 in Pediatric Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Rett Syndrome
+Interventions: NNZ-2566 (DRUG); Placebo (DRUG)
+Summary: The purpose of this study is to determine whether NNZ-2566 is safe and well tolerated in the treatment of Rett syndrome in children and adolescents.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of classic/typical Rett syndrome with a documented mutation of the MeCP2 gene.
+* Age 5 - 15 years.
+* Weight at Screening and Baseline between 15.0 kg-100.0 kg (at least 15.0 kg and no greater than 100.0 kg).
+* Each subject must be able to swallow the study medication provided as a liquid solution, or via gastrostomy tube.
+
+Exclusion Criteria:
+
+* Actively undergoing neurological regression
+* Abnormal QT interval, prolongation or significant cardiovascular history.
+* Current treatment with insulin.
+* Anti-convulsants with liver enzyme inducing effects.
+* Unstable seizure profile.
+* Excluded concomitant medications.
+* Current clinically significant (as determined by the investigator). cardiovascular, renal, hepatic, or respiratory disease.
+* Gastrointestinal disease which may interfere with the absorption, distribution, metabolism or excretion of the study medication.
+* History of, or current cerebrovascular disease or brain trauma.
+* History of, or current clinically significant endocrine disorder, e.g. hypo- or hyperthyroidism, or diabetes mellitus.
+* History of, or current, malignancy.
+* Significant hearing and/or visual impairments that may affect ability to complete the test procedures.
+* Allergy to strawberry.

@@ -1,0 +1,25 @@
+Title: Trial of Dextromethorphan in Rett Syndrome
+Official title: Trial of Dextromethorphan in Rett Syndrome
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Rett Syndrome
+Interventions: Dextromethorphan (DRUG); Dextromethorphan (DRUG)
+Summary: Increased brain glutamate and its N-methyl-D-aspartate (NMDA) receptors found in the brain of younger Rett syndrome (RTT) patients cause toxic damage to neurons (the brain's nerve cells), and contributing to EEG spikes. Dextromethorphan (DM) acts by blocking NMDA/glutamate receptors. This study is being done to determine if DM will prevent the harmful over-stimulation of the neurons thereby reducing EEG spike activity. Treatment with DM consists of one of 3 different doses (0.25 mg/kg per day; or 2.5 mg/kg/day; or 5mg/kg/day), and aims to find out which dose if any will help improve EEG abnormalities, behavior, cognition, and reduce seizures, as well as improve breathing abnormalities, motor capabilities, bone density, and GI dysfunction.
+
+The study will include 90 females and males with RTT, 2 years-14.99 years of age, with a mutation in the methyl CpG binding protein 2 (MECP2) gene, and spikes on EEG, with or without clinical seizures.
+Eligibility: Inclusion Criteria:
+
+1. those who have classic or atypical RTT with a proven mutation in the MeCP2 gene;
+2. those with documented EEG evidence of spike activity who may or may not have clinical seizures;
+3. subjects must be between 2years -14.99 years of age.
+
+Exclusion Criteria:
+
+1. those without an established mutation in the MeCP2 gene;
+2. those who do not have EEG evidence of spike activity;
+3. those with mutations in the MeCP2 gene but who have had brain resection or surgical intervention; for example, tumor, hydrocephalus, severe head trauma; or, an associated severe medical illnesses such as vasculopathies, malignancies, diabetes, thyroid dysfunction, etc;
+4. those on medications that could interact with DM, e.g. monoamine oxidase (MAO) inhibitors, selective serotonin reuptake inhibitor (SSRI), sibutramine etc. to avoid a serotonin syndrome; quinidine and drugs metabolized by the Cytochrome P450 (CYP450) isoform cytochrome P450 2D6 (CYP2D6) (e.g. amiodarone, haloperidol, propafenone, thioridazine);
+5. those proven to be intermediate or slow metabolizers of DM;
+6. those with reported adverse reactions to DM;
+7. those whose pregnancy test is positive; and,
+8. those showing poor compliance with any aspect of the study;
+9. foster children

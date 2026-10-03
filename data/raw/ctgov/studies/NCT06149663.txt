@@ -1,0 +1,17 @@
+Title: Intermediate-Size Expanded Access Protocol (EAP) for LP352
+Official title: Expanded Access Treatment with LP352 for Patients with Developmental and Epileptic Encephalopathies (DEEs) Who Successfully Completed an LP352 Clinical Trial (Intermediate-Size EAP)
+Status: AVAILABLE. Type: EXPANDED_ACCESS. Phases: none.
+Conditions: Dravet Syndrome; Lennox Gastaut Syndrome; Developmental and Epileptic Encephalopathies
+Interventions: LP352 (DRUG)
+Summary: This is an intermediate-size expanded access program (EAP) study. The purpose of this EAP is to provide continued access to LP352, an investigational drug product being investigated in participants with DEEs. The EAP study will allow continued treatment with LP352 for eligible participants diagnosed with treatment resistant DEEs who successfully completed an LP352 Clinical Trial (Enrollment by Invitation) or an immediate family member who has the exact same gene mutation resulting in the same DEE epilepsy syndrome phenotype or a patient who previously participated in the lorcaserin EAP.
+Eligibility: Inclusion Criteria:
+
+1. Participant and/or participant's legally authorized representative is willing and able to provide a written informed consent or assent form before participation in this EAP. An assent should be obtained from the patient, if possible. Assent must be obtained for adolescent EAP patients (\<18 years of age) as required by local regulations.
+2. Participant with DEE who has successfully completed an LP352 Clinical Trial.
+3. Participant currently has clinical benefit from LP352 treatment, as assessed by their Treating Physician.
+4. Participant currently tolerates LP352 treatment and has no safety issue which would prevent continued treatment.
+
+Exclusion Criteria:
+
+1. Participant was discontinued from an LP352 Clinical Trial for any reason.
+2. Any serious and/or unstable new medical condition, psychiatric disorder, or other conditions at the time of transition to this EAP that could interfere with patient's safety, obtaining informed consent, assent, or compliance to this EAP protocol, in the opinion of the Treating Physician.

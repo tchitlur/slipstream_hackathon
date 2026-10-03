@@ -1,0 +1,15 @@
+Title: The Rett Syndrome Global Registry
+Official title: The Rett Syndrome Global Registry
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: Rett Syndrome
+Interventions: none
+Summary: The Rett Global Registry is a fully remote, global, caregiver-reported registry to collect information about caring for a loved one with Rett syndrome. In addition, caregivers have the ability to track and graph their loved one's symptoms and care strategies over time, store information for central access, and opt-in to complete medical record consolidation and summary. Qualified researchers and therapeutic developers may request access to de-identified aggregate information to further Rett research, or assist with clinical development planning to facilitate and expedite more effective clinical trials.
+Eligibility: Inclusion Criteria:
+
+1. Parent/caregiver must be willing and able to provide written informed consent electronically prior to entering data into the registry.
+2. Rett individuals of any age, living or deceased, must have a diagnosis of Rett syndrome and/or have a mutation in MECP2.
+
+Exclusion Criteria:
+
+1. Individuals who have a genetic mutation that is inconsistent with Rett syndrome or who have a different disorder.
+2. Individuals with MECP2 Duplication Syndrome

@@ -1,0 +1,25 @@
+Title: Treatment of Rett Syndrome With Recombinant Human IGF-1
+Official title: Pharmacological Treatment of Rett Syndrome by Stimulation of Synaptic Maturation With Recombinant Human IGF-1(Mecasermin [rDNA] Injection)
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Rett Syndrome
+Interventions: Recombinant Human Insulin Growth Factor 1 (rhIGF-1) (DRUG); Placebo (DRUG)
+Summary: Investigators are recruiting children for a clinical trial using the medication recombinant human IGF-1 (a.k.a. mecasermin or INCRELEX) to see if it improves the health of children with Rett syndrome (RTT). While IGF-1 is approved by the Food \& Drug Administration (FDA) for certain use in children, it is considered an investigational drug in this trial because it has not previously been used to treat RTT. Information from this study will help determine if IGF-1 effectively treats RTT but will not necessarily lead to FDA approval of IGF-1 as a treatment for RTT.
+Eligibility: Inclusion Criteria:
+
+* Diagnosis of "classic" (or "typical") Rett Syndrome
+* Genetic documentation of MECP2 mutation
+* Subject must be post-regression (Hagberg Stage 2)
+* Subject and caregiver's primary language must be English
+* Subject must reside in North America (US and Canada)
+* Caregiver must have internet access and be able to complete questionnaires online and communicate via email
+* Subject is stable on current medications for at least 4 weeks
+* Subject's regimen of non-pharmacological interventions (physical therapy, speech therapy, etc.) is stable for at least 90 days
+
+Exclusion Criteria:
+
+* Severe scoliosis (curvature \>40 degrees)
+* Bone-age greater than 11 years
+* Cardiomegaly (enlarged heart)
+* Tanner stage 2 or higher breast development
+* Allergy to IGF-1
+* Prior use of IGF-1, growth hormone, or sex steroids

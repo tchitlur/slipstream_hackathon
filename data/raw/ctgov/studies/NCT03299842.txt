@@ -1,0 +1,17 @@
+Title: A Study to Assess the Usability of the Embrace Seizure Detection Watch in Children and Young Adults With Dravet Syndrome
+Official title: An Exploratory, Pilot Study to Assess the Usability of the Embrace Seizure Detection Watch in Children and Young Adults With Dravet Syndrome: A Sub-study to the ZX008-1503 Open-Label Extension Trial
+Status: TERMINATED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Dravet Syndrome
+Interventions: ZX008 (Fenfluramine Hydrochloride) (DRUG)
+Summary: This is an exploratory sub-study to ZX008-1503 \[NCT02823145\]. Subjects will be fitted with an Embrace seizure detection watch and seizures detected by the watch will be compared to those entered into an electronic seizure diary.
+Eligibility: Inclusion Criteria:
+
+* Meeting all of the main study ZX008-1503 \[NCT02823145\] inclusion criteria
+* Subject is willing to wear the Embrace watch on the wrist (alternatively ankle, if needed for younger children). Subjects are asked to wear the watch for as many hours of the day as possible and for the entire night, if possible, for the duration of the sub-study.
+* Subject's parent/caregiver is willing to use the Alert App.
+* Subject/subject's caregiver is willing to ensure that the Embrace watch remains within close proximity of the paired iPod Touch running the Empatica Alert app.
+
+Exclusion Criteria:
+
+* Subject has a known hypersensitivity to any of the Embrace device materials.
+* Subject has a clinically significant condition, or has had clinically relevant symptoms or a clinically significant illness in the 4 weeks prior to Visit 1, other than epilepsy, that would negatively impact study participation, collection of study data, or pose a risk to the subject.

@@ -1,0 +1,13 @@
+Title: International CDKL5 Clinical Research Network
+Official title: Multi-Site Validation of Biomarkers and Core Clinical Outcome Measures for Clinical Trials Readiness in CDKL5 Deficiency Disorder
+Status: RECRUITING. Type: OBSERVATIONAL. Phases: none.
+Conditions: CDKL5; CDKL5 Deficiency Disorder; CDD
+Interventions: No intervention. (OTHER)
+Summary: Pathogenic variants in the Cyclin-dependent kinase like 5 (CDKL5) gene cause CDKL5 deficiency disorder (CDD, MIM 300672, 105830), a severe developmental and epileptic encephalopathy associated with cognitive and motor impairments and cortical visual impairment. While capability for disease modifying therapies is accelerating, there is a critical barrier for clinical trial readiness that may result in failure of these therapies, not due to lack of efficacy but due to lack of validated outcome measures and biomarkers. The measures and biomarkers validated here will be adaptable to other developmental and epileptic encephalopathies.
+Eligibility: Inclusion Criteria:
+
+* All children diagnosed with CDD age 1-month to 100 years of age that are receiving care at one of the study institutions or are registered with the International CDKL5 Disorder Database will be considered for the study population.
+
+Exclusion Criteria:
+
+* Individuals who do not meet study inclusion criteria.

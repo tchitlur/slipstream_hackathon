@@ -1,0 +1,22 @@
+Title: Turmeric as Treatment in Epilepsy
+Official title: Turmeric as Treatment in Epilepsy
+Status: WITHDRAWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Epilepsy; Dravet Syndrome; Lennox-Gastaut Syndrome; Tuberous Sclerosis; Focal Seizures
+Interventions: Turmeric (DIETARY_SUPPLEMENT)
+Summary: This is a single center open-label pilot clinical trial of patients 1-70 years of age with greater than 6 seizures per month diagnosed with Dravet Syndrome, Lennox-Gastaut Syndrome, Tuberous Sclerosis, or focal seizures. Twenty patients will be enrolled and treated with a stable dose of orally administered turmeric oil daily for 3 months. Patients and caregivers will be asked to keep a seizure diary logging all clinical events during the course of the study. Serum comprehensive metabolic panel, complete blood count with differential, and antiseizure medication levels, will be monitored at baseline, 1.5 months, and at the end of 3 months.
+Eligibility: Inclusion Criteria:
+
+* Patients with greater than greater than six seizures per month diagnosed with Dravet Syndrome, Lennox-Gastaut Syndrome, Tuberous Sclerosis, or focal seizures followed at NYU CEC.
+
+Exclusion Criteria:
+
+* Patients expected to have changes to any medications or supplements during study period
+* exposure to any investigational agent in the month prior to study entry
+* pregnant or breast feeding women, positive pregnancy test
+* history of non-compliance
+* known drug or alcohol dependence
+* known baseline hematologic
+* liver function
+* renal function
+* absorption
+* absorption

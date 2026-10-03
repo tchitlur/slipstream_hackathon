@@ -1,0 +1,26 @@
+Title: A Trial of Two Fixed Doses of ZX008 (Fenfluramine HCl) in Children and Young Adults With Dravet Syndrome
+Official title: A Multicenter, Randomized, Double-blind, Parallel Group, Placebo-controlled Trial of Two Fixed Doses of ZX008 (Fenfluramine Hydrochloride) Oral Solution as an Adjunctive Therapy in Children and Young Adults With Dravet Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Dravet Syndrome; Seizure Disorder
+Interventions: ZX008 (Fenfluramine Hydrochloride) (DRUG); Matching Placebo (DRUG)
+Summary: Study 1 and Study 3 are the prospective, merged analyses of 2 identical double-blind, placebo-controlled studies, ZX008-1501 and ZX008-1502, to assess the efficacy, safety, and pharmacokinetics of ZX008 when used as adjunctive therapy in pediatric and young adult subjects with Dravet syndrome. Study 1501 and Study 1502 were conducted in parallel; Study 1501 was conducted at approximately 30 study sites in North America; Study 1502 was conducted at approximately 30 study sites in Europe, Asia and Australia. Upon completion of the Baseline Period after initial Screening and Baseline charting of seizure frequency, subjects who qualified for the studies were randomized (1:1:1) in a double-blind manner to receive either 1 of 2 doses of ZX008 (0.2 mg/kg/day or 0.8 mg/kg/day; maximum dose: 30 mg/day) or placebo. Randomization was stratified by age group (\< 6 years, ≥6 to 18 years) to achieve balance across treatment arms, with the target of 25% of subjects in each age group. All subjects were titrated to their randomized dose over a 14-day Titration Period. Following titration, subjects continued treatment at their randomly assigned dose over a 12-week Maintenance Period. Subjects exitin
+Eligibility: Key Inclusion Criteria:
+
+* Male or non-pregnant, non-lactating female, age 2 to 18 years, inclusive as of the day of the Screening Visit.
+* Clinical diagnosis of Dravet syndrome, where convulsive seizures are not completely controlled by current antiepileptic drugs.
+* Must have a minimum # of convulsive seizures per 4-week period for past 12 weeks prior to screening.
+* All medications or interventions for epilepsy must be stable for at least 4 weeks prior to screening and expected to remain stable throughout the study.
+* No cardiovascular or cardiopulmonary abnormality based on ECHO, ECG or physical examination.
+* Parent/caregiver is willing and able to be compliant with diary completion, visit schedule and study drug accountability.
+
+Key Exclusion Criteria:
+
+* Pulmonary arterial hypertension.
+* Current or past history of cardiovascular or cerebrovascular disease, such as cardiac valvulopathy, myocardial infarction or stroke.
+* Current or past history of glaucoma.
+* Moderate or severe hepatic impairment.
+* Receiving concomitant therapy with: anorectic agents; monoamine-oxidase inhibitors; medications that act via serotonin including serotonin reuptake inhibitors; atomoxetine, or other centrally-acting noradrenergic agonist; or cyproheptadine.
+* Currently receiving or has received stiripentol in the past 21 days prior to Screening.
+* Currently taking carbamazepine, oxcarbamazepine, eslicarbazepine, phenobarbital, or phenytoin, or has taken any of these within the past 30 days.
+* Positive result on tetrahydrocannabinol (THC) or cannabidiol (CBD) test at the Screening Visit.
+* A clinically significant medical condition,that would interfere with study participation, collection of study data, or pose a risk to the subject.

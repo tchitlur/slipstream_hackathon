@@ -1,0 +1,26 @@
+Title: The Role of Probiotics PS128 in Movement Disorders
+Official title: The Role of Probiotics PS128 in Movement Disorders
+Status: UNKNOWN. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rett Syndrome; Tourette Syndrome; Tic Disorders
+Interventions: Probiotic-Lactobacillus plantarum PS128 (DIETARY_SUPPLEMENT); Placebo (DIETARY_SUPPLEMENT)
+Summary: Pediatric movement disorders comprise of a large number of different neurological diseases including Rett syndrome (RTT) and Tourette syndrome. Studies in the literature as well as our preliminary reports showed that Rett syndrome and Tourette syndrome/Tic disorders are associated with a dysbiosis of the gut microbiota compared to normal control. Probiotic Lactobacillus plantarum PS128 is a diet supplement that available for human consumption. Probiotic Lactobacillus plantarum PS128 had showed psychotropic effects such as ameliorate anxiety- and depression-like behaviors as well as altered the level of neurotransmitters such as dopamine in the brain in animal models, which might be through microbiota-gut-brain axis. Therefore, the purpose of this study is to access the possible neurobehavior effects of Probiotic Lactobacillus plantarum PS128 in Rett syndrome and Tic disorders/Tourette syndrome.
+Eligibility: Inclusion Criteria:
+
+* Rett syndrome:
+* Males and females who have classic or atypical RTT diagnosed under consensus criteria
+* Age: 1-50 years
+* Tic disorders:
+* males and females with clinical diagnosis
+* Age: 8-18years
+* Treatment naive 4 weeks prior to study
+* Those with standard medications, dosage stable 4 weeks prior to study
+* AADC syndrome:
+* Males and females with AADC diagnosis
+* Age: 1-50 years
+
+Exclusion Criteria:
+
+* Those who took probiotic or probiotic related product 4 weeks prior to the study or during the study
+* Those who took antibiotic 4 weeks prior to the study
+* Those showing poor compliance with any aspect of the study
+* Those had adverse reactions to PS128

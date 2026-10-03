@@ -1,0 +1,16 @@
+Title: Extended Access Program With Lorcaserin For The Treatment of Dravet Syndrome and Other Refractory Epilepsies
+Official title: Extended Access Program and Retrospective Chart Review for Lorcaserin in Dravet Syndrome and Other Refractory Epilepsies
+Status: AVAILABLE. Type: EXPANDED_ACCESS. Phases: none.
+Conditions: Epilepsies, Myoclonic; Drug Resistant Epilepsy
+Interventions: Lorcaserin (DRUG)
+Summary: The primary purpose of this study is to provide continued access of lorcaserin to participants with Dravet syndrome and other refractory epilepsies.
+Eligibility: Inclusion Criteria:
+
+1. Confirmed diagnosis of Dravet syndrome (according to Recommendation from a North American Consensus Panel, 2017) or other refractory epilepsy (per the judgment of the treating physician)
+2. Male or female, age at least 2 years at the time of informed consent
+3. Currently treated with lorcaserin, that the treatment is for Dravet syndrome or other refractory epilepsies, and the treatment was initiated before 13 Feb 2020; or has completed Study E2023-A001-304
+4. Has a clinical benefit from lorcaserin in the opinion of the treating physician
+
+Exclusion Criteria:
+
+None

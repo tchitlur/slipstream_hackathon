@@ -1,0 +1,26 @@
+Title: A Study to Investigate the Efficacy and Safety of ZX008 (Fenfluramine Hydrochloride) as an Adjunctive Therapy in Children and Adults With Lennox-Gastaut Syndrome
+Official title: A Two-Part Study of ZX008 in Children and Adults With Lennox-Gastaut Syndrome (LGS); Part 1: A Randomized, Double-blind, Placebo-controlled Trial of Two Fixed Doses of ZX008 (Fenfluramine Hydrochloride) Oral Solution as Adjunctive Therapy for Seizures in Children and Adults With LGS, Followed by Part 2: An Open-label Extension to Assess Long-Term Safety of ZX008 in Children and Adults With LGS
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE3.
+Conditions: Lennox Gastaut Syndrome
+Interventions: ZX008 0.2 or 0.8 mg/kg/day (DRUG); Matching Placebo (DRUG)
+Summary: This is a two-part, multicenter, double-blind, parallel-group, placebo controlled study to evaluate the effect of ZX008 when used as adjunctive therapy for the treatment of uncontrolled seizures in children and adults with Lennox-Gastaut syndrome (LGS).
+Eligibility: Key Inclusion Criteria:
+
+* Male or non-pregnant, non-lactating female, age 2 to 35 years, inclusive as of the day of the Screening Visit.
+* Clinical diagnosis of Lennox-Gastaut syndrome, where seizures that result in drops are not completely controlled by current antiepileptic treatments.
+* Onset of seizures at 11 years of age or younger.
+* Abnormal cognitive development.
+* Must be receiving at least 1 concomitant AED and up to 4 concomitant anti-epileptic treatments.
+
+Key Exclusion Criteria:
+
+* Etiology of seizures is a degenerative neurological disease.
+* History of hemiclonic seizures in the first year of life.
+* Subject only has drop seizures in clusters, where individual seizures cannot be counted reliably.
+* Pulmonary arterial hypertension.
+* Current or past history of cardiovascular or cerebrovascular disease, such as cardiac valvulopathy, myocardial infarction or stroke.
+* Receiving concomitant therapy with: centrally-acting anorectic agents; monoamineoxidase inhibitors; any centrally-acting compound with clinically appreciable amount of serotonin agonist or antagonist properties, including serotonin reuptake inhibition; atomoxetine, or other centrally-acting noradrenergic agonist; cyproheptadine.
+* Taking felbamate for less than 1 year prior to screening and/or does not have stable liver function and hematology laboratory tests, and/or the dose has not been stable for at least 60 days prior to the Screening Visit.
+* Currently receiving an investigational product.
+* Institutionalized in a general nursing home (ie, in a facility that does not specialize in epilepsy care).
+* A clinically significant condition, or has had clinically relevant symptoms or a clinically significant illness in the 4 weeks prior to the Screening Visit, other than epilepsy, that would negatively impact study participation, collection of study data, or pose a risk to the subject.

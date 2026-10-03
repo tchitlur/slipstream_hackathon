@@ -1,0 +1,26 @@
+Title: Single-Dose AAV-MECP2 Safety/Tolerability and Efficacy in Rett Syndrome
+Official title: Study on the Safety, Tolerability, and Preliminary Efficacy of Single Intrathecal Injection of AAV-MECP2 in the Treatment of Rett Syndrome
+Status: ACTIVE_NOT_RECRUITING. Type: INTERVENTIONAL. Phases: EARLY_PHASE1.
+Conditions: Rett Syndrome
+Interventions: Intrathecal injection of AAV-MECP2 for the treatment of Rett syndrome (GENETIC)
+Summary: Rett syndrome (RTT) is a serious neurodevelopmental disorder that has a significant impact on patients and their families. Patients suffer from severe social dysfunction and poor quality of life, and there is currently no effective treatment available. The MECP2 functional loss mutation is the clear pathogenic factor. In recent years, gene therapy has been applied in neuromuscular diseases such as SMA and has achieved good safety and effectiveness. Professor Qiu Zilong's self-developed AAV-MECP2 gene therapy product for RTT was found to significantly improve disease symptoms in RTT model mice, and demonstrated good safety in heath injection testing in monkeys. The dose exploration study of AAV-MECP2 initiated by our researchers is a multicenter, single arm, single intrathecal injection. The plan is to explore two target doses, with 5 subjects enrolled in dose 1 and 3 subjects enrolled in dose 2, to evaluate the safety, tolerability, and preliminary efficacy of single intrathecal injection of AAV-MECP2 in the treatment of RTT.
+Eligibility: Inclusion Criteria:
+
+1. 4-10 years old (at the time of signing the informed consent form), female, who meets the typical RTT diagnosis criteria in 2010.
+2. Gene testing confirms functional loss mutations in the MECP2 gene.
+3. Complete all Class I vaccination required by the national regulations before the age of enrollment, and the final dose of vaccination must be completed at least 42 days before enrollment.
+4. Participate in this study with the informed consent of the guardian, understand the risks of intrathecal injection procedures, and agree to collect blood, urine, and cerebrospinal fluid biological samples required for the experiment, as well as receive necessary blood or blood product treatment or other necessary medical treatment if necessary for the condition.
+
+Exclusion Criteria:
+
+1. Suffering from neurodevelopmental disorders other than MECP2 gene functional loss mutations, or pathogenic gene mutations other than MECP2 gene functional loss mutations discovered by whole exome sequencing.
+2. Abnormal neurological function caused by traumatic brain injury or suffocation and hypoxia.
+3. Through MRI scan, brain tumors or intracranial space-occupying lesions are detected.
+4. Comprehensive abnormal psychomotor development has occurred within 6 months after birth.
+5. Diagnosed as atypical RTT.
+6. Has MECP2 gene mutation, but clinical diagnosis does not match RTT.
+7. Need invasive respiratory support.
+8. There are contraindications for lumbar puncture or intrathecal injection, including high cerebrospinal fluid pressure, obvious skin infection at the puncture site, trauma, epidural abscess, severe spinal lesions, deformities, spinal cord compression, bleeding tendency (bleeding tendency caused by the use of heparin, warfarin, etc.
+9. Have experienced status epilepticus (\> 30 minutes) or recurrent unstable seizure control (\> 2 generalized seizures per week) in the past 3 months.
+10. In addition to RTT, there are other unstable systemic diseases, including active bacteria, fungi, or HIV, hepatitis A, hepatitis B infection.
+11. There are significant laboratory indicators with abnormalities: any detection value of alanine aminotransferase (ALT), aspartate amin

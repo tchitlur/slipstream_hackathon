@@ -1,0 +1,29 @@
+Title: Ataluren for Nonsense Mutation in CDKL5 and Dravet Syndrome
+Official title: A Phase 2 Randomized, Double-Masked Placebo-Controlled Crossover Safety and Tolerability Study of Ataluren for Drug Resistant Epilepsy in Patients With Nonsense Mutation CDKL5 or Dravet Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: PHASE2.
+Conditions: Epilepsy
+Interventions: ataluren (DRUG); Placebo (DRUG)
+Summary: This is a phase 2, crossover study of Ataluren for the treatment of nonsense mutation Dravet syndrome or cyclin-dependent kinase-like 5 (CDKL5) deficiency, resulting in drug-resistant epilepsy. Patients will receive 12 weeks of ataluren or placebo during each treatment period. Treatment Period 1 will be followed by a 4-week Washout Period. Based on ataluren PK and pharmacodynamic data, the 4-week washout period is deemed an appropriate length of time to eliminate any ataluren drug effects. Following the Washout Period, patients will crossover to receive the opposite treatment during Treatment Period 2 as follows: Patients receiving ataluren during Treatment Period 1 will receive placebo during Treatment Period 2. Patients receiving placebo during Treatment Period 1 will receive ataluren during Treatment Period 2.
+Eligibility: Inclusion Criteria:
+
+1. Age ≥ 2 years old and ≤ 12 years old, male or female, at Week 0 (at time informed consent/assent is signed)
+2. Documentation of a diagnosis of Dravet syndrome or CDKL5 deficiency resulting from a nonsense mutation in 1 allele, as evidenced by medical records, genetic testing, and the following clinical feature:
+
+   a. Failure to control seizures despite appropriate trial of 2 or more AEDs at therapeutic doses
+3. Between 1 to 3 baseline AEDs at stable doses for a minimum for 4 weeks prior to the Baseline visit
+
+   a. Vagus nerve stimulator (VNS), ketogenic diet, and modified Atkins diet do not count towards this limit but must be unchanged for 3 months prior to enrollment (Baseline).
+4. VNS must be on stable settings for a minimum of 3 months prior to the Baseline visit
+5. If on ketogenic or modified Atkins diet, must be on stable ratio for a minimum of 3 months prior to the Baseline visit
+6. Written consent obtained from the patient or patient's legal representative must be obtained prior to performing any study procedures
+7. Minimum of 6 convulsive or drop seizures with duration \> 3 seconds over the 4 weeks of diary screening prior to randomization and ≥ 6 convulsive or drop seizures with duration \> 3 seconds during the 4 weeks from Screening to Baseline.
+
+Exclusion Criteria:
+
+1. Patient is \< 2 years old or ≥ 12 years old
+2. Epilepsies associated with genetic disorders other than Dravet syndrome or CDKL5 deficiency
+3. Patient has Dravet or CDKL5 genetic mutations that are NOT nonsense mutations
+4. Felbatol has been initiated within the past 12 months prior to the Screening Visit
+5. Patients who are currently or have participated in clinical trials in the 30 days prior to enrollment (Baseline Visit)
+6. Prior or ongoing medical condition (eg, concomitant illness, psychiatric condition), medical history, physical findings, or laboratory abnormality that, in the investigator's opinion, could adversely affect the safety of the patient, makes it unlikely that the course of study drug administration or follow-up would be completed, or could impair the assessment of study results.
+7. Ongoing intravenous administration of aminoglycosides or va

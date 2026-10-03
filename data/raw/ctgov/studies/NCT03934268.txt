@@ -1,0 +1,18 @@
+Title: A Cohort Study on the Prognosis of Neonatal KCNQ2 Gene-associated Epileptic Encephalopathy
+Official title: A Cohort Study on the Prognosis of Neonatal KCNQ2 Gene-associated Epileptic Encephalopathy
+Status: UNKNOWN. Type: OBSERVATIONAL. Phases: none.
+Conditions: Seizures; Seizure Disorder; Seizure Newborn; Seizures, Generalized; Epileptic Encephalopathy; Epileptic Encephalopathy, Neonatal-onset; Epileptic Encephalopathy, Infant-onset; KCNQ2
+Interventions: KCNQ2 (GENETIC)
+Summary: The researchers hope to explore the etiological distribution and influencing factors of KCNQ2-related neonatal convulsions or refractory epileptic encephalopathy, and to improve the level of assessment, identification, intervention and shunt of KCNQ2-related convulsions. To formulate countermeasures and measures for prevention, management and health education.
+Eligibility: Inclusion Criteria:
+
+* Primary or initial convulsion
+* Postnatal age \<28 days.
+* Seizure in the neonatal period
+* Informed consent of parents
+
+Exclusion Criteria:
+
+* Seizure caused by congenital cerebral hypoplasia or multiple structural malformations.
+* Seizure caused by other system-related syndromes.
+* Seizure caused by perinatal or postpartum factors such as HIE, infection, intracranial hemorrhage, etc.

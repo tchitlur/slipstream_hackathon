@@ -1,0 +1,19 @@
+Title: Osteopathic Manipulative Treatment for Constipation in People With Rett Syndrome
+Official title: Investigation on the Effects of an Osteopathic Manipulative Treatment for Constipation in People With Rett Syndrome
+Status: COMPLETED. Type: INTERVENTIONAL. Phases: NA.
+Conditions: Rett Syndrome
+Interventions: Osteopathic manipulative treatment (OTHER)
+Summary: Constipation consists of bowel symptoms characterized by difficulty or infrequency passage of stool, stiff stool, or a feeling of incomplete evacuation. However, its impact goes far beyond this definition. Constipation negatively impacts the quality of life (QoL) of children and adults suffering from this condition, affecting mental and physical-related QoL. Additionally, a negative impact of constipation on QoL was found in parents carrying children with constipation, affecting family functioning.
+
+People with an intellectual disability present a constipation rate of over 33%. Rett syndrome (RTT) is a complex neurodevelopmental disorder affecting about 1/10,000 females and a few males worldwide. Chronic constipation is persistent in people with RTT, with a reported prevalence higher than 74%.
+
+Specific recommendations for constipation management in RTT were developed, including behavioral, pharmacological, and surgical considerations. Recently, the literature has been enriched with papers describing the osteopathic treatment efficacy in reducing constipation. Emerging literature reported the efficacy of OMT in reducing constipation symptoms and improving QoL in typically developed
+Eligibility: Inclusion Criteria:
+
+* diagnosis of classic Rett syndrome with a mutation of the MECP2 gene;
+* matching the ROME IV criteria for constipation;
+
+Exclusion Criteria:
+
+* the presence of specific severe heart and cardiovascular diseases;
+* the presence of amenorrhea.
