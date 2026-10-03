@@ -11,6 +11,7 @@ import { humanAllelic } from "@/lib/format";
 import { SameGeneNotice, VariantNotice } from "@/components/Notices";
 import { CommunitySection } from "@/components/CommunitySection";
 import { InvestigatorList } from "@/components/InvestigatorList";
+import { ResolvedNotice } from "@/components/ResolvedNotice";
 
 export const dynamic = "force-static";
 
@@ -74,6 +75,7 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
   return (
     <EvidenceProvider evidence={evidence}>
       <article className="space-y-10">
+        <ResolvedNotice shown={c.name} />
         {/* 1. Header */}
         <header className="space-y-3">
           <div className="text-xs uppercase tracking-wide text-muted">

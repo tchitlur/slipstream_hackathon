@@ -10,16 +10,15 @@ export function generateStaticParams() {
   return getStore().atlas.genes.filter((g) => g.depth === "deep").map((g) => ({ symbol: g.symbol }));
 }
 
-export default async function GenePage({ params, searchParams }: { params: Promise<{ symbol: string }>; searchParams: Promise<{ via?: string; q?: string }> }) {
+export default async function GenePage({ params }: { params: Promise<{ symbol: string }> }) {
   const { symbol } = await params;
-  const sp = await searchParams;
   const store = getStore();
   const gene = store.atlas.genes.find((g) => g.symbol.toUpperCase() === symbol.toUpperCase());
   if (!gene) notFound();
   const conds = gene.conditionIds.map((id) => store.conditions.get(id)!).filter(Boolean);
   return (
     <div className="space-y-6">
-      <ResolvedNotice via={sp.via} q={sp.q} shown={gene.symbol} />
+      <ResolvedNotice shown={gene.symbol} />
       <header>
         <div className="text-xs uppercase tracking-wide text-muted">Gene</div>
         <h1 className="text-3xl">{gene.symbol}</h1>

@@ -7,6 +7,7 @@ import { buildSearchIndex } from "./lib/search";
 import { log } from "./lib/io";
 import { updateManifest } from "./lib/manifest";
 import { generateBriefs } from "./lib/briefs";
+import { readLedger } from "./lib/llm";
 
 async function main() {
   const args = parseArgs();
@@ -16,6 +17,12 @@ async function main() {
   });
   if (args.flags.has("search-only")) return;
   await generateBriefs(args.limit ?? 5);
+  const l = readLedger();
+  updateManifest((m) => {
+    m.llm.spendUsd = l.totalUsd;
+    m.llm.byStage = Object.fromEntries(Object.entries(l.byStage).map(([k, v]) => [k, { calls: v.calls, inputTokens: v.inputTokens, outputTokens: v.outputTokens, usd: v.usd }]));
+    m.llm.models = { ...m.llm.models, ...l.models };
+  });
   log("S10", "done");
 }
 

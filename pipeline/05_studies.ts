@@ -310,8 +310,10 @@ async function main() {
     m.counts.studiesAboutCondition = about.length;
     m.counts.studiesDiscardedNotAbout = Object.values(studies).filter((s) => s.classification && !s.classification.aboutCondition).length;
     m.counts.studiesWithMechanismExclusion = excludes.length;
-    m.counts.t2QuotesVerified = (m.counts.t2QuotesVerified ?? 0) + verifiedQuotes;
-    m.counts.t2QuotesDiscarded = (m.counts.t2QuotesDiscarded ?? 0) + discardedQuotes;
+    // Recomputed over every classified study (cached calls re-run for free), so re-runs do not accumulate.
+    const classified = Object.values(studies).filter((s) => s.classification);
+    m.counts.t2QuotesVerified = classified.reduce((a, s) => a + (s.classification!.quoteVerified ? 1 : 0) + (s.classification!.excludesQuoteVerified ? 1 : 0), 0);
+    m.counts.t2QuotesDiscarded = classified.reduce((a, s) => a + (s.classification!.quoteVerified ? 0 : 1) + (s.classification!.excludesQuoteVerified === false ? 1 : 0), 0);
     m.thresholds.studiesMaxPerGene = MAX_PER_GENE;
     const l = readLedger();
     m.llm.spendUsd = l.totalUsd;

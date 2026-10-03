@@ -5,7 +5,7 @@
  */
 import { parseArgs, deepGenes } from "./lib/args";
 import { fetchJsonCached } from "./lib/http";
-import { readValidated, readJsonOr, writeJson, log, uniq, slugify } from "./lib/io";
+import { readValidated, readJsonOr, writeJson, log, uniq } from "./lib/io";
 import { files } from "./lib/paths";
 import { writeEvidence } from "./lib/evidence";
 import { updateManifest } from "./lib/manifest";

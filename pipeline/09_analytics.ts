@@ -28,13 +28,12 @@ import {
   type TransferPair,
   type TransferVerdict,
   type CounterCode,
-  type Neighbor,
   type Cluster,
   type Study,
 } from "../src/lib/schemas";
 import { computeLadder, aheadOn, isUsableStudyStatus, MILESTONES } from "../src/lib/ladder";
 import { mechanismRelation } from "../src/lib/roads";
-import { RULES, COUNTER_PRIORITY, ALWAYS_C2, COUNTER_REASONS, type RuleContext } from "../src/lib/transferRules";
+import { RULES, COUNTER_PRIORITY, ALWAYS_C2, type RuleContext } from "../src/lib/transferRules";
 import { closureOf } from "../src/lib/similarity";
 import { z } from "zod";
 
@@ -141,7 +140,6 @@ async function main() {
       const nbTargeted = nbStudies.filter((s) => s.classification?.aboutCondition && s.classification.role === "interventional_targeted");
       const nbRegistry = nbStudies.filter((s) => s.classification?.aboutCondition && (s.classification.role === "natural_history" || s.classification.role === "registry"));
       const nbOrgs = orgs.filter((o) => o.conditionIds.includes(nb.id));
-      const nbLadder = ladders[nb.id].milestones;
       const ctx: RuleContext = {
         simBand: n.band ?? "low",
         relation: n.relation ?? "unknown",

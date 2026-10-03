@@ -3,7 +3,7 @@
  "byStage": {
   "S5": {
    "calls": 599,
-   "cachedCalls": 357,
+   "cachedCalls": 714,
    "inputTokens": 762654,
    "outputTokens": 105983,
    "usd": 1.0489140000000015,
@@ -34,7 +34,7 @@
    "model": "gpt-5.4"
   }
  },
- "updatedAt": "2026-10-03T20:36:01.665Z",
+ "updatedAt": "2026-10-03T20:39:16.945Z",
  "models": {
   "T2": "gpt-5.4-mini",
   "T1": "gpt-5.4",

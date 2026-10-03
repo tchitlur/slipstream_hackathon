@@ -4,7 +4,7 @@
  * share of intersection weight that comes from low-information terms (below the median IC).
  * Cutoffs (edge, high, medium) are percentiles of the observed pairwise distribution.
  */
-import { readValidated, writeJson, log } from "./lib/io";
+import { readValidated, log } from "./lib/io";
 import { files } from "./lib/paths";
 import { writeEvidence } from "./lib/evidence";
 import { updateManifest } from "./lib/manifest";

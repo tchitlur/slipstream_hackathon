@@ -6,7 +6,7 @@
  * G2P record's own curated HPO terms, then gene + disease-name matching through
  * genes_to_phenotype.txt. Ambiguous gene matches are left unmatched (method "none").
  */
-import { readValidated, writeJson, log, uniq } from "./lib/io";
+import { readValidated, writeJson, log } from "./lib/io";
 import { files } from "./lib/paths";
 import { loadOntology, loadHpoa, loadGenesToPhenotype, makeClosure, diseaseUrl, PHENOTYPIC_ABNORMALITY } from "./lib/hpo";
 import { writeEvidence } from "./lib/evidence";

@@ -69,7 +69,7 @@ function main() {
   let doc = fs.existsSync(p) ? fs.readFileSync(p, "utf8") : "# Data notes\n\n";
   const block = lines.join("\n");
   if (/<!-- generated:start[\s\S]*<!-- generated:end -->/.test(doc)) doc = doc.replace(/<!-- generated:start[\s\S]*<!-- generated:end -->/, block);
-  else doc = doc.replace(/## Reported expectations \(SPEC section 11\)[\s\S]*?(?=## Observations|$)/, `## Reported expectations (SPEC section 11)\n\n${block}\n\n`);
+  else doc = doc.replace(/## Reported expectations \(SPEC section 11\)[\s\S]*$/, `## Reported expectations (SPEC section 11)\n\n${block}\n`);
   fs.writeFileSync(p, doc);
   console.log(block);
 }

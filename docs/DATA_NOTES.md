@@ -23,11 +23,9 @@ Observations for the human to review. Where fetched data contradicts an expectat
 - Gene2Phenotype curates SCN8A-related epileptic encephalopathy as dominant negative rather than gain of function, and KCNQ2-related epileptic encephalopathy as gain of function; both differ from how some of the literature describes them. The data was kept as curated, and the contested flags record the disagreement where it reached the threshold.
 - Phenotype match methods: none 187, hpoa_xref 2457, g2p_record 129, gene_name 93; thin annotation (<5 terms): 312.
 - Studies: 1044 retrieved, 212 classified as about a condition, 357 discarded as not about it (gene panels, broad epilepsy studies). 13 studies exclude a variant class in their eligibility text.
-- Quotes: 1646 verified verbatim, 72 discarded.
+- Quotes: 1230 verified verbatim, 51 discarded.
 - Disease-model literature returned at least one paper for every deep gene, so milestone 5 does not discriminate within this slice; the count and top PMIDs are shown so a reader can judge depth.
 - Demo candidates (section 9.6): 3; top: STX1B -> SLC6A1, PCDH19 -> SLC6A1, IQSEC2 -> SLC6A1.
-- LLM spend (upper-bound price estimate): $3.07.
+- LLM spend (upper-bound price estimate): $3.33.
 
 <!-- generated:end -->
-
-## Observations
