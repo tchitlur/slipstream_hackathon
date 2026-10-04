@@ -300,7 +300,7 @@ async function main() {
   // encephalopathy term in its name/phenotypes; its organization passed the automated check; its own mechanism carries no
   // flag; it is not X-linked; a same-road high-similarity neighbor is ahead on both registry/NHS (4) and targeted trial (7);
   // a high-similarity opposite-direction neighbor exists whose mechanism is unflagged (gives a clean "do not transfer").
-  const demo: { conditionId: string; neighborId: string; counterexampleId?: string; score: number; reason: string; tier: number }[] = [];
+  const demo: { conditionId: string; neighborId: string; counterexampleId?: string; score: number; reason: string; tier: number; alternativeNeighborIds: string[] }[] = [];
   const studiesWithExclusion = new Set(studies.filter((s) => s.classification?.excludesMechanism).flatMap((s) => s.conditionIds));
   const earlyOnset = /epilep|encephalopath|infantile|neonatal|spasm|seizure/i;
   for (const c of atlas.conditions.filter((c) => c.depth === "deep")) {
@@ -312,9 +312,16 @@ async function main() {
     const terms = (ph.conditionTerms[c.id] ?? []).map((t) => ph.terms[t]?.label ?? "").join(" ");
     const onsetOk = earlyOnset.test(c.name) || earlyOnset.test(terms);
     const ns = (sim.neighbors[c.id] ?? []).filter((n) => !n.sameGene);
-    const sameRoad = ns
-      .filter((n) => n.relation === "same road" && n.band === "high" && (n.aheadOn ?? []).includes(4) && (n.aheadOn ?? []).includes(7) && !condById.get(n.id)!.contested)
+    const sameRoadAll = ns.filter((n) => n.relation === "same road" && n.band === "high" && !condById.get(n.id)!.contested);
+    let sameRoad = sameRoadAll
+      .filter((n) => (n.aheadOn ?? []).includes(4) && (n.aheadOn ?? []).includes(7))
       .sort((a, b) => Number(studiesWithExclusion.has(b.id)) - Number(studiesWithExclusion.has(a.id)) || (b.aheadOn!.length - a.aheadOn!.length) || b.similarity - a.similarity);
+    // Tier 4 (home-page fill-in only): neighbor ahead on registry/NHS or targeted trial, not both.
+    let partial = false;
+    if (!sameRoad.length) {
+      sameRoad = sameRoadAll.filter((n) => (n.aheadOn ?? []).includes(4) || (n.aheadOn ?? []).includes(7)).sort((a, b) => (b.aheadOn!.length - a.aheadOn!.length) || b.similarity - a.similarity);
+      partial = true;
+    }
     // Counterexample: an unflagged opposite-direction neighbor, high band preferred, medium band accepted (tier 2).
     const oppHigh = ns.find((n) => n.relation === "opposite direction" && n.band === "high" && !condById.get(n.id)!.contested);
     const oppMed = ns.find((n) => n.relation === "opposite direction" && n.band === "medium" && !condById.get(n.id)!.contested);
@@ -325,18 +332,19 @@ async function main() {
     const best = sameRoad[0];
     const nb = condById.get(best.id)!;
     const score = lacking.length * 2 + best.aheadOn!.length * 2 + (studiesWithExclusion.has(best.id) ? 3 : 0) + best.similarity + (opposite?.similarity ?? 0);
-    const caveats = [xLinked ? "X-linked inheritance does not fit a plain reading of the road label" : "", !orgOk ? "no organization passed the automated check" : "", !opposite ? "no unflagged opposite-direction neighbor above the medium cutoff" : opposite === oppMed ? "counterexample is at medium, not high, similarity" : ""].filter(Boolean);
+    const caveats = [partial ? "neighbor is ahead on only one of registry/NHS and targeted trial" : "", xLinked ? "X-linked inheritance does not fit a plain reading of the road label" : "", !orgOk ? "no organization passed the automated check" : "", !opposite ? "no unflagged opposite-direction neighbor above the medium cutoff" : opposite === oppMed ? "counterexample is at medium, not high, similarity" : ""].filter(Boolean);
     demo.push({
       conditionId: c.id,
       neighborId: best.id,
       counterexampleId: opposite?.id,
       score: Number(score.toFixed(2)),
       tier,
+      alternativeNeighborIds: sameRoad.slice(1, 6).map((n) => n.id),
       reason: `${c.geneSymbol} lacks ${lacking.length} of milestones 4-7 and has an unflagged ${c.mechanism} mechanism; ${nb.geneSymbol} (same road, similarity ${best.similarity}) is ahead on ${best.aheadOn!.map((m) => MILESTONES[m - 1].short).join(", ")}${studiesWithExclusion.has(best.id) ? " and has a trial whose eligibility excludes a variant class" : ""}${opposite ? `; ${condById.get(opposite.id)!.geneSymbol} (similarity ${opposite.similarity}, ${opposite.band}) is an unflagged opposite-direction neighbor` : ""}.${caveats.length ? " Caveats: " + caveats.join("; ") + "." : ""}`,
     });
   }
   demo.sort((a, b) => a.tier - b.tier || b.score - a.score);
-  writeJson(files.demoCandidates, demo.slice(0, 10));
+  writeJson(files.demoCandidates, demo.slice(0, 12));
 
   writeJson(files.ladders, { ladders }, { pretty: false });
   writeSimilarity(sim.cutoffs, sim.neighbors);

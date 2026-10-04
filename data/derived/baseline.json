@@ -1,5 +1,5 @@
 {
- "computedAt": "2026-10-04T01:15:26.086Z",
+ "computedAt": "2026-10-04T01:24:44.117Z",
  "pairs": [
   {
    "orgId": "org:dravet-syndrome-foundation",
@@ -214,15 +214,15 @@
    "conditionIds": [
     "cond:G2P00683"
    ],
-   "studyId": "NCT02000167",
-   "studyTitle": "Mitochondrial Dysfunction in Phelan-McDermid Syndrome",
+   "studyId": "NCT02461420",
+   "studyTitle": "Mapping the Genotype, Phenotype, and Natural History of Phelan-McDermid Syndrome",
    "studyRole": "natural_history",
-   "studyStartDate": "2012-05",
-   "years": 10.3,
+   "studyStartDate": "2015-05",
+   "years": 13.3,
    "evidenceIds": [
     "ev:seed:org:phelan-mcdermid-syndrome-foundation",
     "ev:seed:org:phelan-mcdermid-syndrome-foundation:registry",
-    "ev:ctgov:NCT02000167:role"
+    "ev:ctgov:NCT02461420:role"
    ]
   },
   {

@@ -5,6 +5,9 @@
   "counterexampleId": "cond:G2P00371",
   "score": 11.39,
   "tier": 2,
+  "alternativeNeighborIds": [
+   "cond:G2P00683"
+  ],
   "reason": "DYRK1A lacks 2 of milestones 4-7 and has an unflagged loss of function mechanism; TCF4 (same road, similarity 0.2155) is ahead on Registry / NHS, Targeted trial and has a trial whose eligibility excludes a variant class; DNM1 (similarity 0.1762, medium) is an unflagged opposite-direction neighbor. Caveats: counterexample is at medium, not high, similarity."
  },
  {
@@ -12,6 +15,7 @@
   "neighborId": "cond:G2P00319",
   "score": 14.31,
   "tier": 3,
+  "alternativeNeighborIds": [],
   "reason": "STX1B lacks 3 of milestones 4-7 and has an unflagged loss of function mechanism; SLC6A1 (same road, similarity 0.3082) is ahead on Patient org, Registry / NHS, NIH funding, Targeted trial. Caveats: no organization passed the automated check; no unflagged opposite-direction neighbor above the medium cutoff."
  },
  {
@@ -20,6 +24,18 @@
   "counterexampleId": "cond:G2P03542",
   "score": 8.57,
   "tier": 3,
+  "alternativeNeighborIds": [],
   "reason": "PCDH19 lacks 2 of milestones 4-7 and has an unflagged loss of function mechanism; SLC6A1 (same road, similarity 0.3029) is ahead on Registry / NHS, Targeted trial; MAST3 (similarity 0.2716, high) is an unflagged opposite-direction neighbor. Caveats: X-linked inheritance does not fit a plain reading of the road label."
+ },
+ {
+  "conditionId": "cond:G2P00062",
+  "neighborId": "cond:G2P02415",
+  "counterexampleId": "cond:G2P00371",
+  "score": 8.44,
+  "tier": 3,
+  "alternativeNeighborIds": [
+   "cond:G2P00495"
+  ],
+  "reason": "ARX lacks 2 of milestones 4-7 and has an unflagged loss of function mechanism; SMC1A (same road, similarity 0.2398) is ahead on Patient org, Registry / NHS; DNM1 (similarity 0.2009, medium) is an unflagged opposite-direction neighbor. Caveats: neighbor is ahead on only one of registry/NHS and targeted trial; X-linked inheritance does not fit a plain reading of the road label; no organization passed the automated check; counterexample is at medium, not high, similarity."
  }
 ]

@@ -86,8 +86,10 @@ async function main() {
           const inTitle = re.test(p.project_title ?? "");
           const mentions = ((p.abstract_text ?? "").match(new RegExp(`\\b${symbol}\\b`, "g")) ?? []).length;
           const context = CONTEXT.test(`${p.project_title ?? ""} ${p.abstract_text ?? ""}`);
-          // Keep when the gene is in the title, or the abstract names it at least twice in a developmental-disorder context.
-          if (!inTitle && !(mentions >= 2 && context)) {
+          // Keep when the project reads as a developmental-disorder / epilepsy project (CONTEXT) and names the gene in the
+          // title or at least twice in the abstract. A title mention alone is not enough: DYRK1A beta-cell and SNAP25
+          // vesicle-biology grants name the gene without being about the condition.
+          if (!context || !(inTitle || mentions >= 2)) {
             droppedByRelevance.add(coreProjectNumber(p.project_num));
             continue;
           }

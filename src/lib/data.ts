@@ -27,7 +27,7 @@ function readJson<T>(name: string, fallback: T): T {
   return JSON.parse(fs.readFileSync(p, "utf8")) as T;
 }
 
-type DemoCandidate = { conditionId: string; neighborId: string; counterexampleId?: string; score: number; reason: string };
+type DemoCandidate = { conditionId: string; neighborId: string; counterexampleId?: string; score: number; reason: string; tier?: number; alternativeNeighborIds?: string[] };
 
 type Store = {
   atlas: Atlas;

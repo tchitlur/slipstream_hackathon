@@ -1,0 +1,75 @@
+{
+  "reviewedAt": "2026-10-04",
+  "reviewer": "automated re-check (Claude reading the ClinicalTrials.gov API record); not a clinical review",
+  "checked": [
+    "NCT01525901",
+    "NCT02000167",
+    "NCT02461420",
+    "NCT02710084",
+    "NCT03426059",
+    "NCT03493607",
+    "NCT03836300",
+    "NCT04003207",
+    "NCT04132427",
+    "NCT04312152",
+    "NCT04623398",
+    "NCT05025241",
+    "NCT05025332",
+    "NCT05105685",
+    "NCT05165017",
+    "NCT05187377",
+    "NCT06321796",
+    "NCT06662188",
+    "NCT07014020",
+    "NCT07119606",
+    "NCT07135050",
+    "NCT07150026",
+    "NCT07281079",
+    "NCT07593391",
+    "NCT07690527"
+  ],
+  "overrides": {
+    "NCT02000167": {
+      "aboutCondition": true,
+      "role": "other",
+      "modality": "none",
+      "excludesMechanism": null,
+      "reason": "Observational CASE_CONTROL study whose stated purpose is 'to determine whether a relationship exists between gene deletion(s) specific to the mitochondrial electron transport chain and presentation of clinical characteristics' (genotype-phenotype association), not a longitudinal follow-up of the disease course, so natural_history is replaced by other."
+    },
+    "NCT04003207": {
+      "aboutCondition": true,
+      "role": "interventional_targeted",
+      "modality": "enzyme_or_protein",
+      "excludesMechanism": null,
+      "reason": "Record states growth hormone was chosen to raise IGF-1 in SHANK3-deficient PMS: 'Growth hormone increases insulin like growth factor 1 (IGF-1) levels and a previous trial of IGF-1 therapy in PMS children showed improvement' and 'rise in IGF-1 stimulated by growth hormone (GH) administration should produce improvement ... as previously demonstrated with use of IGF-1', the same SHANK3-biology rationale under which the IGF-1 trial NCT01525901 is labelled targeted."
+    },
+    "NCT05105685": {
+      "aboutCondition": true,
+      "role": "interventional_targeted",
+      "modality": "enzyme_or_protein",
+      "excludesMechanism": null,
+      "reason": "Record frames rhGH as acting through the IGF-1 axis used in the earlier PMS IGF-1 trial: 'rhGH can improve PMS symptoms via increase the level of serum insulin-like growth factor-1 (IGF-1) and insulin-like growth factor binding protein 3 (IGFBP-3)', so it is labelled targeted for consistency with NCT01525901 and NCT04003207."
+    },
+    "NCT06662188": {
+      "aboutCondition": true,
+      "role": "interventional_targeted",
+      "modality": "gene_therapy",
+      "excludesMechanism": null,
+      "reason": "Inclusion criterion requires 'a molecular confirmation of a loss of function mutation in SHANK3 or a 22q13.3 deletion classified as a Class I deletion', which restricts the eligible genotype and excludes larger (non-Class I) 22q13.3 deletions. [Not surfaced as a mechanism exclusion: the record states an inclusion restriction and no verbatim exclusion sentence was verified.]"
+    },
+    "NCT07150026": {
+      "aboutCondition": true,
+      "role": "interventional_targeted",
+      "modality": "small_molecule",
+      "excludesMechanism": null,
+      "reason": "Detailed description states the drug was chosen for the gene mechanism: 'vorinostat mitigates the impact of the underlying TCF4 gene mutation in PTHS patients by restoring downstream mRNA synthesis', so it is targeted rather than symptomatic."
+    },
+    "NCT07690527": {
+      "aboutCondition": true,
+      "role": "interventional_targeted",
+      "modality": "gene_therapy",
+      "excludesMechanism": null,
+      "reason": "Record is a long-term follow-up of 'the RB001-101 gene replacement therapy clinical trial for Children With SHANK3-related Phelan-McDermid Syndrome', registered as INTERVENTIONAL with RB001 (an AAV SHANK3 gene therapy) as the intervention and primary purpose TREATMENT; the study tracks a targeted gene therapy, so modality none/role other are replaced."
+    }
+  }
+}

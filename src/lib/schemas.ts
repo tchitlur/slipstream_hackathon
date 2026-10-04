@@ -493,8 +493,9 @@ export const DemoCandidateSchema = z.object({
   counterexampleId: z.string().optional(),
   score: z.number(),
   reason: z.string(),
-  /** 1 = every criterion met; 2 = counterexample only at medium similarity; 3 = X-linked, no checked organization, or no counterexample. */
+  /** 1 = every criterion met; 2 = counterexample only at medium similarity; 3 = X-linked, no checked organization, or no counterexample; 4 = neighbor ahead on only one of milestones 4 and 7. */
   tier: z.number().int().default(1),
+  alternativeNeighborIds: z.array(z.string()).default([]),
 });
 export const DemoCandidatesFileSchema = z.array(DemoCandidateSchema);
 

@@ -10,8 +10,20 @@ export default function Home() {
   // Three examples pointing at three different neighbors ahead, where the candidate list allows it.
   const demoAll = getDemoCandidates();
   const demo: typeof demoAll = [];
-  for (const d of demoAll) if (!demo.some((x) => x.neighborId === d.neighborId) && demo.length < 3) demo.push(d);
-  for (const d of demoAll) if (demo.length < 3 && !demo.includes(d)) demo.push(d);
+  const usedNeighbors = new Set<string>();
+  const usedConditions = new Set<string>();
+  for (const d of demoAll) {
+    if (demo.length >= 3 || usedConditions.has(d.conditionId)) continue;
+    const neighborId = !usedNeighbors.has(d.neighborId) ? d.neighborId : (d.alternativeNeighborIds ?? []).find((id) => !usedNeighbors.has(id));
+    if (!neighborId) continue;
+    demo.push({ ...d, neighborId });
+    usedNeighbors.add(neighborId);
+    usedConditions.add(d.conditionId);
+  }
+  for (const d of demoAll) if (demo.length < 3 && !usedConditions.has(d.conditionId)) {
+    demo.push(d);
+    usedConditions.add(d.conditionId);
+  }
   const fallback = store.atlas.conditions.filter((c) => c.depth === "deep").slice(0, 3);
   const examples = demo.length
     ? demo.map((d) => ({ c: getCondition(d.conditionId)!, nb: getCondition(d.neighborId), reason: d.reason }))

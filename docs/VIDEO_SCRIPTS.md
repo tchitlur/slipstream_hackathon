@@ -33,7 +33,7 @@ Demo pair: DYRK1A-related intellectual developmental disorder (`/condition/G2P01
 | 0:26–0:36 | Open https://slipstreamhackathon.vercel.app/condition/G2P01608 ; show the orange "Mechanism is contested" banner, click one PMID link | Drawer with the curated record and the contradicting published claim side by side | "We cross-check curated mechanism against verified published claims, then re-read every disagreement. Three conditions are genuinely contested, thirteen have both directions documented in patients, and twenty claims were rejected on review and kept for audit." |
 | 0:36–0:46 | Back to /method, scroll to "Transfer rules" | The R1 to R7 table and the verdict counts line | "The ladder is computed, not generated: 212 studies, 427 NIH projects and 51 automatically checked patient organizations. Seven typed transfer rules produce 19,992 verdicts, each with the strongest counter-reason." |
 | 0:46–0:53 | Terminal: run `npm run check` (or show a recording of it) | The line "all invariants hold" | "A validator enforces the invariants: every claim cites existing evidence, every extracted quote matches its source, every verdict has a counter-reason." |
-| 0:53–0:59 | /method, scroll to "Estimated LLM spend" | The stat row | "What did not work: a price-table bug briefly tripled our spend estimate and stalled the strong-model re-checks until we rebuilt the ledger from the cache. Total pipeline spend: about $3.45, upper-bound estimate." |
+| 0:53–0:59 | /method, scroll to "Estimated LLM spend" | The stat row | "What did not work: a price-table bug briefly tripled our spend estimate and stalled the strong-model re-checks until we rebuilt the ledger from the cache. Total pipeline spend: about $3.46, upper-bound estimate." |
 
 ## 3. Team (55 s)
 

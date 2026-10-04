@@ -132,7 +132,7 @@ export function Ladder({ rows, focalId }: { rows: LadderRow[]; focalId: string }
                         className={`w-full h-10 rounded flex flex-col items-center justify-center gap-0 ${cls} ${ahead ? "cell-ahead" : ""} hover:brightness-95 focus-visible:outline-2`}
                       >
                         <StatusGlyph status={m.status} />
-                        {m.flags.length > 0 && m.status === "found" && <span className="text-[9px] leading-none opacity-80">{m.flags[0].startsWith("support") ? m.flags[0].replace("support: ", "") : m.flags[0].includes("unverified") ? "unverified" : m.flags[0] === "auto-checked" ? "auto" : m.flags[0] === "symptoms only" ? "symptoms" : m.flags[0] === "targets genetic cause" ? "cause" : m.flags[0] === "acts on pathway" ? "pathway" : m.flags[0].startsWith("single") ? "1 study" : "flag"}</span>}
+                        {m.flags.length > 0 && m.status === "found" && <span className="text-[9px] leading-none opacity-80">{m.flags[0].startsWith("support") ? m.flags[0].replace("support: ", "") : m.flags[0].includes("unverified") ? "unverified" : m.flags[0] === "auto-checked" || m.flags[0] === "org auto-checked" ? "auto" : m.flags[0].startsWith("status:") ? "inactive" : m.flags[0] === "few records" ? "few" : m.flags[0] === "symptoms only" ? "symptoms" : m.flags[0] === "targets genetic cause" ? "cause" : m.flags[0] === "acts on pathway" ? "pathway" : m.flags[0].startsWith("single") ? "1 study" : "flag"}</span>}
                       </button>
                     </td>
                   );
