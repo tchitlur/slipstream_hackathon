@@ -13,6 +13,8 @@ import { AtlasSchema, StudiesFileSchema, LiteratureFileSchema, type Grant, type 
 import { mergeInvestigators, type RawMention } from "../src/lib/investigators";
 
 const REPORTER = "https://api.reporter.nih.gov/v2/projects/search";
+/** A gene-symbol hit counts only when the project is plainly about the gene in a developmental/epilepsy context. */
+const CONTEXT = /epilep|seizure|epileptic encephalopath|developmental and epileptic|neurodevelopment|intellectual disab|autis|developmental (delay|disorder|disabilit)|rett syndrome|dravet|angelman|tuberous sclerosis|pitt.hopkins|phelan.mcdermid|kbg syndrome|glut1|infantile spasm|lennox|west syndrome|channelopath|haploinsufficien|rare (genetic |neurological |pediatric )?(disease|disorder)|monogenic|neurogenetic|pathogenic variant|loss.of.function|gain.of.function/i;
 const LIMIT = 50;
 
 function fiscalYears() {
@@ -50,9 +52,16 @@ async function main() {
   for (const c of atlas.conditions) if (c.depth === "deep") (condsByGene.get(c.geneSymbol) ?? condsByGene.set(c.geneSymbol, []).get(c.geneSymbol)!).push(c);
   const fys = fiscalYears();
   const existing = readJsonOr<{ genesSearched?: string[]; grants: Record<string, Grant> } | null>(files.funding, null);
-  const grants: Record<string, Grant> = { ...(existing?.grants ?? {}) };
+  // Start from existing grants only for genes not in this run, so a tightened rule actually drops records.
+  const runGenes = new Set(genes);
+  const grants: Record<string, Grant> = {};
+  for (const [id, g] of Object.entries(existing?.grants ?? {})) {
+    const gGenes = g.conditionIds.map((cid) => atlas.conditions.find((c) => c.id === cid)?.geneSymbol).filter(Boolean) as string[];
+    if (gGenes.some((sym) => !runGenes.has(sym))) grants[id] = g;
+  }
   const genesSearched = uniq([...(existing?.genesSearched ?? []), ...genes]);
   const evidence: Evidence[] = [];
+  const droppedByRelevance = new Set<string>();
 
   for (const symbol of genes) {
     const conds = condsByGene.get(symbol) ?? [];
@@ -70,10 +79,18 @@ async function main() {
         continue;
       }
       for (const p of res.data.results ?? []) {
-        // Gene-symbol queries over abstract text are noisy: require the symbol as a whole word in title or abstract.
+        // Gene-symbol queries over abstract text are noisy. Keep a gene-symbol hit only if the symbol is in the title,
+        // or the abstract names the symbol and reads as a developmental-disorder / epilepsy project (CONTEXT).
         if (q.text === symbol) {
           const re = new RegExp(`\\b${symbol}\\b`);
-          if (!re.test(p.project_title ?? "") && !re.test(p.abstract_text ?? "")) continue;
+          const inTitle = re.test(p.project_title ?? "");
+          const mentions = ((p.abstract_text ?? "").match(new RegExp(`\\b${symbol}\\b`, "g")) ?? []).length;
+          const context = CONTEXT.test(`${p.project_title ?? ""} ${p.abstract_text ?? ""}`);
+          // Keep when the gene is in the title, or the abstract names it at least twice in a developmental-disorder context.
+          if (!inTitle && !(mentions >= 2 && context)) {
+            droppedByRelevance.add(coreProjectNumber(p.project_num));
+            continue;
+          }
         }
         const core = coreProjectNumber(p.project_num);
         const id = `grant:${core}`;
@@ -143,11 +160,12 @@ async function main() {
   updateManifest((m) => {
     m.sources.reporter = { url: REPORTER, version: `FY${fys[0]}-${fys[3]}`, retrievedAt: new Date().toISOString() };
     m.counts.grants = Object.keys(grants).length;
+    m.counts.grantsDroppedByRelevance = [...droppedByRelevance].filter((n) => !grants[`grant:${n}`]).length;
     m.counts.investigators = investigators.length;
     m.counts.investigatorRawMentions = raws.length;
     m.counts.bridges = investigators.filter((i) => i.isBridge).length;
   });
-  log("S8", `${Object.keys(grants).length} grants; ${investigators.length} investigators from ${raws.length} mentions; ${investigators.filter((i) => i.isBridge).length} bridges`);
+  log("S8", `${[...droppedByRelevance].filter((n) => !grants[`grant:${n}`]).length} gene-symbol hits dropped as not about the condition; ${Object.keys(grants).length} grants; ${investigators.length} investigators from ${raws.length} mentions; ${investigators.filter((i) => i.isBridge).length} bridges`);
 }
 
 main().catch((e) => {

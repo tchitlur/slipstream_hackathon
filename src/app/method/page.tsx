@@ -9,6 +9,17 @@ import { RoadDot, KindBadge } from "@/components/Badges";
 
 export const dynamic = "force-static";
 
+type TherapySeed = { condition: string; conditionName?: string; therapy: string; regulator: string; source?: string; url: string; indicationQuote?: string; approvalYear?: number; targets?: string; targetsNote?: string; verified: boolean; check?: { status: string; date: string } };
+function readTherapies(): TherapySeed[] {
+  const p = path.join(process.cwd(), "data", "seed", "approved_therapies.json");
+  if (!fs.existsSync(p)) return [];
+  try {
+    return JSON.parse(fs.readFileSync(p, "utf8")) as TherapySeed[];
+  } catch {
+    return [];
+  }
+}
+
 function readLimitations(): string[] {
   const p = path.join(process.cwd(), "docs", "LIMITATIONS.md");
   if (!fs.existsSync(p)) return [];
@@ -25,6 +36,9 @@ export default function MethodPage() {
   const c = m?.counts ?? {};
   const t = m?.thresholds ?? {};
   const limitations = readLimitations();
+  const therapies = readTherapies();
+  const baseline = store.baseline;
+  const enoughPairs = Boolean(baseline && baseline.pairs.length >= 4 && baseline.medianYears !== null);
   const deep = store.atlas.conditions.filter((x) => x.depth === "deep").length;
   return (
     <article className="space-y-12 max-w-4xl">
@@ -44,6 +58,7 @@ export default function MethodPage() {
             ["#counter", "Counter-reasons"],
             ["#llm", "Language-model use"],
             ["#tenx", "The 10x case"],
+            ["#therapies", "Approved therapies"],
             ["#limits", "Limitations"],
           ].map(([h, l]) => (
             <a key={h} href={h} className="underline">
@@ -235,7 +250,104 @@ export default function MethodPage() {
           <li>Assumption: phenotype annotation depth is adequate for both conditions (C6 flags when it is not).</li>
           <li>Assumption: readiness milestones are a reasonable proxy for a community&apos;s distance from a natural history study.</li>
         </ul>
-        <p className="text-sm border border-line rounded-md p-3 bg-paper-2">Baseline timeline: to be supplied with a source. No multiplier is shown until a sourced baseline for the time a small patient group typically needs to reach a funded natural history study has been provided.</p>
+        {enoughPairs ? (
+          <div className="space-y-3">
+            <p className="text-sm text-ink-2">
+              <span className="font-medium text-ink">Baseline computed from this atlas&apos;s own data:</span> for patient organizations that passed the automated site check and state a founding year on their own site, the time from founding to the start of the earliest registry or natural history study for their condition in our ClinicalTrials.gov data.
+            </p>
+            <dl className="grid sm:grid-cols-3 gap-x-6 gap-y-1 text-sm">
+              <Stat k="Pairs" v={baseline!.pairs.length} />
+              <Stat k="Median, years" v={baseline!.medianYears!.toFixed(1)} />
+              <Stat k="Range, years" v={`${baseline!.minYears!.toFixed(1)} to ${baseline!.maxYears!.toFixed(1)}`} />
+            </dl>
+            <table className="w-full text-sm border-separate border-spacing-0">
+              <thead>
+                <tr className="text-left text-xs uppercase tracking-wide text-muted">
+                  <th className="py-1 pr-2 border-b border-line font-normal">Organization (founded)</th>
+                  <th className="py-1 pr-2 border-b border-line font-normal">Earliest registry / NHS study (start)</th>
+                  <th className="py-1 border-b border-line font-normal">Years</th>
+                </tr>
+              </thead>
+              <tbody>
+                {baseline!.pairs
+                  .slice()
+                  .sort((a, b) => a.years - b.years)
+                  .map((p) => (
+                    <tr key={p.orgId} className="align-top">
+                      <td className="py-1.5 pr-2 border-b border-line">
+                        <a href={p.foundedUrl} target="_blank" rel="noopener noreferrer" className="underline">
+                          {p.orgName}
+                        </a>{" "}
+                        ({p.foundedYear})
+                        <div className="text-xs text-muted">“{p.foundedSnippet.slice(0, 140)}{p.foundedSnippet.length > 140 ? "…" : ""}”</div>
+                      </td>
+                      <td className="py-1.5 pr-2 border-b border-line">
+                        <a href={`https://clinicaltrials.gov/study/${p.studyId}`} target="_blank" rel="noopener noreferrer" className="underline">
+                          {p.studyId}
+                        </a>{" "}
+                        <span className="text-ink-2">{p.studyTitle.slice(0, 80)}</span> <span className="text-muted">({p.studyRole.replace(/_/g, " ")}, {p.studyStartDate})</span>
+                        <div className="text-xs text-muted">{p.conditionIds.map((cid) => store.conditions.get(cid)?.geneSymbol).filter(Boolean).join(", ")}</div>
+                      </td>
+                      <td className="py-1.5 border-b border-line tabular-nums">{p.years.toFixed(1)}</td>
+                    </tr>
+                  ))}
+              </tbody>
+            </table>
+            <p className="text-xs text-muted">
+              This counts only groups that did launch a study and whose site states a founding year ({baseline!.orgsWithFoundingYear} of {baseline!.orgsPassed} checked organizations); groups that never reached a study are invisible to it, so the median is a floor, not a typical wait. Study start dates come from ClinicalTrials.gov; a registry run outside that database is not counted.
+            </p>
+            <p className="text-sm border border-line rounded-md p-3 bg-paper-2">
+              <span className="font-medium">Target, not a measured result:</span> if a community adapts a same-cluster neighbor&apos;s protocol and outcome measures instead of designing from scratch, the aim is a fundable natural history study plan within one year of forming, against a median of {baseline!.medianYears!.toFixed(1)} years in the pairs above. That would be roughly a {Math.max(1, Math.round(baseline!.medianYears! / 1))}x shortening <em>under the assumptions listed</em>; nothing in this atlas measures whether any group has achieved it.
+            </p>
+          </div>
+        ) : (
+          <p className="text-sm border border-line rounded-md p-3 bg-paper-2">
+            Baseline timeline: to be supplied with a source. The atlas tried to compute one from organization founding years and earliest registry study start dates, but found {baseline?.pairs.length ?? 0} usable pair{(baseline?.pairs.length ?? 0) === 1 ? "" : "s"} (at least four are required). No multiplier is shown.
+          </p>
+        )}
+      </section>
+
+      <section id="therapies" className="space-y-3">
+        <h2 className="text-2xl">Approved disease-specific therapies (rung 8)</h2>
+        <p className="text-sm text-ink-2">Only entries whose regulator page names the condition in the indication text. Each is labelled by what it acts on: symptoms, the disrupted pathway, or the genetic cause itself. Approval is not evidence of benefit for any individual.</p>
+        {therapies.length ? (
+          <table className="w-full text-sm border-separate border-spacing-0">
+            <thead>
+              <tr className="text-left text-xs uppercase tracking-wide text-muted">
+                <th className="py-1 pr-2 border-b border-line font-normal">Condition</th>
+                <th className="py-1 pr-2 border-b border-line font-normal">Therapy</th>
+                <th className="py-1 pr-2 border-b border-line font-normal">Acts on</th>
+                <th className="py-1 border-b border-line font-normal">Indication text (source)</th>
+              </tr>
+            </thead>
+            <tbody>
+              {therapies.map((t, i) => (
+                <tr key={i} className="align-top">
+                  <td className="py-1.5 pr-2 border-b border-line">
+                    {t.conditionName ?? t.condition} <span className="text-muted">({t.condition})</span>
+                  </td>
+                  <td className="py-1.5 pr-2 border-b border-line">
+                    {t.therapy}
+                    {t.approvalYear ? <span className="text-muted"> · {t.regulator} {t.approvalYear}</span> : <span className="text-muted"> · {t.regulator}</span>}
+                  </td>
+                  <td className="py-1.5 pr-2 border-b border-line">
+                    {t.targets === "genetic_cause" ? "genetic cause" : t.targets === "mechanism" ? "disrupted pathway" : "symptoms"}
+                    {t.targetsNote && <div className="text-xs text-muted">{t.targetsNote}</div>}
+                  </td>
+                  <td className="py-1.5 border-b border-line text-ink-2">
+                    {t.indicationQuote && <>“{t.indicationQuote.slice(0, 220)}{t.indicationQuote.length > 220 ? "…" : ""}” </>}
+                    <a href={t.url} target="_blank" rel="noopener noreferrer" className="underline">
+                      {t.source ?? t.regulator}
+                    </a>
+                    {t.check?.status === "auto" && <span className="text-muted"> · automatically checked {t.check.date}</span>}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        ) : (
+          <p className="text-sm text-muted">None recorded in this build.</p>
+        )}
       </section>
 
       <section id="limits" className="space-y-3">

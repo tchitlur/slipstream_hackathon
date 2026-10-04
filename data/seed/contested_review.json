@@ -1,0 +1,1218 @@
+{
+  "reviewedAt": "2026-10-04",
+  "reviewer": "automated review (Claude reading the cached abstracts); not a biomedical expert review",
+  "method": "Each verbatim quote was read in the context of its full cached abstract (data/raw/pubmed/abstracts). Dominant-negative claims against a curated loss-of-function mechanism were kept when they describe patient variants, but flagged in the condition caveat as a refinement of loss of function rather than an opposite direction.",
+  "claims": {
+    "ev:pubmed:32979291:claim:0": {
+      "pmid": "32979291",
+      "geneSymbol": "SCN3A",
+      "direction": "gain",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": false,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "The sentence summarises mouse-model findings for Scn2a/Scn3a/Scn8a in a paper about Scn1b knockout mice; it was extracted for SCN3A and does not describe human SCN2A patient variants."
+    },
+    "ev:pubmed:31904120:claim:0": {
+      "pmid": "31904120",
+      "geneSymbol": "SCN2A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Review states that one group of SCN2A patients carries gain-of-function variants (with treatment implications), alongside other patients with loss-of-function variants."
+    },
+    "ev:pubmed:38651838:claim:0": {
+      "pmid": "38651838",
+      "geneSymbol": "SCN2A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Functional study of 81 patients: gain-of-function and mixed variants predominate in neonatal-onset epilepsy while loss-of-function variants dominate later-onset epilepsy and autism, so both directions occur in different patients."
+    },
+    "ev:pubmed:17377962:claim:0": {
+      "pmid": "17377962",
+      "geneSymbol": "SATB2",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": true,
+      "confidence": "low",
+      "reason": "A de novo nonsense SATB2 variant in one patient produced stable mRNA, and the authors predict (without direct proof) a truncated protein acting dominant-negatively rather than by simple haploinsufficiency, which is a claim about the same truncating variant class."
+    },
+    "ev:pubmed:35696452:claim:2": {
+      "pmid": "35696452",
+      "geneSymbol": "SCN1A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "States that gain-of-function SCN1A variants cause familial hemiplegic migraine type 3, a different set of patient variants from the loss-of-function Dravet variants."
+    },
+    "ev:pubmed:35696452:claim:3": {
+      "pmid": "35696452",
+      "geneSymbol": "SCN1A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "In 35 patients with early-onset non-Dravet epilepsy, SCN1A variants cluster in inactivation regions linked to gain of function, explicitly distinct from Dravet syndrome variants."
+    },
+    "ev:pubmed:35696452:claim:4": {
+      "pmid": "35696452",
+      "geneSymbol": "SCN1A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Electrophysiology of patient epilepsy variants shows mild gain of function (increased action current), separate from loss-of-function Dravet variants."
+    },
+    "ev:pubmed:35696452:claim:5": {
+      "pmid": "35696452",
+      "geneSymbol": "SCN1A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Same sentence: familial hemiplegic migraine type 3 patient variants show stronger gain of function with increased persistent current."
+    },
+    "ev:pubmed:35696452:claim:6": {
+      "pmid": "35696452",
+      "geneSymbol": "SCN1A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Conclusion that gain-of-function SCN1A disease should be considered in early-onset non-Dravet epilepsies, i.e. a distinct patient group from the loss-of-function spectrum."
+    },
+    "ev:pubmed:31904117:claim:1": {
+      "pmid": "31904117",
+      "geneSymbol": "SCN1A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Review states hemiplegic migraine SCN1A missense mutations cause gain of function, as opposed to the loss of function of epilepsy mutations; different variants, both in patients."
+    },
+    "ev:pubmed:27733563:claim:0": {
+      "pmid": "27733563",
+      "geneSymbol": "KCNA2",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "A familial in-frame deletion (p.255_257del) segregating with episodic ataxia and epilepsy caused dominant-negative loss of channel function in voltage clamp; this is a loss-of-function variant acting dominant-negatively, distinct from the gain-of-function KCNA2 variants."
+    },
+    "ev:pubmed:25751627:claim:0": {
+      "pmid": "25751627",
+      "geneSymbol": "KCNA2",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "In patients with epileptic encephalopathy two de novo KCNA2 mutations showed almost complete loss of function with a dominant-negative effect, while two other patients carried gain-of-function mutations; the paper explicitly describes two mechanisms in different patients."
+    },
+    "ev:pubmed:31353862:claim:0": {
+      "pmid": "31353862",
+      "geneSymbol": "KCNC1",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Three new de novo KCNC1 missense variants in five patients (myoclonus, ID, or epilepsy/ataxia) gave no measurable currents; these are different variants from the recurrent p.Arg320His PME variant."
+    },
+    "ev:pubmed:31353862:claim:1": {
+      "pmid": "31353862",
+      "geneSymbol": "KCNC1",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Same sentence: p.Thr399Met (patient with intellectual disability) showed a dominant-negative effect on wild-type channels."
+    },
+    "ev:pubmed:31353862:claim:2": {
+      "pmid": "31353862",
+      "geneSymbol": "KCNC1",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Same sentence: p.Ala421Val (three patients with epilepsy, ataxia and developmental delay) showed a dominant-negative effect."
+    },
+    "ev:pubmed:31353855:claim:0": {
+      "pmid": "31353855",
+      "geneSymbol": "KCNC1",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Recurrent de novo p.Ala421Val in six DEE patients caused loss of function (reduced whole-cell current) without dominant-negative effect; a different variant from the PME variant."
+    },
+    "ev:pubmed:31353855:claim:1": {
+      "pmid": "31353855",
+      "geneSymbol": "KCNC1",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Three patients with developmental encephalopathy without seizures had different KCNC1 variants that all reduced whole-cell currents (loss of function)."
+    },
+    "ev:pubmed:31353855:claim:2": {
+      "pmid": "31353855",
+      "geneSymbol": "KCNC1",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Summary statement that loss of function is the key feature across the non-PME KCNC1 encephalopathy variants studied; general but grounded in the patient variants of the paper."
+    },
+    "ev:pubmed:33735526:claim:0": {
+      "pmid": "33735526",
+      "geneSymbol": "KCNC1",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": true,
+      "confidence": "high",
+      "reason": "Directly studies the recurrent PME variant p.Arg320His (the variant the curated gain-of-function presumably refers to) and reports a dominant-negative loss-of-function effect in oocytes, so this is a disagreement about the same variant."
+    },
+    "ev:pubmed:25401298:claim:0": {
+      "pmid": "25401298",
+      "geneSymbol": "KCNC1",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": true,
+      "confidence": "high",
+      "reason": "The discovery paper for the recurrent de novo p.Arg320His PME mutation (13 patients) reports a dominant-negative loss-of-function effect, i.e. the same variant the curated mechanism concerns."
+    },
+    "ev:pubmed:28145425:claim:0": {
+      "pmid": "28145425",
+      "geneSymbol": "KCNC1",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": true,
+      "confidence": "high",
+      "reason": "Restates that the PME-causing p.Arg320His variant causes a dominant-negative effect; same variant as the curated mechanism."
+    },
+    "ev:pubmed:28145425:claim:1": {
+      "pmid": "28145425",
+      "geneSymbol": "KCNC1",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "A nonsense variant p.Arg339* in three related patients with intellectual disability without seizures is described as loss of function; a different variant class from the PME variant."
+    },
+    "ev:pubmed:37203213:claim:1": {
+      "pmid": "37203213",
+      "geneSymbol": "KCNC1",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Introductory statement that most KCNC1 pathogenic variants display loss-of-function features in vitro; the paper itself reports a novel gain-of-function DEE variant (V425M), so both directions exist in patients."
+    },
+    "ev:pubmed:39371122:claim:0": {
+      "pmid": "39371122",
+      "geneSymbol": "SPTAN1",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Title/finding: heterozygous frameshift, nonsense and splice variants in 14 families with distal myopathy, with proof of nonsense-mediated decay in patient tissue; a different (truncating) variant class and phenotype from the in-frame dominant-negative epilepsy variants."
+    },
+    "ev:pubmed:39371122:claim:1": {
+      "pmid": "39371122",
+      "geneSymbol": "SPTAN1",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Conclusion of the same study: SPTAN1 loss-of-function variants are associated with childhood-onset distal myopathy in 14 families."
+    },
+    "ev:pubmed:39371122:claim:2": {
+      "pmid": "39371122",
+      "geneSymbol": "SPTAN1",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Key message of the same study: truncating loss-of-function SPTAN1 variants cause a distal weakness syndrome with muscle involvement."
+    },
+    "ev:pubmed:39988451:claim:0": {
+      "pmid": "39988451",
+      "geneSymbol": "SPTAN1",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Two patients (one homozygous p.Gln1448Pro via uniparental disomy, one heterozygous p.Asn1839del) with ataxia/ID or DD and seizures, with zebrafish assays indicating loss-of-function alleles; different variants from the curated dominant-negative set, though the heterozygous in-frame deletion is close to that class."
+    },
+    "ev:pubmed:39988451:claim:1": {
+      "pmid": "39988451",
+      "geneSymbol": "SPTAN1",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Zebrafish expression of the two patient variants indicates both are loss-of-function alleles (one hypomorphic); the assay is in a model but tests the patients' own variants."
+    },
+    "ev:pubmed:40023774:claim:0": {
+      "pmid": "40023774",
+      "geneSymbol": "SPTAN1",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Published version of the 14-family study: heterozygous loss-of-function SPTAN1 variants (de novo or dominantly inherited) cause early childhood distal myopathy; appears to be the same cohort as PMID 39371122."
+    },
+    "ev:pubmed:40023774:claim:1": {
+      "pmid": "40023774",
+      "geneSymbol": "SPTAN1",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Conclusion of the same study linking heterozygous SPTAN1 loss-of-function variants to distal myopathy in 14 unrelated families."
+    },
+    "ev:pubmed:31515523:claim:0": {
+      "pmid": "31515523",
+      "geneSymbol": "SPTAN1",
+      "direction": "loss",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "The quoted sentence is about zebrafish, mouse and rat models of SPTAN1 deficiency; the human finding (biallelic missense variants in two HSP patients) is only suggestive and the loss-of-function mechanism is inferred, not shown."
+    },
+    "ev:pubmed:31332438:claim:0": {
+      "pmid": "31332438",
+      "geneSymbol": "SPTAN1",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Heterozygous nonsense SPTAN1 mutations in three motor neuropathy families undergo nonsense-mediated decay with reduced protein in patient cells; the abstract explicitly contrasts this with the dominant-negative epilepsy mutations."
+    },
+    "ev:pubmed:29758257:claim:1": {
+      "pmid": "29758257",
+      "geneSymbol": "GNAO1",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Mechanistic review: loss-of-function GNAO1 alleles cause epilepsy while gain-of-function alleles are associated with movement disorders; both in patients, different variants."
+    },
+    "ev:pubmed:40229422:claim:0": {
+      "pmid": "40229422",
+      "geneSymbol": "GNAO1",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "The hotspot patient variant p.G203R lost cAMP-enhancing activity and had a dominant-negative effect on neuronal activity in primary neurons; the quote is about therapy development but the mechanism claim concerns the patient variant (note PMID 28747448 classifies G203R as gain of function)."
+    },
+    "ev:pubmed:34875852:claim:0": {
+      "pmid": "34875852",
+      "geneSymbol": "GNAO1",
+      "direction": "gain",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Mouse heart-failure study of Gnao1 overexpression and knockdown in cardiomyocytes; no disease-causing human variants are involved."
+    },
+    "ev:pubmed:34875852:claim:1": {
+      "pmid": "34875852",
+      "geneSymbol": "GNAO1",
+      "direction": "gain",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Cardiac-specific transgenic overexpression in mice is an experimental manipulation, not a patient variant mechanism."
+    },
+    "ev:pubmed:34508586:claim:1": {
+      "pmid": "34508586",
+      "geneSymbol": "GNAO1",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Patient mutations G42R, G203R and R209C introduced into C. elegans (CRISPR) and mice behaved as loss of function with dominant-negative effects; the models carry the patients' own variants, but the evidence is from animals."
+    },
+    "ev:pubmed:24700286:claim:0": {
+      "pmid": "24700286",
+      "geneSymbol": "GNAO1",
+      "direction": "gain",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "The mouse carries an engineered RGS-insensitive G184S knock-in, not a patient variant; the gain-of-function mechanism for EIEE17 is only hypothesised."
+    },
+    "ev:pubmed:28747448:claim:1": {
+      "pmid": "28747448",
+      "geneSymbol": "GNAO1",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Fifteen clinical GNAO1 mutations assayed in vitro: loss-of-function mutations associate with epileptic encephalopathy, gain-of-function mutations with movement disorders; different patient variants in each direction."
+    },
+    "ev:pubmed:30544257:claim:0": {
+      "pmid": "30544257",
+      "geneSymbol": "GRIN2A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "In 248 individuals, missense variants in transmembrane/linker domains predominantly cause NMDAR gain of function (severe phenotypes) while null and ATD/LBD variants cause loss of function; different variant classes."
+    },
+    "ev:pubmed:28212175:claim:0": {
+      "pmid": "28212175",
+      "geneSymbol": "GRIN2D",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "low",
+      "reason": "A review lists gain-of-function mutations in KCNT1, GRIN2A, GRIN2D and SCN8A as precision-medicine examples; it asserts gain-of-function patient mutations exist in these genes but is a passing statement extracted under GRIN2D."
+    },
+    "ev:pubmed:30870728:claim:0": {
+      "pmid": "30870728",
+      "geneSymbol": "GRIN2A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Treatment review stating memantine was used for epileptic encephalopathy caused by a specific gain-of-function GRIN2A mutation; a drug-repurposing context, but it does assert a patient gain-of-function GRIN2A variant."
+    },
+    "ev:pubmed:28611597:claim:1": {
+      "pmid": "28611597",
+      "geneSymbol": "GRIN2A",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Patient-derived p.Arg518His GluN2A still drastically reduced currents when co-expressed with wild type, suggesting a dominant-negative (rather than simple haploinsufficiency) mechanism; refines loss of function for one variant."
+    },
+    "ev:pubmed:40994429:claim:0": {
+      "pmid": "40994429",
+      "geneSymbol": "GRIN2B",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Drug (radiprodil) paper, but states that the human disease-associated GRIN1 and GRIN2B missense variants tested uniformly increase NMDA receptor charge transfer, i.e. gain of function in patient variants."
+    },
+    "ev:pubmed:40994429:claim:1": {
+      "pmid": "40994429",
+      "geneSymbol": "GRIN2B",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Knock-in mouse of the patient variant GluN2B-Ser810Arg, described as a gain-of-function variant associated with early-onset epileptic encephalopathy in patients."
+    },
+    "ev:pubmed:24272827:claim:0": {
+      "pmid": "24272827",
+      "geneSymbol": "GRIN2B",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "De novo GRIN2B pore-loop mutations in two West syndrome patients reduce Mg2+ block and increase Ca2+ influx (gain of function)."
+    },
+    "ev:pubmed:24272827:claim:1": {
+      "pmid": "24272827",
+      "geneSymbol": "GRIN2B",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Conclusion: GRIN2B gain-of-function mutations cause West syndrome and ID with focal epilepsy; a different variant class from loss-of-function GRIN2B variants."
+    },
+    "ev:pubmed:26070663:claim:0": {
+      "pmid": "26070663",
+      "geneSymbol": "WWOX",
+      "direction": "gain",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "A translocation-breakpoint study speculates that an in-frame SIRPG-WWOX fusion \"may lead to gain of function\"; no functional evidence and not a WWOX variant mechanism in the usual sense."
+    },
+    "ev:pubmed:14526170:claim:1": {
+      "pmid": "14526170",
+      "geneSymbol": "WWOX",
+      "direction": "dominant_negative",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Cancer review: aberrant WWOX splice isoforms in tumours possibly act as dominant-negative inhibitors; somatic/cancer context, not the developmental disorder."
+    },
+    "ev:pubmed:33191396:claim:1": {
+      "pmid": "33191396",
+      "geneSymbol": "NRXN1",
+      "direction": "gain",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Review speculates that some NRXN1 variants \"may\" produce aberrant isoforms acting as gain of function; a hypothesis, not a reported patient mechanism."
+    },
+    "ev:pubmed:18238816:claim:1": {
+      "pmid": "18238816",
+      "geneSymbol": "KCNQ2",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Review: the two KCNQ2 mutations causing peripheral nerve hyperexcitability (not neonatal epilepsy) produce severe channel dysfunction with a dominant-negative effect on wild-type channels; patient variants, but a different phenotype and variant set."
+    },
+    "ev:pubmed:39642202:claim:0": {
+      "pmid": "39642202",
+      "geneSymbol": "GABRG2",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Eleven DEE patients with M1 proline variants in GABRA1 (P260L/S), GABRB2, GABRB3 and GABRG2 (P282A/S); electrophysiology shows all cause gain of function (3- to 23-fold increased GABA sensitivity), different variants from the loss-of-function epilepsy spectrum."
+    },
+    "ev:pubmed:39642202:claim:1": {
+      "pmid": "39642202",
+      "geneSymbol": "GABRG2",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Conclusion that these paralogous M1 proline variants (including GABRA1 and GABRG2) all lead to overall gain-of-function traits in DEE patients."
+    },
+    "ev:pubmed:32383447:claim:0": {
+      "pmid": "32383447",
+      "geneSymbol": "FOXG1",
+      "direction": "gain",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Mouse Foxg1 overexpression study; the link to patients is only a proposal about FOXG1 copy-number variation, not a demonstrated patient variant mechanism."
+    },
+    "ev:pubmed:41174994:claim:1": {
+      "pmid": "41174994",
+      "geneSymbol": "ADNP",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "low",
+      "reason": "Patient ADNP variants assayed in overexpression systems: most show hypomethylation (loss of function) but nuclear-localisation-signal variants show hypermethylation \"suggesting\" gain of function; tentative in-vitro inference about a subset of patient variants."
+    },
+    "ev:pubmed:22927438:claim:0": {
+      "pmid": "22927438",
+      "geneSymbol": "KCNH1",
+      "direction": "loss",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Zebrafish morpholino knockdown of kcnh1; experimental manipulation, not patient variants."
+    },
+    "ev:pubmed:30568575:claim:1": {
+      "pmid": "30568575",
+      "geneSymbol": "UBE3A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Review: UBE3A duplication, triplication or gain-of-function mutations are linked to autism in patients, as opposed to loss of maternal UBE3A in Angelman syndrome; different variants and condition."
+    },
+    "ev:pubmed:34815418:claim:1": {
+      "pmid": "34815418",
+      "geneSymbol": "UBE3A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Large-scale functional assay identifies hyperactivating UBE3A variants (e.g. Q588E); individuals carrying them have phenotypes distinguishable from Angelman syndrome, so gain of function occurs in different patients."
+    },
+    "ev:pubmed:31855252:claim:1": {
+      "pmid": "31855252",
+      "geneSymbol": "STXBP1",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Two siblings homozygous for STXBP1 L446F (Lennox-Gastaut) with a 2-fold increase in evoked synaptic transmission in neurons; a gain-of-function effect of a homozygous patient variant, distinct from the heterozygous loss-of-function mechanism."
+    },
+    "ev:pubmed:28884684:claim:0": {
+      "pmid": "28884684",
+      "geneSymbol": "DYRK1A",
+      "direction": "gain",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Background statement about increased DYRK1A dosage in Down syndrome (trisomy 21, not a DYRK1A variant) affecting progenitor differentiation; the paper itself studies DYRK1A inhibition in stem cells."
+    },
+    "ev:pubmed:22354166:claim:0": {
+      "pmid": "22354166",
+      "geneSymbol": "DYRK1A",
+      "direction": "gain",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Leukaemia (AMKL) commentary about DYRK1A overexpression experiments; cancer context, not the developmental disorder."
+    },
+    "ev:pubmed:35803734:claim:0": {
+      "pmid": "35803734",
+      "geneSymbol": "DYRK1A",
+      "direction": "gain",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Down syndrome/Alzheimer context with DYRK1A overexpression in cultured neurons; not disease-causing DYRK1A variants."
+    },
+    "ev:pubmed:40998073:claim:0": {
+      "pmid": "40998073",
+      "geneSymbol": "KCNQ2",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "States KCNQ2-DEE is caused predominantly by dominant-negative loss-of-function variants; the curated gain-of-function presumably refers to the minority of gain-of-function DEE variants, so both exist in patients."
+    },
+    "ev:pubmed:40998073:claim:1": {
+      "pmid": "40998073",
+      "geneSymbol": "KCNQ2",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Patient iPSC-derived neurons with dominant-negative KCNQ2 variants show diminished M-current and delayed maturation."
+    },
+    "ev:pubmed:40998073:claim:2": {
+      "pmid": "40998073",
+      "geneSymbol": "KCNQ2",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Describes loss of M-current (the consequence of the patients' dominant-negative variants) delaying neuronal maturation; a loss-of-function mechanism in patient-derived cells."
+    },
+    "ev:pubmed:27367160:claim:1": {
+      "pmid": "27367160",
+      "geneSymbol": "GABRG2",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Review: all GABRG2 epilepsy mutations reduce channel function, with dominant-negative suppression of partner subunits among the mechanisms; refines loss of function rather than opposing it."
+    },
+    "ev:pubmed:40570274:claim:2": {
+      "pmid": "40570274",
+      "geneSymbol": "GABRG2",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Cohort of 44 individuals: 3 missense variants cause gain of function with severe DEE, versus null and missense loss-of-function variants with milder phenotypes; different variants in each direction."
+    },
+    "ev:pubmed:27340224:claim:0": {
+      "pmid": "27340224",
+      "geneSymbol": "GABRG2",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Mouse knock-in of the patient Q390X variant shows a dominant-negative effect (severe epilepsy) versus simple haploinsufficiency in knockout mice; models a patient variant, mechanism is a loss-of-function subtype."
+    },
+    "ev:pubmed:36979350:claim:1": {
+      "pmid": "36979350",
+      "geneSymbol": "GABRG2",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Eight GABRG2 variants from febrile-seizure patients show loss of receptor function plus a dominant-negative effect on receptor biogenesis; dominant negative here is a form of loss of function."
+    },
+    "ev:pubmed:32196822:claim:0": {
+      "pmid": "32196822",
+      "geneSymbol": "EEF1A2",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": true,
+      "confidence": "high",
+      "reason": "Fourteen individuals with heterozygous de novo EEF1A2 missense variants; complementation assays show protein damage and the authors conclude pathogenic variants act via haploinsufficiency, i.e. the same variant class the curated mechanism calls gain of function."
+    },
+    "ev:pubmed:28911200:claim:0": {
+      "pmid": "28911200",
+      "geneSymbol": "EEF1A2",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Siblings homozygous for EEF1A2 p.P333L with cardiomyopathy, developmental delay and epilepsy; yeast and zebrafish assays indicate deficiency, a recessive loss-of-function class distinct from the dominant de novo variants."
+    },
+    "ev:pubmed:28911200:claim:1": {
+      "pmid": "28911200",
+      "geneSymbol": "EEF1A2",
+      "direction": "loss",
+      "decision": "reject",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "The sentence reports no evidence of a dominant-negative effect in yeast; it does not itself assert a loss-of-function disease mechanism, so the extracted direction is not supported by this sentence."
+    },
+    "ev:pubmed:22848658:claim:0": {
+      "pmid": "22848658",
+      "geneSymbol": "EEF1A2",
+      "direction": "loss",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Describes the mouse \"wasted\" deletion and heterozygous knockout mice; experimental model, not patient variants."
+    },
+    "ev:pubmed:38179821:claim:0": {
+      "pmid": "38179821",
+      "geneSymbol": "EEF1A2",
+      "direction": "loss",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Mouse model of the patient E122K variant: the quoted loss-of-function statement concerns homozygous mice (patients are heterozygous), and the same abstract suggests a toxic gain of function and/or dominant-negative effect."
+    },
+    "ev:pubmed:34431999:claim:0": {
+      "pmid": "34431999",
+      "geneSymbol": "SCN8A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": true,
+      "confidence": "high",
+      "reason": "In 392 individuals, DEE-causing SCN8A variants show strong gain of function in patch clamp; this is the same DEE variant class the curated entry labels dominant negative."
+    },
+    "ev:pubmed:34431999:claim:1": {
+      "pmid": "34431999",
+      "geneSymbol": "SCN8A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Same sentence: a benign familial infantile epilepsy variant shows mild gain of function; a milder phenotype than the curated condition."
+    },
+    "ev:pubmed:34431999:claim:2": {
+      "pmid": "34431999",
+      "geneSymbol": "SCN8A",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Three variants causing generalized epilepsy induced loss of function; a different variant/phenotype group from DEE."
+    },
+    "ev:pubmed:34431999:claim:3": {
+      "pmid": "34431999",
+      "geneSymbol": "SCN8A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": true,
+      "confidence": "high",
+      "reason": "Conclusion of the same study: clear correlations between gain- or loss-of-function effects and epilepsy type, with DEE in the gain-of-function group."
+    },
+    "ev:pubmed:34431999:claim:4": {
+      "pmid": "34431999",
+      "geneSymbol": "SCN8A",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Generalized epilepsy with absence seizures is the main phenotype of loss-of-function SCN8A variant carriers."
+    },
+    "ev:pubmed:34431999:claim:5": {
+      "pmid": "34431999",
+      "geneSymbol": "SCN8A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": true,
+      "confidence": "high",
+      "reason": "The degree of gain-of-function dysfunction determines severity in focal epilepsies including DEE; same variant class as the curated condition."
+    },
+    "ev:pubmed:31904118:claim:0": {
+      "pmid": "31904118",
+      "geneSymbol": "SCN8A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": true,
+      "confidence": "high",
+      "reason": "Review: de novo SCN8A missense mutations in epileptic encephalopathy alter Nav1.6 biophysics to cause neuronal hyperexcitability (gain of function), contrasted explicitly with loss-of-function mutations."
+    },
+    "ev:pubmed:31904118:claim:1": {
+      "pmid": "31904118",
+      "geneSymbol": "SCN8A",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "SCN8A mutations with partial or complete loss of function are associated with intellectual disability and other disorders, a different patient group from epileptic encephalopathy."
+    },
+    "ev:pubmed:34353676:claim:0": {
+      "pmid": "34353676",
+      "geneSymbol": "SCN8A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": true,
+      "confidence": "high",
+      "reason": "Review: SCN8A variants in epilepsy patients result primarily in gain of function of Nav1.6; the same DEE variant class as the curated condition."
+    },
+    "ev:pubmed:34353676:claim:1": {
+      "pmid": "34353676",
+      "geneSymbol": "SCN8A",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": true,
+      "confidence": "medium",
+      "reason": "States gain of function of Nav1.6 predicts sodium-channel-blocker efficacy, corroborated clinically; a treatment framing of the same gain-of-function claim."
+    },
+    "ev:pubmed:29991598:claim:0": {
+      "pmid": "29991598",
+      "geneSymbol": "SCN8A",
+      "direction": "loss",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Describes knockout or loss-of-function Scn8a mouse mutants being lethal; a model-system statement, not patient variants."
+    },
+    "ev:pubmed:20530479:claim:0": {
+      "pmid": "20530479",
+      "geneSymbol": "SCN8A",
+      "direction": "loss",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "The loss-of-function and homozygous-null \"motor disorder\" statement refers to mouse Scn8a mutants (e.g. med); the paper is about p38/Nedd4 modulation, not patient variants."
+    },
+    "ev:pubmed:29317596:claim:0": {
+      "pmid": "29317596",
+      "geneSymbol": "GRIN2D",
+      "direction": "loss",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "A singleton splice-site GRIN2D variant found in a schizophrenia/autism screening cohort and predicted to cause intron retention; a susceptibility finding in adults, not a disease-causing variant for the epileptic encephalopathy, and the sentence itself does not state loss of function."
+    },
+    "ev:pubmed:19701948:claim:0": {
+      "pmid": "19701948",
+      "geneSymbol": "SMC1A",
+      "direction": "dominant_negative",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Expression study in SMC1A Cornelia de Lange probands (missense/in-frame variants) proposing that mutant proteins act dominant-negatively in females; these are different variants and a different condition from the truncating variants causing SMC1A epileptic encephalopathy."
+    },
+    "ev:pubmed:42123681:claim:0": {
+      "pmid": "42123681",
+      "geneSymbol": "CACNA1E",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "Three pathogenic CACNA1E variants (H151L, M163T, R1182C) characterised by electrophysiology show loss-of-function changes; the abstract notes all previously reported variants were gain of function, so these are a different variant set."
+    },
+    "ev:pubmed:42098868:claim:0": {
+      "pmid": "42098868",
+      "geneSymbol": "CACNA1E",
+      "direction": "loss",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Case report of a child with ESES and developmental regression whose genetic testing reported a CACNA1E loss-of-function mutation; a single case with no functional data described in the abstract."
+    },
+    "ev:pubmed:35217610:claim:0": {
+      "pmid": "35217610",
+      "geneSymbol": "PNPO",
+      "direction": "dominant_negative",
+      "decision": "reject",
+      "inPatients": false,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "The dominant-negative effect of hR95H was observed in heterozygous knock-in fruit flies; PNPO deficiency in humans is recessive and heterozygous carriers are unaffected, so this is a model-organism observation, not a patient mechanism."
+    },
+    "ev:pubmed:37537625:claim:0": {
+      "pmid": "37537625",
+      "geneSymbol": "GRIN1",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "medium",
+      "reason": "Single-patient (n-of-1) intrathecal magnesium trial designed around the electrophysiology of a gain-of-function GRIN1 mutation in the patient; the quote is a treatment description but states the patient variant is gain of function."
+    },
+    "ev:pubmed:29365063:claim:0": {
+      "pmid": "29365063",
+      "geneSymbol": "GRIN1",
+      "direction": "gain",
+      "decision": "keep",
+      "inPatients": true,
+      "sameGene": true,
+      "sameVariantClassDispute": false,
+      "confidence": "high",
+      "reason": "De novo GRIN1 missense mutations in polymicrogyria patients increased agonist potency or reduced proton inhibition (gain of function); the abstract notes previous GRIN1 mutations generally caused loss of function, so both directions occur in different patients."
+    }
+  },
+  "conditions": {
+    "cond:G2P00033": {
+      "suggestedLabel": "both_directions",
+      "keptPapers": 2,
+      "curatedMechanism": "loss of function",
+      "note": "Published patient series describe both gain- and loss-of-function SCN2A variants; gain of function is typical of neonatal-onset epilepsy and loss of function of later-onset epilepsy, autism and intellectual disability, so which applies depends on the individual variant."
+    },
+    "cond:G2P00222": {
+      "suggestedLabel": "contested",
+      "keptPapers": 1,
+      "curatedMechanism": "loss of function",
+      "note": "One early report predicted (but did not prove) that a truncated SATB2 protein might act dominant-negatively; the curated loss-of-function mechanism is not seriously challenged by a single predicted case."
+    },
+    "cond:G2P00251": {
+      "suggestedLabel": "both_directions",
+      "keptPapers": 2,
+      "curatedMechanism": "loss of function",
+      "note": "Most SCN1A epilepsy variants (including Dravet syndrome) cause loss of function, but a distinct group of gain-of-function SCN1A variants causes familial hemiplegic migraine and an early-onset non-Dravet epilepsy that may respond differently to medication; the direction depends on the variant."
+    },
+    "cond:G2P00366": {
+      "suggestedLabel": "both_directions",
+      "keptPapers": 2,
+      "curatedMechanism": "loss of function",
+      "note": "The two papers describe KCNA2 variants that cause loss of channel function with an added dominant-negative effect on the normal channel; this is a refinement of loss of function, not an opposite direction (gain-of-function KCNA2 variants are curated as a separate condition).",
+      "caveat": "Both kept claims describe dominant-negative LOSS of function, so they refine rather than oppose the curated loss-of-function mechanism; a curator may prefer not to label this condition as having both directions."
+    },
+    "cond:G2P00467": {
+      "suggestedLabel": "contested",
+      "keptPapers": 6,
+      "curatedMechanism": "gain of function",
+      "note": "Gene2Phenotype lists gain of function, but the discovery and follow-up papers for the recurrent progressive myoclonus epilepsy variant p.Arg320His report dominant-negative loss of function, and most other KCNC1 variants are also loss of function; this disagreement needs expert review.",
+      "caveat": "The same recurrent variant (p.Arg320His) that the curated entry calls gain of function is reported as dominant-negative loss of function in three papers; this may be a curation error rather than a scientific dispute and should be checked by a curator."
+    },
+    "cond:G2P00546": {
+      "suggestedLabel": "both_directions",
+      "keptPapers": 4,
+      "curatedMechanism": "dominant negative",
+      "note": "In-frame SPTAN1 variants acting dominant-negatively cause the epilepsy/neurodevelopmental condition, while truncating loss-of-function variants cause milder distal muscle weakness, motor neuropathy or ataxia; the two variant classes give different conditions.",
+      "caveat": "PMIDs 39371122 and 40023774 appear to be the preprint and published versions of the same 14-family study, so the independent evidence is three studies, not four; the loss-of-function phenotypes (distal myopathy, motor neuropathy, ataxia) differ from the curated epilepsy condition."
+    },
+    "cond:G2P00548": {
+      "suggestedLabel": "both_directions",
+      "keptPapers": 4,
+      "curatedMechanism": "loss of function",
+      "note": "Published cases describe both loss-of-function GNAO1 variants (mainly epileptic encephalopathy) and gain-of-function variants (mainly movement disorders) in patients; which applies depends on the individual variant.",
+      "caveat": "Two of the kept claims are dominant-negative (compatible with loss of function); the opposing gain-of-function evidence comes from PMIDs 29758257 and 28747448 and concerns movement-disorder patients rather than epileptic encephalopathy."
+    },
+    "cond:G2P00566": {
+      "suggestedLabel": "both_directions",
+      "keptPapers": 4,
+      "curatedMechanism": "loss of function",
+      "note": "Published cases describe both loss-of-function GRIN2A variants (null variants and some missense, milder phenotypes) and gain-of-function missense variants in the channel region (more severe phenotypes); which applies depends on the individual variant.",
+      "caveat": "The gain-of-function evidence rests mainly on PMID 30544257; the other two gain claims are passing statements in reviews, and the dominant-negative claim refines loss of function for a single variant."
+    },
+    "cond:G2P00586": {
+      "suggestedLabel": "both_directions",
+      "keptPapers": 2,
+      "curatedMechanism": "loss of function",
+      "note": "Published cases describe both loss-of-function GRIN2B variants and gain-of-function pore-region variants (for example in West syndrome) in patients; which applies depends on the individual variant."
+    },
+    "cond:G2P00594": {
+      "suggestedLabel": "none",
+      "keptPapers": 0,
+      "curatedMechanism": "loss of function",
+      "note": "Neither flagged paper concerns WWOX patient variants in the developmental disorder (one is a cancer review, one a speculative fusion gene), so the curated loss-of-function mechanism stands uncontested."
+    },
+    "cond:G2P00636": {
+      "suggestedLabel": "none",
+      "keptPapers": 0,
+      "curatedMechanism": "loss of function",
+      "note": "The only flagged paper speculates that some NRXN1 variants might act as gain of function; no patient evidence for that, so loss of function stands."
+    },
+    "cond:G2P00789": {
+      "suggestedLabel": "none",
+      "keptPapers": 1,
+      "curatedMechanism": "loss of function",
+      "note": "The one flagged paper concerns KCNQ2 variants causing peripheral nerve hyperexcitability (not neonatal epilepsy) acting dominant-negatively, which is still a form of loss of function."
+    },
+    "cond:G2P00800": {
+      "suggestedLabel": "none",
+      "keptPapers": 1,
+      "curatedMechanism": "loss of function",
+      "note": "A single paper reports gain-of-function GABRA1 variants at one specific position (P260) in children with developmental and epileptic encephalopathy, a different presentation from juvenile myoclonic epilepsy; loss of function remains the mechanism for the curated condition."
+    },
+    "cond:G2P01018": {
+      "suggestedLabel": "none",
+      "keptPapers": 0,
+      "curatedMechanism": "loss of function",
+      "note": "The flagged paper is a mouse overexpression study; it does not show gain-of-function FOXG1 variants in patients."
+    },
+    "cond:G2P01021": {
+      "suggestedLabel": "none",
+      "keptPapers": 1,
+      "curatedMechanism": "loss of function",
+      "note": "One in-vitro study tentatively suggests that ADNP variants in the nuclear localisation signal might have a gain-of-function component, while most variants behave as loss of function; this is a single tentative finding."
+    },
+    "cond:G2P01031": {
+      "suggestedLabel": "none",
+      "keptPapers": 0,
+      "curatedMechanism": "gain of function",
+      "note": "The flagged paper is a zebrafish knockdown study and does not concern patient variants; gain of function stands."
+    },
+    "cond:G2P01058": {
+      "suggestedLabel": "both_directions",
+      "keptPapers": 2,
+      "curatedMechanism": "loss of function",
+      "note": "Angelman syndrome is caused by loss of maternal UBE3A, while extra copies or hyperactivating UBE3A variants are linked to a different autism-related presentation; both directions exist but cause different conditions."
+    },
+    "cond:G2P01128": {
+      "suggestedLabel": "none",
+      "keptPapers": 1,
+      "curatedMechanism": "loss of function",
+      "note": "One paper reports two siblings with a homozygous STXBP1 variant showing increased synaptic transmission (gain of function); the usual heterozygous STXBP1 variants act by loss of function."
+    },
+    "cond:G2P01160": {
+      "suggestedLabel": "none",
+      "keptPapers": 0,
+      "curatedMechanism": "loss of function",
+      "note": "The flagged papers concern DYRK1A overexpression in Down syndrome, leukaemia or Alzheimer research, not DYRK1A variants in patients with this disorder; loss of function stands."
+    },
+    "cond:G2P01456": {
+      "suggestedLabel": "both_directions",
+      "keptPapers": 2,
+      "curatedMechanism": "gain of function",
+      "note": "Most KCNQ2 epileptic encephalopathy variants act by dominant-negative loss of function, while a smaller group of gain-of-function variants also causes encephalopathy; which applies depends on the individual variant.",
+      "caveat": "The curated gain-of-function mechanism likely refers to a minority of KCNQ2 DEE variants; the literature here says most DEE variants are dominant-negative loss of function."
+    },
+    "cond:G2P01473": {
+      "suggestedLabel": "both_directions",
+      "keptPapers": 5,
+      "curatedMechanism": "loss of function",
+      "note": "Most GABRG2 epilepsy variants reduce receptor function (some with a dominant-negative effect), but a few missense variants increase function and are linked to severe developmental and epileptic encephalopathy; the direction depends on the variant.",
+      "caveat": "Three kept claims are dominant-negative (a loss-of-function subtype); the genuine opposite direction (gain of function) comes from PMIDs 39642202 and 40570274."
+    },
+    "cond:G2P01600": {
+      "suggestedLabel": "contested",
+      "keptPapers": 2,
+      "curatedMechanism": "gain of function",
+      "note": "Gene2Phenotype lists gain of function, but a 2020 series of 14 patients argues the de novo missense EEF1A2 variants act through loss of function (haploinsufficiency), while a mouse model suggests a toxic or dominant-negative effect; the mechanism is genuinely unsettled."
+    },
+    "cond:G2P01608": {
+      "suggestedLabel": "contested",
+      "keptPapers": 4,
+      "curatedMechanism": "dominant negative",
+      "note": "Gene2Phenotype lists dominant negative, but large patient series describe SCN8A epileptic encephalopathy variants as gain of function (often responsive to sodium-channel blockers) and a separate group of loss-of-function variants causing milder generalized epilepsy or intellectual disability; the curated label should be checked.",
+      "caveat": "The curated \"dominant negative\" label is itself unusual: the large patient series and reviews read here describe DEE variants as gain of function; a curator should check the source of the curated mechanism.",
+      "excludedClaims": {
+        "ev:pubmed:30870728:claim:0": "quote is about a GRIN2A mutation treated with memantine; the SCN8A sodium-channel-blocker sentence from the same abstract was not the verbatim quote"
+      }
+    },
+    "cond:G2P01878": {
+      "suggestedLabel": "none",
+      "keptPapers": 0,
+      "curatedMechanism": "gain of function",
+      "note": "The flagged paper is a schizophrenia screening study reporting a single splice-site GRIN2D variant of uncertain relevance; it does not challenge gain of function for the epileptic encephalopathy."
+    },
+    "cond:G2P02415": {
+      "suggestedLabel": "none",
+      "keptPapers": 1,
+      "curatedMechanism": "loss of function",
+      "note": "One paper proposes that SMC1A missense variants in Cornelia de Lange syndrome act dominant-negatively in females; the SMC1A epileptic encephalopathy is caused by different (truncating) variants, so this does not contest its loss-of-function mechanism."
+    },
+    "cond:G2P02574": {
+      "suggestedLabel": "both_directions",
+      "keptPapers": 2,
+      "curatedMechanism": "gain of function",
+      "note": "Most reported CACNA1E variants increase channel function, but recent reports describe loss-of-function variants in children with neurodevelopmental disorders and epilepsy; both directions now appear in patients."
+    },
+    "cond:G2P02582": {
+      "suggestedLabel": "both_directions",
+      "keptPapers": 2,
+      "curatedMechanism": "gain of function",
+      "note": "Published cases describe both gain-of-function and dominant-negative loss-of-function KCNA2 variants in patients with epileptic encephalopathy; which applies depends on the individual variant.",
+      "caveat": "The kept claims describe dominant-negative loss-of-function variants, which is the opposite direction to the curated gain of function; PMID 25751627 itself reports both mechanisms in different patients."
+    },
+    "cond:G2P03176": {
+      "suggestedLabel": "none",
+      "keptPapers": 0,
+      "curatedMechanism": "loss of function",
+      "note": "The flagged paper shows a dominant-negative effect of one PNPO variant in fruit flies; in humans PNPO deficiency is recessive and carriers are unaffected, so loss of function stands."
+    },
+    "cond:G2P03206": {
+      "suggestedLabel": "both_directions",
+      "keptPapers": 3,
+      "curatedMechanism": "loss of function",
+      "note": "Most GRIN1 variants reduce receptor function, but a distinct group of gain-of-function variants causes polymicrogyria with severe epilepsy; which applies depends on the individual variant."
+    }
+  }
+}

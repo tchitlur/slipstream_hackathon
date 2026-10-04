@@ -24,6 +24,7 @@ const cond = (over: Partial<Condition> = {}): Condition => ({
   sameGeneOtherMechanism: [],
   supportingClaims: [],
   dissentingClaims: [],
+  rejectedClaims: [],
   ...over,
 });
 

@@ -23,7 +23,13 @@ async function main() {
   const orgs: Record<string, PatientOrg> = {};
   const evidence: Evidence[] = [];
   let linked = 0;
+  let failed = 0;
   for (const s of seeds) {
+    if (s.check?.status === "failed") {
+      failed++;
+      log("S7", `${s.slug}: failed automated check (${s.check.reason ?? "no reason"}); not displayed`);
+      continue;
+    }
     const conditionIds = uniq(
       s.conditions.flatMap((term) => {
         const t = term.trim();
@@ -40,14 +46,14 @@ async function main() {
       sourceId: `patient_orgs.json#${s.slug}`,
       url: s.url,
       retrievedAt: today,
-      confidence: s.verified ? "high" : "low",
+      confidence: s.verified ? "high" : s.check?.status === "auto" ? "medium" : "low",
       title: s.name,
-      note: `${s.verified ? "Verified" : "Unverified"} seed entry drafted from the organization's own site${s.foundVia ? " (" + s.foundVia + ")" : ""}. Registry stated on site: ${s.registry}${s.registryNote ? ". " + s.registryNote : ""}${s.registryUrl ? " See " + s.registryUrl : ""}.`,
+      note: `${s.verified ? "Human-verified" : s.check?.status === "auto" ? `Automatically checked on ${s.check.date}: the organization's own site loaded and names the gene or condition (${s.check.pageUrl ?? s.url}; "${(s.check.snippet ?? "").slice(0, 200)}"). Not human-verified.` : "Unchecked"} seed entry${s.foundVia ? " (" + s.foundVia + ")" : ""}. Registry stated on site: ${s.registry}${s.registryNote ? ". " + s.registryNote : ""}${s.registryUrl ? " See " + s.registryUrl : ""}.`,
     });
     const evIds = [evId];
     if (s.registry === "yes" && s.registryUrl) {
       const rid = `ev:seed:org:${s.slug}:registry`;
-      evidence.push({ id: rid, kind: "curated", source: "seed", sourceId: `patient_orgs.json#${s.slug}.registry`, url: s.registryUrl, retrievedAt: today, confidence: s.verified ? "high" : "low", title: `${s.name}: registry or natural history program`, note: s.registryNote ?? "The organization's site states that a registry or natural history study exists." });
+      evidence.push({ id: rid, kind: "curated", source: "seed", sourceId: `patient_orgs.json#${s.slug}.registry`, url: s.registryUrl, retrievedAt: today, confidence: s.verified ? "high" : s.check?.status === "auto" ? "medium" : "low", title: `${s.name}: registry or natural history program`, note: s.registryNote ?? "The organization's site states that a registry or natural history study exists." });
       evIds.push(rid);
     }
     orgs[`org:${s.slug}`] = { ...s, id: `org:${s.slug}`, conditionIds, evidenceIds: evIds };
@@ -58,10 +64,13 @@ async function main() {
   updateManifest((m) => {
     m.counts.patientOrgs = Object.keys(orgs).length;
     m.counts.patientOrgsVerified = Object.values(orgs).filter((o) => o.verified).length;
+    m.counts.patientOrgsAutoChecked = Object.values(orgs).filter((o) => o.check?.status === "auto").length;
+    m.counts.patientOrgsFailedCheck = failed;
+    m.counts.patientOrgsWithFoundingYear = Object.values(orgs).filter((o) => o.founded).length;
     m.counts.patientOrgsWithRegistry = Object.values(orgs).filter((o) => o.registry === "yes").length;
     m.counts.conditionsWithOrg = uniq(Object.values(orgs).flatMap((o) => o.conditionIds)).length;
   });
-  log("S7", `${Object.keys(orgs).length} organizations, ${linked} condition links, ${Object.values(orgs).filter((o) => o.registry === "yes").length} state a registry, ${Object.values(orgs).filter((o) => o.verified).length} verified`);
+  log("S7", `${failed} failed the automated check and are hidden; ${Object.keys(orgs).length} organizations, ${linked} condition links, ${Object.values(orgs).filter((o) => o.registry === "yes").length} state a registry, ${Object.values(orgs).filter((o) => o.verified).length} verified`);
 }
 
 main().catch((e) => {

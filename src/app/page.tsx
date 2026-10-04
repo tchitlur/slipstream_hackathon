@@ -7,7 +7,11 @@ import { roadById } from "@/lib/roads";
 export default function Home() {
   const store = getStore();
   const m = store.manifest;
-  const demo = getDemoCandidates().slice(0, 3);
+  // Three examples pointing at three different neighbors ahead, where the candidate list allows it.
+  const demoAll = getDemoCandidates();
+  const demo: typeof demoAll = [];
+  for (const d of demoAll) if (!demo.some((x) => x.neighborId === d.neighborId) && demo.length < 3) demo.push(d);
+  for (const d of demoAll) if (demo.length < 3 && !demo.includes(d)) demo.push(d);
   const fallback = store.atlas.conditions.filter((c) => c.depth === "deep").slice(0, 3);
   const examples = demo.length
     ? demo.map((d) => ({ c: getCondition(d.conditionId)!, nb: getCondition(d.neighborId), reason: d.reason }))

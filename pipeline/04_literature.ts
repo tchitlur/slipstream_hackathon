@@ -10,7 +10,7 @@ import { z } from "zod";
 import { parseArgs, deepGenes } from "./lib/args";
 import { fetchJsonCached, fetchTextCached } from "./lib/http";
 import { readValidated, writeJson, writeText, log, uniq, readJsonOr } from "./lib/io";
-import { files, RAW } from "./lib/paths";
+import { files, RAW, SEED } from "./lib/paths";
 import { writeEvidence } from "./lib/evidence";
 import { updateManifest } from "./lib/manifest";
 import { llmStructured, mapLimit, hasKey, confirmModels, estimateUsd, approxTokens, readLedger, BUDGET_USD } from "./lib/llm";
@@ -229,36 +229,48 @@ async function main() {
     for (const t of a) if (b.has(t)) n++;
     return n / Math.min(a.size, b.size);
   };
+  // Review file (data/seed/contested_review.json): per-claim keep/reject decisions and per-condition labels from an
+  // automated reading of the abstracts. Rejected claims are kept on the condition with their reason, never deleted.
+  type Review = { reviewedAt: string; reviewer: string; claims: Record<string, { decision: "keep" | "reject"; reason: string; sameVariantClassDispute?: boolean; inPatients?: boolean }>; conditions?: Record<string, { suggestedLabel?: string; note?: string }> };
+  const review = readJsonOr<Review | null>(path.join(SEED, "contested_review.json"), null);
   for (const c of atlas.conditions) {
     c.contested = undefined;
     c.supportingClaims = [];
     c.dissentingClaims = [];
+    c.rejectedClaims = [];
   }
   const dissent = new Map<string, MechanismClaimEntry[]>();
   for (const [symbol, conds] of condsByGene) {
     const geneClaims = claims.filter((c) => c.geneSymbol === symbol && c.direction !== "unclear");
     for (const claim of geneClaims) {
       const entry: MechanismClaimEntry = { pmid: claim.pmid, direction: claim.direction, mechanism: claim.mechanism, conditionHint: claim.conditionHint, evidenceId: claim.evidenceId };
-      // 1. Hint names a specific curated condition of this gene?
       const scored = conds.map((c) => ({ c, s: Math.max(overlap(claim.conditionHint, c.name), ...c.synonyms.map((syn) => overlap(claim.conditionHint, syn))) })).sort((x, y) => y.s - x.s);
       let targets: Condition[];
       if (conds.length > 1 && scored[0].s >= 0.5 && (scored.length === 1 || scored[0].s > scored[1].s)) targets = [scored[0].c];
       else {
-        // 2. A curated condition for that direction exists: attach there.
         const same = conds.filter((c) => directionOfMechanism(c.mechanism) === claim.direction);
         targets = same.length ? same : conds.filter((c) => c.mechanism !== "undetermined" && c.mechanism !== "undetermined non-loss-of-function");
       }
+      const rv = review?.claims[claim.evidenceId];
       for (const c of targets) {
         if (directionOfMechanism(c.mechanism) === claim.direction) c.supportingClaims.push(entry);
-        else if (c.mechanism !== "undetermined" && c.mechanism !== "undetermined non-loss-of-function") (dissent.get(c.id) ?? dissent.set(c.id, []).get(c.id)!).push(entry);
+        else if (c.mechanism !== "undetermined" && c.mechanism !== "undetermined non-loss-of-function") {
+          if (rv?.decision === "reject") c.rejectedClaims.push({ ...entry, reason: rv.reason, reviewer: review!.reviewer });
+          else (dissent.get(c.id) ?? dissent.set(c.id, []).get(c.id)!).push(entry);
+        }
       }
     }
   }
   for (const c of atlas.conditions) {
     const d = dissent.get(c.id) ?? [];
     const papers = new Set(d.map((x) => x.pmid));
-    if (papers.size >= CONTEST_MIN_PAPERS) c.contested = { curatedMechanism: c.mechanism, curatedEvidenceId: c.evidenceIds[0], claims: d };
-    else c.dissentingClaims = d;
+    if (papers.size >= CONTEST_MIN_PAPERS) {
+      const dispute = d.some((x) => review?.claims[x.evidenceId]?.sameVariantClassDispute);
+      const suggested = review?.conditions?.[c.id]?.suggestedLabel;
+      const kind: "contested" | "both_directions" = dispute || suggested === "contested" ? "contested" : review ? "both_directions" : "contested";
+      const note = review?.conditions?.[c.id]?.note ?? (kind === "both_directions" ? `Published cases describe ${c.geneSymbol} variants acting in more than one direction; which applies depends on the individual variant.` : undefined);
+      c.contested = { curatedMechanism: c.mechanism, curatedEvidenceId: c.evidenceIds[0], claims: d, kind, note };
+    } else c.dissentingClaims = d;
   }
   let contested = 0;
   for (const c of atlas.conditions) if (c.contested) contested++;
@@ -281,6 +293,10 @@ async function main() {
     m.counts.t1ClaimsVerified = claims.length;
     m.counts.t1ClaimsDiscarded = totalDiscarded;
     m.counts.contestedMechanisms = contested;
+    m.counts.mechanismBothDirections = atlas.conditions.filter((c) => c.contested?.kind === "both_directions").length;
+    m.counts.mechanismContestedStrict = atlas.conditions.filter((c) => c.contested?.kind === "contested").length;
+    m.counts.claimsRejectedOnReview = atlas.conditions.reduce((a, c) => a + c.rejectedClaims.length, 0);
+    m.counts.claimsReviewed = review ? Object.keys(review.claims).length : 0;
     m.counts.genesWithModelPapers = Object.values(byGene).filter((g) => g.modelCount > 0).length;
     m.thresholds.t1AbstractsPerGene = MECH_N;
     m.thresholds.contestedMinPapers = CONTEST_MIN_PAPERS;

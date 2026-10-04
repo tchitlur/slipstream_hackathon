@@ -1,5 +1,5 @@
 {
- "builtAt": "2026-10-03T20:43:46.182Z",
+ "builtAt": "2026-10-04T01:04:42.689Z",
  "sources": {
   "g2p": {
    "url": "https://ftp.ebi.ac.uk/pub/databases/gene2phenotype/G2P_data_downloads/2026_09_28/DDG2P_2026-09-28.csv.gz",
@@ -31,7 +31,7 @@
   "reporter": {
    "url": "https://api.reporter.nih.gov/v2/projects/search",
    "version": "FY2024-2027",
-   "retrievedAt": "2026-10-03T20:20:40.703Z"
+   "retrievedAt": "2026-10-04T01:04:42.689Z"
   }
  },
  "counts": {
@@ -65,7 +65,7 @@
   "layoutEdges": 13556,
   "demoCandidates": 3,
   "contestedMechanisms": 18,
-  "bridges": 66,
+  "bridges": 44,
   "milestone1_found_deep": 79,
   "milestone2_found_deep": 61,
   "milestone3_found_deep": 71,
@@ -80,9 +80,9 @@
   "t1ClaimsVerified": 667,
   "t1ClaimsDiscarded": 30,
   "genesWithModelPapers": 65,
-  "grants": 588,
-  "investigators": 1418,
-  "investigatorRawMentions": 1669,
+  "grants": 427,
+  "investigators": 1240,
+  "investigatorRawMentions": 1471,
   "patientOrgs": 55,
   "patientOrgsVerified": 0,
   "patientOrgsWithRegistry": 31,
@@ -97,7 +97,8 @@
   "conditionsWithSingleDissent": 11,
   "briefsPregenerated": 3,
   "briefsLlm": 3,
-  "briefsTemplate": 0
+  "briefsTemplate": 0,
+  "grantsDroppedByRelevance": 456
  },
  "thresholds": {
   "thinAnnotationTerms": 5,
@@ -217,5 +218,5 @@
  ],
  "genesDropped": [],
  "notes": [],
- "gitCommit": "9f46f49"
+ "gitCommit": "61071bf"
 }

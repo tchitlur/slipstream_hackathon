@@ -112,12 +112,12 @@ export const RULES: RuleDef[] = [
 export const COUNTER_REASONS: Record<CounterCode, { title: string; appliesTo: string }> = {
   C1: { title: "Overlap rests on common symptoms", appliesTo: "Most of the phenotype overlap comes from common, low-information symptoms." },
   C2: { title: "Mechanism is per gene and disease, not per variant", appliesTo: "Shown on every R4, R5 and R6 verdict. An individual's variant may act differently; confirm its class with a clinical geneticist." },
-  C3: { title: "Mechanism is contested", appliesTo: "Curated mechanism and verified published claims disagree." },
+  C3: { title: "Mechanism direction varies or is contested", appliesTo: "Published cases document variants in the other direction (both directions reported), or published claims dispute the curated direction for the same variant class (contested)." },
   C4: { title: "Mechanism support is inferred", appliesTo: "The curated mechanism is inferred, not based on functional evidence." },
   C5: { title: "Allelic requirement differs", appliesTo: "One condition is monoallelic and the other biallelic (or another pattern)." },
   C6: { title: "Thin phenotype annotation", appliesTo: "Either condition has fewer than five annotated phenotypes, so similarity is unreliable." },
   C7: { title: "Asset rests on a single or inactive study", appliesTo: "The neighbor's asset rests on one study, or one that is terminated, withdrawn or not yet recruiting." },
-  C8: { title: "Organization listing is unverified", appliesTo: "The organization entry has not been hand-checked." },
+  C8: { title: "Organization listing is not human-verified", appliesTo: "The organization entry passed only an automated check of its own site (or failed it); no human has verified it." },
 };
 
 /** Which counter-reason codes are eligible for each rule, in priority order (strongest first). */
