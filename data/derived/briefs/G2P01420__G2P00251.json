@@ -1,7 +1,7 @@
 {
  "focalId": "cond:G2P01420",
  "neighborId": "cond:G2P00251",
- "generatedAt": "2026-10-04T01:57:38.597Z",
+ "generatedAt": "2026-10-04T03:12:58.724Z",
  "mode": "llm",
  "model": "gpt-5.4",
  "sections": [
@@ -18,7 +18,7 @@
    "heading": "Why we are writing to you",
    "sentences": [
     {
-     "text": "We are writing because CHD2-related epileptic encephalopathy and SCN1A-related seizure disorders are placed on the same mechanism road: too little protein from loss of function of one copy.",
+     "text": "We are writing from the CHD2-related epileptic encephalopathy community to your SCN1A-related seizure disorders community because public records show that both conditions have a confirmed gene-disease link and are recorded on the same broad mechanism road of too little protein from loss of function.",
      "evidenceIds": [
       "ev:g2p:G2P01420",
       "ev:hpoa:OMIM:615369",
@@ -27,7 +27,7 @@
      ]
     },
     {
-     "text": "The phenotype similarity score between the two conditions is high at 0.2722.",
+     "text": "Public records also show high phenotype similarity between the two conditions, with overlap in atonic seizures, generalized myoclonic seizures, tonic seizures, febrile seizures between 3 months and 6 years, and seizures brought on by febrile infection.",
      "evidenceIds": [
       "ev:rule:simgic",
       "ev:g2p:G2P01420",
@@ -37,7 +37,7 @@
      ]
     },
     {
-     "text": "Shared features listed in the pack include atonic seizure, generalized myoclonic seizure, tonic seizure, febrile seizure between 3 months and 6 years, and seizure precipitated by febrile infection.",
+     "text": "We know that similarity does not make the conditions the same, but it does suggest that some of your community's experience may help ours.",
      "evidenceIds": [
       "ev:rule:simgic",
       "ev:g2p:G2P01420",
@@ -52,14 +52,21 @@
    "heading": "What we share",
    "sentences": [
     {
-     "text": "The gene-disease link is marked definitive for both CHD2 and SCN1A in Gene2Phenotype.",
+     "text": "Gene2Phenotype lists a definitive gene link for CHD2-related epileptic encephalopathy and for SCN1A-related seizure disorders.",
      "evidenceIds": [
       "ev:g2p:G2P01420",
       "ev:g2p:G2P00251"
      ]
     },
     {
-     "text": "Both communities also have a patient organization listed in the pack.",
+     "text": "Gene2Phenotype also records loss of function, inferred from variant types, for both conditions.",
+     "evidenceIds": [
+      "ev:g2p:G2P01420",
+      "ev:g2p:G2P00251"
+     ]
+    },
+    {
+     "text": "Public records show that both communities have patient organizations, including Coalition to Cure CHD2 and the Dravet Syndrome Foundation.",
      "evidenceIds": [
       "ev:seed:org:coalition-to-cure-chd2",
       "ev:seed:org:coalition-to-cure-chd2:registry",
@@ -67,64 +74,39 @@
      ]
     },
     {
-     "text": "For CHD2, the pack lists Coalition to Cure CHD2 and a CHD2 Natural History Project, and it also says CHD2 is included in Simons Searchlight, the RARE-X Data Collection Program, and the Citizen Health natural history program.",
+     "text": "Public records show registry or natural history activity for both communities, including the CHD2 Natural History Project and SCN1A studies NCT06504511 and NCT06967727, and both also appear in Simons Searchlight.",
      "evidenceIds": [
       "ev:seed:org:coalition-to-cure-chd2",
       "ev:seed:org:coalition-to-cure-chd2:registry",
       "ev:seed:orgreg:coalition-to-cure-chd2:other-chd2-natural-history-project",
-      "ev:seed:orgreg:coalition-to-cure-chd2:own"
-     ]
-    },
-    {
-     "text": "For SCN1A, the pack lists two natural history or registry studies, NCT06504511 and NCT06967727, and says SCN1A is also included in Simons Searchlight.",
-     "evidenceIds": [
-      "ev:ctgov:NCT06504511:role",
-      "ev:ctgov:NCT06967727:role"
-     ]
-    },
-    {
-     "text": "The transfer review says registry design and natural history protocol are transferable between the two conditions.",
-     "evidenceIds": [
-      "ev:rule:R1",
-      "ev:rule:simgic",
-      "ev:g2p:G2P01420",
-      "ev:hpoa:OMIM:615369",
-      "ev:g2p:G2P00251",
-      "ev:hpoa:OMIM:604403",
+      "ev:seed:orgreg:coalition-to-cure-chd2:own",
       "ev:ctgov:NCT06504511:role",
       "ev:ctgov:NCT06967727:role",
       "ev:seed:registry:simons-searchlight:SCN1A"
      ]
     },
     {
-     "text": "The transfer review also says outcome measures and endpoints are transferable, with review of age of onset and severity before any tool is adopted.",
+     "text": "Published studies report disease models for both genes, with 17 PubMed records noted for CHD2 and 257 for SCN1A.",
      "evidenceIds": [
-      "ev:rule:R2",
-      "ev:rule:simgic",
-      "ev:g2p:G2P01420",
-      "ev:hpoa:OMIM:615369",
-      "ev:g2p:G2P00251",
-      "ev:hpoa:OMIM:604403",
-      "ev:ctgov:NCT06504511:role",
-      "ev:ctgov:NCT06967727:role",
-      "ev:seed:registry:simons-searchlight:SCN1A"
+      "ev:pubmed:models:CHD2",
+      "ev:pubmed:models:SCN1A"
      ]
     },
     {
-     "text": "The transfer review says clinical networks, sites, and investigators are also transferable.",
+     "text": "Public records show active NIH-funded research in both areas in FY2025-2026, with 4 CHD2 projects and 8 SCN1A projects listed.",
      "evidenceIds": [
-      "ev:rule:R3",
-      "ev:rule:simgic",
-      "ev:g2p:G2P01420",
-      "ev:hpoa:OMIM:615369",
-      "ev:g2p:G2P00251",
-      "ev:hpoa:OMIM:604403",
-      "ev:seed:registry:simons-searchlight:SCN1A",
-      "ev:seed:org:dravet-syndrome-foundation",
-      "ev:ctgov:NCT07531745:role",
-      "ev:ctgov:NCT06872125:role",
-      "ev:ctgov:NCT05419492:role",
-      "ev:ctgov:NCT06283212:record"
+      "ev:reporter:F30HD120077",
+      "ev:reporter:F99HG014072",
+      "ev:reporter:R01MH134978",
+      "ev:reporter:K00HG014072",
+      "ev:reporter:F32HG013282",
+      "ev:reporter:R01HL178516",
+      "ev:reporter:R01NS110869",
+      "ev:reporter:F31NS149609",
+      "ev:reporter:R61NS150122",
+      "ev:reporter:R61NS138832",
+      "ev:reporter:F31NS141554",
+      "ev:reporter:R03NS151500"
      ]
     }
    ]
@@ -133,27 +115,42 @@
    "heading": "What we would like to learn from or reuse",
    "sentences": [
     {
-     "text": "We would like to learn from or reuse SCN1A registry and natural history data items, consent, and visit schedules where they fit CHD2.",
+     "text": "Public records suggest that registry design and natural history protocols may be useful to adapt from your community to ours, especially from NCT06504511, NCT06967727, and Simons Searchlight, but age of onset and severity still need review before anything is adopted.",
      "evidenceIds": [
       "ev:rule:R1",
+      "ev:rule:simgic",
+      "ev:g2p:G2P01420",
+      "ev:hpoa:OMIM:615369",
+      "ev:g2p:G2P00251",
+      "ev:hpoa:OMIM:604403",
       "ev:ctgov:NCT06504511:role",
       "ev:ctgov:NCT06967727:role",
       "ev:seed:registry:simons-searchlight:SCN1A"
      ]
     },
     {
-     "text": "We would like to review SCN1A outcome measures and endpoints as possible templates for CHD2 studies.",
+     "text": "Public records also suggest that outcome measures and endpoints may overlap enough to review for reuse, with the same caution about age of onset and severity.",
      "evidenceIds": [
       "ev:rule:R2",
+      "ev:rule:simgic",
+      "ev:g2p:G2P01420",
+      "ev:hpoa:OMIM:615369",
+      "ev:g2p:G2P00251",
+      "ev:hpoa:OMIM:604403",
       "ev:ctgov:NCT06504511:role",
       "ev:ctgov:NCT06967727:role",
       "ev:seed:registry:simons-searchlight:SCN1A"
      ]
     },
     {
-     "text": "We would like to learn which clinics, sites, and investigators already care for families with a similar seizure picture.",
+     "text": "Public records suggest that your clinical network, sites, and investigators may point us toward clinicians who see a similar clinical picture, including through Simons Searchlight, the Dravet Syndrome Foundation, and SCN1A studies such as NCT07531745, NCT06872125, NCT05419492, and NCT06283212.",
      "evidenceIds": [
       "ev:rule:R3",
+      "ev:rule:simgic",
+      "ev:g2p:G2P01420",
+      "ev:hpoa:OMIM:615369",
+      "ev:g2p:G2P00251",
+      "ev:hpoa:OMIM:604403",
       "ev:seed:registry:simons-searchlight:SCN1A",
       "ev:seed:org:dravet-syndrome-foundation",
       "ev:ctgov:NCT07531745:role",
@@ -163,14 +160,8 @@
      ]
     },
     {
-     "text": "We would also value expert advice on whether SCN1A trial design could serve as a template for CHD2, because the pack marks this as needing expert review rather than ready transfer.",
+     "text": "We would also value learning how your community organized around multiple SCN1A-targeted trials, because a ClinicalTrials.gov record states that SCN1A has gene-level trials including antisense and gene therapy, while we found no public record of a targeted CHD2 clinical trial.",
      "evidenceIds": [
-      "ev:rule:R6",
-      "ev:rule:simgic",
-      "ev:g2p:G2P01420",
-      "ev:hpoa:OMIM:615369",
-      "ev:g2p:G2P00251",
-      "ev:hpoa:OMIM:604403",
       "ev:ctgov:NCT07531745:role",
       "ev:ctgov:NCT06872125:role",
       "ev:ctgov:NCT05419492:role",
@@ -186,7 +177,7 @@
    "heading": "What we know differs",
    "sentences": [
     {
-     "text": "The pack says SCN1A has targeted clinical trials at the gene level, including 7 trials with highest phase 3, while no targeted clinical trial was found for CHD2 in the searched ClinicalTrials.gov source.",
+     "text": "We found no public record of a targeted clinical trial for CHD2, while public records show 7 gene-level SCN1A trials with the highest phase listed as phase 3.",
      "evidenceIds": [
       "ev:ctgov:NCT07531745:role",
       "ev:ctgov:NCT06872125:role",
@@ -199,7 +190,7 @@
      ]
     },
     {
-     "text": "The pack says no approved disease-specific therapy was found for CHD2.",
+     "text": "We also found no public record of an approved disease-specific therapy for CHD2, while FDA records named in public sources list cannabidiol, fenfluramine, and stiripentol for Dravet syndrome, with indication text that names Dravet syndrome specifically.",
      "evidenceIds": [
       "ev:seed:therapy:0",
       "ev:seed:therapy:1",
@@ -207,84 +198,40 @@
      ]
     },
     {
-     "text": "For SCN1A, the pack lists cannabidiol, fenfluramine, and stiripentol as approved disease-specific therapies for Dravet syndrome, but it also marks them as symptom treatments or says mechanism is not established.",
-     "evidenceIds": [
-      "ev:seed:therapy:0",
-      "ev:seed:therapy:1",
-      "ev:seed:therapy:2"
-     ]
-    },
-    {
-     "text": "We must not assume the two conditions share the same variant direction in every patient.",
-     "evidenceIds": [
-      "ev:rule:R4",
-      "ev:rule:R5",
-      "ev:rule:R6",
-      "ev:g2p:G2P00251",
-      "ev:pubmed:35696452:claim:2",
-      "ev:pubmed:35696452:claim:3",
-      "ev:pubmed:35696452:claim:4",
-      "ev:pubmed:35696452:claim:5",
-      "ev:pubmed:35696452:claim:6",
-      "ev:pubmed:31904117:claim:1"
-     ]
-    },
-    {
-     "text": "The reason is that published SCN1A cases include variants acting in more than one direction, including contested gain claims, so which mechanism applies depends on the individual variant.",
-     "evidenceIds": [
-      "ev:g2p:G2P00251",
-      "ev:pubmed:35696452:claim:2",
-      "ev:pubmed:35696452:claim:3",
-      "ev:pubmed:35696452:claim:4",
-      "ev:pubmed:35696452:claim:5",
-      "ev:pubmed:35696452:claim:6",
-      "ev:pubmed:31904117:claim:1",
-      "ev:rule:R4",
-      "ev:rule:R5",
-      "ev:rule:R6",
-      "ev:rule:R7"
-     ]
-    },
-    {
-     "text": "We also must not assume an SCN1A animal or cell model can stand in for CHD2, because the pack says the neighbor's model is gene-specific.",
+     "text": "We must not assume that SCN1A disease models transfer directly to CHD2, because published model systems are gene-specific even when the broader mechanism road is similar.",
      "evidenceIds": [
       "ev:rule:R5",
-      "ev:pubmed:models:SCN1A"
-     ]
-    },
-    {
-     "text": "The pack also says mechanism is recorded per gene and disease, not per family, so a family's own CHD2 variant should be confirmed by a clinical geneticist before acting on transfer ideas.",
-     "evidenceIds": [
-      "ev:rule:R4",
-      "ev:rule:R5",
-      "ev:rule:R6",
+      "ev:pubmed:models:SCN1A",
       "ev:g2p:G2P01420",
-      "ev:hpoa:OMIM:615369"
+      "ev:hpoa:OMIM:615369",
+      "ev:g2p:G2P00251",
+      "ev:hpoa:OMIM:604403"
      ]
     },
     {
-     "text": "The pack says the curated mechanisms for CHD2 and SCN1A are inferred from variant types rather than functional studies.",
+     "text": "We also must not assume that a targeted SCN1A treatment approach will fit every CHD2 family, because mechanism is recorded per gene and disease, not per family, and a clinical geneticist needs to confirm whether a child's own variant acts through loss of function, gain of function, or a dominant negative effect.",
      "evidenceIds": [
       "ev:rule:R4",
-      "ev:rule:R5",
-      "ev:rule:R6",
+      "ev:g2p:G2P01420",
+      "ev:hpoa:OMIM:615369",
+      "ev:g2p:G2P00251",
+      "ev:hpoa:OMIM:604403"
+     ]
+    },
+    {
+     "text": "Public records further note that the recorded mechanisms for both CHD2 and SCN1A are inferred from variant types rather than direct functional studies.",
+     "evidenceIds": [
       "ev:g2p:G2P01420",
       "ev:g2p:G2P00251"
      ]
     },
     {
-     "text": "The SCN1A organization listing also passed only an automated check, and the pack says no human has verified it.",
-     "evidenceIds": [
-      "ev:rule:R3",
-      "ev:seed:org:dravet-syndrome-foundation"
-     ]
-    },
-    {
-     "text": "The pack does not assert enrolment in an SCN1A trial for a CHD2 family.",
+     "text": "We also cannot assume that any CHD2 family would be eligible for an SCN1A trial, and a ClinicalTrials.gov record states that one SCN1A study excludes gain-of-function variants.",
      "evidenceIds": [
       "ev:rule:R7",
-      "ev:ctgov:NCT07531745:role",
       "ev:ctgov:NCT06872125:role",
+      "ev:ctgov:NCT06872125:excludes",
+      "ev:ctgov:NCT07531745:role",
       "ev:ctgov:NCT05419492:role",
       "ev:ctgov:NCT06283212:record",
       "ev:ctgov:NCT06112275:record",
@@ -293,10 +240,10 @@
      ]
     },
     {
-     "text": "One SCN1A trial in the pack, NCT06872125, specifically excludes gain-of-function variants.",
+     "text": "Public records also note that the listing for the Dravet Syndrome Foundation was auto-checked and not human verified, so we would want to confirm the right contact and whether your community runs a registry before relying on that listing.",
      "evidenceIds": [
-      "ev:ctgov:NCT06872125:role",
-      "ev:ctgov:NCT06872125:excludes"
+      "ev:seed:org:dravet-syndrome-foundation",
+      "ev:rule:R3"
      ]
     }
    ]
@@ -305,40 +252,34 @@
    "heading": "Questions for expert review",
    "sentences": [
     {
-     "text": "Which direction for SCN1A do you consider established, and on what evidence, given the published disagreement noted in the pack.",
+     "text": "Do the age of onset and typical severity of SCN1A-related disease match ours closely enough for your registry items and outcome measures to apply.",
      "evidenceIds": [
-      "ev:g2p:G2P00251",
-      "ev:pubmed:35696452:claim:2",
-      "ev:pubmed:35696452:claim:3",
-      "ev:pubmed:35696452:claim:4",
-      "ev:pubmed:35696452:claim:5",
-      "ev:pubmed:35696452:claim:6",
-      "ev:pubmed:31904117:claim:1"
+      "ev:rule:R1",
+      "ev:rule:R2",
+      "ev:ctgov:NCT06504511:role",
+      "ev:ctgov:NCT06967727:role",
+      "ev:seed:registry:simons-searchlight:SCN1A"
      ]
     },
     {
-     "text": "Is Dravet Syndrome Foundation the right contact for SCN1A-related seizure disorders, and does it run a registry.",
+     "text": "Is the Dravet Syndrome Foundation the right contact, and does your community run a registry.",
      "evidenceIds": [
       "ev:seed:org:dravet-syndrome-foundation"
      ]
     },
     {
-     "text": "Has our child's specific CHD2 variant been functionally classified as loss of function, gain of function, or dominant negative, and does it match the mechanism recorded for the condition.",
+     "text": "Has a child's specific CHD2 variant been functionally classified as loss of function, gain of function, or dominant negative, and does it match the mechanism recorded for the condition.",
      "evidenceIds": [
-      "ev:g2p:G2P01420",
-      "ev:hpoa:OMIM:615369",
       "ev:rule:R4",
-      "ev:rule:R5",
-      "ev:rule:R6"
+      "ev:g2p:G2P01420",
+      "ev:hpoa:OMIM:615369"
      ]
     },
     {
-     "text": "What functional evidence exists for CHD2, given that the curated mechanism is inferred from variant types rather than functional studies.",
+     "text": "What functional evidence exists for CHD2, given that the recorded mechanism is inferred from variant types rather than direct functional studies.",
      "evidenceIds": [
       "ev:g2p:G2P01420",
-      "ev:rule:R4",
-      "ev:rule:R5",
-      "ev:rule:R6"
+      "ev:hpoa:OMIM:615369"
      ]
     },
     {
@@ -350,28 +291,28 @@
  ],
  "glossary": [
   {
-   "term": "Loss of function",
-   "meaning": "A change that reduces how much a gene works or how much working protein is made."
+   "term": "loss of function",
+   "meaning": "A gene change that reduces how much the gene works."
   },
   {
-   "term": "Phenotype",
-   "meaning": "The features and symptoms seen in a person or group."
-  },
-  {
-   "term": "Natural history study",
+   "term": "natural history study",
    "meaning": "A study that follows people over time to learn how a condition changes."
   },
   {
-   "term": "Endpoint",
-   "meaning": "A result a study measures to judge change, such as seizure counts or daily function."
+   "term": "outcome measure",
+   "meaning": "A way to track symptoms, daily function, or other changes in a study."
   },
   {
-   "term": "Variant",
-   "meaning": "A change in a gene's DNA sequence."
+   "term": "clinical geneticist",
+   "meaning": "A doctor who interprets genetic test results and how they may affect health."
   },
   {
-   "term": "Clinical geneticist",
-   "meaning": "A doctor who interprets gene findings in the context of the person and family."
+   "term": "disease model",
+   "meaning": "A cell or animal system used in research to study a condition."
+  },
+  {
+   "term": "dominant negative",
+   "meaning": "A gene change where the altered gene product interferes with the normal one."
   }
  ],
  "droppedSentences": 0

@@ -15,7 +15,13 @@ export function InvestigatorList({ investigators, focalConditionId, neighborIds 
                 bridge
               </Chip>
             )}
-            {inv.conditionIds.includes(focalConditionId) ? <Chip tone="neutral">works on this condition</Chip> : inv.conditionIds.some((x) => neighborIds.includes(x)) ? <Chip tone="neutral">works on a neighbor shown above</Chip> : null}
+            {inv.records.some((r) => r.conditionIds.includes(focalConditionId) && r.namesCondition) ? (
+              <Chip tone="neutral" title="A linked public record names this condition">works on this condition</Chip>
+            ) : inv.conditionIds.includes(focalConditionId) ? (
+              <Chip tone="neutral" title="The linked records mention the gene, not this condition by name">linked to this gene</Chip>
+            ) : inv.conditionIds.some((x) => neighborIds.includes(x)) ? (
+              <Chip tone="neutral">works on a neighbor shown above</Chip>
+            ) : null}
           </div>
           {inv.organizations.length > 0 && <div className="text-ink-2 text-xs mt-0.5">{inv.organizations.slice(0, 2).join("; ")}</div>}
           <div className="text-xs text-ink-2 mt-1">

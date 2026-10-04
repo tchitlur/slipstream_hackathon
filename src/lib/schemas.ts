@@ -339,6 +339,8 @@ export const InvestigatorSchema = z.object({
       url: z.string(),
       role: z.string(),
       conditionIds: z.array(z.string()),
+      /** True when the record itself names the condition (disease name), not only the gene symbol. */
+      namesCondition: z.boolean().optional(),
     }),
   ),
   conditionIds: z.array(z.string()),

@@ -17,6 +17,7 @@ import type {
   BuildManifest,
   PhenotypesFile,
   LiteratureFile,
+  RegistryRecord,
 } from "./schemas";
 
 const DERIVED = path.join(process.cwd(), "data", "derived");
@@ -47,6 +48,7 @@ type Store = {
   literature: LiteratureFile | null;
   layout: { nodes: Record<string, { x: number; y: number }>; edges: [string, string, number][]; threshold: number } | null;
   baseline: Baseline | null;
+  registries: Record<string, RegistryRecord>;
 };
 export type Baseline = {
   computedAt: string;
@@ -81,6 +83,7 @@ export function getStore(): Store {
     literature: readJson<LiteratureFile | null>("literature.json", null),
     layout: readJson("layout.json", null),
     baseline: readJson<Baseline | null>("baseline.json", null),
+    registries: readJson<{ registries: Record<string, RegistryRecord> }>("registries.json", { registries: {} }).registries,
   };
   return store;
 }
@@ -132,6 +135,10 @@ export function getStudiesFor(conditionId: string): Study[] {
 
 export function getOrgsFor(conditionId: string): PatientOrg[] {
   return Object.values(getStore().orgs).filter((o) => o.conditionIds.includes(conditionId));
+}
+
+export function getRegistriesFor(conditionId: string): RegistryRecord[] {
+  return Object.values(getStore().registries).filter((r) => r.conditionIds.includes(conditionId));
 }
 
 export function getGrantsFor(conditionId: string): Grant[] {

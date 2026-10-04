@@ -1,0 +1,99 @@
+{
+ "comparedAt": "2026-10-04",
+ "model": "gpt-5.4",
+ "labelledNow": 65,
+ "labelledEarlier": 65,
+ "differing": [
+  {
+   "studyId": "NCT06872125",
+   "earlier": "gene_product",
+   "now": "symptomatic_or_unknown",
+   "confidence": "low",
+   "reason": "The record evaluates zorevunersen in Dravet syndrome with SCN1A variants and notes exclusion of gain-of-function variants and sodium channel blockers \"given the mechanism of action of zorevunersen,\" but it does not explicitly state what zorevunersen acts on."
+  },
+  {
+   "studyId": "NCT04740476",
+   "earlier": "gene_product",
+   "now": "symptomatic_or_unknown",
+   "confidence": "low",
+   "reason": "The record says this study evaluates repeated doses of zorevunersen in Dravet syndrome and measures seizure frequency and clinical status, but it does not state what the drug acts on or describe a mechanism linked to SCN1A."
+  },
+  {
+   "studyId": "NCT07150013",
+   "earlier": "pathway",
+   "now": "symptomatic_or_unknown",
+   "confidence": "low",
+   "reason": "The record says the trial will evaluate the safety and efficacy of vorinostat in Rett syndrome and measure clinical/laboratory changes and 'changes in mRNA expression (transcriptome response),' but it does not state that vorinostat acts on MECP2 or on a named downstream pathway."
+  },
+  {
+   "studyId": "NCT07150026",
+   "earlier": "pathway",
+   "now": "symptomatic_or_unknown",
+   "confidence": "low",
+   "reason": "The record describes vorinostat as being evaluated for safety/efficacy in Pitt-Hopkins syndrome and measuring 'changes in mRNA expression (transcriptome response),' but it does not state that the drug acts on TCF4 itself or on a named downstream pathway."
+  },
+  {
+   "studyId": "NCT07293546",
+   "earlier": "symptomatic_or_unknown",
+   "now": "gene_product",
+   "confidence": "high",
+   "reason": "The record describes FRF-001 as 'an AAV-9 gene therapy' for participants with FOXG1 syndrome, indicating it acts at the level of the disease gene."
+  },
+  {
+   "studyId": "NCT04112862",
+   "earlier": "pathway",
+   "now": "symptomatic_or_unknown",
+   "confidence": "low",
+   "reason": "The record says the study tests \"the effect of lactate infusion on epileptic discharges on EEG and seizure frequency\" in GLUT1DS patients, without stating that it acts on SLC2A1 or a named downstream pathway."
+  },
+  {
+   "studyId": "NCT02021526",
+   "earlier": "pathway",
+   "now": "symptomatic_or_unknown",
+   "confidence": "medium",
+   "reason": "The record describes triheptanoin as 'a food supplement or medical food' and measures 'changes in brain metabolic rate' and 'maintenance of ketosis' during treatment, without stating that it acts on SLC2A1 or its protein product."
+  },
+  {
+   "studyId": "NCT07377032",
+   "earlier": "gene_product",
+   "now": "symptomatic_or_unknown",
+   "confidence": "low",
+   "reason": "The record describes \"L-serine dietary supplementation\" for GRIN-related neurodevelopmental disorders caused by loss-of-function variants, but it does not state that L-serine directly acts on GRIN2A or its gene product or on a named downstream pathway."
+  },
+  {
+   "studyId": "NCT07224581",
+   "earlier": "symptomatic_or_unknown",
+   "now": "gene_product",
+   "confidence": "high",
+   "reason": "The record enrolls participants with GRIN1/2A/2B/2D variants \"known to result in GoF of the NMDA receptor,\" and the condition is described as treatable with NMDA receptor channel blockers, indicating the intervention acts on the receptor encoded by the GRIN genes."
+  },
+  {
+   "studyId": "NCT04646447",
+   "earlier": "gene_product",
+   "now": "pathway",
+   "confidence": "high",
+   "reason": "The record states that \"mutations leading to glutamatergic hypotransmission can be potentially treated with L-Serine,\" indicating it is intended to act on the named glutamatergic transmission pathway rather than directly on GRIN2A itself."
+  },
+  {
+   "studyId": "NCT07135050",
+   "earlier": "symptomatic_or_unknown",
+   "now": "gene_product",
+   "confidence": "high",
+   "reason": "The record describes MZ-1866 as \"an AAV-9 Gene Therapy\" for participants with Pitt Hopkins syndrome who have a pathogenic or likely pathogenic TCF4 mutation."
+  },
+  {
+   "studyId": "NCT04706013",
+   "earlier": "pathway",
+   "now": "symptomatic_or_unknown",
+   "confidence": "low",
+   "reason": "The record states that patients with genetically confirmed PNPO deficiency whose \"seizures are typically controlled on P5P (oral) therapy\" will receive P5P, but it does not explicitly say that P5P acts on the PNPO gene product or name a downstream pathway as the rationale."
+  },
+  {
+   "studyId": "NCT02500082",
+   "earlier": "pathway",
+   "now": "symptomatic_or_unknown",
+   "confidence": "low",
+   "reason": "The record says triheptanoin is being used \"to determine whether [it] is effective in the treatment of neurological symptoms related to citrate transporter deficiency,\" but it does not state that it acts on SLC13A5 or a named downstream pathway."
+  }
+ ]
+}

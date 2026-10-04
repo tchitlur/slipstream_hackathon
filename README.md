@@ -41,7 +41,7 @@ Production URL: **https://slipstreamhackathon.vercel.app/** (Vercel; smoke-teste
 
 One TypeScript codebase. `src/lib/schemas.ts` holds the zod schema for every derived file and is shared by the pipeline and the app. Four evidence kinds are kept apart everywhere: curated records, extracted claims (verbatim-verified quotes with offsets), computed values, and rule-produced hypotheses.
 
-LLM use is narrow and audited: T1 (mechanism claims from abstracts), T2 (study classification), T3 (name reconciliation), T4 (brief). All calls go to the OpenAI API with structured outputs, are cached in `data/llm/cache.jsonl` with inputs and outputs, and are priced in `data/llm/ledger.json`. Quotes that are not verbatim substrings of the cached source are discarded and counted. Brief sentences without a valid evidence id are dropped; a brief that loses more than a fifth is regenerated once, then replaced by a deterministic template.
+LLM use is narrow and audited: T1 (mechanism claims from abstracts), T2 (study classification), T3 (name reconciliation), T4 (brief), T5 (review of claims that disagree with the curated mechanism, run inside the literature stage), T6 (three-level target label for targeted trials and approved therapies, run inside the studies and analytics stages). Every label the UI shows that a model decided comes from one of these stages and is marked in the UI as an automated review, not a biomedical expert review. All calls go to the OpenAI API with structured outputs, are cached in `data/llm/cache.jsonl` with inputs and outputs, and are priced in `data/llm/ledger.json`. Quotes that are not verbatim substrings of the cached source are discarded and counted. Brief sentences without a valid evidence id are dropped; a brief that loses more than a fifth is regenerated once, then replaced by a deterministic template.
 
 ## Reproduce the dataset
 
@@ -50,6 +50,7 @@ npm install
 export OPENAI_API_KEY=...            # required for T1-T4; without it the curated and computed layers still build
 export OPENAI_MODEL_EXPLAIN=gpt-5.4  # T1 and T4 (default)
 export OPENAI_MODEL_EXTRACT=gpt-5.4-mini  # T2 and T3 (default)
+export OPENAI_MODEL_REVIEW=gpt-5.4   # T5 and T6 (default)
 export NCBI_API_KEY=...              # optional; raises the PubMed rate limit
 export SLIPSTREAM_LLM_BUDGET_USD=7   # optional; the pipeline stops LLM work at this estimate
 
@@ -59,9 +60,11 @@ npm run data:build -- --all          # also add the whole Gene2Phenotype DD pane
 npm run data:build -- --genes "SCN1A SCN2A"   # a smaller slice
 ```
 
+Stage by stage: `00_probe` (source reachability), `01_mechanism` (Gene2Phenotype backbone), `02_phenotypes` (HPO), `03_similarity` (simGIC, cutoffs), `04_literature` (PubMed; T1 claims, then T5 review of dissenting claims, writes `data/derived/contested_review.json` and a diff against the earlier agent file), `05_studies` (ClinicalTrials.gov; T2 classification, then T6 target levels, writes `data/derived/target_levels.json` and a diff), `06_reconcile` (T3 names), `07_orgs` (seed organizations and registries), `08_funding` (NIH RePORTER, investigators), `09_analytics` (ladders, verdicts, baseline, T6 therapy levels into `data/derived/therapy_levels.json`), `10_briefs` (T4), `98_notes`, `99_validate`.
+
 Stages can be run one at a time (`npm run data:mechanism`, `data:phenotypes`, `data:similarity`, `data:literature`, `data:studies`, `data:reconcile`, `data:orgs`, `data:funding`, `data:analytics`, `data:briefs`, `data:validate`). Every stage caches raw responses under `data/raw/` and skips work that is already cached; LLM re-runs cost nothing because of the content-addressed cache. `data/derived/build-manifest.json` records source versions, row counts, thresholds, LLM spend and the git commit.
 
-Hand-maintained inputs: `data/seed/genes.txt`, `data/seed/patient_orgs.json` (every entry is `verified: false` until a human opens the URL and flips it), `data/seed/approved_therapies.json` (empty; only entries with a regulator or label URL may be added).
+Hand-maintained inputs: `data/seed/genes.txt`; `data/seed/patient_orgs.json`, `data/seed/shared_registries.json`, `data/seed/org_registry_participation.json` and `data/seed/external_registries.json` (organization and registry listings are seed data checked once by an automated agent on 2026-10-04, with the page snippet it read stored as evidence; no entry is human-verified); `data/seed/approved_therapies.json` (only entries with a regulator or label URL; the target level shown in the UI is assigned by T6, not taken from this file). The earlier agent-written review files `data/seed/contested_review.json` and `data/seed/study_target_levels.json` are no longer used for display; the pipeline keeps them only to log where T5 and T6 differ from them.
 
 ## Run and deploy
 

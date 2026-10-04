@@ -8,7 +8,7 @@ import { RelationChip, SimilarityBar } from "./Ladder";
 
 type Related = { condition: { id: string; name: string; geneSymbol: string; href: string }; similarity: number; relation?: MechanismRelation; orgs: PatientOrg[] };
 
-export function CommunitySection({ condition, orgs, related, orgsSearched }: { condition: { id: string; name: string; geneSymbol: string; depth: "deep" | "shallow" }; orgs: PatientOrg[]; related: Related[]; orgsSearched: boolean }) {
+export function CommunitySection({ condition, orgs, related, orgsSearched, sharedRegistries = [] }: { condition: { id: string; name: string; geneSymbol: string; depth: "deep" | "shallow" }; orgs: PatientOrg[]; related: Related[]; orgsSearched: boolean; sharedRegistries?: { name: string; url: string; evidenceIds: string[] }[] }) {
   return (
     <section aria-labelledby="community-h">
       <h2 id="community-h" className="text-2xl mb-1">Community</h2>
@@ -21,7 +21,20 @@ export function CommunitySection({ condition, orgs, related, orgsSearched }: { c
                   {o.name}
                 </a>
                 <div className="text-sm text-ink-2">
-                  {o.registry === "yes" ? "States a registry or natural history study on its site" : o.registry === "no" ? "No registry stated on its site" : "Registry: unknown"}
+                  {o.registry === "yes" ? "States a registry or natural history study on its site" : o.registry === "no" ? "No registry stated on its site" : "Registry: not stated on its site"}
+                  {o.registry !== "yes" && sharedRegistries.length > 0 && (
+                    <>
+                      {"; "}
+                      {condition.geneSymbol} is included in the shared registry{sharedRegistries.length > 1 ? "ies" : ""}{" "}
+                      {sharedRegistries.map((r, i) => (
+                        <span key={r.name}>
+                          {i > 0 && ", "}
+                          <a href={r.url} target="_blank" rel="noopener noreferrer" className="underline">{r.name}</a>{" "}
+                          <EvidenceLink ids={r.evidenceIds} title={r.name} className="text-xs text-muted underline decoration-dotted">evidence</EvidenceLink>
+                        </span>
+                      ))}
+                    </>
+                  )}
                   {o.registryUrl && (
                     <>
                       {" "}

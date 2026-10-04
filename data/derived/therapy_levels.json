@@ -1,0 +1,73 @@
+{
+ "reviewedAt": "2026-10-04",
+ "reviewer": "automated review (gpt-5.4), not a biomedical expert review",
+ "model": "gpt-5.4",
+ "levels": {
+  "SCN1A|cannabidiol (Epidiolex)": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "cannabidiol (Epidiolex)",
+   "reason": "The label states Epidiolex is indicated 'for the treatment of seizures associated with... Dravet syndrome,' which describes seizure control rather than acting on SCN1A or a named downstream pathway.",
+   "confidence": "high"
+  },
+  "SCN1A|fenfluramine (Fintepla)": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "fenfluramine (Fintepla)",
+   "reason": "The label states Fintepla is indicated 'for the treatment of seizures associated with Dravet syndrome,' and fenfluramine is a broad anti-seizure medicine (serotonergic/sigma-1 receptor effects) rather than a therapy stated to act on SCN1A or a specific downstream SCN1A pathway.",
+   "confidence": "high"
+  },
+  "SCN1A|stiripentol (Diacomit)": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "stiripentol (Diacomit)",
+   "reason": "The label states it is indicated 'for the treatment of seizures associated with Dravet syndrome,' and stiripentol is a broad antiseizure medicine that enhances GABAergic signaling rather than directly targeting SCN1A or a named downstream SCN1A-specific pathway.",
+   "confidence": "high"
+  },
+  "MECP2|trofinetide (Daybue)": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "trofinetide (Daybue)",
+   "reason": "The label states only that Daybue is 'indicated for the treatment of Rett syndrome,' and trofinetide’s established action is not correction or replacement of MECP2 itself but a broader neurobiologic effect, so this is not a gene-product-targeted therapy.",
+   "confidence": "medium"
+  },
+  "CDKL5|ganaxolone (Ztalmy)": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "ganaxolone (Ztalmy)",
+   "reason": "The label states it is indicated 'for the treatment of seizures associated with' CDKL5 deficiency disorder, and ganaxolone is a broad GABA-A receptor–modulating antiseizure medicine rather than a therapy directed at CDKL5 or a named downstream CDKL5 pathway.",
+   "confidence": "high"
+  },
+  "TSC1|everolimus (Afinitor / Afinitor Disperz)": {
+   "target": "pathway",
+   "intervention": "everolimus (Afinitor / Afinitor Disperz)",
+   "reason": "The label indicates everolimus for TSC-associated SEGA and partial-onset seizures, and everolimus is a well-established mTOR inhibitor acting on the dysregulated mTOR signaling pathway in TSC rather than directly on TSC1 itself.",
+   "confidence": "high"
+  },
+  "TSC2|everolimus (Afinitor / Afinitor Disperz)": {
+   "target": "pathway",
+   "intervention": "everolimus (Afinitor / Afinitor Disperz)",
+   "reason": "The label indicates everolimus for TSC-associated SEGA and partial-onset seizures, and everolimus is a well-established mTOR inhibitor, so in TSC it acts on the dysregulated downstream mTOR signaling pathway rather than directly on TSC2.",
+   "confidence": "high"
+  },
+  "TSC1|cannabidiol (Epidiolex)": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "cannabidiol (Epidiolex)",
+   "reason": "The label states Epidiolex is indicated \"for the treatment of seizures associated with ... tuberous sclerosis complex,\" and cannabidiol is a broad anti-seizure therapy rather than a treatment directed at TSC1/TSC2 or a named downstream TSC pathway in this record.",
+   "confidence": "high"
+  },
+  "TSC2|cannabidiol (Epidiolex)": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "cannabidiol (Epidiolex)",
+   "reason": "The label states that EPIDIOLEX is indicated for 'the treatment of seizures associated with ... tuberous sclerosis complex,' which describes a broad symptomatic anti-seizure treatment rather than action on TSC2 or a named downstream pathway.",
+   "confidence": "high"
+  },
+  "TSC1|sirolimus topical gel (Hyftor)": {
+   "target": "pathway",
+   "intervention": "sirolimus topical gel (Hyftor)",
+   "reason": "Sirolimus is a well-established mTOR inhibitor, so in tuberous sclerosis it acts on the downstream mTOR signaling pathway rather than directly on TSC1 or its gene product.",
+   "confidence": "high"
+  },
+  "TSC2|sirolimus topical gel (Hyftor)": {
+   "target": "pathway",
+   "intervention": "sirolimus topical gel (Hyftor)",
+   "reason": "The label indicates HYFTOR treats facial angiofibroma associated with tuberous sclerosis, and sirolimus is a well-established mTOR inhibitor that acts on the dysregulated mTOR pathway downstream of TSC2 loss rather than directly on the TSC2 gene product.",
+   "confidence": "high"
+  }
+ }
+}

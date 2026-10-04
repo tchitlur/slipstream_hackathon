@@ -11,6 +11,7 @@ export function BriefView({ focalId, neighborId, pregenerated, evidence, neighbo
   const [source, setSource] = useState<string>(pregenerated ? "pregenerated" : "");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [expanded, setExpanded] = useState<Set<string>>(new Set());
   const [copied, setCopied] = useState(false);
 
   const draft = async () => {
@@ -82,7 +83,7 @@ export function BriefView({ focalId, neighborId, pregenerated, evidence, neighbo
         <article className="border border-line rounded-md bg-white p-5 sm:p-8 max-w-3xl print:border-0 print:p-0">
           <div className="flex flex-wrap items-center gap-2 text-xs text-muted mb-4">
             <span>
-              {brief.mode === "llm" ? `Drafted with ${brief.model ?? "an LLM"} and checked sentence by sentence against the evidence pack` : "Deterministic template built from the evidence pack (no language model involved)"}
+              {brief.mode === "llm" ? `Drafted with ${brief.model ?? "an LLM"} and checked sentence by sentence against the evidence records` : "Deterministic template built from the evidence pack (no language model involved)"}
               {brief.droppedSentences > 0 ? `; ${brief.droppedSentences} ungrounded sentence${brief.droppedSentences === 1 ? "" : "s"} removed` : ""}.
             </span>
             <span>Generated {brief.generatedAt.slice(0, 10)}.</span>
@@ -92,16 +93,30 @@ export function BriefView({ focalId, neighborId, pregenerated, evidence, neighbo
             <section key={s.heading} className="mb-5">
               <h3 className="text-lg mb-1">{s.heading}</h3>
               <p className="text-[15px] leading-relaxed text-ink">
-                {s.sentences.map((sent, i) => (
-                  <span key={i}>
-                    {sent.text}
-                    {sent.evidenceIds.map((id) => (
-                      <EvidenceLink key={id} ids={[id]} title={evidence[id]?.title ?? id} className="align-super text-[10px] text-accent ml-0.5 no-underline hover:underline">
-                        {footnotes.get(id)}
-                      </EvidenceLink>
-                    ))}{" "}
-                  </span>
-                ))}
+                {s.sentences.map((sent, i) => {
+                  // Most specific evidence first: extracted (verbatim quote) > curated record > computed > hypothesis.
+                  const rank = (id: string) => ({ extracted: 0, curated: 1, computed: 2, hypothesis: 3 })[evidence[id]?.kind ?? "hypothesis"] ?? 3;
+                  const ordered = [...sent.evidenceIds].sort((a, b) => rank(a) - rank(b) || (footnotes.get(a) ?? 0) - (footnotes.get(b) ?? 0));
+                  const key = `${s.heading}:${i}`;
+                  const showAll = expanded.has(key);
+                  const shown = showAll ? ordered : ordered.slice(0, 3);
+                  const hidden = ordered.length - shown.length;
+                  return (
+                    <span key={i}>
+                      {sent.text}
+                      {shown.map((id) => (
+                        <EvidenceLink key={id} ids={[id]} title={evidence[id]?.title ?? id} className="align-super text-[10px] text-accent ml-0.5 no-underline hover:underline">
+                          {footnotes.get(id)}
+                        </EvidenceLink>
+                      ))}
+                      {hidden > 0 && (
+                        <button type="button" onClick={() => setExpanded((prev) => new Set(prev).add(key))} className="align-super text-[10px] text-muted ml-0.5 underline decoration-dotted no-print" aria-label={`Show ${hidden} more footnotes`}>
+                          +{hidden}
+                        </button>
+                      )}{" "}
+                    </span>
+                  );
+                })}
               </p>
             </section>
           ))}
