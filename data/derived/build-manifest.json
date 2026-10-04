@@ -1,5 +1,5 @@
 {
- "builtAt": "2026-10-04T01:04:42.689Z",
+ "builtAt": "2026-10-04T01:07:51.118Z",
  "sources": {
   "g2p": {
    "url": "https://ftp.ebi.ac.uk/pub/databases/gene2phenotype/G2P_data_downloads/2026_09_28/DDG2P_2026-09-28.csv.gz",
@@ -26,7 +26,7 @@
   },
   "pubmed": {
    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils",
-   "retrievedAt": "2026-10-03T20:43:29.304Z"
+   "retrievedAt": "2026-10-04T01:07:51.117Z"
   },
   "reporter": {
    "url": "https://api.reporter.nih.gov/v2/projects/search",
@@ -64,7 +64,7 @@
   "clusters": 351,
   "layoutEdges": 13556,
   "demoCandidates": 3,
-  "contestedMechanisms": 18,
+  "contestedMechanisms": 16,
   "bridges": 44,
   "milestone1_found_deep": 79,
   "milestone2_found_deep": 61,
@@ -94,11 +94,15 @@
   "reconcile_none": 214,
   "reconcile_llm": 73,
   "studiesRefinedByReconciliation": 0,
-  "conditionsWithSingleDissent": 11,
+  "conditionsWithSingleDissent": 6,
   "briefsPregenerated": 3,
   "briefsLlm": 3,
   "briefsTemplate": 0,
-  "grantsDroppedByRelevance": 456
+  "grantsDroppedByRelevance": 456,
+  "mechanismBothDirections": 13,
+  "mechanismContestedStrict": 3,
+  "claimsRejectedOnReview": 20,
+  "claimsReviewed": 93
  },
  "thresholds": {
   "thinAnnotationTerms": 5,
@@ -218,5 +222,5 @@
  ],
  "genesDropped": [],
  "notes": [],
- "gitCommit": "61071bf"
+ "gitCommit": "a4a5acf"
 }

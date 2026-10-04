@@ -29,3 +29,14 @@ Observations for the human to review. Where fetched data contradicts an expectat
 - LLM spend (upper-bound price estimate): $3.33.
 
 <!-- generated:end -->
+
+## Needs a biomedical eye (from the 2026-10-04 automated review of contested claims)
+
+- KCNC1 p.Arg320His (G2P00467): curated gain of function, but PMIDs 25401298, 33735526 and 28145425 report this progressive-myoclonus-epilepsy variant as dominant-negative loss of function. Possibly a curation issue rather than a scientific dispute.
+- SCN8A epileptic encephalopathy (G2P01608): curated dominant negative; PMID 34431999 (392 patients) and reviews 31904118 and 34353676 describe DEE variants as gain of function.
+- EEF1A2 (G2P01600), PMID 32196822: haploinsufficiency argued for the same de novo missense class curated as gain of function; genuinely unsettled.
+- GNAO1 G203R: PMID 40229422 calls it dominant negative, PMID 28747448 gain of function; both kept, not resolved.
+- Dominant-negative claims against curated loss of function (KCNA2, GABRG2, GRIN2A, GNAO1, KCNQ2 BFNE): counted as "another direction" because Gene2Phenotype treats dominant negative as a distinct category; a curator may read DN as refining LoF rather than opposing it.
+- SATB2 PMID 17377962 (dominant-negative effect only predicted), ADNP PMID 41174994 (overexpression assays), GRIN2D PMID 28212175 (precision-medicine review list): kept at low confidence.
+- GABRA1 PMID 39642202: literature.json attributes the paper to GABRG2 but the cohort includes GABRA1 variants.
+- Trofinetide (Daybue) is labelled as treating symptoms because its label states the mechanism is unknown; "mechanism" is arguable. Sirolimus gel (Hyftor) is labelled mechanism on the basis of mTOR inhibition although its label calls the mechanism in angiofibroma unknown.

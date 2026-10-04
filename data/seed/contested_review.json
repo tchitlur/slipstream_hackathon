@@ -1035,10 +1035,11 @@
       "note": "Published patient series describe both gain- and loss-of-function SCN2A variants; gain of function is typical of neonatal-onset epilepsy and loss of function of later-onset epilepsy, autism and intellectual disability, so which applies depends on the individual variant."
     },
     "cond:G2P00222": {
-      "suggestedLabel": "contested",
+      "suggestedLabel": "none",
       "keptPapers": 1,
       "curatedMechanism": "loss of function",
-      "note": "One early report predicted (but did not prove) that a truncated SATB2 protein might act dominant-negatively; the curated loss-of-function mechanism is not seriously challenged by a single predicted case."
+      "note": "One early report predicted (but did not prove) that a truncated SATB2 protein might act dominant-negatively; the curated loss-of-function mechanism is not seriously challenged by a single predicted case.",
+      "caveat": "The single kept claim is flagged as a same-variant-class dispute (predicted dominant-negative effect of a nonsense variant), but as it comes from one paper and is a prediction only, the condition is labelled none rather than contested."
     },
     "cond:G2P00251": {
       "suggestedLabel": "both_directions",
