@@ -250,6 +250,37 @@ async function main() {
     for (const id of overrides.checked) if (studies[id]?.classification && !studies[id].classification!.reviewed) studies[id].classification = { ...studies[id].classification!, reviewed: { date: overrides.reviewedAt, reviewer: overrides.reviewer, reason: "confirmed" } };
   }
 
+  // Three-level target label (gene_product / pathway / symptomatic_or_unknown) from the automated assignment file; a
+  // study not covered there falls back to its modality (antisense and gene therapy act on the gene product).
+  type Levels = { reviewedAt: string; reviewer: string; levels: Record<string, { target: "gene_product" | "pathway" | "symptomatic_or_unknown"; reason: string; confidence?: string }> };
+  const levels = readJsonOr<Levels | null>(files.seedTargetLevels, null);
+  const targeted = Object.values(studies).filter((st) => st.classification?.aboutCondition && st.classification.role === "interventional_targeted");
+  const normName = (n: string) => n.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+  // Levels stated by a sibling trial of the same intervention (confidence at least medium) propagate to record-silent trials.
+  const statedByIntervention = new Map<string, { target: Levels["levels"][string]["target"]; from: string }>();
+  for (const st of targeted) {
+    const lv = levels?.levels[st.id];
+    if (!lv || lv.confidence === "low") continue;
+    for (const i of st.interventions) if (i.name && !statedByIntervention.has(normName(i.name))) statedByIntervention.set(normName(i.name), { target: lv.target, from: st.id });
+  }
+  for (const st of targeted) {
+    const lv = levels?.levels[st.id];
+    const modality = st.classification!.modality;
+    const geneLevelModality = modality === "antisense" || modality === "gene_therapy";
+    if (lv && lv.confidence !== "low") {
+      st.classification = { ...st.classification!, target: lv.target, targetReason: `${lv.reason} (${levels!.reviewer}, ${levels!.reviewedAt})` };
+    } else if (geneLevelModality) {
+      // An antisense oligonucleotide acts on a transcript and a gene therapy delivers a gene: the modality itself places the
+      // trial at the gene-product level even when the record does not spell out the target.
+      st.classification = { ...st.classification!, target: "gene_product", targetReason: `by modality (${modality.replace(/_/g, " ")} acts on the gene or its transcript)${lv ? "; record itself is silent on the target: " + lv.reason : "; not individually reviewed"}` };
+    } else {
+      const sib = st.interventions.map((i) => statedByIntervention.get(normName(i.name))).find(Boolean);
+      if (sib) st.classification = { ...st.classification!, target: sib.target, targetReason: `propagated from a sibling trial of the same intervention (${sib.from}) whose record states the mechanism${lv ? "; this record is silent: " + lv.reason : ""}` };
+      else if (lv) st.classification = { ...st.classification!, target: lv.target, targetReason: `${lv.reason} (${levels!.reviewer}, ${levels!.reviewedAt}; low confidence)` };
+      else st.classification = { ...st.classification!, target: "pathway", targetReason: "default from modality; not individually reviewed" };
+    }
+  }
+
   // Build evidence for studies about a condition with a verified quote.
   const evidence: Evidence[] = [];
   const kept: Record<string, Study> = {};
@@ -274,7 +305,7 @@ async function main() {
         quote: { ...q, sourceText: `ctgov:${s.id}` },
         confidence: s.status === "WITHDRAWN" || s.status === "TERMINATED" ? "low" : "medium",
         title: `${s.id}: ${s.briefTitle}`,
-        note: `Classified as ${s.classification.role.replace(/_/g, " ")}${s.classification.modality !== "none" ? ", modality " + s.classification.modality.replace(/_/g, " ") : ""}; status ${s.status}${s.phases.length ? ", phase " + s.phases.join("/") : ""}.${s.classification.reviewed ? ` Label re-checked on ${s.classification.reviewed.date}${s.classification.reviewed.before ? " and changed from " + s.classification.reviewed.before.role.replace(/_/g, " ") + " / " + s.classification.reviewed.before.modality.replace(/_/g, " ") + ": " + s.classification.reviewed.reason : " (confirmed)"}.` : ""} A study existing is not evidence that a therapy works.`,
+        note: `Classified as ${s.classification.role.replace(/_/g, " ")}${s.classification.modality !== "none" ? ", modality " + s.classification.modality.replace(/_/g, " ") : ""}${s.classification.target ? `; target level: ${s.classification.target === "gene_product" ? "acts on the gene or its product" : s.classification.target === "pathway" ? "acts on a downstream pathway" : "symptomatic or mechanism not established"}${s.classification.targetReason ? " (" + s.classification.targetReason + ")" : ""}` : ""}; status ${s.status}${s.phases.length ? ", phase " + s.phases.join("/") : ""}.${s.classification.reviewed ? ` Label re-checked on ${s.classification.reviewed.date}${s.classification.reviewed.before ? " and changed from " + s.classification.reviewed.before.role.replace(/_/g, " ") + " / " + s.classification.reviewed.before.modality.replace(/_/g, " ") + ": " + s.classification.reviewed.reason : " (confirmed)"}.` : ""} A study existing is not evidence that a therapy works.`,
       };
       evidence.push(ev);
       ids.push(ev.id);
@@ -328,6 +359,10 @@ async function main() {
     m.counts.studiesWithMechanismExclusion = excludes.length;
     m.counts.studiesRecheckedByReview = overrides?.checked.length ?? 0;
     m.counts.studiesChangedByReview = overridden;
+    const tg = Object.values(kept).filter((s) => s.classification?.aboutCondition && s.classification.role === "interventional_targeted");
+    m.counts.targetedGeneProduct = tg.filter((s) => s.classification!.target === "gene_product").length;
+    m.counts.targetedPathway = tg.filter((s) => s.classification!.target === "pathway").length;
+    m.counts.targetedSymptomaticOrUnknown = tg.filter((s) => s.classification!.target === "symptomatic_or_unknown").length;
     // Recomputed over every classified study (cached calls re-run for free), so re-runs do not accumulate.
     const classified = Object.values(studies).filter((s) => s.classification);
     m.counts.t2QuotesVerified = classified.reduce((a, s) => a + (s.classification!.quoteVerified ? 1 : 0) + (s.classification!.excludesQuoteVerified ? 1 : 0), 0);

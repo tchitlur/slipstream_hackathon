@@ -105,7 +105,7 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
             <Chip tone={c.confidence === "definitive" || c.confidence === "strong" ? "ok" : "warn"}>gene link: {c.confidence}</Chip>
             {c.contested && (
               <EvidenceLink ids={[c.contested.curatedEvidenceId]} contradictingIds={c.contested.claims.map((cl) => cl.evidenceId)} title={`Contested mechanism: ${c.name}`} detail={`Curated: ${c.contested.curatedMechanism}. ${c.contested.claims.length} verified published claim(s) point in a different direction.`} className="inline-flex">
-                <Chip tone="warn">{c.contested.kind === "both_directions" ? "both directions reported" : "contested mechanism"}</Chip>
+                <Chip tone="warn">{c.contested.kind === "both_directions" ? "both directions reported" : c.contested.kind === "different_mechanism" ? "different mechanism also reported" : "contested mechanism"}</Chip>
               </EvidenceLink>
             )}
             {c.depth === "shallow" && <Chip tone="neutral">mechanism and symptoms only; deeper layers not yet built</Chip>}
@@ -146,11 +146,11 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
           {sameGeneOther.length > 0 && <SameGeneNotice conditions={sameGeneOther.map((o) => ({ id: o!.id, name: o!.name, roadLabel: roadById(o!.roadId)?.label ?? "", href: conditionHref(o!.id), roadId: o!.roadId }))} />}
           {c.contested && (
             <div className="border border-[#fdba74] bg-warn-bg rounded-md p-3 text-sm">
-              <div className="font-medium text-warn mb-1">{c.contested.kind === "both_directions" ? "Both directions reported in patients" : "Mechanism is contested"}</div>
+              <div className="font-medium text-warn mb-1">{c.contested.kind === "both_directions" ? "Both directions reported in patients" : c.contested.kind === "different_mechanism" ? "A different mechanism is also reported" : "Mechanism is contested"}</div>
               <p className="text-ink-2">
                 Gene2Phenotype records <strong>{c.contested.curatedMechanism}</strong>. {c.contested.claims.length} verified sentence{c.contested.claims.length === 1 ? "" : "s"} from {new Set(c.contested.claims.map((cl) => cl.pmid)).size} PubMed paper{new Set(c.contested.claims.map((cl) => cl.pmid)).size === 1 ? "" : "s"} describe{new Set(c.contested.claims.map((cl) => cl.pmid)).size === 1 ? "s" : ""} {c.geneSymbol} variants acting as{" "}
                 {Array.from(new Set(c.contested.claims.map((cl) => cl.direction.replace("_", " ")))).join(" or ")}.{" "}
-                {c.contested.kind === "both_directions" ? (c.contested.note ?? "Which direction applies depends on the individual variant.") : "The published claims dispute the curated direction for the same class of variants; neither side is treated as settled."}{" "}
+                {c.contested.kind === "both_directions" || c.contested.kind === "different_mechanism" ? (c.contested.note ?? "Which applies depends on the individual variant.") : "The published claims dispute the curated direction for the same class of variants; neither side is treated as settled."}{" "}
                 Both sides are in the evidence panel. Claims rejected on review are kept for audit{c.rejectedClaims.length ? ` (${c.rejectedClaims.length} for this condition)` : ""}.
               </p>
               <ul className="mt-2 space-y-1">
@@ -239,6 +239,12 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
                 })}
               </ul>
             </div>
+          )}
+          {ladder && ladder.milestones[7].status === "found" && ladder.milestones[7].detail?.includes("specifically") && (
+            <p className="mt-3 text-sm text-ink-2 border border-line rounded-md p-3 bg-white/50">
+              <span className="text-ink font-medium">Approved therapies (rung 8): </span>
+              {ladder.milestones[7].detail}. The curated condition is broader than the labelled indication, so approval does not extend to every presentation of {c.geneSymbol}-related disease.
+            </p>
           )}
           {exclusionStudies.length > 0 && (
             <div className="mt-5 border border-line rounded-md p-3 bg-white/50 text-sm">

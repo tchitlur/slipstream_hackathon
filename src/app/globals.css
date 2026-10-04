@@ -79,6 +79,7 @@ a { text-underline-offset: 2px; }
 
 .cell-found { background: var(--found-bg); color: var(--found); }
 .cell-notfound { background: var(--notfound-bg); color: var(--notfound); }
+.cell-partial { background: #fef3c7; color: #92400e; }
 .cell-notsearched { background: transparent; color: var(--line-2); }
 .cell-ahead { box-shadow: inset 0 0 0 2px var(--ahead); }
 

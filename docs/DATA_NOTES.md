@@ -23,17 +23,27 @@ Observations for the human to review. Where fetched data contradicts an expectat
 - Several of these contests reflect genuine mixed-direction biology rather than curation error (sodium and NMDA-receptor channel genes commonly carry both loss- and gain-of-function variants); the product shows both sides and does not adjudicate.
 - Gene2Phenotype curates SCN8A-related epileptic encephalopathy as dominant negative rather than gain of function, and KCNQ2-related epileptic encephalopathy as gain of function; both differ from how some of the literature describes them. The data was kept as curated, and the contested flags record the disagreement where it reached the threshold.
 - Phenotype match methods: none 187, hpoa_xref 2457, g2p_record 129, gene_name 93; thin annotation (<5 terms): 312.
+- Shared registries (added 2026-10-04): 6 multi-gene registries confirmed from their own sites, covering 61 deep conditions; 54 organization pages state participation; 26 registries found outside ClinicalTrials.gov. Milestone 4 "partly" = included in a shared registry only.
+- Targeted trials by level: 42 act on the gene or its product (count as milestone 7), 13 act on a downstream pathway (shown as partly), 10 symptomatic or mechanism not established.
 - Studies: 1044 retrieved, 212 classified as about a condition, 357 discarded as not about it (gene panels, broad epilepsy studies). 13 studies exclude a variant class in their eligibility text.
 - Quotes: 1230 verified verbatim, 51 discarded.
 - Disease-model literature returned at least one paper for every deep gene, so milestone 5 does not discriminate within this slice; the count and top PMIDs are shown so a reader can judge depth.
-- Demo candidates (section 9.6): 4; top: DYRK1A -> TCF4, STX1B -> SLC6A1, PCDH19 -> SLC6A1.
-- LLM spend (upper-bound price estimate): $3.56.
+- Demo candidates (section 9.6): 3; top: CHD2 -> SCN1A, HNRNPU -> SLC6A1, DYRK1A -> UBE3A.
+- LLM spend (upper-bound price estimate): $3.73.
 
 <!-- generated:end -->
 
 ## Study label re-check (2026-10-04)
 
 For the demo condition DYRK1A and its displayed neighbors (TCF4, SHANK3, HNRNPH2, SATB2, DNM1), every ClinicalTrials.gov record in `studies.json` was re-fetched from the API and its labels re-read: 25 checked, 6 changed (three Phelan-McDermid growth-hormone or vorinostat trials moved from symptomatic to targeted on the record's own mechanism rationale; one case-control genotype study moved from natural history to other; one gene-therapy long-term follow-up counted as a targeted gene-therapy study; one proposed exclusion was not surfaced because no verbatim exclusion sentence was verified). Each change is recorded on the study with its reason and shown in the evidence drawer. No records are tagged to DYRK1A, HNRNPH2, SATB2 or DNM1 in this build. Open questions: whether growth hormone chosen to raise IGF-1 counts as SHANK3-targeted, AMO-01 (Ras-ERK inhibitor, record silent on mechanism) kept symptomatic, the NNZ-2591 series kept symptomatic as a multi-disease platform.
+
+## Shared registries and target levels (2026-10-04, second pass)
+
+Milestone 4 changed for 22 of 83 deep conditions once shared multi-gene registries and registries outside ClinicalTrials.gov were included: 13 moved from not found to found (KCNA2 x2 via the Heidelberg/Leipzig registry; GRIN1 x2, GRIN2A x2, GRIN2B x2 and GRIN2D via the GRIN Variant Patient Registry; NRXN1 x2, KCNB1 and PCDH19 via organization or registry pages) and 9 from not found to partly (included in a shared registry only: ARX, DNM1 x2, HCN1, KCNC1, DYRK1A, SCN1B x2, SNAP25). Seven deep conditions still have no registry of any kind: DEPDC5, STX1B, EEF1A2, SCN3A, KCNQ3, PNPO, SPTAN1. The CoRDS entry for DNM1 rests on a partner logo and is marked weak in the seed file.
+
+Milestone 7 changed for 7 conditions under the three-level target rule: KCNT1 x2, KCNQ2 (gain of function) and SCN8A lost "found" because their only targeted trials are record-silent small molecules now read as symptomatic or unknown; TSC1, TSC2 and PNPO moved to partly because their trials act on a pathway (mTOR inhibitors, pyridoxal phosphate). Of 65 targeted trials, 42 act on the gene or its product, 13 on a pathway, 10 are symptomatic or unknown.
+
+Needs a biomedical eye: radiprodil (NCT05818943) is an NR2B modulator, i.e. the GRIN2B product, but the atlas maps that study to GRIN2D as well; L-serine and red-cell exchange for GLUT1 deficiency were called gene-product level and could be argued as pathway; lithium for SHANK3 is gene-product on the record's own claim of restoring SHANK3 expression; XEN496 (ezogabine) for KCNQ2 is level three only because its record is silent.
 
 ## Needs a biomedical eye (from the 2026-10-04 automated review of contested claims)
 

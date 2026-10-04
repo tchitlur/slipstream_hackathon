@@ -112,7 +112,7 @@ export const RULES: RuleDef[] = [
 export const COUNTER_REASONS: Record<CounterCode, { title: string; appliesTo: string }> = {
   C1: { title: "Overlap rests on common symptoms", appliesTo: "Most of the phenotype overlap comes from common, low-information symptoms." },
   C2: { title: "Mechanism is per gene and disease, not per variant", appliesTo: "Shown on every R4, R5 and R6 verdict. An individual's variant may act differently; confirm its class with a clinical geneticist." },
-  C3: { title: "Mechanism direction varies or is contested", appliesTo: "Published cases document variants in the other direction (both directions reported), or published claims dispute the curated direction for the same variant class (contested)." },
+  C3: { title: "Mechanism direction varies or is contested", appliesTo: "Published cases document variants in the other direction (both directions reported), a different mechanism such as dominant negative is also reported against a loss-of-function record, or published claims dispute the curated direction for the same variant class (contested)." },
   C4: { title: "Mechanism support is inferred", appliesTo: "The curated mechanism is inferred, not based on functional evidence." },
   C5: { title: "Allelic requirement differs", appliesTo: "One condition is monoallelic and the other biallelic (or another pattern)." },
   C6: { title: "Thin phenotype annotation", appliesTo: "Either condition has fewer than five annotated phenotypes, so similarity is unreliable." },

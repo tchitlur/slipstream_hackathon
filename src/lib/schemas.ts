@@ -7,6 +7,8 @@ import { z } from "zod";
 export const EvidenceKind = z.enum(["curated", "extracted", "computed", "hypothesis"]);
 export const EvidenceSource = z.enum(["g2p", "hpo", "ctgov", "reporter", "pubmed", "seed", "rule"]);
 export const Confidence = z.enum(["high", "medium", "low"]);
+/** Three-level target label shared by trials and approved therapies. */
+export const TargetLevel = z.enum(["gene_product", "pathway", "symptomatic_or_unknown"]);
 
 export const QuoteSchema = z.object({
   text: z.string().min(1),
@@ -65,8 +67,8 @@ export const ContestedSchema = z.object({
   curatedMechanism: Mechanism,
   curatedEvidenceId: z.string(),
   claims: z.array(MechanismClaimSchema),
-  /** "contested": real disagreement about the same variant class. "both_directions": patients with variants acting in both directions are documented. */
-  kind: z.enum(["contested", "both_directions"]).default("contested"),
+  /** "contested": real disagreement about the same variant class. "both_directions": patients with variants acting in both directions are documented. "different_mechanism": a dominant-negative mechanism is also reported against a curated loss-of-function record (a refinement, not an opposite direction). */
+  kind: z.enum(["contested", "both_directions", "different_mechanism"]).default("contested"),
   note: z.string().optional(),
 });
 export const RejectedClaimSchema = MechanismClaimSchema.extend({ reason: z.string(), reviewer: z.string() });
@@ -235,6 +237,9 @@ export const StudyClassificationSchema = z.object({
   quoteVerified: z.boolean(),
   excludesQuote: z.string().optional(),
   excludesQuoteVerified: z.boolean().optional(),
+  /** Three-level target label for interventional studies; only gene_product counts as milestone 7. */
+  target: TargetLevel.optional(),
+  targetReason: z.string().optional(),
   /** Set when an automated re-check read the ClinicalTrials.gov record; `before` is present when a label changed. */
   reviewed: z
     .object({
@@ -376,7 +381,7 @@ export const PatientOrgSchema = PatientOrgSeedSchema.extend({
 export type PatientOrg = z.infer<typeof PatientOrgSchema>;
 export const OrgsFileSchema = z.object({ orgs: z.record(z.string(), PatientOrgSchema) });
 
-export const TherapyTarget = z.enum(["symptoms", "mechanism", "genetic_cause"]);
+export const TherapyTarget = TargetLevel;
 export const ApprovedTherapySeedSchema = z.object({
   condition: z.string(),
   conditionName: z.string().optional(),
@@ -386,7 +391,7 @@ export const ApprovedTherapySeedSchema = z.object({
   url: z.string().url(),
   indicationQuote: z.string().optional(),
   approvalYear: z.number().int().optional(),
-  targets: TherapyTarget.default("symptoms"),
+  targets: TherapyTarget.default("symptomatic_or_unknown"),
   targetsNote: z.string().optional(),
   verified: z.boolean(),
   check: OrgCheckSchema.optional(),
@@ -396,7 +401,8 @@ export const ApprovedTherapySeedSchema = z.object({
 // Ladders (section 9.1)
 // ---------------------------------------------------------------------------
 
-export const MilestoneStatus = z.enum(["found", "not_found", "not_searched"]);
+/** partial = a weaker form of the milestone is present: inclusion in a shared multi-gene registry (milestone 4) or a pathway-level trial (milestone 7). */
+export const MilestoneStatus = z.enum(["found", "partial", "not_found", "not_searched"]);
 export type MilestoneStatus = z.infer<typeof MilestoneStatus>;
 
 export const MilestoneSchema = z.object({
@@ -409,6 +415,8 @@ export const MilestoneSchema = z.object({
   detail: z.string().optional(),
   /** Flags surfaced in the UI, e.g. "support: inferred", "unverified". */
   flags: z.array(z.string()).default([]),
+  /** For status "partial": what kind of partial evidence this is. */
+  partialKind: z.enum(["shared_registry", "pathway_trial"]).optional(),
 });
 export type Milestone = z.infer<typeof MilestoneSchema>;
 
@@ -535,6 +543,30 @@ export const BuildManifestSchema = z.object({
   notes: z.array(z.string()).default([]),
 });
 export type BuildManifest = z.infer<typeof BuildManifestSchema>;
+
+export const SharedRegistrySeedSchema = z.object({
+  id: z.string(),
+  name: z.string(),
+  operator: z.string().optional(),
+  url: z.string().url(),
+  type: z.string(),
+  description: z.string().optional(),
+  descriptionUrl: z.string().optional(),
+  genes: z.array(z.object({ symbol: z.string(), pageUrl: z.string(), snippet: z.string(), conditionNameOnPage: z.string().optional() })),
+  check: OrgCheckSchema.optional(),
+});
+export const RegistryRecordSchema = z.object({
+  id: z.string(),
+  kind: z.enum(["shared_registry", "registry", "natural_history"]),
+  name: z.string(),
+  operator: z.string().optional(),
+  url: z.string(),
+  conditionIds: z.array(z.string()),
+  evidenceIds: z.array(z.string()).min(1),
+  source: z.enum(["shared_registries", "org_page", "web_search"]),
+});
+export const RegistriesFileSchema = z.object({ registries: z.record(z.string(), RegistryRecordSchema) });
+export type RegistryRecord = z.infer<typeof RegistryRecordSchema>;
 
 export const BaselineFileSchema = z.object({
   computedAt: z.string(),

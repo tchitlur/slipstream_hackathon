@@ -1,0 +1,967 @@
+{
+  "checkedAt": "2026-10-04",
+  "reviewer": "automated check (Claude fetching the pages); not human-verified",
+  "items": [
+    {
+      "slug": "dravet-syndrome-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://dravetfoundation.org/",
+        "https://dravetfoundation.org/caregiver-resources/role-of-patients-in-research/"
+      ],
+      "notes": "No registry, natural history study or shared data program named on the retrieved pages; research pages describe grant programs and a Dravet Genome Study link."
+    },
+    {
+      "slug": "familiescn2a-foundation",
+      "sharedRegistries": [
+        {
+          "name": "Simons Searchlight",
+          "pageUrl": "https://www.scn2a.org/programs-events/how-to-participate/",
+          "snippet": "Simons Searchlight (mixed patient registry / natural history study)"
+        },
+        {
+          "name": "Citizen Health",
+          "pageUrl": "https://www.scn2a.org/programs-events/how-to-participate/",
+          "snippet": "Citizen Health Natural History Study (retrospective / chart review)"
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://scn2a.iamrare.org/",
+        "snippet": "a registry dedicated to individuals and families impacted by SCN2A-related disorders",
+        "note": "SCN2A Dragonfly Study, 'Powered by IAMRARE' (NORD). Linked as 'Registry' from the scn2a.org footer; the retrieved text does not explicitly say FamilieSCN2A sponsors it."
+      },
+      "checkedPages": [
+        "https://www.scn2a.org/",
+        "https://www.scn2a.org/programs-events/how-to-participate/",
+        "https://scn2a.iamrare.org/"
+      ]
+    },
+    {
+      "slug": "cute-syndrome-foundation",
+      "sharedRegistries": [
+        {
+          "name": "Citizen Health",
+          "pageUrl": "https://thecutesyndrome.com/scn8a-research/",
+          "snippet": "Through the Cute Syndrome Foundation's partnership with Citizen Health, individuals and families affected by SCN8A-related disorders have access to a tool that can help organize medical records and health information in one secure place."
+        }
+      ],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://www.thecutesyndrome.com/",
+        "https://thecutesyndrome.com/scn8a-research/",
+        "https://thecutesyndrome.com/clinical-trials/"
+      ],
+      "otherRegistries": [
+        {
+          "name": "SCN8A Registry Research Study",
+          "pageUrl": "https://thecutesyndrome.com/scn8a-research/",
+          "snippet": "The SCN8A Registry Research Study, created and managed by the Hammer Lab at the University of Arizona, is a collaborative research initiative designed to collect and share important information about SCN8A-related disorders.",
+          "operator": "Hammer Lab, University of Arizona"
+        }
+      ]
+    },
+    {
+      "slug": "kcnq2-cure-alliance",
+      "sharedRegistries": [
+        {
+          "name": "Citizen Health",
+          "pageUrl": "https://www.kcnq2cure.org/recruiting-research-studies/",
+          "snippet": "Digital Natural History Study- Citizen Health is a KCNQ2 digital natural history study that uses medical records to collect meaningful information"
+        }
+      ],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://www.kcnq2cure.org/",
+        "https://www.kcnq2cure.org/recruiting-research-studies/"
+      ],
+      "notes": "Page also lists a KCNQ2 Portal (REDCap, UTHealth) and a KCNQ2 Biorepository with COMBINEDBrain ('Families donate samples at collection events so researchers can study KCNQ2 in the lab.'); neither is described as a registry run by the Alliance."
+    },
+    {
+      "slug": "jack-pribaz-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://kcnq2.org/",
+        "https://kcnq2.org/register-your-child-in-the-rikee-patient-database/"
+      ],
+      "otherRegistries": [
+        {
+          "name": "RIKEE patient database",
+          "pageUrl": "https://kcnq2.org/register-your-child-in-the-rikee-patient-database/",
+          "snippet": "The database is housed at the Cooper Lab at the Baylor College of Medicine in Houston, Texas.",
+          "operator": "Cooper Lab, Baylor College of Medicine"
+        }
+      ]
+    },
+    {
+      "slug": "kcnt1-epilepsy-foundation",
+      "sharedRegistries": [
+        {
+          "name": "Citizen Health",
+          "pageUrl": "https://www.kcnt1epilepsy.org/families-driving-research/",
+          "snippet": "U.S. families can consent to securely share medical records through our partner Citizen Health to build a unified data set."
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://www.kcnt1epilepsy.org/kcnt1-international-registry/",
+        "snippet": "The KCNT1 International Registry is sponsored by the KCNT1 Epilepsy Foundation.",
+        "note": "hosted on the National Organization for Rare Disorders (NORD®) IAMRARE® platform"
+      },
+      "checkedPages": [
+        "https://www.kcnt1epilepsy.org/",
+        "https://www.kcnt1epilepsy.org/kcnt1-international-registry/",
+        "https://www.kcnt1epilepsy.org/families-driving-research/"
+      ]
+    },
+    {
+      "slug": "stxbp1-foundation",
+      "sharedRegistries": [
+        {
+          "name": "RARE-X",
+          "pageUrl": "https://www.stxbp1disorders.org/clinicaltrialsandresearch",
+          "snippet": "RARE-X is a data collection program which asks general questions on all body systems"
+        },
+        {
+          "name": "Simons Searchlight",
+          "pageUrl": "https://www.stxbp1disorders.org/clinicaltrialsandresearch",
+          "snippet": "Simons Searchlight is a study, funded by the Simons Foundation, that aims to collect natural history information"
+        },
+        {
+          "name": "Citizen Health",
+          "pageUrl": "https://www.stxbp1disorders.org/clinicaltrialsandresearch",
+          "snippet": "Citizen Health is a natural history study that utilizes information collected in electronic medical records"
+        },
+        {
+          "name": "National Brain Gene Registry",
+          "pageUrl": "https://www.stxbp1disorders.org/clinicaltrialsandresearch",
+          "snippet": "The National Brain Gene Registry aims to learn more about genes that are involved in brain development"
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://www.stxbp1disorders.org/starr",
+        "snippet": "The STARR study is funded by the STXBP1 Foundation through a transformational campaign, FLOURISH",
+        "note": "STARR: 'a prospective, multi-site natural history study for STXBP1-Related Disorders'; Ingo Helbig, MD is the multi-site Principal Investigator"
+      },
+      "checkedPages": [
+        "https://www.stxbp1disorders.org/",
+        "https://www.stxbp1disorders.org/clinicaltrialsandresearch",
+        "https://www.stxbp1disorders.org/starr"
+      ],
+      "otherRegistries": [
+        {
+          "name": "ESCO European patient registry",
+          "pageUrl": "https://www.stxbp1disorders.org/clinicaltrialsandresearch",
+          "snippet": "The European STXBP1 Consortium (ESCO) has established a European patient registry",
+          "operator": "European STXBP1 Consortium (ESCO)"
+        },
+        {
+          "name": "Canadian national STXBP1 registry",
+          "pageUrl": "https://www.stxbp1disorders.org/clinicaltrialsandresearch",
+          "snippet": "Dr. Cyrus Boelman...has launched a Canadian national registry for STXBP1",
+          "operator": "Dr. Cyrus Boelman"
+        }
+      ]
+    },
+    {
+      "slug": "cure-syngap1",
+      "sharedRegistries": [
+        {
+          "name": "Simons Searchlight",
+          "pageUrl": "https://curesyngap1.org/resources/studies/",
+          "snippet": "Simons Searchlight Registry for SYNGAP1"
+        },
+        {
+          "name": "RARE-X",
+          "pageUrl": "https://curesyngap1.org/resources/studies/",
+          "snippet": "RARE-X SYNGAP1 – Data Collection Program"
+        },
+        {
+          "name": "Citizen Health",
+          "pageUrl": "https://curesyngap1.org/resources/studies/",
+          "snippet": "Citizen Health Digital Natural History Study"
+        }
+      ],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://curesyngap1.org/",
+        "https://curesyngap1.org/research/",
+        "https://curesyngap1.org/mission-and-values/",
+        "https://curesyngap1.org/join-the-citizen-registry/",
+        "https://curesyngap1.org/request-nhs-data/",
+        "https://curesyngap1.org/resources/studies/"
+      ],
+      "otherRegistries": [
+        {
+          "name": "SYNGAP1 Natural History Study (ENDD, CHOP)",
+          "pageUrl": "https://curesyngap1.org/resources/studies/",
+          "snippet": "SYNGAP1 Natural History Study at The Center for Epilepsy and Neurodevelopmental Disorders (ENDD) at CHOP",
+          "operator": "Children's Hospital of Philadelphia (ENDD)"
+        },
+        {
+          "name": "SYNGAP1 ProMMiS",
+          "pageUrl": "https://curesyngap1.org/resources/studies/",
+          "snippet": "SYNGAP1 ProMMiS – Prospective Multidisciplinary, Multisite Study",
+          "operator": "not stated on page"
+        }
+      ],
+      "notes": "Several curesyngap1.org pages (homepage, /research/, /join-the-citizen-registry/, /request-nhs-data/) returned empty content to the fetcher; only /mission-and-values/ and /resources/studies/ rendered. Snippets on the studies page are listing titles, not sentences."
+    },
+    {
+      "slug": "slc6a1-connect",
+      "sharedRegistries": [
+        {
+          "name": "Simons Searchlight",
+          "pageUrl": "https://slc6a1connect.org/newly-diagnosed-2/",
+          "snippet": "Simons collects data through surveys completed by parents and caregivers. This information is shared with researchers studying SLC6A1."
+        },
+        {
+          "name": "Citizen Health",
+          "pageUrl": "https://slc6a1connect.org/newly-diagnosed-2/",
+          "snippet": "Citizen Health partners with SLC6A1 Connect to use health data to improve care and drive research toward treatments and a cure for SLC6A1."
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://slc6a1connect.org/newly-diagnosed-2/",
+        "snippet": "Matrix is running a Natural History Study for SLC6A1 Connect. Data is collected through surveys completed by patients, parents, and caregivers.",
+        "note": "Across Healthcare Matrix platform (slc6a1.acrossmatrix.com)"
+      },
+      "checkedPages": [
+        "https://slc6a1connect.org/",
+        "https://slc6a1connect.org/scientific-resources/",
+        "https://slc6a1connect.org/newly-diagnosed-2/"
+      ]
+    },
+    {
+      "slug": "international-foundation-for-cdkl5-research",
+      "sharedRegistries": [],
+      "ownRegistry": {
+        "pageUrl": "https://www.cdkl5.com/connect-cdkl5",
+        "snippet": "The IFCR encourages you to participate in our Connect CDKL5 community platform.",
+        "note": "Hosting platform not stated on the retrieved pages. Enrollment page also names the International CDKL5 Disorder Database (ICDD) and International CDKL5 Clinical Research Network (ICCRN) without describing operators."
+      },
+      "checkedPages": [
+        "https://cdkl5.com/",
+        "https://www.cdkl5.com/connect-cdkl5",
+        "https://cdkl5.com/enroll-now-from-home"
+      ]
+    },
+    {
+      "slug": "international-rett-syndrome-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": {
+        "pageUrl": "https://www.rettsyndrome.org/rett-syndrome-registry/",
+        "snippet": "The IRSF Rett Syndrome Registry is a comprehensive study tracking the progression of Rett syndrome through expert and caregiver-reported data.",
+        "note": "NHS page: 'IRSF stewards the largest, most extensive Rett Syndrome Natural History database in the world.' and 'The NHS was a one of-a-kind project funded by the National Institutes of Health (NIH) as part of the Rare Disease Clinical Research Network Consortium.'"
+      },
+      "checkedPages": [
+        "https://www.rettsyndrome.org/",
+        "https://www.rettsyndrome.org/researchers/rett-syndrome-natural-history-study/",
+        "https://www.rettsyndrome.org/rett-syndrome-registry/"
+      ],
+      "notes": "Homepage references a Citizen Health partnership news item but the retrieved text did not name Citizen Health in a quotable sentence."
+    },
+    {
+      "slug": "rett-syndrome-research-trust",
+      "sharedRegistries": [
+        {
+          "name": "Citizen Health",
+          "pageUrl": "https://reverserett.org/",
+          "snippet": "Six Years of Partnership: How RSRT and Citizen Health Are Accelerating Rett Research",
+          "note": "news headline on homepage"
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://reverserett.org/global-registry/",
+        "snippet": "The Rett Syndrome Global Registry is a powerful way for you to advance a cure.",
+        "note": "Login/registration hosted at rettglobalregistry.acrossmatrix.com (Across Healthcare Matrix)"
+      },
+      "checkedPages": [
+        "https://reverserett.org/",
+        "https://reverserett.org/global-registry/"
+      ]
+    },
+    {
+      "slug": "angelman-syndrome-foundation",
+      "sharedRegistries": [
+        {
+          "name": "LADDER database",
+          "pageUrl": "https://angelman.org/contactregistry/",
+          "snippet": "The LADDER database creates a higher level of understanding of AS which increases the potential for future discoveries that will lead to clinical trials and treatments.",
+          "note": "Page does not state who operates LADDER or which other conditions it covers."
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://angelman.org/contactregistry/",
+        "snippet": "The best way to stay up to date on resources, programs, events and research is to complete our contact registry form.",
+        "note": "Contact registry (notification list), not a clinical data registry."
+      },
+      "checkedPages": [
+        "https://angelman.org/",
+        "https://angelman.org/studies/",
+        "https://angelman.org/contactregistry/"
+      ]
+    },
+    {
+      "slug": "foundation-for-angelman-syndrome-therapeutics",
+      "sharedRegistries": [],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://www.cureangelman.org/",
+        "https://www.cureangelman.org/trials-studies"
+      ],
+      "notes": "No registry or shared data program named on the retrieved pages."
+    },
+    {
+      "slug": "tsc-alliance",
+      "sharedRegistries": [],
+      "ownRegistry": {
+        "pageUrl": "https://www.tscalliance.org/research-strategy/natural-history-database/",
+        "snippet": "The TSC Alliance provides funding to participating clinics to perform data entry, monitors the integrity of the database",
+        "note": "'More than 2,700 people with TSC are enrolled in the project among 22 U.S.-based clinical sites'; platform StudyTRAX"
+      },
+      "checkedPages": [
+        "https://www.tscalliance.org/",
+        "https://www.tscalliance.org/research-strategy/natural-history-database/"
+      ]
+    },
+    {
+      "slug": "pitt-hopkins-research-foundation",
+      "sharedRegistries": [
+        {
+          "name": "Citizen Health",
+          "pageUrl": "https://pitthopkins.org/citizenhealth/",
+          "snippet": "We have joined many other rare disease groups that have been using Citizen to build high-quality natural history data in a fraction of the time."
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://pitthopkins.org/research/how-to-get-involved-in-research-today/",
+        "snippet": "Help us to document detailed information about our children that can be used in future research and symptomatic treatment options.",
+        "note": "Family Registry; page also offers a Pitt Hopkins Census ('Get counted in our Pitt Hopkins Census by filling out this survey (takes less than 3 minutes).')"
+      },
+      "checkedPages": [
+        "https://pitthopkins.org/",
+        "https://pitthopkins.org/research/how-to-get-involved-in-research-today/",
+        "https://pitthopkins.org/citizenhealth/"
+      ]
+    },
+    {
+      "slug": "phelan-mcdermid-syndrome-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": {
+        "pageUrl": "https://pmsf.org/family-participation-in-research/",
+        "snippet": "The DataHub is a large patient dataset managed by PMSF that assists researchers, pharmaceutical companies, and others who are working to unlock the many aspects of the syndrome.",
+        "note": "DataHub page: 'we are working with the Across Healthcare Matrix online platform'"
+      },
+      "checkedPages": [
+        "https://pmsf.org/",
+        "https://pmsf.org/family-participation-in-research/",
+        "https://pmsf.org/datahub/"
+      ],
+      "otherRegistries": [
+        {
+          "name": "Developmental Synaptopathies Consortium Natural History Study",
+          "pageUrl": "https://pmsf.org/family-participation-in-research/",
+          "snippet": "The DSC Natural History study (NHS) is a long-term research initiative designed to collect detailed clinical and genetic information about people with Phelan-McDermid syndrome.",
+          "operator": "NIH-funded Developmental Synaptopathies Consortium"
+        }
+      ]
+    },
+    {
+      "slug": "glut1-deficiency-foundation",
+      "sharedRegistries": [
+        {
+          "name": "Citizen Health",
+          "pageUrl": "https://www.g1dfoundation.org/natural-history-study/",
+          "snippet": "The Rare Patient Network from Citizen Health is a secure digital platform that organizes, summarizes, and stores patient medical record information obtained from multiple hospitals and providers."
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://www.g1dfoundation.org/natural-history-study/",
+        "snippet": "The G1DF has established two opportunities to bring the power of natural history studies to the GLUT1 Deficiency patient community.",
+        "note": "'The GLUT1 Deficiency Natural History Study is a patient-powered data collection project on the Matrix platform in collaboration with other rare disease organizations'"
+      },
+      "checkedPages": [
+        "https://www.g1dfoundation.org/",
+        "https://www.g1dfoundation.org/natural-history-study/",
+        "https://www.g1dfoundation.org/participate-in-research/"
+      ]
+    },
+    {
+      "slug": "kbg-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": {
+        "pageUrl": "https://kbgfoundation.org/kbg-syndrome-registry",
+        "snippet": "The KBG Foundation Natural History Study is now live!",
+        "note": "'The study is powered by the Matrix platform, which collects, encrypts and stores data'"
+      },
+      "checkedPages": [
+        "https://kbgfoundation.org/",
+        "https://kbgfoundation.org/kbg-syndrome-registry",
+        "https://kbgfoundation.org/research",
+        "https://kbgfoundation.org/simons-searchlight"
+      ],
+      "notes": "Homepage navigation links to Simons Searchlight (https://www.simonssearchlight.org/research/what-we-study/ankrd11/) but no descriptive sentence was retrievable (two guessed subpages returned 404), so it is not listed in sharedRegistries."
+    },
+    {
+      "slug": "adnp-kids-research-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": {
+        "pageUrl": "https://www.adnpfoundation.org/adnp-patient-registry--natural-history.html",
+        "snippet": "The ADNP Patient Registry is Here! PLEASE ENROLL OR UPDATE YOUR REGISTRY TODAY!",
+        "note": "Enrollment link adnp.beneufit.com"
+      },
+      "checkedPages": [
+        "https://www.adnpfoundation.org/",
+        "https://www.adnpfoundation.org/adnp-patient-registry--natural-history.html"
+      ]
+    },
+    {
+      "slug": "grin2b-foundation",
+      "sharedRegistries": [
+        {
+          "name": "Simons Searchlight",
+          "pageUrl": "https://grin2b.com/simons-searchlight/",
+          "snippet": "Simons Searchlight is sharing all information with any medical professionals interested in studying the GRIN2B gene."
+        },
+        {
+          "name": "Simons Searchlight",
+          "pageUrl": "https://grin2b.com/grin-registry/",
+          "snippet": "Yes, please. The GRIN registry and Simons Searchlight are collecting different types of data."
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://grin2b.com/grin-registry/",
+        "snippet": "The GRIN Variant Patient Registry is the primary patient registry to support a comprehensive understanding of all GRIN variants.",
+        "note": "Multi-gene (all GRIN) registry led by academic PIs (Colorado/Leipzig), enrollment via grin-portal; presented as the foundation's registry; funding role not quoted verbatim."
+      },
+      "checkedPages": [
+        "https://grin2b.com/",
+        "https://grin2b.com/simons-searchlight/",
+        "https://grin2b.com/grin-registry/"
+      ]
+    },
+    {
+      "slug": "curegrin-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://curegrin.org/",
+        "https://curegrin.org/research/",
+        "https://curegrin.org/grin-registry/",
+        "https://curegrin.org/clinical-trials/",
+        "https://curegrin.org/gri-registry/"
+      ],
+      "notes": "All curegrin.org pages returned empty content to the fetcher (site blocks or renders client-side); nothing recorded.",
+      "fetchBlocked": true
+    },
+    {
+      "slug": "bow-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": {
+        "pageUrl": "https://gnao1.org/research/",
+        "snippet": "Research clinic funding aids in long-term tracking of GNAO1's progression to improve clinical outcomes.",
+        "note": "Listed under the foundation's supported research; Natural History Study at Washington University run by Dr. Amy Viehoever."
+      },
+      "checkedPages": [
+        "https://gnao1.org/",
+        "https://gnao1.org/gnao1-international-patient-registry/",
+        "https://gnao1.org/research/"
+      ],
+      "otherRegistries": [
+        {
+          "name": "GNAO1 International Patient Registry",
+          "pageUrl": "https://gnao1.org/research/",
+          "snippet": "Designed to accelerate medical research by compiling real-world patient data.",
+          "operator": "Dr. Erika Axeen, University of Virginia"
+        }
+      ],
+      "notes": "Registry page itself returned empty content; details taken from /research/."
+    },
+    {
+      "slug": "foxg1-research-foundation",
+      "sharedRegistries": [
+        {
+          "name": "Citizen Health",
+          "pageUrl": "https://www.foxg1research.org/",
+          "snippet": "The de-identified information you share in the global registry as well as through a Citizen Health account is the most powerful way to deepen the understanding of FOXG1 syndrome and help the entire FOXG1 community."
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://www.foxg1research.org/",
+        "snippet": "FOXG1 Parents: The most important thing to do right away, is to register your FOXG1 Child in the official FOXG1 syndrome patient registry.",
+        "note": "Registry hosted at foxg1.beneufit.com"
+      },
+      "checkedPages": [
+        "https://www.foxg1research.org/"
+      ]
+    },
+    {
+      "slug": "ddx3x-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": {
+        "pageUrl": "https://dfr.ddx3x.org/about-dfr",
+        "snippet": "The DDX3X Foundation administers and sponsors the DFR."
+      },
+      "checkedPages": [
+        "https://dfr.ddx3x.org/",
+        "https://dfr.ddx3x.org/about-dfr"
+      ]
+    },
+    {
+      "slug": "pura-syndrome-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": {
+        "pageUrl": "https://purasyndrome.org/research/patient-registry/",
+        "snippet": "The PURA Syndrome Foundation is proud to launch the PURA Syndrome Patient Registry in partnership with CombinedBrain and Matrix.",
+        "note": "'This will enable researchers to define the full spectrum of the disorder, and also characterize the natural history (what happens across age and life) for PURA syndrome.'"
+      },
+      "checkedPages": [
+        "https://purasyndrome.org/",
+        "https://purasyndrome.org/research/patient-registry/"
+      ]
+    },
+    {
+      "slug": "cacna1a-foundation",
+      "sharedRegistries": [
+        {
+          "name": "Citizen Health",
+          "pageUrl": "https://www.cacna1a.org/participate-research",
+          "snippet": "Citizen Health Digital Platform",
+          "note": "section heading; links to https://www.citizen.health/partners/cacna1a"
+        },
+        {
+          "name": "RARE-X",
+          "pageUrl": "https://www.cacna1a.org/participate-research",
+          "snippet": "CACNA1A + RARE-X Data Collection",
+          "note": "section heading; links to /cacna1a-rarex-data-collection-program"
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://www.cacna1a.org/natural-history-study",
+        "snippet": "We have partnered with the Chung Lab to conduct a natural history study on behalf of all those with CACNA1A-related disorders.",
+        "note": "Chung Lab, Boston Children's Hospital; REDCap enrollment"
+      },
+      "checkedPages": [
+        "https://www.cacna1a.org/",
+        "https://www.cacna1a.org/natural-history-study",
+        "https://www.cacna1a.org/participate-research"
+      ]
+    },
+    {
+      "slug": "dyrk1a-syndrome-international-association",
+      "sharedRegistries": [
+        {
+          "name": "RARE-X",
+          "pageUrl": "https://www.dyrk1a.org/research",
+          "snippet": "Help us collect data on DYRK1A Syndrome",
+          "note": "links to https://dyrk1a.rare-x.org"
+        },
+        {
+          "name": "Simons Searchlight",
+          "pageUrl": "https://www.dyrk1a.org/research",
+          "snippet": "The Simons Searchlight is an online community and research initiative."
+        },
+        {
+          "name": "GenIDA",
+          "pageUrl": "https://www.dyrk1a.org/research",
+          "snippet": "Genetics of Intellectual Disabilities & Autism is a social network",
+          "note": "genida.unistra.fr"
+        }
+      ],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://www.dyrk1a.org/",
+        "https://www.dyrk1a.org/research"
+      ]
+    },
+    {
+      "slug": "cask-research-foundation",
+      "sharedRegistries": [
+        {
+          "name": "RARE-X",
+          "pageUrl": "https://caskresearch.org/cask-registries",
+          "snippet": "The CASK Coalition has partnered with RARE-X to capture de-identified data on CASK patients from around the world."
+        },
+        {
+          "name": "RARE-X",
+          "pageUrl": "https://caskresearch.org/cask-registries",
+          "snippet": "The CASK RARE-X data collection programme represents the only ongoing natural history study on CASK disorders."
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://caskresearch.org/cask-registries",
+        "snippet": "Counting CASK enables us to estimate how many people are diagnosed with a CASK-related disorder.",
+        "note": "Counting CASK is a census; a UK clinical registry with University of Bristol/NHS is 'currently awaiting ethical approval'."
+      },
+      "checkedPages": [
+        "https://caskresearch.org/",
+        "https://caskresearch.org/cask-registries"
+      ]
+    },
+    {
+      "slug": "iqsec2-research-and-advocacy-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://iqsec2.org/",
+        "https://iqsec2.org/natural-history-study/"
+      ],
+      "otherRegistries": [
+        {
+          "name": "International IQSEC2 Natural History Study",
+          "pageUrl": "https://iqsec2.org/natural-history-study/",
+          "snippet": "the first international IQSEC2 Natural History Study",
+          "operator": "not stated on page (PATRE registration portal, redcap.link/IQSEC2; Orphan Disease Center mentioned)"
+        }
+      ]
+    },
+    {
+      "slug": "pcdh19-alliance",
+      "sharedRegistries": [],
+      "ownRegistry": {
+        "pageUrl": "https://pcdh19info.org/resources/researchers/",
+        "snippet": "Connect with our patient community through our registry to support recruitment, data collection, and longitudinal studies."
+      },
+      "checkedPages": [
+        "https://pcdh19info.org/",
+        "https://pcdh19info.org/research/",
+        "https://pcdh19info.org/resources/researchers/"
+      ]
+    },
+    {
+      "slug": "coalition-to-cure-chd2",
+      "sharedRegistries": [
+        {
+          "name": "RARE-X",
+          "pageUrl": "https://www.curechd2.org/rare-x",
+          "snippet": "To Register your loved one, please go to: https://chd2.rare-x.org/",
+          "note": "'155 CHD2 patients enrolled worldwide'"
+        },
+        {
+          "name": "Citizen Health",
+          "pageUrl": "https://www.curechd2.org/ciitizen",
+          "snippet": "Registering with Ciitizen requires less than 10 minutes of your time"
+        },
+        {
+          "name": "Simons Searchlight",
+          "pageUrl": "https://www.curechd2.org/natural-history-study",
+          "snippet": "By joining our community and sharing your experiences, you contribute to a growing database",
+          "note": "sentence appears in the Simons Searchlight section of the page"
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://www.curechd2.org/",
+        "snippet": "Register your case to help CCC better understand the number of cases and to help identify future clinical trial sites.",
+        "note": "Case registration / count, not a clinical data registry."
+      },
+      "checkedPages": [
+        "https://www.curechd2.org/",
+        "https://www.curechd2.org/natural-history-study",
+        "https://www.curechd2.org/rare-x",
+        "https://www.curechd2.org/ciitizen"
+      ],
+      "otherRegistries": [
+        {
+          "name": "CHD2 Natural History Project",
+          "pageUrl": "https://www.curechd2.org/natural-history-study",
+          "snippet": "created and led by Dr. Anne Berg, Research Professor, Ann & Robert H Lurie Children's Hospital of Chicago",
+          "operator": "Dr. Anne Berg, Lurie Children's Hospital"
+        }
+      ]
+    },
+    {
+      "slug": "us-mef2c-foundation",
+      "sharedRegistries": [
+        {
+          "name": "Simons Searchlight",
+          "pageUrl": "https://www.usmef2cfoundation.org/joinsimonssearchlight",
+          "snippet": "MEF2C Patient Registry and Data Collection on Simons Searchlight"
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://www.usmef2cfoundation.org/patient-research-assessment",
+        "snippet": "The study will include the coupling of longitudinal data from Simons Searchlight with data from the Research Assessments performed at Boston Children's Hospital.",
+        "note": "MEF2C longitudinal natural history study, Lab of Dr. Wendy Chung; foundation has a Sponsored Research Agreement with the lab."
+      },
+      "checkedPages": [
+        "https://www.usmef2cfoundation.org/",
+        "https://www.usmef2cfoundation.org/joinsimonssearchlight",
+        "https://www.usmef2cfoundation.org/patient-research-assessment"
+      ]
+    },
+    {
+      "slug": "mef2c-family-foundation",
+      "sharedRegistries": [
+        {
+          "name": "Citizen Health",
+          "pageUrl": "https://mef2c.org/",
+          "snippet": "[Patient Registry](https://www.citizen.health/ai-advocate/mef2c-family-foundation)",
+          "note": "Navigation link labelled 'Patient Registry' pointing to Citizen Health; no descriptive sentence on page."
+        }
+      ],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://mef2c.org/",
+        "https://mef2c.org/research"
+      ]
+    },
+    {
+      "slug": "satb2-gene-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://satb2gene.org/",
+        "https://satb2gene.org/research/"
+      ],
+      "otherRegistries": [
+        {
+          "name": "SATB2 clinical registry",
+          "pageUrl": "https://satb2gene.org/research/",
+          "snippet": "Join Dr. Yuri Zarate's SATB2 clinical registry. We need to fully understand SATB2-associated syndrome",
+          "operator": "Dr. Yuri Zarate"
+        }
+      ],
+      "notes": "Site also has a Contact Registry / Resource Portal signup (no descriptive text)."
+    },
+    {
+      "slug": "yellow-brick-road-project",
+      "sharedRegistries": [
+        {
+          "name": "Simons Searchlight",
+          "pageUrl": "https://yellowbrickroadproject.org/pages/simons-searchlight",
+          "snippet": "We encourage new families to follow this link to join Simons Searchlight and begin adding to the body of growing information of the symptoms associated with HNRNPH2 mutations."
+        }
+      ],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://yellowbrickroadproject.org/",
+        "https://yellowbrickroadproject.org/pages/hnrnph2-natural-history-study",
+        "https://yellowbrickroadproject.org/pages/simons-searchlight"
+      ],
+      "otherRegistries": [
+        {
+          "name": "HNRNPH2 Natural History Study",
+          "pageUrl": "https://yellowbrickroadproject.org/pages/hnrnph2-natural-history-study",
+          "snippet": "Dr. Bain and her team are actively recruiting HNRNPH2 patients for the crucial Natural History Study",
+          "operator": "Dr. Jennifer Bain and team (NIH-listed study)"
+        }
+      ]
+    },
+    {
+      "slug": "hnrnp-family-foundation",
+      "sharedRegistries": [
+        {
+          "name": "Simons Searchlight",
+          "pageUrl": "https://hnrnp.org/science/studies",
+          "snippet": "If you have participated in Simons Searchlight we will be able to gather relevant data for their study and put it into Geneial, reducing survey burden."
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://hnrnp.org/registry",
+        "snippet": "Sign up for our registry to be counted in the number of HNRNP-RNDD families we know of.",
+        "note": "Platform Geneial. Studies page: 'The HNRNP Family Foundation is working with researchers at the University of Calgary, Columbia University Medical Center, Sheffield University, and the Greater Baltimore Medical Center to conduct a natural history study for all the HNRNP-RNDDs.'"
+      },
+      "checkedPages": [
+        "https://hnrnp.org/",
+        "https://hnrnp.org/registry",
+        "https://hnrnp.org/science/studies"
+      ]
+    },
+    {
+      "slug": "hnrnpu-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://hnrnpu.org/",
+        "https://hnrnpu.org/igm-hnrnpu-project/"
+      ],
+      "notes": "No registry or shared data program named on the retrieved pages."
+    },
+    {
+      "slug": "smc1a-foundation",
+      "sharedRegistries": [
+        {
+          "name": "CoRDS",
+          "pageUrl": "https://smc1a-epilepsy.org/smc1a-patient-registry/",
+          "snippet": "SMC1A Foundation uses Question Pro and CoRDS platforms for patient data collection"
+        },
+        {
+          "name": "Citizen Health",
+          "pageUrl": "https://smc1a-epilepsy.org/",
+          "snippet": "The SMC1A Foundation partnered with Ciitizen to collect your medical records, answer questions with AI, and support research."
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://smc1a-epilepsy.org/smc1a-patient-registry/",
+        "snippet": "establish a comprehensive disease baseline for SMC1A-related Developmental and Epileptic Encephalopathy (DEE)"
+      },
+      "checkedPages": [
+        "https://smc1a-epilepsy.org/",
+        "https://smc1a-epilepsy.org/smc1a-patient-registry/"
+      ]
+    },
+    {
+      "slug": "alternating-hemiplegia-of-childhood-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://ahckids.org/",
+        "https://ahckids.org/research/"
+      ],
+      "notes": "No registry or shared data program named on the retrieved pages."
+    },
+    {
+      "slug": "cure-ahc",
+      "sharedRegistries": [],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://www.cureahc.org/",
+        "https://www.cureahc.org/resources"
+      ],
+      "notes": "Homepage shows a RARE-X banner image linking to /#rarex, but no descriptive text was retrievable, so RARE-X is not listed in sharedRegistries."
+    },
+    {
+      "slug": "wwox-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": {
+        "pageUrl": "https://www.wwox.org/",
+        "snippet": "Fill out the WWOX Patient Registry. Our scientists are currently collecting data so they can have a better understanding of these syndromes and finally to find a cure."
+      },
+      "checkedPages": [
+        "https://www.wwox.org/",
+        "https://www.wwox.org/patient-registry"
+      ]
+    },
+    {
+      "slug": "hope-for-sptan1",
+      "sharedRegistries": [],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://www.hopeforsptan1.org/",
+        "https://www.hopeforsptan1.org/services-1"
+      ],
+      "notes": "Research page lists 'Natural history studies' as a bullet with no program named."
+    },
+    {
+      "slug": "kcnb1-org",
+      "sharedRegistries": [],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://www.kcnb1.org/",
+        "https://www.kcnb1.org/current-research-studies.html"
+      ],
+      "otherRegistries": [
+        {
+          "name": "Natural History of Early Life Epilepsies",
+          "pageUrl": "https://www.kcnb1.org/current-research-studies.html",
+          "snippet": "Natural History of Early Life Epilepsies - https://theability.study/index.php",
+          "operator": "not stated on page; theability.study did not resolve on 2026-10-04"
+        }
+      ]
+    },
+    {
+      "slug": "kcnc1-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://kcnc1.org/",
+        "https://kcnc1.org/take-action"
+      ],
+      "notes": "No research/registry navigation on homepage; /take-action returned 404."
+    },
+    {
+      "slug": "cure-kcnh1-foundation",
+      "sharedRegistries": [
+        {
+          "name": "Citizen Health",
+          "pageUrl": "https://www.curekcnh1.org/research",
+          "snippet": "recruiting for a digital natural history study through the Citizen Health platform"
+        }
+      ],
+      "ownRegistry": {
+        "pageUrl": "https://www.curekcnh1.org/research",
+        "snippet": "We recently launched the first-ever international KCNH1 patient registry"
+      },
+      "checkedPages": [
+        "https://www.curekcnh1.org/",
+        "https://www.curekcnh1.org/research"
+      ]
+    },
+    {
+      "slug": "cacna1e-international",
+      "sharedRegistries": [],
+      "ownRegistry": {
+        "pageUrl": "https://www.cacna1e.org/",
+        "snippet": "Our association keeps a register of all CACNA1E patients in the world. Currently there are 150 known patients in this register.",
+        "note": "Also co-funds the DECADE natural history study (University of Tuebingen): 'Cacna1e international supported the natural history study with €20,000'"
+      },
+      "checkedPages": [
+        "https://www.cacna1e.org/",
+        "https://www.cacna1e.org/research/natural-history-study/",
+        "https://www.cacna1e.org/about-us/patient-registry/"
+      ]
+    },
+    {
+      "slug": "cure-gaba-a",
+      "sharedRegistries": [],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://curegabaa.org/",
+        "https://curegabaa.org/families/"
+      ],
+      "notes": "Homepage mentions building a 'biorepository and database' without naming a registry program."
+    },
+    {
+      "slug": "snap25-foundation",
+      "sharedRegistries": [
+        {
+          "name": "RARE-X",
+          "pageUrl": "https://snap25.org/rare-x",
+          "snippet": "The SNAP25 community is partnering with RARE-X, a program of Global Genes, to build a Data Collection Program for SNAP25 families."
+        }
+      ],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://snap25.org/",
+        "https://snap25.org/rare-x",
+        "https://snap25.org/research"
+      ]
+    },
+    {
+      "slug": "prrt2-foundation",
+      "sharedRegistries": [],
+      "ownRegistry": {
+        "pageUrl": "https://www.prrt2.org/",
+        "snippet": "It reserves your place in the full clinical registry now in development, and every person counted makes this community harder to overlook when research funding, partnerships, and clinical trials are decided.",
+        "note": "Pre-registry at intake.prrt2.org; full clinical registry 'now in development'."
+      },
+      "checkedPages": [
+        "https://www.prrt2.org/"
+      ]
+    },
+    {
+      "slug": "nrxn1-network",
+      "sharedRegistries": [
+        {
+          "name": "Simons Searchlight",
+          "pageUrl": "https://www.nrxn1network.org/research",
+          "snippet": "Simons Searchlight is an international online research program registry that works with families"
+        }
+      ],
+      "ownRegistry": null,
+      "checkedPages": [
+        "https://www.nrxn1network.org/",
+        "https://www.nrxn1network.org/research"
+      ],
+      "otherRegistries": [
+        {
+          "name": "ASPE (UPenn)",
+          "pageUrl": "https://www.nrxn1network.org/research",
+          "snippet": "The Perelman School of Medicine at the University of Pennsylvania established ASPE",
+          "operator": "Perelman School of Medicine, University of Pennsylvania"
+        }
+      ]
+    }
+  ]
+}

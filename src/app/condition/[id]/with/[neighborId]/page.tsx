@@ -102,7 +102,7 @@ export default async function BorrowPage({ params }: { params: Promise<{ id: str
                     <RoadBadge roadId={c.roadId} size="sm" />
                     <span className="text-ink-2">{humanAllelic(c.allelicRequirementRaw)}</span>
                     <Chip tone={c.mechanismSupport === "evidence" ? "ok" : "neutral"}>support: {c.mechanismSupport}</Chip>
-                    {c.contested && <Chip tone="warn">contested</Chip>}
+                    {c.contested && <Chip tone="warn">{c.contested.kind === "both_directions" ? "both directions reported" : c.contested.kind === "different_mechanism" ? "different mechanism also reported" : "contested"}</Chip>}
                   </div>
                   <div className="mt-2 text-xs text-ink-2">
                     Milestones found: {l.milestones.filter((m) => m.status === "found").map((m) => m.n).join(", ") || "none"}

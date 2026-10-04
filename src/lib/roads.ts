@@ -108,7 +108,7 @@ export function directionOf(m: Mechanism): DirectionClass {
 export type MechanismRelation = "same road" | "different road" | "opposite direction" | "unknown" | "contested";
 
 /** Section 9.3: opposite direction means one is loss of function and the other is gain of function or dominant negative. */
-type Flagged = { roadId: string; mechanism: Mechanism; contested?: { kind?: "contested" | "both_directions" } | null };
+type Flagged = { roadId: string; mechanism: Mechanism; contested?: { kind?: "contested" | "both_directions" | "different_mechanism" } | null };
 /** Only a genuine same-variant-class dispute makes the relation "contested"; "both directions reported" keeps the curated relation and is surfaced as a counter-reason instead. */
 export function isContested(c: Flagged) {
   return Boolean(c.contested && (c.contested.kind ?? "contested") === "contested");

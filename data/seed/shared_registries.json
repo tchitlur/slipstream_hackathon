@@ -1,0 +1,507 @@
+[
+  {
+    "id": "simons-searchlight",
+    "name": "Simons Searchlight",
+    "operator": "Simons Foundation Autism Research Initiative",
+    "url": "https://www.simonssearchlight.org/",
+    "type": "natural_history_registry",
+    "description": "Simons Searchlight is building an ever growing natural history database, biorepository, and resource network.",
+    "descriptionUrl": "https://www.simonssearchlight.org/",
+    "genesListUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+    "genes": [
+      {
+        "symbol": "SCN1A",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "RELN RERE RFX3 RNU4-2 RORB S - U SCN1A SCN1B SCN2A SETBP1 SETD2 SETD5"
+      },
+      {
+        "symbol": "SCN2A",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "RNU4-2 RORB S - U SCN1A SCN1B SCN2A SETBP1 SETD2 SETD5 SIN3A SLC6A1"
+      },
+      {
+        "symbol": "SCN1B",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "RERE RFX3 RNU4-2 RORB S - U SCN1A SCN1B SCN2A SETBP1 SETD2 SETD5 SIN3A"
+      },
+      {
+        "symbol": "KCNB1",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "IRF2BPL ITSN1 J - L JARID2 KANSL1 KCNB1 KDM3B KDM5B KDM6B KMT2A KMT2C"
+      },
+      {
+        "symbol": "GRIN1",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "GIGYF1 GNB1 GRIA1 GRIA2 GRIA3 GRIK2 GRIN1 GRIN2A GRIN2B GRIN2D HECW2 HIVEP2"
+      },
+      {
+        "symbol": "GRIN2A",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "GRIA1 GRIA2 GRIA3 GRIK2 GRIN1 GRIN2A GRIN2B GRIN2D HECW2 HIVEP2 HNRNPC"
+      },
+      {
+        "symbol": "GRIN2B",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "GRIA2 GRIA3 GRIK2 GRIN1 GRIN2A GRIN2B GRIN2D HECW2 HIVEP2 HNRNPC HNRNPD"
+      },
+      {
+        "symbol": "GRIN2D",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "GRIA3 GRIK2 GRIN1 GRIN2A GRIN2B GRIN2D HECW2 HIVEP2 HNRNPC HNRNPD HNRNPH2"
+      },
+      {
+        "symbol": "STXBP1",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "SMARCC2 SNAP25 SON SOX5 SRCAP STXBP1 SYNCRIP SYNGAP1 TANC2 TAOK1 TBR1"
+      },
+      {
+        "symbol": "SYNGAP1",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "SON SOX5 SRCAP STXBP1 SYNCRIP SYNGAP1 TANC2 TAOK1 TBR1 TCF7L2 TCF20"
+      },
+      {
+        "symbol": "SLC6A1",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "SCN2A SETBP1 SETD2 SETD5 SIN3A SLC6A1 SLC9A6 SMARCA4 SMARCC2 SNAP25"
+      },
+      {
+        "symbol": "SNAP25",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "SLC6A1 SLC9A6 SMARCA4 SMARCC2 SNAP25 SON SOX5 SRCAP STXBP1 SYNCRIP"
+      },
+      {
+        "symbol": "IQSEC2",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "HNRNPK HNRNPR HNRNPU HNRNPUL2 IQSEC2 IRF2BPL ITSN1 J - L JARID2 KANSL1"
+      },
+      {
+        "symbol": "CASK",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "BCKDK BCL11A BRSK2 CACNA1C CAPRIN1 CASK CASZ1 CHAMP1 CHD2 CHD3 CHD8 CIC"
+      },
+      {
+        "symbol": "NRXN1",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "NIPBL NLGN2 NLGN3 NLGN4X NR4A2 NRXN1 NRXN2 NSD1 P - R PACS1 PACS2 PHF3"
+      },
+      {
+        "symbol": "CHD2",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "CACNA1C CAPRIN1 CASK CASZ1 CHAMP1 CHD2 CHD3 CHD8 CIC CLCN4 CNOT3 CREBBP"
+      },
+      {
+        "symbol": "MEF2C",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "MBD5 MBOAT7 MED12 MED13 MED13L MEF2C MEIS2 MYT1L NAA15 NBEA NCKAP1"
+      },
+      {
+        "symbol": "DYRK1A",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "DEAF1 DLG4 DNMT3A DSCAM DYNC1H1 DYRK1A EBF3 EHMT1 EIF3F EP300 FBXO11"
+      },
+      {
+        "symbol": "HNRNPU",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "HNRNPC HNRNPD HNRNPH2 HNRNPK HNRNPR HNRNPU HNRNPUL2 IQSEC2 IRF2BPL ITSN1"
+      },
+      {
+        "symbol": "HNRNPH2",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "GRIN2D HECW2 HIVEP2 HNRNPC HNRNPD HNRNPH2 HNRNPK HNRNPR HNRNPU HNRNPUL2"
+      },
+      {
+        "symbol": "ARX",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "ANK2 ANK3 ANKRD11 ARHGEF9 ARID1B ARX ASH1L ASXL3 ATRX AUTS2 BCKDK BCL11A"
+      },
+      {
+        "symbol": "ADNP",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "Duplication A - C ACTB ACTL6B ADNP ADSL AFF2 AHDC1 ANK2 ANK3 ANKRD11"
+      },
+      {
+        "symbol": "ANKRD11",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "ADNP ADSL AFF2 AHDC1 ANK2 ANK3 ANKRD11 ARHGEF9 ARID1B ARX ASH1L ASXL3"
+      },
+      {
+        "symbol": "DDX3X",
+        "pageUrl": "https://www.simonssearchlight.org/research/what-we-study/",
+        "snippet": "CSNK2B CTBP1 CTCF CTNNB1 CUL3 D - F DDX3X DEAF1 DLG4 DNMT3A DSCAM DYNC1H1"
+      }
+    ],
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  },
+  {
+    "id": "rare-x",
+    "name": "RARE-X Data Collection Program",
+    "operator": "Global Genes",
+    "url": "https://rare-x.org/",
+    "type": "patient_data_collection_platform",
+    "description": "RARE-X, a research program of Global Genes, provides a collaborative platform for global data sharing and analysis to accelerate treatments for rare disease.",
+    "descriptionUrl": "https://rare-x.org/",
+    "genesListUrl": "https://rare-x.org/participating-rare-communities/",
+    "genes": [
+      {
+        "symbol": "CACNA1A",
+        "pageUrl": "https://rare-x.org/participating-rare-communities/",
+        "snippet": "Protein-Associated Neurodegeneration CACNA1A CASK Gene Mutations CHAMP1 Charcot-Marie-Tooth"
+      },
+      {
+        "symbol": "STXBP1",
+        "pageUrl": "https://rare-x.org/participating-rare-communities/",
+        "snippet": "Atrophy with Respiratory Distress) STXBP1 SYNGAP1 Undiagnosed Usher Syndrome"
+      },
+      {
+        "symbol": "SYNGAP1",
+        "pageUrl": "https://rare-x.org/participating-rare-communities/",
+        "snippet": "Atrophy with Respiratory Distress) STXBP1 SYNGAP1 Undiagnosed Usher Syndrome Vici syndrome"
+      },
+      {
+        "symbol": "CASK",
+        "pageUrl": "https://rare-x.org/participating-rare-communities/",
+        "snippet": "Protein-Associated Neurodegeneration CACNA1A CASK Gene Mutations CHAMP1 Charcot-Marie-Tooth",
+        "conditionNameOnPage": "CASK Gene Mutations"
+      },
+      {
+        "symbol": "CHD2",
+        "pageUrl": "https://rare-x.org/participating-rare-communities/",
+        "snippet": "Charcot-Marie-Tooth disease CMT4B3 CHD2 CHOPS Syndrome Chorea- Acanthocytosis"
+      },
+      {
+        "symbol": "DYRK1A",
+        "pageUrl": "https://rare-x.org/dyrk1a/",
+        "snippet": "DYRK1A - Data Collection Program DYRK1A patients, families, and communities",
+        "conditionNameOnPage": "DYRK1",
+        "conditionPageUrl": "https://rare-x.org/participating-rare-communities/",
+        "note": "Participating-communities list shows 'DYRK1'; the linked community page uses DYRK1A."
+      }
+    ],
+    "notes": "Gene/condition names come from the 'Rare Disease Communities Currently Collaborating with RARE-X' list. 'AHC (Alternating Hemiplegia of Childhood)' is listed but the AHC community page (https://rare-x.org/ahc/) does not name ATP1A3, so it is not mapped. The '?page_id=5659' and '/rare-disease-communities/' links return 404.",
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  },
+  {
+    "id": "citizen-health",
+    "name": "Citizen Health (formerly Ciitizen) natural history program",
+    "operator": "Citizen Health",
+    "url": "https://www.citizen.health/",
+    "type": "medical_records_natural_history_platform",
+    "description": "Citizen Health collects, organizes and harmonizes clinical data from patient medical records to deliver a cost-effective natural history dataset without burdening patients with clinic visits.",
+    "descriptionUrl": "https://www.citizen.health/communities",
+    "genesListUrl": "https://www.citizen.health/communities",
+    "genes": [
+      {
+        "symbol": "SCN2A",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "(RNU4-2) Rett syndrome Rett syndrome SCN2A SCN8A SCN8A SELENON-Related Myopathy"
+      },
+      {
+        "symbol": "SCN8A",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "(RNU4-2) Rett syndrome Rett syndrome SCN2A SCN8A SCN8A SELENON-Related Myopathy Shwachman-Diamond"
+      },
+      {
+        "symbol": "KCNT1",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "Kabuki syndrome KCNH1 KCNT1 Epilepsy KMT2C KMT2E Lennox-Gastaut syndrome (LGS)",
+        "conditionNameOnPage": "KCNT1 Epilepsy"
+      },
+      {
+        "symbol": "KCNH1",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "Health Equity HNRNPH2 Kabuki syndrome KCNH1 KCNT1 Epilepsy KMT2C KMT2E Lennox-Gastaut"
+      },
+      {
+        "symbol": "CACNA1A",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "including... ADCY5 AGS Angelman syndrome CACNA1A CASK CASK CHD2 CLN2 CMT4B3 CMT4J Cohen"
+      },
+      {
+        "symbol": "GABRA1",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "FOXP1 syndrome FOXP1 syndrome GABA-A GABRA1 Galactosemia Gallbladder cancer Health"
+      },
+      {
+        "symbol": "STXBP1",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "Hioco Director, Community Engagement STXBP1 Foundation Genuine commitment There's"
+      },
+      {
+        "symbol": "SLC6A1",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "Shwachman-Diamond Syndrome (SDS) SLC13A5 SLC6A1 SMC1A SPG50 SPTBN1 STXBP1 TBCD TBCD"
+      },
+      {
+        "symbol": "DNM1",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "Cohen syndrome DAND Danon disease DLG4 DNM1-related epilepsy Dup15q DYNC1H1 Epilepsy",
+        "conditionNameOnPage": "DNM1-related epilepsy"
+      },
+      {
+        "symbol": "CASK",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "ADCY5 AGS Angelman syndrome CACNA1A CASK CASK CHD2 CLN2 CMT4B3 CMT4J Cohen syndrome"
+      },
+      {
+        "symbol": "MECP2",
+        "pageUrl": "https://www.citizen.health/caregiver-guide/rett-syndrome-newly-diagnosed",
+        "snippet": "It is caused by a change (variant) in the MECP2 gene on the X chromosome.",
+        "conditionNameOnPage": "Rett syndrome",
+        "conditionPageUrl": "https://www.citizen.health/communities"
+      },
+      {
+        "symbol": "TCF4",
+        "pageUrl": "https://www.citizen.health/caregiver-guide/pitt-hopkins-syndrome-newly-diagnosed",
+        "snippet": "Pitt-Hopkins syndrome is a rare neurological condition caused by a change (variant) in the TCF4 gene",
+        "conditionNameOnPage": "Pitt Hopkins syndrome (PTHS)",
+        "conditionPageUrl": "https://www.citizen.health/communities"
+      },
+      {
+        "symbol": "CHD2",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "Angelman syndrome CACNA1A CASK CASK CHD2 CLN2 CMT4B3 CMT4J Cohen syndrome DAND"
+      },
+      {
+        "symbol": "MEF2C",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "Luna Park syndrome Malan syndrome MDS MEF2C NKH OCNDS Pitt Hopkins syndrome (PTHS)"
+      },
+      {
+        "symbol": "HNRNPH2",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "Galactosemia Gallbladder cancer Health Equity HNRNPH2 Kabuki syndrome KCNH1 KCNT1 Epilepsy"
+      },
+      {
+        "symbol": "PURA",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "Pitt Hopkins syndrome (PTHS) PPP3CA PURA syndrome ReNU Syndrome (RNU4-2) Rett",
+        "conditionNameOnPage": "PURA syndrome"
+      },
+      {
+        "symbol": "SMC1A",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "Shwachman-Diamond Syndrome (SDS) SLC13A5 SLC6A1 SMC1A SPG50 SPTBN1 STXBP1 TBCD TBCD TBCK"
+      },
+      {
+        "symbol": "SLC13A5",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "SCN8A SELENON-Related Myopathy Shwachman-Diamond Syndrome (SDS) SLC13A5 SLC6A1 SMC1A SPG50"
+      },
+      {
+        "symbol": "WWOX",
+        "pageUrl": "https://www.citizen.health/communities",
+        "snippet": "TBCK Telomere TTN (titin) v-ATPase WSS WWOX YWHAG ZTTK syndrome About Advocacy"
+      }
+    ],
+    "notes": "ciitizen.com redirects (301) to citizen.health. Gene names come from the 'Our advocacy partners' list on the communities page. 'Angelman syndrome' is listed but no citizen.health page fetched names UBE3A, so it is not mapped.",
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  },
+  {
+    "id": "cords",
+    "name": "CoRDS (Coordination of Rare Diseases at Sanford)",
+    "operator": "Sanford Research",
+    "url": "https://research.sanfordhealth.org/rare-disease-registry",
+    "type": "general_rare_disease_registry",
+    "description": "The Coordination of Rare Diseases at Sanford (CoRDS) registry was created to support research by collecting information directly from individuals and families affected by rare conditions.",
+    "descriptionUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+    "genesListUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+    "genes": [
+      {
+        "symbol": "SCN2A",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "Scleromyxedema SCLS SCN10A mutation SCN2A Scurvy Seckel syndrome Secondary"
+      },
+      {
+        "symbol": "KCNB1",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "Kawasaki disease KBG syndrome KCNA1 KCNB1 gene KCNC1 KCNMA1-Channelopathy",
+        "conditionNameOnPage": "KCNB1 gene"
+      },
+      {
+        "symbol": "KCNC1",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "KBG syndrome KCNA1 KCNB1 gene KCNC1 KCNMA1-Channelopathy Kennedy disease"
+      },
+      {
+        "symbol": "HCN1",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "thyroiditis HbS - beta-thalassemia HCN1 Disorder HDL1 HDL4 HDLS Heart-hand",
+        "conditionNameOnPage": "HCN1 Disorder"
+      },
+      {
+        "symbol": "CACNA1A",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "deficiency C3 glomerulonephritis CACD CACNA1A gene mutation CAD CADP CAEBV syndrome",
+        "conditionNameOnPage": "CACNA1A gene mutation"
+      },
+      {
+        "symbol": "GRIN2A",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "intellectual disability due to GRIN2A mutation Early-onset generalized",
+        "conditionNameOnPage": "Early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation"
+      },
+      {
+        "symbol": "STXBP1",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "Streptococcal TSS Strümpell disease STXBP1-related encephalopathy Subcortical",
+        "conditionNameOnPage": "STXBP1-related encephalopathy"
+      },
+      {
+        "symbol": "DNM1",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "DLG4-related synaptopathy DM DM1 DMD DNM1 DNM1 Gene Mutation DOA Dominant",
+        "conditionNameOnPage": "DNM1 Gene Mutation"
+      },
+      {
+        "symbol": "NRXN1",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "lentigines Norrie disease NPH NRXN1-related severe neurodevelopmental",
+        "conditionNameOnPage": "NRXN1-related severe neurodevelopmental disorder-motor stereotypies-chronic constipation-sleep-wake cycle"
+      },
+      {
+        "symbol": "MECP2",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "- MDS1 and EVI1 complex locus MECP2 duplication syndrome MED-12 related",
+        "conditionNameOnPage": "MECP2 duplication syndrome"
+      },
+      {
+        "symbol": "CDKL5",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "CDG-Ii CDH CDK13-related disorder CDKL5-related epileptic encephalopathy",
+        "conditionNameOnPage": "CDKL5-related epileptic encephalopathy"
+      },
+      {
+        "symbol": "FOXG1",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "cleft cyst Fox-Fordyce disease FOXG1 syndrome FOXP1 Syndrome FOXP1-related",
+        "conditionNameOnPage": "FOXG1 syndrome"
+      },
+      {
+        "symbol": "DYRK1A",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "proximal spinal muscular atrophy DYRK1A syndrome Dysequilibrium syndrome",
+        "conditionNameOnPage": "DYRK1A syndrome"
+      },
+      {
+        "symbol": "ADNP",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "rheumatism Adiposis dolorosa ADLD ADNP syndrome ADNP-related multiple",
+        "conditionNameOnPage": "ADNP syndrome"
+      },
+      {
+        "symbol": "ANKRD11",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "disability-familial obesity syndrome ANKRD11 Ankyloblepharon filiforme adnatum-imperforate"
+      },
+      {
+        "symbol": "PURA",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "- calcification of cartilages PURA syndrome Pure autonomic failure",
+        "conditionNameOnPage": "PURA syndrome"
+      },
+      {
+        "symbol": "SMC1A",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "disability syndrome SMARD1 SMAS SMAX1 SMC1A DEE Smith-Kingsmore Syndrome Smith-Lemli-Opitz",
+        "conditionNameOnPage": "SMC1A DEE"
+      },
+      {
+        "symbol": "PCDH19",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "overlap syndrome PBCRA PBD-ZSD PCD PCDH19-Related Epilepsy PCH PCH6 PCH9",
+        "conditionNameOnPage": "PCDH19-Related Epilepsy"
+      },
+      {
+        "symbol": "WWOX",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "ataxia-epilepsy-intellectual disability syndrome due to WWOX deficiency Autosomal recessive",
+        "conditionNameOnPage": "Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to WWOX deficiency",
+        "alsoOnPage": [
+          "WWOX developmental and epileptic encephalopathy (WWOX-DEE)",
+          "WWOX Related Epileptic Encephalopathy (WOREE syndrome)"
+        ]
+      },
+      {
+        "symbol": "ATP1A3",
+        "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
+        "snippet": "Ataxia-telangiectasia-like disorder ATOS ATP1A3 related disorders Atresia of bile",
+        "conditionNameOnPage": "ATP1A3 related disorders"
+      }
+    ],
+    "notes": "Page states: 'The conditions listed below represent diagnoses that have been reported by participants in the CoRDS registry.' Condition-only entries from our slice also on the page but not mapped because the gene symbol is not on the page: Dravet syndrome, Angelman syndrome, Pitt-Hopkins syndrome, Phelan-McDermid syndrome, Tuberous sclerosis complex, Rett syndrome (MECP2 is recorded via 'MECP2 duplication syndrome').",
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  },
+  {
+    "id": "endd-nhs",
+    "name": "ENDD Natural History Studies (STXBP1 and SYNGAP1)",
+    "operator": "Center for Epilepsy and Neurodevelopmental Disorders (ENDD), Penn Medicine / Children's Hospital of Philadelphia",
+    "url": "https://endd.med.upenn.edu/",
+    "type": "natural_history_study",
+    "description": "A natural history study (NHS) is a medical research study that collects comprehensive information about the development, symptoms, and lived experiences of people with a rare genetic condition.",
+    "descriptionUrl": "https://endd.med.upenn.edu/research/natural-history-study/",
+    "genesListUrl": "https://endd.med.upenn.edu/research/natural-history-study/",
+    "genes": [
+      {
+        "symbol": "STXBP1",
+        "pageUrl": "https://endd.med.upenn.edu/research/natural-history-study/",
+        "snippet": "Dr. Ingo Helbig of CHOP leads the NHS for both STXBP1 and SYNGAP1."
+      },
+      {
+        "symbol": "SYNGAP1",
+        "pageUrl": "https://endd.med.upenn.edu/research/natural-history-study/",
+        "snippet": "Dr. Ingo Helbig of CHOP leads the NHS for both STXBP1 and SYNGAP1."
+      }
+    ],
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  },
+  {
+    "id": "rdcrn-rett-consortium",
+    "name": "Rett Syndrome, MECP2 Duplications, and Rett-related Disorders Consortium (RTT)",
+    "operator": "NIH Rare Diseases Clinical Research Network (RDCRN)",
+    "url": "https://www.rarediseasesnetwork.org/research-groups",
+    "type": "natural_history_consortium",
+    "description": "We are an NIH-funded research network of 23 active consortia or research groups. We foster collaborative research among scientists to better understand how particular rare diseases progress and to develop improved approaches for diagnosis and treatment.",
+    "descriptionUrl": "https://www.rarediseasesnetwork.org/research-groups",
+    "genesListUrl": "https://www.rarediseasesnetwork.org/research-groups",
+    "genes": [
+      {
+        "symbol": "MECP2",
+        "pageUrl": "https://www.rarediseasesnetwork.org/research-groups",
+        "snippet": "Rett Syndrome, MECP2 Duplications, and Rett-related Disorders Consortium (RTT) Diseases Researched CDKL5 mutation FOXG1 mutation MECP2 Duplications",
+        "conditionNameOnPage": "MECP2 Duplications; MECP2 mutations not associated with Rett syndrome (non-RTT MECP2 mutations)"
+      },
+      {
+        "symbol": "CDKL5",
+        "pageUrl": "https://www.rarediseasesnetwork.org/research-groups",
+        "snippet": "Diseases Researched CDKL5 mutation FOXG1 mutation MECP2 Duplications",
+        "conditionNameOnPage": "CDKL5 mutation"
+      },
+      {
+        "symbol": "FOXG1",
+        "pageUrl": "https://www.rarediseasesnetwork.org/research-groups",
+        "snippet": "Diseases Researched CDKL5 mutation FOXG1 mutation MECP2 Duplications",
+        "conditionNameOnPage": "FOXG1 mutation"
+      }
+    ],
+    "notes": "The study page https://www1.rarediseasesnetwork.org/cms/rett/Get-Involved/Studies/5211 redirects to the generic /research-studies list, which does not name genes; genes are taken from the consortium's 'Diseases Researched' list on /research-groups.",
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  }
+]

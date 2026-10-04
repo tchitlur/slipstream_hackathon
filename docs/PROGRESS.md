@@ -19,6 +19,9 @@ Session start: 2026-10-03 19:13 UTC. Deadline: 2026-10-04 06:00 EST (10:00 UTC).
 ## Delegated review pass (2026-10-04)
 - Automated organization check (51 passed, 4 failed and hidden, 3 URLs replaced), contested-claim review (3 contested, 13 both directions, 20 rejected), grant relevance tightened (413 kept), 11 FDA-labelled therapies with target class, baseline from data (15 pairs, median 6.8 years), demo re-ranked to DYRK1A with TCF4, 25 trial labels re-checked (6 changed), shot lists written.
 
+## Second review pass (2026-10-04)
+- Shared-registry layer (6 registries, 74 gene links, 54 organization-page links, 26 external registries), three-state milestones 4 and 7, three-level target labels for 65 trials and 11 therapies, "different mechanism also reported" flag, demo re-selected to CHD2 with SCN1A (counterexample KCNA2 gain of function), briefs regenerated, shot lists rewritten.
+
 ## Next (for the human)
 - See `HUMAN_TODO.md`: Vercel deploy and production URL, verify patient organizations, review `docs/DATA_NOTES.md`, confirm the demo condition, supply the sourced 10x baseline, record the videos.
 
