@@ -135,7 +135,7 @@ export function Ladder({ rows, focalId }: { rows: LadderRow[]; focalId: string }
                       >
                         <StatusGlyph status={m.status} />
                         {m.status === "partial" && <span className="text-[9px] leading-none opacity-90">{m.partialKind === "shared_registry" ? "shared" : "pathway"}</span>}
-                        {m.flags.length > 0 && m.status === "found" && <span className="text-[9px] leading-none opacity-80">{m.flags[0].startsWith("support") ? m.flags[0].replace("support: ", "") : m.flags[0].includes("unverified") ? "unverified" : m.flags[0] === "auto-checked" || m.flags[0] === "org auto-checked" ? "auto" : m.flags[0].startsWith("status:") ? "inactive" : m.flags[0] === "few records" ? "few" : m.flags[0] === "symptoms only" ? "symptoms" : m.flags[0] === "targets genetic cause" ? "cause" : m.flags[0] === "acts on pathway" ? "pathway" : m.flags[0].startsWith("single") ? "1 study" : "flag"}</span>}
+                        {m.flags.length > 0 && m.status === "found" && <span className="text-[9px] leading-none opacity-80">{m.flags[0].startsWith("support") ? m.flags[0].replace("support: ", "") : m.flags[0].includes("unverified") ? "unverified" : m.flags[0] === "auto-checked" || m.flags[0] === "org auto-checked" ? "auto" : m.flags[0].startsWith("status:") ? "inactive" : m.flags[0] === "few records" ? "few" : m.flags[0] === "outside ClinicalTrials.gov" ? "registry" : m.flags[0] === "symptoms only" ? "symptoms" : m.flags[0] === "symptoms only" ? "symptoms" : m.flags[0] === "targets genetic cause" ? "cause" : m.flags[0] === "acts on pathway" ? "pathway" : m.flags[0].startsWith("single") ? "1 study" : "flag"}</span>}
                       </button>
                     </td>
                   );
