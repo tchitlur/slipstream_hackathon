@@ -173,7 +173,7 @@ export default function MethodPage() {
 
       <section id="ladder" className="space-y-3">
         <h2 className="text-2xl">The readiness ladder</h2>
-        <p className="text-sm text-ink-2">Eight milestones in a conventional order; real progress is not linear. Status is found (with evidence), not found (searched, nothing returned, with the sources listed) or not searched (atlas-wide conditions). A neighbor is ahead on a milestone when it has found and the focal condition has not found.</p>
+        <p className="text-sm text-ink-2">Eight milestones in a conventional order; real progress is not linear. Status is found (with evidence), partly (a weaker form is present), not found (searched, nothing returned, with the sources listed) or not searched (atlas-wide conditions). Milestone 4 distinguishes a condition-specific registry or natural history study (found) from inclusion in a shared multi-gene registry such as Simons Searchlight (partly, named on the cell). Milestone 7 counts only trials whose intervention acts on the gene or its product; pathway-level trials (mTOR inhibitors, growth hormone or IGF-1 approaches) show as partly. A neighbor is ahead when its status ranks higher (found above partly above not found).</p>
         <ol className="text-sm space-y-1 list-decimal pl-5">
           {MILESTONES.map((ms) => (
             <li key={ms.n}>
@@ -309,7 +309,7 @@ export default function MethodPage() {
 
       <section id="therapies" className="space-y-3">
         <h2 className="text-2xl">Approved disease-specific therapies (rung 8)</h2>
-        <p className="text-sm text-ink-2">Only entries whose regulator page names the condition in the indication text. Each is labelled by what it acts on: symptoms, the disrupted pathway, or the genetic cause itself. Approval is not evidence of benefit for any individual.</p>
+        <p className="text-sm text-ink-2">Only entries whose regulator page names the condition in the indication text. Each is labelled with the same three levels used for trials: acts on the gene or its product; acts on a downstream pathway; treats symptoms or the mechanism is not established. Approval is not evidence of benefit for any individual.</p>
         {therapies.length ? (
           <table className="w-full text-sm border-separate border-spacing-0">
             <thead>
@@ -331,7 +331,7 @@ export default function MethodPage() {
                     {t.approvalYear ? <span className="text-muted"> · {t.regulator} {t.approvalYear}</span> : <span className="text-muted"> · {t.regulator}</span>}
                   </td>
                   <td className="py-1.5 pr-2 border-b border-line">
-                    {t.targets === "genetic_cause" ? "genetic cause" : t.targets === "mechanism" ? "disrupted pathway" : "symptoms"}
+                    {t.targets === "gene_product" ? "gene or its product" : t.targets === "pathway" ? "downstream pathway" : "symptoms, or mechanism not established"}
                     {t.targetsNote && <div className="text-xs text-muted">{t.targetsNote}</div>}
                   </td>
                   <td className="py-1.5 border-b border-line text-ink-2">

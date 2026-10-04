@@ -267,8 +267,11 @@ async function main() {
     if (papers.size >= CONTEST_MIN_PAPERS) {
       const dispute = d.some((x) => review?.claims[x.evidenceId]?.sameVariantClassDispute);
       const suggested = review?.conditions?.[c.id]?.suggestedLabel;
-      const kind: "contested" | "both_directions" = dispute || suggested === "contested" ? "contested" : review ? "both_directions" : "contested";
-      const note = review?.conditions?.[c.id]?.note ?? (kind === "both_directions" ? `Published cases describe ${c.geneSymbol} variants acting in more than one direction; which applies depends on the individual variant.` : undefined);
+      // Dominant-negative claims against a curated loss-of-function record are a refinement ("a different mechanism is
+      // also reported"), not an opposite direction; gain claims against loss (or vice versa) are "both directions".
+      const onlyDnVsLof = c.mechanism === "loss of function" && d.every((x) => x.direction === "dominant_negative");
+      const kind: "contested" | "both_directions" | "different_mechanism" = dispute || suggested === "contested" ? "contested" : onlyDnVsLof ? "different_mechanism" : review ? "both_directions" : "contested";
+      const note = kind === "different_mechanism" ? `Published cases report a dominant-negative effect for some ${c.geneSymbol} variants alongside the curated loss of function; a different mechanism is also reported, and which applies depends on the individual variant.` : review?.conditions?.[c.id]?.note ?? (kind === "both_directions" ? `Published cases describe ${c.geneSymbol} variants acting in more than one direction; which applies depends on the individual variant.` : undefined);
       c.contested = { curatedMechanism: c.mechanism, curatedEvidenceId: c.evidenceIds[0], claims: d, kind, note };
     } else c.dissentingClaims = d;
   }
@@ -294,6 +297,7 @@ async function main() {
     m.counts.t1ClaimsDiscarded = totalDiscarded;
     m.counts.contestedMechanisms = contested;
     m.counts.mechanismBothDirections = atlas.conditions.filter((c) => c.contested?.kind === "both_directions").length;
+    m.counts.mechanismDifferentReported = atlas.conditions.filter((c) => c.contested?.kind === "different_mechanism").length;
     m.counts.mechanismContestedStrict = atlas.conditions.filter((c) => c.contested?.kind === "contested").length;
     m.counts.claimsRejectedOnReview = atlas.conditions.reduce((a, c) => a + c.rejectedClaims.length, 0);
     m.counts.claimsReviewed = review ? Object.keys(review.claims).length : 0;

@@ -29,6 +29,7 @@ import {
   ReconciliationFileSchema,
   ApprovedTherapySeedSchema,
   BaselineFileSchema,
+  RegistriesFileSchema,
   PatientOrgSeedSchema,
 } from "../src/lib/schemas";
 import { offsetsMatch } from "../src/lib/quotes";
@@ -85,6 +86,7 @@ function main() {
   check(files.reconciliation, ReconciliationFileSchema, false);
   check(files.seedTherapies, z.array(ApprovedTherapySeedSchema));
   const baseline = check(files.baseline, BaselineFileSchema, false);
+  const registries = check(files.registries, RegistriesFileSchema, false);
   check(files.seedOrgs, z.array(PatientOrgSeedSchema));
   const briefs: z.infer<typeof BriefSchema>[] = [];
   if (fs.existsSync(BRIEFS)) {
@@ -143,7 +145,7 @@ function main() {
   for (const [cid, l] of Object.entries(ladders.ladders)) {
     if (!condIds.has(cid)) fail(`ladder for unknown condition ${cid}`);
     for (const m of l.milestones) {
-      if (m.status === "found" && (!m.evidenceIds.length || !m.evidenceIds.every(has))) fail(`${cid} milestone ${m.n} found without existing evidence`);
+      if ((m.status === "found" || m.status === "partial") && (!m.evidenceIds.length || !m.evidenceIds.every(has))) fail(`${cid} milestone ${m.n} ${m.status} without existing evidence`);
       if (m.status === "not_found" && !m.sourcesSearched.length) fail(`${cid} milestone ${m.n} not_found without sources searched`);
     }
   }
@@ -174,6 +176,7 @@ function main() {
   // Briefs: every sentence cites existing evidence.
   // Same exemptions as the grounding check: the "Who we are" placeholder and a courtesy closing line carry no evidence.
   for (const b of briefs) for (const s of b.sections) for (const sent of s.sentences) if (!((/who we are/i.test(s.heading) || /^thank you/i.test(sent.text.trim())) && sent.evidenceIds.length === 0) && (!sent.evidenceIds.length || !sent.evidenceIds.every(has))) fail(`brief ${b.focalId}__${b.neighborId}: sentence without existing evidence: "${sent.text.slice(0, 60)}"`);
+  if (registries) for (const r of Object.values(registries.registries)) { if (!r.evidenceIds.every(has)) fail(`registry ${r.id} cites missing evidence`); if (!/^https?:\/\//.test(r.url)) fail(`registry ${r.id} without URL`); }
   if (baseline) for (const p of baseline.pairs) if (!p.evidenceIds.every(has)) fail(`baseline pair ${p.orgId} cites missing evidence`);
   // Demo candidates reference known conditions.
   for (const d of demo ?? []) if (!condIds.has(d.conditionId) || !condIds.has(d.neighborId)) fail(`demo candidate references unknown condition`);

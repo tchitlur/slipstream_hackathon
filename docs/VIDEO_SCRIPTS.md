@@ -1,7 +1,7 @@
 # Video scripts and shot lists (three videos, 60 seconds each)
 
 Production site: https://slipstreamhackathon.vercel.app/
-Team: Tanay Chitlur (computer science and biomedicine). `[SECOND MEMBER, one-line background: fill in or delete the line in the team script.]`
+Team: Tanay Chitlur, Computer Science student at Carnegie Mellon with a previous background in AI for biomedicine and signal synthesis (solo entry).
 Deadline: 2026-10-04, 06:00 EST (11:00 UTC).
 
 Numbers in the technical script are from `data/derived/build-manifest.json` of the final build (2026-10-04). Record in a 1280-pixel-wide browser window, light theme, zoom 110%. Speak calmly; no music needed. Each shot gives the exact URL or click, the on-screen target, and the line to say. Timings total under 60 seconds per video.
@@ -39,7 +39,7 @@ Demo pair: DYRK1A-related intellectual developmental disorder (`/condition/G2P01
 
 | Time | Open / click | Show | Say |
 |---|---|---|---|
-| 0:00–0:07 | Camera | Tanay | "I'm Tanay Chitlur. My background is computer science and biomedicine." `[SECOND MEMBER: "I'm NAME; BACKGROUND." or delete.]` |
+| 0:00–0:08 | Camera | Tanay | "I'm Tanay Chitlur, a computer science student at Carnegie Mellon. Before this I worked on AI for biomedicine and signal synthesis. Slipstream is a solo entry." |
 | 0:07–0:18 | https://slipstreamhackathon.vercel.app/ | Home page | "I built Slipstream for Hack-Nation's rare-disease atlas challenge because the hardest question for a small patient group is not 'what is known', it is 'who is ahead of us, and what can we safely borrow'." |
 | 0:18–0:30 | /condition/G2P01160, the ladder | The ladder | "The idea that drives it: similar is not one thing. Symptoms decide what registries and outcome measures you can share. Mechanism direction decides what treatment logic you can share. Slipstream keeps the two apart." |
 | 0:30–0:42 | /condition/G2P01160/with/G2P00371, the red card | Do-not-transfer card | "I spent the design effort on the ladder and on honesty: every claim has a source, every verdict has a counter-reason, and when there is no supported route the product says so." |

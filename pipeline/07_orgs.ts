@@ -9,6 +9,7 @@ import { files } from "./lib/paths";
 import { writeEvidence } from "./lib/evidence";
 import { updateManifest } from "./lib/manifest";
 import { AtlasSchema, PatientOrgSeedSchema, type PatientOrg, type Evidence } from "../src/lib/schemas";
+import { buildRegistries } from "./lib/registries";
 
 async function main() {
   const atlas = readValidated(files.atlas, AtlasSchema);
@@ -60,7 +61,10 @@ async function main() {
     linked += conditionIds.length;
   }
   writeJson(files.orgs, { orgs }, { pretty: false });
-  writeEvidence(["ev:seed:org:"], evidence);
+  const reg = buildRegistries(atlas.conditions, Object.fromEntries(Object.values(orgs).map((o) => [o.slug, { conditionIds: o.conditionIds, name: o.name }])));
+  writeJson(files.registries, { registries: reg.registries }, { pretty: false });
+  writeEvidence(["ev:seed:org:", "ev:seed:registry:", "ev:seed:orgreg:", "ev:seed:extreg:"], [...evidence, ...reg.evidence]);
+  log("S7", `registries: ${Object.keys(reg.registries).length} records (${JSON.stringify(reg.counts)})`);
   updateManifest((m) => {
     m.counts.patientOrgs = Object.keys(orgs).length;
     m.counts.patientOrgsVerified = Object.values(orgs).filter((o) => o.verified).length;
@@ -69,6 +73,12 @@ async function main() {
     m.counts.patientOrgsWithFoundingYear = Object.values(orgs).filter((o) => o.founded).length;
     m.counts.patientOrgsWithRegistry = Object.values(orgs).filter((o) => o.registry === "yes").length;
     m.counts.conditionsWithOrg = uniq(Object.values(orgs).flatMap((o) => o.conditionIds)).length;
+    m.counts.registryRecords = Object.keys(reg.registries).length;
+    m.counts.sharedRegistries = reg.counts.sharedRegistries;
+    m.counts.sharedRegistryGeneLinks = reg.counts.sharedGeneLinks;
+    m.counts.orgSharedRegistryLinks = reg.counts.orgParticipationLinks;
+    m.counts.externalRegistries = reg.counts.externalRegistries;
+    m.counts.conditionsInSharedRegistry = uniq(Object.values(reg.registries).filter((r) => r.kind === "shared_registry").flatMap((r) => r.conditionIds)).length;
   });
   log("S7", `${failed} failed the automated check and are hidden; ${Object.keys(orgs).length} organizations, ${linked} condition links, ${Object.values(orgs).filter((o) => o.registry === "yes").length} state a registry, ${Object.values(orgs).filter((o) => o.verified).length} verified`);
 }

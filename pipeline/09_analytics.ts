@@ -32,6 +32,7 @@ import {
   type Study,
   type PatientOrg,
   BaselineFileSchema,
+  RegistriesFileSchema,
 } from "../src/lib/schemas";
 import { computeLadder, aheadOn, isUsableStudyStatus, MILESTONES } from "../src/lib/ladder";
 import { mechanismRelation } from "../src/lib/roads";
@@ -62,6 +63,8 @@ async function main() {
   const invFile = readJsonOr<z.infer<typeof InvestigatorsFileSchema> | null>(files.investigators, null);
   const investigators = invFile ? Object.values(InvestigatorsFileSchema.parse(invFile).investigators) : [];
   const approvedSeed = z.array(ApprovedTherapySeedSchema).parse(readJsonOr(files.seedTherapies, []));
+  const regRaw = readJsonOr<unknown>(files.registries, null);
+  const registries = regRaw ? Object.values(RegistriesFileSchema.parse(regRaw).registries) : [];
   const evidenceAll = readEvidence();
 
   const condById = new Map(atlas.conditions.map((c) => [c.id, c]));
@@ -74,11 +77,11 @@ async function main() {
 
   // Approved therapies evidence (seed)
   const newEvidence: Evidence[] = [];
-  const approvedByCond = new Map<string, { therapy: string; regulator: string; evidenceId: string; verified: boolean; targets?: "symptoms" | "mechanism" | "genetic_cause" }[]>();
+  const approvedByCond = new Map<string, { therapy: string; regulator: string; evidenceId: string; verified: boolean; targets?: "gene_product" | "pathway" | "symptomatic_or_unknown"; conditionName?: string }[]>();
   approvedSeed.forEach((a, i) => {
     const target = atlas.conditions.filter((c) => c.id === a.condition || c.geneSymbol === a.condition.toUpperCase() || c.name === a.condition);
     const evId = `ev:seed:therapy:${i}`;
-    const targetLabel = a.targets === "genetic_cause" ? "targets the genetic cause" : a.targets === "mechanism" ? "acts on the disrupted pathway" : "treats symptoms";
+    const targetLabel = a.targets === "gene_product" ? "acts on the gene or its product" : a.targets === "pathway" ? "acts on a downstream pathway" : "treats symptoms or mechanism not established";
     newEvidence.push({
       id: evId,
       kind: "curated",
@@ -91,7 +94,7 @@ async function main() {
       quote: a.indicationQuote ? { text: a.indicationQuote, start: 0, end: a.indicationQuote.length } : undefined,
       note: `${a.verified ? "Human-verified" : a.check?.status === "auto" ? `Automatically checked on ${a.check.date} against the regulator page` : "Unverified"}. Indication names ${a.conditionName ?? a.condition}. ${a.targetsNote ?? ""} Approval is not evidence of benefit for any individual.`,
     });
-    for (const c of target) (approvedByCond.get(c.id) ?? approvedByCond.set(c.id, []).get(c.id)!).push({ therapy: `${a.therapy} (${targetLabel})`, regulator: a.regulator, evidenceId: evId, verified: a.verified, targets: a.targets });
+    for (const c of target) (approvedByCond.get(c.id) ?? approvedByCond.set(c.id, []).get(c.id)!).push({ therapy: `${a.therapy} (${targetLabel})`, regulator: a.regulator, evidenceId: evId, verified: a.verified, targets: a.targets, conditionName: a.conditionName });
   });
 
   // ---- Ladders
@@ -107,6 +110,7 @@ async function main() {
         condition: c,
         studies: studiesByCond.get(c.id) ?? [],
         orgs,
+        registries,
         grants,
         models: litEntry ? models : undefined,
         approved: approvedByCond.get(c.id) ?? [],
@@ -176,7 +180,7 @@ async function main() {
         const mechRule = ALWAYS_C2.includes(rule.id);
         if (focal.contested || nb.contested) {
           const flagged = [focal, nb].filter((c) => c.contested);
-          const text = flagged.map((c) => (c.contested!.kind === "both_directions" ? `${c.geneSymbol}: published cases document variants acting in more than one direction; the curated direction is not the only one seen in patients, so which applies depends on the individual variant.` : `${c.geneSymbol}: published claims dispute the curated direction for the same class of variants.`)).join(" ");
+          const text = flagged.map((c) => (c.contested!.kind === "both_directions" ? `${c.geneSymbol}: published cases document variants acting in more than one direction; the curated direction is not the only one seen in patients, so which applies depends on the individual variant.` : c.contested!.kind === "different_mechanism" ? `${c.geneSymbol}: a different mechanism (dominant negative) is also reported for some variants alongside the curated loss of function; which applies depends on the individual variant.` : `${c.geneSymbol}: published claims dispute the curated direction for the same class of variants.`)).join(" ");
           add("C3", text, flagged.flatMap((c) => c.contested!.claims.map((x) => x.evidenceId)));
         }
         if (mechRule) add("C2", "Mechanism is recorded per gene and disease. This family's variant may act differently; confirm its class (loss, gain, dominant negative) with a clinical geneticist before acting on this verdict.", [focal.evidenceIds[0]]);
@@ -196,10 +200,13 @@ async function main() {
 
         const assetRecords: TransferVerdict["assetRecords"] = [];
         const pushStudy = (s: Study) => assetRecords.push({ label: `${s.id}: ${s.briefTitle}`, url: `https://clinicaltrials.gov/study/${s.id}`, evidenceId: s.evidenceIds[0] });
+        const nbRegs = registries.filter((r) => r.conditionIds.includes(nb.id));
         if (rule.id === "R1" || rule.id === "R2") {
           nbRegistry.forEach(pushStudy);
           for (const o of nbOrgs.filter((o) => o.registry === "yes")) assetRecords.push({ label: `${o.name} (registry stated on site)`, url: o.registryUrl ?? o.url, evidenceId: o.evidenceIds[0] });
+          for (const r of nbRegs) assetRecords.push({ label: r.kind === "shared_registry" ? `${r.name} (shared multi-gene registry that includes ${nb.geneSymbol}; its data items and consent are reusable)` : `${r.name} (${r.kind.replace(/_/g, " ")}, outside ClinicalTrials.gov)`, url: r.url, evidenceId: r.evidenceIds[0] });
         }
+        if (rule.id === "R3") for (const r of nbRegs.filter((r) => r.kind === "shared_registry")) assetRecords.push({ label: `${r.name} (shared registry; a route to the same clinical network)`, url: r.url, evidenceId: r.evidenceIds[0] });
         if (rule.id === "R3") {
           for (const invId of (n.sharedInvestigatorIds ?? []).slice(0, 5)) {
             const inv = investigators.find((i) => i.id === invId)!;
@@ -295,52 +302,48 @@ async function main() {
     writeJson(files.investigators, { investigators: Object.fromEntries(investigators.map((i) => [i.id, i])) }, { pretty: false });
   }
 
-  // ---- Demo candidates (section 9.6, tightened 2026-10-04 at the human's request):
-  // focal is deep, severe childhood onset is approximated by having milestone 4 and 7 not found and an epilepsy or
-  // encephalopathy term in its name/phenotypes; its organization passed the automated check; its own mechanism carries no
-  // flag; it is not X-linked; a same-road high-similarity neighbor is ahead on both registry/NHS (4) and targeted trial (7);
-  // a high-similarity opposite-direction neighbor exists whose mechanism is unflagged (gives a clean "do not transfer").
+  // ---- Demo candidates (section 9.6; criteria set by the human on 2026-10-04, second revision):
+  // focal: deep, severe childhood onset (epilepsy/encephalopathy terms in name or phenotypes), organization passed the
+  // automated check, mechanism not strictly contested, never KCNC1/EEF1A2/SCN8A/PCDH19;
+  // community ahead: same road, high similarity, ahead on a gene-level targeted trial (milestone 7 "found"); a
+  // "both directions" flag on the neighbor is allowed and a plus when its trial eligibility excludes a variant class;
+  // counterexample: high similarity on a different road (opposite direction or different road), preferring a same-gene
+  // pair where the curated source has two conditions with different mechanisms;
+  // the main pair's shared phenotypes must not be dominated by common terms (C1 must not fire).
   const demo: { conditionId: string; neighborId: string; counterexampleId?: string; score: number; reason: string; tier: number; alternativeNeighborIds: string[] }[] = [];
   const studiesWithExclusion = new Set(studies.filter((s) => s.classification?.excludesMechanism).flatMap((s) => s.conditionIds));
   const earlyOnset = /epilep|encephalopath|infantile|neonatal|spasm|seizure/i;
+  const EXCLUDED = new Set(["KCNC1", "EEF1A2", "SCN8A", "PCDH19"]);
   for (const c of atlas.conditions.filter((c) => c.depth === "deep")) {
+    if (EXCLUDED.has(c.geneSymbol)) continue;
     const L = ladders[c.id].milestones;
-    const lacking = [4, 5, 6, 7].filter((n) => L[n - 1].status === "not_found");
+    const lacking = [4, 5, 6, 7].filter((n) => L[n - 1].status !== "found");
     const orgOk = orgs.some((o) => o.conditionIds.includes(c.id) && (o.verified || o.check?.status === "auto"));
-    const flagged = Boolean(c.contested);
-    const xLinked = /X/.test(c.allelicRequirementRaw);
+    const strictlyContested = c.contested?.kind === "contested";
     const terms = (ph.conditionTerms[c.id] ?? []).map((t) => ph.terms[t]?.label ?? "").join(" ");
     const onsetOk = earlyOnset.test(c.name) || earlyOnset.test(terms);
-    const ns = (sim.neighbors[c.id] ?? []).filter((n) => !n.sameGene);
-    const sameRoadAll = ns.filter((n) => n.relation === "same road" && n.band === "high" && !condById.get(n.id)!.contested);
-    let sameRoad = sameRoadAll
-      .filter((n) => (n.aheadOn ?? []).includes(4) && (n.aheadOn ?? []).includes(7))
+    const ns = sim.neighbors[c.id] ?? [];
+    const ahead = ns
+      .filter((n) => !n.sameGene && n.relation === "same road" && n.band === "high" && (n.aheadOn ?? []).includes(7) && ladders[n.id].milestones[6].status === "found" && condById.get(n.id)!.contested?.kind !== "contested" && n.lowInfoShare < LOW_INFO_SHARE_C1)
       .sort((a, b) => Number(studiesWithExclusion.has(b.id)) - Number(studiesWithExclusion.has(a.id)) || (b.aheadOn!.length - a.aheadOn!.length) || b.similarity - a.similarity);
-    // Tier 4 (home-page fill-in only): neighbor ahead on registry/NHS or targeted trial, not both.
-    let partial = false;
-    if (!sameRoad.length) {
-      sameRoad = sameRoadAll.filter((n) => (n.aheadOn ?? []).includes(4) || (n.aheadOn ?? []).includes(7)).sort((a, b) => (b.aheadOn!.length - a.aheadOn!.length) || b.similarity - a.similarity);
-      partial = true;
-    }
-    // Counterexample: an unflagged opposite-direction neighbor, high band preferred, medium band accepted (tier 2).
-    const oppHigh = ns.find((n) => n.relation === "opposite direction" && n.band === "high" && !condById.get(n.id)!.contested);
-    const oppMed = ns.find((n) => n.relation === "opposite direction" && n.band === "medium" && !condById.get(n.id)!.contested);
-    const opposite = oppHigh ?? oppMed;
-    if (!sameRoad.length || flagged || !onsetOk || !lacking.includes(4) || !lacking.includes(7)) continue;
-    // Tier 1: every criterion. Tier 2: counterexample only at medium similarity. Tier 3: X-linked, or no checked organization, or no counterexample.
-    const tier = xLinked || !orgOk || !opposite ? 3 : oppHigh ? 1 : 2;
-    const best = sameRoad[0];
+    const counter = ns
+      .filter((n) => n.band === "high" && (n.relation === "opposite direction" || n.relation === "different road"))
+      .sort((a, b) => Number(Boolean(b.sameGene)) - Number(Boolean(a.sameGene)) || Number(a.relation === "opposite direction") - Number(b.relation === "opposite direction") || b.similarity - a.similarity)[0];
+    if (!ahead.length || !onsetOk || strictlyContested) continue;
+    const best = ahead[0];
     const nb = condById.get(best.id)!;
-    const score = lacking.length * 2 + best.aheadOn!.length * 2 + (studiesWithExclusion.has(best.id) ? 3 : 0) + best.similarity + (opposite?.similarity ?? 0);
-    const caveats = [partial ? "neighbor is ahead on only one of registry/NHS and targeted trial" : "", xLinked ? "X-linked inheritance does not fit a plain reading of the road label" : "", !orgOk ? "no organization passed the automated check" : "", !opposite ? "no unflagged opposite-direction neighbor above the medium cutoff" : opposite === oppMed ? "counterexample is at medium, not high, similarity" : ""].filter(Boolean);
+    // Tier 1: all criteria. Tier 2: no organization passed the check. Tier 3: no high-similarity counterexample on a different road.
+    const tier = !orgOk ? 2 : !counter ? 3 : 1;
+    const score = (studiesWithExclusion.has(best.id) ? 3 : 0) + best.aheadOn!.length * 2 + lacking.length + best.similarity + (counter?.similarity ?? 0) + (counter?.sameGene ? 2 : 0);
+    const caveats = [!orgOk ? "no organization passed the automated check" : "", !counter ? "no high-similarity neighbor on a different road" : "", c.contested ? `focal mechanism flag: ${c.contested.kind.replace(/_/g, " ")}` : ""].filter(Boolean);
     demo.push({
       conditionId: c.id,
       neighborId: best.id,
-      counterexampleId: opposite?.id,
+      counterexampleId: counter?.id,
       score: Number(score.toFixed(2)),
       tier,
-      alternativeNeighborIds: sameRoad.slice(1, 6).map((n) => n.id),
-      reason: `${c.geneSymbol} lacks ${lacking.length} of milestones 4-7 and has an unflagged ${c.mechanism} mechanism; ${nb.geneSymbol} (same road, similarity ${best.similarity}) is ahead on ${best.aheadOn!.map((m) => MILESTONES[m - 1].short).join(", ")}${studiesWithExclusion.has(best.id) ? " and has a trial whose eligibility excludes a variant class" : ""}${opposite ? `; ${condById.get(opposite.id)!.geneSymbol} (similarity ${opposite.similarity}, ${opposite.band}) is an unflagged opposite-direction neighbor` : ""}.${caveats.length ? " Caveats: " + caveats.join("; ") + "." : ""}`,
+      alternativeNeighborIds: ahead.slice(1, 6).map((n) => n.id),
+      reason: `${c.geneSymbol} (${c.mechanism}) lacks ${lacking.length} of milestones 4-7; ${nb.geneSymbol} (same road, similarity ${best.similarity}, shared: ${best.sharedTop.slice(0, 3).map((t) => t.label).join(", ")}) is ahead on ${best.aheadOn!.map((m) => MILESTONES[m - 1].short).join(", ")} with a gene-level trial${studiesWithExclusion.has(best.id) ? " whose eligibility excludes a variant class" : ""}${nb.contested ? ` (neighbor flag: ${nb.contested.kind.replace(/_/g, " ")})` : ""}${counter ? `; counterexample ${condById.get(counter.id)!.geneSymbol} (${counter.relation}, similarity ${counter.similarity}${counter.sameGene ? ", same gene" : ""})` : ""}.${caveats.length ? " Caveats: " + caveats.join("; ") + "." : ""}`,
     });
   }
   demo.sort((a, b) => a.tier - b.tier || b.score - a.score);

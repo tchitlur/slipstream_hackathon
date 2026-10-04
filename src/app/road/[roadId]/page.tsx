@@ -90,7 +90,7 @@ export default async function RoadPage({ params }: { params: Promise<{ roadId: s
                     {l && c.depth === "deep" ? (
                       <div className="flex gap-0.5" aria-label={`${found} of 8 milestones found`}>
                         {l.milestones.map((m) => (
-                          <EvidenceLink key={m.n} ids={m.evidenceIds} title={`${m.label}: ${c.name}`} detail={m.status === "found" ? m.detail : m.status === "not_found" ? `Not found. Sources searched: ${m.sourcesSearched.join("; ")}` : "Not searched"} className={`w-5 h-5 rounded-sm text-[10px] flex items-center justify-center ${m.status === "found" ? "cell-found" : m.status === "not_found" ? "cell-notfound" : "border border-line"}`}>
+                          <EvidenceLink key={m.n} ids={m.evidenceIds} title={`${m.label}: ${c.name}`} detail={m.status === "found" || m.status === "partial" ? m.detail : m.status === "not_found" ? `Not found. Sources searched: ${m.sourcesSearched.join("; ")}` : "Not searched"} className={`w-5 h-5 rounded-sm text-[10px] flex items-center justify-center ${m.status === "found" ? "cell-found" : m.status === "partial" ? "cell-partial" : m.status === "not_found" ? "cell-notfound" : "border border-line"}`}>
                             {m.n}
                           </EvidenceLink>
                         ))}

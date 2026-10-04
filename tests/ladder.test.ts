@@ -91,3 +91,34 @@ describe("computeLadder", () => {
     expect(highestPhase([])).toBeUndefined();
   });
 });
+
+describe("three-state milestones (2026-10-04)", () => {
+  const reg = { id: "reg:simons-searchlight:G2P00001", kind: "shared_registry" as const, name: "Simons Searchlight", url: "https://www.simonssearchlight.org/", conditionIds: ["cond:G2P00001"], evidenceIds: ["ev:seed:registry:simons-searchlight:X"], source: "shared_registries" as const };
+  it("marks inclusion in a shared registry as partly, not found", () => {
+    const l = computeLadder({ condition: cond(), studies: [], orgs: [], registries: [reg], grants: [], models: null, approved: [], searched, currentFiscalYear: 2026 });
+    expect(l[3].status).toBe("partial");
+    expect(l[3].partialKind).toBe("shared_registry");
+    expect(l[3].detail).toContain("Simons Searchlight");
+  });
+  it("a condition-specific study outranks a shared registry and lists it alongside", () => {
+    const l = computeLadder({ condition: cond(), studies: [study({ id: "NCT00000002", classification: { aboutCondition: true, role: "natural_history", modality: "none", quote: "q", quoteVerified: true } })], orgs: [], registries: [reg], grants: [], models: null, approved: [], searched, currentFiscalYear: 2026 });
+    expect(l[3].status).toBe("found");
+    expect(l[3].detail).toContain("also included in Simons Searchlight");
+  });
+  it("only gene-level trials count as milestone 7; pathway trials are partly", () => {
+    const pathway = study({ classification: { aboutCondition: true, role: "interventional_targeted", modality: "small_molecule", target: "pathway", quote: "q", quoteVerified: true } });
+    const l = computeLadder({ condition: cond(), studies: [pathway], orgs: [], grants: [], models: null, approved: [], searched, currentFiscalYear: 2026 });
+    expect(l[6].status).toBe("partial");
+    expect(l[6].partialKind).toBe("pathway_trial");
+    const gene = study({ id: "NCT00000003", classification: { aboutCondition: true, role: "interventional_targeted", modality: "antisense", target: "gene_product", quote: "q", quoteVerified: true } });
+    const l2 = computeLadder({ condition: cond(), studies: [pathway, gene], orgs: [], grants: [], models: null, approved: [], searched, currentFiscalYear: 2026 });
+    expect(l2[6].status).toBe("found");
+    expect(l2[6].detail).toContain("pathway-level");
+  });
+  it("aheadOn ranks found above partly above not found", () => {
+    const focal = computeLadder({ condition: cond(), studies: [], orgs: [], registries: [reg], grants: [], models: null, approved: [], searched, currentFiscalYear: 2026 });
+    const nb = computeLadder({ condition: cond({ id: "cond:G2P00002" }), studies: [study({ id: "NCT00000002", conditionIds: ["cond:G2P00002"], classification: { aboutCondition: true, role: "registry", modality: "none", quote: "q", quoteVerified: true } })], orgs: [], grants: [], models: null, approved: [], searched, currentFiscalYear: 2026 });
+    expect(aheadOn(focal, nb)).toContain(4);
+    expect(aheadOn(nb, focal)).not.toContain(4);
+  });
+});

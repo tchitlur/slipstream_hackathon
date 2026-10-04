@@ -53,19 +53,21 @@ export function SimilarityBar({ value, band }: { value: number; band?: "high" | 
 
 function StatusGlyph({ status }: { status: Milestone["status"] }) {
   if (status === "found") return <span aria-hidden className="text-base leading-none">●</span>;
+  if (status === "partial") return <span aria-hidden className="text-base leading-none">◐</span>;
   if (status === "not_found") return <span aria-hidden className="text-base leading-none">○</span>;
   return <span aria-hidden className="text-base leading-none">–</span>;
 }
 
-const STATUS_TEXT: Record<Milestone["status"], string> = { found: "Found", not_found: "Not found in the sources we searched", not_searched: "Not searched (deeper layers not yet built)" };
+const STATUS_TEXT: Record<Milestone["status"], string> = { found: "Found", partial: "Partly: a weaker form is present", not_found: "Not found in the sources we searched", not_searched: "Not searched (deeper layers not yet built)" };
+const RANK: Record<Milestone["status"], number> = { found: 2, partial: 1, not_found: 0, not_searched: 0 };
 
 export function Ladder({ rows, focalId }: { rows: LadderRow[]; focalId: string }) {
   const { open } = useEvidence();
   const focal = rows.find((r) => r.id === focalId);
 
   const onCell = (row: LadderRow, m: Milestone) => {
-    const ahead = row.id !== focalId && focal && focal.milestones[m.n - 1].status === "not_found" && m.status === "found";
-    const detailParts = [STATUS_TEXT[m.status]];
+    const ahead = row.id !== focalId && focal && focal.milestones[m.n - 1].status !== "not_searched" && RANK[m.status] > RANK[focal.milestones[m.n - 1].status];
+    const detailParts = [m.status === "partial" ? (m.partialKind === "shared_registry" ? "Included in a shared multi-gene registry (not a condition-specific study)" : "Pathway-level trial only (no trial acting on the gene or its product)") : STATUS_TEXT[m.status]];
     if (m.detail) detailParts.push(m.detail);
     if (m.status === "not_found") detailParts.push(`Sources searched: ${m.sourcesSearched.join("; ")}.`);
     if (m.flags.length) detailParts.push(`Flags: ${m.flags.join(", ")}.`);
@@ -120,8 +122,8 @@ export function Ladder({ rows, focalId }: { rows: LadderRow[]; focalId: string }
                   </div>
                 </th>
                 {row.milestones.map((m) => {
-                  const ahead = !isFocal && focal && focal.milestones[m.n - 1].status === "not_found" && m.status === "found";
-                  const cls = m.status === "found" ? "cell-found" : m.status === "not_found" ? "cell-notfound" : "cell-notsearched";
+                  const ahead = !isFocal && focal && focal.milestones[m.n - 1].status !== "not_searched" && RANK[m.status] > RANK[focal.milestones[m.n - 1].status];
+                  const cls = m.status === "found" ? "cell-found" : m.status === "partial" ? "cell-partial" : m.status === "not_found" ? "cell-notfound" : "cell-notsearched";
                   return (
                     <td key={m.n} className="border-b border-line p-1 align-middle text-center">
                       <button
@@ -132,6 +134,7 @@ export function Ladder({ rows, focalId }: { rows: LadderRow[]; focalId: string }
                         className={`w-full h-10 rounded flex flex-col items-center justify-center gap-0 ${cls} ${ahead ? "cell-ahead" : ""} hover:brightness-95 focus-visible:outline-2`}
                       >
                         <StatusGlyph status={m.status} />
+                        {m.status === "partial" && <span className="text-[9px] leading-none opacity-90">{m.partialKind === "shared_registry" ? "shared" : "pathway"}</span>}
                         {m.flags.length > 0 && m.status === "found" && <span className="text-[9px] leading-none opacity-80">{m.flags[0].startsWith("support") ? m.flags[0].replace("support: ", "") : m.flags[0].includes("unverified") ? "unverified" : m.flags[0] === "auto-checked" || m.flags[0] === "org auto-checked" ? "auto" : m.flags[0].startsWith("status:") ? "inactive" : m.flags[0] === "few records" ? "few" : m.flags[0] === "symptoms only" ? "symptoms" : m.flags[0] === "targets genetic cause" ? "cause" : m.flags[0] === "acts on pathway" ? "pathway" : m.flags[0].startsWith("single") ? "1 study" : "flag"}</span>}
                       </button>
                     </td>
@@ -145,6 +148,9 @@ export function Ladder({ rows, focalId }: { rows: LadderRow[]; focalId: string }
       <div className="flex flex-wrap gap-x-5 gap-y-1 text-xs text-muted px-4 sm:px-2 py-2">
         <span>
           <span className="inline-block w-3 h-3 rounded cell-found align-middle mr-1" /> found, with evidence
+        </span>
+        <span>
+          <span className="inline-block w-3 h-3 rounded cell-partial align-middle mr-1" /> partly: shared multi-gene registry, or pathway-level trial only
         </span>
         <span>
           <span className="inline-block w-3 h-3 rounded cell-notfound align-middle mr-1" /> not found in the sources we searched
