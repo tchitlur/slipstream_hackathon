@@ -8,7 +8,7 @@ import { z } from "zod";
 import { parseArgs, deepGenes } from "./lib/args";
 import { fetchJsonCached } from "./lib/http";
 import { readValidated, readJsonOr, writeJson, writeText, log, uniq } from "./lib/io";
-import { files, RAW } from "./lib/paths";
+import { files, RAW, SEED } from "./lib/paths";
 import { writeEvidence } from "./lib/evidence";
 import { updateManifest } from "./lib/manifest";
 import { llmStructured, mapLimit, hasKey, confirmModels, estimateUsd, approxTokens, readLedger, BUDGET_USD } from "./lib/llm";
@@ -234,6 +234,22 @@ async function main() {
     });
   }
 
+  // Apply label overrides from the automated re-check (data/seed/study_overrides.json), recording the change on the study.
+  type Overrides = { reviewedAt: string; reviewer: string; checked: string[]; overrides: Record<string, { aboutCondition: boolean; role: z.infer<typeof StudyRole>; modality: z.infer<typeof StudyModality>; excludesMechanism: string | null; reason: string }> };
+  const overrides = readJsonOr<Overrides | null>(path.join(SEED, "study_overrides.json"), null);
+  let overridden = 0;
+  if (overrides) {
+    for (const [id, o] of Object.entries(overrides.overrides)) {
+      const st = studies[id];
+      if (!st?.classification) continue;
+      const before = { aboutCondition: st.classification.aboutCondition, role: st.classification.role, modality: st.classification.modality, excludesMechanism: st.classification.excludesMechanism };
+      st.classification = { ...st.classification, aboutCondition: o.aboutCondition, role: o.role, modality: o.modality, excludesMechanism: o.excludesMechanism ?? undefined, excludesQuote: o.excludesMechanism ? st.classification.excludesQuote : undefined, excludesQuoteVerified: o.excludesMechanism ? st.classification.excludesQuoteVerified : undefined, reviewed: { date: overrides.reviewedAt, reviewer: overrides.reviewer, before, reason: o.reason } };
+      if (!o.aboutCondition) st.conditionIds = [];
+      overridden++;
+    }
+    for (const id of overrides.checked) if (studies[id]?.classification && !studies[id].classification!.reviewed) studies[id].classification = { ...studies[id].classification!, reviewed: { date: overrides.reviewedAt, reviewer: overrides.reviewer, reason: "confirmed" } };
+  }
+
   // Build evidence for studies about a condition with a verified quote.
   const evidence: Evidence[] = [];
   const kept: Record<string, Study> = {};
@@ -258,7 +274,7 @@ async function main() {
         quote: { ...q, sourceText: `ctgov:${s.id}` },
         confidence: s.status === "WITHDRAWN" || s.status === "TERMINATED" ? "low" : "medium",
         title: `${s.id}: ${s.briefTitle}`,
-        note: `Classified as ${s.classification.role.replace(/_/g, " ")}${s.classification.modality !== "none" ? ", modality " + s.classification.modality.replace(/_/g, " ") : ""}; status ${s.status}${s.phases.length ? ", phase " + s.phases.join("/") : ""}. A study existing is not evidence that a therapy works.`,
+        note: `Classified as ${s.classification.role.replace(/_/g, " ")}${s.classification.modality !== "none" ? ", modality " + s.classification.modality.replace(/_/g, " ") : ""}; status ${s.status}${s.phases.length ? ", phase " + s.phases.join("/") : ""}.${s.classification.reviewed ? ` Label re-checked on ${s.classification.reviewed.date}${s.classification.reviewed.before ? " and changed from " + s.classification.reviewed.before.role.replace(/_/g, " ") + " / " + s.classification.reviewed.before.modality.replace(/_/g, " ") + ": " + s.classification.reviewed.reason : " (confirmed)"}.` : ""} A study existing is not evidence that a therapy works.`,
       };
       evidence.push(ev);
       ids.push(ev.id);
@@ -310,6 +326,8 @@ async function main() {
     m.counts.studiesAboutCondition = about.length;
     m.counts.studiesDiscardedNotAbout = Object.values(studies).filter((s) => s.classification && !s.classification.aboutCondition).length;
     m.counts.studiesWithMechanismExclusion = excludes.length;
+    m.counts.studiesRecheckedByReview = overrides?.checked.length ?? 0;
+    m.counts.studiesChangedByReview = overridden;
     // Recomputed over every classified study (cached calls re-run for free), so re-runs do not accumulate.
     const classified = Object.values(studies).filter((s) => s.classification);
     m.counts.t2QuotesVerified = classified.reduce((a, s) => a + (s.classification!.quoteVerified ? 1 : 0) + (s.classification!.excludesQuoteVerified ? 1 : 0), 0);

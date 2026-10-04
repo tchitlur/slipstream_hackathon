@@ -2,12 +2,14 @@
 
 Estimated total: about 3 to 4 hours, most of it the videos and the organization check. Items are in priority order.
 
+Status 2026-10-04: item 1 is done (https://slipstreamhackathon.vercel.app/). Items 2 to 6 were run as automated checks at the human's request and are labelled as such in the product; what remains for a human is listed under "Needs a biomedical eye" in the final report and in `docs/DATA_NOTES.md`. Item 7 (recording) remains.
+
 ## 1. Deploy (15 min)
-- [ ] Follow `docs/DEPLOY.md`: import the repo in Vercel, set `OPENAI_API_KEY`, `OPENAI_MODEL_EXPLAIN=gpt-5.4`, `OPENAI_MODEL_EXTRACT=gpt-5.4-mini`, deploy, and point production at this branch (or merge the PR into `main`).
+- [x] Follow `docs/DEPLOY.md`: import the repo in Vercel, set `OPENAI_API_KEY`, `OPENAI_MODEL_EXPLAIN=gpt-5.4`, `OPENAI_MODEL_EXTRACT=gpt-5.4-mini`, deploy, and point production at this branch (or merge the PR into `main`).
 - [ ] Paste the production URL into `README.md` (line "Production URL") and open `/`, one condition page and `/method` to confirm they respond.
 
 ## 2. Verify patient organizations (60 to 90 min, 55 entries)
-File: `data/seed/patient_orgs.json`. Every entry is `verified: false`. For each one:
+Automated pass done 2026-10-04: 51 passed an automated check of their own site (`check.status: "auto"`), 4 failed and are hidden, 3 URLs replaced, 30 registry claims confirmed from a page on the site, 4 downgraded to unknown; see `data/seed/patient_orgs_check_report.md`. A human check would flip `verified` to true. For each one:
 - [ ] Open `url`. Confirm it is the organization's own site and that it serves families with disorders of the listed gene(s).
 - [ ] If `registry` is `yes`, open `registryUrl` and confirm the page states a registry or natural history study. If it only points to a registry run by someone else, change `registry` to `unknown` and adjust `registryNote`.
 - [ ] Flip `verified` to `true`, or delete the entry if it is wrong.

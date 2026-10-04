@@ -1,23 +1,25 @@
 [
  {
+  "conditionId": "cond:G2P01160",
+  "neighborId": "cond:G2P00140",
+  "counterexampleId": "cond:G2P00371",
+  "score": 11.39,
+  "tier": 2,
+  "reason": "DYRK1A lacks 2 of milestones 4-7 and has an unflagged loss of function mechanism; TCF4 (same road, similarity 0.2155) is ahead on Registry / NHS, Targeted trial and has a trial whose eligibility excludes a variant class; DNM1 (similarity 0.1762, medium) is an unflagged opposite-direction neighbor. Caveats: counterexample is at medium, not high, similarity."
+ },
+ {
   "conditionId": "cond:G2P00797",
   "neighborId": "cond:G2P00319",
-  "counterexampleId": "cond:G2P01600",
-  "score": 13.31,
-  "reason": "STX1B lacks 2 of milestones 4-7; SLC6A1 (same road, similarity 0.3082) is ahead on Patient org, Registry / NHS, Targeted trial; EEF1A2 is a high-similarity neighbor in the opposite direction (curated; its mechanism is contested)."
+  "score": 14.31,
+  "tier": 3,
+  "reason": "STX1B lacks 3 of milestones 4-7 and has an unflagged loss of function mechanism; SLC6A1 (same road, similarity 0.3082) is ahead on Patient org, Registry / NHS, NIH funding, Targeted trial. Caveats: no organization passed the automated check; no unflagged opposite-direction neighbor above the medium cutoff."
  },
  {
   "conditionId": "cond:G2P01036",
   "neighborId": "cond:G2P00319",
   "counterexampleId": "cond:G2P03542",
-  "score": 11.3,
-  "reason": "PCDH19 lacks 2 of milestones 4-7; SLC6A1 (same road, similarity 0.3029) is ahead on Registry / NHS, Targeted trial; MAST3 is a high-similarity neighbor in the opposite direction."
- },
- {
-  "conditionId": "cond:G2P00063",
-  "neighborId": "cond:G2P00319",
-  "counterexampleId": "cond:G2P01600",
-  "score": 11.22,
-  "reason": "IQSEC2 lacks 2 of milestones 4-7; SLC6A1 (same road, similarity 0.2172) is ahead on NIH funding, Targeted trial; EEF1A2 is a high-similarity neighbor in the opposite direction (curated; its mechanism is contested)."
+  "score": 8.57,
+  "tier": 3,
+  "reason": "PCDH19 lacks 2 of milestones 4-7 and has an unflagged loss of function mechanism; SLC6A1 (same road, similarity 0.3029) is ahead on Registry / NHS, Targeted trial; MAST3 (similarity 0.2716, high) is an unflagged opposite-direction neighbor. Caveats: X-linked inheritance does not fit a plain reading of the road label."
  }
 ]

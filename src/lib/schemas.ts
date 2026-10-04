@@ -235,6 +235,15 @@ export const StudyClassificationSchema = z.object({
   quoteVerified: z.boolean(),
   excludesQuote: z.string().optional(),
   excludesQuoteVerified: z.boolean().optional(),
+  /** Set when an automated re-check read the ClinicalTrials.gov record; `before` is present when a label changed. */
+  reviewed: z
+    .object({
+      date: z.string(),
+      reviewer: z.string(),
+      reason: z.string(),
+      before: z.object({ aboutCondition: z.boolean(), role: StudyRole, modality: StudyModality, excludesMechanism: z.string().optional() }).optional(),
+    })
+    .optional(),
 });
 
 export const StudySchema = z.object({
@@ -484,6 +493,8 @@ export const DemoCandidateSchema = z.object({
   counterexampleId: z.string().optional(),
   score: z.number(),
   reason: z.string(),
+  /** 1 = every criterion met; 2 = counterexample only at medium similarity; 3 = X-linked, no checked organization, or no counterexample. */
+  tier: z.number().int().default(1),
 });
 export const DemoCandidatesFileSchema = z.array(DemoCandidateSchema);
 

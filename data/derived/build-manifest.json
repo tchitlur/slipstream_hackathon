@@ -1,5 +1,5 @@
 {
- "builtAt": "2026-10-04T01:07:51.118Z",
+ "builtAt": "2026-10-04T01:15:39.423Z",
  "sources": {
   "g2p": {
    "url": "https://ftp.ebi.ac.uk/pub/databases/gene2phenotype/G2P_data_downloads/2026_09_28/DDG2P_2026-09-28.csv.gz",
@@ -58,9 +58,9 @@
   "ladders": 2866,
   "transferPairs": 2856,
   "transferVerdicts": 19992,
-  "verdictDoNotTransfer": 5837,
-  "verdictTransferable": 5760,
-  "verdictNeedsExpertReview": 5539,
+  "verdictDoNotTransfer": 5677,
+  "verdictTransferable": 5758,
+  "verdictNeedsExpertReview": 5701,
   "clusters": 351,
   "layoutEdges": 13556,
   "demoCandidates": 3,
@@ -68,12 +68,12 @@
   "bridges": 44,
   "milestone1_found_deep": 79,
   "milestone2_found_deep": 61,
-  "milestone3_found_deep": 71,
-  "milestone4_found_deep": 48,
+  "milestone3_found_deep": 66,
+  "milestone4_found_deep": 54,
   "milestone5_found_deep": 83,
-  "milestone6_found_deep": 72,
+  "milestone6_found_deep": 57,
   "milestone7_found_deep": 27,
-  "milestone8_found_deep": 0,
+  "milestone8_found_deep": 7,
   "searchDocs": 12330,
   "papers": 882,
   "t1Abstracts": 724,
@@ -83,10 +83,10 @@
   "grants": 427,
   "investigators": 1240,
   "investigatorRawMentions": 1471,
-  "patientOrgs": 55,
+  "patientOrgs": 51,
   "patientOrgsVerified": 0,
-  "patientOrgsWithRegistry": 31,
-  "conditionsWithOrg": 71,
+  "patientOrgsWithRegistry": 30,
+  "conditionsWithOrg": 66,
   "reconciliationDecisions": 708,
   "reconcile_gene": 51,
   "reconcile_exact": 361,
@@ -102,7 +102,10 @@
   "mechanismBothDirections": 13,
   "mechanismContestedStrict": 3,
   "claimsRejectedOnReview": 20,
-  "claimsReviewed": 93
+  "claimsReviewed": 93,
+  "patientOrgsAutoChecked": 51,
+  "patientOrgsFailedCheck": 4,
+  "patientOrgsWithFoundingYear": 23
  },
  "thresholds": {
   "thinAnnotationTerms": 5,
@@ -222,5 +225,5 @@
  ],
  "genesDropped": [],
  "notes": [],
- "gitCommit": "a4a5acf"
+ "gitCommit": "777a05d"
 }
