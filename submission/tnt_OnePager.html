@@ -1,0 +1,80 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>tnt one-pager: Slipstream</title>
+<style>
+  @page { size: Letter; margin: 0.42in 0.5in; }
+  body { font-family: Georgia, "Times New Roman", serif; color: #1a1a1a; font-size: 9.5pt; line-height: 1.27; margin: 0; }
+  h1 { font-size: 17pt; margin: 0 0 2px; letter-spacing: -0.2px; }
+  .sub { color: #555; font-size: 9.4pt; margin-bottom: 8px; }
+  h2 { font-family: Helvetica, Arial, sans-serif; font-size: 9.4pt; text-transform: uppercase; letter-spacing: 0.6px; color: #1e3a8a; margin: 6px 0 2px; border-bottom: 1px solid #d9d4c7; padding-bottom: 1px; }
+  ul { margin: 2px 0 0 14px; padding: 0; }
+  li { margin: 0 0 1.5px; }
+  p { margin: 2px 0; }
+  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 0 18px; }
+  .box { border: 1px solid #d9d4c7; background: #faf8f2; padding: 4px 7px; border-radius: 4px; font-size: 8.8pt; margin-top: 4px; }
+  .flow { font-family: Helvetica, Arial, sans-serif; font-size: 8.6pt; color: #333; margin-top: 4px; }
+  .flow span:not(.arrow) { display: inline-block; border: 1px solid #9ca3af; border-radius: 3px; padding: 1px 5px; margin: 1px 2px 1px 0; background: #fff; }
+  .arrow { color: #9ca3af; margin: 0 1px; }
+  table { border-collapse: collapse; font-size: 8.8pt; margin-top: 3px; width: 100%; }
+  td { padding: 1px 6px 1px 0; vertical-align: top; }
+  td:first-child { white-space: nowrap; color: #1e3a8a; font-family: Helvetica, Arial, sans-serif; font-size: 8.8pt; }
+  b { color: #111; }
+  .foot { color: #666; font-size: 8.2pt; margin-top: 5px; border-top: 1px solid #d9d4c7; padding-top: 4px; }
+</style></head>
+<body>
+<h1>Slipstream: a readiness atlas for rare-disease communities</h1>
+<div class="sub">Team <b>tnt</b> (Tanay Chitlur, solo). Hack-Nation Challenge 05, AI Atlas for the World's Rare Diseases. Live: <b>slipstreamhackathon.vercel.app</b>. Code: github.com/tchitlur/slipstream_hackathon</div>
+
+<h2>1. Challenge tackled</h2>
+<p><b>Problem.</b> A parent who leads a small patient group for a monogenic epilepsy cannot easily learn which other disease community is further along the same biological road, what already exists for them, or what could safely be borrowed. "Similar" is treated as one thing when it is two: symptom overlap governs what registry design and outcome measures can be shared; mechanism direction governs whether a treatment strategy can be shared at all.
+<b>User.</b> Patient-group leaders first; clinicians and funders who advise them second.
+<b>Built.</b> A Next.js atlas over a TypeScript pipeline: an eight-rung readiness ladder per condition from public records, a "road" per condition (how the gene breaks), neighbors ranked by phenotype similarity, seven typed transfer rules producing borrow / do-not-borrow verdicts with counter-reasons, a "what to do this week" box, and a footnoted one-page letter to the community ahead.</p>
+<div class="flow">
+  <span>Gene2Phenotype (curated mechanism)</span><span class="arrow">&rarr;</span><span>HPO phenotypes &rarr; simGIC similarity</span><span class="arrow">&rarr;</span><span>PubMed, ClinicalTrials.gov, NIH RePORTER, org sites</span><span class="arrow">&rarr;</span><span>ladders + 19,992 verdicts</span><span class="arrow">&rarr;</span><span>static JSON &rarr; app</span>
+</div>
+
+<div class="cols">
+<div>
+<h2>2. Tools and models used</h2>
+<table>
+<tr><td>Data</td><td>Gene2Phenotype DD panel (2,866 records), HPO annotations, ClinicalTrials.gov v2 API, NIH RePORTER, PubMed E-utilities, FDA labels, organization and registry sites.</td></tr>
+<tr><td>OpenAI gpt-5.4</td><td>T1 mechanism claims from abstracts; T4 the letter; T5 review of claims that disagree with the curated mechanism; T6 three-level target label for trials and therapies. All structured outputs, content-addressed cache, priced ledger.</td></tr>
+<tr><td>gpt-5.4-mini</td><td>T2 trial classification; T3 disease-name reconciliation.</td></tr>
+<tr><td>Computation</td><td>TypeScript pipeline (tsx, zod schemas shared with the app), graphology Louvain clustering and ForceAtlas2 map, MiniSearch client search.</td></tr>
+<tr><td>App</td><td>Next.js 16 App Router, React 19, Tailwind 4, static generation from committed JSON, Vercel; vitest and a data validator run in <code>npm run check</code>.</td></tr>
+</table>
+</div>
+<div>
+<h2>3. What worked well</h2>
+<ul>
+<li><b>Evidence discipline held.</b> Four evidence kinds (curated, extracted, computed, hypothesis) never mix; 1,230 model-extracted quotes verified as verbatim substrings with stored offsets, 51 discarded.</li>
+<li><b>Verdicts are computed, not generated.</b> 2,856 pairs, 19,992 verdicts, each with its strongest counter-reason; the validator proves every claim cites existing evidence.</li>
+<li><b>Mechanism direction matters in practice.</b> 13 trials exclude a variant class in their eligibility text; those quotes appear inline on the borrow cards.</li>
+<li><b>Grounded letters.</b> Four pre-generated letters, 101 sentences, 3 dropped by the grounding check.</li>
+</ul>
+</div>
+</div>
+
+<div class="cols">
+<div>
+<h2>4. What was challenging</h2>
+<ul>
+<li><b>Mechanism is contested.</b> Published claims disagreed with the curated direction for many genes. The final T5 rule keeps patient-variant evidence (mixed cohorts, functional characterization) and rejects manipulations, other genes, therapy mechanisms and dosage contexts: 4 contested, 9 "both directions reported", 31 rejected and kept for audit. A human-override file is in place.</li>
+<li><b>Common symptoms swamp similarity.</b> A low-information share test fired on every pair until the median was reweighted by annotation frequency.</li>
+<li><b>A price-table bug tripled the spend estimate</b> and stalled strong-model work until the ledger was rebuilt from the cache.</li>
+<li><b>Gene-level data is not condition-level.</b> Trial and baseline matches were tightened from gene symbol to disease name.</li>
+</ul>
+</div>
+<div>
+<h2>5. How the time was spent</h2>
+<p>Solo build; times from commit timestamps (UTC), Oct 3 to Oct 4.</p>
+<ul>
+<li><b>15:00 to 19:30</b>: read the challenge, write the spec, decide the evidence model and the "two kinds of similar" idea, scaffold, probe every source.</li>
+<li><b>19:30 to 21:00</b>: vertical slice on ten genes, then all stages: literature and cross-check, trials, reconciliation, organizations, funding, ladders, verdicts, map, atlas-wide layer.</li>
+<li><b>21:00 to 01:00</b>: deploy, and review of the data by hand: organization checks, contested claims, trial labels.</li>
+<li><b>01:00 to 03:30</b>: three review passes: shared registries, three-level target labels, demo selection, next-steps box, baseline by condition, model-run review stages, letter voice, docs and shot lists.</li>
+</ul>
+<div class="box"><b>If we had 24 more hours</b>, we would put the human-override file in front of two clinical geneticists for the four contested genes, and add outcome-measure extraction from registry protocols so "what to borrow" names the instruments.</div>
+</div>
+</div>
+<div class="foot">Research navigation aid, not medical advice. Mechanism is recorded per gene and disease, not per family; the ladder sees only what public sources return. Pipeline LLM spend: $5.88 (upper bound) under a $7 cap. Every number here is from <code>data/derived/build-manifest.json</code> of the final build.</div>
+</body></html>

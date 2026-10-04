@@ -43,6 +43,10 @@ One TypeScript codebase. `src/lib/schemas.ts` holds the zod schema for every der
 
 LLM use is narrow and audited: T1 (mechanism claims from abstracts), T2 (study classification), T3 (name reconciliation), T4 (brief), T5 (review of claims that disagree with the curated mechanism, run inside the literature stage), T6 (three-level target label for targeted trials and approved therapies, run inside the studies and analytics stages). Every label the UI shows that a model decided comes from one of these stages and is marked in the UI as an automated review, not a biomedical expert review. All calls go to the OpenAI API with structured outputs, are cached in `data/llm/cache.jsonl` with inputs and outputs, and are priced in `data/llm/ledger.json`. Quotes that are not verbatim substrings of the cached source are discarded and counted. Brief sentences without a valid evidence id are dropped; a brief that loses more than a fifth is regenerated once, then replaced by a deterministic template.
 
+## Submission files
+
+`submission/PROJECT_SUMMARY.md` is the jury summary and `submission/tnt_OnePager.pdf` the one-page report (source `submission/tnt_OnePager.html`, rendered with headless Chromium). Video shot lists are in `docs/VIDEO_SCRIPTS.md`.
+
 ## Reproduce the dataset
 
 ```bash
