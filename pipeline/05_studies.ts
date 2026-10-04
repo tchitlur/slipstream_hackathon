@@ -254,11 +254,31 @@ async function main() {
   // study not covered there falls back to its modality (antisense and gene therapy act on the gene product).
   type Levels = { reviewedAt: string; reviewer: string; levels: Record<string, { target: "gene_product" | "pathway" | "symptomatic_or_unknown"; reason: string; confidence?: string }> };
   const levels = readJsonOr<Levels | null>(files.seedTargetLevels, null);
-  for (const st of Object.values(studies)) {
-    if (!st.classification || st.classification.role !== "interventional_targeted") continue;
+  const targeted = Object.values(studies).filter((st) => st.classification?.aboutCondition && st.classification.role === "interventional_targeted");
+  const normName = (n: string) => n.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+  // Levels stated by a sibling trial of the same intervention (confidence at least medium) propagate to record-silent trials.
+  const statedByIntervention = new Map<string, { target: Levels["levels"][string]["target"]; from: string }>();
+  for (const st of targeted) {
     const lv = levels?.levels[st.id];
-    if (lv) st.classification = { ...st.classification, target: lv.target, targetReason: `${lv.reason} (${levels!.reviewer}, ${levels!.reviewedAt})` };
-    else st.classification = { ...st.classification, target: st.classification.modality === "antisense" || st.classification.modality === "gene_therapy" ? "gene_product" : "pathway", targetReason: "default from modality; not individually reviewed" };
+    if (!lv || lv.confidence === "low") continue;
+    for (const i of st.interventions) if (i.name && !statedByIntervention.has(normName(i.name))) statedByIntervention.set(normName(i.name), { target: lv.target, from: st.id });
+  }
+  for (const st of targeted) {
+    const lv = levels?.levels[st.id];
+    const modality = st.classification!.modality;
+    const geneLevelModality = modality === "antisense" || modality === "gene_therapy";
+    if (lv && lv.confidence !== "low") {
+      st.classification = { ...st.classification!, target: lv.target, targetReason: `${lv.reason} (${levels!.reviewer}, ${levels!.reviewedAt})` };
+    } else if (geneLevelModality) {
+      // An antisense oligonucleotide acts on a transcript and a gene therapy delivers a gene: the modality itself places the
+      // trial at the gene-product level even when the record does not spell out the target.
+      st.classification = { ...st.classification!, target: "gene_product", targetReason: `by modality (${modality.replace(/_/g, " ")} acts on the gene or its transcript)${lv ? "; record itself is silent on the target: " + lv.reason : "; not individually reviewed"}` };
+    } else {
+      const sib = st.interventions.map((i) => statedByIntervention.get(normName(i.name))).find(Boolean);
+      if (sib) st.classification = { ...st.classification!, target: sib.target, targetReason: `propagated from a sibling trial of the same intervention (${sib.from}) whose record states the mechanism${lv ? "; this record is silent: " + lv.reason : ""}` };
+      else if (lv) st.classification = { ...st.classification!, target: lv.target, targetReason: `${lv.reason} (${levels!.reviewer}, ${levels!.reviewedAt}; low confidence)` };
+      else st.classification = { ...st.classification!, target: "pathway", targetReason: "default from modality; not individually reviewed" };
+    }
   }
 
   // Build evidence for studies about a condition with a verified quote.

@@ -1,0 +1,374 @@
+{
+ "focalId": "cond:G2P01160",
+ "neighborId": "cond:G2P01058",
+ "generatedAt": "2026-10-04T01:58:31.037Z",
+ "mode": "llm",
+ "model": "gpt-5.4",
+ "sections": [
+  {
+   "heading": "Who we are",
+   "sentences": [
+    {
+     "text": "[Name of our group, who we represent, and how many families we are in touch with.]",
+     "evidenceIds": []
+    }
+   ]
+  },
+  {
+   "heading": "Why we are writing to you",
+   "sentences": [
+    {
+     "text": "We are writing because DYRK1A-related intellectual developmental disorder and UBE3A-related Angelman syndrome are recorded on the same mechanism road: too little protein from loss of one copy, with definitive gene-disease links in both conditions.",
+     "evidenceIds": [
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:g2p:G2P01058",
+      "ev:hpoa:OMIM:105830"
+     ]
+    },
+    {
+     "text": "The phenotype similarity score between the two conditions is marked high.",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:g2p:G2P01058",
+      "ev:hpoa:OMIM:105830"
+     ]
+    },
+    {
+     "text": "Angelman syndrome also has more established infrastructure, including patient organizations, registries, and targeted clinical trials.",
+     "evidenceIds": [
+      "ev:seed:org:angelman-syndrome-foundation",
+      "ev:seed:org:angelman-syndrome-foundation:registry",
+      "ev:seed:org:foundation-for-angelman-syndrome-therapeutics",
+      "ev:seed:org:foundation-for-angelman-syndrome-therapeutics:registry",
+      "ev:ctgov:NCT07605429:role",
+      "ev:ctgov:NCT07181837:role",
+      "ev:ctgov:NCT07157254:role",
+      "ev:ctgov:NCT06914609:role",
+      "ev:ctgov:NCT06415344:role",
+      "ev:ctgov:NCT06617429:role",
+      "ev:ctgov:NCT05127226:role",
+      "ev:ctgov:NCT04259281:role"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we share",
+   "sentences": [
+    {
+     "text": "Both conditions have definitive gene links in Gene2Phenotype.",
+     "evidenceIds": [
+      "ev:g2p:G2P01160",
+      "ev:g2p:G2P01058"
+     ]
+    },
+    {
+     "text": "Both curated mechanisms are recorded as loss of function, inferred from variant types.",
+     "evidenceIds": [
+      "ev:g2p:G2P01160",
+      "ev:g2p:G2P01058"
+     ]
+    },
+    {
+     "text": "Shared informative features include inappropriate laughter, happy demeanor, abnormal demeanor, social disinhibition, and abnormal response to social norms.",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:g2p:G2P01058",
+      "ev:hpoa:OMIM:105830"
+     ]
+    },
+    {
+     "text": "Registry design and natural history protocol are marked transferable.",
+     "evidenceIds": [
+      "ev:rule:R1",
+      "ev:rule:simgic",
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:g2p:G2P01058",
+      "ev:hpoa:OMIM:105830",
+      "ev:seed:org:angelman-syndrome-foundation",
+      "ev:seed:org:foundation-for-angelman-syndrome-therapeutics",
+      "ev:seed:orgreg:angelman-syndrome-foundation:ladder-database",
+      "ev:seed:orgreg:angelman-syndrome-foundation:own"
+     ]
+    },
+    {
+     "text": "Outcome measures and endpoints are also marked transferable, but age of onset and severity still need review before any instrument is adopted.",
+     "evidenceIds": [
+      "ev:rule:R2",
+      "ev:rule:simgic",
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:g2p:G2P01058",
+      "ev:hpoa:OMIM:105830",
+      "ev:seed:org:angelman-syndrome-foundation",
+      "ev:seed:org:foundation-for-angelman-syndrome-therapeutics",
+      "ev:seed:orgreg:angelman-syndrome-foundation:ladder-database",
+      "ev:seed:orgreg:angelman-syndrome-foundation:own"
+     ]
+    },
+    {
+     "text": "Clinical network, sites, and investigators are marked transferable as well.",
+     "evidenceIds": [
+      "ev:rule:R3",
+      "ev:rule:simgic",
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:g2p:G2P01058",
+      "ev:hpoa:OMIM:105830",
+      "ev:seed:orgreg:angelman-syndrome-foundation:ladder-database",
+      "ev:seed:org:angelman-syndrome-foundation",
+      "ev:seed:org:foundation-for-angelman-syndrome-therapeutics",
+      "ev:ctgov:NCT07605429:role",
+      "ev:ctgov:NCT07181837:role",
+      "ev:ctgov:NCT07157254:role",
+      "ev:ctgov:NCT06914609:role"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we would like to learn from or reuse",
+   "sentences": [
+    {
+     "text": "We would like to learn from your registry design, natural history protocol, and consent materials.",
+     "evidenceIds": [
+      "ev:rule:R1",
+      "ev:seed:orgreg:angelman-syndrome-foundation:ladder-database",
+      "ev:seed:orgreg:angelman-syndrome-foundation:own",
+      "ev:seed:org:angelman-syndrome-foundation",
+      "ev:seed:org:foundation-for-angelman-syndrome-therapeutics"
+     ]
+    },
+    {
+     "text": "We would like to learn which outcome measures and endpoints your community has found practical to collect.",
+     "evidenceIds": [
+      "ev:rule:R2",
+      "ev:seed:orgreg:angelman-syndrome-foundation:ladder-database",
+      "ev:seed:orgreg:angelman-syndrome-foundation:own",
+      "ev:seed:org:angelman-syndrome-foundation",
+      "ev:seed:org:foundation-for-angelman-syndrome-therapeutics"
+     ]
+    },
+    {
+     "text": "We would like to understand how your community built its clinical network and connected families to sites and investigators.",
+     "evidenceIds": [
+      "ev:rule:R3",
+      "ev:seed:orgreg:angelman-syndrome-foundation:ladder-database",
+      "ev:seed:org:angelman-syndrome-foundation",
+      "ev:seed:org:foundation-for-angelman-syndrome-therapeutics",
+      "ev:ctgov:NCT07605429:role",
+      "ev:ctgov:NCT07181837:role",
+      "ev:ctgov:NCT07157254:role",
+      "ev:ctgov:NCT06914609:role"
+     ]
+    },
+    {
+     "text": "We would also like to review trial design templates, such as population, endpoints, and duration, because these are marked as a credible template pending expert review.",
+     "evidenceIds": [
+      "ev:rule:R6",
+      "ev:rule:simgic",
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:g2p:G2P01058",
+      "ev:hpoa:OMIM:105830",
+      "ev:ctgov:NCT07605429:role",
+      "ev:ctgov:NCT07181837:role",
+      "ev:ctgov:NCT07157254:role",
+      "ev:ctgov:NCT06914609:role",
+      "ev:ctgov:NCT06415344:role",
+      "ev:ctgov:NCT06617429:role",
+      "ev:ctgov:NCT05630066:role",
+      "ev:ctgov:NCT04428281:role",
+      "ev:ctgov:NCT05127226:role",
+      "ev:ctgov:NCT04259281:role"
+     ]
+    },
+    {
+     "text": "For Angelman syndrome, targeted trials were found, but no disease-specific approved therapy was found.",
+     "evidenceIds": [
+      "ev:ctgov:NCT07605429:role",
+      "ev:ctgov:NCT07181837:role",
+      "ev:ctgov:NCT07157254:role",
+      "ev:ctgov:NCT06914609:role",
+      "ev:ctgov:NCT06415344:role",
+      "ev:ctgov:NCT06617429:role",
+      "ev:ctgov:NCT05127226:role",
+      "ev:ctgov:NCT04259281:role"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we know differs",
+   "sentences": [
+    {
+     "text": "We must not assume the two communities share the same exact mechanism in every family.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6"
+     ]
+    },
+    {
+     "text": "For UBE3A, published cases document variants acting in more than one direction, and published claims disagree with the curated mechanism.",
+     "evidenceIds": [
+      "ev:g2p:G2P01058",
+      "ev:pubmed:30568575:claim:1",
+      "ev:pubmed:34815418:claim:1"
+     ]
+    },
+    {
+     "text": "Mechanism is recorded per gene and disease, not per family, so a child's own variant must be confirmed by a clinical geneticist before acting on transfer ideas.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6"
+     ]
+    },
+    {
+     "text": "The curated mechanisms for DYRK1A and UBE3A are inferred from variant types rather than functional studies.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P01160",
+      "ev:g2p:G2P01058"
+     ]
+    },
+    {
+     "text": "A UBE3A animal or cell model cannot stand in for a DYRK1A model.",
+     "evidenceIds": [
+      "ev:rule:R5",
+      "ev:pubmed:models:UBE3A"
+     ]
+    },
+    {
+     "text": "The assay design may still be reusable on the same road, but only with expert review.",
+     "evidenceIds": [
+      "ev:rule:R5",
+      "ev:rule:simgic",
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:g2p:G2P01058",
+      "ev:hpoa:OMIM:105830",
+      "ev:pubmed:models:UBE3A"
+     ]
+    },
+    {
+     "text": "The listed Angelman organizations and registry listings passed automated checks of their own sites, but the listings are marked unverified.",
+     "evidenceIds": [
+      "ev:seed:org:angelman-syndrome-foundation",
+      "ev:seed:org:angelman-syndrome-foundation:registry",
+      "ev:seed:org:foundation-for-angelman-syndrome-therapeutics",
+      "ev:seed:org:foundation-for-angelman-syndrome-therapeutics:registry"
+     ]
+    },
+    {
+     "text": "Enrollment in an Angelman trial is not asserted for a DYRK1A family.",
+     "evidenceIds": [
+      "ev:rule:R7",
+      "ev:ctgov:NCT07605429:role",
+      "ev:ctgov:NCT07181837:role",
+      "ev:ctgov:NCT07157254:role",
+      "ev:ctgov:NCT06914609:role",
+      "ev:ctgov:NCT06415344:role",
+      "ev:ctgov:NCT06617429:role",
+      "ev:ctgov:NCT05630066:role",
+      "ev:ctgov:NCT04428281:role",
+      "ev:ctgov:NCT05127226:role",
+      "ev:ctgov:NCT04259281:role"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Questions for expert review",
+   "sentences": [
+    {
+     "text": "Which direction for UBE3A do you consider established, and on what evidence?",
+     "evidenceIds": [
+      "ev:pubmed:30568575:claim:1",
+      "ev:pubmed:34815418:claim:1",
+      "ev:g2p:G2P01058"
+     ]
+    },
+    {
+     "text": "Is the listed Angelman patient organization the right contact, and does it run a registry?",
+     "evidenceIds": [
+      "ev:seed:org:angelman-syndrome-foundation",
+      "ev:seed:org:angelman-syndrome-foundation:registry",
+      "ev:seed:org:foundation-for-angelman-syndrome-therapeutics",
+      "ev:seed:org:foundation-for-angelman-syndrome-therapeutics:registry"
+     ]
+    },
+    {
+     "text": "Has our child's specific DYRK1A variant been functionally classified as loss of function, gain of function, or dominant negative, and does it match the mechanism recorded for the condition?",
+     "evidenceIds": [
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6"
+     ]
+    },
+    {
+     "text": "What functional evidence exists for DYRK1A?",
+     "evidenceIds": [
+      "ev:g2p:G2P01160",
+      "ev:pubmed:models:DYRK1A"
+     ]
+    },
+    {
+     "text": "Can Angelman trial design elements be adapted for DYRK1A without assuming the same treatment strategy will apply?",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R6",
+      "ev:ctgov:NCT07605429:role",
+      "ev:ctgov:NCT07181837:role",
+      "ev:ctgov:NCT07157254:role",
+      "ev:ctgov:NCT06914609:role",
+      "ev:ctgov:NCT06415344:role",
+      "ev:ctgov:NCT06617429:role",
+      "ev:ctgov:NCT05630066:role",
+      "ev:ctgov:NCT04428281:role",
+      "ev:ctgov:NCT05127226:role",
+      "ev:ctgov:NCT04259281:role"
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "loss of function",
+   "meaning": "A change that lowers how well a gene works, often leading to too little working protein."
+  },
+  {
+   "term": "mechanism",
+   "meaning": "The biological way a gene change is thought to cause the condition."
+  },
+  {
+   "term": "natural history study",
+   "meaning": "A study that follows people over time to learn how a condition changes."
+  },
+  {
+   "term": "endpoint",
+   "meaning": "An outcome a study measures to judge change over time."
+  },
+  {
+   "term": "clinical geneticist",
+   "meaning": "A doctor who interprets genetic test results and what they may mean for a person."
+  },
+  {
+   "term": "disease model",
+   "meaning": "A lab cell or animal system used to study a condition."
+  }
+ ],
+ "droppedSentences": 1
+}

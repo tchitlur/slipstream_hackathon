@@ -1,0 +1,439 @@
+{
+  "checkedAt": "2026-10-04",
+  "reviewer": "automated check (Claude fetching the pages); not human-verified",
+  "items": [
+    {
+      "gene": "ARX",
+      "g2pId": "G2P00062",
+      "found": false,
+      "registries": [],
+      "searchQuery": "ARX natural history study OR patient registry",
+      "note": "Top results were generic registry/NHS resources; no ARX-specific registry page found."
+    },
+    {
+      "gene": "DEPDC5",
+      "g2pId": "G2P00304",
+      "found": false,
+      "registries": [],
+      "searchQuery": "DEPDC5 natural history study OR patient registry",
+      "note": "Only a Neurology scoping-review article on DEPDC5 appeared; no registry or NHS site found."
+    },
+    {
+      "gene": "KCNA2",
+      "g2pId": "G2P00366",
+      "found": true,
+      "registries": [
+        {
+          "name": "KCNA2 Registry (Heidelberg/Leipzig)",
+          "url": "https://www.klinikum.uni-heidelberg.de/en/zentrum-fuer-kinder-und-jugendmedizin/i-allgemeine-paediatrie-neuropaediatrie-stoffwechsel-gastroenterologie-nephrologie/forschung/sektion-paediatrische-epileptologie/patientenregister/kcnb1-register-1/",
+          "snippet": "Until now, there was no existing KCNA2 registry. Families affected by the condition can now participate in a patient registry.",
+          "kind": "registry",
+          "operator": "Heidelberg University Hospital (Prof. Dr. med. Steffen Syrbe) with Leipzig University",
+          "note": "'The data are collected in Germany as part of a collaboration between Heidelberg University and Leipzig University'"
+        }
+      ],
+      "searchQuery": "KCNA2 natural history study OR patient registry"
+    },
+    {
+      "gene": "DNM1",
+      "g2pId": "G2P00371",
+      "found": true,
+      "registries": [
+        {
+          "name": "CoRDS (Coordination of Rare Diseases at Sanford)",
+          "url": "https://research.sanfordhealth.org/rare-disease-registry",
+          "snippet": "CoRDS is a centralized international patient registry for all rare diseases.",
+          "kind": "shared_registry",
+          "operator": "Sanford Research",
+          "note": "DNM1 appears only as a partner-group logo labelled 'Mutations in Gene DNM1' on the CoRDS page; no DNM1-specific text."
+        }
+      ],
+      "searchQuery": "DNM1 natural history study OR patient registry",
+      "note": "Weak evidence: partner logo only."
+    },
+    {
+      "gene": "HCN1",
+      "g2pId": "G2P00411",
+      "found": false,
+      "registries": [],
+      "searchQuery": "HCN1 natural history study OR patient registry",
+      "note": "No HCN1-specific registry or NHS page in results."
+    },
+    {
+      "gene": "KCNC1",
+      "g2pId": "G2P00467",
+      "found": false,
+      "registries": [],
+      "searchQuery": "KCNC1 natural history study OR patient registry",
+      "note": "Results were all KCNT1 (different gene)."
+    },
+    {
+      "gene": "SPTAN1",
+      "g2pId": "G2P00546",
+      "found": false,
+      "registries": [],
+      "searchQuery": "SPTAN1 natural history study OR patient registry",
+      "note": "Only a generic early-onset HSP registry appeared; no SPTAN1-specific page."
+    },
+    {
+      "gene": "GRIN2A",
+      "g2pId": "G2P00566",
+      "found": true,
+      "registries": [
+        {
+          "name": "GRIN Variant Patient Registry",
+          "url": "https://grin2b.com/grin-registry/",
+          "snippet": "The GRIN Variant Patient Registry is the primary patient registry to support a comprehensive understanding of all GRIN variants.",
+          "kind": "registry",
+          "operator": "Dr. Tim Benke (University of Colorado) and Dr. Johannes Lemke (University of Leipzig); GRIN2B Foundation page",
+          "note": "Portal (grin-portal.lalresearchgroup.org): 'The project is overseen by Johannes Lemke (contact PI), Steve Traynelis (contact PI), Tim Benke and Dennis Lal.'"
+        },
+        {
+          "name": "GRIN Portal / global GRIN registries",
+          "url": "https://grin-portal.lalresearchgroup.org/",
+          "snippet": "GRIN2A-related disorder is characterized by either mild-to-profound developmental delay",
+          "kind": "registry",
+          "operator": "Johannes Lemke, Steve Traynelis, Tim Benke, Dennis Lal"
+        }
+      ],
+      "searchQuery": "GRIN2A natural history study OR patient registry"
+    },
+    {
+      "gene": "GRIN2B",
+      "g2pId": "G2P00586",
+      "found": true,
+      "registries": [
+        {
+          "name": "GRIN Variant Patient Registry",
+          "url": "https://grin2b.com/grin-registry/",
+          "snippet": "The GRIN Variant Patient Registry is the primary patient registry to support a comprehensive understanding of all GRIN variants.",
+          "kind": "registry",
+          "operator": "Dr. Tim Benke (University of Colorado) and Dr. Johannes Lemke (University of Leipzig); GRIN2B Foundation page",
+          "note": "Portal (grin-portal.lalresearchgroup.org): 'The project is overseen by Johannes Lemke (contact PI), Steve Traynelis (contact PI), Tim Benke and Dennis Lal.'"
+        },
+        {
+          "name": "GRIN Portal / global GRIN registries",
+          "url": "https://grin-portal.lalresearchgroup.org/",
+          "snippet": "GRIN2B-related disorder is characterized by mild-to-profound developmental delay",
+          "kind": "registry",
+          "operator": "Johannes Lemke, Steve Traynelis, Tim Benke, Dennis Lal"
+        },
+        {
+          "name": "Simons Searchlight",
+          "url": "https://www.simonssearchlight.org/research/what-we-study/grin2b/",
+          "snippet": "Help the Simons Searchlight team learn more about GRIN2B genetic changes by taking part in our research.",
+          "kind": "shared_registry",
+          "operator": "Simons Foundation (SFARI)"
+        }
+      ],
+      "searchQuery": "GRIN2B natural history study OR patient registry"
+    },
+    {
+      "gene": "NRXN1",
+      "g2pId": "G2P00636",
+      "found": true,
+      "registries": [
+        {
+          "name": "Simons Searchlight",
+          "url": "https://www.nrxn1network.org/research",
+          "snippet": "Simons Searchlight is an international online research program registry that works with families",
+          "kind": "shared_registry",
+          "operator": "Simons Foundation (SFARI)",
+          "note": "Page reached via the Part A organization check (NRXN1 Network), not via the search results; search results themselves contained nothing NRXN1-specific."
+        }
+      ],
+      "searchQuery": "NRXN1 natural history study OR patient registry"
+    },
+    {
+      "gene": "GRIN2B",
+      "g2pId": "G2P00699",
+      "found": true,
+      "registries": [
+        {
+          "name": "GRIN Variant Patient Registry",
+          "url": "https://grin2b.com/grin-registry/",
+          "snippet": "The GRIN Variant Patient Registry is the primary patient registry to support a comprehensive understanding of all GRIN variants.",
+          "kind": "registry",
+          "operator": "Dr. Tim Benke (University of Colorado) and Dr. Johannes Lemke (University of Leipzig); GRIN2B Foundation page",
+          "note": "Portal (grin-portal.lalresearchgroup.org): 'The project is overseen by Johannes Lemke (contact PI), Steve Traynelis (contact PI), Tim Benke and Dennis Lal.'"
+        },
+        {
+          "name": "GRIN Portal / global GRIN registries",
+          "url": "https://grin-portal.lalresearchgroup.org/",
+          "snippet": "GRIN2B-related disorder is characterized by mild-to-profound developmental delay",
+          "kind": "registry",
+          "operator": "Johannes Lemke, Steve Traynelis, Tim Benke, Dennis Lal"
+        },
+        {
+          "name": "Simons Searchlight",
+          "url": "https://www.simonssearchlight.org/research/what-we-study/grin2b/",
+          "snippet": "Help the Simons Searchlight team learn more about GRIN2B genetic changes by taking part in our research.",
+          "kind": "shared_registry",
+          "operator": "Simons Foundation (SFARI)"
+        }
+      ],
+      "searchQuery": "GRIN2B natural history study OR patient registry"
+    },
+    {
+      "gene": "STX1B",
+      "g2pId": "G2P00797",
+      "found": false,
+      "registries": [],
+      "searchQuery": "STX1B natural history study OR patient registry",
+      "note": "Results were all STXBP1 (different gene)."
+    },
+    {
+      "gene": "NRXN1",
+      "g2pId": "G2P00971",
+      "found": true,
+      "registries": [
+        {
+          "name": "Simons Searchlight",
+          "url": "https://www.nrxn1network.org/research",
+          "snippet": "Simons Searchlight is an international online research program registry that works with families",
+          "kind": "shared_registry",
+          "operator": "Simons Foundation (SFARI)",
+          "note": "Page reached via the Part A organization check (NRXN1 Network), not via the search results; search results themselves contained nothing NRXN1-specific."
+        }
+      ],
+      "searchQuery": "NRXN1 natural history study OR patient registry"
+    },
+    {
+      "gene": "PCDH19",
+      "g2pId": "G2P01036",
+      "found": true,
+      "registries": [
+        {
+          "name": "PCDH19 Alliance patient registry",
+          "url": "https://pcdh19info.org/resources/researchers/",
+          "snippet": "Connect with our patient community through our registry to support recruitment, data collection, and longitudinal studies.",
+          "kind": "registry",
+          "operator": "PCDH19 Alliance",
+          "note": "Search surfaced a Nature Translational Psychiatry article using 'PCDH19 Registry' data (paywalled redirect, not quotable); operator page reached via the Part A organization check."
+        }
+      ],
+      "searchQuery": "PCDH19 natural history study OR patient registry"
+    },
+    {
+      "gene": "GRIN1",
+      "g2pId": "G2P01109",
+      "found": true,
+      "registries": [
+        {
+          "name": "GRIN Variant Patient Registry",
+          "url": "https://grin2b.com/grin-registry/",
+          "snippet": "The GRIN Variant Patient Registry is the primary patient registry to support a comprehensive understanding of all GRIN variants.",
+          "kind": "registry",
+          "operator": "Dr. Tim Benke (University of Colorado) and Dr. Johannes Lemke (University of Leipzig); GRIN2B Foundation page",
+          "note": "Portal (grin-portal.lalresearchgroup.org): 'The project is overseen by Johannes Lemke (contact PI), Steve Traynelis (contact PI), Tim Benke and Dennis Lal.'"
+        },
+        {
+          "name": "GRIN Portal / global GRIN registries",
+          "url": "https://grin-portal.lalresearchgroup.org/",
+          "snippet": "GRIN1-related disorder is characterized by mild-to-profound developmental delay",
+          "kind": "registry",
+          "operator": "Johannes Lemke, Steve Traynelis, Tim Benke, Dennis Lal"
+        }
+      ],
+      "searchQuery": "GRIN1 natural history study OR patient registry"
+    },
+    {
+      "gene": "DYRK1A",
+      "g2pId": "G2P01160",
+      "found": true,
+      "registries": [
+        {
+          "name": "RARE-X DYRK1A Data Collection Program",
+          "url": "https://www.dyrk1a.org/research",
+          "snippet": "Help us collect data on DYRK1A Syndrome",
+          "kind": "shared_registry",
+          "operator": "RARE-X (Global Genes)",
+          "note": "dyrk1a.org was a top search result; the /research page (fetched in Part A) names RARE-X (dyrk1a.rare-x.org) and Simons Searchlight."
+        },
+        {
+          "name": "Simons Searchlight",
+          "url": "https://www.dyrk1a.org/research",
+          "snippet": "The Simons Searchlight is an online community and research initiative.",
+          "kind": "shared_registry",
+          "operator": "Simons Foundation (SFARI)"
+        }
+      ],
+      "searchQuery": "DYRK1A natural history study OR patient registry"
+    },
+    {
+      "gene": "SCN1B",
+      "g2pId": "G2P01480",
+      "found": false,
+      "registries": [],
+      "searchQuery": "SCN1B natural history study OR patient registry",
+      "note": "Results were SCN2A/SCN1A studies; nothing SCN1B-specific."
+    },
+    {
+      "gene": "KCNB1",
+      "g2pId": "G2P01597",
+      "found": false,
+      "registries": [],
+      "searchQuery": "KCNB1 natural history study OR patient registry",
+      "note": "Results were KCNT1 studies plus one KCNB1 case-series article; no registry page. KCNB1.org links a 'Natural History of Early Life Epilepsies' study (theability.study) whose domain did not resolve."
+    },
+    {
+      "gene": "EEF1A2",
+      "g2pId": "G2P01600",
+      "found": false,
+      "registries": [],
+      "searchQuery": "EEF1A2 natural history study OR patient registry",
+      "note": "No EEF1A2-specific registry or NHS page in results."
+    },
+    {
+      "gene": "SCN3A",
+      "g2pId": "G2P01652",
+      "found": false,
+      "registries": [],
+      "searchQuery": "SCN3A natural history study OR patient registry",
+      "note": "Results were SCN2A/SCN1A resources; nothing SCN3A-specific."
+    },
+    {
+      "gene": "KCNQ3",
+      "g2pId": "G2P01704",
+      "found": false,
+      "registries": [],
+      "searchQuery": "KCNQ3 natural history study OR patient registry",
+      "note": "Results were KCNT1 and generic epilepsy-dyskinesia registries; nothing KCNQ3-specific."
+    },
+    {
+      "gene": "GRIN2D",
+      "g2pId": "G2P01878",
+      "found": true,
+      "registries": [
+        {
+          "name": "GRIN Variant Patient Registry",
+          "url": "https://grin2b.com/grin-registry/",
+          "snippet": "The GRIN Variant Patient Registry is the primary patient registry to support a comprehensive understanding of all GRIN variants.",
+          "kind": "registry",
+          "operator": "Dr. Tim Benke (University of Colorado) and Dr. Johannes Lemke (University of Leipzig); GRIN2B Foundation page",
+          "note": "Portal (grin-portal.lalresearchgroup.org): 'The project is overseen by Johannes Lemke (contact PI), Steve Traynelis (contact PI), Tim Benke and Dennis Lal.'"
+        },
+        {
+          "name": "GRIN Portal / global GRIN registries",
+          "url": "https://grin-portal.lalresearchgroup.org/",
+          "snippet": "GRIN2D-related disorder is characterized by moderate-to-profound developmental delay",
+          "kind": "registry",
+          "operator": "Johannes Lemke, Steve Traynelis, Tim Benke, Dennis Lal"
+        }
+      ],
+      "searchQuery": "GRIN2D natural history study OR patient registry",
+      "note": "grinsyndroom.nl/patient-registry/ also appeared but returned empty content."
+    },
+    {
+      "gene": "SNAP25",
+      "g2pId": "G2P02378",
+      "found": true,
+      "registries": [
+        {
+          "name": "RARE-X SNAP25 Data Collection Program",
+          "url": "https://snap25.org/rare-x",
+          "snippet": "The SNAP25 community is partnering with RARE-X, a program of Global Genes, to build a Data Collection Program for SNAP25 families.",
+          "kind": "shared_registry",
+          "operator": "RARE-X (Global Genes) / SNAP25 Foundation",
+          "note": "Search top result (Citizen Health SNAP25 caregiver guide) directs families to the SNAP25 Foundation but names no SNAP25-specific program; operator page reached via the Part A organization check."
+        }
+      ],
+      "searchQuery": "SNAP25 natural history study OR patient registry"
+    },
+    {
+      "gene": "KCNA2",
+      "g2pId": "G2P02582",
+      "found": true,
+      "registries": [
+        {
+          "name": "KCNA2 Registry (Heidelberg/Leipzig)",
+          "url": "https://www.klinikum.uni-heidelberg.de/en/zentrum-fuer-kinder-und-jugendmedizin/i-allgemeine-paediatrie-neuropaediatrie-stoffwechsel-gastroenterologie-nephrologie/forschung/sektion-paediatrische-epileptologie/patientenregister/kcnb1-register-1/",
+          "snippet": "Until now, there was no existing KCNA2 registry. Families affected by the condition can now participate in a patient registry.",
+          "kind": "registry",
+          "operator": "Heidelberg University Hospital (Prof. Dr. med. Steffen Syrbe) with Leipzig University",
+          "note": "'The data are collected in Germany as part of a collaboration between Heidelberg University and Leipzig University'"
+        }
+      ],
+      "searchQuery": "KCNA2 natural history study OR patient registry"
+    },
+    {
+      "gene": "PNPO",
+      "g2pId": "G2P03176",
+      "found": false,
+      "registries": [],
+      "searchQuery": "PNPO natural history study OR patient registry",
+      "note": "Results were generic (PNH registry, toolkits); nothing PNPO-specific."
+    },
+    {
+      "gene": "GRIN1",
+      "g2pId": "G2P03206",
+      "found": true,
+      "registries": [
+        {
+          "name": "GRIN Variant Patient Registry",
+          "url": "https://grin2b.com/grin-registry/",
+          "snippet": "The GRIN Variant Patient Registry is the primary patient registry to support a comprehensive understanding of all GRIN variants.",
+          "kind": "registry",
+          "operator": "Dr. Tim Benke (University of Colorado) and Dr. Johannes Lemke (University of Leipzig); GRIN2B Foundation page",
+          "note": "Portal (grin-portal.lalresearchgroup.org): 'The project is overseen by Johannes Lemke (contact PI), Steve Traynelis (contact PI), Tim Benke and Dennis Lal.'"
+        },
+        {
+          "name": "GRIN Portal / global GRIN registries",
+          "url": "https://grin-portal.lalresearchgroup.org/",
+          "snippet": "GRIN1-related disorder is characterized by mild-to-profound developmental delay",
+          "kind": "registry",
+          "operator": "Johannes Lemke, Steve Traynelis, Tim Benke, Dennis Lal"
+        }
+      ],
+      "searchQuery": "GRIN1 natural history study OR patient registry"
+    },
+    {
+      "gene": "DNM1",
+      "g2pId": "G2P03414",
+      "found": true,
+      "registries": [
+        {
+          "name": "CoRDS (Coordination of Rare Diseases at Sanford)",
+          "url": "https://research.sanfordhealth.org/rare-disease-registry",
+          "snippet": "CoRDS is a centralized international patient registry for all rare diseases.",
+          "kind": "shared_registry",
+          "operator": "Sanford Research",
+          "note": "DNM1 appears only as a partner-group logo labelled 'Mutations in Gene DNM1' on the CoRDS page; no DNM1-specific text."
+        }
+      ],
+      "searchQuery": "DNM1 natural history study OR patient registry",
+      "note": "Weak evidence: partner logo only."
+    },
+    {
+      "gene": "GRIN2A",
+      "g2pId": "G2P03433",
+      "found": true,
+      "registries": [
+        {
+          "name": "GRIN Variant Patient Registry",
+          "url": "https://grin2b.com/grin-registry/",
+          "snippet": "The GRIN Variant Patient Registry is the primary patient registry to support a comprehensive understanding of all GRIN variants.",
+          "kind": "registry",
+          "operator": "Dr. Tim Benke (University of Colorado) and Dr. Johannes Lemke (University of Leipzig); GRIN2B Foundation page",
+          "note": "Portal (grin-portal.lalresearchgroup.org): 'The project is overseen by Johannes Lemke (contact PI), Steve Traynelis (contact PI), Tim Benke and Dennis Lal.'"
+        },
+        {
+          "name": "GRIN Portal / global GRIN registries",
+          "url": "https://grin-portal.lalresearchgroup.org/",
+          "snippet": "GRIN2A-related disorder is characterized by either mild-to-profound developmental delay",
+          "kind": "registry",
+          "operator": "Johannes Lemke, Steve Traynelis, Tim Benke, Dennis Lal"
+        }
+      ],
+      "searchQuery": "GRIN2A natural history study OR patient registry"
+    },
+    {
+      "gene": "SCN1B",
+      "g2pId": "G2P03722",
+      "found": false,
+      "registries": [],
+      "searchQuery": "SCN1B natural history study OR patient registry",
+      "note": "Results were SCN2A/SCN1A studies; nothing SCN1B-specific."
+    }
+  ]
+}

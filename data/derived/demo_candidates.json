@@ -1,1 +1,31 @@
-[]
+[
+ {
+  "conditionId": "cond:G2P01420",
+  "neighborId": "cond:G2P00251",
+  "counterexampleId": "cond:G2P02582",
+  "score": 12.53,
+  "tier": 1,
+  "alternativeNeighborIds": [
+   "cond:G2P00566"
+  ],
+  "reason": "CHD2 (loss of function) lacks 1 of milestones 4-7; SCN1A (same road, similarity 0.2722, shared: Atonic seizure, Generalized myoclonic seizure, Tonic seizure) is ahead on Targeted trial, Approved therapy with a gene-level trial whose eligibility excludes a variant class (neighbor flag: both directions); counterexample KCNA2 (opposite direction, similarity 0.2548)."
+ },
+ {
+  "conditionId": "cond:G2P01366",
+  "neighborId": "cond:G2P00319",
+  "counterexampleId": "cond:G2P01878",
+  "score": 10.49,
+  "tier": 1,
+  "alternativeNeighborIds": [],
+  "reason": "HNRNPU (loss of function) lacks 2 of milestones 4-7; SLC6A1 (same road, similarity 0.2328, shared: Atonic seizure, Generalized non-motor (absence) seizure, Non-motor seizure) is ahead on NIH funding, Targeted trial with a gene-level trial; counterexample GRIN2D (opposite direction, similarity 0.2534)."
+ },
+ {
+  "conditionId": "cond:G2P01160",
+  "neighborId": "cond:G2P01058",
+  "counterexampleId": "cond:G2P02239",
+  "score": 9.51,
+  "tier": 1,
+  "alternativeNeighborIds": [],
+  "reason": "DYRK1A (loss of function) lacks 2 of milestones 4-7; UBE3A (same road, similarity 0.2229, shared: Inappropriate laughter, Happy demeanor, Abnormal demeanor) is ahead on Registry / NHS, Targeted trial with a gene-level trial whose eligibility excludes a variant class (neighbor flag: both directions); counterexample OTUD6B (different road, similarity 0.2824)."
+ }
+]

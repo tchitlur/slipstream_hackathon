@@ -16,6 +16,8 @@ const OrgParticipationSchema = z.object({
       slug: z.string(),
       sharedRegistries: z.array(z.object({ name: z.string(), pageUrl: z.string(), snippet: z.string() })).default([]),
       ownRegistry: z.object({ pageUrl: z.string(), snippet: z.string() }).nullable().optional(),
+      /** Condition-specific registries run by a third party (a university lab, a hospital), stated on the organization's page. */
+      otherRegistries: z.array(z.object({ name: z.string(), pageUrl: z.string(), snippet: z.string(), operator: z.string().optional() })).default([]),
       checkedPages: z.array(z.string()).default([]),
     }),
   ),
@@ -97,6 +99,17 @@ export function buildRegistries(conditions: Condition[], orgsBySlug: Record<stri
           if (registries[id]) {
             registries[id].evidenceIds = uniq([...registries[id].evidenceIds, evId]);
           } else registries[id] = { id, kind: "shared_registry", name: sr.name, url: sr.pageUrl, conditionIds: [cid], evidenceIds: [evId], source: "org_page" };
+        }
+      }
+      for (const r of item.otherRegistries) {
+        const rid = slugify(r.name);
+        const evId = `ev:seed:orgreg:${item.slug}:other-${rid}`;
+        evidence.push({ id: evId, kind: "curated", source: "seed", sourceId: `org_registry_participation.json#${item.slug}/other/${rid}`, url: r.pageUrl, retrievedAt: part.data.checkedAt, confidence: "medium", title: `${r.name}${r.operator ? " (" + r.operator + ")" : ""}`, quote: { text: r.snippet, start: 0, end: r.snippet.length }, note: `A condition-specific registry or natural history study run by ${r.operator ?? "a third party"}, as stated on ${org.name}'s page. ${part.data.reviewer}.` });
+        counts.orgParticipationLinks++;
+        for (const cid of org.conditionIds) {
+          const c = conditions.find((x) => x.id === cid)!;
+          const id = `reg:${rid}:${c.g2pId}`;
+          if (!registries[id]) registries[id] = { id, kind: "registry", name: r.name, operator: r.operator, url: r.pageUrl, conditionIds: [cid], evidenceIds: [evId], source: "org_page" };
         }
       }
       if (item.ownRegistry) {

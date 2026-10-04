@@ -312,7 +312,11 @@ async function main() {
   // the main pair's shared phenotypes must not be dominated by common terms (C1 must not fire).
   const demo: { conditionId: string; neighborId: string; counterexampleId?: string; score: number; reason: string; tier: number; alternativeNeighborIds: string[] }[] = [];
   const studiesWithExclusion = new Set(studies.filter((s) => s.classification?.excludesMechanism).flatMap((s) => s.conditionIds));
-  const earlyOnset = /epilep|encephalopath|infantile|neonatal|spasm|seizure/i;
+  // "Severe, childhood onset": the curated name says encephalopathy or spasms, or the phenotype set carries
+  // encephalopathy, infantile/epileptic spasms, severe or profound developmental delay or intellectual disability,
+  // or status epilepticus. A plain "epilepsy" (e.g. GEFS+) does not qualify.
+  const severeName = /encephalopath|infantile spasm|epileptic spasm/i;
+  const severeTerms = /encephalopath|infantile spasms|epileptic spasm|severe global developmental delay|profound global developmental delay|intellectual disability, severe|intellectual disability, profound|status epilepticus/i;
   const EXCLUDED = new Set(["KCNC1", "EEF1A2", "SCN8A", "PCDH19"]);
   for (const c of atlas.conditions.filter((c) => c.depth === "deep")) {
     if (EXCLUDED.has(c.geneSymbol)) continue;
@@ -321,20 +325,24 @@ async function main() {
     const orgOk = orgs.some((o) => o.conditionIds.includes(c.id) && (o.verified || o.check?.status === "auto"));
     const strictlyContested = c.contested?.kind === "contested";
     const terms = (ph.conditionTerms[c.id] ?? []).map((t) => ph.terms[t]?.label ?? "").join(" ");
-    const onsetOk = earlyOnset.test(c.name) || earlyOnset.test(terms);
+    const onsetOk = severeName.test(c.name) || severeTerms.test(terms);
     const ns = sim.neighbors[c.id] ?? [];
     const ahead = ns
       .filter((n) => !n.sameGene && n.relation === "same road" && n.band === "high" && (n.aheadOn ?? []).includes(7) && ladders[n.id].milestones[6].status === "found" && condById.get(n.id)!.contested?.kind !== "contested" && n.lowInfoShare < LOW_INFO_SHARE_C1)
       .sort((a, b) => Number(studiesWithExclusion.has(b.id)) - Number(studiesWithExclusion.has(a.id)) || (b.aheadOn!.length - a.aheadOn!.length) || b.similarity - a.similarity);
+    // Counterexample preference: a same-gene pair with two curated mechanisms, then a deep-slice neighbor (full ladder
+    // and borrow view), then opposite direction over merely different road, then similarity.
     const counter = ns
       .filter((n) => n.band === "high" && (n.relation === "opposite direction" || n.relation === "different road"))
-      .sort((a, b) => Number(Boolean(b.sameGene)) - Number(Boolean(a.sameGene)) || Number(a.relation === "opposite direction") - Number(b.relation === "opposite direction") || b.similarity - a.similarity)[0];
+      .sort((a, b) => Number(Boolean(b.sameGene)) - Number(Boolean(a.sameGene)) || Number(condById.get(b.id)!.depth === "deep") - Number(condById.get(a.id)!.depth === "deep") || Number(b.relation === "opposite direction") - Number(a.relation === "opposite direction") || b.similarity - a.similarity)[0];
     if (!ahead.length || !onsetOk || strictlyContested) continue;
     const best = ahead[0];
     const nb = condById.get(best.id)!;
     // Tier 1: all criteria. Tier 2: no organization passed the check. Tier 3: no high-similarity counterexample on a different road.
     const tier = !orgOk ? 2 : !counter ? 3 : 1;
-    const score = (studiesWithExclusion.has(best.id) ? 3 : 0) + best.aheadOn!.length * 2 + lacking.length + best.similarity + (counter?.similarity ?? 0) + (counter?.sameGene ? 2 : 0);
+    // Opposite direction is what makes R4 a "do not transfer" card (a different road only gives expert review on R4),
+    // so it scores higher; a deep-slice counterexample has a full ladder and borrow view.
+    const score = (studiesWithExclusion.has(best.id) ? 3 : 0) + best.aheadOn!.length * 2 + lacking.length + best.similarity + (counter?.similarity ?? 0) + (counter?.sameGene ? 2 : 0) + (counter?.relation === "opposite direction" ? 3 : 0) + (counter && condById.get(counter.id)!.depth === "deep" ? 1 : 0);
     const caveats = [!orgOk ? "no organization passed the automated check" : "", !counter ? "no high-similarity neighbor on a different road" : "", c.contested ? `focal mechanism flag: ${c.contested.kind.replace(/_/g, " ")}` : ""].filter(Boolean);
     demo.push({
       conditionId: c.id,

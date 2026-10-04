@@ -1,5 +1,5 @@
 {
- "builtAt": "2026-10-04T01:50:25.959Z",
+ "builtAt": "2026-10-04T01:58:31.050Z",
  "sources": {
   "g2p": {
    "url": "https://ftp.ebi.ac.uk/pub/databases/gene2phenotype/G2P_data_downloads/2026_09_28/DDG2P_2026-09-28.csv.gz",
@@ -22,7 +22,7 @@
   },
   "ctgov": {
    "url": "https://clinicaltrials.gov/api/v2/studies",
-   "retrievedAt": "2026-10-04T01:20:28.508Z"
+   "retrievedAt": "2026-10-04T01:53:46.540Z"
   },
   "pubmed": {
    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils",
@@ -63,16 +63,16 @@
   "verdictNeedsExpertReview": 5701,
   "clusters": 351,
   "layoutEdges": 13556,
-  "demoCandidates": 0,
+  "demoCandidates": 3,
   "contestedMechanisms": 16,
   "bridges": 44,
   "milestone1_found_deep": 79,
   "milestone2_found_deep": 61,
   "milestone3_found_deep": 66,
-  "milestone4_found_deep": 54,
+  "milestone4_found_deep": 67,
   "milestone5_found_deep": 83,
   "milestone6_found_deep": 57,
-  "milestone7_found_deep": 27,
+  "milestone7_found_deep": 20,
   "milestone8_found_deep": 7,
   "searchDocs": 12326,
   "papers": 882,
@@ -95,8 +95,8 @@
   "reconcile_llm": 73,
   "studiesRefinedByReconciliation": 0,
   "conditionsWithSingleDissent": 6,
-  "briefsPregenerated": 4,
-  "briefsLlm": 4,
+  "briefsPregenerated": 3,
+  "briefsLlm": 3,
   "briefsTemplate": 0,
   "grantsDroppedByRelevance": 470,
   "mechanismBothDirections": 13,
@@ -108,16 +108,19 @@
   "patientOrgsWithFoundingYear": 23,
   "studiesRecheckedByReview": 25,
   "studiesChangedByReview": 6,
-  "registryRecords": 102,
+  "registryRecords": 192,
   "sharedRegistries": 6,
   "sharedRegistryGeneLinks": 74,
-  "orgSharedRegistryLinks": 0,
-  "externalRegistries": 0,
-  "conditionsInSharedRegistry": 57
+  "orgSharedRegistryLinks": 54,
+  "externalRegistries": 26,
+  "conditionsInSharedRegistry": 61,
+  "targetedGeneProduct": 42,
+  "targetedPathway": 13,
+  "targetedSymptomaticOrUnknown": 10
  },
  "thresholds": {
   "thinAnnotationTerms": 5,
-  "medianIc": 6.7071,
+  "medianIc": 3.7354,
   "similarityEdge": 0.2114,
   "similarityHigh": 0.2114,
   "similarityMedium": 0.1422,
@@ -130,7 +133,7 @@
   "contestedMinPapers": 2
  },
  "llm": {
-  "spendUsd": 3.5591550000000005,
+  "spendUsd": 3.7349775000000003,
   "byStage": {
    "S5": {
     "calls": 599,
@@ -151,10 +154,10 @@
     "usd": 0.10004924999999998
    },
    "S10": {
-    "calls": 11,
-    "inputTokens": 40703,
-    "outputTokens": 25869,
-    "usd": 0.48979249999999996
+    "calls": 14,
+    "inputTokens": 57014,
+    "outputTokens": 34872,
+    "usd": 0.6656149999999998
    }
   },
   "models": {
@@ -233,5 +236,5 @@
  ],
  "genesDropped": [],
  "notes": [],
- "gitCommit": "e70d193"
+ "gitCommit": "55fb687"
 }
