@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "condition": "SCN1A",
+    "conditionName": "Dravet syndrome",
+    "therapy": "cannabidiol (Epidiolex)",
+    "regulator": "FDA",
+    "source": "DailyMed",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8bf27097-4870-43fb-94f0-f3d0871d1eec",
+    "indicationQuote": "EPIDIOLEX is indicated for the treatment of seizures associated with Lennox-Gastaut syndrome (LGS), Dravet syndrome (DS), or tuberous sclerosis complex (TSC) in patients 1 year of age and older.",
+    "approvalYear": 2018,
+    "targets": "symptoms",
+    "targetsNote": "Anti-seizure medicine; the label states the anticonvulsant mechanism is unknown and it does not act on the SCN1A/Nav1.1 defect.",
+    "verified": false,
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  },
+  {
+    "condition": "SCN1A",
+    "conditionName": "Dravet syndrome",
+    "therapy": "fenfluramine (Fintepla)",
+    "regulator": "FDA",
+    "source": "DailyMed",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e88f360e-33ad-4cd6-b2de-5ef885857c5d",
+    "indicationQuote": "FINTEPLA is indicated for the treatment of seizures associated with Dravet syndrome (DS) and Lennox-Gastaut syndrome (LGS) in patients 2 years of age and older.",
+    "targets": "symptoms",
+    "targetsNote": "Anti-seizure medicine (serotonergic/sigma-1 activity per label pharmacodynamics); the label states the precise mechanism is unknown and it does not act on the SCN1A defect.",
+    "verified": false,
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  },
+  {
+    "condition": "SCN1A",
+    "conditionName": "Dravet syndrome",
+    "therapy": "stiripentol (Diacomit)",
+    "regulator": "FDA",
+    "source": "DailyMed",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=58304ba8-9779-4658-811e-94ffe08c3f16",
+    "indicationQuote": "DIACOMIT is indicated for the treatment of seizures associated with Dravet syndrome (DS) in patients taking clobazam who are 6 months of age and older and weighing 7 kg or more.",
+    "approvalYear": 2018,
+    "targets": "symptoms",
+    "targetsNote": "Anti-seizure medicine used with clobazam; the label states the anticonvulsant mechanism is unknown and it does not act on the SCN1A defect.",
+    "verified": false,
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  },
+  {
+    "condition": "MECP2",
+    "conditionName": "Rett syndrome",
+    "therapy": "trofinetide (Daybue)",
+    "regulator": "FDA",
+    "source": "DailyMed",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=67e6f2d9-21f6-466f-9def-826c6a4b8257",
+    "indicationQuote": "DAYBUE and DAYBUE STIX are indicated for the treatment of Rett syndrome in adults and pediatric patients 2 years of age and older.",
+    "approvalYear": 2023,
+    "targets": "symptoms",
+    "targetsNote": "Synthetic IGF-1-derived tripeptide analog; the label states the mechanism in Rett syndrome is unknown and it does not act on MECP2 or its protein, so classified as symptoms (uncertain; arguably downstream-pathway).",
+    "verified": false,
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  },
+  {
+    "condition": "CDKL5",
+    "conditionName": "cyclin-dependent kinase-like 5 (CDKL5) deficiency disorder",
+    "therapy": "ganaxolone (Ztalmy)",
+    "regulator": "FDA",
+    "source": "DailyMed",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d91612c4-b03a-4be4-a1ee-6a13e3b83d4e",
+    "indicationQuote": "ZTALMY is indicated for the treatment of seizures associated with cyclin-dependent kinase-like 5 (CDKL5) deficiency disorder (CDD) in patients 2 years of age and older.",
+    "approvalYear": 2022,
+    "targets": "symptoms",
+    "targetsNote": "Neuroactive steroid GABA-A receptor positive allosteric modulator (anti-seizure); does not act on the CDKL5 kinase defect.",
+    "verified": false,
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  },
+  {
+    "condition": "TSC1",
+    "conditionName": "tuberous sclerosis complex (TSC)",
+    "therapy": "everolimus (Afinitor / Afinitor Disperz)",
+    "regulator": "FDA",
+    "source": "DailyMed",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2150f73a-179b-4afc-b8ce-67c85cc72f04",
+    "indicationQuote": "AFINITOR and AFINITOR DISPERZ® are indicated in adult and pediatric patients aged 1 year and older with TSC for the treatment of SEGA that requires therapeutic intervention but cannot be curatively resected. AFINITOR DISPERZ is indicated for the adjunctive treatment of adult and pediatric patients aged 2 years and older with TSC-associated partial-onset seizures.",
+    "targets": "mechanism",
+    "targetsNote": "mTOR inhibitor acting on the pathway that TSC1/TSC2 loss over-activates; the label notes the mTOR pathway is dysregulated in tuberous sclerosis complex.",
+    "verified": false,
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  },
+  {
+    "condition": "TSC2",
+    "conditionName": "tuberous sclerosis complex (TSC)",
+    "therapy": "everolimus (Afinitor / Afinitor Disperz)",
+    "regulator": "FDA",
+    "source": "DailyMed",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2150f73a-179b-4afc-b8ce-67c85cc72f04",
+    "indicationQuote": "AFINITOR and AFINITOR DISPERZ® are indicated in adult and pediatric patients aged 1 year and older with TSC for the treatment of SEGA that requires therapeutic intervention but cannot be curatively resected. AFINITOR DISPERZ is indicated for the adjunctive treatment of adult and pediatric patients aged 2 years and older with TSC-associated partial-onset seizures.",
+    "targets": "mechanism",
+    "targetsNote": "mTOR inhibitor acting on the pathway that TSC1/TSC2 loss over-activates; the label notes the mTOR pathway is dysregulated in tuberous sclerosis complex.",
+    "verified": false,
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  },
+  {
+    "condition": "TSC1",
+    "conditionName": "tuberous sclerosis complex",
+    "therapy": "cannabidiol (Epidiolex)",
+    "regulator": "FDA",
+    "source": "DailyMed",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8bf27097-4870-43fb-94f0-f3d0871d1eec",
+    "indicationQuote": "EPIDIOLEX is indicated for the treatment of seizures associated with Lennox-Gastaut syndrome (LGS), Dravet syndrome (DS), or tuberous sclerosis complex (TSC) in patients 1 year of age and older.",
+    "targets": "symptoms",
+    "targetsNote": "Anti-seizure medicine; the label states the anticonvulsant mechanism is unknown and it does not act on the TSC1/TSC2-mTOR pathway.",
+    "verified": false,
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  },
+  {
+    "condition": "TSC2",
+    "conditionName": "tuberous sclerosis complex",
+    "therapy": "cannabidiol (Epidiolex)",
+    "regulator": "FDA",
+    "source": "DailyMed",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8bf27097-4870-43fb-94f0-f3d0871d1eec",
+    "indicationQuote": "EPIDIOLEX is indicated for the treatment of seizures associated with Lennox-Gastaut syndrome (LGS), Dravet syndrome (DS), or tuberous sclerosis complex (TSC) in patients 1 year of age and older.",
+    "targets": "symptoms",
+    "targetsNote": "Anti-seizure medicine; the label states the anticonvulsant mechanism is unknown and it does not act on the TSC1/TSC2-mTOR pathway.",
+    "verified": false,
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  },
+  {
+    "condition": "TSC1",
+    "conditionName": "tuberous sclerosis",
+    "therapy": "sirolimus topical gel (Hyftor)",
+    "regulator": "FDA",
+    "source": "DailyMed",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=edb3ea90-5adc-48ec-99f5-ab963e302f18",
+    "indicationQuote": "HYFTOR is indicated for the treatment of facial angiofibroma associated with tuberous sclerosis in adults and pediatric patients 6 years of age and older.",
+    "targets": "mechanism",
+    "targetsNote": "Topical mTOR inhibitor acting on the pathway that TSC1/TSC2 loss over-activates, applied to facial angiofibromas; the label itself says the mechanism in angiofibroma is unknown.",
+    "verified": false,
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  },
+  {
+    "condition": "TSC2",
+    "conditionName": "tuberous sclerosis",
+    "therapy": "sirolimus topical gel (Hyftor)",
+    "regulator": "FDA",
+    "source": "DailyMed",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=edb3ea90-5adc-48ec-99f5-ab963e302f18",
+    "indicationQuote": "HYFTOR is indicated for the treatment of facial angiofibroma associated with tuberous sclerosis in adults and pediatric patients 6 years of age and older.",
+    "targets": "mechanism",
+    "targetsNote": "Topical mTOR inhibitor acting on the pathway that TSC1/TSC2 loss over-activates, applied to facial angiofibromas; the label itself says the mechanism in angiofibroma is unknown.",
+    "verified": false,
+    "check": {
+      "status": "auto",
+      "date": "2026-10-04"
+    }
+  }
+]

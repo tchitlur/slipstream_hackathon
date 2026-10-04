@@ -1,5 +1,7 @@
 # Deploying Slipstream on Vercel
 
+Production: https://slipstreamhackathon.vercel.app/ (deployed 2026-10-04 from branch `claude/eager-mayer-klnhjy`; home page and a condition page confirmed responding).
+
 The app reads precomputed JSON from `data/derived/` that is committed to the repo. The Vercel build makes no network calls; the only runtime network call is `/api/brief`, which uses the OpenAI key for live brief generation and falls back to a deterministic template if the key or the API is unavailable.
 
 Checked before handing over: `npm run build` passes in the sandbox with no network access at build time, and `package.json` declares `"engines": { "node": ">=20 <23" }`.

@@ -102,6 +102,7 @@ async function main() {
       sameGeneOtherMechanism: [],
       supportingClaims: [],
       dissentingClaims: [],
+      rejectedClaims: [],
       lastReviewed: r["date of last review"]?.slice(0, 10) || undefined,
     };
     conditions.push(cond);

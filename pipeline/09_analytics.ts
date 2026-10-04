@@ -30,6 +30,8 @@ import {
   type CounterCode,
   type Cluster,
   type Study,
+  type PatientOrg,
+  BaselineFileSchema,
 } from "../src/lib/schemas";
 import { computeLadder, aheadOn, isUsableStudyStatus, MILESTONES } from "../src/lib/ladder";
 import { mechanismRelation } from "../src/lib/roads";
@@ -72,12 +74,24 @@ async function main() {
 
   // Approved therapies evidence (seed)
   const newEvidence: Evidence[] = [];
-  const approvedByCond = new Map<string, { therapy: string; regulator: string; evidenceId: string; verified: boolean }[]>();
+  const approvedByCond = new Map<string, { therapy: string; regulator: string; evidenceId: string; verified: boolean; targets?: "symptoms" | "mechanism" | "genetic_cause" }[]>();
   approvedSeed.forEach((a, i) => {
     const target = atlas.conditions.filter((c) => c.id === a.condition || c.geneSymbol === a.condition.toUpperCase() || c.name === a.condition);
     const evId = `ev:seed:therapy:${i}`;
-    newEvidence.push({ id: evId, kind: "curated", source: "seed", sourceId: `approved_therapies[${i}]`, url: a.url, retrievedAt: atlas.builtAt.slice(0, 10), confidence: a.verified ? "high" : "low", title: `${a.therapy} (${a.regulator})`, note: a.verified ? "Hand-verified seed entry." : "Unverified seed entry: a human must confirm against the regulator page." });
-    for (const c of target) (approvedByCond.get(c.id) ?? approvedByCond.set(c.id, []).get(c.id)!).push({ therapy: a.therapy, regulator: a.regulator, evidenceId: evId, verified: a.verified });
+    const targetLabel = a.targets === "genetic_cause" ? "targets the genetic cause" : a.targets === "mechanism" ? "acts on the disrupted pathway" : "treats symptoms";
+    newEvidence.push({
+      id: evId,
+      kind: "curated",
+      source: "seed",
+      sourceId: `${a.source ?? a.regulator}: ${a.therapy}`,
+      url: a.url,
+      retrievedAt: a.check?.date ?? atlas.builtAt.slice(0, 10),
+      confidence: a.verified ? "high" : a.check?.status === "auto" ? "medium" : "low",
+      title: `${a.therapy}, ${a.regulator}${a.approvalYear ? " " + a.approvalYear : ""}: ${targetLabel}`,
+      quote: a.indicationQuote ? { text: a.indicationQuote, start: 0, end: a.indicationQuote.length } : undefined,
+      note: `${a.verified ? "Human-verified" : a.check?.status === "auto" ? `Automatically checked on ${a.check.date} against the regulator page` : "Unverified"}. Indication names ${a.conditionName ?? a.condition}. ${a.targetsNote ?? ""} Approval is not evidence of benefit for any individual.`,
+    });
+    for (const c of target) (approvedByCond.get(c.id) ?? approvedByCond.set(c.id, []).get(c.id)!).push({ therapy: `${a.therapy} (${targetLabel})`, regulator: a.regulator, evidenceId: evId, verified: a.verified, targets: a.targets });
   });
 
   // ---- Ladders
@@ -101,6 +115,9 @@ async function main() {
       }),
     };
   }
+
+  // ---- 10x baseline (ITEM 5): organization founding year paired with the earliest registry / natural history study start.
+  writeJson(files.baseline, computeBaseline(orgs, studies), { pretty: true });
 
   // ---- Neighbors: relation, aheadOn, shared investigators
   const invByCond = new Map<string, string[]>();
@@ -157,7 +174,11 @@ async function main() {
           if (!applicable.some((a) => a.code === code)) applicable.push({ code, text, evidenceIds });
         };
         const mechRule = ALWAYS_C2.includes(rule.id);
-        if (focal.contested || nb.contested) add("C3", `${focal.contested ? focal.name : nb.name}: curated mechanism and verified published claims disagree.`, [...(focal.contested?.claims.map((c) => c.evidenceId) ?? []), ...(nb.contested?.claims.map((c) => c.evidenceId) ?? [])]);
+        if (focal.contested || nb.contested) {
+          const flagged = [focal, nb].filter((c) => c.contested);
+          const text = flagged.map((c) => (c.contested!.kind === "both_directions" ? `${c.geneSymbol}: published cases document variants acting in more than one direction; the curated direction is not the only one seen in patients, so which applies depends on the individual variant.` : `${c.geneSymbol}: published claims dispute the curated direction for the same class of variants.`)).join(" ");
+          add("C3", text, flagged.flatMap((c) => c.contested!.claims.map((x) => x.evidenceId)));
+        }
         if (mechRule) add("C2", "Mechanism is recorded per gene and disease. This family's variant may act differently; confirm its class (loss, gain, dominant negative) with a clinical geneticist before acting on this verdict.", [focal.evidenceIds[0]]);
         if (mechRule && (focal.mechanismSupport === "inferred" || nb.mechanismSupport === "inferred")) add("C4", `The curated mechanism for ${[focal, nb].filter((c) => c.mechanismSupport === "inferred").map((c) => c.geneSymbol).join(" and ")} is inferred from variant types, not from functional evidence.`, [focal.evidenceIds[0], nb.evidenceIds[0]]);
         if (focal.allelicClass !== nb.allelicClass) add("C5", `Allelic requirement differs: ${focal.allelicRequirementRaw.replace(/_/g, " ")} versus ${nb.allelicRequirementRaw.replace(/_/g, " ")}.`, [focal.evidenceIds[0], nb.evidenceIds[0]]);
@@ -168,7 +189,7 @@ async function main() {
           const s0 = assetStudies[0];
           add("C7", assetStudies.length === 1 ? `This asset rests on a single study (${s0.id}, status ${s0.status.toLowerCase().replace(/_/g, " ")}).` : `All supporting studies are ${s0.status.toLowerCase().replace(/_/g, " ")}.`, assetStudies.flatMap((s) => s.evidenceIds));
         }
-        if (rule.id === "R3" && nbOrgs.some((o) => !o.verified)) add("C8", `The organization listing for ${nb.name} is unverified.`, nbOrgs.flatMap((o) => o.evidenceIds));
+        if (rule.id === "R3" && nbOrgs.some((o) => !o.verified)) add("C8", nbOrgs.some((o) => o.check?.status === "auto") ? `The organization listing for ${nb.name} passed only an automated check of its own site on ${nbOrgs.find((o) => o.check?.status === "auto")!.check!.date}; no human has verified it.` : `The organization listing for ${nb.name} has not been checked.`, nbOrgs.flatMap((o) => o.evidenceIds));
         if (!applicable.length) add("C2", "Even where phenotypes match closely, mechanism is recorded per gene and disease; an individual's variant may act differently. Confirm the variant class with a clinical geneticist.", [focal.evidenceIds[0]]);
         const order = COUNTER_PRIORITY[rule.id];
         applicable.sort((a, b) => (order.indexOf(a.code) === -1 ? 99 : order.indexOf(a.code)) - (order.indexOf(b.code) === -1 ? 99 : order.indexOf(b.code)));
@@ -274,28 +295,56 @@ async function main() {
     writeJson(files.investigators, { investigators: Object.fromEntries(investigators.map((i) => [i.id, i])) }, { pretty: false });
   }
 
-  // ---- Demo candidates (section 9.6)
-  const demo: { conditionId: string; neighborId: string; counterexampleId?: string; score: number; reason: string }[] = [];
+  // ---- Demo candidates (section 9.6, tightened 2026-10-04 at the human's request):
+  // focal is deep, severe childhood onset is approximated by having milestone 4 and 7 not found and an epilepsy or
+  // encephalopathy term in its name/phenotypes; its organization passed the automated check; its own mechanism carries no
+  // flag; it is not X-linked; a same-road high-similarity neighbor is ahead on both registry/NHS (4) and targeted trial (7);
+  // a high-similarity opposite-direction neighbor exists whose mechanism is unflagged (gives a clean "do not transfer").
+  const demo: { conditionId: string; neighborId: string; counterexampleId?: string; score: number; reason: string; tier: number; alternativeNeighborIds: string[] }[] = [];
+  const studiesWithExclusion = new Set(studies.filter((s) => s.classification?.excludesMechanism).flatMap((s) => s.conditionIds));
+  const earlyOnset = /epilep|encephalopath|infantile|neonatal|spasm|seizure/i;
   for (const c of atlas.conditions.filter((c) => c.depth === "deep")) {
     const L = ladders[c.id].milestones;
     const lacking = [4, 5, 6, 7].filter((n) => L[n - 1].status === "not_found");
+    const orgOk = orgs.some((o) => o.conditionIds.includes(c.id) && (o.verified || o.check?.status === "auto"));
+    const flagged = Boolean(c.contested);
+    const xLinked = /X/.test(c.allelicRequirementRaw);
+    const terms = (ph.conditionTerms[c.id] ?? []).map((t) => ph.terms[t]?.label ?? "").join(" ");
+    const onsetOk = earlyOnset.test(c.name) || earlyOnset.test(terms);
     const ns = (sim.neighbors[c.id] ?? []).filter((n) => !n.sameGene);
-    const sameRoad = ns.filter((n) => n.relation === "same road" && n.band === "high" && (n.aheadOn ?? []).filter((m) => m >= 4 && m <= 7).length >= 2).sort((a, b) => (b.aheadOn!.length - a.aheadOn!.length) || b.similarity - a.similarity);
-    const opposite = ns.find((n) => (n.relation === "opposite direction" || (n.relation === "contested" && n.curatedRelation === "opposite direction")) && n.band === "high");
-    if (!sameRoad.length) continue;
+    const sameRoadAll = ns.filter((n) => n.relation === "same road" && n.band === "high" && !condById.get(n.id)!.contested);
+    let sameRoad = sameRoadAll
+      .filter((n) => (n.aheadOn ?? []).includes(4) && (n.aheadOn ?? []).includes(7))
+      .sort((a, b) => Number(studiesWithExclusion.has(b.id)) - Number(studiesWithExclusion.has(a.id)) || (b.aheadOn!.length - a.aheadOn!.length) || b.similarity - a.similarity);
+    // Tier 4 (home-page fill-in only): neighbor ahead on registry/NHS or targeted trial, not both.
+    let partial = false;
+    if (!sameRoad.length) {
+      sameRoad = sameRoadAll.filter((n) => (n.aheadOn ?? []).includes(4) || (n.aheadOn ?? []).includes(7)).sort((a, b) => (b.aheadOn!.length - a.aheadOn!.length) || b.similarity - a.similarity);
+      partial = true;
+    }
+    // Counterexample: an unflagged opposite-direction neighbor, high band preferred, medium band accepted (tier 2).
+    const oppHigh = ns.find((n) => n.relation === "opposite direction" && n.band === "high" && !condById.get(n.id)!.contested);
+    const oppMed = ns.find((n) => n.relation === "opposite direction" && n.band === "medium" && !condById.get(n.id)!.contested);
+    const opposite = oppHigh ?? oppMed;
+    if (!sameRoad.length || flagged || !onsetOk || !lacking.includes(4) || !lacking.includes(7)) continue;
+    // Tier 1: every criterion. Tier 2: counterexample only at medium similarity. Tier 3: X-linked, or no checked organization, or no counterexample.
+    const tier = xLinked || !orgOk || !opposite ? 3 : oppHigh ? 1 : 2;
     const best = sameRoad[0];
-    const score = lacking.length * 2 + best.aheadOn!.length * 2 + (opposite ? 3 : 0) + best.similarity;
     const nb = condById.get(best.id)!;
+    const score = lacking.length * 2 + best.aheadOn!.length * 2 + (studiesWithExclusion.has(best.id) ? 3 : 0) + best.similarity + (opposite?.similarity ?? 0);
+    const caveats = [partial ? "neighbor is ahead on only one of registry/NHS and targeted trial" : "", xLinked ? "X-linked inheritance does not fit a plain reading of the road label" : "", !orgOk ? "no organization passed the automated check" : "", !opposite ? "no unflagged opposite-direction neighbor above the medium cutoff" : opposite === oppMed ? "counterexample is at medium, not high, similarity" : ""].filter(Boolean);
     demo.push({
       conditionId: c.id,
       neighborId: best.id,
       counterexampleId: opposite?.id,
       score: Number(score.toFixed(2)),
-      reason: `${c.geneSymbol} lacks ${lacking.length} of milestones 4-7; ${nb.geneSymbol} (same road, similarity ${best.similarity}) is ahead on ${best.aheadOn!.map((m) => MILESTONES[m - 1].short).join(", ")}${opposite ? `; ${condById.get(opposite.id)!.geneSymbol} is a high-similarity neighbor in the opposite direction${opposite.relation === "contested" ? " (curated; its mechanism is contested)" : ""}` : "; no opposite-direction counterexample above the high cutoff"}.`,
+      tier,
+      alternativeNeighborIds: sameRoad.slice(1, 6).map((n) => n.id),
+      reason: `${c.geneSymbol} lacks ${lacking.length} of milestones 4-7 and has an unflagged ${c.mechanism} mechanism; ${nb.geneSymbol} (same road, similarity ${best.similarity}) is ahead on ${best.aheadOn!.map((m) => MILESTONES[m - 1].short).join(", ")}${studiesWithExclusion.has(best.id) ? " and has a trial whose eligibility excludes a variant class" : ""}${opposite ? `; ${condById.get(opposite.id)!.geneSymbol} (similarity ${opposite.similarity}, ${opposite.band}) is an unflagged opposite-direction neighbor` : ""}.${caveats.length ? " Caveats: " + caveats.join("; ") + "." : ""}`,
     });
   }
-  demo.sort((a, b) => b.score - a.score);
-  writeJson(files.demoCandidates, demo.slice(0, 10));
+  demo.sort((a, b) => a.tier - b.tier || b.score - a.score);
+  writeJson(files.demoCandidates, demo.slice(0, 12));
 
   writeJson(files.ladders, { ladders }, { pretty: false });
   writeSimilarity(sim.cutoffs, sim.neighbors);
@@ -328,6 +377,28 @@ async function main() {
   log("S9", `transfers: ${Object.keys(pairs).length} pairs, verdicts ${JSON.stringify(verdictCounts)}, counter-reasons ${JSON.stringify(counterCounts)}`);
   log("S9", `clusters ${clusters.length}: ${clusters.map((c) => `${c.memberIds.length}[${c.label}]`).join(" | ")}`);
   log("S9", `demo candidates: ${demo.slice(0, 5).map((d) => `${condById.get(d.conditionId)!.geneSymbol}->${condById.get(d.neighborId)!.geneSymbol}(${d.score})`).join(", ")}`);
+}
+
+function computeBaseline(orgs: PatientOrg[], studies: Study[]) {
+  const pairs: z.infer<typeof BaselineFileSchema>["pairs"] = [];
+  const passed = orgs.filter((o) => o.verified || o.check?.status === "auto");
+  for (const o of passed) {
+    if (!o.founded) continue;
+    // Earliest registry or natural history study for the condition that started after the organization was founded;
+    // a study that predates the group is not a milestone the group reached.
+    const reg = studies
+      .filter((s) => s.classification?.aboutCondition && (s.classification.role === "registry" || s.classification.role === "natural_history") && s.startDate && Number(s.startDate.slice(0, 4)) >= o.founded!.year && s.conditionIds.some((cid) => o.conditionIds.includes(cid)))
+      .sort((a, b) => (a.startDate ?? "").localeCompare(b.startDate ?? ""));
+    const first = reg[0];
+    if (!first) continue;
+    const startYear = Number(first.startDate!.slice(0, 4));
+    const startMonth = first.startDate!.length >= 7 ? Number(first.startDate!.slice(5, 7)) : 6;
+    const years = Number((startYear + (startMonth - 1) / 12 - o.founded.year).toFixed(1));
+    pairs.push({ orgId: o.id, orgName: o.name, foundedYear: o.founded.year, foundedUrl: o.founded.url, foundedSnippet: o.founded.snippet, conditionIds: o.conditionIds, studyId: first.id, studyTitle: first.briefTitle, studyRole: first.classification!.role, studyStartDate: first.startDate!, years, evidenceIds: [...o.evidenceIds, ...first.evidenceIds] });
+  }
+  const ys = pairs.map((p) => p.years).sort((a, b) => a - b);
+  const median = ys.length ? (ys.length % 2 ? ys[(ys.length - 1) / 2] : (ys[ys.length / 2 - 1] + ys[ys.length / 2]) / 2) : null;
+  return { computedAt: new Date().toISOString(), pairs, medianYears: median, minYears: ys.length ? ys[0] : null, maxYears: ys.length ? ys[ys.length - 1] : null, orgsWithFoundingYear: passed.filter((o) => o.founded).length, orgsPassed: passed.length };
 }
 
 function expertQuestion(code: CounterCode, focal: Condition, nb: Condition): string | null {

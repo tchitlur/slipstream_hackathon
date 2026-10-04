@@ -1,0 +1,371 @@
+{
+ "focalId": "cond:G2P01160",
+ "neighborId": "cond:G2P00140",
+ "generatedAt": "2026-10-04T01:25:27.088Z",
+ "mode": "llm",
+ "model": "gpt-5.4",
+ "sections": [
+  {
+   "heading": "Who we are",
+   "sentences": [
+    {
+     "text": "[Name of our group, who we represent, and how many families we are in touch with.]",
+     "evidenceIds": []
+    }
+   ]
+  },
+  {
+   "heading": "Why we are writing to you",
+   "sentences": [
+    {
+     "text": "We support families affected by DYRK1A-related intellectual developmental disorder. The recorded disease mechanism for this condition is too little DYRK1A protein from loss of one working copy, with loss of function inferred and Gene2Phenotype confidence listed as definitive.",
+     "evidenceIds": [
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104"
+     ]
+    },
+    {
+     "text": "We are reaching out to the Pitt-Hopkins community because TCF4-related Pitt-Hopkins syndrome is also recorded on the same mechanism road: too little protein from loss of one working copy, with loss of function inferred and definitive Gene2Phenotype confidence.",
+     "evidenceIds": [
+      "ev:g2p:G2P00140",
+      "ev:hpoa:OMIM:610954"
+     ]
+    },
+    {
+     "text": "The phenotype similarity score between the two conditions is marked high, although all of the shared weight comes from common low-information terms.",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:g2p:G2P00140",
+      "ev:hpoa:OMIM:610954"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we share",
+   "sentences": [
+    {
+     "text": "Both conditions have a confirmed gene-disease link and a recorded loss-of-function mechanism.",
+     "evidenceIds": [
+      "ev:g2p:G2P01160",
+      "ev:g2p:G2P00140"
+     ]
+    },
+    {
+     "text": "Shared informative features listed in the comparison include thickened helices, sacral dimple, sacrococcygeal pilonidal abnormality, incoordination, and skin dimple.",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:g2p:G2P00140",
+      "ev:hpoa:OMIM:610954"
+     ]
+    },
+    {
+     "text": "Transfer rules marked registry design and natural history protocol as transferable between the two communities.",
+     "evidenceIds": [
+      "ev:rule:R1",
+      "ev:rule:simgic",
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:g2p:G2P00140",
+      "ev:hpoa:OMIM:610954",
+      "ev:seed:org:pitt-hopkins-research-foundation"
+     ]
+    },
+    {
+     "text": "Transfer rules also marked outcome measures and endpoints as transferable, but said age of onset and severity still need review before any instrument is adopted.",
+     "evidenceIds": [
+      "ev:rule:R2",
+      "ev:rule:simgic",
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:g2p:G2P00140",
+      "ev:hpoa:OMIM:610954",
+      "ev:seed:org:pitt-hopkins-research-foundation"
+     ]
+    },
+    {
+     "text": "Clinical networks, sites, and investigators were also marked transferable, based on phenotype similarity and the existence of Pitt-Hopkins studies and organization listings.",
+     "evidenceIds": [
+      "ev:rule:R3",
+      "ev:rule:simgic",
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:g2p:G2P00140",
+      "ev:hpoa:OMIM:610954",
+      "ev:seed:org:pitt-hopkins-research-foundation",
+      "ev:ctgov:NCT07150026:role",
+      "ev:ctgov:NCT07135050:role"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we would like to learn from or reuse",
+   "sentences": [
+    {
+     "text": "We would like to learn from any registry or natural history protocol used by the Pitt Hopkins Research Foundation, because this was judged likely to carry over.",
+     "evidenceIds": [
+      "ev:rule:R1",
+      "ev:seed:org:pitt-hopkins-research-foundation",
+      "ev:seed:org:pitt-hopkins-research-foundation:registry"
+     ]
+    },
+    {
+     "text": "We would like to review outcome measures and endpoints that your community already uses, because measured domains may overlap.",
+     "evidenceIds": [
+      "ev:rule:R2",
+      "ev:seed:org:pitt-hopkins-research-foundation"
+     ]
+    },
+    {
+     "text": "We would like to understand which clinics, investigators, and study sites are active in Pitt-Hopkins work.",
+     "evidenceIds": [
+      "ev:rule:R3",
+      "ev:seed:org:pitt-hopkins-research-foundation",
+      "ev:ctgov:NCT07150026:role",
+      "ev:ctgov:NCT07135050:role"
+     ]
+    },
+    {
+     "text": "We would also like expert review of whether trial design elements from two targeted Pitt-Hopkins studies could serve as templates for DYRK1A work.",
+     "evidenceIds": [
+      "ev:rule:R6",
+      "ev:ctgov:NCT07150026:role",
+      "ev:ctgov:NCT07135050:role"
+     ]
+    },
+    {
+     "text": "For laboratory work, the comparison says Pitt-Hopkins disease models cannot stand in for DYRK1A models, but assay design may be reusable after expert review.",
+     "evidenceIds": [
+      "ev:rule:R5",
+      "ev:pubmed:models:TCF4",
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:g2p:G2P00140",
+      "ev:hpoa:OMIM:610954"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we know differs",
+   "sentences": [
+    {
+     "text": "For DYRK1A, no registry or natural history study was found in the sources searched.",
+     "evidenceIds": [
+      "ev:g2p:G2P01160"
+     ]
+    },
+    {
+     "text": "For Pitt-Hopkins syndrome, one organization states that it has a registry.",
+     "evidenceIds": [
+      "ev:seed:org:pitt-hopkins-research-foundation",
+      "ev:seed:org:pitt-hopkins-research-foundation:registry"
+     ]
+    },
+    {
+     "text": "For DYRK1A, no targeted clinical trial was found in the sources searched.",
+     "evidenceIds": [
+      "ev:g2p:G2P01160"
+     ]
+    },
+    {
+     "text": "For Pitt-Hopkins syndrome, two targeted trials were found: NCT07150026 and NCT07135050.",
+     "evidenceIds": [
+      "ev:ctgov:NCT07150026:role",
+      "ev:ctgov:NCT07135050:role"
+     ]
+    },
+    {
+     "text": "The pack says therapeutic strategy, modality, disease models, assays, and trial design all need expert review rather than direct transfer.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6"
+     ]
+    },
+    {
+     "text": "The reason is important: mechanism is recorded per gene and disease, not per family, so a child's own DYRK1A variant must be confirmed by a clinical geneticist to see whether it is loss of function, gain of function, or dominant negative.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104"
+     ]
+    },
+    {
+     "text": "Another reason for caution is that the recorded mechanisms for both conditions are inferred from variant types, not from functional evidence.",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P01160",
+      "ev:g2p:G2P00140"
+     ]
+    },
+    {
+     "text": "The similarity signal is also limited because all shared phenotype weight came from common low-information terms.",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:g2p:G2P00140",
+      "ev:hpoa:OMIM:610954"
+     ]
+    },
+    {
+     "text": "Slipstream does not assert enrolment in a Pitt-Hopkins trial for a DYRK1A family, so eligibility would need to be discussed directly with each study team.",
+     "evidenceIds": [
+      "ev:rule:R7",
+      "ev:ctgov:NCT07150026:role",
+      "ev:ctgov:NCT07135050:role"
+     ]
+    },
+    {
+     "text": "The NCT07135050 record also notes an eligibility exclusion for large TCF4 deletions over 12 Mbp.",
+     "evidenceIds": [
+      "ev:ctgov:NCT07135050:role",
+      "ev:ctgov:NCT07135050:excludes"
+     ]
+    },
+    {
+     "text": "No approved disease-specific therapy was found for either condition.",
+     "evidenceIds": [
+      "ev:g2p:G2P01160",
+      "ev:g2p:G2P00140"
+     ]
+    },
+    {
+     "text": "The Pitt Hopkins Research Foundation listing was auto-checked, but the pack says no human has verified that listing.",
+     "evidenceIds": [
+      "ev:rule:R3",
+      "ev:seed:org:pitt-hopkins-research-foundation"
+     ]
+    },
+    {
+     "text": "The NIH-funded research count in FY2025-2026 was eight projects for DYRK1A and thirty-six for TCF4.",
+     "evidenceIds": [
+      "ev:reporter:R01HD109750",
+      "ev:reporter:R56DE034980",
+      "ev:reporter:R21AI196863",
+      "ev:reporter:R01NS080946",
+      "ev:reporter:K99NS138684",
+      "ev:reporter:R21NS137191",
+      "ev:reporter:R01MH127075",
+      "ev:reporter:R01MH108519",
+      "ev:reporter:F32MH143397",
+      "ev:reporter:R35GM118103",
+      "ev:reporter:R03HD120869",
+      "ev:reporter:F32MH135665",
+      "ev:reporter:F31MH138091",
+      "ev:reporter:R01HL161142",
+      "ev:reporter:R01MH123828",
+      "ev:reporter:P50HD103573",
+      "ev:reporter:K23AI180356",
+      "ev:reporter:R56NS144737",
+      "ev:reporter:R35HL166565",
+      "ev:reporter:R00NS133961",
+      "ev:reporter:F31MH136717",
+      "ev:reporter:R01HL164777",
+      "ev:reporter:1UG3NS145980",
+      "ev:reporter:U54EB007958",
+      "ev:reporter:P30AG021334",
+      "ev:reporter:R44AG080861",
+      "ev:reporter:K23HL169743",
+      "ev:reporter:R01HL181238",
+      "ev:reporter:K24HL166791",
+      "ev:reporter:K08HL181286",
+      "ev:reporter:1UF1AG094587",
+      "ev:reporter:K23HL155507",
+      "ev:reporter:P30AR070254",
+      "ev:reporter:1ZIAAI001124",
+      "ev:reporter:1ZIAHD009023",
+      "ev:reporter:R25AG096206",
+      "ev:reporter:1ZIAAG000975",
+      "ev:reporter:1ZIEBC011516",
+      "ev:reporter:U01HL156655",
+      "ev:reporter:R25AG095799",
+      "ev:reporter:R01DK128087",
+      "ev:reporter:1ZIAHL006211",
+      "ev:reporter:1ZIAAI001203",
+      "ev:reporter:1ZIEHD008944"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Questions for expert review",
+   "sentences": [
+    {
+     "text": "Does the overlap between DYRK1A and TCF4 go beyond common features such as seizures and developmental delay, in your clinical experience?",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:g2p:G2P00140",
+      "ev:hpoa:OMIM:610954"
+     ]
+    },
+    {
+     "text": "Is the patient organization listed for TCF4 the right contact, and does it run a registry?",
+     "evidenceIds": [
+      "ev:seed:org:pitt-hopkins-research-foundation",
+      "ev:seed:org:pitt-hopkins-research-foundation:registry",
+      "ev:rule:R3"
+     ]
+    },
+    {
+     "text": "Has our child's specific DYRK1A variant been functionally classified as loss of function, gain of function, or dominant negative, and does it match the mechanism recorded for the condition?",
+     "evidenceIds": [
+      "ev:g2p:G2P01160",
+      "ev:hpoa:OMIM:614104",
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6"
+     ]
+    },
+    {
+     "text": "What functional evidence exists for DYRK1A, given that the curated mechanism is inferred from variant types rather than functional studies?",
+     "evidenceIds": [
+      "ev:g2p:G2P01160",
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6"
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "loss of function",
+   "meaning": "A gene change that reduces how much the gene works."
+  },
+  {
+   "term": "natural history study",
+   "meaning": "A study that follows people over time to learn how a condition changes."
+  },
+  {
+   "term": "endpoint",
+   "meaning": "An outcome a study measures, such as a skill, symptom, or lab result."
+  },
+  {
+   "term": "disease model",
+   "meaning": "A cell or animal system used to study a condition in the lab."
+  },
+  {
+   "term": "dominant negative",
+   "meaning": "A gene change where the altered protein interferes with the normal one."
+  },
+  {
+   "term": "clinical geneticist",
+   "meaning": "A doctor who specializes in genetic conditions and variant interpretation."
+  }
+ ],
+ "droppedSentences": 0
+}

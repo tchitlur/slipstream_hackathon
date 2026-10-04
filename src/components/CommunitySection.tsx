@@ -32,7 +32,7 @@ export function CommunitySection({ condition, orgs, related, orgsSearched }: { c
               </div>
               <div className="flex items-center gap-2">
                 <EvidenceLink ids={o.evidenceIds} title={o.name} className="inline-flex">
-                  <Chip tone={o.verified ? "ok" : "warn"}>{o.verified ? "verified listing" : "unverified listing"}</Chip>
+                  <Chip tone={o.verified ? "ok" : o.check?.status === "auto" ? "info" : "warn"}>{o.verified ? "human-verified listing" : o.check?.status === "auto" ? `automatically checked on ${o.check.date}` : "unchecked listing"}</Chip>
                 </EvidenceLink>
               </div>
             </li>
@@ -45,7 +45,7 @@ export function CommunitySection({ condition, orgs, related, orgsSearched }: { c
           </p>
           {condition.depth === "deep" && orgsSearched && (
             <p className="text-ink-2">
-              That means none was found when the seed list was drafted from ClinicalTrials.gov sponsors and a web check, or it has not been verified yet. What would change this: a public site for a {condition.geneSymbol} group, added to the seed list with its URL and checked by a human.
+              That means none was found when the seed list was drafted from a web check of organizations&apos; own sites, or the entry failed the automated check. What would change this: a public site for a {condition.geneSymbol} group, added to the seed list with its URL and checked by a human.
             </p>
           )}
           {related.length > 0 && (

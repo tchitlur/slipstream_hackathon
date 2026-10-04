@@ -23,6 +23,7 @@ export const files = {
   searchIndex: path.join(DERIVED, "search-index.json"),
   demoCandidates: path.join(DERIVED, "demo_candidates.json"),
   manifest: path.join(DERIVED, "build-manifest.json"),
+  baseline: path.join(DERIVED, "baseline.json"),
   studies: path.join(DERIVED, "studies.json"),
   literature: path.join(DERIVED, "literature.json"),
   funding: path.join(DERIVED, "funding.json"),

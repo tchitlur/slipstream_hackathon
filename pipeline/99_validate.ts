@@ -28,6 +28,7 @@ import {
   FundingFileSchema,
   ReconciliationFileSchema,
   ApprovedTherapySeedSchema,
+  BaselineFileSchema,
   PatientOrgSeedSchema,
 } from "../src/lib/schemas";
 import { offsetsMatch } from "../src/lib/quotes";
@@ -83,6 +84,7 @@ function main() {
   check(files.funding, FundingFileSchema, false);
   check(files.reconciliation, ReconciliationFileSchema, false);
   check(files.seedTherapies, z.array(ApprovedTherapySeedSchema));
+  const baseline = check(files.baseline, BaselineFileSchema, false);
   check(files.seedOrgs, z.array(PatientOrgSeedSchema));
   const briefs: z.infer<typeof BriefSchema>[] = [];
   if (fs.existsSync(BRIEFS)) {
@@ -172,6 +174,7 @@ function main() {
   // Briefs: every sentence cites existing evidence.
   // Same exemptions as the grounding check: the "Who we are" placeholder and a courtesy closing line carry no evidence.
   for (const b of briefs) for (const s of b.sections) for (const sent of s.sentences) if (!((/who we are/i.test(s.heading) || /^thank you/i.test(sent.text.trim())) && sent.evidenceIds.length === 0) && (!sent.evidenceIds.length || !sent.evidenceIds.every(has))) fail(`brief ${b.focalId}__${b.neighborId}: sentence without existing evidence: "${sent.text.slice(0, 60)}"`);
+  if (baseline) for (const p of baseline.pairs) if (!p.evidenceIds.every(has)) fail(`baseline pair ${p.orgId} cites missing evidence`);
   // Demo candidates reference known conditions.
   for (const d of demo ?? []) if (!condIds.has(d.conditionId) || !condIds.has(d.neighborId)) fail(`demo candidate references unknown condition`);
   // Layout covers conditions with phenotypes

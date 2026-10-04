@@ -8,7 +8,9 @@ import { slugify, uniq } from "./text";
 export function normalizeName(full: string): { surname: string; initial: string; display: string } {
   const s = full
     .replace(/\s+/g, " ")
-    .replace(/,?\s*\b(MD|PhD|M\.D\.|Ph\.D\.|DO|MBBS|MBChB|FRCP|FRCPC|FAAN|FAAP|MPH|MSc|MS|BSc|RN|PharmD|DrPH|Prof\.?|Professor|Dr\.?)\b\.?/gi, "")
+    .replace(/\b(M\.\s?D\.|Ph\.\s?D\.|D\.\s?O\.|M\.\s?P\.\s?H\.|M\.\s?Sc\.|B\.\s?Sc\.)/gi, " ")
+    .replace(/,?\s*\b(MD|PhD|DO|MBBS|MBChB|FRCP|FRCPC|FRCPCH|FAAN|FAAP|FACMG|MPH|MSc|MS|MA|BSc|RN|NP|PharmD|DrPH|DSc|Prof\.?|Professor|Dr\.?|Mr\.?|Mrs\.?|Ms\.?)\b\.?/gi, " ")
+    .replace(/\s*,\s*$/, "")
     .replace(/\s+,/g, ",")
     .trim();
   let first = "";
@@ -22,7 +24,12 @@ export function normalizeName(full: string): { surname: string; initial: string;
     last = parts[parts.length - 1] ?? s;
     first = parts.slice(0, -1).join(" ");
   }
-  const cap = (w: string) => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase();
+  const cap = (w: string) => {
+    if (!w) return w;
+    if (/^[a-z]+$/.test(w) && /^(de|del|della|der|van|von|da|di|du|la|le|dos|das|el|al|bin|ibn|ter|ten)$/.test(w)) return w;
+    const base = w.charAt(0).toUpperCase() + w.slice(1).toLowerCase();
+    return base.replace(/^(Mc|Mac|O')([a-z])/, (_, p, c) => p + c.toUpperCase());
+  };
   const display = `${first.split(" ").filter(Boolean).map(cap).join(" ")} ${last.split(/(-| )/).map((w) => (/^[a-zA-Z]/.test(w) ? cap(w) : w)).join("")}`.trim();
   return { surname: last.toLowerCase().replace(/[^a-z]/g, ""), initial: (first[0] ?? "").toLowerCase(), display };
 }

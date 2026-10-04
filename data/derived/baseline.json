@@ -1,0 +1,314 @@
+{
+ "computedAt": "2026-10-04T01:24:44.117Z",
+ "pairs": [
+  {
+   "orgId": "org:dravet-syndrome-foundation",
+   "orgName": "Dravet Syndrome Foundation",
+   "foundedYear": 2009,
+   "foundedUrl": "https://dravetfoundation.org/about-dsf/",
+   "foundedSnippet": "It was established in the state of Connecticut in October 2009.",
+   "conditionIds": [
+    "cond:G2P00251"
+   ],
+   "studyId": "NCT06504511",
+   "studyTitle": "SCN1A Horizons A Natural History Study of SCN1A-related Epilepsies in the United Kingdom",
+   "studyRole": "natural_history",
+   "studyStartDate": "2023-11-20",
+   "years": 14.8,
+   "evidenceIds": [
+    "ev:seed:org:dravet-syndrome-foundation",
+    "ev:ctgov:NCT06504511:role"
+   ]
+  },
+  {
+   "orgId": "org:familiescn2a-foundation",
+   "orgName": "FamilieSCN2A Foundation",
+   "foundedYear": 2015,
+   "foundedUrl": "https://www.scn2a.org/",
+   "foundedSnippet": "The FamilieSCN2A Foundation was founded in 2015 by parents of children diagnosed with rare forms of epilepsy and autism as a result of a change in the SCN2A gene.",
+   "conditionIds": [
+    "cond:G2P00033",
+    "cond:G2P01716"
+   ],
+   "studyId": "NCT05407727",
+   "studyTitle": "A Prospective, Remote Observational Study in Pediatric Participants With Early-Onset SCN2A-Developmental and Epileptic Encephalopathy",
+   "studyRole": "natural_history",
+   "studyStartDate": "2022-04-15",
+   "years": 7.3,
+   "evidenceIds": [
+    "ev:seed:org:familiescn2a-foundation",
+    "ev:seed:org:familiescn2a-foundation:registry",
+    "ev:ctgov:NCT05407727:role"
+   ]
+  },
+  {
+   "orgId": "org:jack-pribaz-foundation",
+   "orgName": "The Jack Pribaz Foundation",
+   "foundedYear": 2011,
+   "foundedUrl": "https://kcnq2.org/what-is-the-jack-pribaz-foundation/",
+   "foundedSnippet": "started this tax exempt 501(c)(3) charity in December of 2011.",
+   "conditionIds": [
+    "cond:G2P00789",
+    "cond:G2P01456"
+   ],
+   "studyId": "NCT03934268",
+   "studyTitle": "A Cohort Study on the Prognosis of Neonatal KCNQ2 Gene-associated Epileptic Encephalopathy",
+   "studyRole": "natural_history",
+   "studyStartDate": "2017-01-01",
+   "years": 6,
+   "evidenceIds": [
+    "ev:seed:org:jack-pribaz-foundation",
+    "ev:ctgov:NCT03934268:role"
+   ]
+  },
+  {
+   "orgId": "org:kcnt1-epilepsy-foundation",
+   "orgName": "KCNT1 Epilepsy Foundation",
+   "foundedYear": 2019,
+   "foundedUrl": "https://www.kcnt1epilepsy.org/about-the-foundation/",
+   "foundedSnippet": "The Foundation was launched in 2019",
+   "conditionIds": [
+    "cond:G2P00887",
+    "cond:G2P00927"
+   ],
+   "studyId": "NCT04924153",
+   "studyTitle": "A Natural History Study of Participants With Potassium Sodium-Activated Channel Subfamily T Member 1 (KCNT1)-Related Epilepsy",
+   "studyRole": "natural_history",
+   "studyStartDate": "2021-08-17",
+   "years": 2.6,
+   "evidenceIds": [
+    "ev:seed:org:kcnt1-epilepsy-foundation",
+    "ev:seed:org:kcnt1-epilepsy-foundation:registry",
+    "ev:ctgov:NCT04924153:role"
+   ]
+  },
+  {
+   "orgId": "org:stxbp1-foundation",
+   "orgName": "STXBP1 Foundation",
+   "foundedYear": 2017,
+   "foundedUrl": "https://www.stxbp1disorders.org/about",
+   "foundedSnippet": "Founded in 2017, STXBP1 Foundation is a parent-led advocacy organization.",
+   "conditionIds": [
+    "cond:G2P01128"
+   ],
+   "studyId": "NCT06555965",
+   "studyTitle": "STXBP1 and SYNGAP1 Related Disorders Natural History Study",
+   "studyRole": "natural_history",
+   "studyStartDate": "2023-08-30",
+   "years": 6.6,
+   "evidenceIds": [
+    "ev:seed:org:stxbp1-foundation",
+    "ev:seed:org:stxbp1-foundation:registry",
+    "ev:ctgov:NCT06555965:role"
+   ]
+  },
+  {
+   "orgId": "org:cure-syngap1",
+   "orgName": "CURE SYNGAP1 (formerly SynGAP Research Fund)",
+   "foundedYear": 2018,
+   "foundedUrl": "https://curesyngap1.org/mission-and-values/",
+   "foundedSnippet": "CURE SYNGAP1 (FKA SynGAP Research Fund) is a 501(c)(3) public charity incorporated in 2018.",
+   "conditionIds": [
+    "cond:G2P01343"
+   ],
+   "studyId": "NCT06555965",
+   "studyTitle": "STXBP1 and SYNGAP1 Related Disorders Natural History Study",
+   "studyRole": "natural_history",
+   "studyStartDate": "2023-08-30",
+   "years": 5.6,
+   "evidenceIds": [
+    "ev:seed:org:cure-syngap1",
+    "ev:seed:org:cure-syngap1:registry",
+    "ev:ctgov:NCT06555965:role"
+   ]
+  },
+  {
+   "orgId": "org:slc6a1-connect",
+   "orgName": "SLC6A1 Connect",
+   "foundedYear": 2018,
+   "foundedUrl": "https://slc6a1connect.org/who-we-are/",
+   "foundedSnippet": "Founded in 2018",
+   "conditionIds": [
+    "cond:G2P00319"
+   ],
+   "studyId": "NCT07531511",
+   "studyTitle": "SLC6A1-NDD Prospective Longitudinal Natural History Study",
+   "studyRole": "natural_history",
+   "studyStartDate": "2026-07-21",
+   "years": 8.5,
+   "evidenceIds": [
+    "ev:seed:org:slc6a1-connect",
+    "ev:ctgov:NCT07531511:role"
+   ]
+  },
+  {
+   "orgId": "org:international-foundation-for-cdkl5-research",
+   "orgName": "International Foundation for CDKL5 Research (IFCR)",
+   "foundedYear": 2009,
+   "foundedUrl": "https://cdkl5.com/about",
+   "foundedSnippet": "In 2009, we incorporated the International Foundation for CDKL5 Research as a non-profit organization.",
+   "conditionIds": [
+    "cond:G2P01596"
+   ],
+   "studyId": "NCT02738281",
+   "studyTitle": "Natural History of Rett Syndrome & Related Disorders",
+   "studyRole": "natural_history",
+   "studyStartDate": "2015-11",
+   "years": 6.8,
+   "evidenceIds": [
+    "ev:seed:org:international-foundation-for-cdkl5-research",
+    "ev:seed:org:international-foundation-for-cdkl5-research:registry",
+    "ev:ctgov:NCT02738281:role"
+   ]
+  },
+  {
+   "orgId": "org:international-rett-syndrome-foundation",
+   "orgName": "International Rett Syndrome Foundation (IRSF)",
+   "foundedYear": 1983,
+   "foundedUrl": "https://www.rettsyndrome.org/about-irsf/our-story/",
+   "foundedSnippet": "We began in 1983 when a tight knit group of dedicated parents came together determined to improve the lives of all children with Rett syndrome.",
+   "conditionIds": [
+    "cond:G2P00034",
+    "cond:G2P01023",
+    "cond:G2P01392"
+   ],
+   "studyId": "NCT00299312",
+   "studyTitle": "Genetic and Physical Characteristics of Rett Syndrome",
+   "studyRole": "natural_history",
+   "studyStartDate": "2006-03",
+   "years": 23.2,
+   "evidenceIds": [
+    "ev:seed:org:international-rett-syndrome-foundation",
+    "ev:seed:org:international-rett-syndrome-foundation:registry",
+    "ev:ctgov:NCT00299312:role"
+   ]
+  },
+  {
+   "orgId": "org:rett-syndrome-research-trust",
+   "orgName": "Rett Syndrome Research Trust (RSRT)",
+   "foundedYear": 2008,
+   "foundedUrl": "https://reverserett.org/about-rsrt/",
+   "foundedSnippet": "launched the Rett Syndrome Research Trust in late 2008",
+   "conditionIds": [
+    "cond:G2P00034",
+    "cond:G2P01023",
+    "cond:G2P01392"
+   ],
+   "studyId": "NCT02738281",
+   "studyTitle": "Natural History of Rett Syndrome & Related Disorders",
+   "studyRole": "natural_history",
+   "studyStartDate": "2015-11",
+   "years": 7.8,
+   "evidenceIds": [
+    "ev:seed:org:rett-syndrome-research-trust",
+    "ev:seed:org:rett-syndrome-research-trust:registry",
+    "ev:ctgov:NCT02738281:role"
+   ]
+  },
+  {
+   "orgId": "org:phelan-mcdermid-syndrome-foundation",
+   "orgName": "Phelan-McDermid Syndrome Foundation",
+   "foundedYear": 2002,
+   "foundedUrl": "https://pmsf.org/history/",
+   "foundedSnippet": "Established in 2002, the Phelan-McDermid Syndrome Foundation is the patient advocacy group for those living with Phelan-McDermid syndrome.",
+   "conditionIds": [
+    "cond:G2P00683"
+   ],
+   "studyId": "NCT02461420",
+   "studyTitle": "Mapping the Genotype, Phenotype, and Natural History of Phelan-McDermid Syndrome",
+   "studyRole": "natural_history",
+   "studyStartDate": "2015-05",
+   "years": 13.3,
+   "evidenceIds": [
+    "ev:seed:org:phelan-mcdermid-syndrome-foundation",
+    "ev:seed:org:phelan-mcdermid-syndrome-foundation:registry",
+    "ev:ctgov:NCT02461420:role"
+   ]
+  },
+  {
+   "orgId": "org:adnp-kids-research-foundation",
+   "orgName": "ADNP Kids Research Foundation",
+   "foundedYear": 2016,
+   "foundedUrl": "https://www.adnpfoundation.org/",
+   "foundedSnippet": "The ADNP Kids Research Foundation was established in 2016",
+   "conditionIds": [
+    "cond:G2P01021"
+   ],
+   "studyId": "NCT03718936",
+   "studyTitle": "ADNP Syndrome: The Seaver Autism Center for Research and Treatment is Characterizing ADNP-related Neurodevelopmental Disorders Using Genetic, Medical, and Neuropsychological Measures.",
+   "studyRole": "natural_history",
+   "studyStartDate": "2017-11-14",
+   "years": 1.8,
+   "evidenceIds": [
+    "ev:seed:org:adnp-kids-research-foundation",
+    "ev:seed:org:adnp-kids-research-foundation:registry",
+    "ev:ctgov:NCT03718936:role"
+   ]
+  },
+  {
+   "orgId": "org:bow-foundation",
+   "orgName": "The Bow Foundation",
+   "foundedYear": 2017,
+   "foundedUrl": "https://gnao1.org/about-the-foundation/",
+   "foundedSnippet": "The Foundation was launched in 2017 by parents of children with GNAO1 disorders.",
+   "conditionIds": [
+    "cond:G2P00548"
+   ],
+   "studyId": "NCT04950946",
+   "studyTitle": "GNAO1 Natural History Study",
+   "studyRole": "natural_history",
+   "studyStartDate": "2019-02-18",
+   "years": 2.1,
+   "evidenceIds": [
+    "ev:seed:org:bow-foundation",
+    "ev:ctgov:NCT04950946:role"
+   ]
+  },
+  {
+   "orgId": "org:ddx3x-foundation",
+   "orgName": "DDX3X Foundation",
+   "foundedYear": 2015,
+   "foundedUrl": "https://dfr.ddx3x.org/about-dfr",
+   "foundedSnippet": "The DDX3X Foundation is a nonprofit organization founded in 2015 to find a cure for DDX3X Syndrome.",
+   "conditionIds": [
+    "cond:G2P00498",
+    "cond:G2P02840"
+   ],
+   "studyId": "NCT03718910",
+   "studyTitle": "DDX3X Syndrome -The Seaver Autism Center for Research and Treatment is Characterizing DDX3X-related Neurodevelopmental Disorders Using Genetic, Medical, and Neuropsychological Measures.",
+   "studyRole": "natural_history",
+   "studyStartDate": "2018-05-23",
+   "years": 3.3,
+   "evidenceIds": [
+    "ev:seed:org:ddx3x-foundation",
+    "ev:seed:org:ddx3x-foundation:registry",
+    "ev:ctgov:NCT03718910:role"
+   ]
+  },
+  {
+   "orgId": "org:alternating-hemiplegia-of-childhood-foundation",
+   "orgName": "Alternating Hemiplegia of Childhood Foundation (AHCF)",
+   "foundedYear": 2001,
+   "foundedUrl": "https://ahckids.org/our-history/",
+   "foundedSnippet": "In March 2001. It was decided to become one organization and combine resources. As a result, the Alternating Hemiplegia of Childhood Foundation (AHCF) was established.",
+   "conditionIds": [
+    "cond:G2P01055"
+   ],
+   "studyId": "NCT00682513",
+   "studyTitle": "Studies of the Variable Phenotypic Presentations of Rapid-Onset Dystonia Parkinsonism and Other Movement Disorders",
+   "studyRole": "natural_history",
+   "studyStartDate": "2008-04",
+   "years": 7.3,
+   "evidenceIds": [
+    "ev:seed:org:alternating-hemiplegia-of-childhood-foundation",
+    "ev:seed:org:alternating-hemiplegia-of-childhood-foundation:registry",
+    "ev:ctgov:NCT00682513:role"
+   ]
+  }
+ ],
+ "medianYears": 6.8,
+ "minYears": 1.8,
+ "maxYears": 23.2,
+ "orgsWithFoundingYear": 23,
+ "orgsPassed": 51
+}

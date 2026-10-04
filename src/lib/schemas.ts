@@ -65,7 +65,11 @@ export const ContestedSchema = z.object({
   curatedMechanism: Mechanism,
   curatedEvidenceId: z.string(),
   claims: z.array(MechanismClaimSchema),
+  /** "contested": real disagreement about the same variant class. "both_directions": patients with variants acting in both directions are documented. */
+  kind: z.enum(["contested", "both_directions"]).default("contested"),
+  note: z.string().optional(),
 });
+export const RejectedClaimSchema = MechanismClaimSchema.extend({ reason: z.string(), reviewer: z.string() });
 
 export const PhenotypeMatchMethod = z.enum(["hpoa_xref", "g2p_record", "gene_name", "none"]);
 
@@ -99,6 +103,8 @@ export const ConditionSchema = z.object({
   contested: ContestedSchema.optional(),
   /** Verified claims in a different direction that did not reach the contested threshold (fewer than two papers). */
   dissentingClaims: z.array(MechanismClaimSchema).default([]),
+  /** Verified claims rejected on review (other gene, model manipulation, therapy mechanism, wrong direction), kept for audit. */
+  rejectedClaims: z.array(RejectedClaimSchema).default([]),
   /** Other conditions on the same gene with a different mechanism. */
   sameGeneOtherMechanism: z.array(z.string()).default([]),
   /** Verified extracted claims that agree with the curated mechanism. */
@@ -229,6 +235,15 @@ export const StudyClassificationSchema = z.object({
   quoteVerified: z.boolean(),
   excludesQuote: z.string().optional(),
   excludesQuoteVerified: z.boolean().optional(),
+  /** Set when an automated re-check read the ClinicalTrials.gov record; `before` is present when a label changed. */
+  reviewed: z
+    .object({
+      date: z.string(),
+      reviewer: z.string(),
+      reason: z.string(),
+      before: z.object({ aboutCondition: z.boolean(), role: StudyRole, modality: StudyModality, excludesMechanism: z.string().optional() }).optional(),
+    })
+    .optional(),
 });
 
 export const StudySchema = z.object({
@@ -330,6 +345,13 @@ export const InvestigatorSchema = z.object({
 export type Investigator = z.infer<typeof InvestigatorSchema>;
 export const InvestigatorsFileSchema = z.object({ investigators: z.record(z.string(), InvestigatorSchema) });
 
+export const OrgCheckSchema = z.object({
+  status: z.enum(["auto", "human", "failed"]),
+  date: z.string(),
+  pageUrl: z.string().optional(),
+  snippet: z.string().optional(),
+  reason: z.string().optional(),
+});
 export const PatientOrgSeedSchema = z.object({
   slug: z.string(),
   name: z.string(),
@@ -340,6 +362,9 @@ export const PatientOrgSeedSchema = z.object({
   registryNote: z.string().optional(),
   foundVia: z.string().optional(),
   verified: z.boolean(),
+  check: OrgCheckSchema.optional(),
+  replacedFrom: z.string().optional(),
+  founded: z.object({ year: z.number().int(), url: z.string(), snippet: z.string() }).optional(),
 });
 export type PatientOrgSeed = z.infer<typeof PatientOrgSeedSchema>;
 
@@ -351,12 +376,20 @@ export const PatientOrgSchema = PatientOrgSeedSchema.extend({
 export type PatientOrg = z.infer<typeof PatientOrgSchema>;
 export const OrgsFileSchema = z.object({ orgs: z.record(z.string(), PatientOrgSchema) });
 
+export const TherapyTarget = z.enum(["symptoms", "mechanism", "genetic_cause"]);
 export const ApprovedTherapySeedSchema = z.object({
   condition: z.string(),
+  conditionName: z.string().optional(),
   therapy: z.string(),
   regulator: z.string(),
+  source: z.string().optional(),
   url: z.string().url(),
+  indicationQuote: z.string().optional(),
+  approvalYear: z.number().int().optional(),
+  targets: TherapyTarget.default("symptoms"),
+  targetsNote: z.string().optional(),
   verified: z.boolean(),
+  check: OrgCheckSchema.optional(),
 });
 
 // ---------------------------------------------------------------------------
@@ -460,6 +493,9 @@ export const DemoCandidateSchema = z.object({
   counterexampleId: z.string().optional(),
   score: z.number(),
   reason: z.string(),
+  /** 1 = every criterion met; 2 = counterexample only at medium similarity; 3 = X-linked, no checked organization, or no counterexample; 4 = neighbor ahead on only one of milestones 4 and 7. */
+  tier: z.number().int().default(1),
+  alternativeNeighborIds: z.array(z.string()).default([]),
 });
 export const DemoCandidatesFileSchema = z.array(DemoCandidateSchema);
 
@@ -499,6 +535,31 @@ export const BuildManifestSchema = z.object({
   notes: z.array(z.string()).default([]),
 });
 export type BuildManifest = z.infer<typeof BuildManifestSchema>;
+
+export const BaselineFileSchema = z.object({
+  computedAt: z.string(),
+  pairs: z.array(
+    z.object({
+      orgId: z.string(),
+      orgName: z.string(),
+      foundedYear: z.number().int(),
+      foundedUrl: z.string(),
+      foundedSnippet: z.string(),
+      conditionIds: z.array(z.string()),
+      studyId: z.string(),
+      studyTitle: z.string(),
+      studyRole: z.string(),
+      studyStartDate: z.string(),
+      years: z.number(),
+      evidenceIds: z.array(z.string()),
+    }),
+  ),
+  medianYears: z.number().nullable(),
+  minYears: z.number().nullable(),
+  maxYears: z.number().nullable(),
+  orgsWithFoundingYear: z.number().int(),
+  orgsPassed: z.number().int(),
+});
 
 export const ProbeFileSchema = z.object({
   ranAt: z.string(),

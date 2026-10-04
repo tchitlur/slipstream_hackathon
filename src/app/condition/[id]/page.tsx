@@ -59,7 +59,12 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
   const orgs = getOrgsFor(c.id);
   const sameRoad = store.atlas.conditions.filter((x) => x.roadId === c.roadId && x.id !== c.id);
   const sameRoadIds = sameRoad.map((x) => x.id);
-  const investigators = getInvestigatorsFor([c.id, ...sameRoadIds]).sort((a, b) => Number(b.isBridge) - Number(a.isBridge) || b.records.length - a.records.length);
+  const shownIds = new Set([c.id, ...shown.map((n) => n.id)]);
+  const investigators = getInvestigatorsFor([c.id, ...sameRoadIds]).sort((a, b) => {
+    const la = a.conditionIds.includes(c.id) ? 2 : a.conditionIds.some((x) => shownIds.has(x)) ? 1 : 0;
+    const lb = b.conditionIds.includes(c.id) ? 2 : b.conditionIds.some((x) => shownIds.has(x)) ? 1 : 0;
+    return lb - la || Number(b.isBridge) - Number(a.isBridge) || b.records.length - a.records.length;
+  });
   const studies = getStudiesFor(c.id).filter((s) => s.classification?.aboutCondition);
   const exclusionStudies = studies.filter((s) => s.classification?.excludesMechanism);
   const sameGeneOther = c.sameGeneOtherMechanism.map((id) => getCondition(id)).filter(Boolean);
@@ -68,6 +73,7 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
   const evidenceIds = collectEvidenceIds(c, ladder, rows, orgs, investigators, studies, relatedCommunities.map((r) => r.orgs), c.contested);
   if (c.contested) for (const cl of c.contested.claims) evidenceIds.add(cl.evidenceId);
   for (const cl of c.dissentingClaims) evidenceIds.add(cl.evidenceId);
+  for (const cl of c.rejectedClaims) evidenceIds.add(cl.evidenceId);
   const evidence = getEvidence(evidenceIds);
   const curatedEv = c.evidenceIds.filter((e) => e.startsWith("ev:g2p:"));
   const manifest = store.manifest;
@@ -99,13 +105,30 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
             <Chip tone={c.confidence === "definitive" || c.confidence === "strong" ? "ok" : "warn"}>gene link: {c.confidence}</Chip>
             {c.contested && (
               <EvidenceLink ids={[c.contested.curatedEvidenceId]} contradictingIds={c.contested.claims.map((cl) => cl.evidenceId)} title={`Contested mechanism: ${c.name}`} detail={`Curated: ${c.contested.curatedMechanism}. ${c.contested.claims.length} verified published claim(s) point in a different direction.`} className="inline-flex">
-                <Chip tone="warn">contested mechanism</Chip>
+                <Chip tone="warn">{c.contested.kind === "both_directions" ? "both directions reported" : "contested mechanism"}</Chip>
               </EvidenceLink>
             )}
             {c.depth === "shallow" && <Chip tone="neutral">mechanism and symptoms only; deeper layers not yet built</Chip>}
           </div>
           {c.synonyms.length > 0 && <p className="text-sm text-muted">Also recorded as: {c.synonyms.slice(0, 3).join("; ")}</p>}
           <VariantNotice geneSymbol={c.geneSymbol} mechanism={c.mechanism} />
+          {c.rejectedClaims.length > 0 && (
+            <details className="text-sm text-ink-2 max-w-3xl">
+              <summary className="cursor-pointer">
+                {c.rejectedClaims.length} extracted claim{c.rejectedClaims.length === 1 ? "" : "s"} rejected on review (kept for audit)
+              </summary>
+              <ul className="mt-1 space-y-1">
+                {c.rejectedClaims.map((cl) => (
+                  <li key={cl.evidenceId}>
+                    <EvidenceLink ids={[cl.evidenceId]} title={`Rejected claim (PMID ${cl.pmid})`}>
+                      PMID {cl.pmid}: {cl.direction.replace("_", " ")}
+                    </EvidenceLink>{" "}
+                    rejected: {cl.reason} <span className="text-muted">({cl.reviewer})</span>
+                  </li>
+                ))}
+              </ul>
+            </details>
+          )}
           {!c.contested && c.dissentingClaims.length > 0 && (
             <p className="text-sm text-ink-2 max-w-3xl">
               One published paper disagrees with the curated direction (
@@ -123,10 +146,12 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
           {sameGeneOther.length > 0 && <SameGeneNotice conditions={sameGeneOther.map((o) => ({ id: o!.id, name: o!.name, roadLabel: roadById(o!.roadId)?.label ?? "", href: conditionHref(o!.id), roadId: o!.roadId }))} />}
           {c.contested && (
             <div className="border border-[#fdba74] bg-warn-bg rounded-md p-3 text-sm">
-              <div className="font-medium text-warn mb-1">Mechanism is contested</div>
+              <div className="font-medium text-warn mb-1">{c.contested.kind === "both_directions" ? "Both directions reported in patients" : "Mechanism is contested"}</div>
               <p className="text-ink-2">
-                Gene2Phenotype records <strong>{c.contested.curatedMechanism}</strong>. {c.contested.claims.length} verified sentence{c.contested.claims.length === 1 ? "" : "s"} from PubMed abstract{new Set(c.contested.claims.map((cl) => cl.pmid)).size === 1 ? "" : "s"} ({new Set(c.contested.claims.map((cl) => cl.pmid)).size} paper{new Set(c.contested.claims.map((cl) => cl.pmid)).size === 1 ? "" : "s"}) point to{" "}
-                {Array.from(new Set(c.contested.claims.map((cl) => cl.direction.replace("_", " ")))).join(" or ")}. Both sides are shown in the evidence panel; neither is treated as settled.
+                Gene2Phenotype records <strong>{c.contested.curatedMechanism}</strong>. {c.contested.claims.length} verified sentence{c.contested.claims.length === 1 ? "" : "s"} from {new Set(c.contested.claims.map((cl) => cl.pmid)).size} PubMed paper{new Set(c.contested.claims.map((cl) => cl.pmid)).size === 1 ? "" : "s"} describe{new Set(c.contested.claims.map((cl) => cl.pmid)).size === 1 ? "s" : ""} {c.geneSymbol} variants acting as{" "}
+                {Array.from(new Set(c.contested.claims.map((cl) => cl.direction.replace("_", " ")))).join(" or ")}.{" "}
+                {c.contested.kind === "both_directions" ? (c.contested.note ?? "Which direction applies depends on the individual variant.") : "The published claims dispute the curated direction for the same class of variants; neither side is treated as settled."}{" "}
+                Both sides are in the evidence panel. Claims rejected on review are kept for audit{c.rejectedClaims.length ? ` (${c.rejectedClaims.length} for this condition)` : ""}.
               </p>
               <ul className="mt-2 space-y-1">
                 {c.contested.claims.filter((cl, i, arr) => arr.findIndex((x) => x.pmid === cl.pmid && x.direction === cl.direction) === i).slice(0, 5).map((cl) => (
@@ -154,7 +179,7 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
               </p>
             </div>
             <div className="text-xs text-muted">
-              Similarity cutoffs: high ≥ {cutoffs.high}, medium ≥ {cutoffs.medium}
+              Similarity cutoffs: high ≥ {cutoffs.high.toFixed(2)}, medium ≥ {cutoffs.medium.toFixed(2)}
             </div>
           </div>
           {c.depth === "shallow" && (
@@ -239,7 +264,7 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
           <p className="text-sm text-ink-2 max-w-3xl mb-3">
             Investigators linked by public records (NIH RePORTER projects, ClinicalTrials.gov officials, last authors of mechanism papers) to conditions on the road “{road?.label}”, across gene names. Bridges span more than one road or cluster.
           </p>
-          <InvestigatorList investigators={investigators.slice(0, c.depth === "deep" ? 20 : 8)} focalConditionId={c.id} conditionNames={Object.fromEntries(store.atlas.conditions.map((x) => [x.id, `${x.geneSymbol} · ${x.name}`]))} searched={Object.keys(store.investigators).length > 0} />
+          <InvestigatorList investigators={investigators.slice(0, c.depth === "deep" ? 30 : 8)} focalConditionId={c.id} neighborIds={shown.map((n) => n.id)} conditionNames={Object.fromEntries(store.atlas.conditions.map((x) => [x.id, `${x.geneSymbol} · ${x.name}`]))} searched={Object.keys(store.investigators).length > 0} initial={6} />
         </section>
 
         <p className="text-xs text-muted">
@@ -257,7 +282,7 @@ function NoSupportedRoute({ condition, neighborsAll, cutoffs }: { condition: { n
     <div className="border border-line-2 rounded-md p-4 bg-white/60 space-y-3">
       <h3 className="text-lg">No supported route yet</h3>
       <p className="text-sm text-ink-2">
-        No condition clears the medium similarity cutoff ({cutoffs.medium}) for {condition.name}. This is a real result, not an error: the atlas does not have enough shared, informative phenotype evidence to justify borrowing a registry design or outcome measures from another community.
+        No condition clears the medium similarity cutoff ({cutoffs.medium.toFixed(2)}) for {condition.name}. This is a real result, not an error: the atlas does not have enough shared, informative phenotype evidence to justify borrowing a registry design or outcome measures from another community.
       </p>
       <dl className="text-sm grid sm:grid-cols-[auto_1fr] gap-x-4 gap-y-1">
         <dt className="text-muted">What was searched</dt>

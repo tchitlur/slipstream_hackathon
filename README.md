@@ -4,7 +4,7 @@
 
 A hackathon entry for Hack-Nation Challenge 05, "AI Atlas for the World's Rare Diseases". Deep slice: 65 genes in developmental and epileptic encephalopathies and related neurodevelopmental disorders. Atlas-wide layer: the full Gene2Phenotype developmental disorders panel at mechanism-and-symptoms depth.
 
-Production URL: _to be added after the Vercel deploy (see `docs/DEPLOY.md`)_.
+Production URL: **https://slipstreamhackathon.vercel.app/** (Vercel; smoke-tested 2026-10-04: home page and `/condition/G2P00797` respond with HTTP 200 and render).
 
 ## The idea in one paragraph
 

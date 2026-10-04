@@ -16,6 +16,9 @@ Session start: 2026-10-03 19:13 UTC. Deadline: 2026-10-04 06:00 EST (10:00 UTC).
 - `npm run check` must pass before pushing.
 - Open problems and decisions are in `docs/DECISIONS.md`; data oddities in `docs/DATA_NOTES.md`.
 
+## Delegated review pass (2026-10-04)
+- Automated organization check (51 passed, 4 failed and hidden, 3 URLs replaced), contested-claim review (3 contested, 13 both directions, 20 rejected), grant relevance tightened (413 kept), 11 FDA-labelled therapies with target class, baseline from data (15 pairs, median 6.8 years), demo re-ranked to DYRK1A with TCF4, 25 trial labels re-checked (6 changed), shot lists written.
+
 ## Next (for the human)
 - See `HUMAN_TODO.md`: Vercel deploy and production URL, verify patient organizations, review `docs/DATA_NOTES.md`, confirm the demo condition, supply the sourced 10x baseline, record the videos.
 

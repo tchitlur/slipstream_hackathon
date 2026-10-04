@@ -1,0 +1,241 @@
+{
+ "focalId": "cond:G2P00062",
+ "neighborId": "cond:G2P02415",
+ "generatedAt": "2026-10-04T01:25:47.896Z",
+ "mode": "llm",
+ "model": "gpt-5.4",
+ "sections": [
+  {
+   "heading": "Who we are",
+   "sentences": [
+    {
+     "text": "[Name of our group, who we represent, and how many families we are in touch with.]",
+     "evidenceIds": []
+    }
+   ]
+  },
+  {
+   "heading": "Why we are writing to you",
+   "sentences": [
+    {
+     "text": "We are writing because ARX-related neurodevelopmental spectrum and SMC1A-related epileptic encephalopathy are recorded on the same mechanism road: too little protein from loss of function of one copy. [ev:g2p:G2P00062, ev:hpoa:OMIM:300215, ev:g2p:G2P02415, ev:hpoa:OMIM:301044]",
+     "evidenceIds": [
+      "ev:g2p:G2P00062",
+      "ev:hpoa:OMIM:300215",
+      "ev:g2p:G2P02415",
+      "ev:hpoa:OMIM:301044"
+     ]
+    },
+    {
+     "text": "The recorded phenotype similarity is high, but the shared features are all common, low-information terms, so we should be careful not to over-read that overlap. [ev:rule:simgic, ev:g2p:G2P00062, ev:hpoa:OMIM:300215, ev:g2p:G2P02415, ev:hpoa:OMIM:301044]",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P00062",
+      "ev:hpoa:OMIM:300215",
+      "ev:g2p:G2P02415",
+      "ev:hpoa:OMIM:301044"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we share",
+   "sentences": [
+    {
+     "text": "The gene-disease link is listed as definitive for both ARX and SMC1A. [ev:g2p:G2P00062, ev:g2p:G2P02415]",
+     "evidenceIds": [
+      "ev:g2p:G2P00062",
+      "ev:g2p:G2P02415"
+     ]
+    },
+    {
+     "text": "For both conditions, the curated mechanism is loss of function, and this mechanism call is marked as inferred. [ev:g2p:G2P00062, ev:g2p:G2P02415]",
+     "evidenceIds": [
+      "ev:g2p:G2P00062",
+      "ev:g2p:G2P02415"
+     ]
+    },
+    {
+     "text": "Both conditions have reported disease models in PubMed. [ev:pubmed:models:ARX, ev:pubmed:models:SMC1A]",
+     "evidenceIds": [
+      "ev:pubmed:models:ARX",
+      "ev:pubmed:models:SMC1A"
+     ]
+    },
+    {
+     "text": "No targeted clinical trial was found for either condition in the sources searched. [ev:g2p:G2P00062, ev:g2p:G2P02415]",
+     "evidenceIds": [
+      "ev:g2p:G2P00062",
+      "ev:g2p:G2P02415"
+     ]
+    },
+    {
+     "text": "No approved disease-specific therapy was found for either condition in the sources searched. [ev:g2p:G2P00062, ev:g2p:G2P02415]",
+     "evidenceIds": [
+      "ev:g2p:G2P00062",
+      "ev:g2p:G2P02415"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we would like to learn from or reuse",
+   "sentences": [
+    {
+     "text": "Registry design and natural history protocol look transferable, and the SMC1A Foundation site states that it has a registry. [ev:rule:R1, ev:seed:org:smc1a-foundation, ev:seed:org:smc1a-foundation:registry]",
+     "evidenceIds": [
+      "ev:rule:R1",
+      "ev:seed:org:smc1a-foundation",
+      "ev:seed:org:smc1a-foundation:registry"
+     ]
+    },
+    {
+     "text": "Outcome measures and endpoints also look transferable, but age of onset and severity still need review before any instrument is adopted. [ev:rule:R2, ev:seed:org:smc1a-foundation]",
+     "evidenceIds": [
+      "ev:rule:R2",
+      "ev:seed:org:smc1a-foundation"
+     ]
+    },
+    {
+     "text": "Clinical network contacts, sites, and investigators may also be useful to share. [ev:rule:R3, ev:seed:org:smc1a-foundation]",
+     "evidenceIds": [
+      "ev:rule:R3",
+      "ev:seed:org:smc1a-foundation"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we know differs",
+   "sentences": [
+    {
+     "text": "A patient organization was not found for ARX in the sources searched, while an SMC1A organization listing was found for the SMC1A Foundation. [ev:seed:org:smc1a-foundation, ev:seed:org:smc1a-foundation:registry]",
+     "evidenceIds": [
+      "ev:seed:org:smc1a-foundation",
+      "ev:seed:org:smc1a-foundation:registry"
+     ]
+    },
+    {
+     "text": "The SMC1A organization listing passed only an automated check of its own site, and no human has verified it yet. [ev:rule:R3, ev:seed:org:smc1a-foundation]",
+     "evidenceIds": [
+      "ev:rule:R3",
+      "ev:seed:org:smc1a-foundation"
+     ]
+    },
+    {
+     "text": "For ARX, one active NIH-funded research project was found in FY2025-2026, and no SMC1A project was found in NIH RePORTER for FY2025-2026. [ev:reporter:U01DA054170]",
+     "evidenceIds": [
+      "ev:reporter:U01DA054170"
+     ]
+    },
+    {
+     "text": "We must not assume that a therapeutic strategy is shared just because the two conditions are on the same road. [ev:rule:R4, ev:g2p:G2P00062, ev:hpoa:OMIM:300215, ev:g2p:G2P02415, ev:hpoa:OMIM:301044]",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:g2p:G2P00062",
+      "ev:hpoa:OMIM:300215",
+      "ev:g2p:G2P02415",
+      "ev:hpoa:OMIM:301044"
+     ]
+    },
+    {
+     "text": "The reason is that mechanism is recorded at the gene-and-disease level, not for each family, and our own ARX variant may behave differently. [ev:rule:R4, ev:g2p:G2P00062, ev:hpoa:OMIM:300215]",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:g2p:G2P00062",
+      "ev:hpoa:OMIM:300215"
+     ]
+    },
+    {
+     "text": "Our family's variant class should be confirmed by a clinical geneticist before anyone acts on loss of function as the right model for that child. [ev:rule:R4, ev:rule:R5, ev:rule:R6, ev:g2p:G2P00062, ev:hpoa:OMIM:300215]",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P00062",
+      "ev:hpoa:OMIM:300215"
+     ]
+    },
+    {
+     "text": "We also must not assume that an SMC1A disease model can stand in for ARX, because gene-specific animal or cell models are not interchangeable. [ev:rule:R5, ev:pubmed:models:SMC1A]",
+     "evidenceIds": [
+      "ev:rule:R5",
+      "ev:pubmed:models:SMC1A"
+     ]
+    },
+    {
+     "text": "Trial design ideas may be worth reviewing, but enrolment in any neighbor trial is not asserted here and must be asked directly with the study team. [ev:rule:R6, ev:rule:R7]",
+     "evidenceIds": [
+      "ev:rule:R6",
+      "ev:rule:R7"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Questions for expert review",
+   "sentences": [
+    {
+     "text": "Does the overlap between ARX and SMC1A go beyond common features such as seizures and developmental delay, in your clinical experience? [ev:rule:simgic, ev:g2p:G2P00062, ev:hpoa:OMIM:300215, ev:g2p:G2P02415, ev:hpoa:OMIM:301044]",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P00062",
+      "ev:hpoa:OMIM:300215",
+      "ev:g2p:G2P02415",
+      "ev:hpoa:OMIM:301044"
+     ]
+    },
+    {
+     "text": "Is the patient organization listed for SMC1A the right contact, and does it run a registry? [ev:seed:org:smc1a-foundation, ev:seed:org:smc1a-foundation:registry]",
+     "evidenceIds": [
+      "ev:seed:org:smc1a-foundation",
+      "ev:seed:org:smc1a-foundation:registry"
+     ]
+    },
+    {
+     "text": "Has our child's specific ARX variant been functionally classified as loss of function, gain of function, or dominant negative, and does it match the mechanism recorded for the condition? [ev:rule:R4, ev:g2p:G2P00062, ev:hpoa:OMIM:300215]",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:g2p:G2P00062",
+      "ev:hpoa:OMIM:300215"
+     ]
+    },
+    {
+     "text": "Because the curated ARX mechanism is inferred from variant types rather than direct functional studies, what functional evidence exists for ARX? [ev:rule:R4, ev:g2p:G2P00062, ev:hpoa:OMIM:300215]",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:g2p:G2P00062",
+      "ev:hpoa:OMIM:300215"
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "loss of function",
+   "meaning": "A change that reduces how much working protein the gene makes, or stops it working."
+  },
+  {
+   "term": "mechanism",
+   "meaning": "The main biological way a gene change is thought to cause disease."
+  },
+  {
+   "term": "natural history study",
+   "meaning": "A study that follows people over time to learn how a condition changes."
+  },
+  {
+   "term": "endpoint",
+   "meaning": "An outcome a study measures, such as seizures, skills, or daily function."
+  },
+  {
+   "term": "variant",
+   "meaning": "A change in a gene's DNA sequence."
+  },
+  {
+   "term": "clinical geneticist",
+   "meaning": "A doctor with specialist training in genetic conditions and test results."
+  }
+ ],
+ "droppedSentences": 0
+}

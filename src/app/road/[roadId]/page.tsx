@@ -107,7 +107,7 @@ export default async function RoadPage({ params }: { params: Promise<{ roadId: s
                           <a href={o.url} target="_blank" rel="noopener noreferrer" className="underline">
                             {o.name}
                           </a>
-                          {!o.verified && <span className="text-xs text-warn ml-1">unverified</span>}
+                          {!o.verified && <span className="text-xs text-muted ml-1">{o.check?.status === "auto" ? `auto-checked ${o.check.date}` : "unchecked"}</span>}
                         </div>
                       ))
                     ) : (

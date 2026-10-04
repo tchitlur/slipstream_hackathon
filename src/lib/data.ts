@@ -27,7 +27,7 @@ function readJson<T>(name: string, fallback: T): T {
   return JSON.parse(fs.readFileSync(p, "utf8")) as T;
 }
 
-type DemoCandidate = { conditionId: string; neighborId: string; counterexampleId?: string; score: number; reason: string };
+type DemoCandidate = { conditionId: string; neighborId: string; counterexampleId?: string; score: number; reason: string; tier?: number; alternativeNeighborIds?: string[] };
 
 type Store = {
   atlas: Atlas;
@@ -46,6 +46,16 @@ type Store = {
   phenotypes: PhenotypesFile | null;
   literature: LiteratureFile | null;
   layout: { nodes: Record<string, { x: number; y: number }>; edges: [string, string, number][]; threshold: number } | null;
+  baseline: Baseline | null;
+};
+export type Baseline = {
+  computedAt: string;
+  pairs: { orgId: string; orgName: string; foundedYear: number; foundedUrl: string; foundedSnippet: string; conditionIds: string[]; studyId: string; studyTitle: string; studyRole: string; studyStartDate: string; years: number; evidenceIds: string[] }[];
+  medianYears: number | null;
+  minYears: number | null;
+  maxYears: number | null;
+  orgsWithFoundingYear: number;
+  orgsPassed: number;
 };
 
 let store: Store | null = null;
@@ -70,6 +80,7 @@ export function getStore(): Store {
     phenotypes: readJson<PhenotypesFile | null>("phenotypes.json", null),
     literature: readJson<LiteratureFile | null>("literature.json", null),
     layout: readJson("layout.json", null),
+    baseline: readJson<Baseline | null>("baseline.json", null),
   };
   return store;
 }

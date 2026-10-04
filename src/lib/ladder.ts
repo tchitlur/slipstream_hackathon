@@ -33,7 +33,7 @@ export type LadderInputs = {
   grants: Grant[];
   /** Disease-model literature result for the gene, if the stage ran. */
   models?: { count: number; topPmids: string[]; evidenceId: string } | null;
-  approved?: { therapy: string; regulator: string; evidenceId: string; verified: boolean }[];
+  approved?: { therapy: string; regulator: string; evidenceId: string; verified: boolean; targets?: "symptoms" | "mechanism" | "genetic_cause" }[];
   /** Which sources were actually searched for this condition (stage ran). */
   searched: { studies: boolean; orgs: boolean; grants: boolean; literature: boolean; approved: boolean };
   currentFiscalYear: number;
@@ -67,7 +67,9 @@ export function computeLadder(inp: LadderInputs): Milestone[] {
   if (shallow || !inp.searched.orgs) out.push(mk(3, "not_searched", []));
   else {
     const orgs = inp.orgs.filter((o) => o.conditionIds.includes(c.id));
-    out.push(mk(3, orgs.length ? "found" : "not_found", orgs.flatMap((o) => o.evidenceIds), orgs.map((o) => o.name).join("; ") || undefined, orgs.some((o) => !o.verified) ? ["unverified"] : []));
+    const orgFlags: string[] = [];
+    if (orgs.length && orgs.every((o) => !o.verified)) orgFlags.push(orgs.some((o) => o.check?.status === "auto") ? "auto-checked" : "unverified");
+    out.push(mk(3, orgs.length ? "found" : "not_found", orgs.flatMap((o) => o.evidenceIds), orgs.map((o) => o.name).join("; ") || undefined, orgFlags));
   }
 
   // 4 Registry or natural history study
@@ -79,7 +81,7 @@ export function computeLadder(inp: LadderInputs): Milestone[] {
     const flags: string[] = [];
     if (reg.length === 1 && !orgReg.length) flags.push("single study");
     if (reg.length && reg.every((s) => !isUsableStudyStatus(s.status))) flags.push("status: " + reg[0].status.toLowerCase().replace(/_/g, " "));
-    if (orgReg.some((o) => !o.verified)) flags.push("org unverified");
+    if (orgReg.some((o) => !o.verified)) flags.push(orgReg.some((o) => o.check?.status === "auto") ? "org auto-checked" : "org unverified");
     out.push(mk(4, ids.length ? "found" : "not_found", ids, [reg.length ? `${reg.length} stud${reg.length === 1 ? "y" : "ies"} (${reg.map((s) => s.id).slice(0, 3).join(", ")})` : "", orgReg.length ? `${orgReg.length} organization${orgReg.length === 1 ? "" : "s"} stating a registry` : ""].filter(Boolean).join("; ") || undefined, flags));
   }
 
@@ -111,7 +113,12 @@ export function computeLadder(inp: LadderInputs): Milestone[] {
   if (shallow || !inp.searched.approved) out.push(mk(8, "not_searched", []));
   else {
     const ap = inp.approved ?? [];
-    out.push(mk(8, ap.length ? "found" : "not_found", ap.map((a) => a.evidenceId), ap.map((a) => `${a.therapy} (${a.regulator})`).join("; ") || undefined, ap.some((a) => !a.verified) ? ["unverified"] : []));
+    const flags8: string[] = [];
+    if (ap.length && ap.every((a) => (a.targets ?? "symptoms") === "symptoms")) flags8.push("symptoms only");
+    if (ap.some((a) => a.targets === "genetic_cause")) flags8.push("targets genetic cause");
+    else if (ap.some((a) => a.targets === "mechanism")) flags8.push("acts on pathway");
+    if (ap.some((a) => !a.verified)) flags8.push("auto-checked");
+    out.push(mk(8, ap.length ? "found" : "not_found", ap.map((a) => a.evidenceId), ap.map((a) => `${a.therapy}, ${a.regulator}`).join("; ") || undefined, flags8));
   }
   return out;
 }
