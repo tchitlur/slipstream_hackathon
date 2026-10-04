@@ -1,5 +1,5 @@
 {
- "builtAt": "2026-10-04T01:58:31.050Z",
+ "builtAt": "2026-10-04T02:37:23.063Z",
  "sources": {
   "g2p": {
    "url": "https://ftp.ebi.ac.uk/pub/databases/gene2phenotype/G2P_data_downloads/2026_09_28/DDG2P_2026-09-28.csv.gz",
@@ -31,7 +31,7 @@
   "reporter": {
    "url": "https://api.reporter.nih.gov/v2/projects/search",
    "version": "FY2024-2027",
-   "retrievedAt": "2026-10-04T01:24:42.927Z"
+   "retrievedAt": "2026-10-04T02:32:11.735Z"
   }
  },
  "counts": {
@@ -59,17 +59,17 @@
   "transferPairs": 2856,
   "transferVerdicts": 19992,
   "verdictDoNotTransfer": 5677,
-  "verdictTransferable": 5758,
-  "verdictNeedsExpertReview": 5701,
+  "verdictTransferable": 5756,
+  "verdictNeedsExpertReview": 5703,
   "clusters": 351,
   "layoutEdges": 13556,
   "demoCandidates": 3,
   "contestedMechanisms": 16,
-  "bridges": 44,
+  "bridges": 43,
   "milestone1_found_deep": 79,
   "milestone2_found_deep": 61,
   "milestone3_found_deep": 66,
-  "milestone4_found_deep": 67,
+  "milestone4_found_deep": 64,
   "milestone5_found_deep": 83,
   "milestone6_found_deep": 57,
   "milestone7_found_deep": 20,
@@ -81,7 +81,7 @@
   "t1ClaimsDiscarded": 30,
   "genesWithModelPapers": 65,
   "grants": 413,
-  "investigators": 1223,
+  "investigators": 1140,
   "investigatorRawMentions": 1454,
   "patientOrgs": 51,
   "patientOrgsVerified": 0,
@@ -108,11 +108,11 @@
   "patientOrgsWithFoundingYear": 23,
   "studiesRecheckedByReview": 25,
   "studiesChangedByReview": 6,
-  "registryRecords": 192,
+  "registryRecords": 180,
   "sharedRegistries": 6,
   "sharedRegistryGeneLinks": 74,
   "orgSharedRegistryLinks": 54,
-  "externalRegistries": 26,
+  "externalRegistries": 14,
   "conditionsInSharedRegistry": 61,
   "targetedGeneProduct": 42,
   "targetedPathway": 13,
@@ -236,5 +236,5 @@
  ],
  "genesDropped": [],
  "notes": [],
- "gitCommit": "55fb687"
+ "gitCommit": "d3c2e82"
 }

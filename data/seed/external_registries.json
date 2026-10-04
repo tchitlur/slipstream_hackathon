@@ -29,7 +29,7 @@
           "snippet": "Until now, there was no existing KCNA2 registry. Families affected by the condition can now participate in a patient registry.",
           "kind": "registry",
           "operator": "Heidelberg University Hospital (Prof. Dr. med. Steffen Syrbe) with Leipzig University",
-          "note": "'The data are collected in Germany as part of a collaboration between Heidelberg University and Leipzig University'"
+          "note": "2026-10-04 evidence check: the URL path says kcnb1-register but the fetched page is titled \"KCNA2 Registry: Heidelberg University Hospital\" and names KCNA2; kept."
         }
       ],
       "searchQuery": "KCNA2 natural history study OR patient registry"
@@ -37,19 +37,10 @@
     {
       "gene": "DNM1",
       "g2pId": "G2P00371",
-      "found": true,
-      "registries": [
-        {
-          "name": "CoRDS (Coordination of Rare Diseases at Sanford)",
-          "url": "https://research.sanfordhealth.org/rare-disease-registry",
-          "snippet": "CoRDS is a centralized international patient registry for all rare diseases.",
-          "kind": "shared_registry",
-          "operator": "Sanford Research",
-          "note": "DNM1 appears only as a partner-group logo labelled 'Mutations in Gene DNM1' on the CoRDS page; no DNM1-specific text."
-        }
-      ],
+      "found": false,
+      "registries": [],
       "searchQuery": "DNM1 natural history study OR patient registry",
-      "note": "Weak evidence: partner logo only."
+      "note": "2026-10-04 evidence check: the CoRDS page shows DNM1 only as a partner logo and its text does not name the gene; entry removed."
     },
     {
       "gene": "HCN1",
@@ -87,16 +78,10 @@
           "kind": "registry",
           "operator": "Dr. Tim Benke (University of Colorado) and Dr. Johannes Lemke (University of Leipzig); GRIN2B Foundation page",
           "note": "Portal (grin-portal.lalresearchgroup.org): 'The project is overseen by Johannes Lemke (contact PI), Steve Traynelis (contact PI), Tim Benke and Dennis Lal.'"
-        },
-        {
-          "name": "GRIN Portal / global GRIN registries",
-          "url": "https://grin-portal.lalresearchgroup.org/",
-          "snippet": "GRIN2A-related disorder is characterized by either mild-to-profound developmental delay",
-          "kind": "registry",
-          "operator": "Johannes Lemke, Steve Traynelis, Tim Benke, Dennis Lal"
         }
       ],
-      "searchQuery": "GRIN2A natural history study OR patient registry"
+      "searchQuery": "GRIN2A natural history study OR patient registry",
+      "note": "2026-10-04 evidence check: grin2b.com registry page fetched and names the gene; GRIN Portal entry dropped because its stored snippet could not be re-found on the page."
     },
     {
       "gene": "GRIN2B",
@@ -112,13 +97,6 @@
           "note": "Portal (grin-portal.lalresearchgroup.org): 'The project is overseen by Johannes Lemke (contact PI), Steve Traynelis (contact PI), Tim Benke and Dennis Lal.'"
         },
         {
-          "name": "GRIN Portal / global GRIN registries",
-          "url": "https://grin-portal.lalresearchgroup.org/",
-          "snippet": "GRIN2B-related disorder is characterized by mild-to-profound developmental delay",
-          "kind": "registry",
-          "operator": "Johannes Lemke, Steve Traynelis, Tim Benke, Dennis Lal"
-        },
-        {
           "name": "Simons Searchlight",
           "url": "https://www.simonssearchlight.org/research/what-we-study/grin2b/",
           "snippet": "Help the Simons Searchlight team learn more about GRIN2B genetic changes by taking part in our research.",
@@ -126,7 +104,8 @@
           "operator": "Simons Foundation (SFARI)"
         }
       ],
-      "searchQuery": "GRIN2B natural history study OR patient registry"
+      "searchQuery": "GRIN2B natural history study OR patient registry",
+      "note": "2026-10-04 evidence check: grin2b.com registry page fetched and names the gene; GRIN Portal entry dropped because its stored snippet could not be re-found on the page."
     },
     {
       "gene": "NRXN1",
@@ -158,13 +137,6 @@
           "note": "Portal (grin-portal.lalresearchgroup.org): 'The project is overseen by Johannes Lemke (contact PI), Steve Traynelis (contact PI), Tim Benke and Dennis Lal.'"
         },
         {
-          "name": "GRIN Portal / global GRIN registries",
-          "url": "https://grin-portal.lalresearchgroup.org/",
-          "snippet": "GRIN2B-related disorder is characterized by mild-to-profound developmental delay",
-          "kind": "registry",
-          "operator": "Johannes Lemke, Steve Traynelis, Tim Benke, Dennis Lal"
-        },
-        {
           "name": "Simons Searchlight",
           "url": "https://www.simonssearchlight.org/research/what-we-study/grin2b/",
           "snippet": "Help the Simons Searchlight team learn more about GRIN2B genetic changes by taking part in our research.",
@@ -172,7 +144,8 @@
           "operator": "Simons Foundation (SFARI)"
         }
       ],
-      "searchQuery": "GRIN2B natural history study OR patient registry"
+      "searchQuery": "GRIN2B natural history study OR patient registry",
+      "note": "2026-10-04 evidence check: grin2b.com registry page fetched and names the gene; GRIN Portal entry dropped because its stored snippet could not be re-found on the page."
     },
     {
       "gene": "STX1B",
@@ -217,25 +190,10 @@
     {
       "gene": "GRIN1",
       "g2pId": "G2P01109",
-      "found": true,
-      "registries": [
-        {
-          "name": "GRIN Variant Patient Registry",
-          "url": "https://grin2b.com/grin-registry/",
-          "snippet": "The GRIN Variant Patient Registry is the primary patient registry to support a comprehensive understanding of all GRIN variants.",
-          "kind": "registry",
-          "operator": "Dr. Tim Benke (University of Colorado) and Dr. Johannes Lemke (University of Leipzig); GRIN2B Foundation page",
-          "note": "Portal (grin-portal.lalresearchgroup.org): 'The project is overseen by Johannes Lemke (contact PI), Steve Traynelis (contact PI), Tim Benke and Dennis Lal.'"
-        },
-        {
-          "name": "GRIN Portal / global GRIN registries",
-          "url": "https://grin-portal.lalresearchgroup.org/",
-          "snippet": "GRIN1-related disorder is characterized by mild-to-profound developmental delay",
-          "kind": "registry",
-          "operator": "Johannes Lemke, Steve Traynelis, Tim Benke, Dennis Lal"
-        }
-      ],
-      "searchQuery": "GRIN1 natural history study OR patient registry"
+      "found": false,
+      "registries": [],
+      "searchQuery": "GRIN1 natural history study OR patient registry",
+      "note": "2026-10-04 evidence check: the GRIN Variant Patient Registry page (grin2b.com) does not name this gene, and the GRIN Portal page names it only in a publications list with a Registry navigation item; neither page states a registry for this gene, so the entries were removed. Simons Searchlight (shared) still applies where listed."
     },
     {
       "gene": "DYRK1A",
@@ -303,26 +261,10 @@
     {
       "gene": "GRIN2D",
       "g2pId": "G2P01878",
-      "found": true,
-      "registries": [
-        {
-          "name": "GRIN Variant Patient Registry",
-          "url": "https://grin2b.com/grin-registry/",
-          "snippet": "The GRIN Variant Patient Registry is the primary patient registry to support a comprehensive understanding of all GRIN variants.",
-          "kind": "registry",
-          "operator": "Dr. Tim Benke (University of Colorado) and Dr. Johannes Lemke (University of Leipzig); GRIN2B Foundation page",
-          "note": "Portal (grin-portal.lalresearchgroup.org): 'The project is overseen by Johannes Lemke (contact PI), Steve Traynelis (contact PI), Tim Benke and Dennis Lal.'"
-        },
-        {
-          "name": "GRIN Portal / global GRIN registries",
-          "url": "https://grin-portal.lalresearchgroup.org/",
-          "snippet": "GRIN2D-related disorder is characterized by moderate-to-profound developmental delay",
-          "kind": "registry",
-          "operator": "Johannes Lemke, Steve Traynelis, Tim Benke, Dennis Lal"
-        }
-      ],
+      "found": false,
+      "registries": [],
       "searchQuery": "GRIN2D natural history study OR patient registry",
-      "note": "grinsyndroom.nl/patient-registry/ also appeared but returned empty content."
+      "note": "2026-10-04 evidence check: the GRIN Variant Patient Registry page (grin2b.com) does not name this gene, and the GRIN Portal page names it only in a publications list with a Registry navigation item; neither page states a registry for this gene, so the entries were removed. Simons Searchlight (shared) still applies where listed."
     },
     {
       "gene": "SNAP25",
@@ -351,7 +293,7 @@
           "snippet": "Until now, there was no existing KCNA2 registry. Families affected by the condition can now participate in a patient registry.",
           "kind": "registry",
           "operator": "Heidelberg University Hospital (Prof. Dr. med. Steffen Syrbe) with Leipzig University",
-          "note": "'The data are collected in Germany as part of a collaboration between Heidelberg University and Leipzig University'"
+          "note": "2026-10-04 evidence check: the URL path says kcnb1-register but the fetched page is titled \"KCNA2 Registry: Heidelberg University Hospital\" and names KCNA2; kept."
         }
       ],
       "searchQuery": "KCNA2 natural history study OR patient registry"
@@ -367,42 +309,18 @@
     {
       "gene": "GRIN1",
       "g2pId": "G2P03206",
-      "found": true,
-      "registries": [
-        {
-          "name": "GRIN Variant Patient Registry",
-          "url": "https://grin2b.com/grin-registry/",
-          "snippet": "The GRIN Variant Patient Registry is the primary patient registry to support a comprehensive understanding of all GRIN variants.",
-          "kind": "registry",
-          "operator": "Dr. Tim Benke (University of Colorado) and Dr. Johannes Lemke (University of Leipzig); GRIN2B Foundation page",
-          "note": "Portal (grin-portal.lalresearchgroup.org): 'The project is overseen by Johannes Lemke (contact PI), Steve Traynelis (contact PI), Tim Benke and Dennis Lal.'"
-        },
-        {
-          "name": "GRIN Portal / global GRIN registries",
-          "url": "https://grin-portal.lalresearchgroup.org/",
-          "snippet": "GRIN1-related disorder is characterized by mild-to-profound developmental delay",
-          "kind": "registry",
-          "operator": "Johannes Lemke, Steve Traynelis, Tim Benke, Dennis Lal"
-        }
-      ],
-      "searchQuery": "GRIN1 natural history study OR patient registry"
+      "found": false,
+      "registries": [],
+      "searchQuery": "GRIN1 natural history study OR patient registry",
+      "note": "2026-10-04 evidence check: the GRIN Variant Patient Registry page (grin2b.com) does not name this gene, and the GRIN Portal page names it only in a publications list with a Registry navigation item; neither page states a registry for this gene, so the entries were removed. Simons Searchlight (shared) still applies where listed."
     },
     {
       "gene": "DNM1",
       "g2pId": "G2P03414",
-      "found": true,
-      "registries": [
-        {
-          "name": "CoRDS (Coordination of Rare Diseases at Sanford)",
-          "url": "https://research.sanfordhealth.org/rare-disease-registry",
-          "snippet": "CoRDS is a centralized international patient registry for all rare diseases.",
-          "kind": "shared_registry",
-          "operator": "Sanford Research",
-          "note": "DNM1 appears only as a partner-group logo labelled 'Mutations in Gene DNM1' on the CoRDS page; no DNM1-specific text."
-        }
-      ],
+      "found": false,
+      "registries": [],
       "searchQuery": "DNM1 natural history study OR patient registry",
-      "note": "Weak evidence: partner logo only."
+      "note": "2026-10-04 evidence check: the CoRDS page shows DNM1 only as a partner logo and its text does not name the gene; entry removed."
     },
     {
       "gene": "GRIN2A",
@@ -416,16 +334,10 @@
           "kind": "registry",
           "operator": "Dr. Tim Benke (University of Colorado) and Dr. Johannes Lemke (University of Leipzig); GRIN2B Foundation page",
           "note": "Portal (grin-portal.lalresearchgroup.org): 'The project is overseen by Johannes Lemke (contact PI), Steve Traynelis (contact PI), Tim Benke and Dennis Lal.'"
-        },
-        {
-          "name": "GRIN Portal / global GRIN registries",
-          "url": "https://grin-portal.lalresearchgroup.org/",
-          "snippet": "GRIN2A-related disorder is characterized by either mild-to-profound developmental delay",
-          "kind": "registry",
-          "operator": "Johannes Lemke, Steve Traynelis, Tim Benke, Dennis Lal"
         }
       ],
-      "searchQuery": "GRIN2A natural history study OR patient registry"
+      "searchQuery": "GRIN2A natural history study OR patient registry",
+      "note": "2026-10-04 evidence check: grin2b.com registry page fetched and names the gene; GRIN Portal entry dropped because its stored snippet could not be re-found on the page."
     },
     {
       "gene": "SCN1B",

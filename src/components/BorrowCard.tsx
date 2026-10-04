@@ -60,6 +60,25 @@ export function BorrowCard({ v, neighborName, eligibility }: { v: TransferVerdic
       ) : (
         <p className="text-xs text-muted">No specific record of this asset type was found for {neighborName} in the sources searched; the verdict describes what would apply if one existed.</p>
       )}
+      {v.exclusions.length > 0 && (
+        <div className="border border-[#fcd34d] bg-[#fffbeb] rounded-md p-3 space-y-2">
+          <div className="text-xs uppercase tracking-wide text-warn">Eligibility that depends on the variant class</div>
+          {v.exclusions.slice(0, 3).map((x) => (
+            <div key={x.studyId} className="text-sm">
+              <a href={`https://clinicaltrials.gov/study/${x.studyId}`} target="_blank" rel="noopener noreferrer" className="underline font-medium">
+                {x.studyId}
+              </a>{" "}
+              excludes <span className="text-ink font-medium">{x.excludes}</span>: this trial&apos;s eligibility rules out that class of variants, so whether a family qualifies depends on their own variant, not on the diagnosis.
+              <blockquote className="mt-1 border-l-2 border-[#1e3a8a] pl-2 text-ink-2">
+                <mark className="bg-[#fff3b0] px-0.5">“{x.quote}”</mark>{" "}
+                <EvidenceLink ids={[x.evidenceId]} title={`${x.studyId} eligibility`} className="text-xs text-muted underline decoration-dotted">
+                  verified quote
+                </EvidenceLink>
+              </blockquote>
+            </div>
+          ))}
+        </div>
+      )}
       {v.ruleId === "R7" && eligibility && eligibility.length > 0 && (
         <div className="space-y-2">
           <div className="text-xs uppercase tracking-wide text-muted">Eligibility excerpts to take to the study team</div>

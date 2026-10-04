@@ -22,6 +22,9 @@ Session start: 2026-10-03 19:13 UTC. Deadline: 2026-10-04 06:00 EST (10:00 UTC).
 ## Second review pass (2026-10-04)
 - Shared-registry layer (6 registries, 74 gene links, 54 organization-page links, 26 external registries), three-state milestones 4 and 7, three-level target labels for 65 trials and 11 therapies, "different mechanism also reported" flag, demo re-selected to CHD2 with SCN1A (counterexample KCNA2 gain of function), briefs regenerated, shot lists rewritten.
 
+## Final pass before recording (2026-10-04)
+- Registry evidence re-check (3 web-search entries dropped, KCNA2 kept with note), C2/C3/C4 restricted to R4 to R7 with new C9 on R1/R2, inline exclusion evidence on R4/R7 cards, "What to do this week" box on every borrow page, expert-question wording, baseline by condition name with disease-name search (14 pairs, median 6.7 years), Method page text, investigator merge/title/fellowship rules, shot lists refreshed.
+
 ## Next (for the human)
 - See `HUMAN_TODO.md`: Vercel deploy and production URL, verify patient organizations, review `docs/DATA_NOTES.md`, confirm the demo condition, supply the sourced 10x baseline, record the videos.
 

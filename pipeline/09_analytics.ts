@@ -10,6 +10,7 @@ import forceAtlas2 from "graphology-layout-forceatlas2";
 import { readValidated, readJsonOr, writeJson, log, uniq } from "./lib/io";
 import { files, TRANSFERS_DIR } from "./lib/paths";
 import { readAllNeighbors, writeSimilarity } from "./lib/similarityStore";
+import { findBaselineStudies, type BaselineStudy } from "./lib/baselineStudies";
 import { writeEvidence, readEvidence } from "./lib/evidence";
 import { updateManifest } from "./lib/manifest";
 import {
@@ -36,7 +37,7 @@ import {
 } from "../src/lib/schemas";
 import { computeLadder, aheadOn, isUsableStudyStatus, MILESTONES } from "../src/lib/ladder";
 import { mechanismRelation } from "../src/lib/roads";
-import { RULES, COUNTER_PRIORITY, ALWAYS_C2, type RuleContext } from "../src/lib/transferRules";
+import { RULES, COUNTER_PRIORITY, ALWAYS_C2, MECHANISM_RULES, type RuleContext } from "../src/lib/transferRules";
 import { closureOf } from "../src/lib/similarity";
 import { z } from "zod";
 
@@ -120,8 +121,33 @@ async function main() {
     };
   }
 
-  // ---- 10x baseline (ITEM 5): organization founding year paired with the earliest registry / natural history study start.
-  writeJson(files.baseline, computeBaseline(orgs, studies), { pretty: true });
+  // ---- 10x baseline (ITEM 5): organization founding year paired with the earliest registry / natural history study of the
+  // SAME CONDITION (matched by disease name, not merely by gene), including earlier studies found by a disease-name search.
+  const recon = readJsonOr<{ decisions: { name?: string; recordId: string; conditionId: string | null; method: string; source: string }[] } | null>(files.reconciliation, null);
+  const byNameStudyCond = new Set<string>();
+  // Disease names that ClinicalTrials.gov records used for each condition and that were matched to it by name (not gene):
+  // these feed the disease-name search (for SCN1A this adds "Dravet Syndrome", which Gene2Phenotype does not list).
+  const reconNames = new Map<string, string[]>();
+  for (const d of recon?.decisions ?? []) {
+    if (d.source !== "ctgov" || !d.conditionId || d.method === "none" || d.method === "gene") continue;
+    byNameStudyCond.add(`${d.recordId}|${d.conditionId}`);
+    if (d.name && !/^[A-Z0-9]{3,8}$/.test(d.name)) {
+      const arr = reconNames.get(d.conditionId) ?? [];
+      if (!arr.some((n) => n.toLowerCase() === d.name!.toLowerCase())) arr.push(d.name);
+      reconNames.set(d.conditionId, arr);
+    }
+  }
+  for (const s of studies) for (const h of s.hits) if (h.via === "cond" && !/^[A-Z0-9]{3,8}$/.test(h.query)) byNameStudyCond.add(`${s.id}|${h.conditionId}`);
+  const extra = await findBaselineStudies(orgs.filter((o) => o.verified || o.check?.status === "auto"), atlas.conditions, reconNames);
+  const extraEvidence: Evidence[] = [];
+  for (const x of extra) {
+    const id = `ev:ctgov:${x.id}:baseline`;
+    if (extraEvidence.some((e) => e.id === id)) continue;
+    extraEvidence.push({ id, kind: "curated", source: "ctgov", sourceId: x.id, url: `https://clinicaltrials.gov/study/${x.id}`, retrievedAt: x.retrievedAt, confidence: "medium", title: `${x.id}: ${x.title}`, note: `Observational study found by a ClinicalTrials.gov disease-name search ("${x.matchedName}") for the baseline; read as a registry or natural history study from its ${x.via === "title" ? "title" : "prospective cohort design"}, not by the T2 classifier. Start ${x.startDate}.` });
+  }
+  newEvidence.push(...extraEvidence);
+  writeJson(files.baseline, computeBaseline(orgs, studies, byNameStudyCond, extra), { pretty: true });
+  log("S9", `baseline: ${extra.length} earlier observational studies found by disease-name search`);
 
   // ---- Neighbors: relation, aheadOn, shared investigators
   const invByCond = new Map<string, string[]>();
@@ -178,7 +204,8 @@ async function main() {
           if (!applicable.some((a) => a.code === code)) applicable.push({ code, text, evidenceIds });
         };
         const mechRule = ALWAYS_C2.includes(rule.id);
-        if (focal.contested || nb.contested) {
+        const isMechanismRule = MECHANISM_RULES.includes(rule.id);
+        if (isMechanismRule && (focal.contested || nb.contested)) {
           const flagged = [focal, nb].filter((c) => c.contested);
           const text = flagged.map((c) => (c.contested!.kind === "both_directions" ? `${c.geneSymbol}: published cases document variants acting in more than one direction; the curated direction is not the only one seen in patients, so which applies depends on the individual variant.` : c.contested!.kind === "different_mechanism" ? `${c.geneSymbol}: a different mechanism (dominant negative) is also reported for some variants alongside the curated loss of function; which applies depends on the individual variant.` : `${c.geneSymbol}: published claims dispute the curated direction for the same class of variants.`)).join(" ");
           add("C3", text, flagged.flatMap((c) => c.contested!.claims.map((x) => x.evidenceId)));
@@ -194,7 +221,9 @@ async function main() {
           add("C7", assetStudies.length === 1 ? `This asset rests on a single study (${s0.id}, status ${s0.status.toLowerCase().replace(/_/g, " ")}).` : `All supporting studies are ${s0.status.toLowerCase().replace(/_/g, " ")}.`, assetStudies.flatMap((s) => s.evidenceIds));
         }
         if (rule.id === "R3" && nbOrgs.some((o) => !o.verified)) add("C8", nbOrgs.some((o) => o.check?.status === "auto") ? `The organization listing for ${nb.name} passed only an automated check of its own site on ${nbOrgs.find((o) => o.check?.status === "auto")!.check!.date}; no human has verified it.` : `The organization listing for ${nb.name} has not been checked.`, nbOrgs.flatMap((o) => o.evidenceIds));
-        if (!applicable.length) add("C2", "Even where phenotypes match closely, mechanism is recorded per gene and disease; an individual's variant may act differently. Confirm the variant class with a clinical geneticist.", [focal.evidenceIds[0]]);
+        // R1 and R2 always carry the age-of-onset and severity caution (SPEC R2); it is also the fallback for R1 to R3.
+        if (rule.id === "R1" || rule.id === "R2" || (!isMechanismRule && !applicable.length)) add("C9", `Registry items, visit schedules and outcome measures depend on age of onset and severity, which phenotype similarity does not check; review both for ${focal.geneSymbol} against ${nb.geneSymbol} before adopting anything.`, n.evidenceIds);
+        if (isMechanismRule && !applicable.length) add("C2", "Even where phenotypes match closely, mechanism is recorded per gene and disease; an individual's variant may act differently. Confirm the variant class with a clinical geneticist.", [focal.evidenceIds[0]]);
         const order = COUNTER_PRIORITY[rule.id];
         applicable.sort((a, b) => (order.indexOf(a.code) === -1 ? 99 : order.indexOf(a.code)) - (order.indexOf(b.code) === -1 ? 99 : order.indexOf(b.code)));
 
@@ -221,7 +250,8 @@ async function main() {
         const validRecords = assetRecords.filter((r) => evidenceAll[r.evidenceId] || newEvidence.some((e) => e.id === r.evidenceId) || ruleEvidence.some((e) => e.id === r.evidenceId));
 
         const evIds = uniq([`ev:rule:${rule.id}`, ...n.evidenceIds, ...validRecords.map((r) => r.evidenceId)]);
-        verdicts.push({ ruleId: rule.id, asset: rule.asset, verdict: res.verdict, reason: res.reason, assetRecords: validRecords, counterReasons: applicable, evidenceIds: evIds, warning: Boolean(res.warning) });
+        const exclusions = rule.id === "R4" || rule.id === "R7" ? nbTargeted.filter((s) => s.classification?.excludesMechanism && s.classification.excludesQuoteVerified && s.evidenceIds.some((e) => e.endsWith(":excludes"))).map((s) => ({ studyId: s.id, title: s.briefTitle, excludes: s.classification!.excludesMechanism!, quote: s.classification!.excludesQuote ?? "", evidenceId: s.evidenceIds.find((e) => e.endsWith(":excludes"))! })) : [];
+        verdicts.push({ ruleId: rule.id, asset: rule.asset, verdict: res.verdict, reason: res.reason, assetRecords: validRecords, counterReasons: applicable, evidenceIds: uniq([...evIds, ...exclusions.map((x) => x.evidenceId)]), warning: Boolean(res.warning), exclusions });
         for (const a of applicable) counterCounts[a.code] = (counterCounts[a.code] ?? 0) + 1;
         verdictCounts[res.verdict ?? "none"] = (verdictCounts[res.verdict ?? "none"] ?? 0) + 1;
       }
@@ -366,7 +396,13 @@ async function main() {
   for (const [focalId, ps] of byFocal) writeJson(path.join(TRANSFERS_DIR, `${focalId.replace(/^cond:/, "")}.json`), { focalId, pairs: ps }, { pretty: false });
   writeJson(files.transfers, { cutoffs: { high: sim.cutoffs.high, medium: sim.cutoffs.medium }, focalIds: [...byFocal.keys()], pairCount: Object.keys(pairs).length }, { pretty: false });
   writeJson(files.atlas, atlas, { pretty: false });
-  writeEvidence(["ev:rule:R", "ev:seed:therapy:"], [...ruleEvidence, ...newEvidence]);
+  writeEvidence(["ev:rule:R", "ev:seed:therapy:", "ev:ctgov:", ":baseline"].slice(0, 2), [...ruleEvidence, ...newEvidence]);
+  // Baseline study records use a distinct suffix so they can be replaced without touching S5's study evidence.
+  {
+    const all = readEvidence();
+    for (const id of Object.keys(all)) if (id.startsWith("ev:ctgov:") && id.endsWith(":baseline") && !newEvidence.some((e) => e.id === id)) delete all[id];
+    writeJson(files.evidence, all, { pretty: false });
+  }
   const found = Object.values(ladders).filter((l) => l.conditionId && condById.get(l.conditionId)!.depth === "deep");
   const perMilestone = MILESTONES.map((m) => found.filter((l) => l.milestones[m.n - 1].status === "found").length);
   updateManifest((m) => {
@@ -390,22 +426,29 @@ async function main() {
   log("S9", `demo candidates: ${demo.slice(0, 5).map((d) => `${condById.get(d.conditionId)!.geneSymbol}->${condById.get(d.neighborId)!.geneSymbol}(${d.score})`).join(", ")}`);
 }
 
-function computeBaseline(orgs: PatientOrg[], studies: Study[]) {
+function computeBaseline(orgs: PatientOrg[], studies: Study[], byNameStudyCond: Set<string>, extra: BaselineStudy[]) {
   const pairs: z.infer<typeof BaselineFileSchema>["pairs"] = [];
   const passed = orgs.filter((o) => o.verified || o.check?.status === "auto");
   for (const o of passed) {
     if (!o.founded) continue;
-    // Earliest registry or natural history study for the condition that started after the organization was founded;
-    // a study that predates the group is not a milestone the group reached.
-    const reg = studies
-      .filter((s) => s.classification?.aboutCondition && (s.classification.role === "registry" || s.classification.role === "natural_history") && s.startDate && Number(s.startDate.slice(0, 4)) >= o.founded!.year && s.conditionIds.some((cid) => o.conditionIds.includes(cid)))
-      .sort((a, b) => (a.startDate ?? "").localeCompare(b.startDate ?? ""));
-    const first = reg[0];
+    // Candidates: classified registry/NHS studies whose record names the organization's condition (not just its gene),
+    // plus earlier observational studies from the disease-name search. Only studies starting in or after the founding year.
+    type Cand = { id: string; title: string; role: string; startDate: string; evidenceIds: string[] };
+    const cands: Cand[] = [];
+    for (const s of studies) {
+      if (!(s.classification?.aboutCondition && (s.classification.role === "registry" || s.classification.role === "natural_history") && s.startDate)) continue;
+      if (!o.conditionIds.some((cid) => s.conditionIds.includes(cid) && byNameStudyCond.has(`${s.id}|${cid}`))) continue;
+      if (Number(s.startDate.slice(0, 4)) < o.founded.year) continue;
+      cands.push({ id: s.id, title: s.briefTitle, role: s.classification.role, startDate: s.startDate, evidenceIds: s.evidenceIds });
+    }
+    for (const x of extra) if (x.orgId === o.id && !cands.some((c) => c.id === x.id)) cands.push({ id: x.id, title: x.title, role: "natural_history", startDate: x.startDate, evidenceIds: [`ev:ctgov:${x.id}:baseline`] });
+    cands.sort((a, b) => a.startDate.localeCompare(b.startDate));
+    const first = cands[0];
     if (!first) continue;
-    const startYear = Number(first.startDate!.slice(0, 4));
-    const startMonth = first.startDate!.length >= 7 ? Number(first.startDate!.slice(5, 7)) : 6;
+    const startYear = Number(first.startDate.slice(0, 4));
+    const startMonth = first.startDate.length >= 7 ? Number(first.startDate.slice(5, 7)) : 6;
     const years = Number((startYear + (startMonth - 1) / 12 - o.founded.year).toFixed(1));
-    pairs.push({ orgId: o.id, orgName: o.name, foundedYear: o.founded.year, foundedUrl: o.founded.url, foundedSnippet: o.founded.snippet, conditionIds: o.conditionIds, studyId: first.id, studyTitle: first.briefTitle, studyRole: first.classification!.role, studyStartDate: first.startDate!, years, evidenceIds: [...o.evidenceIds, ...first.evidenceIds] });
+    pairs.push({ orgId: o.id, orgName: o.name, foundedYear: o.founded.year, foundedUrl: o.founded.url, foundedSnippet: o.founded.snippet, conditionIds: o.conditionIds, studyId: first.id, studyTitle: first.title, studyRole: first.role, studyStartDate: first.startDate, years, evidenceIds: [...o.evidenceIds, ...first.evidenceIds] });
   }
   const ys = pairs.map((p) => p.years).sort((a, b) => a - b);
   const median = ys.length ? (ys.length % 2 ? ys[(ys.length - 1) / 2] : (ys[ys.length / 2 - 1] + ys[ys.length / 2]) / 2) : null;
@@ -418,8 +461,11 @@ function expertQuestion(code: CounterCode, focal: Condition, nb: Condition): str
       return `Does the overlap between ${focal.geneSymbol} and ${nb.geneSymbol} go beyond common features such as seizures and developmental delay, in your clinical experience?`;
     case "C2":
       return `Has our child's specific ${focal.geneSymbol} variant been functionally classified (loss of function, gain of function or dominant negative), and does it match the mechanism recorded for the condition?`;
-    case "C3":
-      return `Published claims disagree with the curated mechanism for ${focal.contested ? focal.geneSymbol : nb.geneSymbol}. Which direction do you consider established, and on what evidence?`;
+    case "C3": {
+      const flagged = focal.contested ? focal : nb;
+      if (flagged.contested?.kind === "both_directions" || flagged.contested?.kind === "different_mechanism") return `${flagged.geneSymbol} variants are reported with more than one mechanism. Which class does our family's variant belong to, and has that been shown functionally?`;
+      return `Published claims disagree with the curated mechanism for ${flagged.geneSymbol} for the same class of variants. Which direction do you consider established, and on what evidence?`;
+    }
     case "C4":
       return `The curated mechanism is inferred from variant types rather than functional studies. What functional evidence exists for ${focal.geneSymbol}?`;
     case "C5":
@@ -430,6 +476,8 @@ function expertQuestion(code: CounterCode, focal: Condition, nb: Condition): str
       return `The neighbor's asset rests on a single or inactive study. Is there other work on ${nb.geneSymbol} that we should know about?`;
     case "C8":
       return `Is the patient organization listed for ${nb.geneSymbol} the right contact, and does it run a registry?`;
+    case "C9":
+      return `Do the age of onset and typical severity of ${nb.geneSymbol}-related disease match ours closely enough for its registry items and outcome measures to apply?`;
     default:
       return null;
   }

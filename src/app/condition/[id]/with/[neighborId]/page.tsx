@@ -8,8 +8,10 @@ import { RelationChip, SimilarityBar } from "@/components/Ladder";
 import { RoadBadge, Chip } from "@/components/Badges";
 import { BorrowCard } from "@/components/BorrowCard";
 import { BriefView } from "@/components/BriefView";
+import { NextSteps, buildSteps } from "@/components/NextSteps";
 import { MILESTONES } from "@/lib/ladder";
 import { humanAllelic } from "@/lib/format";
+import type { Investigator } from "@/lib/schemas";
 
 export const dynamic = "force-static";
 export const dynamicParams = true;
@@ -50,7 +52,9 @@ export default async function BorrowPage({ params }: { params: Promise<{ id: str
   const onlyFocal = [...focalTerms].filter((t) => !nbTerms.has(t)).map((t) => ph!.terms[t]).filter(Boolean).sort((a, b) => b.ic - a.ic).slice(0, 5);
   const onlyNb = [...nbTerms].filter((t) => !focalTerms.has(t)).map((t) => ph!.terms[t]).filter(Boolean).sort((a, b) => b.ic - a.ic).slice(0, 5);
 
-  const evidenceIds = collectEvidenceIds(focal, nb, edge, pair, fl, nl, nbOrgs, nbStudies, brief);
+  const bridges = (edge?.sharedInvestigatorIds ?? []).map((id) => store.investigators[id]).filter((i): i is Investigator => Boolean(i));
+  const week = edge && pair ? buildSteps({ focal, nb, pair, edge, nbOrgs, bridges }) : null;
+  const evidenceIds = collectEvidenceIds(focal, nb, edge, pair, fl, nl, nbOrgs, nbStudies, brief, week?.steps);
   if (focal.contested) {
     evidenceIds.add(focal.contested.curatedEvidenceId);
     focal.contested.claims.forEach((c) => evidenceIds.add(c.evidenceId));
@@ -87,6 +91,7 @@ export default async function BorrowPage({ params }: { params: Promise<{ id: str
           <h1 className="text-3xl sm:text-4xl leading-tight">
             {focal.geneSymbol} <span className="text-muted">with</span> {nb.geneSymbol}
           </h1>
+          {week && <NextSteps steps={week.steps} counterexample={week.counterexample} focalGene={focal.geneSymbol} neighborGene={nb.geneSymbol} />}
           <div className="grid sm:grid-cols-2 gap-4">
             {[focal, nb].map((c, i) => {
               const l = i === 0 ? fl : nl;

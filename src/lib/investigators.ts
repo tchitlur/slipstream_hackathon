@@ -49,15 +49,29 @@ export function looksLikePerson(name: string): boolean {
   return true;
 }
 
+const TITLE_AS_ORG = /\b(director|monitor|professor|investigator|physician|student|chair|president|officer|chief|coordinator|manager|fellow|scientist|consultant|nurse|lead|head|md|phd)\b/i;
+/** Organization strings that are really job titles (e.g. "Medical Director", "Principal Investigator") are dropped. */
+export function isJobTitle(org: string): boolean {
+  const o = org.trim();
+  if (!o) return true;
+  if (/\b(university|hospital|institute|college|center|centre|clinic|foundation|school|inc\b|ltd|llc|laborator|medical center|health|pharma|therapeutics|biosciences|research|trust|children|department|dept)/i.test(o)) return false;
+  return TITLE_AS_ORG.test(o) && o.split(/\s+/).length <= 4;
+}
+
 export function mergeInvestigators(raws: RawMention[]): Investigator[] {
   const groups: { key: string; surname: string; initial: string; display: string; orgs: Set<string>; records: Investigator["records"]; recordKeys: Set<string> }[] = [];
-  for (const r of raws) {
-    if (!looksLikePerson(r.name)) continue;
-    const n = normalizeName(r.name);
+  for (const raw of raws) {
+    if (!looksLikePerson(raw.name)) continue;
+    const n = normalizeName(raw.name);
     if (!n.surname || n.surname.length < 2) continue;
+    // A job title ("Professor", "Principal Investigator") is never shown as an organization.
+    const r: RawMention = raw.org && isJobTitle(raw.org) ? { ...raw, org: undefined } : raw;
     const org = (r.org ?? "").toLowerCase().replace(/[^a-z0-9]/g, "").slice(0, 40);
     const recKey = `${r.record.kind}:${r.record.id}`;
-    const g = groups.find((g) => g.surname === n.surname && g.initial === n.initial && ((org && g.orgs.has(org)) || g.recordKeys.has(recKey)));
+    // Merge on the same surname and initial when the organization matches, the record is shared, or the full name is
+    // identical and the two mentions are linked to the same condition.
+    const fullKey = n.display.toLowerCase();
+    const g = groups.find((g) => g.surname === n.surname && g.initial === n.initial && ((org && g.orgs.has(org)) || g.recordKeys.has(recKey) || (g.display.toLowerCase() === fullKey && g.records.some((x) => x.conditionIds.some((c) => r.record.conditionIds.includes(c))))));
     if (g) {
       if (org) g.orgs.add(org);
       g.recordKeys.add(recKey);
@@ -70,6 +84,9 @@ export function mergeInvestigators(raws: RawMention[]): Investigator[] {
   }
   const orgDisplay = new Map<string, string>();
   for (const r of raws) if (r.org) orgDisplay.set(r.org.toLowerCase().replace(/[^a-z0-9]/g, "").slice(0, 40), r.org);
+  const fellowshipOnly = (g: (typeof groups)[number]) => g.records.length > 0 && g.records.every((r) => r.kind === "grant" && /^[FK]\d\d/.test(r.id));
+  // Investigators whose only links are fellowship or career awards (F- and K-series) list after the others.
+  groups.sort((a, b) => Number(fellowshipOnly(a)) - Number(fellowshipOnly(b)));
   return groups.map((g, i) => ({
     id: `inv:${slugify(g.display) || g.surname}-${i + 1}`,
     displayName: g.display,
