@@ -42,10 +42,10 @@ export function buildPack(focalId: string, neighborId: string): EvidencePack | n
 
 export async function generateOneBrief(pack: EvidencePack, model: string, stage = "S10"): Promise<Brief> {
   const packIds = packEvidenceIdSet(pack);
-  const user = `EVIDENCE PACK\n${packSummary(pack)}`;
+  const user = `RECORDS (each line carries the evidence ids you may cite)\n${packSummary(pack)}`;
   let attempt = 0;
   for (;;) {
-    const r = await llmStructured({ task: "T4", stage, model, schema: BriefOutputSchema, schemaName: "brief", system: T4_SYSTEM + (attempt ? "\nYour previous draft had too many sentences without valid evidence ids. Cite ids from the pack on every factual sentence." : ""), user, reasoning: "low", maxOutputTokens: 9000 });
+    const r = await llmStructured({ task: "T4", stage, model, schema: BriefOutputSchema, schemaName: "brief", system: T4_SYSTEM + (attempt ? "\nYour previous draft had too many sentences without valid evidence ids. Cite ids from the records on every factual sentence." : ""), user, reasoning: "low", maxOutputTokens: 9000 });
     const g = groundingCheck(r.data, packIds);
     if (g.total > 0 && g.dropped / g.total <= 0.2) {
       return { focalId: pack.focal.id, neighborId: pack.neighbor.id, generatedAt: new Date().toISOString(), mode: "llm", model, sections: g.sections, glossary: r.data.glossary.slice(0, 6), droppedSentences: g.dropped };

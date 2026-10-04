@@ -1,0 +1,288 @@
+{
+ "comparedAt": "2026-10-04",
+ "model": "gpt-5.4",
+ "reviewedNow": 102,
+ "reviewedEarlier": 93,
+ "differing": [
+  {
+   "evidenceId": "ev:pubmed:34431999:claim:1",
+   "gene": "SCN8A",
+   "pmid": "34431999",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "keep",
+    "sameVariantClassDispute": true,
+    "reason": "In a large SCN8A patient cohort, patch-clamp studies of patient missense variants showed that variants causing developmental and epileptic encephalopathy had strong gain-of-function, directly opposing the curated dominant-negative direction for the same disease context."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:34431999:claim:5",
+   "gene": "SCN8A",
+   "pmid": "34431999",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": true
+   },
+   "now": {
+    "decision": "keep",
+    "sameVariantClassDispute": false,
+    "reason": "In a large SCN8A patient cohort with functional testing, focal/DEE cases carried gain-of-function variants while generalized epilepsy/no-epilepsy cases carried loss-of-function variants, showing mixed disease directions in patient variants."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:31904118:claim:1",
+   "gene": "SCN8A",
+   "pmid": "31904118",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "reject",
+    "sameVariantClassDispute": false,
+    "reason": "The abstract functionally discusses epilepsy-associated SCN8A patient mutations as gain-of-function, but the loss-of-function statement is only a general background assertion about intellectual disability/other disorders and does not present or characterize specific patient variants."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:28212175:claim:0",
+   "gene": "GRIN2A",
+   "pmid": "28212175",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "reject",
+    "sameVariantClassDispute": false,
+    "reason": "This review abstract only generally mentions precision medicine for GRIN2A 'gain-of-function mutations' and provides no specific patient variants or functional data establishing direction."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:34353676:claim:1",
+   "gene": "SCN8A",
+   "pmid": "34353676",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": true
+   },
+   "now": {
+    "decision": "keep",
+    "sameVariantClassDispute": false,
+    "reason": "This review states that SCN8A variants in patients with epilepsy result primarily in Nav1.6 gain-of-function, a direction different from the curated dominant-negative mechanism, but it does not present a same-variant-class head-to-head dispute."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:40998073:claim:0",
+   "gene": "KCNQ2",
+   "pmid": "40998073",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "keep",
+    "sameVariantClassDispute": true,
+    "reason": "The abstract studies patient-derived KCNQ2-DEE neurons and states that dominant-negative patient KCNQ2 variants diminish M-current (loss of function), directly opposing the curated gain-of-function direction for KCNQ2 epileptic encephalopathy."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:27733563:claim:0",
+   "gene": "KCNA2",
+   "pmid": "27733563",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "reject",
+    "sameVariantClassDispute": false,
+    "reason": "The abstract functionally shows patient KCNA2 variants with dominant-negative loss of channel function, which aligns with the existing loss-of-function curated record and does not provide an opposite-direction mechanism."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:31353862:claim:0",
+   "gene": "KCNC1",
+   "pmid": "31353862",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "keep",
+    "sameVariantClassDispute": true,
+    "reason": "In five affected individuals with de novo KCNC1 missense variants, functional assays showed no measurable currents and dominant-negative effects, supporting loss of function/opposite direction to the curated gain-of-function record."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:37537625:claim:0",
+   "gene": "GRIN1",
+   "pmid": "37537625",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "reject",
+    "sameVariantClassDispute": false,
+    "reason": "The abstract is a therapeutic n-of-1 intrathecal magnesium trial and only cites a previously known GRIN1 gain-of-function property to justify treatment, without presenting patient-variant functional characterization in the abstract."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:28611597:claim:1",
+   "gene": "GRIN2A",
+   "pmid": "28611597",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "reject",
+    "sameVariantClassDispute": false,
+    "reason": "Functional testing of patient GRIN2A missense variants showed reduced surface expression/current amplitude and a dominant-negative reduction of NMDAR currents, which is consistent with loss of function rather than a different direction from the curated record."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:29317596:claim:0",
+   "gene": "GRIN2D",
+   "pmid": "29317596",
+   "earlier": {
+    "decision": "reject",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "keep",
+    "sameVariantClassDispute": false,
+    "reason": "The abstract reports a GRIN2D splice-site variant identified in affected individuals and functionally tested by minigene assay, supporting intron retention consistent with loss of function, opposite to the curated gain-of-function mechanism."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:27367160:claim:1",
+   "gene": "GABRG2",
+   "pmid": "27367160",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "reject",
+    "sameVariantClassDispute": false,
+    "reason": "This review states that all reported GABRG2 patient mutations reduced GABAA receptor channel function, with dominant-negative suppression as one mechanism, so it does not provide a patient-variant direction different from the curated loss-of-function record."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:27340224:claim:0",
+   "gene": "GABRG2",
+   "pmid": "27340224",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "reject",
+    "sameVariantClassDispute": false,
+    "reason": "The abstract functionally studies a patient-associated GABRG2 Q390X variant in KI mice, but describes it as a loss-of-function mutation with dominant-negative suppression/toxicity, not a patient-variant effect in a different direction from the curated loss of function."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:36979350:claim:1",
+   "gene": "GABRG2",
+   "pmid": "36979350",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "reject",
+    "sameVariantClassDispute": false,
+    "reason": "The abstract functionally characterizes patient GABRG2 variants as causing loss of GABAA receptor function, with a dominant-negative effect on receptor biogenesis, which is consistent with the curated loss-of-function mechanism rather than an opposite direction."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:30568575:claim:1",
+   "gene": "UBE3A",
+   "pmid": "30568575",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "reject",
+    "sameVariantClassDispute": false,
+    "reason": "The abstract is a review and its opposing-direction evidence is chiefly UBE3A duplication/triplication (dosage/CNV context) in autism, while the mention of 'gain-of-function mutations' is vague and not supported by patient-variant functional data in the abstract."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:17377962:claim:0",
+   "gene": "SATB2",
+   "pmid": "17377962",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": true
+   },
+   "now": {
+    "decision": "reject",
+    "sameVariantClassDispute": false,
+    "reason": "Although a de novo SATB2 nonsense variant was found in a patient, the abstract only shows stable mutant RNA and merely predicts a truncated protein might act dominant-negatively, without functional evidence demonstrating variant direction."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:28911200:claim:1",
+   "gene": "EEF1A2",
+   "pmid": "28911200",
+   "earlier": {
+    "decision": "reject",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "keep",
+    "sameVariantClassDispute": false,
+    "reason": "This abstract reports a homozygous patient EEF1A2 missense variant with functional assays in yeast and zebrafish showing deficient/non-rescuing activity, supporting loss of function in contrast to the curated gain-of-function disease mechanism."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:38179821:claim:0",
+   "gene": "EEF1A2",
+   "pmid": "38179821",
+   "earlier": {
+    "decision": "reject",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "keep",
+    "sameVariantClassDispute": false,
+    "reason": "This abstract functionally studies the patient missense variant E122K in a knock-in mouse and reports tissue-specific instability consistent with loss of function in skeletal muscle, even though it also suggests possible toxic gain/dominant-negative effects rather than a clean opposite conclusion for the heterozygous disease mechanism."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:29758257:claim:1",
+   "gene": "GNAO1",
+   "pmid": "29758257",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "reject",
+    "sameVariantClassDispute": false,
+    "reason": "This abstract is a mechanistic review proposing a LOF/GOF model for reported GNAO1 phenotypes, but it does not present direct functional characterization of patient variants or new patient-variant direction data."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:34508586:claim:1",
+   "gene": "GNAO1",
+   "pmid": "34508586",
+   "earlier": {
+    "decision": "keep",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "reject",
+    "sameVariantClassDispute": false,
+    "reason": "Although the abstract notes dominant-negative behavior in heterozygous/overexpression assays, it functionally characterizes the tested GNAO1 patient variants overall as strong loss-of-function rather than asserting an opposite direction to the curated LOF record."
+   }
+  }
+ ]
+}

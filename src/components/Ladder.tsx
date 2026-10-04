@@ -40,12 +40,12 @@ export function RelationChip({ relation, curatedRelation }: { relation?: Mechani
 
 export function SimilarityBar({ value, band }: { value: number; band?: "high" | "medium" | "low" }) {
   return (
-    <span className="inline-flex items-center gap-1.5 text-xs text-ink-2" title={`Phenotype similarity (simGIC): ${value.toFixed(2)}, ${band ?? ""}`}>
+    <span className="inline-flex items-center gap-1.5 text-xs text-ink-2" title={`Phenotype similarity (simGIC): ${value.toFixed(3)}, ${band ?? ""}`}>
       <span className="inline-block h-1.5 w-16 rounded bg-paper-2 overflow-hidden" aria-hidden>
         <span className="block h-full bg-ink-2" style={{ width: `${Math.min(100, Math.round(value * 100 * 2))}%` }} />
       </span>
       <span>
-        {value.toFixed(2)} <span className="text-muted">{band}</span>
+        {value.toFixed(3)} <span className="text-muted">{band}</span>
       </span>
     </span>
   );

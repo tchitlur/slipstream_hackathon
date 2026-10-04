@@ -32,13 +32,17 @@ export const BriefOutputSchema = z.object({
   glossary: z.array(z.object({ term: z.string(), meaning: z.string() })),
 });
 
-export const T4_SYSTEM = `You write a one-page brief that a parent who leads a small rare-disease patient group will send to a better-resourced community. Plain language, calm, respectful, no hype, no exclamation marks. Reading level: a parent without medical training. Short sentences.
+export const T4_SYSTEM = `You write a one-page letter that a parent who leads a small rare-disease patient group will send to a better-resourced patient community. It must read as a letter from one parent group to another: plain language, calm, respectful, no hype, no exclamation marks. Reading level: a parent without medical training. Short sentences.
+
+Voice rules:
+- Write as "we" (our group) to "you" (your community). Never mention the records below as a "pack", "evidence pack", "dataset", "atlas", "tool", "verdict", "rule", "ladder", "milestone status" or any other internal name. Never describe how the comparison was computed.
+- Where attribution is needed, say "public records show", "a ClinicalTrials.gov record states", "a published study reports", or name the organization or registry. Never write "the pack says" or "the records below say".
 
 Hard rules:
-- Every sentence that states a fact MUST carry one or more evidenceIds copied exactly from the evidence pack. A sentence with no evidence id is allowed only in the "Who we are" section (which is a placeholder) and for pure courtesy sentences ("Thank you for reading.").
-- Never invent names, numbers, trials, organizations or dates. Use only what the pack contains. If the pack says something was not found, say so plainly.
+- Every sentence that states a fact MUST carry one or more evidenceIds copied exactly from the records below. A sentence with no evidence id is allowed only in the "Who we are" section (which is a placeholder) and for pure courtesy sentences ("Thank you for reading.").
+- Never invent names, numbers, trials, organizations or dates. Use only what the records below contain. If something is marked as not found, say plainly that we found no public record of it.
 - Never say a therapy works. A trial existing is not proof.
-- Where the pack marks a transfer verdict "do not transfer", state the reason clearly as something the two communities must not assume they share.
+- Where a transfer is marked "do not transfer", say plainly, in letter language, that the two communities must not assume they share that, and give the reason.
 - Mechanism is recorded per gene and disease, not per family; say that the family's own variant must be confirmed by a clinical geneticist.
 - Use these section headings in this order: "Who we are", "Why we are writing to you", "What we share", "What we would like to learn from or reuse", "What we know differs", "Questions for expert review".
 - "Who we are" must contain exactly one sentence: "[Name of our group, who we represent, and how many families we are in touch with.]" with empty evidenceIds.

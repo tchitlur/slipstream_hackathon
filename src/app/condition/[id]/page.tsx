@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { getCondition, getNeighbors, getLadder, getEvidence, getStore, getOrgsFor, getInvestigatorsFor, collectEvidenceIds, conditionIdFromSlug, conditionHref, roadSlug, getStudiesFor } from "@/lib/data";
+import { getCondition, getNeighbors, getLadder, getEvidence, getStore, getOrgsFor, getRegistriesFor, getInvestigatorsFor, collectEvidenceIds, conditionIdFromSlug, conditionHref, roadSlug, getStudiesFor } from "@/lib/data";
 import { roadById } from "@/lib/roads";
 import { EvidenceProvider, EvidenceLink } from "@/components/EvidenceDrawer";
 import { Ladder, type LadderRow, RelationChip, SimilarityBar } from "@/components/Ladder";
@@ -57,6 +57,7 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
     if (r) rows.push(r);
   }
   const orgs = getOrgsFor(c.id);
+  const sharedRegs = getRegistriesFor(c.id).filter((r) => r.kind === "shared_registry").map((r) => ({ name: r.name, url: r.url, evidenceIds: r.evidenceIds }));
   const sameRoad = store.atlas.conditions.filter((x) => x.roadId === c.roadId && x.id !== c.id);
   const sameRoadIds = sameRoad.map((x) => x.id);
   const shownIds = new Set([c.id, ...shown.map((n) => n.id)]);
@@ -70,7 +71,7 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
   const sameGeneOther = c.sameGeneOtherMechanism.map((id) => getCondition(id)).filter(Boolean);
   const relatedCommunities = neighborsAll.slice(0, 12).map((n) => ({ n, orgs: getOrgsFor(n.id), cond: getCondition(n.id)! })).filter((x) => x.orgs.length > 0).slice(0, 4);
 
-  const evidenceIds = collectEvidenceIds(c, ladder, rows, orgs, investigators, studies, relatedCommunities.map((r) => r.orgs), c.contested);
+  const evidenceIds = collectEvidenceIds(c, ladder, rows, orgs, investigators, studies, relatedCommunities.map((r) => r.orgs), c.contested, sharedRegs);
   if (c.contested) for (const cl of c.contested.claims) evidenceIds.add(cl.evidenceId);
   for (const cl of c.dissentingClaims) evidenceIds.add(cl.evidenceId);
   for (const cl of c.rejectedClaims) evidenceIds.add(cl.evidenceId);
@@ -115,7 +116,7 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
           {c.rejectedClaims.length > 0 && (
             <details className="text-sm text-ink-2 max-w-3xl">
               <summary className="cursor-pointer">
-                {c.rejectedClaims.length} extracted claim{c.rejectedClaims.length === 1 ? "" : "s"} rejected on review (kept for audit)
+                {c.rejectedClaims.length} extracted claim{c.rejectedClaims.length === 1 ? "" : "s"} rejected on automated review by a language model, not a biomedical expert (kept for audit)
               </summary>
               <ul className="mt-1 space-y-1">
                 {c.rejectedClaims.map((cl) => (
@@ -151,14 +152,17 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
                 Gene2Phenotype records <strong>{c.contested.curatedMechanism}</strong>. {c.contested.claims.length} verified sentence{c.contested.claims.length === 1 ? "" : "s"} from {new Set(c.contested.claims.map((cl) => cl.pmid)).size} PubMed paper{new Set(c.contested.claims.map((cl) => cl.pmid)).size === 1 ? "" : "s"} describe{new Set(c.contested.claims.map((cl) => cl.pmid)).size === 1 ? "s" : ""} {c.geneSymbol} variants acting as{" "}
                 {Array.from(new Set(c.contested.claims.map((cl) => cl.direction.replace("_", " ")))).join(" or ")}.{" "}
                 {c.contested.kind === "both_directions" || c.contested.kind === "different_mechanism" ? (c.contested.note ?? "Which applies depends on the individual variant.") : "The published claims dispute the curated direction for the same class of variants; neither side is treated as settled."}{" "}
-                Both sides are in the evidence panel. Claims rejected on review are kept for audit{c.rejectedClaims.length ? ` (${c.rejectedClaims.length} for this condition)` : ""}.
+                Both sides are in the evidence panel. Claims rejected on the automated model review are kept for audit{c.rejectedClaims.length ? ` (${c.rejectedClaims.length} for this condition)` : ""}.
               </p>
               <ul className="mt-2 space-y-1">
                 {c.contested.claims.filter((cl, i, arr) => arr.findIndex((x) => x.pmid === cl.pmid && x.direction === cl.direction) === i).slice(0, 5).map((cl) => (
                   <li key={cl.evidenceId} className="text-ink-2">
                     <EvidenceLink ids={[cl.evidenceId]} title={`Published claim (PMID ${cl.pmid})`}>
                       PMID {cl.pmid}: {cl.direction.replace("_", " ")} — {cl.mechanism}
-                    </EvidenceLink>
+                    </EvidenceLink>{" "}
+                    <span className="text-muted text-xs">
+                      {cl.reviewedBy ? `(${cl.reviewedBy})` : cl.reviewCategory ? `(kept on automated review: ${cl.reviewCategory.replace(/^keep_/, "").replace(/_/g, " ")}; not a biomedical expert review)` : ""}
+                    </span>
                   </li>
                 ))}
               </ul>
@@ -167,7 +171,7 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
         </header>
 
         {/* 2. Community */}
-        <CommunitySection condition={{ id: c.id, name: c.name, geneSymbol: c.geneSymbol, depth: c.depth }} orgs={orgs} related={relatedCommunities.map((r) => ({ condition: { id: r.cond.id, name: r.cond.name, geneSymbol: r.cond.geneSymbol, href: conditionHref(r.cond.id) }, similarity: r.n.similarity, relation: r.n.relation, orgs: r.orgs }))} orgsSearched={Object.keys(store.orgs).length > 0} />
+        <CommunitySection sharedRegistries={sharedRegs} condition={{ id: c.id, name: c.name, geneSymbol: c.geneSymbol, depth: c.depth }} orgs={orgs} related={relatedCommunities.map((r) => ({ condition: { id: r.cond.id, name: r.cond.name, geneSymbol: r.cond.geneSymbol, href: conditionHref(r.cond.id) }, similarity: r.n.similarity, relation: r.n.relation, orgs: r.orgs }))} orgsSearched={Object.keys(store.orgs).length > 0} />
 
         {/* 3. The ladder */}
         <section aria-labelledby="ladder-h">
@@ -179,7 +183,7 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
               </p>
             </div>
             <div className="text-xs text-muted">
-              Similarity cutoffs: high ≥ {cutoffs.high.toFixed(2)}, medium ≥ {cutoffs.medium.toFixed(2)}
+              Similarity cutoffs: high ≥ {cutoffs.high.toFixed(3)}, medium ≥ {cutoffs.medium.toFixed(3)}
             </div>
           </div>
           {c.depth === "shallow" && (
@@ -200,7 +204,7 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
                           {nc.geneSymbol}
                         </Link>{" "}
                         <span className="text-muted">
-                          {n.similarity.toFixed(2)}, {n.relation}
+                          {n.similarity.toFixed(3)}, {n.relation}
                         </span>
                       </span>
                     );
@@ -288,7 +292,7 @@ function NoSupportedRoute({ condition, neighborsAll, cutoffs }: { condition: { n
     <div className="border border-line-2 rounded-md p-4 bg-white/60 space-y-3">
       <h3 className="text-lg">No supported route yet</h3>
       <p className="text-sm text-ink-2">
-        No condition clears the medium similarity cutoff ({cutoffs.medium.toFixed(2)}) for {condition.name}. This is a real result, not an error: the atlas does not have enough shared, informative phenotype evidence to justify borrowing a registry design or outcome measures from another community.
+        No condition clears the medium similarity cutoff ({cutoffs.medium.toFixed(3)}) for {condition.name}. This is a real result, not an error: the atlas does not have enough shared, informative phenotype evidence to justify borrowing a registry design or outcome measures from another community.
       </p>
       <dl className="text-sm grid sm:grid-cols-[auto_1fr] gap-x-4 gap-y-1">
         <dt className="text-muted">What was searched</dt>
@@ -296,7 +300,7 @@ function NoSupportedRoute({ condition, neighborsAll, cutoffs }: { condition: { n
         <dt className="text-muted">What is missing</dt>
         <dd>
           {condition.thinAnnotation ? `Only ${condition.phenotypeMatch.termCount} phenotype terms are annotated, so similarity cannot be computed reliably. ` : "The annotated phenotypes are shared mostly with conditions below the cutoff. "}
-          {best && bestCond ? `The closest condition is ${bestCond.geneSymbol} (${bestCond.name}) at ${best.similarity.toFixed(2)}.` : "No neighbor has any shared informative phenotype."}
+          {best && bestCond ? `The closest condition is ${bestCond.geneSymbol} (${bestCond.name}) at ${best.similarity.toFixed(3)}.` : "No neighbor has any shared informative phenotype."}
         </dd>
         <dt className="text-muted">Next question worth testing</dt>
         <dd>

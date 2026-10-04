@@ -11,6 +11,7 @@ import { readValidated, readJsonOr, writeJson, log, uniq } from "./lib/io";
 import { files, TRANSFERS_DIR } from "./lib/paths";
 import { readAllNeighbors, writeSimilarity } from "./lib/similarityStore";
 import { findBaselineStudies, type BaselineStudy } from "./lib/baselineStudies";
+import { labelTherapyTargets } from "./lib/review";
 import { writeEvidence, readEvidence } from "./lib/evidence";
 import { updateManifest } from "./lib/manifest";
 import {
@@ -79,7 +80,12 @@ async function main() {
   // Approved therapies evidence (seed)
   const newEvidence: Evidence[] = [];
   const approvedByCond = new Map<string, { therapy: string; regulator: string; evidenceId: string; verified: boolean; targets?: "gene_product" | "pathway" | "symptomatic_or_unknown"; conditionName?: string }[]>();
-  approvedSeed.forEach((a, i) => {
+  const therapyKey = (a: { condition: string; therapy: string }) => `${a.condition}|${a.therapy}`;
+  const t6 = await labelTherapyTargets(approvedSeed.map((a) => { const c = atlas.conditions.find((c) => c.id === a.condition || c.geneSymbol === a.condition.toUpperCase() || c.name === a.condition); return { key: therapyKey(a), therapy: a.therapy, geneSymbol: c?.geneSymbol ?? a.condition, conditionName: a.conditionName ?? c?.name ?? a.condition, mechanism: c?.mechanism ?? "", indicationQuote: a.indicationQuote ?? "", regulator: a.regulator }; }), "S9");
+  if (t6) writeJson(files.therapyLevels, t6, { pretty: true });
+  approvedSeed.forEach((a0, i) => {
+    const lv = t6?.levels[therapyKey(a0)];
+    const a = lv ? { ...a0, targets: lv.target, targetsNote: `${lv.reason} (${t6!.reviewer}, ${t6!.reviewedAt}${lv.target !== a0.targets ? "; the earlier seed label was " + a0.targets.replace(/_/g, " ") : ""})` } : a0;
     const target = atlas.conditions.filter((c) => c.id === a.condition || c.geneSymbol === a.condition.toUpperCase() || c.name === a.condition);
     const evId = `ev:seed:therapy:${i}`;
     const targetLabel = a.targets === "gene_product" ? "acts on the gene or its product" : a.targets === "pathway" ? "acts on a downstream pathway" : "treats symptoms or mechanism not established";
@@ -363,7 +369,7 @@ async function main() {
     // Counterexample preference: a same-gene pair with two curated mechanisms, then a deep-slice neighbor (full ladder
     // and borrow view), then opposite direction over merely different road, then similarity.
     const counter = ns
-      .filter((n) => n.band === "high" && (n.relation === "opposite direction" || n.relation === "different road"))
+      .filter((n) => n.band === "high" && (n.relation === "opposite direction" || n.relation === "different road") && !EXCLUDED.has(condById.get(n.id)!.geneSymbol) && condById.get(n.id)!.contested?.kind !== "contested")
       .sort((a, b) => Number(Boolean(b.sameGene)) - Number(Boolean(a.sameGene)) || Number(condById.get(b.id)!.depth === "deep") - Number(condById.get(a.id)!.depth === "deep") || Number(b.relation === "opposite direction") - Number(a.relation === "opposite direction") || b.similarity - a.similarity)[0];
     if (!ahead.length || !onsetOk || strictlyContested) continue;
     const best = ahead[0];

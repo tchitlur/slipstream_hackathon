@@ -1,7 +1,7 @@
 {
  "focalId": "cond:G2P01366",
  "neighborId": "cond:G2P00319",
- "generatedAt": "2026-10-04T01:58:04.454Z",
+ "generatedAt": "2026-10-04T03:22:24.518Z",
  "mode": "llm",
  "model": "gpt-5.4",
  "sections": [
@@ -18,7 +18,7 @@
    "heading": "Why we are writing to you",
    "sentences": [
     {
-     "text": "We are writing because HNRNPU-related epileptic encephalopathy and SLC6A1-related epilepsy with myoclonic-atonic seizures are both recorded on the same broad mechanism road: too little protein from one lost copy, with loss of function inferred for each condition.",
+     "text": "We are writing from the HNRNPU-related epileptic encephalopathy community to your SLC6A1-related epilepsy with myoclonic-atonic seizures community because public records show both conditions are linked with too little protein from one lost copy, and the recorded mechanism for each condition is loss of function with definitive gene-disease support.",
      "evidenceIds": [
       "ev:g2p:G2P01366",
       "ev:hpoa:OMIM:617391",
@@ -27,17 +27,7 @@
      ]
     },
     {
-     "text": "The phenotype similarity score between the two conditions is marked high.",
-     "evidenceIds": [
-      "ev:rule:simgic",
-      "ev:g2p:G2P01366",
-      "ev:hpoa:OMIM:617391",
-      "ev:g2p:G2P00319",
-      "ev:hpoa:OMIM:616421"
-     ]
-    },
-    {
-     "text": "Shared informative features listed in the pack include atonic seizure, absence-type non-motor seizure, non-motor seizure, dialeptic seizure, and myoclonus.",
+     "text": "Public records also show a high phenotype similarity between the two conditions, with shared features that include atonic seizure, generalized non-motor absence seizure, non-motor seizure, dialeptic seizure, and myoclonus.",
      "evidenceIds": [
       "ev:rule:simgic",
       "ev:g2p:G2P01366",
@@ -52,87 +42,34 @@
    "heading": "What we share",
    "sentences": [
     {
-     "text": "The gene-disease link is marked definitive for both HNRNPU and SLC6A1 in Gene2Phenotype.",
+     "text": "Gene2Phenotype records definitive gene links for both HNRNPU and SLC6A1.",
      "evidenceIds": [
       "ev:g2p:G2P01366",
       "ev:g2p:G2P00319"
      ]
     },
     {
-     "text": "Both conditions have patient organizations listed in the pack.",
+     "text": "Gene2Phenotype also records loss of function, inferred from variant types, for both conditions.",
+     "evidenceIds": [
+      "ev:g2p:G2P01366",
+      "ev:g2p:G2P00319"
+     ]
+    },
+    {
+     "text": "Public records show both communities have patient organizations, and both conditions are also included in broader research efforts such as Simons Searchlight.",
      "evidenceIds": [
       "ev:seed:org:hnrnp-family-foundation",
       "ev:seed:org:hnrnp-family-foundation:registry",
       "ev:seed:org:hnrnpu-foundation",
-      "ev:seed:org:slc6a1-connect"
+      "ev:seed:org:slc6a1-connect",
+      "ev:ctgov:NCT01238250:role"
      ]
     },
     {
-     "text": "Both conditions also have registry or natural history routes listed.",
-     "evidenceIds": [
-      "ev:seed:org:hnrnp-family-foundation",
-      "ev:seed:org:hnrnp-family-foundation:registry",
-      "ev:seed:orgreg:hnrnp-family-foundation:own",
-      "ev:ctgov:NCT07531511:role",
-      "ev:ctgov:NCT01238250:role",
-      "ev:seed:orgreg:slc6a1-connect:own"
-     ]
-    },
-    {
-     "text": "Both conditions have disease models reported in PubMed.",
+     "text": "Public records show both conditions also have disease models reported in the research literature.",
      "evidenceIds": [
       "ev:pubmed:models:HNRNPU",
       "ev:pubmed:models:SLC6A1"
-     ]
-    },
-    {
-     "text": "The pack says registry design and natural history protocol are transferable between these communities.",
-     "evidenceIds": [
-      "ev:rule:R1",
-      "ev:rule:simgic",
-      "ev:g2p:G2P01366",
-      "ev:hpoa:OMIM:617391",
-      "ev:g2p:G2P00319",
-      "ev:hpoa:OMIM:616421",
-      "ev:ctgov:NCT07531511:role",
-      "ev:ctgov:NCT01238250:role",
-      "ev:seed:registry:simons-searchlight:SLC6A1",
-      "ev:seed:registry:citizen-health:SLC6A1",
-      "ev:seed:orgreg:slc6a1-connect:own"
-     ]
-    },
-    {
-     "text": "The pack also says outcome measures and endpoints are transferable, but age of onset and severity still need review before any instrument is adopted.",
-     "evidenceIds": [
-      "ev:rule:R2",
-      "ev:rule:simgic",
-      "ev:g2p:G2P01366",
-      "ev:hpoa:OMIM:617391",
-      "ev:g2p:G2P00319",
-      "ev:hpoa:OMIM:616421",
-      "ev:ctgov:NCT07531511:role",
-      "ev:ctgov:NCT01238250:role",
-      "ev:seed:registry:simons-searchlight:SLC6A1",
-      "ev:seed:registry:citizen-health:SLC6A1",
-      "ev:seed:orgreg:slc6a1-connect:own"
-     ]
-    },
-    {
-     "text": "The pack says the clinical network, sites, and investigators may also be transferable.",
-     "evidenceIds": [
-      "ev:rule:R3",
-      "ev:rule:simgic",
-      "ev:g2p:G2P01366",
-      "ev:hpoa:OMIM:617391",
-      "ev:g2p:G2P00319",
-      "ev:hpoa:OMIM:616421",
-      "ev:seed:registry:simons-searchlight:SLC6A1",
-      "ev:seed:registry:citizen-health:SLC6A1",
-      "ev:seed:org:slc6a1-connect",
-      "ev:ctgov:NCT07173153:role",
-      "ev:ctgov:NCT04937062:role",
-      "ev:ctgov:NCT07847918:role",
-      "ev:ctgov:NCT07531511:role"
      ]
     }
    ]
@@ -141,7 +78,7 @@
    "heading": "What we would like to learn from or reuse",
    "sentences": [
     {
-     "text": "We would like to learn from the SLC6A1 natural history and registry work, including NCT07531511, Simons Searchlight, Citizen Health, and the SLC6A1 Connect registry listing.",
+     "text": "We would like to learn from your registry and natural history work, because public records show SLC6A1-related studies include the SLC6A1-NDD Prospective Longitudinal Natural History Study, Simons Searchlight, Citizen Health, and an SLC6A1 Connect registry.",
      "evidenceIds": [
       "ev:rule:R1",
       "ev:ctgov:NCT07531511:role",
@@ -152,7 +89,7 @@
      ]
     },
     {
-     "text": "We would like to compare data items, consent language, visit schedules, and measured domains, because the pack says these parts are likely to carry over.",
+     "text": "Public records suggest that registry items, consent language, visit schedules, and outcome measures may be useful starting points for our community, but age of onset and severity still need expert review before anything is adopted.",
      "evidenceIds": [
       "ev:rule:R1",
       "ev:rule:R2",
@@ -161,13 +98,15 @@
       "ev:hpoa:OMIM:617391",
       "ev:g2p:G2P00319",
       "ev:hpoa:OMIM:616421",
+      "ev:ctgov:NCT07531511:role",
+      "ev:ctgov:NCT01238250:role",
       "ev:seed:registry:simons-searchlight:SLC6A1",
       "ev:seed:registry:citizen-health:SLC6A1",
       "ev:seed:orgreg:slc6a1-connect:own"
      ]
     },
     {
-     "text": "We would also like to understand whether your community's clinical network could help point us to experienced sites and investigators.",
+     "text": "We would also like to learn which clinics, sites, and investigators your community works with, because public records show routes through Simons Searchlight, Citizen Health, SLC6A1 Connect, and several SLC6A1 studies.",
      "evidenceIds": [
       "ev:rule:R3",
       "ev:seed:registry:simons-searchlight:SLC6A1",
@@ -180,19 +119,13 @@
      ]
     },
     {
-     "text": "For therapeutic strategy, disease models, and trial design, the pack says these are not ready to copy directly and need expert review first.",
+     "text": "We would value any advice on trial design, because public records show SLC6A1 has targeted interventional studies in gene therapy and small molecules, and those designs may be useful templates for expert review in HNRNPU.",
      "evidenceIds": [
       "ev:rule:R4",
-      "ev:rule:R5",
       "ev:rule:R6",
-      "ev:g2p:G2P01366",
-      "ev:hpoa:OMIM:617391",
-      "ev:g2p:G2P00319",
-      "ev:hpoa:OMIM:616421",
       "ev:ctgov:NCT07173153:role",
       "ev:ctgov:NCT04937062:role",
-      "ev:ctgov:NCT07847918:role",
-      "ev:pubmed:models:SLC6A1"
+      "ev:ctgov:NCT07847918:role"
      ]
     }
    ]
@@ -201,28 +134,30 @@
    "heading": "What we know differs",
    "sentences": [
     {
-     "text": "The pack found no active NIH-funded HNRNPU projects in FY2025-2026, while it found two for SLC6A1.",
+     "text": "Public records show more formal study activity for SLC6A1 than for HNRNPU at this time.",
+     "evidenceIds": [
+      "ev:ctgov:NCT07531511:role",
+      "ev:ctgov:NCT07173153:role",
+      "ev:ctgov:NCT04937062:role",
+      "ev:ctgov:NCT07847918:role"
+     ]
+    },
+    {
+     "text": "We found no public record of active NIH-funded HNRNPU projects in fiscal years 2025 to 2026, while public records show two active NIH-funded SLC6A1 projects in that period.",
      "evidenceIds": [
       "ev:reporter:R44NS145930",
       "ev:reporter:R01NS121718"
      ]
     },
     {
-     "text": "The pack found no targeted clinical trial for HNRNPU, but it found targeted SLC6A1 trials at gene level.",
+     "text": "We found no public record of a targeted HNRNPU clinical trial, while ClinicalTrials.gov records for SLC6A1 include two gene-level targeted trials with highest phase 2.",
      "evidenceIds": [
       "ev:ctgov:NCT07173153:role",
       "ev:ctgov:NCT04937062:role"
      ]
     },
     {
-     "text": "We must not assume that an SLC6A1 animal or cell model can stand in for HNRNPU, because the pack says those models are gene-specific.",
-     "evidenceIds": [
-      "ev:rule:R5",
-      "ev:pubmed:models:SLC6A1"
-     ]
-    },
-    {
-     "text": "We must not assume that any family shares the same mechanism just because the two conditions are on the same road.",
+     "text": "We also need to be careful about mechanism, because the recorded mechanism is made at the gene-and-disease level, not for every family, and a clinical geneticist should confirm whether a child's own HNRNPU variant is loss of function, gain of function, or dominant negative before people borrow treatment logic from another condition.",
      "evidenceIds": [
       "ev:rule:R4",
       "ev:rule:R5",
@@ -235,14 +170,21 @@
      ]
     },
     {
-     "text": "The pack says mechanism is recorded per gene and disease, not per family, and a child's own variant may act differently.",
+     "text": "We also understand that the recorded loss-of-function mechanism for both conditions is inferred from variant types rather than shown by direct functional evidence.",
      "evidenceIds": [
-      "ev:rule:R1",
-      "ev:rule:R2",
+      "ev:g2p:G2P01366",
+      "ev:g2p:G2P00319",
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6"
+     ]
+    },
+    {
+     "text": "Because of that, we must not assume that an SLC6A1 therapeutic strategy, assay, or trial design will apply directly to HNRNPU without expert review.",
+     "evidenceIds": [
       "ev:rule:R4",
       "ev:rule:R5",
       "ev:rule:R6",
-      "ev:rule:R7",
       "ev:g2p:G2P01366",
       "ev:hpoa:OMIM:617391",
       "ev:g2p:G2P00319",
@@ -250,31 +192,19 @@
      ]
     },
     {
-     "text": "Because of that, each family's variant class should be confirmed with a clinical geneticist before acting on any transfer idea.",
+     "text": "We also must not assume that a person with HNRNPU would be eligible for an SLC6A1 trial, because public records do not assert that, and the study teams would need to advise directly.",
      "evidenceIds": [
-      "ev:rule:R1",
-      "ev:rule:R2",
-      "ev:rule:R4",
-      "ev:rule:R5",
-      "ev:rule:R6",
-      "ev:rule:R7"
+      "ev:rule:R7",
+      "ev:ctgov:NCT07173153:role",
+      "ev:ctgov:NCT04937062:role",
+      "ev:ctgov:NCT07847918:role"
      ]
     },
     {
-     "text": "The pack also says the curated mechanism for both conditions is inferred from variant types rather than functional evidence.",
+     "text": "Public records also note that the SLC6A1 Connect organization listing was auto-checked and not yet human verified, so we would want to confirm the right contact and whether it runs a registry now.",
      "evidenceIds": [
-      "ev:rule:R4",
-      "ev:rule:R5",
-      "ev:rule:R6",
-      "ev:g2p:G2P01366",
-      "ev:g2p:G2P00319"
-     ]
-    },
-    {
-     "text": "The SLC6A1 organization listing passed only an automated check of its own site, and no human verification is recorded in the pack.",
-     "evidenceIds": [
-      "ev:rule:R3",
-      "ev:seed:org:slc6a1-connect"
+      "ev:seed:org:slc6a1-connect",
+      "ev:rule:R3"
      ]
     }
    ]
@@ -283,7 +213,27 @@
    "heading": "Questions for expert review",
    "sentences": [
     {
-     "text": "Has our child's specific HNRNPU variant been functionally classified as loss of function, gain of function, or dominant negative, and does it match the mechanism recorded for the condition.",
+     "text": "Do the age of onset and typical severity in SLC6A1-related disease match HNRNPU closely enough for registry items and outcome measures to carry over well.",
+     "evidenceIds": [
+      "ev:rule:R1",
+      "ev:rule:R2",
+      "ev:rule:simgic",
+      "ev:g2p:G2P01366",
+      "ev:hpoa:OMIM:617391",
+      "ev:g2p:G2P00319",
+      "ev:hpoa:OMIM:616421"
+     ]
+    },
+    {
+     "text": "Is SLC6A1 Connect the right community contact, and does it run a registry at this time.",
+     "evidenceIds": [
+      "ev:seed:org:slc6a1-connect",
+      "ev:seed:orgreg:slc6a1-connect:own",
+      "ev:rule:R3"
+     ]
+    },
+    {
+     "text": "Has a child's specific HNRNPU variant been functionally classified, and does it match the mechanism recorded for the condition.",
      "evidenceIds": [
       "ev:g2p:G2P01366",
       "ev:hpoa:OMIM:617391",
@@ -294,7 +244,7 @@
      ]
     },
     {
-     "text": "What functional evidence exists for HNRNPU, since the curated mechanism in the pack is inferred from variant types rather than direct functional studies.",
+     "text": "What direct functional evidence exists for HNRNPU, given that the recorded mechanism is inferred from variant types.",
      "evidenceIds": [
       "ev:g2p:G2P01366",
       "ev:rule:R4",
@@ -303,61 +253,36 @@
      ]
     },
     {
-     "text": "Is SLC6A1 Connect the right contact for this community, and does it run a registry.",
-     "evidenceIds": [
-      "ev:seed:org:slc6a1-connect",
-      "ev:seed:orgreg:slc6a1-connect:own",
-      "ev:rule:R3"
-     ]
-    },
-    {
-     "text": "Which registry fields, consent elements, visit schedules, and outcome measures from the SLC6A1 studies are the safest to reuse for HNRNPU.",
-     "evidenceIds": [
-      "ev:rule:R1",
-      "ev:rule:R2",
-      "ev:ctgov:NCT07531511:role",
-      "ev:ctgov:NCT01238250:role",
-      "ev:seed:registry:simons-searchlight:SLC6A1",
-      "ev:seed:registry:citizen-health:SLC6A1",
-      "ev:seed:orgreg:slc6a1-connect:own"
-     ]
-    },
-    {
-     "text": "If trial planning is discussed, which parts of SLC6A1 trial design are reasonable templates, and which parts should not be carried over without new evidence.",
-     "evidenceIds": [
-      "ev:rule:R6",
-      "ev:ctgov:NCT07173153:role",
-      "ev:ctgov:NCT04937062:role",
-      "ev:ctgov:NCT07847918:role"
-     ]
+     "text": "Thank you for reading.",
+     "evidenceIds": []
     }
    ]
   }
  ],
  "glossary": [
   {
-   "term": "loss of function",
-   "meaning": "A change that reduces how much the gene works."
+   "term": "Loss of function",
+   "meaning": "A gene change that leads to too little working protein."
   },
   {
-   "term": "natural history study",
+   "term": "Natural history study",
    "meaning": "A study that follows people over time to learn how a condition changes."
   },
   {
-   "term": "registry",
-   "meaning": "An organized database of patient information, often used for research and planning."
+   "term": "Outcome measure",
+   "meaning": "A feature researchers track to see how a person is doing over time."
   },
   {
-   "term": "outcome measure",
-   "meaning": "A way to track a symptom, skill, or daily function in a study."
+   "term": "Clinical geneticist",
+   "meaning": "A doctor with specialist training in genetic conditions and variant interpretation."
   },
   {
-   "term": "clinical geneticist",
-   "meaning": "A doctor with specialist training in genetic conditions."
+   "term": "Phenotype",
+   "meaning": "The signs and symptoms a person has."
   },
   {
-   "term": "disease model",
-   "meaning": "A lab cell or animal system used to study a disease."
+   "term": "Disease model",
+   "meaning": "A lab cell or animal system used to study a condition."
   }
  ],
  "droppedSentences": 1

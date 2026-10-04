@@ -7,6 +7,7 @@ import { parseArgs, deepGenes } from "./lib/args";
 import { fetchJsonCached } from "./lib/http";
 import { readValidated, readJsonOr, writeJson, log, uniq } from "./lib/io";
 import { files } from "./lib/paths";
+import { distinctiveNames as diseaseNamesOf } from "./lib/baselineStudies";
 import { writeEvidence } from "./lib/evidence";
 import { updateManifest } from "./lib/manifest";
 import { AtlasSchema, StudiesFileSchema, LiteratureFileSchema, type Grant, type Evidence, type Condition } from "../src/lib/schemas";
@@ -125,13 +126,19 @@ async function main() {
 
   // Investigators
   const raws: RawMention[] = [];
-  for (const g of Object.values(grants)) for (const pi of g.piNames) raws.push({ name: pi, org: g.organization, record: { kind: "grant", id: g.projectNumber, url: g.url, role: "principal investigator", conditionIds: g.conditionIds } });
+  // A record "names the condition" when its own text carries a distinctive disease name of one of its conditions (not only
+  // the gene symbol); for studies, when the reconciliation layer matched the record to the condition by name.
+  const condByIdAll = new Map(atlas.conditions.map((c) => [c.id, c]));
+  const namesAny = (text: string, conditionIds: string[]) => conditionIds.some((cid) => { const c = condByIdAll.get(cid); return c ? diseaseNamesOf(c).some((n) => text.toLowerCase().includes(n.toLowerCase())) : false; });
+  const recon = readJsonOr<{ decisions: { recordId: string; conditionId: string | null; method: string; source: string }[] } | null>(files.reconciliation, null);
+  const studyByName = new Set((recon?.decisions ?? []).filter((d) => d.source === "ctgov" && d.conditionId && d.method !== "none" && d.method !== "gene").map((d) => d.recordId));
+  for (const g of Object.values(grants)) for (const pi of g.piNames) raws.push({ name: pi, org: g.organization, record: { kind: "grant", id: g.projectNumber, url: g.url, role: "principal investigator", conditionIds: g.conditionIds, namesCondition: namesAny(`${g.title} ${g.abstractExcerpt ?? ""}`, g.conditionIds) } });
   const studiesFile = readJsonOr<unknown>(files.studies, null);
   if (studiesFile) {
     const st = StudiesFileSchema.parse(studiesFile);
     for (const s of Object.values(st.studies)) {
       if (!s.classification?.aboutCondition) continue;
-      for (const o of s.officials) raws.push({ name: o.name, org: o.affiliation, record: { kind: "study", id: s.id, url: `https://clinicaltrials.gov/study/${s.id}`, role: (o.role ?? "overall official").toLowerCase().replace(/_/g, " "), conditionIds: s.conditionIds } });
+      for (const o of s.officials) raws.push({ name: o.name, org: o.affiliation, record: { kind: "study", id: s.id, url: `https://clinicaltrials.gov/study/${s.id}`, role: (o.role ?? "overall official").toLowerCase().replace(/_/g, " "), conditionIds: s.conditionIds, namesCondition: studyByName.has(s.id) || namesAny(`${s.briefTitle} ${s.officialTitle ?? ""} ${s.conditions.join(" ")}`, s.conditionIds) } });
     }
   }
   const litFile = readJsonOr<unknown>(files.literature, null);
@@ -142,7 +149,7 @@ async function main() {
       for (const pmid of g.mechanismPmids) {
         const p = lit.papers[pmid];
         if (!p?.lastAuthor) continue;
-        raws.push({ name: p.lastAuthor, record: { kind: "paper", id: pmid, url: `https://pubmed.ncbi.nlm.nih.gov/${pmid}/`, role: "last author", conditionIds: conds.map((c) => c.id) } });
+        raws.push({ name: p.lastAuthor, record: { kind: "paper", id: pmid, url: `https://pubmed.ncbi.nlm.nih.gov/${pmid}/`, role: "last author", conditionIds: conds.map((c) => c.id), namesCondition: namesAny(p.title, conds.map((c) => c.id)) } });
       }
     }
   }

@@ -1,0 +1,397 @@
+{
+ "reviewedAt": "2026-10-04",
+ "reviewer": "automated review (gpt-5.4), not a biomedical expert review",
+ "model": "gpt-5.4",
+ "levels": {
+  "NCT07173153": {
+   "target": "gene_product",
+   "intervention": "AAV9.SLC6A1 Gene Therapy",
+   "reason": "The record describes \"gene therapy... of an AAV9 vector carrying the SLC6A1 gene\" for SLC6A1 neurodevelopmental disorder.",
+   "confidence": "high"
+  },
+  "NCT04937062": {
+   "target": "gene_product",
+   "intervention": "Glycerol phenylbutyrate (Ravicti)",
+   "reason": "The record states that STXBP1 and SLC6A1 disorders occur because 'there are not enough working proteins made by these genes' and that phenylbutyrate 'may help the remaining proteins work better.'",
+   "confidence": "high"
+  },
+  "NCT07847918": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "Glycerol Phenylbutyrate",
+   "reason": "The record says participants will receive phenylbutyrate for SLC6A1-related disorders and track seizures/EEG, but it does not state that phenylbutyrate acts on SLC6A1 or a named downstream pathway.",
+   "confidence": "low"
+  },
+  "NCT07531745": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "ION337",
+   "reason": "The record only states that the study evaluates the safety and tolerability of ION337 in Dravet syndrome and does not say what ION337 acts on; it only mentions exclusion from prior gene therapy or another antisense oligonucleotide trial.",
+   "confidence": "low"
+  },
+  "NCT06872125": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "zorevunersen",
+   "reason": "The record evaluates zorevunersen in Dravet syndrome with SCN1A variants and notes exclusion of gain-of-function variants and sodium channel blockers \"given the mechanism of action of zorevunersen,\" but it does not explicitly state what zorevunersen acts on.",
+   "confidence": "low"
+  },
+  "NCT05419492": {
+   "target": "gene_product",
+   "intervention": "ETX101",
+   "reason": "The official title describes ETX101 as \"an AAV9-delivered gene therapy\" for participants with SCN1A-positive Dravet syndrome.",
+   "confidence": "high"
+  },
+  "NCT06283212": {
+   "target": "gene_product",
+   "intervention": "ETX101",
+   "reason": "The record describes ETX101 as \"an AAV9-delivered gene therapy\" for children with \"SCN1A-positive Dravet Syndrome,\" indicating it acts at the gene level.",
+   "confidence": "high"
+  },
+  "NCT06112275": {
+   "target": "gene_product",
+   "intervention": "ETX101",
+   "reason": "The record describes ETX101 as an “AAV9-delivered gene therapy” for children with “SCN1A-positive Dravet syndrome.”",
+   "confidence": "high"
+  },
+  "NCT07019922": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "elsunersen",
+   "reason": "The record identifies elsunersen as the study drug for participants with gain-of-function SCN2A variants, but it does not state what elsunersen acts on or describe its mechanism.",
+   "confidence": "low"
+  },
+  "NCT06314490": {
+   "target": "gene_product",
+   "intervention": "nL-SCN2A-002",
+   "reason": "The record states this is a \"personalized antisense oligonucleotide (ASO) drug\" for a participant with \"SCN2A associated developmental epileptic encephalopathy,\" indicating it acts on the SCN2A gene transcript.",
+   "confidence": "high"
+  },
+  "NCT05818553": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "PRAX-562",
+   "reason": "The record identifies PRAX-562 only as a drug being tested in SCN2A/SCN8A developmental and epileptic encephalopathies and does not state what it acts on or describe a mechanism.",
+   "confidence": "low"
+  },
+  "NCT05737784": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "PRAX-222",
+   "reason": "The record says only that the trial will study the effect of PRAX-222 in pediatric participants with SCN2A developmental and epileptic encephalopathy, without stating what PRAX-222 acts on or linking it to SCN2A, its product, or a named downstream pathway.",
+   "confidence": "low"
+  },
+  "NCT04740476": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "zorevunersen (STK-001)",
+   "reason": "The record says this study evaluates repeated doses of zorevunersen in Dravet syndrome and measures seizure frequency and clinical status, but it does not state what the drug acts on or describe a mechanism linked to SCN1A.",
+   "confidence": "low"
+  },
+  "NCT04442295": {
+   "target": "gene_product",
+   "intervention": "STK-001",
+   "reason": "The official title identifies STK-001 as an \"antisense oligonucleotide\" and enrollment requires an SCN1A variant associated with Dravet syndrome, indicating it targets the gene/transcript level.",
+   "confidence": "high"
+  },
+  "NCT04873869": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "NBI-921352",
+   "reason": "The record describes NBI-921352 only as \"adjunctive therapy for seizures\" in SCN8A-DEE and does not state that it acts on SCN8A or a named downstream pathway.",
+   "confidence": "low"
+  },
+  "NCT06983158": {
+   "target": "gene_product",
+   "intervention": "CAP-002 gene therapy",
+   "reason": "The record describes CAP-002 as a 'gene therapy' trial in patients with 'a pathogenic or likely pathogenic STXBP1 gene mutation,' indicating it acts at the level of the STXBP1 gene.",
+   "confidence": "high"
+  },
+  "NCT06615206": {
+   "target": "gene_product",
+   "intervention": "HG204",
+   "reason": "The record states that HG204 is a 'CRISPR RNA-editing therapy' using an AAV vector 'to target and knock down MECP2 mRNA in the brain,' and that it decreased 'MECP2 mRNA and MECP2 protein.'",
+   "confidence": "high"
+  },
+  "NCT06739434": {
+   "target": "gene_product",
+   "intervention": "GCB-002",
+   "reason": "The record describes GCB-002 as a \"GENETIC\" intervention for \"female subjects with MECP2 gene mutations,\" and excludes subjects in \"other AAV gene therapy clinical studies\" with anti-AAV9 antibody testing, indicating a gene-targeted therapy.",
+   "confidence": "high"
+  },
+  "NCT06430385": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "ION440",
+   "reason": "The record identifies ION440 only as an intrathecally administered study drug for participants with genetically confirmed MECP2 duplication syndrome, but it does not state what ION440 acts on or describe a mechanism linking it to MECP2 or a named downstream pathway.",
+   "confidence": "low"
+  },
+  "NCT07480564": {
+   "target": "gene_product",
+   "intervention": "TSHA-102",
+   "reason": "The record describes TSHA-102 as \"an AAV9-delivered gene therapy\" for participants with a documented pathogenic \"MECP2\" mutation causing loss of gene function.",
+   "confidence": "high"
+  },
+  "NCT07640503": {
+   "target": "pathway",
+   "intervention": "Lamivudine",
+   "reason": "The record states that loss of MeCP2 function is associated with increased LINE-1 retroelement activity and that lamivudine 'can inhibit L1 reverse transcription,' with resulting reductions in inflammatory and oxidative stress markers.",
+   "confidence": "high"
+  },
+  "NCT07150013": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "Vorinostat (SAHA)",
+   "reason": "The record says the trial will evaluate the safety and efficacy of vorinostat in Rett syndrome and measure clinical/laboratory changes and 'changes in mRNA expression (transcriptome response),' but it does not state that vorinostat acts on MECP2 or on a named downstream pathway.",
+   "confidence": "low"
+  },
+  "NCT06856759": {
+   "target": "gene_product",
+   "intervention": "Intrathecal injection of AAV-MECP2",
+   "reason": "The record describes AAV-MECP2 as a 'gene therapy product' for RTT and states that 'MECP2 functional loss mutation is the clear pathogenic factor.'",
+   "confidence": "high"
+  },
+  "NCT06152237": {
+   "target": "gene_product",
+   "intervention": "TSHA-102",
+   "reason": "The record describes TSHA-102 as \"an AAV9-delivered gene therapy\" for pediatric females with Rett syndrome caused by documented MECP2 loss-of-function mutations.",
+   "confidence": "high"
+  },
+  "NCT05898620": {
+   "target": "gene_product",
+   "intervention": "NGN-401",
+   "reason": "The record describes NGN-401 as an \"investigational gene therapy\" for Rett syndrome in participants with a disease-causing mutation in the MECP2 gene.",
+   "confidence": "high"
+  },
+  "NCT05606614": {
+   "target": "gene_product",
+   "intervention": "TSHA-102",
+   "reason": "The record describes TSHA-102 as \"an AAV9-delivered gene therapy\" for participants with a documented pathogenic \"MECP2\" mutation causing loss of gene function.",
+   "confidence": "high"
+  },
+  "NCT04912856": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "XEN496 (ezogabine)",
+   "reason": "The record states only that this is an extension study assessing the long-term safety and tolerability of XEN496 in children with KCNQ2-DEE, without saying what the drug acts on.",
+   "confidence": "low"
+  },
+  "NCT07600736": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "ABS-1230",
+   "reason": "The record only says this is a study of 'ABS-1230 compared with placebo in participants with KCNT1-related epilepsy' and does not state what ABS-1230 acts on.",
+   "confidence": "low"
+  },
+  "NCT07227857": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "S230815",
+   "reason": "The record describes intrathecal S230815 in children with 'DEE due to a documented pathogenic or likely pathogenic variant in KCNT1' but does not state what S230815 acts on or whether it targets KCNT1 directly.",
+   "confidence": "low"
+  },
+  "NCT07150026": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "Vorinostat (SAHA)",
+   "reason": "The record describes vorinostat as being evaluated for safety/efficacy in Pitt-Hopkins syndrome and measuring 'changes in mRNA expression (transcriptome response),' but it does not state that the drug acts on TCF4 itself or on a named downstream pathway.",
+   "confidence": "low"
+  },
+  "NCT07293546": {
+   "target": "gene_product",
+   "intervention": "FRF-001",
+   "reason": "The record describes FRF-001 as 'an AAV-9 gene therapy' for participants with FOXG1 syndrome, indicating it acts at the level of the disease gene.",
+   "confidence": "high"
+  },
+  "NCT07432490": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "L-fucose supplementation",
+   "reason": "The record states it is \"to evaluate the efficacy and safety of L-fucose supplementation\" in GLUT1 deficiency syndrome, but does not say that L-fucose acts on SLC2A1, its transcript/protein, or a named downstream pathway.",
+   "confidence": "low"
+  },
+  "NCT04137692": {
+   "target": "gene_product",
+   "intervention": "Red Blood Cell Transfusion",
+   "reason": "The record says the trial will replace 'circulating red cells, which are deficient in GLUT1' with healthy donor cells 'as a novel means to augment blood-to-brain glucose transport.'",
+   "confidence": "medium"
+  },
+  "NCT04112862": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "sodiumlactate",
+   "reason": "The record says the study tests \"the effect of lactate infusion on epileptic discharges on EEG and seizure frequency\" in GLUT1DS patients, without stating that it acts on SLC2A1 or a named downstream pathway.",
+   "confidence": "low"
+  },
+  "NCT02021526": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "Triheptanoin (C7 Oil)",
+   "reason": "The record describes triheptanoin as 'a food supplement or medical food' and measures 'changes in brain metabolic rate' and 'maintenance of ketosis' during treatment, without stating that it acts on SLC2A1 or its protein product.",
+   "confidence": "medium"
+  },
+  "NCT02000960": {
+   "target": "pathway",
+   "intervention": "Triheptanoin",
+   "reason": "The record says triheptanoin is \"designed to compensate for the underlying biochemical deficiency\" in GLUT1 deficiency, providing an alternate energy source rather than acting directly on SLC2A1 itself.",
+   "confidence": "medium"
+  },
+  "NCT02018315": {
+   "target": "pathway",
+   "intervention": "Triheptanoin",
+   "reason": "The record states the trial tests whether it can 'circumvent impaired glucose metabolism' by 'supplying anaplerotic precursors' that enter the 'citric acid cycle through alternative metabolic pathways.'",
+   "confidence": "high"
+  },
+  "NCT07363603": {
+   "target": "gene_product",
+   "intervention": "ASO-GNAO1 (Tianasen) antisense oligonucleotide treatment",
+   "reason": "The record describes an investigational drug called 'ASO-GNAO1' for patients with a 'c.607G>A mutation in the GNAO1 gene,' indicating an antisense oligonucleotide directed at the disease gene/transcript.",
+   "confidence": "high"
+  },
+  "NCT06412653": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "Zinc Acetate Dihydrate",
+   "reason": "The record describes \"an oral therapy with zinc in patients affected by... GNAO1 associated disorders\" and evaluates safety/feasibility and changes in symptoms, but it does not state that zinc acts on GNAO1 itself or on a named downstream pathway.",
+   "confidence": "low"
+  },
+  "NCT07377032": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "L-serine",
+   "reason": "The record describes \"L-serine dietary supplementation\" for GRIN-related neurodevelopmental disorders caused by loss-of-function variants, but it does not state that L-serine directly acts on GRIN2A or its gene product or on a named downstream pathway.",
+   "confidence": "low"
+  },
+  "NCT07224581": {
+   "target": "gene_product",
+   "intervention": "Radiprodil",
+   "reason": "The record enrolls participants with GRIN1/2A/2B/2D variants \"known to result in GoF of the NMDA receptor,\" and the condition is described as treatable with NMDA receptor channel blockers, indicating the intervention acts on the receptor encoded by the GRIN genes.",
+   "confidence": "high"
+  },
+  "NCT05818943": {
+   "target": "gene_product",
+   "intervention": "Radiprodil",
+   "reason": "The record enrolls children with \"GRIN gene variants known to result in GoF of the NMDA receptor\" and excludes other \"agonists or antagonists of the glutamate receptor,\" indicating radiprodil is intended to act on the NMDA receptor encoded by GRIN.",
+   "confidence": "high"
+  },
+  "NCT04646447": {
+   "target": "pathway",
+   "intervention": "L-serine",
+   "reason": "The record states that \"mutations leading to glutamatergic hypotransmission can be potentially treated with L-Serine,\" indicating it is intended to act on the named glutamatergic transmission pathway rather than directly on GRIN2A itself.",
+   "confidence": "high"
+  },
+  "NCT07135050": {
+   "target": "gene_product",
+   "intervention": "MZ-1866",
+   "reason": "The record describes MZ-1866 as \"an AAV-9 Gene Therapy\" for participants with Pitt Hopkins syndrome who have a pathogenic or likely pathogenic TCF4 mutation.",
+   "confidence": "high"
+  },
+  "NCT07605429": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "rugonersen",
+   "reason": "The record says only that this is a Phase III study to evaluate the efficacy and safety of intrathecally administered rugonersen in participants with Angelman syndrome, without stating what rugonersen acts on.",
+   "confidence": "low"
+  },
+  "NCT07181837": {
+   "target": "gene_product",
+   "intervention": "MVX-220",
+   "reason": "The record describes MVX-220 as \"gene therapy\" for Angelman syndrome in participants with UBE3A-related genotypes, indicating it acts at the gene/transcript/protein level rather than only treating symptoms.",
+   "confidence": "high"
+  },
+  "NCT07157254": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "GTX-102",
+   "reason": "The record only states that the study evaluates the safety and efficacy of GTX-102 in Angelman syndrome and does not say what GTX-102 acts on or whether it targets UBE3A or a downstream pathway.",
+   "confidence": "low"
+  },
+  "NCT06914609": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "obudanersen (ION582)",
+   "reason": "The record identifies obudanersen as an antisense oligonucleotide and enrolls participants with UBE3A deletion or mutation, but it does not state what obudanersen targets or how it acts on UBE3A or a named downstream pathway.",
+   "confidence": "low"
+  },
+  "NCT06415344": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "GTX-102",
+   "reason": "The record identifies the intervention only as \"GTX-102 (DRUG)\" and says the trial evaluates its long-term safety and efficacy in Angelman syndrome, without stating what GTX-102 acts on.",
+   "confidence": "low"
+  },
+  "NCT06617429": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "GTX-102",
+   "reason": "The record identifies GTX-102 only as a study drug to evaluate effects on cognitive function in Angelman syndrome, without stating what it acts on or linking it to UBE3A or a named downstream pathway.",
+   "confidence": "low"
+  },
+  "NCT05630066": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "Alogabat",
+   "reason": "The record describes Alogabat only as a study drug to assess pharmacokinetics, safety, and 'proof of mechanism' in Angelman syndrome, but it does not state what Alogabat acts on or link it to UBE3A or a named downstream pathway.",
+   "confidence": "low"
+  },
+  "NCT04428281": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "RO7248824",
+   "reason": "The record describes RO7248824 as a drug administered intrathecally in participants with Angelman syndrome, but it does not state what it acts on or link it to UBE3A, its transcript/protein, or a named downstream pathway.",
+   "confidence": "low"
+  },
+  "NCT05127226": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "ION582",
+   "reason": "The record only says this is a study of intrathecally administered ION582 for safety/tolerability in Angelman syndrome and does not state what ION582 acts on or link it to UBE3A, its transcript, protein, or a named downstream pathway.",
+   "confidence": "low"
+  },
+  "NCT04259281": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "GTX-102",
+   "reason": "The record says only that GTX-102 is a drug given by intrathecal injection to children with Angelman syndrome and does not state what it acts on.",
+   "confidence": "low"
+  },
+  "NCT04706013": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "Pyridoxal Phosphate (oral pyridoxal 5'-phosphate, P5P)",
+   "reason": "The record states that patients with genetically confirmed PNPO deficiency whose \"seizures are typically controlled on P5P (oral) therapy\" will receive P5P, but it does not explicitly say that P5P acts on the PNPO gene product or name a downstream pathway as the rationale.",
+   "confidence": "low"
+  },
+  "NCT01730209": {
+   "target": "pathway",
+   "intervention": "Everolimus",
+   "reason": "The record states that TSC involves \"loss of inhibition of the mammalian target of rapamycin (mTOR) protein due to dysfunction of the tuberin/hamartin protein complex\" and that this deficit \"can be rescued by everolimus,\" identifying mTOR inhibition as the rationale.",
+   "confidence": "high"
+  },
+  "NCT07014020": {
+   "target": "gene_product",
+   "intervention": "RB001",
+   "reason": "The record describes RB001 as a \"GENETIC\" intervention and an \"AAV gene therapy\" given for \"SHANK3-related Phelan-McDermid Syndrome\"/\"SHANK3 Haploinsufficiency,\" indicating it acts at the level of the SHANK3 gene.",
+   "confidence": "high"
+  },
+  "NCT06662188": {
+   "target": "gene_product",
+   "intervention": "JAG201 gene therapy",
+   "reason": "The record describes 'JAG201 Gene Therapy' for participants with 'SHANK3 haploinsufficiency resulting from SHANK3 loss of function mutations and chromosomal deletions encompassing the SHANK3 gene,' indicating it acts at the level of the defective gene.",
+   "confidence": "high"
+  },
+  "NCT07690527": {
+   "target": "gene_product",
+   "intervention": "RB001",
+   "reason": "The record describes RB001 as a \"gene replacement therapy\" for children with SHANK3-related Phelan-McDermid syndrome.",
+   "confidence": "high"
+  },
+  "NCT04623398": {
+   "target": "gene_product",
+   "intervention": "Lithium Carbonate",
+   "reason": "The record says iPSC-derived neurons with SHANK3 mutations were used to identify compounds \"that can restore the expression level of SHANK3,\" and this trial tests one of those compounds in patients with SHANK3 haploinsufficiency.",
+   "confidence": "high"
+  },
+  "NCT04003207": {
+   "target": "pathway",
+   "intervention": "Recombinant human growth hormone",
+   "reason": "The record states that growth hormone 'increases insulin like growth factor 1 (IGF-1) levels' and is being used because prior 'IGF-1 therapy in PMS children showed improvement,' indicating a downstream GH/IGF-1 pathway rationale rather than direct action on SHANK3.",
+   "confidence": "high"
+  },
+  "NCT05105685": {
+   "target": "pathway",
+   "intervention": "recombinant human growth hormone",
+   "reason": "The record states that rhGH \"can improve PMS symptoms via increase the level of serum insulin-like growth factor-1 (IGF-1) and insulin-like growth factor binding protein 3 (IGFBP-3),\" indicating action through the GH/IGF-1 pathway rather than directly on SHANK3.",
+   "confidence": "high"
+  },
+  "NCT01525901": {
+   "target": "pathway",
+   "intervention": "Insulin-Like Growth Factor-1 (IGF-1)",
+   "reason": "The record describes treatment with 'Insulin-Like Growth Factor-1 (IGF-1)' in patients with 'SHANK3 gene deficiency,' indicating a growth factor pathway intervention rather than replacement or correction of SHANK3 itself.",
+   "confidence": "medium"
+  },
+  "NCT07102524": {
+   "target": "gene_product",
+   "intervention": "TSHA-105",
+   "reason": "The record describes 'Intrathecal Gene Therapy For SLC13A5 Citrate Transporter Disorder' and notes risk related to 'gene transfer' in subjects with mutations in the SLC13A5 gene.",
+   "confidence": "high"
+  },
+  "NCT02500082": {
+   "target": "symptomatic_or_unknown",
+   "intervention": "triheptanoin",
+   "reason": "The record says triheptanoin is being used \"to determine whether [it] is effective in the treatment of neurological symptoms related to citrate transporter deficiency,\" but it does not state that it acts on SLC13A5 or a named downstream pathway.",
+   "confidence": "low"
+  }
+ }
+}

@@ -1,44 +1,54 @@
 {
- "totalUsd": 3.7349775000000003,
+ "totalUsd": 5.878439000000001,
  "byStage": {
   "S5": {
-   "calls": 599,
-   "cachedCalls": 1428,
-   "inputTokens": 762654,
-   "outputTokens": 105983,
-   "usd": 1.0489140000000015,
-   "model": "gpt-5.4-mini"
+   "calls": 664,
+   "cachedCalls": 2207,
+   "inputTokens": 820508,
+   "outputTokens": 114129,
+   "usd": 1.315739000000001,
+   "model": "gpt-5.4"
   },
   "S4": {
-   "calls": 909,
-   "cachedCalls": 6096,
-   "inputTokens": 674479,
-   "outputTokens": 162807,
-   "usd": 1.9203992500000007,
+   "calls": 1143,
+   "cachedCalls": 7870,
+   "inputTokens": 923262,
+   "outputTokens": 222839,
+   "usd": 3.4428367500000014,
    "model": "gpt-5.4"
   },
   "S6": {
-   "calls": 160,
-   "cachedCalls": 476,
-   "inputTokens": 57949,
-   "outputTokens": 12575,
-   "usd": 0.10004924999999998,
+   "calls": 161,
+   "cachedCalls": 797,
+   "inputTokens": 58215,
+   "outputTokens": 12661,
+   "usd": 0.10063574999999998,
    "model": "gpt-5.4-mini"
   },
   "S10": {
-   "calls": 14,
-   "cachedCalls": 8,
-   "inputTokens": 57014,
-   "outputTokens": 34872,
-   "usd": 0.6656149999999998,
+   "calls": 20,
+   "cachedCalls": 14,
+   "inputTokens": 87101,
+   "outputTokens": 51060,
+   "usd": 0.9836524999999998,
+   "model": "gpt-5.4"
+  },
+  "S9": {
+   "calls": 11,
+   "cachedCalls": 22,
+   "inputTokens": 4570,
+   "outputTokens": 1610,
+   "usd": 0.035574999999999996,
    "model": "gpt-5.4"
   }
  },
- "updatedAt": "2026-10-04T01:58:31.036Z",
+ "updatedAt": "2026-10-04T03:22:24.687Z",
  "models": {
   "T2": "gpt-5.4-mini",
   "T1": "gpt-5.4",
   "T3": "gpt-5.4-mini",
-  "T4": "gpt-5.4"
+  "T4": "gpt-5.4",
+  "T5": "gpt-5.4",
+  "T6": "gpt-5.4"
  }
 }

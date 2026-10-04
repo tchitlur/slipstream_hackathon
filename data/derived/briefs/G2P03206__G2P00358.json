@@ -1,0 +1,282 @@
+{
+ "focalId": "cond:G2P03206",
+ "neighborId": "cond:G2P00358",
+ "generatedAt": "2026-10-04T03:22:24.295Z",
+ "mode": "llm",
+ "model": "gpt-5.4",
+ "sections": [
+  {
+   "heading": "Who we are",
+   "sentences": [
+    {
+     "text": "[Name of our group, who we represent, and how many families we are in touch with.]",
+     "evidenceIds": []
+    }
+   ]
+  },
+  {
+   "heading": "Why we are writing to you",
+   "sentences": [
+    {
+     "text": "We are writing because public records show that GRIN1-related neurodevelopmental disorder and SLC13A5-related epileptic encephalopathy are both linked to loss of function on the same broad disease mechanism path. ",
+     "evidenceIds": [
+      "ev:g2p:G2P03206",
+      "ev:hpoa:OMIM:617820",
+      "ev:g2p:G2P00358",
+      "ev:hpoa:OMIM:615905"
+     ]
+    },
+    {
+     "text": "Public records also show high phenotype similarity between the two conditions, with overlap in encephalopathy, epileptic encephalopathy, reduced or abnormal eye contact, and abnormal nonverbal communication. ",
+     "evidenceIds": [
+      "ev:rule:simgic",
+      "ev:g2p:G2P03206",
+      "ev:hpoa:OMIM:617820",
+      "ev:g2p:G2P00358",
+      "ev:hpoa:OMIM:615905"
+     ]
+    },
+    {
+     "text": "Because your community appears to have more developed natural history work and trial activity, we hope to learn from what you have already built. ",
+     "evidenceIds": [
+      "ev:ctgov:NCT06144957:role",
+      "ev:ctgov:NCT04681781:role",
+      "ev:ctgov:NCT07102524:role",
+      "ev:ctgov:NCT02500082:role"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we share",
+   "sentences": [
+    {
+     "text": "Gene2Phenotype lists both GRIN1 and SLC13A5 disease links with definitive confidence. ",
+     "evidenceIds": [
+      "ev:g2p:G2P03206",
+      "ev:g2p:G2P00358"
+     ]
+    },
+    {
+     "text": "Public records show that both conditions are currently curated as loss of function, although this is inferred. ",
+     "evidenceIds": [
+      "ev:g2p:G2P03206",
+      "ev:g2p:G2P00358"
+     ]
+    },
+    {
+     "text": "A published literature search reports disease models for both genes, with 70 PubMed records for GRIN1 and 19 for SLC13A5. ",
+     "evidenceIds": [
+      "ev:pubmed:models:GRIN1",
+      "ev:pubmed:models:SLC13A5"
+     ]
+    },
+    {
+     "text": "Public records show active NIH-funded research in both areas in FY2025 to 2026. ",
+     "evidenceIds": [
+      "ev:reporter:F31NS139688",
+      "ev:reporter:F31NS145927",
+      "ev:reporter:R01NS131865",
+      "ev:reporter:F30NS141502",
+      "ev:reporter:R01NS094154",
+      "ev:reporter:K00NS129126"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we would like to learn from or reuse",
+   "sentences": [
+    {
+     "text": "We would like to learn from your natural history study design, registry items, visit schedule, and consent approach. ",
+     "evidenceIds": [
+      "ev:rule:R1",
+      "ev:ctgov:NCT06144957:role",
+      "ev:ctgov:NCT04681781:role",
+      "ev:seed:registry:citizen-health:SLC13A5"
+     ]
+    },
+    {
+     "text": "We would also like to learn from your outcome measures and endpoints, because public records suggest the measured domains may overlap with ours. ",
+     "evidenceIds": [
+      "ev:rule:R2",
+      "ev:rule:simgic",
+      "ev:ctgov:NCT06144957:role",
+      "ev:ctgov:NCT04681781:role",
+      "ev:seed:registry:citizen-health:SLC13A5"
+     ]
+    },
+    {
+     "text": "Your clinical network, study sites, and investigators may also be relevant to families in our community. ",
+     "evidenceIds": [
+      "ev:rule:R3",
+      "ev:seed:registry:citizen-health:SLC13A5",
+      "ev:ctgov:NCT07102524:role",
+      "ev:ctgov:NCT02500082:role",
+      "ev:ctgov:NCT06144957:role",
+      "ev:ctgov:NCT04681781:role"
+     ]
+    },
+    {
+     "text": "We would welcome expert discussion about whether parts of your therapeutic strategy, assays, and trial design could inform GRIN1 work, while recognizing that this needs careful review first. ",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:ctgov:NCT07102524:role",
+      "ev:ctgov:NCT02500082:role"
+     ]
+    },
+    {
+     "text": "Public records also show an SLC13A5 natural history program in Citizen Health, formerly Ciitizen, that may offer practical ideas for data collection and family participation. ",
+     "evidenceIds": [
+      "ev:seed:registry:citizen-health:SLC13A5"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What we know differs",
+   "sentences": [
+    {
+     "text": "Public records show a named GRIN1 patient organization, CureGRIN Foundation, and we found no public record of a patient organization for SLC13A5 in the sources reviewed. ",
+     "evidenceIds": [
+      "ev:seed:org:curegrin-foundation"
+     ]
+    },
+    {
+     "text": "For GRIN1, public records show inclusion in Simons Searchlight, but we found no condition-specific GRIN1 registry or natural history study. ",
+     "evidenceIds": [
+      "ev:seed:registry:simons-searchlight:GRIN1"
+     ]
+    },
+    {
+     "text": "For SLC13A5, ClinicalTrials.gov records state there are two natural history studies, one in the United States and one remote only. ",
+     "evidenceIds": [
+      "ev:ctgov:NCT06144957:role",
+      "ev:ctgov:NCT04681781:role"
+     ]
+    },
+    {
+     "text": "For GRIN1, public records show two pathway-level trials, but no trial that acts on the gene or its product. ",
+     "evidenceIds": [
+      "ev:ctgov:NCT07377032:role",
+      "ev:ctgov:NCT07377032:excludes",
+      "ev:ctgov:NCT04646447:role"
+     ]
+    },
+    {
+     "text": "For SLC13A5, a ClinicalTrials.gov record states there is a gene-level interventional study, NCT07102524. ",
+     "evidenceIds": [
+      "ev:ctgov:NCT07102524:role"
+     ]
+    },
+    {
+     "text": "We also know that GRIN1 must be treated with extra caution, because published claims report gain mechanisms as well as the curated loss-of-function mechanism. ",
+     "evidenceIds": [
+      "ev:g2p:G2P03206",
+      "ev:pubmed:40994429:claim:0",
+      "ev:pubmed:29365063:claim:0"
+     ]
+    },
+    {
+     "text": "Because of that, our two communities must not assume that the same treatment logic applies to every GRIN1 family. ",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:g2p:G2P03206",
+      "ev:pubmed:40994429:claim:0",
+      "ev:pubmed:29365063:claim:0"
+     ]
+    },
+    {
+     "text": "The mechanism is recorded for the gene and condition, not for every family, so each family’s own GRIN1 variant needs confirmation by a clinical geneticist. ",
+     "evidenceIds": [
+      "ev:rule:R4",
+      "ev:rule:R5",
+      "ev:rule:R6",
+      "ev:g2p:G2P03206"
+     ]
+    },
+    {
+     "text": "We also must not assume that a GRIN1 child could join an SLC13A5 trial, because public records do not assert eligibility across conditions and say families should ask the study team directly. ",
+     "evidenceIds": [
+      "ev:rule:R7",
+      "ev:ctgov:NCT07102524:role",
+      "ev:ctgov:NCT02500082:role"
+     ]
+    },
+    {
+     "text": "Even where there seems to be overlap, registry items, visit schedules, and outcome measures may differ if age of onset and severity differ between the conditions. ",
+     "evidenceIds": [
+      "ev:rule:R1",
+      "ev:rule:R2",
+      "ev:rule:R3",
+      "ev:rule:simgic"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Questions for expert review",
+   "sentences": [
+    {
+     "text": "Do the age of onset and typical severity of SLC13A5-related disease match ours closely enough for its registry items and outcome measures to apply. ",
+     "evidenceIds": [
+      "ev:rule:R1",
+      "ev:rule:R2",
+      "ev:ctgov:NCT06144957:role",
+      "ev:ctgov:NCT04681781:role"
+     ]
+    },
+    {
+     "text": "Which class does a given GRIN1 variant belong to: loss of function, gain of function, or dominant negative. ",
+     "evidenceIds": [
+      "ev:g2p:G2P03206",
+      "ev:pubmed:40994429:claim:0",
+      "ev:pubmed:29365063:claim:0"
+     ]
+    },
+    {
+     "text": "Has a child’s specific GRIN1 variant been functionally classified, and does it match the mechanism recorded for the condition. ",
+     "evidenceIds": [
+      "ev:g2p:G2P03206",
+      "ev:hpoa:OMIM:617820"
+     ]
+    },
+    {
+     "text": "What functional evidence exists for GRIN1, given that the curated mechanism is inferred from variant types rather than direct functional studies. ",
+     "evidenceIds": [
+      "ev:g2p:G2P03206"
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "loss of function",
+   "meaning": "A change that reduces or removes the normal job of a gene or its protein."
+  },
+  {
+   "term": "phenotype",
+   "meaning": "The features and symptoms seen in a person or group."
+  },
+  {
+   "term": "natural history study",
+   "meaning": "A study that follows people over time to understand how a condition changes."
+  },
+  {
+   "term": "outcome measure",
+   "meaning": "A way to track a symptom, ability, or change in health in a study."
+  },
+  {
+   "term": "gene-level trial",
+   "meaning": "A study aimed at the gene or its direct product."
+  },
+  {
+   "term": "clinical geneticist",
+   "meaning": "A doctor who specializes in genetic conditions and variant interpretation."
+  }
+ ],
+ "droppedSentences": 1
+}

@@ -1,5 +1,5 @@
 {
- "builtAt": "2026-10-04T02:37:23.063Z",
+ "builtAt": "2026-10-04T03:22:24.698Z",
  "sources": {
   "g2p": {
    "url": "https://ftp.ebi.ac.uk/pub/databases/gene2phenotype/G2P_data_downloads/2026_09_28/DDG2P_2026-09-28.csv.gz",
@@ -22,16 +22,16 @@
   },
   "ctgov": {
    "url": "https://clinicaltrials.gov/api/v2/studies",
-   "retrievedAt": "2026-10-04T01:53:46.540Z"
+   "retrievedAt": "2026-10-04T03:21:13.676Z"
   },
   "pubmed": {
    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils",
-   "retrievedAt": "2026-10-04T01:07:51.117Z"
+   "retrievedAt": "2026-10-04T03:21:10.966Z"
   },
   "reporter": {
    "url": "https://api.reporter.nih.gov/v2/projects/search",
    "version": "FY2024-2027",
-   "retrievedAt": "2026-10-04T02:32:11.735Z"
+   "retrievedAt": "2026-10-04T03:21:17.858Z"
   }
  },
  "counts": {
@@ -58,13 +58,13 @@
   "ladders": 2866,
   "transferPairs": 2856,
   "transferVerdicts": 19992,
-  "verdictDoNotTransfer": 5677,
+  "verdictDoNotTransfer": 5666,
   "verdictTransferable": 5756,
-  "verdictNeedsExpertReview": 5703,
+  "verdictNeedsExpertReview": 5714,
   "clusters": 351,
   "layoutEdges": 13556,
-  "demoCandidates": 3,
-  "contestedMechanisms": 16,
+  "demoCandidates": 4,
+  "contestedMechanisms": 13,
   "bridges": 43,
   "milestone1_found_deep": 79,
   "milestone2_found_deep": 61,
@@ -72,7 +72,7 @@
   "milestone4_found_deep": 64,
   "milestone5_found_deep": 83,
   "milestone6_found_deep": 57,
-  "milestone7_found_deep": 20,
+  "milestone7_found_deep": 16,
   "milestone8_found_deep": 7,
   "searchDocs": 12326,
   "papers": 882,
@@ -81,28 +81,28 @@
   "t1ClaimsDiscarded": 30,
   "genesWithModelPapers": 65,
   "grants": 413,
-  "investigators": 1140,
+  "investigators": 1168,
   "investigatorRawMentions": 1454,
   "patientOrgs": 51,
   "patientOrgsVerified": 0,
   "patientOrgsWithRegistry": 30,
   "conditionsWithOrg": 66,
-  "reconciliationDecisions": 708,
+  "reconciliationDecisions": 709,
   "reconcile_gene": 51,
   "reconcile_exact": 361,
   "reconcile_normalized": 9,
-  "reconcile_none": 214,
+  "reconcile_none": 215,
   "reconcile_llm": 73,
   "studiesRefinedByReconciliation": 0,
-  "conditionsWithSingleDissent": 6,
-  "briefsPregenerated": 3,
-  "briefsLlm": 3,
+  "conditionsWithSingleDissent": 9,
+  "briefsPregenerated": 4,
+  "briefsLlm": 4,
   "briefsTemplate": 0,
   "grantsDroppedByRelevance": 470,
-  "mechanismBothDirections": 13,
-  "mechanismContestedStrict": 3,
-  "claimsRejectedOnReview": 20,
-  "claimsReviewed": 93,
+  "mechanismBothDirections": 9,
+  "mechanismContestedStrict": 4,
+  "claimsRejectedOnReview": 31,
+  "claimsReviewed": 102,
   "patientOrgsAutoChecked": 51,
   "patientOrgsFailedCheck": 4,
   "patientOrgsWithFoundingYear": 23,
@@ -114,9 +114,10 @@
   "orgSharedRegistryLinks": 54,
   "externalRegistries": 14,
   "conditionsInSharedRegistry": 61,
-  "targetedGeneProduct": 42,
-  "targetedPathway": 13,
-  "targetedSymptomaticOrUnknown": 10
+  "targetedGeneProduct": 45,
+  "targetedPathway": 9,
+  "targetedSymptomaticOrUnknown": 11,
+  "mechanismDifferentReported": 0
  },
  "thresholds": {
   "thinAnnotationTerms": 5,
@@ -133,38 +134,46 @@
   "contestedMinPapers": 2
  },
  "llm": {
-  "spendUsd": 3.7349775000000003,
+  "spendUsd": 5.878439000000001,
   "byStage": {
    "S5": {
-    "calls": 599,
-    "inputTokens": 762654,
-    "outputTokens": 105983,
-    "usd": 1.0489140000000015
+    "calls": 664,
+    "inputTokens": 820508,
+    "outputTokens": 114129,
+    "usd": 1.315739000000001
    },
    "S4": {
-    "calls": 909,
-    "inputTokens": 674479,
-    "outputTokens": 162807,
-    "usd": 1.9203992500000007
+    "calls": 1143,
+    "inputTokens": 923262,
+    "outputTokens": 222839,
+    "usd": 3.4428367500000014
    },
    "S6": {
-    "calls": 160,
-    "inputTokens": 57949,
-    "outputTokens": 12575,
-    "usd": 0.10004924999999998
+    "calls": 161,
+    "inputTokens": 58215,
+    "outputTokens": 12661,
+    "usd": 0.10063574999999998
    },
    "S10": {
-    "calls": 14,
-    "inputTokens": 57014,
-    "outputTokens": 34872,
-    "usd": 0.6656149999999998
+    "calls": 20,
+    "inputTokens": 87101,
+    "outputTokens": 51060,
+    "usd": 0.9836524999999998
+   },
+   "S9": {
+    "calls": 11,
+    "inputTokens": 4570,
+    "outputTokens": 1610,
+    "usd": 0.035574999999999996
    }
   },
   "models": {
    "T2": "gpt-5.4-mini",
    "T1": "gpt-5.4",
    "T3": "gpt-5.4-mini",
-   "T4": "gpt-5.4"
+   "T4": "gpt-5.4",
+   "T5": "gpt-5.4",
+   "T6": "gpt-5.4"
   }
  },
  "genesRequested": [
@@ -236,5 +245,5 @@
  ],
  "genesDropped": [],
  "notes": [],
- "gitCommit": "d3c2e82"
+ "gitCommit": "f606e7f"
 }

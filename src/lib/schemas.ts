@@ -61,6 +61,10 @@ export const MechanismClaimSchema = z.object({
   mechanism: z.string(),
   conditionHint: z.string(),
   evidenceId: z.string(),
+  /** Set when a named human overrode the automated decision (data/seed/human_review.json): shown as "reviewed by a team member". */
+  reviewedBy: z.string().optional(),
+  /** T5 category, e.g. keep_functional_characterization_of_patient_variants. */
+  reviewCategory: z.string().optional(),
 });
 
 export const ContestedSchema = z.object({
@@ -339,6 +343,8 @@ export const InvestigatorSchema = z.object({
       url: z.string(),
       role: z.string(),
       conditionIds: z.array(z.string()),
+      /** True when the record itself names the condition (disease name), not only the gene symbol. */
+      namesCondition: z.boolean().optional(),
     }),
   ),
   conditionIds: z.array(z.string()),

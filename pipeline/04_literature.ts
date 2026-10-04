@@ -10,7 +10,8 @@ import { z } from "zod";
 import { parseArgs, deepGenes } from "./lib/args";
 import { fetchJsonCached, fetchTextCached } from "./lib/http";
 import { readValidated, writeJson, writeText, log, uniq, readJsonOr } from "./lib/io";
-import { files, RAW, SEED } from "./lib/paths";
+import { files, RAW, SEED, DERIVED } from "./lib/paths";
+import { reviewContestedClaims, type ClaimCandidate, type ReviewFile } from "./lib/review";
 import { writeEvidence } from "./lib/evidence";
 import { updateManifest } from "./lib/manifest";
 import { llmStructured, mapLimit, hasKey, confirmModels, estimateUsd, approxTokens, readLedger, BUDGET_USD } from "./lib/llm";
@@ -23,6 +24,14 @@ import { verifyQuote } from "../src/lib/quotes";
 const MECH_N = Number(process.env.SLIPSTREAM_T1_ABSTRACTS ?? 12);
 const MODEL_TOP = 5;
 const EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils";
+
+/** Decode the numeric and named XML entities PubMed uses in names (Rapha&#xeb;l, &amp;). */
+function decodeXmlEntities(s: string): string {
+  return s
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+    .replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(Number(d)))
+    .replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&apos;/g, "'");
+}
 
 function eutilsParams(extra: Record<string, string>) {
   const p = new URLSearchParams({ db: "pubmed", tool: "slipstream", ...extra });
@@ -59,7 +68,7 @@ function parseEfetch(xml: string): Fetched[] {
     const title = decode((a.match(/<ArticleTitle>([\s\S]*?)<\/ArticleTitle>/)?.[1] ?? "").replace(/<[^>]+>/g, ""));
     const year = a.match(/<PubDate>[\s\S]*?<Year>(\d{4})<\/Year>/)?.[1] ?? a.match(/<MedlineDate>(\d{4})/)?.[1];
     const abs = [...a.matchAll(/<AbstractText(?: Label="([^"]*)")?[^>]*>([\s\S]*?)<\/AbstractText>/g)].map((m) => (m[1] ? `${m[1]}: ` : "") + decode(m[2].replace(/<[^>]+>/g, ""))).join(" ");
-    const authors = [...a.matchAll(/<Author[^>]*>[\s\S]*?<LastName>([^<]+)<\/LastName>[\s\S]*?(?:<ForeName>([^<]+)<\/ForeName>|<Initials>([^<]+)<\/Initials>)?[\s\S]*?<\/Author>/g)].map((m) => `${m[1]}${m[2] ? ", " + m[2] : m[3] ? ", " + m[3] : ""}`.trim());
+    const authors = [...a.matchAll(/<Author[^>]*>[\s\S]*?<LastName>([^<]+)<\/LastName>[\s\S]*?(?:<ForeName>([^<]+)<\/ForeName>|<Initials>([^<]+)<\/Initials>)?[\s\S]*?<\/Author>/g)].map((m) => decodeXmlEntities(`${m[1]}${m[2] ? ", " + m[2] : m[3] ? ", " + m[3] : ""}`.trim()));
     out.push({ pmid, title, year, authors, lastAuthor: authors[authors.length - 1], hasAbstract: abs.length > 0, abstract: abs });
   }
   return out;
@@ -231,8 +240,46 @@ async function main() {
   };
   // Review file (data/seed/contested_review.json): per-claim keep/reject decisions and per-condition labels from an
   // automated reading of the abstracts. Rejected claims are kept on the condition with their reason, never deleted.
-  type Review = { reviewedAt: string; reviewer: string; claims: Record<string, { decision: "keep" | "reject"; reason: string; sameVariantClassDispute?: boolean; inPatients?: boolean }>; conditions?: Record<string, { suggestedLabel?: string; note?: string }> };
-  const review = readJsonOr<Review | null>(path.join(SEED, "contested_review.json"), null);
+  type Review = { reviewedAt: string; reviewer: string; claims: Record<string, { decision: "keep" | "reject"; reason: string; sameVariantClassDispute?: boolean; inPatients?: boolean; reviewer?: string; category?: string }>; conditions?: Record<string, { suggestedLabel?: string; note?: string }> };
+  // T5 (automated review by the model, not a biomedical expert review): every verified claim whose direction disagrees
+  // with a curated record of its gene is read against its full cached abstract. The seed file from the earlier agent
+  // review is kept only to log where the two differ (data/derived/contested_review_diff.json).
+  const cands: ClaimCandidate[] = [];
+  for (const claim of claims) {
+    if (claim.direction === "unclear") continue;
+    const conds = (condsByGene.get(claim.geneSymbol) ?? []).filter((c) => c.mechanism !== "undetermined" && c.mechanism !== "undetermined non-loss-of-function");
+    if (!conds.some((c) => directionOfMechanism(c.mechanism) !== claim.direction)) continue;
+    // When the curated source already has a separate condition of this gene for the claim's direction, the claim is
+    // attached there as support and the two conditions are linked as "same gene, different mechanism"; no review needed.
+    if (conds.some((c) => directionOfMechanism(c.mechanism) === claim.direction)) continue;
+    const quote = evidence.find((e) => e.id === claim.evidenceId)?.quote?.text ?? "";
+    cands.push({ evidenceId: claim.evidenceId, pmid: claim.pmid, geneSymbol: claim.geneSymbol, direction: claim.direction, mechanism: claim.mechanism, conditionHint: claim.conditionHint, quote, curated: conds.map((c) => ({ conditionName: c.name, mechanism: c.mechanism })) });
+  }
+  const t5 = await reviewContestedClaims(cands, "S4");
+  // Human overrides (data/seed/human_review.json): a named reviewer may override one claim's keep or reject.
+  type HumanReview = { overrides: Record<string, { reviewer: string; pmid: string; decision: "keep" | "reject"; reason: string }> };
+  const human = readJsonOr<HumanReview | null>(path.join(SEED, "human_review.json"), null);
+  let humanOverrides = 0;
+  if (t5 && human) {
+    for (const [id, o] of Object.entries(human.overrides)) {
+      if (!o?.reviewer || !o.decision || !o.reason) continue;
+      const prev = t5.claims[id];
+      const base = prev ?? { category: o.decision === "keep" ? "keep_patient_variants_other_direction" : "reject_no_direction_asserted", sameVariantClassDispute: false, confidence: "high", reason: o.reason, decision: o.decision, inPatients: o.decision === "keep", sameGene: true, pmid: o.pmid, geneSymbol: "", direction: "" } as ReviewFile["claims"][string];
+      t5.claims[id] = { ...base, decision: o.decision, inPatients: o.decision === "keep", reason: o.reason, reviewer: `reviewed by a team member (${o.reviewer})` };
+      humanOverrides++;
+    }
+    if (humanOverrides) log("S4", `${humanOverrides} human overrides applied from data/seed/human_review.json`);
+  }
+  const review: Review | null = t5 ? { reviewedAt: t5.reviewedAt, reviewer: t5.reviewer, claims: t5.claims } : null;
+  if (t5) {
+    writeJson(files.contestedReview, t5, { pretty: true });
+    const seedReview = readJsonOr<Review | null>(path.join(SEED, "contested_review.json"), null);
+    if (seedReview) {
+      const diff = Object.entries(t5.claims).filter(([id, r]) => seedReview.claims[id] && (seedReview.claims[id].decision !== r.decision || Boolean(seedReview.claims[id].sameVariantClassDispute) !== r.sameVariantClassDispute)).map(([id, r]) => ({ evidenceId: id, gene: r.geneSymbol, pmid: r.pmid, earlier: { decision: seedReview.claims[id].decision, sameVariantClassDispute: Boolean(seedReview.claims[id].sameVariantClassDispute) }, now: { decision: r.decision, sameVariantClassDispute: r.sameVariantClassDispute, reason: r.reason } }));
+      writeJson(path.join(DERIVED, "contested_review_diff.json"), { comparedAt: t5.reviewedAt, model: t5.model, reviewedNow: Object.keys(t5.claims).length, reviewedEarlier: Object.keys(seedReview.claims).length, differing: diff }, { pretty: true });
+      log("S4", `T5 vs earlier agent review: ${diff.length} of ${Object.keys(t5.claims).length} decisions differ`);
+    }
+  }
   for (const c of atlas.conditions) {
     c.contested = undefined;
     c.supportingClaims = [];
@@ -243,7 +290,8 @@ async function main() {
   for (const [symbol, conds] of condsByGene) {
     const geneClaims = claims.filter((c) => c.geneSymbol === symbol && c.direction !== "unclear");
     for (const claim of geneClaims) {
-      const entry: MechanismClaimEntry = { pmid: claim.pmid, direction: claim.direction, mechanism: claim.mechanism, conditionHint: claim.conditionHint, evidenceId: claim.evidenceId };
+      const rv0 = review?.claims[claim.evidenceId];
+      const entry: MechanismClaimEntry = { pmid: claim.pmid, direction: claim.direction, mechanism: claim.mechanism, conditionHint: claim.conditionHint, evidenceId: claim.evidenceId, reviewedBy: rv0?.reviewer, reviewCategory: rv0?.category };
       const scored = conds.map((c) => ({ c, s: Math.max(overlap(claim.conditionHint, c.name), ...c.synonyms.map((syn) => overlap(claim.conditionHint, syn))) })).sort((x, y) => y.s - x.s);
       let targets: Condition[];
       if (conds.length > 1 && scored[0].s >= 0.5 && (scored.length === 1 || scored[0].s > scored[1].s)) targets = [scored[0].c];
@@ -255,7 +303,7 @@ async function main() {
       for (const c of targets) {
         if (directionOfMechanism(c.mechanism) === claim.direction) c.supportingClaims.push(entry);
         else if (c.mechanism !== "undetermined" && c.mechanism !== "undetermined non-loss-of-function") {
-          if (rv?.decision === "reject") c.rejectedClaims.push({ ...entry, reason: rv.reason, reviewer: review!.reviewer });
+          if (rv?.decision === "reject") c.rejectedClaims.push({ ...entry, reason: rv.reason, reviewer: rv.reviewer ?? review!.reviewer });
           else (dissent.get(c.id) ?? dissent.set(c.id, []).get(c.id)!).push(entry);
         }
       }

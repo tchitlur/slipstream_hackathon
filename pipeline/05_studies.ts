@@ -8,7 +8,8 @@ import { z } from "zod";
 import { parseArgs, deepGenes } from "./lib/args";
 import { fetchJsonCached } from "./lib/http";
 import { readValidated, readJsonOr, writeJson, writeText, log, uniq } from "./lib/io";
-import { files, RAW, SEED } from "./lib/paths";
+import { files, RAW, SEED , DERIVED } from "./lib/paths";
+import { labelStudyTargets } from "./lib/review";
 import { writeEvidence } from "./lib/evidence";
 import { updateManifest } from "./lib/manifest";
 import { llmStructured, mapLimit, hasKey, confirmModels, estimateUsd, approxTokens, readLedger, BUDGET_USD } from "./lib/llm";
@@ -253,8 +254,21 @@ async function main() {
   // Three-level target label (gene_product / pathway / symptomatic_or_unknown) from the automated assignment file; a
   // study not covered there falls back to its modality (antisense and gene therapy act on the gene product).
   type Levels = { reviewedAt: string; reviewer: string; levels: Record<string, { target: "gene_product" | "pathway" | "symptomatic_or_unknown"; reason: string; confidence?: string }> };
-  const levels = readJsonOr<Levels | null>(files.seedTargetLevels, null);
   const targeted = Object.values(studies).filter((st) => st.classification?.aboutCondition && st.classification.role === "interventional_targeted");
+  // T6: the model reads each targeted record (automated review, not a clinical review); the earlier agent file is kept
+  // only to log differences (data/derived/target_levels_diff.json).
+  const condName = (st: Study) => atlas.conditions.find((c) => st.conditionIds.includes(c.id));
+  const t6 = await labelStudyTargets(targeted.map((st) => { const c = condName(st); return { id: st.id, geneSymbol: c?.geneSymbol ?? "", conditionName: c?.name ?? "", mechanism: c?.mechanism ?? "", text: normalized.get(st.id)?.text ?? `${st.briefTitle}. ${st.officialTitle ?? ""} Interventions: ${st.interventions.map((i) => i.name).join("; ")}` }; }), "S5");
+  const levels: Levels | null = t6 ? { reviewedAt: t6.reviewedAt, reviewer: t6.reviewer, levels: t6.levels } : null;
+  if (t6) {
+    writeJson(files.targetLevels, t6, { pretty: true });
+    const seedLevels = readJsonOr<Levels | null>(files.seedTargetLevels, null);
+    if (seedLevels) {
+      const diff = Object.entries(t6.levels).filter(([id, r]) => seedLevels.levels[id] && seedLevels.levels[id].target !== r.target).map(([id, r]) => ({ studyId: id, earlier: seedLevels.levels[id].target, now: r.target, confidence: r.confidence, reason: r.reason }));
+      writeJson(path.join(DERIVED, "target_levels_diff.json"), { comparedAt: t6.reviewedAt, model: t6.model, labelledNow: Object.keys(t6.levels).length, labelledEarlier: Object.keys(seedLevels.levels).length, differing: diff }, { pretty: true });
+      log("S5", `T6 vs earlier agent labels: ${diff.length} of ${Object.keys(t6.levels).length} differ`);
+    }
+  }
   const normName = (n: string) => n.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
   // Levels stated by a sibling trial of the same intervention (confidence at least medium) propagate to record-silent trials.
   const statedByIntervention = new Map<string, { target: Levels["levels"][string]["target"]; from: string }>();
