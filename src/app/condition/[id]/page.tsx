@@ -159,7 +159,10 @@ export default async function ConditionPage({ params }: { params: Promise<{ id: 
                   <li key={cl.evidenceId} className="text-ink-2">
                     <EvidenceLink ids={[cl.evidenceId]} title={`Published claim (PMID ${cl.pmid})`}>
                       PMID {cl.pmid}: {cl.direction.replace("_", " ")} — {cl.mechanism}
-                    </EvidenceLink>
+                    </EvidenceLink>{" "}
+                    <span className="text-muted text-xs">
+                      {cl.reviewedBy ? `(${cl.reviewedBy})` : cl.reviewCategory ? `(kept on automated review: ${cl.reviewCategory.replace(/^keep_/, "").replace(/_/g, " ")}; not a biomedical expert review)` : ""}
+                    </span>
                   </li>
                 ))}
               </ul>

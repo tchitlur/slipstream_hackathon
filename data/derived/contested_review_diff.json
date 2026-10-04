@@ -1,51 +1,9 @@
 {
  "comparedAt": "2026-10-04",
  "model": "gpt-5.4",
- "reviewedNow": 122,
+ "reviewedNow": 102,
  "reviewedEarlier": 93,
  "differing": [
-  {
-   "evidenceId": "ev:pubmed:31904117:claim:1",
-   "gene": "SCN1A",
-   "pmid": "31904117",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract states that SCN1A mutations reported in sporadic/familial hemiplegic migraine 3 are missense mutations and that most experimental results show a gain of function of NaV1.1. However, it contrasts these with the epileptogenic SCN1A mutations causing haploinsufficiency/loss of function, so this is a different variant class/phenotype rather than a direct dispute of the curated loss-of-function seizure disorder mechanism."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:31904120:claim:0",
-   "gene": "SCN2A",
-   "pmid": "31904120",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract is a review of SCN2A channelopathies and notes that one group of affected patients carry gain-of-function variants, but it does not state that gain-of-function causes SCN2A-related nonspecific severe intellectual disability specifically. Thus it does not directly dispute the curated loss-of-function mechanism for the severe ID record, and instead refers broadly to different SCN2A phenotypes/variant groups."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:38651838:claim:0",
-   "gene": "SCN2A",
-   "pmid": "38651838",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract studies 81 human patients with SCN2A variants and reports that gain-of-function/mixed-function variants predominate specifically in neonatal-onset epilepsy, whereas severe/complete loss-of-function variants are seen in later-onset epilepsy and autism groups. This does not dispute the curated SCN2A severe intellectual disability loss-of-function record, because the gain-of-function statement refers to a different phenotype/variant class rather than the same disease mechanism class."
-   }
-  },
   {
    "evidenceId": "ev:pubmed:34431999:claim:1",
    "gene": "SCN8A",
@@ -57,25 +15,11 @@
    "now": {
     "decision": "keep",
     "sameVariantClassDispute": true,
-    "reason": "The abstract is about 392 individuals carrying disease-causing SCN8A variants and reports functional studies of patient missense variants. It explicitly states that two variants causing developmental and epileptic encephalopathy showed a strong gain-of-function, which conflicts with a curated dominant-negative mechanism for SCN8A early infantile epileptic encephalopathy."
+    "reason": "In a large SCN8A patient cohort, patch-clamp studies of patient missense variants showed that variants causing developmental and epileptic encephalopathy had strong gain-of-function, directly opposing the curated dominant-negative direction for the same disease context."
    }
   },
   {
-   "evidenceId": "ev:pubmed:34431999:claim:2",
-   "gene": "SCN8A",
-   "pmid": "34431999",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract is about human SCN8A variant carriers and reports that three missense variants causing generalized epilepsy showed loss-of-function. However, this does not argue against the curated dominant-negative mechanism for SCN8A-related early infantile epileptic encephalopathy; it describes a different clinical subgroup/variant effect rather than a direct dispute of the same disease mechanism."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:34431999:claim:3",
+   "evidenceId": "ev:pubmed:34431999:claim:5",
    "gene": "SCN8A",
    "pmid": "34431999",
    "earlier": {
@@ -83,23 +27,9 @@
     "sameVariantClassDispute": true
    },
    "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract is about human SCN8A variant carriers and reports that functionally tested missense variants can be either gain-of-function or loss-of-function, with gain-of-function mainly associated with focal epilepsies and some developmental and epileptic encephalopathy cases. However, it does not specifically argue against a dominant-negative mechanism for the curated early infantile encephalopathy variant class; it describes a different set of variants/phenotypes rather than a direct same-class dispute."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:34431999:claim:4",
-   "gene": "SCN8A",
-   "pmid": "34431999",
-   "earlier": {
     "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
     "sameVariantClassDispute": false,
-    "reason": "The abstract is about human SCN8A variant carriers and reports that loss-of-function variants are mainly associated with generalized epilepsy with absence seizures, while developmental and epileptic encephalopathy is mostly linked to gain-of-function variants; only three loss-of-function carriers had DEE. This does not dispute the curated dominant-negative mechanism for SCN8A-related early infantile epileptic encephalopathy, but instead describes a different phenotype/variant class association."
+    "reason": "In a large SCN8A patient cohort with functional testing, focal/DEE cases carried gain-of-function variants while generalized epilepsy/no-epilepsy cases carried loss-of-function variants, showing mixed disease directions in patient variants."
    }
   },
   {
@@ -113,7 +43,7 @@
    "now": {
     "decision": "reject",
     "sameVariantClassDispute": false,
-    "reason": "The abstract discusses human SCN8A variants, stating that while epileptic encephalopathy is caused by gain-of-function missense mutations, partial or complete loss-of-function mutations are associated with intellectual disability and other disorders. This is not a dispute of the curated early infantile encephalopathy mechanism, but a different phenotype/mechanism pairing for a different class of variants."
+    "reason": "The abstract functionally discusses epilepsy-associated SCN8A patient mutations as gain-of-function, but the loss-of-function statement is only a general background assertion about intellectual disability/other disorders and does not present or characterize specific patient variants."
    }
   },
   {
@@ -127,35 +57,21 @@
    "now": {
     "decision": "reject",
     "sameVariantClassDispute": false,
-    "reason": "This abstract is a review and only says that examples of precision medicine targeting gain-of-function mutations in GRIN2A are presented; it does not describe specific GRIN2A patient variants or primary evidence from patients in the abstract itself. It therefore does not establish a direct dispute with the curated GRIN2A loss-of-function disease mechanism for the same variant class."
+    "reason": "This review abstract only generally mentions precision medicine for GRIN2A 'gain-of-function mutations' and provides no specific patient variants or functional data establishing direction."
    }
   },
   {
-   "evidenceId": "ev:pubmed:30870728:claim:0",
-   "gene": "GRIN2A",
-   "pmid": "30870728",
+   "evidenceId": "ev:pubmed:34353676:claim:1",
+   "gene": "SCN8A",
+   "pmid": "34353676",
    "earlier": {
     "decision": "keep",
-    "sameVariantClassDispute": false
+    "sameVariantClassDispute": true
    },
    "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "This review states that \"memantine has been used to treat the epileptic encephalopathy caused by a specific gain-of-function GRIN2A mutation,\" so it does describe a human GRIN2A patient mutation with gain-of-function. However, it is a specific mutation example rather than a dispute of the curated GRIN2A loss-of-function mechanism as the general disease mechanism, so it is not the same-variant-class contradiction."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:18238816:claim:1",
-   "gene": "KCNQ2",
-   "pmid": "18238816",
-   "earlier": {
     "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
     "sameVariantClassDispute": false,
-    "reason": "The abstract is a review discussing human KCNQ2 mutations causing peripheral nerve hyperexcitability and states that the two PNH-associated mutations cause severe channel dysfunction with a dominant-negative effect on WT channels. This is the same general loss-of-function direction as the curated benign neonatal epilepsy record, and it is not presented as an opposite mechanism for the curated KCNQ2 disease records."
+    "reason": "This review states that SCN8A variants in patients with epilepsy result primarily in Nav1.6 gain-of-function, a direction different from the curated dominant-negative mechanism, but it does not present a same-variant-class head-to-head dispute."
    }
   },
   {
@@ -169,35 +85,7 @@
    "now": {
     "decision": "keep",
     "sameVariantClassDispute": true,
-    "reason": "The abstract explicitly states that 'KCNQ2 developmental and epileptic encephalopathy (KCNQ-DEE) is caused predominantly by dominant-negative loss-of-function variants in the KCNQ2 gene' and studies patient iPSC-derived neurons. This directly conflicts with the curated record for KCNQ2-related epileptic encephalopathy as gain of function."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:40998073:claim:1",
-   "gene": "KCNQ2",
-   "pmid": "40998073",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "keep",
-    "sameVariantClassDispute": true,
-    "reason": "The abstract explicitly states that \"KCNQ-DEE is caused predominantly by dominant-negative loss-of-function variants in the KCNQ2 gene\" and studies patient iPSC-derived neurons, so it is about human patient variants in KCNQ2. This directly conflicts with the curated KCNQ2-DEE mechanism of gain of function, asserting instead a dominant-negative/loss-of-function mechanism with diminished M-current."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:40998073:claim:2",
-   "gene": "KCNQ2",
-   "pmid": "40998073",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "keep",
-    "sameVariantClassDispute": true,
-    "reason": "The abstract explicitly states that KCNQ2 developmental and epileptic encephalopathy is caused predominantly by dominant-negative loss-of-function KCNQ2 variants, and models patient iPSC-derived neurons carrying these variants. It describes diminished M-current from these patient variants, which is the opposite direction from the curated KCNQ2-DEE gain-of-function record."
+    "reason": "The abstract studies patient-derived KCNQ2-DEE neurons and states that dominant-negative patient KCNQ2 variants diminish M-current (loss of function), directly opposing the curated gain-of-function direction for KCNQ2 epileptic encephalopathy."
    }
   },
   {
@@ -211,21 +99,7 @@
    "now": {
     "decision": "reject",
     "sameVariantClassDispute": false,
-    "reason": "The abstract describes human patients from a family with a KCNA2 in-frame deletion (p.255_257del) and states that this mutation caused 'dominant negative loss of channel function.' This is a KCNA2 patient-variant loss-of-function finding, which is consistent with the curated KCNA2 loss-of-function mechanism rather than disputing it."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:25751627:claim:0",
-   "gene": "KCNA2",
-   "pmid": "25751627",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract is about de novo KCNA2 variants in six human patients with epileptic encephalopathy. It states that two mutations showed 'almost complete loss of function with a dominant-negative effect' and two others showed gain of function, so this does not dispute the curated KCNA2 loss-of-function/gain-of-function mechanisms."
+    "reason": "The abstract functionally shows patient KCNA2 variants with dominant-negative loss of channel function, which aligns with the existing loss-of-function curated record and does not provide an opposite-direction mechanism."
    }
   },
   {
@@ -239,125 +113,13 @@
    "now": {
     "decision": "keep",
     "sameVariantClassDispute": true,
-    "reason": "The abstract reports three new de novo missense KCNC1 variants identified in five unrelated individuals and states that functional analyses showed 'no measurable currents for all identified variants' with dominant-negative effects for two of them. This is a human patient-based claim for KCNC1 missense variants asserting loss of function/dominant-negative effects, opposite to the curated gain-of-function mechanism."
+    "reason": "In five affected individuals with de novo KCNC1 missense variants, functional assays showed no measurable currents and dominant-negative effects, supporting loss of function/opposite direction to the curated gain-of-function record."
    }
   },
   {
-   "evidenceId": "ev:pubmed:31353862:claim:1",
-   "gene": "KCNC1",
-   "pmid": "31353862",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "keep",
-    "sameVariantClassDispute": true,
-    "reason": "The abstract reports de novo KCNC1 missense variants identified in five unrelated human individuals, including p.Ala421Val in three patients with epilepsy and p.Thr399Met with intellectual disability. It explicitly states that functional analyses showed no measurable currents for all variants and dominant-negative effects for p.Thr399Met and p.Ala421Val, which is the opposite mechanism direction from the curated gain-of-function record for missense KCNC1 disease variants."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:31353862:claim:2",
-   "gene": "KCNC1",
-   "pmid": "31353862",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "keep",
-    "sameVariantClassDispute": true,
-    "reason": "The abstract is about de novo KCNC1 missense variants identified in five unrelated human patients, including individuals with epilepsy, ataxia, and developmental delay. It explicitly states that functional analyses showed no measurable currents and dominant-negative effects for p.Thr399Met and p.Ala421Val, which is a different mechanism direction from the curated gain-of-function record for KCNC1-related epilepsy."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:31353855:claim:0",
-   "gene": "KCNC1",
-   "pmid": "31353855",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract reports human KCNC1 missense variants in patients with Developmental and Epileptic Encephalopathy or Developmental Encephalopathy, and states these variants cause loss of function with reduced whole-cell currents. However, this broadens the KCNC1 phenotype spectrum rather than disputing the curated mechanism for KCNC1-related progressive myoclonic epilepsy."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:31353855:claim:1",
-   "gene": "KCNC1",
-   "pmid": "31353855",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "keep",
-    "sameVariantClassDispute": true,
-    "reason": "The abstract reports human patients with KCNC1 variants and states that three patients with developmental encephalopathy without seizures had variants that 'all ... caused loss of function with reduced whole-cell currents'; it also reports p.Ala421Val causing loss of function in developmental and epileptic encephalopathy. These are KCNC1 patient missense variants showing a mechanism opposite to the curated gain-of-function record."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:31353855:claim:2",
-   "gene": "KCNC1",
-   "pmid": "31353855",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract reports human KCNC1 variants in 10 patients and shows that several non-p.Arg320His variants associated with developmental/developmental-and-epileptic encephalopathy cause loss of function. However, it explicitly studies variants other than the progressive myoclonus epilepsy-causing p.Arg320His variant, so it broadens the phenotype/mechanism spectrum rather than disputing the curated gain-of-function mechanism for KCNC1-related progressive myoclonic epilepsy."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:28145425:claim:1",
-   "gene": "KCNC1",
-   "pmid": "28145425",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract describes three human patients with a KCNC1 nonsense variant, p.(Arg339*), and states this loss-of-function variant is associated with intellectual disability without seizures. It contrasts this with the previously reported KCNC1 p.(Arg320His) variant causing progressive myoclonus epilepsy via a dominant-negative effect, so this is a different variant class/phenotype rather than a direct dispute of the curated gain-of-function epilepsy mechanism."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:37203213:claim:1",
-   "gene": "KCNC1",
-   "pmid": "37203213",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract discusses human KCNC1 patient variants and notes that most previously reported pathogenic variants show loss-of-function in vitro, but the actual variant studied here (de novo missense V425M) showed a mixed pattern with prevalent gain-of-function effects. Thus it does not present a clear opposite-direction mechanism for the same patient-variant class as the curated gain-of-function record."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:42123681:claim:0",
-   "gene": "CACNA1E",
-   "pmid": "42123681",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "keep",
-    "sameVariantClassDispute": true,
-    "reason": "The abstract is about de novo human CACNA1E variants (H151L, M163T, R1182C) and states that, unlike previously reported CACNA1E variants with gain-of-function effects, these pathogenic variants provide the first mechanistic evidence for loss-of-function Cav2.3 variants causing neurological phenotypes. These are CACNA1E patient missense variants, so this is an opposite-direction mechanism claim for the same gene and variant class."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:29365063:claim:0",
+   "evidenceId": "ev:pubmed:37537625:claim:0",
    "gene": "GRIN1",
-   "pmid": "29365063",
+   "pmid": "37537625",
    "earlier": {
     "decision": "keep",
     "sameVariantClassDispute": false
@@ -365,21 +127,7 @@
    "now": {
     "decision": "reject",
     "sameVariantClassDispute": false,
-    "reason": "The abstract reports de novo heterozygous missense GRIN1 variants in human patients with extensive bilateral polymicrogyria and functional studies showing increased agonist potency or reduced proton inhibition, consistent with increased receptor activity. However, this is a distinct missense variant class associated with polymicrogyria, while the curated GRIN1 disorder mechanism is loss of function, so it is not a same-variant-class dispute."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:30544257:claim:0",
-   "gene": "GRIN2A",
-   "pmid": "30544257",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract is about human GRIN2A patients and reports that pathogenic missense variants in transmembrane/linker domains predominantly show NMDAR gain-of-function, while null variants and other missense groups show loss-of-function. However, this is not a dispute about the same variant class as the curated loss-of-function record, because the gain-of-function finding is specifically for a subset of missense variants rather than the null/loss-of-function class."
+    "reason": "The abstract is a therapeutic n-of-1 intrathecal magnesium trial and only cites a previously known GRIN1 gain-of-function property to justify treatment, without presenting patient-variant functional characterization in the abstract."
    }
   },
   {
@@ -393,63 +141,21 @@
    "now": {
     "decision": "reject",
     "sameVariantClassDispute": false,
-    "reason": "The abstract studies human patient/family GRIN2A missense variants, including p.Arg518His, and reports significantly reduced surface expression and whole-cell current amplitude, with co-expression of WT and mutant suggesting a dominant-negative mechanism. However, this still describes reduced NMDAR function (loss of function), not an opposite mechanism direction to the curated loss-of-function record."
+    "reason": "Functional testing of patient GRIN2A missense variants showed reduced surface expression/current amplitude and a dominant-negative reduction of NMDAR currents, which is consistent with loss of function rather than a different direction from the curated record."
    }
   },
   {
-   "evidenceId": "ev:pubmed:24272827:claim:0",
-   "gene": "GRIN2B",
-   "pmid": "24272827",
+   "evidenceId": "ev:pubmed:29317596:claim:0",
+   "gene": "GRIN2D",
+   "pmid": "29317596",
    "earlier": {
-    "decision": "keep",
+    "decision": "reject",
     "sameVariantClassDispute": false
    },
    "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract reports de novo GRIN2B variants in human patients and explicitly concludes that the missense variants p.Asn615Ile and p.Val618Gly are gain-of-function, with reduced Mg2+ block, higher Ca2+ permeability, and increased Ca2+ influx. However, these are specific missense channel variants, so this is not a dispute of the curated loss-of-function mechanism for the same variant class."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:24272827:claim:1",
-   "gene": "GRIN2B",
-   "pmid": "24272827",
-   "earlier": {
     "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
     "sameVariantClassDispute": false,
-    "reason": "The abstract reports de novo GRIN2B variants in human patients, with three missense mutations functionally shown to increase channel activity (reduced Mg2+ block, higher Ca2+ permeability) and described as 'gain-of-function mutations.' However, these are specific missense/channel variants causing epilepsy/West syndrome and do not dispute the curated GRIN2B loss-of-function mechanism for the same variant class."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:39642202:claim:0",
-   "gene": "GABRG2",
-   "pmid": "39642202",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract includes human patients with GABRG2 missense variants (γ2P282A and γ2P282S) and states these variants caused overall gain of function by markedly increasing GABA sensitivity. However, this is a specific missense variant class in individuals with developmental and epileptic encephalopathy, not a direct dispute of the curated GABRG2 generalized epilepsy with febrile seizures plus loss-of-function mechanism."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:39642202:claim:1",
-   "gene": "GABRG2",
-   "pmid": "39642202",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract includes human patients with GABRG2 missense variants (γ2P282A and γ2P282S) and reports that these variants show overall gain-of-function traits with increased GABA sensitivity. However, this is a specific missense variant class in a developmental and epileptic encephalopathy cohort, not a direct dispute of the curated GABRG2 loss-of-function mechanism for the established generalized epilepsy with febrile seizures plus record."
+    "reason": "The abstract reports a GRIN2D splice-site variant identified in affected individuals and functionally tested by minigene assay, supporting intron retention consistent with loss of function, opposite to the curated gain-of-function mechanism."
    }
   },
   {
@@ -463,21 +169,7 @@
    "now": {
     "decision": "reject",
     "sameVariantClassDispute": false,
-    "reason": "The abstract is a review of human GABRG2 epilepsy mutations and states that \"all of these mutations reduced channel function\"—i.e., an overall loss-of-function effect. Although it mentions dominant negative suppression as one mechanism for some variants, it does not argue an opposite mechanism direction to the curated loss-of-function record for the same class of patient variants."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:40570274:claim:2",
-   "gene": "GABRG2",
-   "pmid": "40570274",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract reports human probands with GABRG2 variants and shows that 3 missense variants caused gain-of-function, with 5 of 6 affected individuals having severe DEE. However, this is a different variant class from the curated loss-of-function mechanism (null/missense LoF), so it is not a same-variant-class dispute of the curated record."
+    "reason": "This review states that all reported GABRG2 patient mutations reduced GABAA receptor channel function, with dominant-negative suppression as one mechanism, so it does not provide a patient-variant direction different from the curated loss-of-function record."
    }
   },
   {
@@ -490,8 +182,8 @@
    },
    "now": {
     "decision": "reject",
-    "sameVariantClassDispute": true,
-    "reason": "The abstract's mechanistic evidence is from mouse models: it compares Gabrg2+/Q390X knock-in mice with Gabrg2+/- knockout mice and states the KI mice have severe encephalopathy due to a dominant negative effect. Although this is about GABRG2 and contrasts dominant-negative versus haploinsufficiency for loss-of-function mutations, it does not report mechanistic observations in human patients' variants directly."
+    "sameVariantClassDispute": false,
+    "reason": "The abstract functionally studies a patient-associated GABRG2 Q390X variant in KI mice, but describes it as a loss-of-function mutation with dominant-negative suppression/toxicity, not a patient-variant effect in a different direction from the curated loss of function."
    }
   },
   {
@@ -505,21 +197,7 @@
    "now": {
     "decision": "reject",
     "sameVariantClassDispute": false,
-    "reason": "The abstract is about human GABRG2 variants in febrile seizure patients, but it states that these variants cause both \"loss of GABAA receptor function\" and a dominant-negative effect on receptor biogenesis. Because it explicitly includes loss of function rather than arguing an opposite mechanism for the same variant class, this is not a clear dispute with the curated loss-of-function record."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:31855252:claim:1",
-   "gene": "STXBP1",
-   "pmid": "31855252",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract reports two human patients with a homozygous STXBP1 missense variant (L446F) and functional assays showing increased evoked synaptic transmission/release probability. However, it explicitly contrasts this with previously reported heterozygous STXBP1 mutations, so this is a different variant class/zygosity rather than a direct dispute of the curated loss-of-function mechanism for typical STXBP1 encephalopathy variants."
+    "reason": "The abstract functionally characterizes patient GABRG2 variants as causing loss of GABAA receptor function, with a dominant-negative effect on receptor biogenesis, which is consistent with the curated loss-of-function mechanism rather than an opposite direction."
    }
   },
   {
@@ -533,49 +211,49 @@
    "now": {
     "decision": "reject",
     "sameVariantClassDispute": false,
-    "reason": "The abstract states that in UBE3A, 'duplication, triplication, or gain-of-function mutations' are linked with autism, so it is about the same gene and describes a human clinical association. However, this is a different variant class and phenotype from the curated UBE3A loss-of-function mechanism for Angelman syndrome, not a direct dispute over the same class of patient variants."
+    "reason": "The abstract is a review and its opposing-direction evidence is chiefly UBE3A duplication/triplication (dosage/CNV context) in autism, while the mention of 'gain-of-function mutations' is vague and not supported by patient-variant functional data in the abstract."
    }
   },
   {
-   "evidenceId": "ev:pubmed:34815418:claim:1",
-   "gene": "UBE3A",
-   "pmid": "34815418",
+   "evidenceId": "ev:pubmed:17377962:claim:0",
+   "gene": "SATB2",
+   "pmid": "17377962",
    "earlier": {
     "decision": "keep",
-    "sameVariantClassDispute": false
+    "sameVariantClassDispute": true
    },
    "now": {
     "decision": "reject",
     "sameVariantClassDispute": false,
-    "reason": "The abstract reports human individuals with hyperactivating UBE3A missense variants and states their phenotypes are distinguishable from Angelman syndrome, while also noting that loss of function causes Angelman syndrome. This is therefore a different mechanistic subtype/variant class rather than a dispute of the curated loss-of-function mechanism for UBE3A-related Angelman syndrome."
+    "reason": "Although a de novo SATB2 nonsense variant was found in a patient, the abstract only shows stable mutant RNA and merely predicts a truncated protein might act dominant-negatively, without functional evidence demonstrating variant direction."
    }
   },
   {
-   "evidenceId": "ev:pubmed:41174994:claim:1",
-   "gene": "ADNP",
-   "pmid": "41174994",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract is about human de novo ADNP variants in Helsmoortel-Van der Aa syndrome and says that most variants support loss of function, but a subset of NLS variants showed additional hypermethylation suggesting a gain-of-function effect. This is a variant-subclass-specific effect rather than a contradiction of the curated overall loss-of-function mechanism for ADNP."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:28911200:claim:0",
+   "evidenceId": "ev:pubmed:28911200:claim:1",
    "gene": "EEF1A2",
    "pmid": "28911200",
    "earlier": {
-    "decision": "keep",
+    "decision": "reject",
     "sameVariantClassDispute": false
    },
    "now": {
-    "decision": "reject",
+    "decision": "keep",
     "sameVariantClassDispute": false,
-    "reason": "The abstract reports human siblings with a homozygous EEF1A2 missense variant (p.P333L) and concludes the mutant behaves as a deficiency/loss-of-function allele, supported by yeast and zebrafish rescue assays. However, this is a recessive homozygous missense scenario distinct from the curated dominant de novo EEF1A2 gain-of-function encephalopathy mechanism, so it is not a direct same-variant-class dispute."
+    "reason": "This abstract reports a homozygous patient EEF1A2 missense variant with functional assays in yeast and zebrafish showing deficient/non-rescuing activity, supporting loss of function in contrast to the curated gain-of-function disease mechanism."
+   }
+  },
+  {
+   "evidenceId": "ev:pubmed:38179821:claim:0",
+   "gene": "EEF1A2",
+   "pmid": "38179821",
+   "earlier": {
+    "decision": "reject",
+    "sameVariantClassDispute": false
+   },
+   "now": {
+    "decision": "keep",
+    "sameVariantClassDispute": false,
+    "reason": "This abstract functionally studies the patient missense variant E122K in a knock-in mouse and reports tissue-specific instability consistent with loss of function in skeletal muscle, even though it also suggests possible toxic gain/dominant-negative effects rather than a clean opposite conclusion for the heterozygous disease mechanism."
    }
   },
   {
@@ -589,7 +267,7 @@
    "now": {
     "decision": "reject",
     "sameVariantClassDispute": false,
-    "reason": "The abstract is a mechanistic review of reported GNAO1 patients and explicitly proposes that LOF alleles cause epilepsy while GOF alleles are primarily associated with movement disorders (NEDIM). This does not dispute the curated LOF mechanism for GNAO1-related epileptic encephalopathy; it describes a different phenotype/variant class relationship instead."
+    "reason": "This abstract is a mechanistic review proposing a LOF/GOF model for reported GNAO1 phenotypes, but it does not present direct functional characterization of patient variants or new patient-variant direction data."
    }
   },
   {
@@ -602,106 +280,8 @@
    },
    "now": {
     "decision": "reject",
-    "sameVariantClassDispute": true,
-    "reason": "The abstract is about GNAO1, but the dominant-negative conclusion is drawn from C. elegans and mouse experiments on disorder-associated variants, not from observations in human patients. It also states these mutations show strong loss-of-function as homozygous CRISPR alleles, with dominant-negative effects only inferred in heterozygous/overexpression animal-model assays."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:28747448:claim:1",
-   "gene": "GNAO1",
-   "pmid": "28747448",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
     "sameVariantClassDispute": false,
-    "reason": "The abstract studies de novo human GNAO1 variants and reports that loss-of-function mutations are associated with epileptic encephalopathy, whereas gain-of-function or normal-function variants are found in patients with movement disorders with or without seizures. This does not contradict the curated GNAO1 epileptic encephalopathy mechanism of loss of function; it describes a different clinical/variant class association."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:39371122:claim:0",
-   "gene": "SPTAN1",
-   "pmid": "39371122",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract describes 20 human patients from 14 families with heterozygous SPTAN1 frameshift, nonsense, and splice-acceptor variants causing childhood-onset distal myopathy, and provides evidence of nonsense-mediated decay consistent with loss of function. However, this is a different variant class from the curated dominant-negative SPTAN1 disorder, so it is not a direct same-class mechanistic dispute."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:39371122:claim:1",
-   "gene": "SPTAN1",
-   "pmid": "39371122",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract is about human patients with heterozygous SPTAN1 frameshift, nonsense, and splice-acceptor variants in 14 families, and it concludes these are loss-of-function alleles causing childhood-onset distal myopathy with evidence of nonsense-mediated decay. However, this is not a dispute over the same variant class as the curated dominant-negative SPTAN1 neurodevelopmental disorder record; it describes a different phenotype associated with truncating/LoF variants."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:39371122:claim:2",
-   "gene": "SPTAN1",
-   "pmid": "39371122",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract reports 20 human patients from 14 families with heterozygous SPTAN1 frameshift, nonsense, and splice-acceptor variants and provides evidence of nonsense-mediated decay, supporting a loss-of-function mechanism for this distal myopathy phenotype. However, this is a different variant class from the curated dominant-negative SPTAN1 disorder, so it is not a same-variant-class mechanism dispute."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:39988451:claim:1",
-   "gene": "SPTAN1",
-   "pmid": "39988451",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "keep",
-    "sameVariantClassDispute": true,
-    "reason": "The abstract describes two human patients with SPTAN1 variants and explicitly states that functional studies in zebrafish indicate both patient variants are loss-of-function alleles. This directly contrasts with the curated dominant-negative mechanism for SPTAN1-related neurodevelopmental disease, including a heterozygous patient with motor issues, developmental delay, and seizures."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:40023774:claim:1",
-   "gene": "SPTAN1",
-   "pmid": "40023774",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract reports 14 unrelated families with heterozygous SPTAN1 loss-of-function variants, including evidence of nonsense-mediated decay, causing childhood-onset distal myopathy in human patients. However, this is a different variant class/mechanism from the curated dominant-negative SPTAN1 neurodevelopmental disorder record, so it is not a same-variant-class dispute."
-   }
-  },
-  {
-   "evidenceId": "ev:pubmed:31332438:claim:0",
-   "gene": "SPTAN1",
-   "pmid": "31332438",
-   "earlier": {
-    "decision": "keep",
-    "sameVariantClassDispute": false
-   },
-   "now": {
-    "decision": "reject",
-    "sameVariantClassDispute": false,
-    "reason": "The abstract reports heterozygous nonsense SPTAN1 variants in three human families with hereditary motor neuropathy and states that the mutant mRNA undergoes nonsense-mediated decay, reducing protein levels in patient cells. However, it contrasts these with previously described dominant-negative SPTAN1 mutations in epilepsy, so this is a different variant class rather than a direct dispute of the curated dominant-negative mechanism."
+    "reason": "Although the abstract notes dominant-negative behavior in heterozygous/overexpression assays, it functionally characterizes the tested GNAO1 patient variants overall as strong loss-of-function rather than asserting an opposite direction to the curated LOF record."
    }
   }
  ]

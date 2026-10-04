@@ -1,0 +1,4 @@
+{
+  "_about": "Human overrides of T5 decisions. Add one entry per claim evidence id (ev:pubmed:<PMID>:claim:<n>) with the reviewer's name, the PMID, keep or reject, and a one-line reason. Overrides are shown in the UI as 'reviewed by a team member', never as automated. Empty until a named reviewer fills it.",
+  "overrides": {}
+}

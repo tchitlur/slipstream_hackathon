@@ -1,5 +1,5 @@
 {
- "builtAt": "2026-10-04T03:12:59.154Z",
+ "builtAt": "2026-10-04T03:22:24.698Z",
  "sources": {
   "g2p": {
    "url": "https://ftp.ebi.ac.uk/pub/databases/gene2phenotype/G2P_data_downloads/2026_09_28/DDG2P_2026-09-28.csv.gz",
@@ -22,16 +22,16 @@
   },
   "ctgov": {
    "url": "https://clinicaltrials.gov/api/v2/studies",
-   "retrievedAt": "2026-10-04T03:08:20.485Z"
+   "retrievedAt": "2026-10-04T03:21:13.676Z"
   },
   "pubmed": {
    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils",
-   "retrievedAt": "2026-10-04T03:07:40.340Z"
+   "retrievedAt": "2026-10-04T03:21:10.966Z"
   },
   "reporter": {
    "url": "https://api.reporter.nih.gov/v2/projects/search",
    "version": "FY2024-2027",
-   "retrievedAt": "2026-10-04T03:08:26.320Z"
+   "retrievedAt": "2026-10-04T03:21:17.858Z"
   }
  },
  "counts": {
@@ -58,13 +58,13 @@
   "ladders": 2866,
   "transferPairs": 2856,
   "transferVerdicts": 19992,
-  "verdictDoNotTransfer": 5660,
+  "verdictDoNotTransfer": 5666,
   "verdictTransferable": 5756,
-  "verdictNeedsExpertReview": 5720,
+  "verdictNeedsExpertReview": 5714,
   "clusters": 351,
   "layoutEdges": 13556,
   "demoCandidates": 4,
-  "contestedMechanisms": 5,
+  "contestedMechanisms": 13,
   "bridges": 43,
   "milestone1_found_deep": 79,
   "milestone2_found_deep": 61,
@@ -94,15 +94,15 @@
   "reconcile_none": 215,
   "reconcile_llm": 73,
   "studiesRefinedByReconciliation": 0,
-  "conditionsWithSingleDissent": 7,
+  "conditionsWithSingleDissent": 9,
   "briefsPregenerated": 4,
   "briefsLlm": 4,
   "briefsTemplate": 0,
   "grantsDroppedByRelevance": 470,
-  "mechanismBothDirections": 1,
+  "mechanismBothDirections": 9,
   "mechanismContestedStrict": 4,
-  "claimsRejectedOnReview": 67,
-  "claimsReviewed": 122,
+  "claimsRejectedOnReview": 31,
+  "claimsReviewed": 102,
   "patientOrgsAutoChecked": 51,
   "patientOrgsFailedCheck": 4,
   "patientOrgsWithFoundingYear": 23,
@@ -134,7 +134,7 @@
   "contestedMinPapers": 2
  },
  "llm": {
-  "spendUsd": 5.076066500000004,
+  "spendUsd": 5.878439000000001,
   "byStage": {
    "S5": {
     "calls": 664,
@@ -143,10 +143,10 @@
     "usd": 1.315739000000001
    },
    "S4": {
-    "calls": 1036,
-    "inputTokens": 786651,
-    "outputTokens": 198884,
-    "usd": 2.741984250000001
+    "calls": 1143,
+    "inputTokens": 923262,
+    "outputTokens": 222839,
+    "usd": 3.4428367500000014
    },
    "S6": {
     "calls": 161,
@@ -155,10 +155,10 @@
     "usd": 0.10063574999999998
    },
    "S10": {
-    "calls": 18,
-    "inputTokens": 77429,
-    "outputTokens": 45904,
-    "usd": 0.8821324999999999
+    "calls": 20,
+    "inputTokens": 87101,
+    "outputTokens": 51060,
+    "usd": 0.9836524999999998
    },
    "S9": {
     "calls": 11,
@@ -245,5 +245,5 @@
  ],
  "genesDropped": [],
  "notes": [],
- "gitCommit": "4345846"
+ "gitCommit": "f606e7f"
 }

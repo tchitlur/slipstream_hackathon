@@ -21,22 +21,42 @@ export const reviewerLabel = (model: string) => `automated review (${model}), no
 // T5: contested-claim review
 // ---------------------------------------------------------------------------
 
+export const ClaimCategory = z.enum([
+  "keep_patient_cohort_mixed_directions",
+  "keep_functional_characterization_of_patient_variants",
+  "keep_patient_variants_other_direction",
+  "reject_different_gene",
+  "reject_non_variant_manipulation",
+  "reject_therapy_mechanism",
+  "reject_cancer_or_dosage_context",
+  "reject_no_direction_asserted",
+]);
 export const ClaimReviewSchema = z.object({
-  decision: z.enum(["keep", "reject"]),
-  inPatients: z.boolean().describe("The claim describes variants observed in human patients, not only animal or cell models"),
-  sameGene: z.boolean().describe("The claim is about the gene named, not a paralog or another gene in the same paper"),
-  sameVariantClassDispute: z.boolean().describe("The paper argues the opposite direction for the SAME class of variants the curated record covers (a genuine dispute), rather than describing a different variant class"),
+  category: ClaimCategory,
+  sameVariantClassDispute: z.boolean().describe("True only when the abstract argues the opposite direction for the SAME class of variants the curated record covers, so the two sources genuinely disagree; false when it describes an additional class of variants acting in another direction"),
   confidence: z.enum(["low", "medium", "high"]),
-  reason: z.string().describe("One or two sentences grounded in the abstract"),
+  reason: z.string().describe("One line grounded in the abstract"),
 });
-export type ClaimReview = z.infer<typeof ClaimReviewSchema>;
-export type ReviewFile = { reviewedAt: string; reviewer: string; model: string; method: string; claims: Record<string, ClaimReview & { pmid: string; geneSymbol: string; direction: string }> };
+export type ClaimReview = z.infer<typeof ClaimReviewSchema> & { decision: "keep" | "reject"; inPatients: boolean; sameGene: boolean };
+export type ReviewFile = { reviewedAt: string; reviewer: string; model: string; method: string; claims: Record<string, ClaimReview & { pmid: string; geneSymbol: string; direction: string; reviewer?: string }> };
 
-const T5_SYSTEM = `You review one published claim about a gene's disease mechanism against a curated record. Read the full abstract. Decide:
-- decision: "keep" if the claim really states, for human patient variants of this gene, a mechanism direction different from the curated one; "reject" if the sentence is about another gene, about animal or cell models only, a prediction without data, a misreading, or does not actually assert a direction for this gene's patient variants.
-- inPatients, sameGene, sameVariantClassDispute as defined in the schema. A dominant-negative or gain-of-function finding for a DIFFERENT class of variants than the curated record (for example missense gain of function when the curated record is loss of function from truncating variants) is not a same-variant-class dispute.
-- reason: one or two sentences citing what the abstract says. Never invent findings that are not in the abstract.
-Return JSON only.`;
+const T5_SYSTEM = `You review one published claim about the direction of a gene's disease mechanism against a curated record. Judge from the FULL ABSTRACT, not from the quoted sentence alone. Return one category and a one-line reason.
+
+KEEP the claim when the abstract reports disease-causing variants in the same gene, found in patients, whose functional effect is in a different direction from the curated record. This includes:
+- keep_patient_cohort_mixed_directions: a patient cohort or case series in which some variants act in one direction and others in the other (for example both loss- and gain-of-function variants among affected individuals).
+- keep_functional_characterization_of_patient_variants: functional characterization of patient variants in cell systems (for example electrophysiology of the variant channel in heterologous cells, biochemical assays of the variant protein) or in animals carrying the patient variant. This is the standard evidence for a variant's direction; it is NOT an experimental manipulation.
+- keep_patient_variants_other_direction: any other report of patient variants in this gene whose functional effect is in a direction different from the curated record.
+
+REJECT only when:
+- reject_different_gene: the abstract is about a different gene, or the sentence concerns another gene mentioned in the paper.
+- reject_non_variant_manipulation: the direction comes from a manipulation that is not a patient variant (a knockout or knockdown of the normal gene, overexpression of the normal gene, a drug or compound), with no patient variant characterized.
+- reject_therapy_mechanism: the sentence describes a therapy's mechanism of action rather than a variant's effect.
+- reject_cancer_or_dosage_context: a cancer or somatic context, or a chromosomal-dosage context such as a trisomy or large copy-number change, rather than the monogenic disease.
+- reject_no_direction_asserted: the abstract does not actually assert a functional direction for this gene's patient variants (a prediction with no data, a vague statement, a misreading).
+
+Generic examples: an abstract reporting that a de novo missense variant in a patient produced a gain of channel function in patch-clamp recordings is KEEP (functional characterization of a patient variant) even if the curated record says loss of function. An abstract reporting that a knockout mouse shows reduced protein activity is REJECT (non-variant manipulation). An abstract about a paralog is REJECT (different gene). An abstract reporting that most variants in a cohort cause loss but a subset cause gain is KEEP (mixed directions).
+
+sameVariantClassDispute is true only when the abstract argues the opposite direction for the same class of variants the curated record covers (a genuine disagreement between sources); it is false when the abstract adds another class of variants acting differently. Never invent findings that are not in the abstract. Return JSON only.`;
 
 export type ClaimCandidate = { evidenceId: string; pmid: string; geneSymbol: string; direction: string; mechanism: string; conditionHint: string; quote: string; curated: { conditionName: string; mechanism: string }[] };
 
@@ -51,13 +71,14 @@ export async function reviewContestedClaims(cands: ClaimCandidate[], stage = "S4
     return null;
   }
   const model = REVIEW_MODEL;
-  const out: ReviewFile = { reviewedAt: new Date().toISOString().slice(0, 10), reviewer: reviewerLabel(model), model, method: "T5: each verified claim that disagrees with the curated mechanism is read against its full cached abstract by the model with a structured output; the quote and the curated record are given. Decisions are cached by content and re-run with the pipeline.", claims: {} };
+  const out: ReviewFile = { reviewedAt: new Date().toISOString().slice(0, 10), reviewer: reviewerLabel(model), model, method: "T5: each verified claim that disagrees with the curated mechanism is read against its full cached abstract by the model with a structured output (keep categories: patient cohort with mixed directions, functional characterization of patient variants, other patient-variant report; reject categories: different gene, non-variant manipulation, therapy mechanism, cancer or dosage context, no direction asserted). Decisions are cached by content and re-run with the pipeline.", claims: {} };
   const results = await mapLimit(cands, 4, async (c) => {
     const abs = abstractFor(c.pmid);
     const user = `GENE: ${c.geneSymbol}\nCURATED RECORDS (Gene2Phenotype): ${c.curated.map((x) => `${x.conditionName}: ${x.mechanism}`).join("; ")}\n\nCLAIM extracted from PMID ${c.pmid}: direction ${c.direction}; mechanism "${c.mechanism}"; condition hint "${c.conditionHint}"\nVERBATIM SENTENCE: "${c.quote}"\n\nFULL ABSTRACT:\n${abs || "(abstract not cached; judge from the sentence alone and lower your confidence)"}`;
     try {
       const r = await llmStructured({ task: "T5", stage, model, schema: ClaimReviewSchema, schemaName: "claim_review", system: T5_SYSTEM, user, reasoning: "low", maxOutputTokens: 700 });
-      return { id: c.evidenceId, review: { ...r.data, pmid: c.pmid, geneSymbol: c.geneSymbol, direction: c.direction } };
+      const decision: "keep" | "reject" = r.data.category.startsWith("keep") ? "keep" : "reject";
+      return { id: c.evidenceId, review: { ...r.data, decision, inPatients: decision === "keep", sameGene: r.data.category !== "reject_different_gene", pmid: c.pmid, geneSymbol: c.geneSymbol, direction: c.direction } };
     } catch (e) {
       log(stage, `T5 failed for ${c.evidenceId}: ${(e as Error).message.slice(0, 120)}`);
       return null;
