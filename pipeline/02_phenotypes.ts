@@ -146,9 +146,13 @@ async function main() {
   for (const t of inUse) {
     terms[t] = { id: t, label: ont.labels.get(t) ?? t, ic: Number(ic(t).toFixed(4)), parents: (ont.parents.get(t) ?? []).filter((p) => inUse.has(p)) };
   }
-  const icValues = Object.values(terms)
-    .map((t) => t.ic)
-    .sort((a, b) => a - b);
+  // Low-information line for counter-reason C1: the frequency-weighted median IC over direct annotation instances
+  // (each condition-term annotation counts once). "Common" means frequently annotated, so the median must be weighted
+  // by how often terms occur; an unweighted median over all terms in the closure drifts up as the atlas grows and made
+  // C1 fire on every pair once the 2,800-condition shallow layer was added.
+  const icValues: number[] = [];
+  for (const c of atlas.conditions) for (const t of conditionTerms[c.id]) if (terms[t]) icValues.push(terms[t].ic);
+  icValues.sort((a, b) => a - b);
   const medianIc = icValues.length ? icValues[Math.floor(icValues.length / 2)] : 0;
 
   // Gene-level HPO disease names (for synonym resolution in search).

@@ -209,7 +209,7 @@
       {
         "symbol": "KCNT1",
         "pageUrl": "https://www.citizen.health/communities",
-        "snippet": "Justin West Co-founder & President KCNT1 Epilepsy Foundation Robust data Our",
+        "snippet": "Kabuki syndrome KCNH1 KCNT1 Epilepsy KMT2C KMT2E Lennox-Gastaut syndrome (LGS)",
         "conditionNameOnPage": "KCNT1 Epilepsy"
       },
       {
@@ -291,7 +291,7 @@
       {
         "symbol": "SLC13A5",
         "pageUrl": "https://www.citizen.health/communities",
-        "snippet": "These publications help capture what SLC13A5 Epilepsy looks like over time— a key"
+        "snippet": "SCN8A SELENON-Related Myopathy Shwachman-Diamond Syndrome (SDS) SLC13A5 SLC6A1 SMC1A SPG50"
       },
       {
         "symbol": "WWOX",
@@ -424,7 +424,11 @@
         "symbol": "WWOX",
         "pageUrl": "https://research.sanfordhealth.org/rare-disease-registry/represented-diseases",
         "snippet": "ataxia-epilepsy-intellectual disability syndrome due to WWOX deficiency Autosomal recessive",
-        "conditionNameOnPage": "WWOX developmental and epileptic encephalopathy (WWOX-DEE)"
+        "conditionNameOnPage": "Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to WWOX deficiency",
+        "alsoOnPage": [
+          "WWOX developmental and epileptic encephalopathy (WWOX-DEE)",
+          "WWOX Related Epileptic Encephalopathy (WOREE syndrome)"
+        ]
       },
       {
         "symbol": "ATP1A3",

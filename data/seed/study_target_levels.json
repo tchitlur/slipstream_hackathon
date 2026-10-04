@@ -1,0 +1,396 @@
+{
+  "reviewedAt": "2026-10-04",
+  "reviewer": "automated assignment (Claude reading the ClinicalTrials.gov record); not a clinical review",
+  "levels": {
+    "NCT07173153": {
+      "target": "gene_product",
+      "intervention": "AAV9.SLC6A1 Gene Therapy",
+      "reason": "Record: 'an AAV9 vector carrying the SLC6A1 coding sequence delivered one time through an intrathecal injection' (gene replacement of SLC6A1).",
+      "confidence": "high"
+    },
+    "NCT04937062": {
+      "target": "gene_product",
+      "intervention": "Glycerol Phenylbutyrate (Ravicti)",
+      "reason": "Record: 'The protein product of SLC6A1 is GABA transporter protein type 1 (GAT-1)... Preliminary data suggests a dramatic impairment in GABA uptake in cells with homozygous variants in the GAT-1 protein, which improves with administration of phenylbutyrate' (drug restores function of the gene's protein).",
+      "confidence": "medium"
+    },
+    "NCT07847918": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "Glycerol Phenylbutyrate",
+      "reason": "Record names GAT-1 as the SLC6A1 product but says only that phenylbutyrate 'is being studied here for its potential antiseizure effects in SLC6A1-related disorders'; no mechanism tied to GAT-1 is stated (sibling trial NCT04937062 does state one).",
+      "confidence": "low"
+    },
+    "NCT07531745": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "ION337",
+      "reason": "Record states only that 'ION337 will be administered by ITB injection' to 'evaluate the safety and tolerability of ION337 in participants with Dravet syndrome'; no target or mechanism is given.",
+      "confidence": "low"
+    },
+    "NCT06872125": {
+      "target": "gene_product",
+      "intervention": "zorevunersen",
+      "reason": "Record: 'an antisense oligonucleotide (ASO) that is intended to increase the level of productive SCN1A messenger RNA (mRNA) and consequently increase the expression of the sodium channel Nav1.1 protein'.",
+      "confidence": "high"
+    },
+    "NCT05419492": {
+      "target": "gene_product",
+      "intervention": "ETX101",
+      "reason": "Record: rAAV9 delivering 'an engineered transcription factor that increases transcription of the SCN1A gene (eTFSCN1A)'.",
+      "confidence": "high"
+    },
+    "NCT06283212": {
+      "target": "gene_product",
+      "intervention": "ETX101",
+      "reason": "Record: rAAV9 delivering 'an engineered transcription factor that increases transcription of the SCN1A gene (eTFSCN1A)'.",
+      "confidence": "high"
+    },
+    "NCT06112275": {
+      "target": "gene_product",
+      "intervention": "ETX101",
+      "reason": "Record: rAAV9 delivering 'an engineered transcription factor that increases transcription of the SCN1A gene (eTFSCN1A)'.",
+      "confidence": "high"
+    },
+    "NCT04740476": {
+      "target": "gene_product",
+      "intervention": "zorevunersen (STK-001)",
+      "reason": "Record: 'designed to upregulate Nav1.1 protein expression from the nonmutant (wild-type) copy of the SCN1A gene to restore physiological Nav1.1 levels'.",
+      "confidence": "high"
+    },
+    "NCT04442295": {
+      "target": "gene_product",
+      "intervention": "STK-001",
+      "reason": "Record: 'an antisense oligonucleotide (ASO) that is intended to increase the level of productive SCN1A messenger RNA (mRNA)' and 'upregulate Nav1.1 protein expression from the nonmutant (wild-type) copy of the SCN1A gene'.",
+      "confidence": "high"
+    },
+    "NCT07019922": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "elsunersen",
+      "reason": "Record contains only the title text ('Efficacy and Safety of Elsunersen in Pediatric Participants with Early Onset SCN2A DEE') and 'Open-label elsunersen... intrathecally'; no target or mechanism is stated.",
+      "confidence": "low"
+    },
+    "NCT06314490": {
+      "target": "gene_product",
+      "intervention": "nL-SCN2A-002",
+      "reason": "Record: 'delivery of a personalized antisense oligonucleotide (ASO) drug designed for a single pediatric participant with... a de novo pathogenic gain of function SCN2A mutation' (ASO named for and designed against the SCN2A variant).",
+      "confidence": "medium"
+    },
+    "NCT05818553": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "PRAX-562",
+      "reason": "Record says only 'evaluate the safety and tolerability of PRAX 562 in pediatric participants with SCN2A- and SCN8A- DEEs', 'Once daily oral or G-tube treatment'; no target or mechanism is stated.",
+      "confidence": "low"
+    },
+    "NCT05737784": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "PRAX-222",
+      "reason": "Record says only 'learn about the effect of PRAX-222 in pediatric participants with early onset SCN2A developmental and epileptic encephalopathy'; no target or mechanism is stated.",
+      "confidence": "low"
+    },
+    "NCT04873869": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "NBI-921352",
+      "reason": "Record frames the drug as 'adjunctive therapy for seizures in subjects with SCN8A Developmental and Epileptic Encephalopathy Syndrome' with no stated target or mechanism; reads as an adjunctive anti-seizure drug study.",
+      "confidence": "medium"
+    },
+    "NCT06983158": {
+      "target": "gene_product",
+      "intervention": "CAP-002 gene therapy",
+      "reason": "Record: 'CAP-002 gene therapy in children with Syntaxin-Binding Protein 1 (STXBP1) Encephalopathy'; arm description: 'Participants will receive a single dose of STXBP1, administered IV' (gene delivery of STXBP1).",
+      "confidence": "medium"
+    },
+    "NCT06615206": {
+      "target": "gene_product",
+      "intervention": "HG204",
+      "reason": "Record: 'a CRISPR RNA-editing therapy... using one single adeno-associated virus (AAV) vector to target and knock down MECP2 mRNA in the brain' (lowers the gene's own transcript in MECP2 duplication syndrome).",
+      "confidence": "high"
+    },
+    "NCT06739434": {
+      "target": "gene_product",
+      "intervention": "GCB-002",
+      "reason": "Record: 'GCB-002 is a self-complementary AAV9 carrying a full length human MECP2 transgenetic product'.",
+      "confidence": "high"
+    },
+    "NCT06430385": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "ION440",
+      "reason": "Record says only 'evaluate the safety and tolerability of ION440' administered 'by intrathecal bolus (ITB) injection' in MECP2 duplication syndrome; no target or mechanism is stated.",
+      "confidence": "low"
+    },
+    "NCT07480564": {
+      "target": "gene_product",
+      "intervention": "TSHA-102",
+      "reason": "Record: 'scAAV9 vector encoding for the miniMECP2 gene... designed to target the genetic root cause of Rett syndrome by regulating the expression of MECP2 in cells'.",
+      "confidence": "high"
+    },
+    "NCT07640503": {
+      "target": "pathway",
+      "intervention": "Lamivudine",
+      "reason": "Record: 'Functional MeCP2 represses the activity of the LINE-1 (L1) retroelement... Lamivudine... can inhibit L1 reverse transcription' (acts on a downstream consequence of MeCP2 loss, not on MECP2 itself).",
+      "confidence": "high"
+    },
+    "NCT07150013": {
+      "target": "pathway",
+      "intervention": "Vorinostat (SAHA)",
+      "reason": "Record: 'vorinostat mitigates the impact of the underlying MECP2 gene deficiency in Rett patients by restoring downstream mRNA synthesis... based on its impact on acetylation metabolism' (HDAC inhibitor acting downstream).",
+      "confidence": "high"
+    },
+    "NCT06856759": {
+      "target": "gene_product",
+      "intervention": "Intrathecal AAV-MECP2",
+      "reason": "Record: 'Active ingredient: recombinant AAV gene therapy vector containing neuron specific promoter (CAG) driven MECP2'.",
+      "confidence": "high"
+    },
+    "NCT06152237": {
+      "target": "gene_product",
+      "intervention": "TSHA-102",
+      "reason": "Record: 'TSHA-102 is a recombinant, non-replicating, self-complementary AAV9 (scAAV9) vector encoding for the miniMECP2 gene'.",
+      "confidence": "high"
+    },
+    "NCT05898620": {
+      "target": "gene_product",
+      "intervention": "NGN-401",
+      "reason": "Record: 'NGN-401 contains a full-length human MECP2 gene and is designed to express therapeutic levels of the MeCP2 protein while avoiding overexpression'.",
+      "confidence": "high"
+    },
+    "NCT05606614": {
+      "target": "gene_product",
+      "intervention": "TSHA-102",
+      "reason": "Record: 'scAAV9 vector encoding for the miniMECP2 gene... designed to target the genetic root cause of Rett syndrome by regulating the expression of MECP2 in cells'.",
+      "confidence": "high"
+    },
+    "NCT04912856": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "XEN496 (ezogabine)",
+      "reason": "Record describes an 'open-label, long-term extension study of XEN496 for the treatment of seizures in subjects with KCNQ2-DEE' and gives no target or mechanism for XEN496.",
+      "confidence": "low"
+    },
+    "NCT07600736": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "ABS-1230",
+      "reason": "Record says only 'evaluate the safety, tolerability, pharmacokinetics, and clinical activity of ABS-1230 compared with placebo in participants with KCNT1-related epilepsy'; no target or mechanism is stated.",
+      "confidence": "low"
+    },
+    "NCT07227857": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "S230815",
+      "reason": "Record says only that it assesses 'the safety, tolerability, pharmacokinetics (PK) and pharmacodynamic (PD) effect of S230815' (intrathecal solution) in KCNT1-related DEE; no target or mechanism is stated.",
+      "confidence": "low"
+    },
+    "NCT07150026": {
+      "target": "pathway",
+      "intervention": "Vorinostat (SAHA)",
+      "reason": "Record: 'vorinostat mitigates the impact of the underlying TCF4 gene mutation in PTHS... putative therapeutic mechanism... based on its impact on acetylation metabolism and post-translational modifications of microtubules' (HDAC inhibitor acting downstream of TCF4).",
+      "confidence": "high"
+    },
+    "NCT07293546": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "FRF-001",
+      "reason": "Record says only 'AAV-9 gene therapy delivered by intracerebroventricular injection' to test whether 'FRF-001 is a safe, tolerable, and efficacious treatment for... FOXG1 syndrome'; the transgene/target is not stated.",
+      "confidence": "low"
+    },
+    "NCT07135050": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "MZ-1866",
+      "reason": "Record says only 'AAV-9 gene therapy delivered by intracerebroventricular injection' to learn 'if MZ-1866 is a safe and tolerable treatment for... Pitt Hopkins Syndrome'; the transgene/target is not stated.",
+      "confidence": "low"
+    },
+    "NCT07432490": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "L-fucose",
+      "reason": "Record says only that it evaluates 'the efficacy and safety of L-fucose supplementation in subjects with GLUT1 deficiency syndrome'; no rationale tying fucose to GLUT1 or glucose transport is stated.",
+      "confidence": "medium"
+    },
+    "NCT04137692": {
+      "target": "gene_product",
+      "intervention": "Red Blood Cell Exchange Transfusion",
+      "reason": "Record: 'the replacement of human G1D circulating red cells, which are deficient in GLUT1, with healthy donor cells' because 'many G1D patients also have low levels of GLUT1 in their red blood cells' (supplies cells carrying functional GLUT1 protein).",
+      "confidence": "medium"
+    },
+    "NCT04112862": {
+      "target": "pathway",
+      "intervention": "sodium lactate",
+      "reason": "Record: 'cerebral glucose uptake... is limited, because of deficient transport of glucose across the blood-brain barrier by the transporter protein (GLUT1)... whether lactate can be an alternative energy metabolite in the GLUT1DS brain'.",
+      "confidence": "high"
+    },
+    "NCT02021526": {
+      "target": "pathway",
+      "intervention": "Triheptanoin (C7 oil)",
+      "reason": "Record: C7 'a food supplement or medical food' for G1D with outcomes 'Changes in brain metabolic rate by MRI and EEG measurements during C7 treatment' and 'Maintenance of ketosis in G1D patients on ketogenic diet' (alternative brain fuel for the glucose-transport block).",
+      "confidence": "medium"
+    },
+    "NCT02000960": {
+      "target": "pathway",
+      "intervention": "Triheptanoin",
+      "reason": "Record: 'Low brain glucose and subsequent energy deficiency is considered the major pathogenic factor'; triheptanoin provides 'an alternate source of energy... improves the oxidation of acetyl CoA by the tricarbonic acid (TCA) cycle'.",
+      "confidence": "high"
+    },
+    "NCT02018315": {
+      "target": "pathway",
+      "intervention": "Triheptanoin",
+      "reason": "Record: 'whether circumventing impaired glucose metabolism is feasible... by supplying anaplerotic precursors through metabolism of odd-carbon fatty acids that can enter the citric acid cycle (CAC) through alternative metabolic pathways'.",
+      "confidence": "high"
+    },
+    "NCT07363603": {
+      "target": "gene_product",
+      "intervention": "Tianasen (ASO-GNAO1)",
+      "reason": "Record: 'Its mechanism of action is allele-specific suppression of the mutant GNAO1 protein expression at the mRNA level... approximately 85% suppression of the mutant GNAO1 allele activity (c.607G>A mutation)'.",
+      "confidence": "high"
+    },
+    "NCT06412653": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "Zinc Acetate Dihydrate",
+      "reason": "Record states only that it tests 'feasibility and safety of an oral therapy with zinc' in GNAO1 associated disorders at 'the recommended dosage in Wilsons Disease'; no mechanism tied to GNAO1 is stated.",
+      "confidence": "medium"
+    },
+    "NCT07377032": {
+      "target": "gene_product",
+      "intervention": "L-serine",
+      "reason": "Record: 'L-serine... serves as a metabolic precursor of D-serine, a major endogenous NMDAR co-agonist. Enhancement of NMDAR co-agonist availability may partially restore receptor function in individuals with LoF GRIN variants' (acts on the receptor the GRIN genes encode).",
+      "confidence": "medium"
+    },
+    "NCT07224581": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "Radiprodil",
+      "reason": "Record describes dosing of 'radiprodil oral suspension' in GRIN-NDD 'with a gain-of-function (GoF) genetic variant' but states no target or mechanism (sibling trial NCT05818943 does).",
+      "confidence": "low"
+    },
+    "NCT05818943": {
+      "target": "gene_product",
+      "intervention": "Radiprodil",
+      "reason": "Record: 'Radiprodil is an orally active, negative allosteric modulator of the NR2B subunit of the NMDA receptor' (drug targeting the NMDA receptor encoded by the GRIN genes; atlas maps this study to GRIN2D while the stated subunit is NR2B/GRIN2B).",
+      "confidence": "medium"
+    },
+    "NCT04646447": {
+      "target": "gene_product",
+      "intervention": "L-serine",
+      "reason": "Record: 'Dietary supplement of L-serine results on increased D-serine plasma levels and potentiates NMDA receptors leading to NMDA receptors functionality increase and hypofunctionality rescue'.",
+      "confidence": "medium"
+    },
+    "NCT07605429": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "rugonersen",
+      "reason": "Record says only 'evaluate the efficacy and safety of intrathecally administered rugonersen... with Angelman syndrome'; intervention description is 'Study Drug'; no target or mechanism is stated.",
+      "confidence": "low"
+    },
+    "NCT07181837": {
+      "target": "gene_product",
+      "intervention": "MVX-220",
+      "reason": "Record: 'MVX-220 is an investigational gene replacement therapy intended to provide a functional copy of the UBE3A gene to individuals with Angelman syndrome'.",
+      "confidence": "high"
+    },
+    "NCT07157254": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "GTX-102",
+      "reason": "Record describes GTX-102 only as an 'antisense oligonucleotide' given 'via intrathecal (IT) injection' across Angelman genotypes; no target transcript or mechanism is stated.",
+      "confidence": "low"
+    },
+    "NCT06914609": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "obudanersen (ION582)",
+      "reason": "Record says only 'evaluate the efficacy and safety of obudanersen in children and adults with Angelman syndrome caused by a deletion or mutation of the UBE3A gene'; no target or mechanism is stated.",
+      "confidence": "low"
+    },
+    "NCT06415344": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "GTX-102",
+      "reason": "Record describes GTX-102 only as an 'Antisense Oligonucleotide' in a long-term extension 'to evaluate the long-term safety profile of GTX-102'; no target or mechanism is stated.",
+      "confidence": "low"
+    },
+    "NCT06617429": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "GTX-102",
+      "reason": "Record describes GTX-102 only as an 'antisense oligonucleotide' given via LP to evaluate 'the effect of GTX-102 in cognitive function in participants with deletion-type Angelman Syndrome'; no target or mechanism is stated.",
+      "confidence": "low"
+    },
+    "NCT05630066": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "Alogabat",
+      "reason": "Record describes a 'Proof of Mechanism' study measuring 'change in EEG beta-band power' after alogabat in deletion Angelman syndrome, but never states the drug's target or mechanism.",
+      "confidence": "low"
+    },
+    "NCT04428281": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "RO7248824",
+      "reason": "Record says only that RO7248824 'will be administered as IT injection of varying dose levels' in a Phase I MAD study in Angelman syndrome; no target or mechanism is stated.",
+      "confidence": "low"
+    },
+    "NCT05127226": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "ION582",
+      "reason": "Record says only 'evaluate the safety and tolerability of ascending doses of ION582 administered intrathecally in participants with Angelman syndrome'; no target or mechanism is stated.",
+      "confidence": "low"
+    },
+    "NCT04259281": {
+      "target": "symptomatic_or_unknown",
+      "intervention": "GTX-102",
+      "reason": "Record describes GTX-102 only as an 'antisense oligonucleotide' given by 'intrathecal (IT) injection to participants with Angelman Syndrome'; no target transcript or mechanism is stated.",
+      "confidence": "low"
+    },
+    "NCT04706013": {
+      "target": "pathway",
+      "intervention": "Pyridoxal 5'-Phosphate",
+      "reason": "Record: 'evaluate oral P5P for the treatment of patients confirmed to have Pyridox(am)ine 5'-Phosphate Oxidase (PNPO) deficiency via genetic analysis' (supplying the product of the deficient enzyme, bypassing the metabolic block).",
+      "confidence": "medium"
+    },
+    "NCT01730209": {
+      "target": "pathway",
+      "intervention": "Everolimus",
+      "reason": "Record: 'The underlying deficit of TSC, loss of inhibition of the mammalian target of rapamycin (mTOR) protein due to dysfunction of the tuberin/hamartin protein complex, can be rescued by everolimus'.",
+      "confidence": "high"
+    },
+    "NCT07014020": {
+      "target": "gene_product",
+      "intervention": "RB001",
+      "reason": "Record: 'RB001 utilizes the Adeno-Associated Virus (AAV) vector to deliver an optimized SHANK3-minigene... could restore SHANK3 mRNA and protein expression in the target region of central nervous system'.",
+      "confidence": "high"
+    },
+    "NCT06662188": {
+      "target": "gene_product",
+      "intervention": "JAG201",
+      "reason": "Record: 'Adeno-associated virus 2/9 expressing a miniature version of the human SHANK3 gene (AAV2/9-miniSHANK3)'.",
+      "confidence": "high"
+    },
+    "NCT07690527": {
+      "target": "gene_product",
+      "intervention": "RB001",
+      "reason": "Record: 'long-term follow-up study of participants in the RB001-101 gene replacement therapy clinical trial for Children With SHANK3-related Phelan-McDermid Syndrome'; 'RB001 is an adeno-associated virus (AAV) based gene therapy product'.",
+      "confidence": "medium"
+    },
+    "NCT04623398": {
+      "target": "gene_product",
+      "intervention": "Lithium Carbonate",
+      "reason": "Record: iPSC neurons 'allow the identification of compounds that can restore the expression level of SHANK3... to test one of the compounds identified' (lithium chosen to raise SHANK3 expression).",
+      "confidence": "medium"
+    },
+    "NCT04003207": {
+      "target": "pathway",
+      "intervention": "Recombinant human Growth Hormone",
+      "reason": "Record: 'Growth hormone (GH) binds to its receptor and... directly increases synthesis and release of IGF-1 levels... IGF-1 promotes brain vessel growth, neurogenesis, and synaptogenesis' in SHANK3-related PMS.",
+      "confidence": "high"
+    },
+    "NCT05105685": {
+      "target": "pathway",
+      "intervention": "recombinant human growth hormone",
+      "reason": "Record: 'rhGH can improve PMS symptoms via increase the level of serum insulin-like growth factor-1 (IGF-1) and insulin-like growth factor binding protein 3 (IGFBP-3)'.",
+      "confidence": "high"
+    },
+    "NCT01525901": {
+      "target": "pathway",
+      "intervention": "Insulin-Like Growth Factor-1 (IGF-1)",
+      "reason": "Record: 'pilot the use of Insulin-Like Growth Factor-1 (IGF-1) treatment in 22q13 Deletion Syndrome (Phelan-McDermid Syndrome) caused by SHANK3 gene deficiency'; IGF-1 is a downstream growth-factor pathway, not the SHANK3 product.",
+      "confidence": "medium"
+    },
+    "NCT07102524": {
+      "target": "gene_product",
+      "intervention": "TSHA-105",
+      "reason": "Record: 'TSHA-105 is an AAV9-based gene therapy vector that expresses the fully functional form of SLC13A5... stable, potentially life-long expression of SLC13A5 protein'.",
+      "confidence": "high"
+    },
+    "NCT02500082": {
+      "target": "pathway",
+      "intervention": "triheptanoin (UX007)",
+      "reason": "Record: triheptanoin 'may increase... succinyl-CoA, leading to an increase in citrate concentrations... thus increasing the cytoplasmic pool of citrate and allowing the malfunctioning citrate transporter to be bypassed'.",
+      "confidence": "high"
+    }
+  }
+}

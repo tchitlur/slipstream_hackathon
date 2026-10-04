@@ -1,5 +1,5 @@
 {
- "builtAt": "2026-10-04T01:25:47.908Z",
+ "builtAt": "2026-10-04T01:50:25.959Z",
  "sources": {
   "g2p": {
    "url": "https://ftp.ebi.ac.uk/pub/databases/gene2phenotype/G2P_data_downloads/2026_09_28/DDG2P_2026-09-28.csv.gz",
@@ -63,7 +63,7 @@
   "verdictNeedsExpertReview": 5701,
   "clusters": 351,
   "layoutEdges": 13556,
-  "demoCandidates": 4,
+  "demoCandidates": 0,
   "contestedMechanisms": 16,
   "bridges": 44,
   "milestone1_found_deep": 79,
@@ -107,7 +107,13 @@
   "patientOrgsFailedCheck": 4,
   "patientOrgsWithFoundingYear": 23,
   "studiesRecheckedByReview": 25,
-  "studiesChangedByReview": 6
+  "studiesChangedByReview": 6,
+  "registryRecords": 102,
+  "sharedRegistries": 6,
+  "sharedRegistryGeneLinks": 74,
+  "orgSharedRegistryLinks": 0,
+  "externalRegistries": 0,
+  "conditionsInSharedRegistry": 57
  },
  "thresholds": {
   "thinAnnotationTerms": 5,
@@ -227,5 +233,5 @@
  ],
  "genesDropped": [],
  "notes": [],
- "gitCommit": "94bc995"
+ "gitCommit": "e70d193"
 }
