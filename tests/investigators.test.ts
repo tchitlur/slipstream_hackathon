@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { mergeInvestigators, normalizeName } from "@/lib/investigators";
+import { mergeInvestigators, normalizeName, isJobTitle } from "@/lib/investigators";
 
 const rec = (kind: "grant" | "study" | "paper", id: string, conditionIds: string[] = ["cond:G2P00001"]) => ({ kind, id, url: `https://example.org/${id}`, role: "pi", conditionIds });
 
@@ -45,5 +45,28 @@ describe("investigator merge rules", () => {
       { name: "Smith, J", record: rec("paper", "123") },
     ]);
     expect(out).toHaveLength(2);
+  });
+});
+
+describe("investigator polish (2026-10-04)", () => {
+  it("treats job titles as not-an-organization", () => {
+    expect(isJobTitle("Medical Director")).toBe(true);
+    expect(isJobTitle("Principal Investigator")).toBe(true);
+    expect(isJobTitle("Children's Hospital of Philadelphia")).toBe(false);
+    expect(isJobTitle("Neuren Pharmaceuticals")).toBe(false);
+  });
+  it("merges identical full names linked to the same condition even across records", () => {
+    const out = mergeInvestigators([
+      { name: "Ingo Helbig", org: "Children's Hospital of Philadelphia", record: rec("grant", "R01A") },
+      { name: "Ingo Helbig", record: rec("study", "NCT9") },
+    ]);
+    expect(out).toHaveLength(1);
+  });
+  it("lists fellowship-only entries after the others", () => {
+    const out = mergeInvestigators([
+      { name: "Alice Young", org: "University of X", record: rec("grant", "F31NS000001") },
+      { name: "Bob Senior", org: "University of Y", record: rec("grant", "R01NS000002") },
+    ]);
+    expect(out[0].displayName).toBe("Bob Senior");
   });
 });

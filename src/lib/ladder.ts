@@ -7,8 +7,8 @@ import type { Condition, Milestone, MilestoneStatus, Study, Grant, PatientOrg, R
 export const MILESTONES: { n: number; key: string; label: string; short: string; sources: string[] }[] = [
   { n: 1, key: "gene_link", label: "Gene link confirmed", short: "Gene link", sources: ["Gene2Phenotype"] },
   { n: 2, key: "mechanism", label: "Mechanism established", short: "Mechanism", sources: ["Gene2Phenotype"] },
-  { n: 3, key: "patient_org", label: "Patient organization", short: "Patient org", sources: ["seed list of patient organizations (hand-drafted, verification pending)"] },
-  { n: 4, key: "registry", label: "Registry or natural history study", short: "Registry / NHS", sources: ["ClinicalTrials.gov (classified studies)", "organization sites in the seed list"] },
+  { n: 3, key: "patient_org", label: "Patient organization", short: "Patient org", sources: ["seed list of patient organizations, each checked automatically against its own site (not human-verified)"] },
+  { n: 4, key: "registry", label: "Registry or natural history study", short: "Registry / NHS", sources: ["ClinicalTrials.gov (classified studies)", "organization sites (own registry statements)", "shared multi-gene registries (Simons Searchlight, Citizen Health, CoRDS, RARE-X, ENDD, RDCRN Rett consortium)", "one web search per condition for registries outside ClinicalTrials.gov"] },
   { n: 5, key: "models", label: "Disease models reported", short: "Disease models", sources: ["PubMed (disease-model query)"] },
   { n: 6, key: "funding", label: "Active NIH-funded research", short: "NIH funding", sources: ["NIH RePORTER (last two fiscal years)"] },
   { n: 7, key: "trial", label: "Targeted clinical trial", short: "Targeted trial", sources: ["ClinicalTrials.gov (classified studies)"] },

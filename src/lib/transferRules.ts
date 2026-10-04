@@ -66,17 +66,17 @@ export const RULES: RuleDef[] = [
     shortAsset: "Therapeutic strategy",
     logic: "Same road: needs expert review, with the modality named. Opposite direction: do not transfer (explicit warning). Unknown or contested: needs expert review, stating what must be established first.",
     apply: (ctx) => {
-      const mods = ctx.neighborModalities.length ? ctx.neighborModalities.map((m) => m.replace(/_/g, " ")).join(", ") : "no targeted trial modality recorded";
-      if (ctx.relation === "same road") return { verdict: "needs_expert_review", reason: `Both conditions are on the same mechanism road, so the same therapeutic logic may apply (neighbor modality: ${mods}). An expert must confirm the individual variant behaves the same way.` };
-      if (ctx.relation === "opposite direction") return { verdict: "do_not_transfer", warning: true, reason: `The mechanisms point in opposite directions: a strategy that raises protein output for one would be the wrong direction for a protein that is overactive or interfering (neighbor modality: ${mods}).` };
+      const modsText = ctx.neighborModalities.length ? ` (neighbor modality: ${ctx.neighborModalities.map((m) => m.replace(/_/g, " ")).join(", ")})` : "";
+      if (ctx.relation === "same road") return { verdict: "needs_expert_review", reason: `Both conditions are on the same mechanism road, so the same therapeutic logic may apply${modsText}. An expert must confirm the individual variant behaves the same way.` };
+      if (ctx.relation === "opposite direction") return { verdict: "do_not_transfer", warning: true, reason: `The mechanisms point in opposite directions: a strategy that raises protein output for one would be the wrong direction for a protein that is overactive or interfering${modsText}.` };
       if (ctx.relation === "contested") {
         const cur = ctx.curatedRelation ?? "unknown";
         const who = ctx.contestedSide ? ` for ${ctx.contestedSide}` : "";
-        if (cur === "opposite direction") return { verdict: "needs_expert_review", warning: true, reason: `On the curated mechanisms the two conditions point in opposite directions, which would mean do not transfer. Published claims dispute the curated direction${who}, so this is held for expert review instead of being ruled out. Until that is settled, treat the therapeutic strategy as not shared (neighbor modality: ${mods}).` };
-        if (cur === "same road") return { verdict: "needs_expert_review", reason: `On the curated mechanisms the two conditions are on the same road, but published claims dispute the curated direction${who}. Which direction applies must be settled before any therapeutic logic is borrowed (neighbor modality: ${mods}).` };
+        if (cur === "opposite direction") return { verdict: "needs_expert_review", warning: true, reason: `On the curated mechanisms the two conditions point in opposite directions, which would mean do not transfer. Published claims dispute the curated direction${who}, so this is held for expert review instead of being ruled out. Until that is settled, treat the therapeutic strategy as not shared${modsText}.` };
+        if (cur === "same road") return { verdict: "needs_expert_review", reason: `On the curated mechanisms the two conditions are on the same road, but published claims dispute the curated direction${who}. Which direction applies must be settled before any therapeutic logic is borrowed${modsText}.` };
         return { verdict: "needs_expert_review", reason: `The mechanism${who} is contested between curated and published claims. Which direction applies must be settled before any therapeutic logic is borrowed.` };
       }
-      if (ctx.relation === "different road") return { verdict: "needs_expert_review", reason: `The conditions share a direction but differ in allelic requirement, so dosage logic differs (neighbor modality: ${mods}). An expert must check whether the strategy depends on the remaining healthy copy.` };
+      if (ctx.relation === "different road") return { verdict: "needs_expert_review", reason: `The conditions share a direction but differ in allelic requirement, so dosage logic differs${modsText}. An expert must check whether the strategy depends on the remaining healthy copy.` };
       return { verdict: "needs_expert_review", reason: "The mechanism of at least one condition is not established in the curated source. It must be established before any therapeutic logic is borrowed." };
     },
   },
@@ -118,18 +118,21 @@ export const COUNTER_REASONS: Record<CounterCode, { title: string; appliesTo: st
   C6: { title: "Thin phenotype annotation", appliesTo: "Either condition has fewer than five annotated phenotypes, so similarity is unreliable." },
   C7: { title: "Asset rests on a single or inactive study", appliesTo: "The neighbor's asset rests on one study, or one that is terminated, withdrawn or not yet recruiting." },
   C8: { title: "Organization listing is not human-verified", appliesTo: "The organization entry passed only an automated check of its own site (or failed it); no human has verified it." },
+  C9: { title: "Age of onset and severity may differ", appliesTo: "Registry items, visit schedules and outcome measures are built around a typical age of onset and severity; phenotype similarity does not check either, so both must be reviewed before anything is adopted." },
 };
 
 /** Which counter-reason codes are eligible for each rule, in priority order (strongest first). */
+/** C2, C3 and C4 are about mechanism and apply only to R4 to R7; R1 to R3 say mechanism does not matter. */
 export const COUNTER_PRIORITY: Record<RuleId, CounterCode[]> = {
-  R1: ["C6", "C1", "C7", "C5"],
-  R2: ["C6", "C1", "C7", "C5"],
+  R1: ["C6", "C1", "C7", "C5", "C9"],
+  R2: ["C9", "C6", "C1", "C7", "C5"],
   R3: ["C8", "C6", "C1", "C7"],
   R4: ["C3", "C2", "C4", "C5", "C7"],
   R5: ["C3", "C2", "C4", "C5"],
   R6: ["C3", "C2", "C4", "C6", "C1", "C7", "C5"],
-  R7: ["C7", "C2"],
+  R7: ["C7", "C3", "C2"],
 };
+export const MECHANISM_RULES: RuleId[] = ["R4", "R5", "R6", "R7"];
 
 export const ALWAYS_C2: RuleId[] = ["R4", "R5", "R6"];
 

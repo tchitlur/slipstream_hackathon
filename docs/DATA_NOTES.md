@@ -23,12 +23,13 @@ Observations for the human to review. Where fetched data contradicts an expectat
 - Several of these contests reflect genuine mixed-direction biology rather than curation error (sodium and NMDA-receptor channel genes commonly carry both loss- and gain-of-function variants); the product shows both sides and does not adjudicate.
 - Gene2Phenotype curates SCN8A-related epileptic encephalopathy as dominant negative rather than gain of function, and KCNQ2-related epileptic encephalopathy as gain of function; both differ from how some of the literature describes them. The data was kept as curated, and the contested flags record the disagreement where it reached the threshold.
 - Phenotype match methods: none 187, hpoa_xref 2457, g2p_record 129, gene_name 93; thin annotation (<5 terms): 312.
-- Shared registries (added 2026-10-04): 6 multi-gene registries confirmed from their own sites, covering 61 deep conditions; 54 organization pages state participation; 26 registries found outside ClinicalTrials.gov. Milestone 4 "partly" = included in a shared registry only.
+- Shared registries (added 2026-10-04): 6 multi-gene registries confirmed from their own sites, covering 61 deep conditions; 54 organization pages state participation; 14 registries found outside ClinicalTrials.gov. Milestone 4 "partly" = included in a shared registry only.
 - Targeted trials by level: 42 act on the gene or its product (count as milestone 7), 13 act on a downstream pathway (shown as partly), 10 symptomatic or mechanism not established.
 - Studies: 1044 retrieved, 212 classified as about a condition, 357 discarded as not about it (gene panels, broad epilepsy studies). 13 studies exclude a variant class in their eligibility text.
 - Quotes: 1230 verified verbatim, 51 discarded.
 - Disease-model literature returned at least one paper for every deep gene, so milestone 5 does not discriminate within this slice; the count and top PMIDs are shown so a reader can judge depth.
 - Demo candidates (section 9.6): 3; top: CHD2 -> SCN1A, HNRNPU -> SLC6A1, DYRK1A -> UBE3A.
+- Mechanism flags: 3 contested plus 13 both directions reported plus 0 different mechanism also reported.
 - LLM spend (upper-bound price estimate): $3.73.
 
 <!-- generated:end -->
@@ -55,3 +56,9 @@ Needs a biomedical eye: radiprodil (NCT05818943) is an NR2B modulator, i.e. the 
 - SATB2 PMID 17377962 (dominant-negative effect only predicted), ADNP PMID 41174994 (overexpression assays), GRIN2D PMID 28212175 (precision-medicine review list): kept at low confidence.
 - GABRA1 PMID 39642202: literature.json attributes the paper to GABRG2 but the cohort includes GABRA1 variants.
 - Trofinetide (Daybue) is labelled as treating symptoms because its label states the mechanism is unknown; "mechanism" is arguable. Sirolimus gel (Hyftor) is labelled mechanism on the basis of mTOR inhibition although its label calls the mechanism in angiofibroma unknown.
+
+## Final pass (2026-10-04)
+
+- Registry evidence: the KCNA2 Heidelberg registry URL contains `kcnb1-register`, but the fetched page is titled "KCNA2 Registry: Heidelberg University Hospital" and names KCNA2; kept. Dropped as not naming the gene on the cited page: DNM1 at CoRDS (logo only), GRIN1 and GRIN2D at grin2b.com and the GRIN Portal (the Portal names them only in a publication list). GRIN2A and GRIN2B keep the GRIN Variant Patient Registry, whose page names both genes.
+- Baseline mispairings caught and removed: CURE GABA-A was paired with a MEHMO natural history study and the Snap25 Foundation with a generic neonatal seizure registry because a reverse containment test let a one-word study condition ("Epilepsy") match a longer disease name; the Dravet Syndrome Foundation was paired first with a 2017 gait-treatment observational study and Pitt Hopkins with a newborn screening study because a prospective-cohort design counted as natural history. All four are gone under the title-only rule. CDKL5 (IFCR) remains paired with "Natural History of Rett Syndrome & Related Disorders" (NCT02738281), whose record names CDKL5 deficiency disorder; a reviewer may prefer a CDKL5-only study.
+- Of 23 organizations with a founding year, 9 have no observational study on ClinicalTrials.gov whose record names their condition and whose title reads as a registry or natural history study; they are absent from the baseline rather than paired with a gene-only match.

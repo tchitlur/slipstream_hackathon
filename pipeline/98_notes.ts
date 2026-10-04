@@ -66,6 +66,7 @@ function main() {
   lines.push(`- Quotes: ${(m.counts.t2QuotesVerified ?? 0) + (m.counts.t1ClaimsVerified ?? 0)} verified verbatim, ${(m.counts.t2QuotesDiscarded ?? 0) + (m.counts.t1ClaimsDiscarded ?? 0)} discarded.`);
   lines.push(`- Disease-model literature returned at least one paper for every deep gene, so milestone 5 does not discriminate within this slice; the count and top PMIDs are shown so a reader can judge depth.`);
   lines.push(`- Demo candidates (section 9.6): ${demoList.length}; top: ${demoList.slice(0, 3).map((d) => `${atlas.conditions.find((c) => c.id === d.conditionId)?.geneSymbol} -> ${atlas.conditions.find((c) => c.id === d.neighborId)?.geneSymbol}`).join(", ") || "none"}.`);
+  lines.push(`- Mechanism flags: ${m.counts.mechanismContestedStrict ?? 0} contested plus ${m.counts.mechanismBothDirections ?? 0} both directions reported plus ${m.counts.mechanismDifferentReported ?? 0} different mechanism also reported.`);
   lines.push(`- LLM spend (upper-bound price estimate): $${m.llm.spendUsd.toFixed(2)}.`);
   lines.push("");
   lines.push("<!-- generated:end -->");

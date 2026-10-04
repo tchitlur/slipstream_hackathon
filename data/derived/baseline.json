@@ -1,5 +1,5 @@
 {
- "computedAt": "2026-10-04T01:56:54.751Z",
+ "computedAt": "2026-10-04T02:37:08.945Z",
  "pairs": [
   {
    "orgId": "org:dravet-syndrome-foundation",
@@ -10,14 +10,14 @@
    "conditionIds": [
     "cond:G2P00251"
    ],
-   "studyId": "NCT06504511",
-   "studyTitle": "SCN1A Horizons A Natural History Study of SCN1A-related Epilepsies in the United Kingdom",
+   "studyId": "NCT04537832",
+   "studyTitle": "Natural History Study of Infants and Children With Developmental and Epileptic Encephalopathies",
    "studyRole": "natural_history",
-   "studyStartDate": "2023-11-20",
-   "years": 14.8,
+   "studyStartDate": "2021-01-18",
+   "years": 12,
    "evidenceIds": [
     "ev:seed:org:dravet-syndrome-foundation",
-    "ev:ctgov:NCT06504511:role"
+    "ev:ctgov:NCT04537832:baseline"
    ]
   },
   {
@@ -103,45 +103,6 @@
    ]
   },
   {
-   "orgId": "org:cure-syngap1",
-   "orgName": "CURE SYNGAP1 (formerly SynGAP Research Fund)",
-   "foundedYear": 2018,
-   "foundedUrl": "https://curesyngap1.org/mission-and-values/",
-   "foundedSnippet": "CURE SYNGAP1 (FKA SynGAP Research Fund) is a 501(c)(3) public charity incorporated in 2018.",
-   "conditionIds": [
-    "cond:G2P01343"
-   ],
-   "studyId": "NCT06555965",
-   "studyTitle": "STXBP1 and SYNGAP1 Related Disorders Natural History Study",
-   "studyRole": "natural_history",
-   "studyStartDate": "2023-08-30",
-   "years": 5.6,
-   "evidenceIds": [
-    "ev:seed:org:cure-syngap1",
-    "ev:seed:org:cure-syngap1:registry",
-    "ev:ctgov:NCT06555965:role"
-   ]
-  },
-  {
-   "orgId": "org:slc6a1-connect",
-   "orgName": "SLC6A1 Connect",
-   "foundedYear": 2018,
-   "foundedUrl": "https://slc6a1connect.org/who-we-are/",
-   "foundedSnippet": "Founded in 2018",
-   "conditionIds": [
-    "cond:G2P00319"
-   ],
-   "studyId": "NCT07531511",
-   "studyTitle": "SLC6A1-NDD Prospective Longitudinal Natural History Study",
-   "studyRole": "natural_history",
-   "studyStartDate": "2026-07-21",
-   "years": 8.5,
-   "evidenceIds": [
-    "ev:seed:org:slc6a1-connect",
-    "ev:ctgov:NCT07531511:role"
-   ]
-  },
-  {
    "orgId": "org:international-foundation-for-cdkl5-research",
    "orgName": "International Foundation for CDKL5 Research (IFCR)",
    "foundedYear": 2009,
@@ -194,15 +155,35 @@
     "cond:G2P01023",
     "cond:G2P01392"
    ],
-   "studyId": "NCT02738281",
-   "studyTitle": "Natural History of Rett Syndrome & Related Disorders",
+   "studyId": "NCT00786071",
+   "studyTitle": "Metabolic Evaluation of Nutrition in Rett Syndrome",
    "studyRole": "natural_history",
-   "studyStartDate": "2015-11",
-   "years": 7.8,
+   "studyStartDate": "2009-05",
+   "years": 1.3,
    "evidenceIds": [
     "ev:seed:org:rett-syndrome-research-trust",
     "ev:seed:org:rett-syndrome-research-trust:registry",
-    "ev:ctgov:NCT02738281:role"
+    "ev:ctgov:NCT00786071:baseline"
+   ]
+  },
+  {
+   "orgId": "org:angelman-syndrome-foundation",
+   "orgName": "Angelman Syndrome Foundation",
+   "foundedYear": 1992,
+   "foundedUrl": "https://angelman.org/history/",
+   "foundedSnippet": "On January 6, 1992 the ASF was officially incorporated.",
+   "conditionIds": [
+    "cond:G2P01058"
+   ],
+   "studyId": "NCT00004351",
+   "studyTitle": "Study of Phenotype and Genotype Correlations in Patients With Contiguous Gene Deletion Syndromes",
+   "studyRole": "natural_history",
+   "studyStartDate": "1999-09",
+   "years": 7.7,
+   "evidenceIds": [
+    "ev:seed:org:angelman-syndrome-foundation",
+    "ev:seed:org:angelman-syndrome-foundation:registry",
+    "ev:ctgov:NCT00004351:baseline"
    ]
   },
   {
@@ -226,6 +207,26 @@
    ]
   },
   {
+   "orgId": "org:glut1-deficiency-foundation",
+   "orgName": "Glut1 Deficiency Foundation",
+   "foundedYear": 2009,
+   "foundedUrl": "https://www.g1dfoundation.org/about-the-foundation/",
+   "foundedSnippet": "The GLUT1 Deficiency Foundation was formed originally in 2009",
+   "conditionIds": [
+    "cond:G2P00082"
+   ],
+   "studyId": "NCT02013583",
+   "studyTitle": "The Glucose Transporter Type I Deficiency (G1D) Registry",
+   "studyRole": "natural_history",
+   "studyStartDate": "2013-12",
+   "years": 4.9,
+   "evidenceIds": [
+    "ev:seed:org:glut1-deficiency-foundation",
+    "ev:seed:org:glut1-deficiency-foundation:registry",
+    "ev:ctgov:NCT02013583:baseline"
+   ]
+  },
+  {
    "orgId": "org:adnp-kids-research-foundation",
    "orgName": "ADNP Kids Research Foundation",
    "foundedYear": 2016,
@@ -246,25 +247,6 @@
    ]
   },
   {
-   "orgId": "org:bow-foundation",
-   "orgName": "The Bow Foundation",
-   "foundedYear": 2017,
-   "foundedUrl": "https://gnao1.org/about-the-foundation/",
-   "foundedSnippet": "The Foundation was launched in 2017 by parents of children with GNAO1 disorders.",
-   "conditionIds": [
-    "cond:G2P00548"
-   ],
-   "studyId": "NCT04950946",
-   "studyTitle": "GNAO1 Natural History Study",
-   "studyRole": "natural_history",
-   "studyStartDate": "2019-02-18",
-   "years": 2.1,
-   "evidenceIds": [
-    "ev:seed:org:bow-foundation",
-    "ev:ctgov:NCT04950946:role"
-   ]
-  },
-  {
    "orgId": "org:ddx3x-foundation",
    "orgName": "DDX3X Foundation",
    "foundedYear": 2015,
@@ -274,15 +256,15 @@
     "cond:G2P00498",
     "cond:G2P02840"
    ],
-   "studyId": "NCT03718910",
-   "studyTitle": "DDX3X Syndrome -The Seaver Autism Center for Research and Treatment is Characterizing DDX3X-related Neurodevelopmental Disorders Using Genetic, Medical, and Neuropsychological Measures.",
+   "studyId": "NCT04436588",
+   "studyTitle": "Better Delineation of DDX3X Related Phenotype and Epigenetic Signature.",
    "studyRole": "natural_history",
-   "studyStartDate": "2018-05-23",
-   "years": 3.3,
+   "studyStartDate": "2019-11-01",
+   "years": 4.8,
    "evidenceIds": [
     "ev:seed:org:ddx3x-foundation",
     "ev:seed:org:ddx3x-foundation:registry",
-    "ev:ctgov:NCT03718910:role"
+    "ev:ctgov:NCT04436588:role"
    ]
   },
   {
@@ -294,20 +276,20 @@
    "conditionIds": [
     "cond:G2P01055"
    ],
-   "studyId": "NCT00682513",
-   "studyTitle": "Studies of the Variable Phenotypic Presentations of Rapid-Onset Dystonia Parkinsonism and Other Movement Disorders",
+   "studyId": "NCT03857607",
+   "studyTitle": "Natural History Study of ATP1A3-related Disease",
    "studyRole": "natural_history",
-   "studyStartDate": "2008-04",
-   "years": 7.3,
+   "studyStartDate": "2018-09-01",
+   "years": 17.7,
    "evidenceIds": [
     "ev:seed:org:alternating-hemiplegia-of-childhood-foundation",
     "ev:seed:org:alternating-hemiplegia-of-childhood-foundation:registry",
-    "ev:ctgov:NCT00682513:role"
+    "ev:ctgov:NCT03857607:role"
    ]
   }
  ],
- "medianYears": 6.8,
- "minYears": 1.8,
+ "medianYears": 6.699999999999999,
+ "minYears": 1.3,
  "maxYears": 23.2,
  "orgsWithFoundingYear": 23,
  "orgsPassed": 51

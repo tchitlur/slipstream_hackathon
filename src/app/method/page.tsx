@@ -103,11 +103,13 @@ export default function MethodPage() {
           <Stat k="Studies whose eligibility excludes a variant class" v={c.studiesWithMechanismExclusion} />
           <Stat k="Quotes verified verbatim (T1 + T2)" v={(c.t2QuotesVerified ?? 0) + (c.t1ClaimsVerified ?? 0)} />
           <Stat k="Quotes discarded (failed verification)" v={(c.t2QuotesDiscarded ?? 0) + (c.t1ClaimsDiscarded ?? 0)} />
-          <Stat k="Contested mechanisms" v={c.contestedMechanisms} />
+          <Stat k="Mechanism flags" v={`${c.mechanismContestedStrict ?? 0} contested, ${c.mechanismBothDirections ?? 0} both directions reported, ${c.mechanismDifferentReported ?? 0} different mechanism also reported`} />
           <Stat k="NIH RePORTER projects" v={c.grants} />
           <Stat k="Investigators (after conservative merge)" v={c.investigators} />
           <Stat k="Bridges" v={c.bridges} />
-          <Stat k="Patient organizations in seed list (verified)" v={`${c.patientOrgs ?? 0} (${c.patientOrgsVerified ?? 0})`} />
+          <Stat k="Patient organizations (automatically checked / human-verified)" v={`${c.patientOrgsAutoChecked ?? 0} / ${c.patientOrgsVerified ?? 0}`} />
+          <Stat k="Shared registries confirmed from their own sites" v={c.sharedRegistries} />
+          <Stat k="Registries found outside ClinicalTrials.gov" v={c.externalRegistries} />
           <Stat k="Transfer verdicts" v={c.transferVerdicts} />
           <Stat k="Estimated LLM spend (upper bound)" v={m ? `$${m.llm.spendUsd.toFixed(2)}` : "—"} />
           <Stat k="Build commit" v={m?.gitCommit ?? "—"} />
@@ -253,7 +255,7 @@ export default function MethodPage() {
         {enoughPairs ? (
           <div className="space-y-3">
             <p className="text-sm text-ink-2">
-              <span className="font-medium text-ink">Baseline computed from this atlas&apos;s own data:</span> for patient organizations that passed the automated site check and state a founding year on their own site, the time from founding to the start of the earliest registry or natural history study for their condition in our ClinicalTrials.gov data.
+              <span className="font-medium text-ink">Baseline computed from this atlas&apos;s own data:</span> for patient organizations that passed the automated site check and state a founding year on their own site, the time from founding to the start of the earliest registry or natural history study of the <em>same condition</em>. A study counts only if its ClinicalTrials.gov record names the disease (matched by disease name, not merely by gene symbol); it is drawn from the classified studies in this atlas plus a ClinicalTrials.gov search of observational studies by each condition&apos;s disease names (Gene2Phenotype names and synonyms, and names such as “Dravet Syndrome” that records matched to the condition during reconciliation), keeping studies whose title reads as a registry or natural history study.
             </p>
             <dl className="grid sm:grid-cols-3 gap-x-6 gap-y-1 text-sm">
               <Stat k="Pairs" v={baseline!.pairs.length} />
@@ -294,7 +296,7 @@ export default function MethodPage() {
               </tbody>
             </table>
             <p className="text-xs text-muted">
-              This counts only groups that did launch a study and whose site states a founding year ({baseline!.orgsWithFoundingYear} of {baseline!.orgsPassed} checked organizations); groups that never reached a study are invisible to it, so the median is a floor, not a typical wait. Study start dates come from ClinicalTrials.gov; a registry run outside that database is not counted.
+              This counts only groups that did launch a study and whose site states a founding year ({baseline!.orgsWithFoundingYear} of {baseline!.orgsPassed} checked organizations); groups that never reached a study are invisible to it, so the median is a floor, not a typical wait. Study start dates come from ClinicalTrials.gov; a registry run outside that database is not counted, and a study is paired with an organization only when its record names the organization&apos;s condition, so an organization whose condition appears in no observational record is also absent. Studies found by the disease-name search are read as registry or natural history studies from their titles, not by the T2 classifier; each row links to its record.
             </p>
             <p className="text-sm border border-line rounded-md p-3 bg-paper-2">
               <span className="font-medium">Target, not a measured result:</span> if a community adapts a same-cluster neighbor&apos;s protocol and outcome measures instead of designing from scratch, the aim is a fundable natural history study plan within one year of forming, against a median of {baseline!.medianYears!.toFixed(1)} years in the pairs above. That would be roughly a {Math.max(1, Math.round(baseline!.medianYears! / 1))}x shortening <em>under the assumptions listed</em>; nothing in this atlas measures whether any group has achieved it.

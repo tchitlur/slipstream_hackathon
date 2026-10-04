@@ -435,7 +435,7 @@ export const Verdict = z.enum(["transferable", "needs_expert_review", "do_not_tr
 export type Verdict = z.infer<typeof Verdict>;
 export const RuleId = z.enum(["R1", "R2", "R3", "R4", "R5", "R6", "R7"]);
 export type RuleId = z.infer<typeof RuleId>;
-export const CounterCode = z.enum(["C1", "C2", "C3", "C4", "C5", "C6", "C7", "C8"]);
+export const CounterCode = z.enum(["C1", "C2", "C3", "C4", "C5", "C6", "C7", "C8", "C9"]);
 export type CounterCode = z.infer<typeof CounterCode>;
 
 export const CounterReasonSchema = z.object({
@@ -454,6 +454,8 @@ export const TransferVerdictSchema = z.object({
   counterReasons: z.array(CounterReasonSchema).min(1),
   evidenceIds: z.array(z.string()).min(1),
   warning: z.boolean().default(false),
+  /** Trials of the neighbor whose eligibility excludes a variant class, shown inline on R4 and R7. */
+  exclusions: z.array(z.object({ studyId: z.string(), title: z.string(), excludes: z.string(), quote: z.string(), evidenceId: z.string() })).default([]),
 });
 export type TransferVerdict = z.infer<typeof TransferVerdictSchema>;
 
