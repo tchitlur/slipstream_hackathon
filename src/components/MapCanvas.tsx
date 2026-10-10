@@ -25,6 +25,7 @@ export function MapCanvas({ nodes, edges, clusters }: { nodes: MapNode[]; edges:
     py: pad + ((y - bounds.minY) / (bounds.maxY - bounds.minY || 1)) * (size.h - 2 * pad),
   });
   const byId = useMemo(() => new Map(nodes.map((n) => [n.id, n])), [nodes]);
+  const clusterById = useMemo(() => new Map(clusters.map((c) => [c.id, c])), [clusters]);
 
   useEffect(() => {
     const el = wrap.current;
@@ -71,15 +72,20 @@ export function MapCanvas({ nodes, edges, clusters }: { nodes: MapNode[]; edges:
         ctx.stroke();
       }
     }
-    ctx.font = "12px ui-sans-serif, system-ui, sans-serif";
-    for (const c of clusters) {
-      const { px, py } = proj(c.x, c.y);
-      const label = c.label.length > 48 ? c.label.slice(0, 46) + "…" : c.label;
-      const w = ctx.measureText(label).width;
-      ctx.fillStyle = "rgba(250,248,244,0.85)";
-      ctx.fillRect(px + 4, py - 17, w + 6, 16);
-      ctx.fillStyle = "rgba(28,26,23,0.8)";
-      ctx.fillText(label, px + 7, py - 5);
+    // Cluster names are not drawn at centroids: the layout is roughly circular, so every centroid lands near the
+    // middle and the labels pile up. The hovered or focused condition's cluster is named in the tooltip instead, and
+    // its fellow cluster members are outlined so the cluster is visible on the map.
+    const focal = hover ?? nodes[focusIdx] ?? null;
+    if (focal?.clusterId) {
+      ctx.lineWidth = 1.2;
+      ctx.strokeStyle = "rgba(28,26,23,0.55)";
+      for (const n of nodes) {
+        if (n.clusterId !== focal.clusterId || n.id === focal.id) continue;
+        const { px, py } = proj(n.x, n.y);
+        ctx.beginPath();
+        ctx.arc(px, py, (n.depth === "deep" ? 5 : 2.2) + 1.5, 0, Math.PI * 2);
+        ctx.stroke();
+      }
     }
     if (nodes.length <= 400) {
       ctx.font = "10px ui-sans-serif, system-ui, sans-serif";
@@ -109,6 +115,7 @@ export function MapCanvas({ nodes, edges, clusters }: { nodes: MapNode[]; edges:
   };
 
   const active = hover ?? nodes[focusIdx] ?? null;
+  const activeCluster = active?.clusterId ? clusterById.get(active.clusterId) : undefined;
   return (
     <div ref={wrap} className="relative">
       <canvas
@@ -140,6 +147,7 @@ export function MapCanvas({ nodes, edges, clusters }: { nodes: MapNode[]; edges:
             <span className="inline-block w-2.5 h-2.5 rounded-full" style={{ background: active.color }} /> {active.gene}
           </div>
           <div className="text-ink-2 text-xs">{active.name}</div>
+          {activeCluster && <div className="text-ink-2 text-xs mt-0.5">Cluster: {activeCluster.label} ({activeCluster.size} conditions; members outlined)</div>}
           <div className="text-muted text-xs">{active.depth === "shallow" ? "mechanism and symptoms only" : "deep slice"} · click to open</div>
         </div>
       )}

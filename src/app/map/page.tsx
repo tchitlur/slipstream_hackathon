@@ -44,7 +44,7 @@ export default function MapPage() {
       <header className="space-y-2">
         <h1 className="text-3xl sm:text-4xl">Map</h1>
         <p className="text-ink-2 max-w-3xl">
-          Conditions placed by phenotype similarity (a precomputed force layout over edges above the cluster threshold of {layout?.threshold ?? "—"}), colored by mechanism road. Clusters are Louvain communities named by their most informative shared phenotypes. Lighter dots are atlas-wide conditions with mechanism and symptoms only; edges are drawn only between deep-slice conditions, to keep the picture legible. Hover for the name; click to open. The ladder on each condition page is the primary view; this map is the overview.
+          Conditions placed by phenotype similarity (a precomputed force layout over edges above the cluster threshold of {layout?.threshold ?? "—"}), colored by mechanism road. Clusters are Louvain communities named by their most informative shared phenotypes. Lighter dots are atlas-wide conditions with mechanism and symptoms only; edges are drawn only between deep-slice conditions, to keep the picture legible. Hover for the name and its cluster (fellow members are outlined); click to open. The ladder on each condition page is the primary view; this map is the overview.
         </p>
       </header>
       {nodes.length ? <MapCanvas nodes={nodes} edges={layout!.edges.filter(([a, b]) => store.conditions.get(a)?.depth === "deep" && store.conditions.get(b)?.depth === "deep")} clusters={clusters} /> : <p className="text-ink-2">No layout has been built yet.</p>}
