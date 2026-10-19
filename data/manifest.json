@@ -5,7 +5,7 @@
   "bytes": 143798,
   "sha256": "952c4b1e78acbb54e6ec9412434b7602fedacbf021736351a63c181bdb753629",
   "saved": "data/raw/cbsa_delineation.xlsx",
-  "ts_utc": "2026-10-19T23:20:19.490847+00:00"
+  "ts_utc": "2026-10-19T23:21:11.948943+00:00"
  },
  {
   "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2023_Gazetteer/2023_Gaz_cbsa_national.zip",
@@ -13,7 +13,7 @@
   "bytes": 46113,
   "sha256": "018c815416513ff593522b17d9c68c22ecb59ba57d33e94e300e6c9c8201dfa7",
   "saved": "data/raw/gaz_cbsa_2023.zip",
-  "ts_utc": "2026-10-19T23:20:19.613767+00:00"
+  "ts_utc": "2026-10-19T23:21:12.061970+00:00"
  },
  {
   "url": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/metro/totals/cbsa-est2024-alldata.csv",
@@ -21,7 +21,7 @@
   "bytes": 718043,
   "sha256": "8bb9e59c3193ce1fc4f1bd08308fe435b2840d0a80a521f51db99b4185d28ea0",
   "saved": "data/raw/cbsa-est2024-alldata.csv",
-  "ts_utc": "2026-10-19T23:20:19.813665+00:00"
+  "ts_utc": "2026-10-19T23:21:12.215233+00:00"
  },
  {
   "url": "https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/metro/totals/cbsa-est2019-alldata.csv",
@@ -29,11 +29,733 @@
   "bytes": 1269330,
   "sha256": "e43a8296927bb5d482fab0e85a76022e264dba998c366626c6b9021de66809a8",
   "saved": "data/raw/cbsa-est2019-alldata.csv",
-  "ts_utc": "2026-10-19T23:20:19.986900+00:00"
+  "ts_utc": "2026-10-19T23:21:12.374483+00:00"
  },
  {
   "step": "msa_list",
   "n": 200,
-  "ts_utc": "2026-10-19T23:20:20.068400+00:00"
+  "ts_utc": "2026-10-19T23:21:12.409389+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b01003.dat",
+  "status": 200,
+  "rows_total": 616691,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b01003_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:12.717239+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b19013.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b19013_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:13.018880+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b19001.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b19001_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:13.592741+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25070.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25070_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:13.994440+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25091.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25091_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:14.516842+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25074.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25074_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:15.639317+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25095.dat",
+  "status": 200,
+  "rows_total": 299182,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25095_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:17.893352+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25003.dat",
+  "status": 200,
+  "rows_total": 616691,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25003_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:18.202596+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25004.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25004_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:18.562700+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25002.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25002_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:19.024439+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25077.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25077_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:19.320652+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25064.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25064_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:19.603004+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b08301.dat",
+  "status": 200,
+  "rows_total": 616691,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b08301_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:20.180839+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b28002.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b28002_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:20.610608+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-c24030.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-c24030_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:21.533983+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25034.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25034_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:21.824483+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25024.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25024_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:22.203906+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b19083.dat",
+  "status": 200,
+  "rows_total": 299182,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b19083_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:22.488960+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25119.dat",
+  "status": 200,
+  "rows_total": 299182,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25119_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:22.928783+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25118.dat",
+  "status": 200,
+  "rows_total": 299182,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25118_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:23.306944+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b01002.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b01002_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:23.660139+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b15003.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b15003_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:24.483365+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25106.dat",
+  "status": 200,
+  "rows_total": 299182,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25106_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:25.569392+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25140.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25140_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:25.976868+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b07201.dat",
+  "status": 200,
+  "rows_total": 537314,
+  "rows_kept": 927,
+  "saved": "data/acs/acsdt5y2024-b07201_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:27.732143+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25081.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25081_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:28.384064+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25088.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25088_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:28.674335+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25071.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25071_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:28.939411+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25092.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25092_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:29.285531+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25014.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25014_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:29.722532+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25010.dat",
+  "status": 200,
+  "rows_total": 543580,
+  "rows_kept": 937,
+  "saved": "data/acs/acsdt5y2024-b25010_cbsa.dat",
+  "ts_utc": "2026-10-19T23:21:30.058445+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdp5y2024-dp02.dat",
+  "status": 404,
+  "ts_utc": "2026-10-19T23:21:30.370463+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdp5y2024-dp03.dat",
+  "status": 404,
+  "ts_utc": "2026-10-19T23:21:30.681988+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdp5y2024-dp04.dat",
+  "status": 404,
+  "ts_utc": "2026-10-19T23:21:31.070302+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdp5y2024-dp05.dat",
+  "status": 404,
+  "ts_utc": "2026-10-19T23:21:31.446896+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2025/table-based-SF/data/1YRData/acsdp1y2025-dp04.dat",
+  "status": 401,
+  "ts_utc": "2026-10-19T23:21:31.803175+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/1YRData/acsdp1y2024-dp04.dat",
+  "status": 404,
+  "ts_utc": "2026-10-19T23:21:32.176398+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2019/table-based-SF/data/5YRData/acsdp5y2019-dp04.dat",
+  "status": 404,
+  "ts_utc": "2026-10-19T23:21:32.573755+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2018/table-based-SF/data/5YRData/acsdp5y2018-dp04.dat",
+  "status": 404,
+  "ts_utc": "2026-10-19T23:21:32.956074+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/documentation/ACS20240_Table_Shells.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:33.332806+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/documentation/ACS2024_Table_Shells.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:33.714096+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/documentation/ACS20240_DP_Table_Shells.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:34.131384+00:00"
+ },
+ {
+  "url": "https://files.zillowstatic.com/research/public_csvs/zhvi/Metro_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+  "status": 200,
+  "bytes": 4491441,
+  "sha256": "f921b1a98ae8b14a58c50a8be28c2dbe1bc141af8b6afcf88acb5f0ebff3b8e7",
+  "saved": "data/raw/zillow_metro_zhvi_mid.csv",
+  "ts_utc": "2026-10-19T23:21:34.876031+00:00"
+ },
+ {
+  "url": "https://files.zillowstatic.com/research/public_csvs/zhvi/Metro_zhvi_uc_sfrcondo_tier_0.0_0.33_sm_sa_month.csv",
+  "status": 200,
+  "bytes": 4418092,
+  "sha256": "765bef129b4ec760f61edb506f869cd6d25fdcebedc51c024e61da3935090591",
+  "saved": "data/raw/zillow_metro_zhvi_bottom.csv",
+  "ts_utc": "2026-10-19T23:21:35.713201+00:00"
+ },
+ {
+  "url": "https://files.zillowstatic.com/research/public_csvs/zori/Metro_zori_uc_sfrcondomfr_sm_month.csv",
+  "status": 200,
+  "bytes": 1075563,
+  "sha256": "1397d89685ad547c94771e6527fb58c5ff057e1c6c3c57b4637ff98de1f45c5a",
+  "saved": "data/raw/zillow_metro_zori.csv",
+  "ts_utc": "2026-10-19T23:21:36.414167+00:00"
+ },
+ {
+  "url": "https://files.zillowstatic.com/research/public_csvs/zori/Metro_zori_uc_sfrcondomfr_sm_sa_month.csv",
+  "status": 200,
+  "bytes": 1075644,
+  "sha256": "cf1ac2ab12236da3e05a81d06542e6fb95581704c6e9f375424e73b72ccb444b",
+  "saved": "data/raw/zillow_metro_zori_sa.csv",
+  "ts_utc": "2026-10-19T23:21:37.114648+00:00"
+ },
+ {
+  "url": "https://files.zillowstatic.com/research/public_csvs/invt_fs/Metro_invt_fs_uc_sfrcondo_sm_month.csv",
+  "status": 200,
+  "bytes": 609074,
+  "sha256": "02498326b4b2500c8e15ae356be6443c399d72b86adb99b803246530797f4523",
+  "saved": "data/raw/zillow_metro_inventory.csv",
+  "ts_utc": "2026-10-19T23:21:37.779685+00:00"
+ },
+ {
+  "url": "https://files.zillowstatic.com/research/public_csvs/new_con_sales_count_raw/Metro_new_con_sales_count_raw_uc_sfrcondo_month.csv",
+  "status": 200,
+  "bytes": 197321,
+  "sha256": "1189d4dacbd9e90c2daa8a2fbeef523746b4f362c9a7afd172d7e0603d655142",
+  "saved": "data/raw/zillow_metro_newcon_sales.csv",
+  "ts_utc": "2026-10-19T23:21:38.427665+00:00"
+ },
+ {
+  "url": "https://www.fhfa.gov/hpi/download/quarterly_datasets/hpi_at_metro.csv",
+  "status": 200,
+  "bytes": 4186906,
+  "sha256": "07e3e98998806df830fd1ec141dbf234e66d66675258ecd705078028aafedee0",
+  "saved": "data/raw/fhfa_hpi_at_metro.csv",
+  "ts_utc": "2026-10-19T23:21:39.189019+00:00"
+ },
+ {
+  "url": "https://www.fhfa.gov/hpi/download/monthly/hpi_master.csv",
+  "status": 200,
+  "bytes": 17156076,
+  "sha256": "e3b99322a3cf6c32e5f33eddc1a6b3e220467d62bc27536456728e5fe74750e6",
+  "saved": "data/raw/fhfa_hpi_master.csv",
+  "ts_utc": "2026-10-19T23:21:40.047861+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/fmr/fmr2027/FY27_FMRs.xlsx",
+  "status": 200,
+  "bytes": 375708,
+  "sha256": "423d1c6f8ef285a0fec63526768245396ec6fca0c9a086f21f709cc0ac89d1b7",
+  "saved": "data/raw/hud_fmr.xlsx",
+  "ts_utc": "2026-10-19T23:21:40.559934+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/il/il26/Section8-FY26.xlsx",
+  "status": 200,
+  "bytes": 771324,
+  "sha256": "bbadf0a080112fc1492c7752692c041c6a4299aad0173873b732c3f892d9aee0",
+  "saved": "data/raw/hud_income_limits.xlsx",
+  "ts_utc": "2026-10-19T23:21:41.089055+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/cp/2019thru2023-050-csv.zip",
+  "status": 404,
+  "bytes": 4941,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:41.256961+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/cp/2018thru2022-050-csv.zip",
+  "status": 200,
+  "bytes": 17640663,
+  "sha256": "9e8fd7f7613083bf0350f7e637715367f98fd62d5068c465e730abf296dca439",
+  "saved": "data/raw/hud_chas_county.zip",
+  "ts_utc": "2026-10-19T23:21:42.162078+00:00"
+ },
+ {
+  "step": "chas_zip",
+  "files": [
+   "050/",
+   "050/Table1.csv",
+   "050/Table10.csv",
+   "050/Table11.csv",
+   "050/Table12.csv",
+   "050/Table13.csv",
+   "050/Table14A.csv",
+   "050/Table14B.csv",
+   "050/Table15A.csv",
+   "050/Table15B.csv",
+   "050/Table15C.csv",
+   "050/Table16.csv",
+   "050/Table17A.csv",
+   "050/Table17B.csv",
+   "050/Table18A.csv",
+   "050/Table18B.csv",
+   "050/Table18C.csv",
+   "050/Table2.csv",
+   "050/Table3.csv",
+   "050/Table4.csv",
+   "050/Table5.csv",
+   "050/Table6.csv",
+   "050/Table7.csv",
+   "050/Table8.csv",
+   "050/Table9.csv"
+  ],
+  "ts_utc": "2026-10-19T23:21:42.164310+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/CBSA_2025.xlsx",
+  "status": 404,
+  "bytes": 4945,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:42.396940+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/CBSA_2024.xlsx",
+  "status": 404,
+  "bytes": 4945,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:42.596406+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/CBSA_2023.xlsx",
+  "status": 404,
+  "bytes": 4945,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:42.752479+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/COUNTY_2025.xlsx",
+  "status": 404,
+  "bytes": 4949,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:42.906947+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/COUNTY_2024.xlsx",
+  "status": 404,
+  "bytes": 4949,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:43.078216+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/COUNTY_2023.xlsx",
+  "status": 404,
+  "bytes": 4949,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:43.229407+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/STATE_2025.xlsx",
+  "status": 404,
+  "bytes": 4947,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:43.385755+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/STATE_2024.xlsx",
+  "status": 404,
+  "bytes": 4947,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:43.541882+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/STATE_2023.xlsx",
+  "status": 404,
+  "bytes": 4947,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:43.711146+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/US_2025.xlsx",
+  "status": 404,
+  "bytes": 4941,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:43.879317+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/US_2024.xlsx",
+  "status": 404,
+  "bytes": 4941,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:44.035503+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/US_2023.xlsx",
+  "status": 404,
+  "bytes": 4941,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:44.187193+00:00"
+ },
+ {
+  "url": "https://lihtc.huduser.gov/lihtcpub.zip",
+  "status": 404,
+  "bytes": 1245,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:44.447074+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2019a.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:44.805270+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2019y.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:45.133595+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2020a.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:45.529898+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2020y.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:45.901679+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2021a.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:46.353994+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2021y.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:46.771656+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2022a.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:47.294022+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2022y.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:47.689883+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2023a.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:48.058765+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2023y.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:48.525819+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2024a.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:48.769543+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2024y.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:49.102578+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2025a.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:49.330353+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2025y.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "ts_utc": "2026-10-19T23:21:49.825929+00:00"
+ },
+ {
+  "url": "https://www.freddiemac.com/pmms/docs/PMMS_history.csv",
+  "status": 200,
+  "bytes": 97536,
+  "sha256": "4568a78b9cb6a5afff0ef9037523ba8d75de9a584aacb30f358a8f04283515f6",
+  "saved": "data/raw/mortgage30_history.csv",
+  "ts_utc": "2026-10-19T23:21:50.163115+00:00"
+ },
+ {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US",
+  "status": 200,
+  "bytes": 46979,
+  "sha256": "869ba44fd0e3633fcb57f0c782875e340b272b21895abb9f581c3f269a4d730c",
+  "saved": "data/raw/fred_mortgage30us.csv",
+  "ts_utc": "2026-10-19T23:21:54.262910+00:00"
+ },
+ {
+  "step": "qcew_2024",
+  "rows": 6336,
+  "saved": "data/qcew/qcew_msa_2024.csv",
+  "ts_utc": "2026-10-19T23:23:12.099110+00:00"
+ },
+ {
+  "url": "https://data.bls.gov/cew/data/api/2018/a/area/C1741.csv",
+  "status": 404,
+  "ts_utc": "2026-10-19T23:23:26.949868+00:00"
+ },
+ {
+  "url": "https://data.bls.gov/cew/data/api/2018/a/area/C1943.csv",
+  "status": 404,
+  "ts_utc": "2026-10-19T23:23:44.505218+00:00"
+ },
+ {
+  "url": "https://data.bls.gov/cew/data/api/2018/a/area/C2888.csv",
+  "status": 404,
+  "ts_utc": "2026-10-19T23:23:47.732881+00:00"
+ },
+ {
+  "url": "https://data.bls.gov/cew/data/api/2018/a/area/C4793.csv",
+  "status": 404,
+  "ts_utc": "2026-10-19T23:24:02.671141+00:00"
+ },
+ {
+  "url": "https://data.bls.gov/cew/data/api/2018/a/area/C4364.csv",
+  "status": 404,
+  "ts_utc": "2026-10-19T23:24:27.329396+00:00"
+ },
+ {
+  "url": "https://data.bls.gov/cew/data/api/2018/a/area/C3915.csv",
+  "status": 404,
+  "ts_utc": "2026-10-19T23:24:32.381206+00:00"
+ },
+ {
+  "step": "qcew_2018",
+  "rows": 6104,
+  "saved": "data/qcew/qcew_msa_2018.csv",
+  "ts_utc": "2026-10-19T23:24:34.396443+00:00"
+ },
+ {
+  "step": "hmda_year",
+  "year": null,
+  "ts_utc": "2026-10-19T23:24:34.843420+00:00"
+ },
+ {
+  "step": "DONE",
+  "ts_utc": "2026-10-19T23:24:34.844133+00:00"
  }
 ]
