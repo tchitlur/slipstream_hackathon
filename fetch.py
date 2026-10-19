@@ -8,7 +8,7 @@ Large all-geography files are filtered to CBSA / county rows before commit.
 """
 import csv, hashlib, io, json, os, re, sys, time, zipfile, gzip
 from datetime import datetime, timezone
-import requests
+import requests, traceback
 
 OUT = "data"
 os.makedirs(f"{OUT}/raw", exist_ok=True)
@@ -51,6 +51,12 @@ def first_ok(urls, path, **kw):
         if save(u, path, **kw): return u
     return None
 
+def _hook(t, v, tb):
+    msg = "".join(traceback.format_exception(t, v, tb))
+    log(step="FATAL", error=msg[-3000:])
+    with open(f"{OUT}/traceback.txt", "w") as f: f.write(msg)
+sys.excepthook = _hook
+
 # ---------------------------------------------------------------- 1. Geography
 first_ok(["https://www2.census.gov/programs-surveys/metro-micro/geographies/reference-files/2023/delineation-files/list1_2023.xlsx",
           "https://www2.census.gov/programs-surveys/metro-micro/geographies/reference-files/2020/delineation-files/list1_2020.xls"],
@@ -84,11 +90,15 @@ def acs_filter(yr, per, name):
     if r is None or r.status_code != 200:
         log(url=url, status=getattr(r, "status_code", None)); return False
     kept, n = [], 0
-    buf = io.TextIOWrapper(r.raw, encoding="utf-8", errors="replace")
-    for i, line in enumerate(buf):
-        if i == 0 or line.startswith("310M") or line.startswith("0100000US") or line.startswith("310"):
-            kept.append(line)
-        n += 1
+    try:
+        for i, line in enumerate(r.iter_lines(decode_unicode=True, chunk_size=1 << 20)):
+            if line is None: continue
+            if isinstance(line, bytes): line = line.decode("utf-8", "replace")
+            if i == 0 or line.startswith("310") or line.startswith("0100000US"):
+                kept.append(line + "\n")
+            n += 1
+    except Exception as e:
+        log(url=url, status="STREAM_EXC", error=str(e)[:300], rows_seen=n)
     out = f"{OUT}/acs/{name}_cbsa.dat"
     with open(out, "w") as f: f.writelines(kept)
     log(url=url, status=200, rows_total=n, rows_kept=len(kept), saved=out)
