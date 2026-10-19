@@ -2333,5 +2333,101 @@
  {
   "step": "DONE2",
   "ts_utc": "2026-10-19T23:38:34.077549+00:00"
+ },
+ {
+  "step": "dir",
+  "url": "https://www2.census.gov/econ/bps/",
+  "n": 37,
+  "names": [
+   "https://www.census.gov/main/uswds/uswds-2.12.0/css/uswds.min.css",
+   "https://www.census.gov/main/.in/css/all_header_styles.css",
+   "https://www.census.gov/main/css/_new/bootstrap.css",
+   "https://www.census.gov/main/css/_new/base.css",
+   "https://www.census.gov/main/css/_new/extra.css",
+   "https://www.census.gov/main/css/_new/typeahead.css",
+   "https://www.census.gov/main/css/_new/header.css",
+   "https://www.census.gov/main/css/_new/search.css",
+   "https://www.census.gov",
+   "https://www.census.gov",
+   "https://www.census.gov",
+   "CBSA%20(beginning%20Jan%202024)/",
+   "County/",
+   "Customer%20Request/",
+   "Detailed%20Revised%20Monthly/",
+   "Documentation/",
+   "Island%20Areas/",
+   "Master%20Data%20Set/",
+   "Metro%20(ending%202023)/",
+   "Place/",
+   "State/",
+   "https://www.census.gov/about/contact-us/social_media.html",
+   "https://www.facebook.com/uscensusbureau",
+   "https://twitter.com/uscensusbureau",
+   "https://www.linkedin.com/company/us-census-bureau",
+   "https://www.youtube.com/user/uscensusbureau",
+   "https://www.instagram.com/uscensusbureau/",
+   "https://public.govdelivery.com/accounts/USCENSUS/subscriber/new",
+   "https://www.census.gov/quality/",
+   "https://www.census.gov/datalinkage/",
+   "https://www.census.gov/privacy/",
+   "https://www.census.gov/about/policies/privacy/privacy-policy.html#accessibility",
+   "https://www.census.gov/foia/",
+   "https://www.oig.doc.gov/Pages/default.aspx",
+   "https://www.commerce.gov/cr/reports-and-resources/no-fear-act",
+   "https://www.commerce.gov/",
+   "https://www.usa.gov/"
+  ],
+  "ts_utc": "2026-10-19T23:45:25.230062+00:00"
+ },
+ {
+  "step": "page",
+  "url": "https://www.huduser.gov/portal/datasets/lihtc.html",
+  "status": 200,
+  "ctype": "text/html; charset=utf-8",
+  "bytes": 95129,
+  "hrefs": [
+   "https://www.huduser.gov/portal/datasets/lihtc.html",
+   "/portal/datasets/lihtc.html",
+   "/portal/datasets/lihtc.html",
+   "https://www.huduser.gov/lihtc/agency_list.htm",
+   "/portal/datasets/lihtc/property.html",
+   "/portal/datasets/lihtc/tenant.html",
+   "/portal/datasets/LIHTC-related-publications.html",
+   "/portal/datasets/lihtc.html"
+  ],
+  "ts_utc": "2026-10-19T23:45:25.686080+00:00"
+ },
+ {
+  "step": "page",
+  "url": "https://lihtc.huduser.gov/",
+  "status": 200,
+  "ctype": "text/html",
+  "bytes": 1665,
+  "hrefs": [
+   "https://www.huduser.gov/lihtc/"
+  ],
+  "ts_utc": "2026-10-19T23:45:25.871012+00:00"
+ },
+ {
+  "step": "page",
+  "url": "https://www.huduser.gov/portal/datasets/lihtc/lihtcpub.zip",
+  "status": 200,
+  "ctype": "application/x-zip-compressed",
+  "bytes": 21186939,
+  "hrefs": [],
+  "ts_utc": "2026-10-19T23:45:26.183657+00:00"
+ },
+ {
+  "step": "page",
+  "url": "https://www.huduser.gov/portal/datasets/lihtc/LIHTCPUB.ZIP",
+  "status": 200,
+  "ctype": "application/x-zip-compressed",
+  "bytes": 21186939,
+  "hrefs": [],
+  "ts_utc": "2026-10-19T23:45:26.514901+00:00"
+ },
+ {
+  "step": "DONE3",
+  "ts_utc": "2026-10-19T23:45:26.523584+00:00"
  }
 ]
