@@ -757,5 +757,1581 @@
  {
   "step": "DONE",
   "ts_utc": "2026-10-19T23:24:34.844133+00:00"
+ },
+ {
+  "url": "https://api.census.gov/data/2024/acs/acs5/variables.json",
+  "status": 200,
+  "bytes": 10508565,
+  "sha256": "f689926f9a34944a7d5e66f78e5eb47ae801dc06e7b09cd2b724950a7546e4a8",
+  "saved": "data/acs/acs5_2024_variables.json",
+  "head": null,
+  "ts_utc": "2026-10-19T23:32:06.757890+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma1912y.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n<!--Each page ",
+  "ts_utc": "2026-10-19T23:32:06.999391+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2019a.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n<!--Each page ",
+  "ts_utc": "2026-10-19T23:32:07.195410+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2012y.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n<!--Each page ",
+  "ts_utc": "2026-10-19T23:32:07.465972+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2020a.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n<!--Each page ",
+  "ts_utc": "2026-10-19T23:32:07.635639+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2112y.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n<!--Each page ",
+  "ts_utc": "2026-10-19T23:32:07.921753+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2021a.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n<!--Each page ",
+  "ts_utc": "2026-10-19T23:32:08.126654+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2212y.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n<!--Each page ",
+  "ts_utc": "2026-10-19T23:32:08.388369+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2022a.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n<!--Each page ",
+  "ts_utc": "2026-10-19T23:32:08.874760+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2312y.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n<!--Each page ",
+  "ts_utc": "2026-10-19T23:32:09.229309+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2023a.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n<!--Each page ",
+  "ts_utc": "2026-10-19T23:32:09.422608+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2412y.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n<!--Each page ",
+  "ts_utc": "2026-10-19T23:32:09.646345+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2024a.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n<!--Each page ",
+  "ts_utc": "2026-10-19T23:32:09.855183+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2512y.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n<!--Each page ",
+  "ts_utc": "2026-10-19T23:32:10.269201+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro/ma2025a.txt",
+  "status": 404,
+  "bytes": 18933,
+  "sha256": null,
+  "saved": null,
+  "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n<!--Each page ",
+  "ts_utc": "2026-10-19T23:32:10.639732+00:00"
+ },
+ {
+  "step": "lihtc_links",
+  "page": "https://lihtc.huduser.gov/",
+  "links": [],
+  "ts_utc": "2026-10-19T23:32:10.979312+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/lihtc/lihtcpub.zip",
+  "status": 200,
+  "bytes": 21186939,
+  "sha256": "ab3e4441626c408c6900229d5635267ccdbed148e5330c97a16f93cacde0788f",
+  "saved": "data/raw/lihtcpub.zip",
+  "head": null,
+  "ts_utc": "2026-10-19T23:32:11.491787+00:00"
+ },
+ {
+  "step": "picture_links",
+  "links": [
+   "/portal/datasets/pictures/files/US_2025_2020census.xlsx",
+   "/portal/datasets/pictures/files/STATE_2025_2020census.xlsx",
+   "/portal/datasets/pictures/files/CBSA_2025_2020census.xlsx",
+   "/portal/datasets/pictures/files/PHA_2025_2020census.xlsx",
+   "/portal/datasets/pictures/files/PROJECT_2025_2020census.xlsx",
+   "/portal/datasets/pictures/files/TRACT_AK_MN_2025_2020census.xlsx",
+   "/portal/datasets/pictures/files/TRACT_MO_WY_2025_2020census.xlsx",
+   "/portal/datasets/pictures/files/PLACE_2025_2020census.xlsx",
+   "/portal/datasets/pictures/files/COUNTY_2025_2020census.xlsx",
+   "/portal/datasets/pictures/files/CD_2025_2020census.xlsx",
+   "/portal/datasets/pictures/files/Zipcode_2025_2020census.xlsx",
+   "/portal/datasets/pictures/files/US_2024_2020census.xlsx",
+   "/portal/datasets/pictures/files/STATE_2024_2020census.xlsx",
+   "/portal/datasets/pictures/files/CBSA_2024_2020census.xlsx",
+   "/portal/datasets/pictures/files/PHA_2024_2020census.xlsx",
+   "/portal/datasets/pictures/files/PROJECT_2024_2020census.xlsx",
+   "/portal/datasets/pictures/files/TRACT_AK_MN_2024_2020census.xlsx",
+   "/portal/datasets/pictures/files/TRACT_MO_WY_2024_2020census.xlsx",
+   "/portal/datasets/pictures/files/PLACE_2024_2020census.xlsx",
+   "/portal/datasets/pictures/files/COUNTY_2024_2020census.xlsx",
+   "/portal/datasets/pictures/files/CD_2024_2020census.xlsx",
+   "/portal/datasets/pictures/files/Zipcode_2024_2020census.xlsx",
+   "/portal/datasets/pictures/files/US_2023_2020census.xlsx",
+   "/portal/datasets/pictures/files/STATE_2023_2020census.xlsx",
+   "/portal/datasets/pictures/files/CBSA_2023_2020census.xlsx",
+   "/portal/datasets/pictures/files/PHA_2023_2020census.xlsx",
+   "/portal/datasets/pictures/files/PROJECT_2023_2020census.xlsx",
+   "/portal/datasets/pictures/files/TRACT_AK_MN_2023_2020census.xlsx",
+   "/portal/datasets/pictures/files/TRACT_MO_WY_2023_2020census.xlsx",
+   "/portal/datasets/pictures/files/PLACE_2023_2020census.xlsx",
+   "/portal/datasets/pictures/files/COUNTY_2023_2020census.xlsx",
+   "/portal/datasets/pictures/files/CD_2023_2020census.xlsx",
+   "/portal/datasets/pictures/files/Zipcode_2023_2020census.xlsx",
+   "/portal/datasets/pictures/files/US_2022_2020census.xlsx",
+   "/portal/datasets/pictures/files/STATE_2022_2020census.xlsx",
+   "/portal/datasets/pictures/files/CBSA_2022_2020census.xlsx",
+   "/portal/datasets/pictures/files/PHA_2022_2020census.xlsx",
+   "/portal/datasets/pictures/files/PROJECT_2022_2020census.xlsx",
+   "/portal/datasets/pictures/files/TRACT_AK_MN_2022_2020census.xlsx",
+   "/portal/datasets/pictures/files/TRACT_MO_WY_2022_2020census.xlsx",
+   "/portal/datasets/pictures/files/PLACE_2022_2020census.xlsx",
+   "/portal/datasets/pictures/files/COUNTY_2022_2020census.xlsx",
+   "/portal/datasets/pictures/files/CD_2022_2020census.xlsx",
+   "/portal/datasets/pictures/files/Zipcode_2022_2020census.xlsx",
+   "/portal/datasets/pictures/files/US_2022.xlsx",
+   "/portal/datasets/pictures/files/STATE_2022.xlsx",
+   "/portal/datasets/pictures/files/CBSA_2022.xlsx",
+   "/portal/datasets/pictures/files/PHA_2022.xlsx",
+   "/portal/datasets/pictures/files/PROJECT_2022.xlsx",
+   "/portal/datasets/pictures/files/TRACT_AK_MN_2022.xlsx",
+   "/portal/datasets/pictures/files/TRACT_MO_WY_2022.xlsx",
+   "/portal/datasets/pictures/files/PLACE_2022.xlsx",
+   "/portal/datasets/pictures/files/COUNTY_2022.xlsx",
+   "/portal/datasets/pictures/files/CD_2022.xlsx",
+   "/portal/datasets/pictures/files/Zipcode_2022.xlsx",
+   "/portal/datasets/pictures/files/US_2021.xlsx",
+   "/portal/datasets/pictures/files/STATE_2021.xlsx",
+   "/portal/datasets/pictures/files/CBSA_2021.xlsx",
+   "/portal/datasets/pictures/files/PHA_2021.xlsx",
+   "/portal/datasets/pictures/files/PROJECT_2021.xlsx"
+  ],
+  "ts_utc": "2026-10-19T23:32:11.965211+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/US_2025_2020census.xlsx",
+  "status": 200,
+  "bytes": 17339,
+  "sha256": "7b18a5da2cf36be7ec36f6d1652417ec771a8e343f70adaea57b33e2e0748c91",
+  "saved": "data/raw/hud_picture_US_2025_2020census.xlsx",
+  "head": null,
+  "ts_utc": "2026-10-19T23:32:12.077680+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/STATE_2025_2020census.xlsx",
+  "status": 200,
+  "bytes": 332246,
+  "sha256": "c80258295212508b69749a9e48b10b3376785c72c8014663273ac3f516b1adf8",
+  "saved": "data/raw/hud_picture_STATE_2025_2020census.xlsx",
+  "head": null,
+  "ts_utc": "2026-10-19T23:32:12.312713+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/CBSA_2025_2020census.xlsx",
+  "status": 200,
+  "bytes": 3619736,
+  "sha256": "af66659d233e56efb8ca0ba7d25520275fe580bbe4ac8a11d003c3ddbf52667f",
+  "saved": "data/raw/hud_picture_CBSA_2025_2020census.xlsx",
+  "head": null,
+  "ts_utc": "2026-10-19T23:32:12.710729+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/COUNTY_2025_2020census.xlsx",
+  "status": 200,
+  "bytes": 9656079,
+  "sha256": "8afaba8770146ce15c7af071b264ca4f16ac251fc75aa60c7143309798c9497c",
+  "saved": "data/raw/hud_picture_COUNTY_2025_2020census.xlsx",
+  "head": null,
+  "ts_utc": "2026-10-19T23:32:13.125712+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/US_2024_2020census.xlsx",
+  "status": 200,
+  "bytes": 17775,
+  "sha256": "21c3ebc831fdd142bcb8162ccf72195f1278e07b140881238931ab90ae0682e7",
+  "saved": "data/raw/hud_picture_US_2024_2020census.xlsx",
+  "head": null,
+  "ts_utc": "2026-10-19T23:32:13.251766+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/STATE_2024_2020census.xlsx",
+  "status": 200,
+  "bytes": 159474,
+  "sha256": "b05ba438cdcc8dc3c36d9673431ca09ca8a033e86e4b3651b3eeb711426ab786",
+  "saved": "data/raw/hud_picture_STATE_2024_2020census.xlsx",
+  "head": null,
+  "ts_utc": "2026-10-19T23:32:13.432488+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/CBSA_2024_2020census.xlsx",
+  "status": 200,
+  "bytes": 1782381,
+  "sha256": "2c1c2ba28ffdba6a351f996697ed90f23914ae02995553f1fd5bc4dfc371b8a1",
+  "saved": "data/raw/hud_picture_CBSA_2024_2020census.xlsx",
+  "head": null,
+  "ts_utc": "2026-10-19T23:32:13.781316+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/COUNTY_2024_2020census.xlsx",
+  "status": 200,
+  "bytes": 4832959,
+  "sha256": "64245fc6a7ddf0260238f1815f0ee34b6f0070f59bb9d2ffed8becb02928b35a",
+  "saved": "data/raw/hud_picture_COUNTY_2024_2020census.xlsx",
+  "head": null,
+  "ts_utc": "2026-10-19T23:32:14.151746+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/US_2023_2020census.xlsx",
+  "status": 200,
+  "bytes": 18116,
+  "sha256": "713dd45523092eb808c6cb6a1175264a81ea42f435a46a8170e8daad3d145e8b",
+  "saved": "data/raw/hud_picture_US_2023_2020census.xlsx",
+  "head": null,
+  "ts_utc": "2026-10-19T23:32:14.271737+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/STATE_2023_2020census.xlsx",
+  "status": 200,
+  "bytes": 160758,
+  "sha256": "2f206d1553bf30abdc69d32634cb171c22a5e6c1321741b81110cdaaac5ae89c",
+  "saved": "data/raw/hud_picture_STATE_2023_2020census.xlsx",
+  "head": null,
+  "ts_utc": "2026-10-19T23:32:14.440414+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/CBSA_2023_2020census.xlsx",
+  "status": 200,
+  "bytes": 1806461,
+  "sha256": "5408a658ed101e5f14a9d0493a96c41d0e5fcd3732d5070b57b5d279ceb35b42",
+  "saved": "data/raw/hud_picture_CBSA_2023_2020census.xlsx",
+  "head": null,
+  "ts_utc": "2026-10-19T23:32:14.765834+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/portal/datasets/pictures/files/COUNTY_2023_2020census.xlsx",
+  "status": 200,
+  "bytes": 4848787,
+  "sha256": "9b82b7e8955255fa7bba8ffd8b0d2b1588563969b3279bc9bca616989481937c",
+  "saved": "data/raw/hud_picture_COUNTY_2023_2020census.xlsx",
+  "head": null,
+  "ts_utc": "2026-10-19T23:32:15.123405+00:00"
+ },
+ {
+  "step": "hmda_diag",
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=38300&actions_taken=1&loan_purposes=1",
+  "status": 200,
+  "bytes": 8722582,
+  "head": "activity_year,lei,derived_msa-md,state_code,county_code,census_tract,conforming_loan_limit,derived_loan_product_type,derived_dwelling_category,derived_ethnicity,derived_race,derived_sex,action_taken,purchaser_type,preapproval,loan_type,loan_purpose,lien_status,reverse_mortgage,open-end_line_of_credi",
+  "ts_utc": "2026-10-19T23:32:16.121309+00:00"
+ },
+ {
+  "step": "hmda_diag",
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2023&msamds=38300&actions_taken=1&loan_purposes=1",
+  "status": 200,
+  "bytes": 8512842,
+  "head": "activity_year,lei,derived_msa-md,state_code,county_code,census_tract,conforming_loan_limit,derived_loan_product_type,derived_dwelling_category,derived_ethnicity,derived_race,derived_sex,action_taken,purchaser_type,preapproval,loan_type,loan_purpose,lien_status,reverse_mortgage,open-end_line_of_credi",
+  "ts_utc": "2026-10-19T23:32:16.707355+00:00"
+ },
+ {
+  "step": "hmda_diag",
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=38300&actions_taken=1,2,3&loan_purposes=1&lien_statuses=1&construction_methods=1&total_units=1",
+  "status": 400,
+  "bytes": 166,
+  "head": "{\"errorType\":\"provide-two-or-less-filter-criteria\",\"message\":\"Provide two or less filter criterias to perform aggregations (eg. actions_taken, races, genders, etc.)\"}",
+  "ts_utc": "2026-10-19T23:32:16.830569+00:00"
+ },
+ {
+  "step": "hmda_diag",
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2023&states=PA&actions_taken=1&loan_purposes=1",
+  "status": 200,
+  "bytes": 45239376,
+  "head": "activity_year,lei,derived_msa-md,state_code,county_code,census_tract,conforming_loan_limit,derived_loan_product_type,derived_dwelling_category,derived_ethnicity,derived_race,derived_sex,action_taken,purchaser_type,preapproval,loan_type,loan_purpose,lien_status,reverse_mortgage,open-end_line_of_credi",
+  "ts_utc": "2026-10-19T23:32:18.141618+00:00"
+ },
+ {
+  "step": "hmda_diag_agg",
+  "status": 200,
+  "head": "{\"parameters\":{\"msamd\":\"38300\",\"actions_taken\":\"1,3\",\"loan_purposes\":\"1\"},\"aggregations\":[{\"count\":2502,\"sum\":5.0825E8,\"actions_taken\":\"3\",\"loan_purposes\":\"1\"},{\"count\":22698,\"sum\":6.01653E9,\"actions_taken\":\"1\",\"loan_purposes\":\"1\"}],\"servedFrom\":\"cache\"}",
+  "ts_utc": "2026-10-19T23:32:18.216614+00:00"
+ },
+ {
+  "step": "hmda_year2",
+  "year": "2024",
+  "ts_utc": "2026-10-19T23:32:18.862618+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=35620&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 0,
+  "ts_utc": "2026-10-19T23:32:18.992823+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=31080&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 0,
+  "ts_utc": "2026-10-19T23:32:19.320697+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=16980&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 0,
+  "ts_utc": "2026-10-19T23:32:19.619575+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=19100&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 0,
+  "ts_utc": "2026-10-19T23:32:20.211283+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=26420&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 96090,
+  "ts_utc": "2026-10-19T23:32:56.687248+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=33100&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 0,
+  "ts_utc": "2026-10-19T23:32:57.042953+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=47900&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 0,
+  "ts_utc": "2026-10-19T23:32:57.338732+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=12060&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 0,
+  "ts_utc": "2026-10-19T23:32:57.672877+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=37980&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 0,
+  "ts_utc": "2026-10-19T23:32:57.984856+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=38060&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 68481,
+  "ts_utc": "2026-10-19T23:33:01.064709+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=14460&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 0,
+  "ts_utc": "2026-10-19T23:33:01.388049+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=40140&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 46378,
+  "ts_utc": "2026-10-19T23:33:14.914233+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=41860&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 0,
+  "ts_utc": "2026-10-19T23:33:15.228807+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=19820&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 0,
+  "ts_utc": "2026-10-19T23:33:15.620216+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=42660&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 0,
+  "ts_utc": "2026-10-19T23:33:15.965584+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=33460&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 45847,
+  "ts_utc": "2026-10-19T23:33:29.596175+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=45300&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 0,
+  "ts_utc": "2026-10-19T23:33:29.962613+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=41740&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 24067,
+  "ts_utc": "2026-10-19T23:33:36.110299+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=19740&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 42105,
+  "ts_utc": "2026-10-19T23:33:46.443503+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=36740&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 41518,
+  "ts_utc": "2026-10-19T23:33:57.369985+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=16740&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 42467,
+  "ts_utc": "2026-10-19T23:34:07.611731+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=12580&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 32676,
+  "ts_utc": "2026-10-19T23:34:10.157674+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=41180&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 36653,
+  "ts_utc": "2026-10-19T23:34:19.426709+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=41700&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 40162,
+  "ts_utc": "2026-10-19T23:34:27.260716+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=12420&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 37596,
+  "ts_utc": "2026-10-19T23:34:33.043804+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=38900&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 26402,
+  "ts_utc": "2026-10-19T23:34:38.541593+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=40900&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 25798,
+  "ts_utc": "2026-10-19T23:34:40.318170+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=38300&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 23845,
+  "ts_utc": "2026-10-19T23:34:45.469191+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=29820&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 33891,
+  "ts_utc": "2026-10-19T23:34:50.551952+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=17140&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 28310,
+  "ts_utc": "2026-10-19T23:34:56.492320+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=28140&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 29476,
+  "ts_utc": "2026-10-19T23:35:02.098604+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=18140&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 27797,
+  "ts_utc": "2026-10-19T23:35:06.919860+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=26900&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 33421,
+  "ts_utc": "2026-10-19T23:35:13.161624+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=17410&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 25186,
+  "ts_utc": "2026-10-19T23:35:18.134837+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=34980&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 32554,
+  "ts_utc": "2026-10-19T23:35:23.946542+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=41940&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 12922,
+  "ts_utc": "2026-10-19T23:35:26.239423+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=47260&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 25045,
+  "ts_utc": "2026-10-19T23:35:28.900140+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=27260&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 27676,
+  "ts_utc": "2026-10-19T23:35:33.009384+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=39300&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 14980,
+  "ts_utc": "2026-10-19T23:35:36.387110+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=33340&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 16659,
+  "ts_utc": "2026-10-19T23:35:39.851660+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=39580&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 24691,
+  "ts_utc": "2026-10-19T23:35:42.957890+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=36420&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 20380,
+  "ts_utc": "2026-10-19T23:35:46.778666+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=31140&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 18210,
+  "ts_utc": "2026-10-19T23:35:50.016622+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=40060&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 17598,
+  "ts_utc": "2026-10-19T23:35:51.322747+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=32820&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 14737,
+  "ts_utc": "2026-10-19T23:35:54.065239+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=41620&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 14001,
+  "ts_utc": "2026-10-19T23:35:56.580183+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=13820&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 14446,
+  "ts_utc": "2026-10-19T23:35:59.608391+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=23420&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 10481,
+  "ts_utc": "2026-10-19T23:36:00.810631+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=24340&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 12591,
+  "ts_utc": "2026-10-19T23:36:03.936430+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=25540&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 11286,
+  "ts_utc": "2026-10-19T23:36:06.447067+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=15380&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 10333,
+  "ts_utc": "2026-10-19T23:36:08.416423+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=46060&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 12510,
+  "ts_utc": "2026-10-19T23:36:10.068904+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=46140&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 12753,
+  "ts_utc": "2026-10-19T23:36:12.061681+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=40380&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 9620,
+  "ts_utc": "2026-10-19T23:36:13.584633+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=36540&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 13034,
+  "ts_utc": "2026-10-19T23:36:16.096245+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=46520&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 6904,
+  "ts_utc": "2026-10-19T23:36:17.535823+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=24860&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 13036,
+  "ts_utc": "2026-10-19T23:36:19.589589+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=14860&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 8626,
+  "ts_utc": "2026-10-19T23:36:21.148155+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=35380&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 7753,
+  "ts_utc": "2026-10-19T23:36:22.864088+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=28940&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 12575,
+  "ts_utc": "2026-10-19T23:36:24.935308+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=35840&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 17973,
+  "ts_utc": "2026-10-19T23:36:27.333006+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=10740&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 10614,
+  "ts_utc": "2026-10-19T23:36:28.870126+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=12540&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 8705,
+  "ts_utc": "2026-10-19T23:36:29.958236+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=32580&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 5672,
+  "ts_utc": "2026-10-19T23:36:30.937927+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=10580&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 8670,
+  "ts_utc": "2026-10-19T23:36:32.464567+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=10900&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 9548,
+  "ts_utc": "2026-10-19T23:36:34.286185+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=12940&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 9123,
+  "ts_utc": "2026-10-19T23:36:35.909042+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=49340&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 8842,
+  "ts_utc": "2026-10-19T23:36:37.698703+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=21340&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 9078,
+  "ts_utc": "2026-10-19T23:36:39.195353+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=17900&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 12451,
+  "ts_utc": "2026-10-19T23:36:40.880601+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=16700&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 15230,
+  "ts_utc": "2026-10-19T23:36:42.649062+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=15980&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 17407,
+  "ts_utc": "2026-10-19T23:36:44.705208+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=29460&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 16787,
+  "ts_utc": "2026-10-19T23:36:46.531391+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=14260&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 13013,
+  "ts_utc": "2026-10-19T23:36:48.318843+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=37100&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 5332,
+  "ts_utc": "2026-10-19T23:36:49.161172+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=19430&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 11005,
+  "ts_utc": "2026-10-19T23:36:50.427266+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=44700&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 8135,
+  "ts_utc": "2026-10-19T23:36:51.253953+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=24660&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 8741,
+  "ts_utc": "2026-10-19T23:36:52.553670+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=17820&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 12304,
+  "ts_utc": "2026-10-19T23:36:54.033541+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=30780&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 10531,
+  "ts_utc": "2026-10-19T23:36:55.785305+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=39340&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 10466,
+  "ts_utc": "2026-10-19T23:36:56.846892+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=19780&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 11038,
+  "ts_utc": "2026-10-19T23:36:59.067194+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=19660&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 12469,
+  "ts_utc": "2026-10-19T23:37:00.463077+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=28880&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 6577,
+  "ts_utc": "2026-10-19T23:37:01.665429+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=31540&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 7576,
+  "ts_utc": "2026-10-19T23:37:02.916908+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=49180&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 8467,
+  "ts_utc": "2026-10-19T23:37:03.896804+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=10420&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 8224,
+  "ts_utc": "2026-10-19T23:37:04.990667+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=36260&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 7838,
+  "ts_utc": "2026-10-19T23:37:05.885488+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=48620&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 8617,
+  "ts_utc": "2026-10-19T23:37:07.230774+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=37340&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 11098,
+  "ts_utc": "2026-10-19T23:37:08.553564+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=45060&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 5711,
+  "ts_utc": "2026-10-19T23:37:09.531711+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=12260&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 8030,
+  "ts_utc": "2026-10-19T23:37:10.809319+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=20500&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 7133,
+  "ts_utc": "2026-10-19T23:37:11.703862+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=25420&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 6589,
+  "ts_utc": "2026-10-19T23:37:12.761521+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=27140&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 6214,
+  "ts_utc": "2026-10-19T23:37:14.015374+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=22220&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 10221,
+  "ts_utc": "2026-10-19T23:37:15.266071+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=44060&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 6483,
+  "ts_utc": "2026-10-19T23:37:16.393517+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=45780&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 6092,
+  "ts_utc": "2026-10-19T23:37:17.433567+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=16860&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 7786,
+  "ts_utc": "2026-10-19T23:37:18.579008+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=35300&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 5220,
+  "ts_utc": "2026-10-19T23:37:19.374580+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=39900&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 6300,
+  "ts_utc": "2026-10-19T23:37:20.134610+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=42540&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 5805,
+  "ts_utc": "2026-10-19T23:37:21.090858+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=38860&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 6743,
+  "ts_utc": "2026-10-19T23:37:22.525391+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=29540&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4581,
+  "ts_utc": "2026-10-19T23:37:23.304566+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=33700&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4217,
+  "ts_utc": "2026-10-19T23:37:23.899468+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=38940&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 10458,
+  "ts_utc": "2026-10-19T23:37:25.116318+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=26620&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 9541,
+  "ts_utc": "2026-10-19T23:37:26.319472+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=37860&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 8910,
+  "ts_utc": "2026-10-19T23:37:27.473116+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=30460&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 5875,
+  "ts_utc": "2026-10-19T23:37:28.416454+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=28660&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 7680,
+  "ts_utc": "2026-10-19T23:37:29.335035+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=44180&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 6721,
+  "ts_utc": "2026-10-19T23:37:30.395009+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=42220&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3528,
+  "ts_utc": "2026-10-19T23:37:31.099353+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=47300&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3315,
+  "ts_utc": "2026-10-19T23:37:31.616805+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=48900&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 9374,
+  "ts_utc": "2026-10-19T23:37:32.733288+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=29620&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 5083,
+  "ts_utc": "2026-10-19T23:37:33.615943+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=49620&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 5714,
+  "ts_utc": "2026-10-19T23:37:34.357007+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=44140&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4512,
+  "ts_utc": "2026-10-19T23:37:35.231923+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=23060&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 6435,
+  "ts_utc": "2026-10-19T23:37:36.300464+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=47930&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4763,
+  "ts_utc": "2026-10-19T23:37:37.023974+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=46700&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4398,
+  "ts_utc": "2026-10-19T23:37:37.662659+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=18580&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 5285,
+  "ts_utc": "2026-10-19T23:37:38.595480+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=42200&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 2201,
+  "ts_utc": "2026-10-19T23:37:39.093102+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=41420&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4051,
+  "ts_utc": "2026-10-19T23:37:39.719832+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=39740&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4157,
+  "ts_utc": "2026-10-19T23:37:40.575117+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=41500&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 2008,
+  "ts_utc": "2026-10-19T23:37:41.019188+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=15180&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3035,
+  "ts_utc": "2026-10-19T23:37:41.565225+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=42340&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 6580,
+  "ts_utc": "2026-10-19T23:37:42.435977+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=31700&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4243,
+  "ts_utc": "2026-10-19T23:37:43.542765+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=36100&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 8743,
+  "ts_utc": "2026-10-19T23:37:44.645429+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=25060&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 5673,
+  "ts_utc": "2026-10-19T23:37:45.505323+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=49660&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4408,
+  "ts_utc": "2026-10-19T23:37:46.237531+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=11700&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4141,
+  "ts_utc": "2026-10-19T23:37:46.933544+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=29180&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4464,
+  "ts_utc": "2026-10-19T23:37:47.696026+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=34940&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 6468,
+  "ts_utc": "2026-10-19T23:37:48.509609+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=34820&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 11192,
+  "ts_utc": "2026-10-19T23:37:49.573235+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=33660&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4394,
+  "ts_utc": "2026-10-19T23:37:50.277835+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=11260&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 5119,
+  "ts_utc": "2026-10-19T23:37:51.143143+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=22420&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4181,
+  "ts_utc": "2026-10-19T23:37:51.988402+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=15940&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4425,
+  "ts_utc": "2026-10-19T23:37:52.650740+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=13140&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3334,
+  "ts_utc": "2026-10-19T23:37:53.295512+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=45220&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3875,
+  "ts_utc": "2026-10-19T23:37:54.469967+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=43900&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 6769,
+  "ts_utc": "2026-10-19T23:37:55.209430+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=22180&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 6084,
+  "ts_utc": "2026-10-19T23:37:55.985480+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=45940&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3695,
+  "ts_utc": "2026-10-19T23:37:56.779240+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=33860&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4755,
+  "ts_utc": "2026-10-19T23:37:57.559920+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=43340&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3791,
+  "ts_utc": "2026-10-19T23:37:58.274295+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=21660&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3231,
+  "ts_utc": "2026-10-19T23:37:58.898564+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=19340&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4760,
+  "ts_utc": "2026-10-19T23:37:59.851140+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=22660&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4962,
+  "ts_utc": "2026-10-19T23:38:00.533919+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=11460&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3344,
+  "ts_utc": "2026-10-19T23:38:01.251402+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=25860&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4208,
+  "ts_utc": "2026-10-19T23:38:01.903178+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=12100&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 5285,
+  "ts_utc": "2026-10-19T23:38:02.890564+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=24540&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 5834,
+  "ts_utc": "2026-10-19T23:38:03.623415+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=31180&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 5121,
+  "ts_utc": "2026-10-19T23:38:04.394690+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=26580&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3159,
+  "ts_utc": "2026-10-19T23:38:05.093005+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=37900&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4568,
+  "ts_utc": "2026-10-19T23:38:05.894943+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=23540&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3270,
+  "ts_utc": "2026-10-19T23:38:06.529466+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=30700&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4295,
+  "ts_utc": "2026-10-19T23:38:07.230978+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=17300&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 5570,
+  "ts_utc": "2026-10-19T23:38:08.048983+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=40420&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3775,
+  "ts_utc": "2026-10-19T23:38:08.764361+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=24580&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3648,
+  "ts_utc": "2026-10-19T23:38:09.709380+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=14500&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3557,
+  "ts_utc": "2026-10-19T23:38:10.244920+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=43780&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3731,
+  "ts_utc": "2026-10-19T23:38:10.953513+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=17980&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3328,
+  "ts_utc": "2026-10-19T23:38:11.519944+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=28420&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3592,
+  "ts_utc": "2026-10-19T23:38:12.233306+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=40220&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3783,
+  "ts_utc": "2026-10-19T23:38:12.758004+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=28700&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3306,
+  "ts_utc": "2026-10-19T23:38:13.351835+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=25180&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4945,
+  "ts_utc": "2026-10-19T23:38:13.970060+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=18880&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 6520,
+  "ts_utc": "2026-10-19T23:38:14.799454+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=43620&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4205,
+  "ts_utc": "2026-10-19T23:38:15.655254+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=47380&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3157,
+  "ts_utc": "2026-10-19T23:38:16.317372+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=36500&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3365,
+  "ts_utc": "2026-10-19T23:38:17.060663+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=32900&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 2171,
+  "ts_utc": "2026-10-19T23:38:17.537808+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=30980&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 2704,
+  "ts_utc": "2026-10-19T23:38:18.197580+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=46540&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 2300,
+  "ts_utc": "2026-10-19T23:38:18.739392+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=17780&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3056,
+  "ts_utc": "2026-10-19T23:38:19.325183+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=35980&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 2909,
+  "ts_utc": "2026-10-19T23:38:19.955804+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=46220&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 2874,
+  "ts_utc": "2026-10-19T23:38:20.518540+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=42020&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 2256,
+  "ts_utc": "2026-10-19T23:38:21.000866+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=20260&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3085,
+  "ts_utc": "2026-10-19T23:38:21.652970+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=14740&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3495,
+  "ts_utc": "2026-10-19T23:38:22.277889+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=16300&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3829,
+  "ts_utc": "2026-10-19T23:38:23.088944+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=43640&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3179,
+  "ts_utc": "2026-10-19T23:38:23.610192+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=11100&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3243,
+  "ts_utc": "2026-10-19T23:38:24.238705+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=29700&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 2058,
+  "ts_utc": "2026-10-19T23:38:24.735600+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=21780&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3468,
+  "ts_utc": "2026-10-19T23:38:25.433155+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=22020&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3199,
+  "ts_utc": "2026-10-19T23:38:26.199709+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=21500&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 2224,
+  "ts_utc": "2026-10-19T23:38:26.726858+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=31340&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3164,
+  "ts_utc": "2026-10-19T23:38:27.288817+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=28020&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 2829,
+  "ts_utc": "2026-10-19T23:38:27.965190+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=13460&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3681,
+  "ts_utc": "2026-10-19T23:38:28.571230+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=42100&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 1229,
+  "ts_utc": "2026-10-19T23:38:29.002340+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=19300&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 5415,
+  "ts_utc": "2026-10-19T23:38:29.751820+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=49420&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 1830,
+  "ts_utc": "2026-10-19T23:38:30.244555+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=39150&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 3001,
+  "ts_utc": "2026-10-19T23:38:30.910144+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=46340&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 2665,
+  "ts_utc": "2026-10-19T23:38:31.479161+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=11540&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 2993,
+  "ts_utc": "2026-10-19T23:38:32.155052+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=13780&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 1953,
+  "ts_utc": "2026-10-19T23:38:32.780077+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=29340&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 1894,
+  "ts_utc": "2026-10-19T23:38:33.274050+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=16580&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 2434,
+  "ts_utc": "2026-10-19T23:38:33.866016+00:00"
+ },
+ {
+  "step": "hmda_agg",
+  "n": 200,
+  "ts_utc": "2026-10-19T23:38:34.075477+00:00"
+ },
+ {
+  "step": "DONE2",
+  "ts_utc": "2026-10-19T23:38:34.077549+00:00"
  }
 ]
