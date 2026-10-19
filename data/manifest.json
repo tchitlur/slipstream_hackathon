@@ -2429,5 +2429,544 @@
  {
   "step": "DONE3",
   "ts_utc": "2026-10-19T23:45:26.523584+00:00"
+ },
+ {
+  "step": "bps_dir",
+  "url": "https://www2.census.gov/econ/bps/Metro%20(ending%202023)/",
+  "n": 908,
+  "sample": [
+   "ma0001c.txt",
+   "ma0001y.txt",
+   "ma0002c.txt",
+   "ma0002y.txt",
+   "ma0003c.txt",
+   "ma9812y.txt",
+   "ma9901c.txt",
+   "ma9901y.txt",
+   "ma9902c.txt",
+   "ma9902y.txt",
+   "ma9903c.txt",
+   "ma9903y.txt",
+   "ma9904c.txt",
+   "ma9904y.txt",
+   "ma9905c.txt",
+   "ma9905y.txt",
+   "ma9906c.txt",
+   "ma9906y.txt",
+   "ma9907c.txt",
+   "ma9907y.txt",
+   "ma9908c.txt",
+   "ma9908y.txt",
+   "ma9909c.txt",
+   "ma9909y.txt",
+   "ma9910c.txt",
+   "ma9910y.txt",
+   "ma9911c.txt",
+   "ma9911y.txt",
+   "ma9912c.txt",
+   "ma9912y.txt"
+  ],
+  "ts_utc": "2026-10-19T23:47:23.792442+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro%20(ending%202023)/ma1912c.txt",
+  "status": 200,
+  "bytes": 38690,
+  "saved": "data/raw/bps_ma1912c.txt",
+  "ts_utc": "2026-10-19T23:47:24.164713+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro%20(ending%202023)/ma1912y.txt",
+  "status": 200,
+  "bytes": 45986,
+  "saved": "data/raw/bps_ma1912y.txt",
+  "ts_utc": "2026-10-19T23:47:24.534850+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro%20(ending%202023)/ma2012c.txt",
+  "status": 200,
+  "bytes": 39117,
+  "saved": "data/raw/bps_ma2012c.txt",
+  "ts_utc": "2026-10-19T23:47:24.871068+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro%20(ending%202023)/ma2012y.txt",
+  "status": 200,
+  "bytes": 46172,
+  "saved": "data/raw/bps_ma2012y.txt",
+  "ts_utc": "2026-10-19T23:47:25.239185+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro%20(ending%202023)/ma2019a.txt",
+  "status": 200,
+  "bytes": 49842,
+  "saved": "data/raw/bps_ma2019a.txt",
+  "ts_utc": "2026-10-19T23:47:25.304456+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro%20(ending%202023)/ma2020a.txt",
+  "status": 200,
+  "bytes": 49956,
+  "saved": "data/raw/bps_ma2020a.txt",
+  "ts_utc": "2026-10-19T23:47:25.443883+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro%20(ending%202023)/ma2021a.txt",
+  "status": 200,
+  "bytes": 50406,
+  "saved": "data/raw/bps_ma2021a.txt",
+  "ts_utc": "2026-10-19T23:47:25.522026+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro%20(ending%202023)/ma2022a.txt",
+  "status": 200,
+  "bytes": 50868,
+  "saved": "data/raw/bps_ma2022a.txt",
+  "ts_utc": "2026-10-19T23:47:25.617256+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro%20(ending%202023)/ma2023a.txt",
+  "status": 200,
+  "bytes": 50400,
+  "saved": "data/raw/bps_ma2023a.txt",
+  "ts_utc": "2026-10-19T23:47:25.697624+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro%20(ending%202023)/ma2112c.txt",
+  "status": 200,
+  "bytes": 39392,
+  "saved": "data/raw/bps_ma2112c.txt",
+  "ts_utc": "2026-10-19T23:47:26.081999+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro%20(ending%202023)/ma2112y.txt",
+  "status": 200,
+  "bytes": 46407,
+  "saved": "data/raw/bps_ma2112y.txt",
+  "ts_utc": "2026-10-19T23:47:26.652033+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro%20(ending%202023)/ma2212c.txt",
+  "status": 200,
+  "bytes": 40696,
+  "saved": "data/raw/bps_ma2212c.txt",
+  "ts_utc": "2026-10-19T23:47:26.967297+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro%20(ending%202023)/ma2212y.txt",
+  "status": 200,
+  "bytes": 49999,
+  "saved": "data/raw/bps_ma2212y.txt",
+  "ts_utc": "2026-10-19T23:47:27.329429+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro%20(ending%202023)/ma2312c.txt",
+  "status": 200,
+  "bytes": 40946,
+  "saved": "data/raw/bps_ma2312c.txt",
+  "ts_utc": "2026-10-19T23:47:27.408163+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/Metro%20(ending%202023)/ma2312y.txt",
+  "status": 200,
+  "bytes": 49666,
+  "saved": "data/raw/bps_ma2312y.txt",
+  "ts_utc": "2026-10-19T23:47:27.694106+00:00"
+ },
+ {
+  "step": "bps_dir",
+  "url": "https://www2.census.gov/econ/bps/CBSA%20(beginning%20Jan%202024)/",
+  "n": 66,
+  "sample": [
+   "cbsa2024a.txt",
+   "cbsa2025a.txt",
+   "cbsa2401c.txt",
+   "cbsa2401y.txt",
+   "cbsa2402c.txt",
+   "cbsa2508y.txt",
+   "cbsa2509c.txt",
+   "cbsa2509y.txt",
+   "cbsa2510c.txt",
+   "cbsa2510y.txt",
+   "cbsa2511c.txt",
+   "cbsa2511y.txt",
+   "cbsa2512c.txt",
+   "cbsa2512y.txt",
+   "cbsa2601c.txt",
+   "cbsa2601y.txt",
+   "cbsa2602c.txt",
+   "cbsa2602y.txt",
+   "cbsa2603c.txt",
+   "cbsa2603y.txt",
+   "cbsa2604c.txt",
+   "cbsa2604y.txt",
+   "cbsa2605c.txt",
+   "cbsa2605y.txt",
+   "cbsa2606c.txt",
+   "cbsa2606y.txt",
+   "cbsa2607c.txt",
+   "cbsa2607y.txt",
+   "cbsa2608c.txt",
+   "cbsa2608y.txt"
+  ],
+  "ts_utc": "2026-10-19T23:47:27.744812+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/CBSA%20(beginning%20Jan%202024)/cbsa2024a.txt",
+  "status": 200,
+  "bytes": 105219,
+  "saved": "data/raw/bps_cbsa2024a.txt",
+  "ts_utc": "2026-10-19T23:47:27.827616+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/CBSA%20(beginning%20Jan%202024)/cbsa2025a.txt",
+  "status": 200,
+  "bytes": 106379,
+  "saved": "data/raw/bps_cbsa2025a.txt",
+  "ts_utc": "2026-10-19T23:47:27.928857+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/CBSA%20(beginning%20Jan%202024)/cbsa2412c.txt",
+  "status": 200,
+  "bytes": 88445,
+  "saved": "data/raw/bps_cbsa2412c.txt",
+  "ts_utc": "2026-10-19T23:47:28.054098+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/CBSA%20(beginning%20Jan%202024)/cbsa2412y.txt",
+  "status": 200,
+  "bytes": 103376,
+  "saved": "data/raw/bps_cbsa2412y.txt",
+  "ts_utc": "2026-10-19T23:47:28.410356+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/CBSA%20(beginning%20Jan%202024)/cbsa2512c.txt",
+  "status": 200,
+  "bytes": 88760,
+  "saved": "data/raw/bps_cbsa2512c.txt",
+  "ts_utc": "2026-10-19T23:47:28.488887+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/CBSA%20(beginning%20Jan%202024)/cbsa2512y.txt",
+  "status": 200,
+  "bytes": 103815,
+  "saved": "data/raw/bps_cbsa2512y.txt",
+  "ts_utc": "2026-10-19T23:47:29.135017+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/CBSA%20(beginning%20Jan%202024)/cbsa2607c.txt",
+  "status": 200,
+  "bytes": 89773,
+  "saved": "data/raw/bps_cbsa2607c.txt",
+  "ts_utc": "2026-10-19T23:47:29.207355+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/CBSA%20(beginning%20Jan%202024)/cbsa2607y.txt",
+  "status": 200,
+  "bytes": 99584,
+  "saved": "data/raw/bps_cbsa2607y.txt",
+  "ts_utc": "2026-10-19T23:47:29.330834+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/CBSA%20(beginning%20Jan%202024)/cbsa2608c.txt",
+  "status": 200,
+  "bytes": 89319,
+  "saved": "data/raw/bps_cbsa2608c.txt",
+  "ts_utc": "2026-10-19T23:47:29.420018+00:00"
+ },
+ {
+  "url": "https://www2.census.gov/econ/bps/CBSA%20(beginning%20Jan%202024)/cbsa2608y.txt",
+  "status": 200,
+  "bytes": 100441,
+  "saved": "data/raw/bps_cbsa2608y.txt",
+  "ts_utc": "2026-10-19T23:47:29.767415+00:00"
+ },
+ {
+  "step": "lihtc_property_hrefs",
+  "hrefs": [
+   "/lihtc/lihtcpub.zip"
+  ],
+  "ts_utc": "2026-10-19T23:47:30.361367+00:00"
+ },
+ {
+  "url": "https://www.huduser.gov/lihtc/lihtcpub.zip",
+  "status": 200,
+  "bytes": 29421665,
+  "saved": "data/raw/lihtc_lihtcpub.zip",
+  "ts_utc": "2026-10-19T23:47:31.645043+00:00"
+ },
+ {
+  "step": "lihtc_zip",
+  "files": [
+   "LIHTCPUB.accdb",
+   "LIHTC Data Dictionary 2024.pdf",
+   "LIHTCPUB.xlsx",
+   "LIHTCPUB_BIN.xlsx"
+  ],
+  "ts_utc": "2026-10-19T23:47:31.649215+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=12054&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 65344,
+  "division": "Atlanta-Sandy Springs-Roswell, GA",
+  "ts_utc": "2026-10-19T23:47:36.701581+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=31924&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 20025,
+  "division": "Marietta, GA",
+  "ts_utc": "2026-10-19T23:47:38.262694+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=14454&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 17195,
+  "division": "Boston, MA",
+  "ts_utc": "2026-10-19T23:47:39.774751+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=15764&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 20580,
+  "division": "Cambridge-Newton-Framingham, MA",
+  "ts_utc": "2026-10-19T23:47:41.988400+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=40484&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 4782,
+  "division": "Rockingham County-Strafford County, NH",
+  "ts_utc": "2026-10-19T23:47:42.761247+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=16984&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 75424,
+  "division": "Chicago-Naperville-Schaumburg, IL",
+  "ts_utc": "2026-10-19T23:47:48.228641+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=20994&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 9877,
+  "division": "Elgin, IL",
+  "ts_utc": "2026-10-19T23:47:49.137949+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=29404&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 7719,
+  "division": "Lake County, IL",
+  "ts_utc": "2026-10-19T23:47:49.957734+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=29414&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 9070,
+  "division": "Lake County-Porter County-Jasper County, IN",
+  "ts_utc": "2026-10-19T23:47:50.879487+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=19124&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 80226,
+  "division": "Dallas-Plano-Irving, TX",
+  "ts_utc": "2026-10-19T23:47:53.793238+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=23104&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 33922,
+  "division": "Fort Worth-Arlington-Grapevine, TX",
+  "ts_utc": "2026-10-19T23:47:55.418553+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=19804&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 18340,
+  "division": "Detroit-Dearborn-Livonia, MI",
+  "ts_utc": "2026-10-19T23:47:57.204969+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=47664&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 30073,
+  "division": "Warren-Troy-Farmington Hills, MI",
+  "ts_utc": "2026-10-19T23:47:59.561761+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=11244&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 18073,
+  "division": "Anaheim-Santa Ana-Irvine, CA",
+  "ts_utc": "2026-10-19T23:48:01.372402+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=31084&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 47844,
+  "division": "Los Angeles-Long Beach-Glendale, CA",
+  "ts_utc": "2026-10-19T23:48:04.831891+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=22744&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 22678,
+  "division": "Fort Lauderdale-Pompano Beach-Sunrise, FL",
+  "ts_utc": "2026-10-19T23:48:06.741566+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=33124&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 24479,
+  "division": "Miami-Miami Beach-Kendall, FL",
+  "ts_utc": "2026-10-19T23:48:08.653961+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=48424&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 17458,
+  "division": "West Palm Beach-Boca Raton-Delray Beach, FL",
+  "ts_utc": "2026-10-19T23:48:10.149822+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=29484&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 25208,
+  "division": "Lakewood-New Brunswick, NJ",
+  "ts_utc": "2026-10-19T23:48:12.387453+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=35004&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 24153,
+  "division": "Nassau County-Suffolk County, NY",
+  "ts_utc": "2026-10-19T23:48:14.408880+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=35084&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 19129,
+  "division": "Newark, NJ",
+  "ts_utc": "2026-10-19T23:48:16.029096+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=35614&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 59007,
+  "division": "New York-Jersey City-White Plains, NY-NJ",
+  "ts_utc": "2026-10-19T23:48:19.781866+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=15804&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 14838,
+  "division": "Camden, NJ",
+  "ts_utc": "2026-10-19T23:48:21.087679+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=33874&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 19728,
+  "division": "Montgomery County-Bucks County-Chester County, PA",
+  "ts_utc": "2026-10-19T23:48:22.800718+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=37964&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 20148,
+  "division": "Philadelphia, PA",
+  "ts_utc": "2026-10-19T23:48:24.398873+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=48864&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 8021,
+  "division": "Wilmington, DE-MD-NJ",
+  "ts_utc": "2026-10-19T23:48:25.225729+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=36084&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 20772,
+  "division": "Oakland-Fremont-Berkeley, CA",
+  "ts_utc": "2026-10-19T23:48:26.789955+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=41884&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 8342,
+  "division": "San Francisco-San Mateo-Redwood City, CA",
+  "ts_utc": "2026-10-19T23:48:27.638588+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=42034&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 1663,
+  "division": "San Rafael, CA",
+  "ts_utc": "2026-10-19T23:48:28.102231+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=21794&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 9650,
+  "division": "Everett, WA",
+  "ts_utc": "2026-10-19T23:48:29.141779+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=42644&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 22683,
+  "division": "Seattle-Bellevue-Kent, WA",
+  "ts_utc": "2026-10-19T23:48:30.819493+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=45104&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 10536,
+  "division": "Tacoma-Lakewood, WA",
+  "ts_utc": "2026-10-19T23:48:31.842753+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=41304&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 11727,
+  "division": "St. Petersburg-Clearwater-Largo, FL",
+  "ts_utc": "2026-10-19T23:48:32.995327+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=45294&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 37829,
+  "division": "Tampa, FL",
+  "ts_utc": "2026-10-19T23:48:35.698264+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=11694&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 37519,
+  "division": "Arlington-Alexandria-Reston, VA-WV",
+  "ts_utc": "2026-10-19T23:48:38.190337+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=23224&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 13501,
+  "division": "Frederick-Gaithersburg-Bethesda, MD",
+  "ts_utc": "2026-10-19T23:48:39.275021+00:00"
+ },
+ {
+  "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&msamds=47764&actions_taken=1,2,3&loan_purposes=1",
+  "status": 200,
+  "rows": 19787,
+  "division": "Washington, DC-MD",
+  "ts_utc": "2026-10-19T23:48:40.725282+00:00"
+ },
+ {
+  "step": "DONE4",
+  "n": 13,
+  "ts_utc": "2026-10-19T23:48:40.943358+00:00"
  }
 ]
